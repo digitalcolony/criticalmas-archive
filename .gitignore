@@ -1,0 +1,45 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+build/
+output/
+.astro/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Conversion script outputs
+conversion-script/output/
+
+# Source uploads (images copied to astro-site/public/)
+uploads/
+
+# Temporary files
+*.tmp
+*.log
+conversion-log.txt
+
+# Cache
+.cache/
+.turbo/
+
+# Keep the WordPress XML export for reference
+!criticalmas.WordPress.2025-11-10.xml

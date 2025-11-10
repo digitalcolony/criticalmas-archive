@@ -1,0 +1,19 @@
+[build]
+  # Base directory is the astro-site folder
+  base = "astro-site"
+  
+  # Build command
+  command = "npm run build"
+  
+  # Publish directory (relative to base)
+  publish = "dist"
+
+# Environment variables (if needed)
+[build.environment]
+  NODE_VERSION = "20"
+
+# Redirect rules (optional - for SPA fallback if needed)
+[[redirects]]
+  from = "/*"
+  to = "/404"
+  status = 404
