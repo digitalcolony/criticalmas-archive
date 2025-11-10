@@ -9,7 +9,11 @@ description: "I should be in Seattle this weekend attending the SCAA, which is t
 commentCount: 18
 ---
 
-I should be in Seattle this weekend attending the SCAA, which is the biggest coffee event of the year. It is like Comic-Con for coffee. Last year I attended three days and had a ridiculous amount of espresso. Some of the best roasters from around the country and beyond were pulling shots. I got to drink some of the most amazing espressos I've ever had and the price was a borrowed badge, which actually had a woman's name on it. :) But I am not in Seattle. I couldn't attend this year. Maybe it is a good thing that I am not there. As much as I love coffee and my friends in the industry, my relationship with coffee right now is troubled. Coffee is now making me feel both good and awful at the same time.
+I should be in Seattle this weekend attending the SCAA, which is the biggest coffee event of the year. It is like Comic-Con for coffee. Last year I attended three days and had a ridiculous amount of espresso. Some of the best roasters from around the country and beyond were pulling shots. I got to drink some of the most amazing espressos I've ever had and the price was a borrowed badge, which actually had a woman's name on it. :)
+
+But I am not in Seattle. I couldn't attend this year. Maybe it is a good thing that I am not there. As much as I love coffee and my friends in the industry, my relationship with coffee right now is troubled.
+
+Coffee is now making me feel both good and awful at the same time.
 
 
 ### But Coffee is Healthy!
@@ -17,22 +21,32 @@ I should be in Seattle this weekend attending the SCAA, which is the biggest cof
 
 If I had to pick the single most annoying thing on the internet it has to be coffee drinkers who blindly share links to stories with headlines saying how wonderful coffee is. Please stop it. In 2012, I wrote [5 Coffee News Stories That I Never Want to Read About Again](https://ineedcoffee.com/5-coffee-news-stories-that-i-never-want-to-read-about-ever-again/). Number one on that list was **Coffee Health Cheerleading Stories**. In that post I said:
 
-> We all have unique responses to coffee and caffeine. Those responses vary wildly from person to person. Those responses change over time. We are all unique. Sharing links to some study that a majority of individuals in some group achieved a minor health benefit from consuming coffee is meaningless to a group ALREADY consuming coffee. Please don't send me any stories that glamorize the health benefits of coffee. I won't read them, because they do nothing to improve my health. Remember, we are already drinking coffee. The only people who might benefit from these stories are people who love and can tolerate coffee, but have stopped drinking it for fear it was damaging their health. That isn't us though.
+> We all have unique responses to coffee and caffeine. Those responses vary wildly from person to person. Those responses change over time. We are all unique. Sharing links to some study that a majority of individuals in some group achieved a minor health benefit from consuming coffee is meaningless to a group ALREADY consuming coffee.
+> 
+> Please don't send me any stories that glamorize the health benefits of coffee. I won't read them, because they do nothing to improve my health. Remember, we are already drinking coffee. The only people who might benefit from these stories are people who love and can tolerate coffee, but have stopped drinking it for fear it was damaging their health. That isn't us though.
 
-Despite this article, people keep sending me links. Usually the links are from mainstream news and I usually get the same link sent to me multiple times. Please Stop It. The mistake people are making is taking an average positive response and then applying to everyone. We aren't machines. Our responses vary and they may vary in ways that are hard to quantify. I spent 2.5 years of my life tracking my daily coffee intake trying to find the perfect number of coffees I could drink for optimal health. In the end the only thing I learned was a late afternoon coffee between 2 PM and 4 PM actually improved my sleep. What I have learned is that I can feel energized and great on both a low amount and a high amount of coffee. And I can feel run down and lethargic on high or low levels of coffee. I can't say with any confidence that X number of coffees is right for me. It might be right for me that week or that day, but beyond that I don't know.
+Despite this article, people keep sending me links. Usually the links are from mainstream news and I usually get the same link sent to me multiple times. Please Stop It.
+
+The mistake people are making is taking an average positive response and then applying to everyone. We aren't machines. Our responses vary and they may vary in ways that are hard to quantify. I spent 2.5 years of my life tracking my daily coffee intake trying to find the perfect number of coffees I could drink for optimal health. In the end the only thing I learned was a late afternoon coffee between 2 PM and 4 PM actually improved my sleep.
+
+What I have learned is that I can feel energized and great on both a low amount and a high amount of coffee. And I can feel run down and lethargic on high or low levels of coffee. I can't say with any confidence that X number of coffees is right for me. It might be right for me that week or that day, but beyond that I don't know.
 
 
 ### Today
 
 
-Although there have been times that I consumed more coffee, I haven't felt this addicted and rundown to coffee in a very long time. One of the problems that I have trouble explaining to people who aren't really into coffee is that the flavors coming out of coffees in the last few years are not just a little bit better, but A LOT BETTER. Coffee and especially espresso is now going through almost a [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) increase in quality.
+Although there have been times that I consumed more coffee, I haven't felt this addicted and rundown to coffee in a very long time.
+
+One of the problems that I have trouble explaining to people who aren't really into coffee is that the flavors coming out of coffees in the last few years are not just a little bit better, but A LOT BETTER. Coffee and especially espresso is now going through almost a [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) increase in quality.
 
 -   The quality at the farm improves.
 -   This changes how the roaster roasts the coffee bringing out new flavors.
 -   Then the espresso machine manufacturers start adding features to further highlight those flavors.
 -   At the cafe, the baristas are better trained to prepare that new coffee.
 
-The result is espresso and some brewed coffees from the top roasters and cafes is exponentially better than it was 5 or 10 years ago. Yesterday a [new La Marzocco espresso machine](http://sprudge.com/la-marzocco-launches-linea-pb-with-auto-brew-ratio-espresso-technology-74845.html) was announced. If you don't understand this article and what it means, let me just say that for an espresso aficionado like myself, this will turn cocaine into crack. One of the topics I have been posting about this year is [food reward](/2015/02/food-reward-and-old-school-bodybuilders/).
+The result is espresso and some brewed coffees from the top roasters and cafes is exponentially better than it was 5 or 10 years ago. Yesterday a [new La Marzocco espresso machine](http://sprudge.com/la-marzocco-launches-linea-pb-with-auto-brew-ratio-espresso-technology-74845.html) was announced. If you don't understand this article and what it means, let me just say that for an espresso aficionado like myself, this will turn cocaine into crack.
+
+One of the topics I have been posting about this year is [food reward](/2015/02/food-reward-and-old-school-bodybuilders/).
 
 > ...at equal calories some foods provide greater flavor reward and these tend to be the foods we over consume. When this is done on a regular basis, we find ourselves in caloric surplus and we gain weight.
 
@@ -42,13 +56,23 @@ Coffee doesn't have calories, but it is now providing a greater flavor reward st
 ### Food Reward and Coffee Addiction
 
 
-A month ago I presented [my plan to lose weight](/2015/03/embracing-food-reward/) in a way that tested food reward theory. I haven't made much progress, even though I am following most of the seven ideas very well. I haven't been as good with #4, which is "Reduce snacking on non-exercise days" and #7, which is "Focus on making the most improvements on the pre-dinner meals." I think the reason is energy regulation and possibly the high flavor reward I am experiencing with coffee. I'll drink coffee for the flavor and pick up and then crash not later in the day, but sometimes as soon as 30-60 minutes later. At this point my energy level is low and I can't drink more coffee, so I reach to food for the pickup. Coffee can be both suppress and stimulate appetite. In the short run, it suppresses, but in the longer time frame, I believe it increases my appetite. ![useless without coffee](./img/201302-useless-ineedcoffee.jpg) _From Inanimate Objects on INeedCoffee by [Todd Zapoli](https://ineedcoffee.com/by/todd-zapoli/)_
+A month ago I presented [my plan to lose weight](/2015/03/embracing-food-reward/) in a way that tested food reward theory. I haven't made much progress, even though I am following most of the seven ideas very well. I haven't been as good with #4, which is "Reduce snacking on non-exercise days" and #7, which is "Focus on making the most improvements on the pre-dinner meals." I think the reason is energy regulation and possibly the high flavor reward I am experiencing with coffee.
+
+I'll drink coffee for the flavor and pick up and then crash not later in the day, but sometimes as soon as 30-60 minutes later. At this point my energy level is low and I can't drink more coffee, so I reach to food for the pickup. Coffee can be both suppress and stimulate appetite. In the short run, it suppresses, but in the longer time frame, I believe it increases my appetite.
+
+![useless without coffee](./img/201302-useless-ineedcoffee.jpg)
+
+_From Inanimate Objects on INeedCoffee by [Todd Zapoli](https://ineedcoffee.com/by/todd-zapoli/)_
 
 
 ### Taming the Coffee Beast
 
 
-A week ago I decided I would delay my first cup of coffee an hour. The plan was to wake up and go outside for a walk before I started to brew coffee. I have failed to execute my plan even once. Despite the fact I am getting 8 solid hours of sleep, I go straight for the coffee as soon as I wake up. It picks me up and then slams me down. I need to tame the beast. Only the beast has never been stronger and more tasty. So I have a situation here where I am trying to reduce my food reward at the same time I am getting a very high flavor reward with coffee. And I am using food to help stabilize energy. I'm in a bad place. Hello darkness my old friend.
+A week ago I decided I would delay my first cup of coffee an hour. The plan was to wake up and go outside for a walk before I started to brew coffee. I have failed to execute my plan even once. Despite the fact I am getting 8 solid hours of sleep, I go straight for the coffee as soon as I wake up. It picks me up and then slams me down.
+
+I need to tame the beast. Only the beast has never been stronger and more tasty.
+
+So I have a situation here where I am trying to reduce my food reward at the same time I am getting a very high flavor reward with coffee. And I am using food to help stabilize energy. I'm in a bad place. Hello darkness my old friend.
 
 ---
 

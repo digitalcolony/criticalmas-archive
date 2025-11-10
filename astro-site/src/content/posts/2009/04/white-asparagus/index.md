@@ -9,7 +9,13 @@ description: "When I saw white asparagus at the store, I thought it was the most
 commentCount: 3
 ---
 
-When I saw white asparagus at the store, I thought it was the most bizarre thing. The cashier informed me that white asparagus is grown in buried dirt, so it receives no light. No light means it doesn't turn green. Of course I had to try it and tell everyone. I learned that I'm the last one to hear about white asparagus. Turns out this is old news. What can I say? It was new to me. Anyway, it tasted no different than green asparagus. ![white-asparagus](./img/white-asparagus.jpg) _Broiled Lamb and White Asparagus_
+When I saw white asparagus at the store, I thought it was the most bizarre thing. The cashier informed me that white asparagus is grown in buried dirt, so it receives no light. No light means it doesn't turn green. Of course I had to try it and tell everyone.
+
+I learned that I'm the last one to hear about white asparagus. Turns out this is old news. What can I say? It was new to me. Anyway, it tasted no different than green asparagus.
+
+![white-asparagus](./img/white-asparagus.jpg)
+
+_Broiled Lamb and White Asparagus_
 
 ---
 

@@ -9,7 +9,19 @@ description: "Today was a beautiful day in Seattle. It was mostly sunny in the u
 commentCount: 15
 ---
 
-Today was a beautiful day in Seattle. It was mostly sunny in the upper 60s with no noticeable wind. In other words, it was a perfect day. Yet I looked around and I saw people wearing sweaters and jackets. I even saw 2 guys wearing wool caps. **Unless you are _The Edge_, you shouldn't be wearing a wool cap on a warm day.** Your body is fully capable of adapting to a wide range of temperatures. It wants to be challenged. Always living in 100% comfort does not provide the body with an opportunity to overcome minor risk-free stress. When you baby your metabolism, you lose the resiliency that is your birthright. If you are always reaching for a jacket and fear the cool breeze on your skin, how will you react when life throws you a major stressor? ![](http://farm4.static.flickr.com/3478/4009992470_d7a5d593d6.jpg "the Edge") _[The Edge](http://www.flickr.com/photos/jdn/4009992470/in/photostream/) by Jack Newton. This is the ONLY man on the planet who looks cool wearing a wool cap when it isn't cold outside._ About a month ago, I got into a minor argument with someone about this very topic. I was told that I was able to withstand colder temperatures without a jacket because I have a fast metabolism. I told that person they had it backward. They have a slow metabolism because they've never given their body a temperature challenge to adapt to and as a result, it has efficiently slowed down. **They aren't just wearing a jacket because they are cold, they are cold because they are always wearing a jacket.** I've posted many times on my motivation and results for [cold weather training](https://criticalmas.org/best-of/cold-weather-training/). I was once like you. When I moved from San Diego to Seattle, I got damn cold damn quickly. I did something about it and now I am comfortable across a much wider range of temperatures. When the body is exposed to colder temperatures, it learns to generate heat, provided you don't interrupt that lesson.
+Today was a beautiful day in Seattle. It was mostly sunny in the upper 60s with no noticeable wind. In other words, it was a perfect day. Yet I looked around and I saw people wearing sweaters and jackets. I even saw 2 guys wearing wool caps. **Unless you are _The Edge_, you shouldn't be wearing a wool cap on a warm day.**
+
+Your body is fully capable of adapting to a wide range of temperatures. It wants to be challenged. Always living in 100% comfort does not provide the body with an opportunity to overcome minor risk-free stress. When you baby your metabolism, you lose the resiliency that is your birthright. If you are always reaching for a jacket and fear the cool breeze on your skin, how will you react when life throws you a major stressor?
+
+![](http://farm4.static.flickr.com/3478/4009992470_d7a5d593d6.jpg "the Edge")
+
+_[The Edge](http://www.flickr.com/photos/jdn/4009992470/in/photostream/) by Jack Newton. This is the ONLY man on the planet who looks cool wearing a wool cap when it isn't cold outside._
+
+About a month ago, I got into a minor argument with someone about this very topic. I was told that I was able to withstand colder temperatures without a jacket because I have a fast metabolism. I told that person they had it backward. They have a slow metabolism because they've never given their body a temperature challenge to adapt to and as a result, it has efficiently slowed down. **They aren't just wearing a jacket because they are cold, they are cold because they are always wearing a jacket.**
+
+I've posted many times on my motivation and results for [cold weather training](https://criticalmas.org/best-of/cold-weather-training/). I was once like you. When I moved from San Diego to Seattle, I got damn cold damn quickly. I did something about it and now I am comfortable across a much wider range of temperatures.
+
+When the body is exposed to colder temperatures, it learns to generate heat, provided you don't interrupt that lesson.
 
 ---
 

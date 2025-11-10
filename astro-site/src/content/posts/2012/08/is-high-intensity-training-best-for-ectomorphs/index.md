@@ -9,7 +9,9 @@ description: "Since December 2010, I have been a huge fan of High-Intensity Trai
 commentCount: 68
 ---
 
-Since December 2010, I have been a huge fan of High-Intensity Training. I'm in the best shape of my life and unlike my free weight days, I never get injured anymore. In other words, everything is going great. A few days ago, I was reviewing some information in the outstanding book _Body By Science_ regarding genetic potential and intensity. After a detailed explanation of all the factors that determine our genetic potential for muscle size, the book explains how some individuals respond best to _High Intensity_ and others respond best to _Modest Intensity_.
+Since December 2010, I have been a huge fan of High-Intensity Training. I'm in the best shape of my life and unlike my free weight days, I never get injured anymore. In other words, everything is going great.
+
+A few days ago, I was reviewing some information in the outstanding book _Body By Science_ regarding genetic potential and intensity. After a detailed explanation of all the factors that determine our genetic potential for muscle size, the book explains how some individuals respond best to _High Intensity_ and others respond best to _Modest Intensity_.
 
 > Individuals who have two copies of the insertion gene (an "ii" gene) of the angiotensin converting enzyme tend to have high levels of slow-twitch fiberts and to be especially endurance oriented...
 
@@ -17,7 +19,11 @@ And:
 
 > People with the "ii" version likely respond better to higher repetitions, longer TULs, and even multiple sets...
 
-How did I miss the importance of this paragraph the first three times I read the book? He is speaking directly to ectomorphs. Maybe this one set to failure isn't the best idea for the lanky lifter? I couldn't let this drop, so I did some more research. ![Body by Science: A Research Based Program to Get the Results You Want in 12 Minutes a Week](https://images-na.ssl-images-amazon.com/images/I/51feXxN9PqL.jpg) Dr. Doug McGuff in his article [Grist For The Mill](http://web.archive.org/web/20130509175225/http://www.ultimate-exercise.com/grist.html) referenced High-Intensity Training's pioneer Arthur Jones.
+How did I miss the importance of this paragraph the first three times I read the book? He is speaking directly to ectomorphs. Maybe this one set to failure isn't the best idea for the lanky lifter? I couldn't let this drop, so I did some more research.
+
+![Body by Science: A Research Based Program to Get the Results You Want in 12 Minutes a Week](https://images-na.ssl-images-amazon.com/images/I/51feXxN9PqL.jpg)
+
+Dr. Doug McGuff in his article [Grist For The Mill](http://web.archive.org/web/20130509175225/http://www.ultimate-exercise.com/grist.html) referenced High-Intensity Training's pioneer Arthur Jones.
 
 > _Slow twitch_ motor units produce modest contractile force, fatigue slowly, and recover quickly. Because of their fast recovery profile, these are the motor units that might stand to benefit from repeated exposure to stress and fatigue (this has been borne out in data collected by Arthur Jones that showed subjects with a predominance of slow twitch fibers actually perform better on a second set after a first set to failure).
 
@@ -31,7 +37,11 @@ This got me thinking that I might be giving false credit to the one-set to failu
 ### Returning to Volume
 
 
-I need to know if the benefits I've gotten from High-Intensity Training are really from using machines in a slow controlled manner or from going to failure. Starting with my next workout, I will lower my intensity and increase my volume. If you are an ectomorph or have experience training ectomorphs, I'd love to hear your feedback. Also, if you have any ideas on how I should construct my volume workout, please leave a comment. My initial thought is to increase my workout volume to twice a week, increase sets to three, use a slow (not SuperSlow) movement, and stop short of going to failure. The exercises would still be the ones used in the [Big 5 Workout](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/). Maybe I'll restrict failure to one movement per week or one week per month? Good idea? **AUGUST 2013 UPDATE:** [Is High-Intensity Training Best for Ectomorphs? One Year Later](/2013/08/is-high-intensity-training-best-for-ectomorphs-part-2/)
+I need to know if the benefits I've gotten from High-Intensity Training are really from using machines in a slow controlled manner or from going to failure. Starting with my next workout, I will lower my intensity and increase my volume.
+
+If you are an ectomorph or have experience training ectomorphs, I'd love to hear your feedback. Also, if you have any ideas on how I should construct my volume workout, please leave a comment. My initial thought is to increase my workout volume to twice a week, increase sets to three, use a slow (not SuperSlow) movement, and stop short of going to failure. The exercises would still be the ones used in the [Big 5 Workout](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/). Maybe I'll restrict failure to one movement per week or one week per month? Good idea?
+
+**AUGUST 2013 UPDATE:** [Is High-Intensity Training Best for Ectomorphs? One Year Later](/2013/08/is-high-intensity-training-best-for-ectomorphs-part-2/)
 
 ---
 

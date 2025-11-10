@@ -9,7 +9,9 @@ description: "About a year ago I decided to alter my diet and activity level bas
 commentCount: 3
 ---
 
-About a year ago I decided to alter my diet and activity level based upon the season. I was motivated by the differences I saw in the approaches to paleolithic diets. Some of my nutritional mentors favored higher fat levels, some higher protein levels and others had a more relaxed opinion to carbohydrates. Instead of picking a favorite, I theorized that I could reconcile the different beliefs by altering the approach based upon the season. The outstanding book [Lights Out: Sleep, Sugar and Survival](/2010/05/lights-out-sleep-sugar-and-survival/) helped me outline my seasonal approach. From my review:
+About a year ago I decided to alter my diet and activity level based upon the season. I was motivated by the differences I saw in the approaches to paleolithic diets. Some of my nutritional mentors favored higher fat levels, some higher protein levels and others had a more relaxed opinion to carbohydrates. Instead of picking a favorite, I theorized that I could reconcile the different beliefs by altering the approach based upon the season.
+
+The outstanding book [Lights Out: Sleep, Sugar and Survival](/2010/05/lights-out-sleep-sugar-and-survival/) helped me outline my seasonal approach. From my review:
 
 > _Lights Out_ is mostly about the evolutionary and hormonal aspects to light and sleep. Longer days (more light) tell the body via hormones that it is summer and that means _eat sugar now before winter comes_. Shorter days (less light) tell the body to sleep more and eat less.
 
@@ -17,7 +19,11 @@ The short version is summer is for growth and winter is for repair. More carbohy
 
 > **The problem is we are not only in constant Summer Mode from endless supplies of carbohydrates, we are in constant Summer Mode from excessive lighting and shortened winter sleep cycles.** Winter Mode is for repair. When that repair doesnt happen (no Winter Mode), it can result in obesity, cancer and mental illness.
 
-Nephropal wrote an excellent primer on [Summer vs Winter Mode](http://nephropal.blogspot.com/2009/10/summer-vs-winter-mode.html). ![seattle-summer](./img/seattle-summer.jpg) _Summer in Seattle_
+Nephropal wrote an excellent primer on [Summer vs Winter Mode](http://nephropal.blogspot.com/2009/10/summer-vs-winter-mode.html).
+
+![seattle-summer](./img/seattle-summer.jpg)
+
+_Summer in Seattle_
 
 
 ### The Strategies
@@ -49,7 +55,9 @@ What "_Winter_" means can vary from person to person. For someone in perfect hea
 ### Going Forward
 
 
-I am a few months into testing a new strategy that combines the best ideas from the seasonal approach with the flexibility of modern life. The new plan is more in line with my [Minimal Effort Approach](/2010/03/the-minimal-effort-approach/). If it goes well, I'll share it in a future post. UPDATE: My newest strategy is [The Paleo/HIT Cyclical Approach to Fitness and Nutrition](/2011/08/the-paleohit-cyclical-approach-to-fitness-and-nutrition/).
+I am a few months into testing a new strategy that combines the best ideas from the seasonal approach with the flexibility of modern life. The new plan is more in line with my [Minimal Effort Approach](/2010/03/the-minimal-effort-approach/). If it goes well, I'll share it in a future post.
+
+UPDATE: My newest strategy is [The Paleo/HIT Cyclical Approach to Fitness and Nutrition](/2011/08/the-paleohit-cyclical-approach-to-fitness-and-nutrition/).
 
 ---
 

@@ -13,7 +13,21 @@ One year ago an article I read convinced me that one of my deepest beliefs was w
 
 > Can I let you in on a secret? Typing two spaces after a period is totally, completely, utterly, and inarguably _wrong_.
 
-When I was in school, I had been taught to drop 2 spaces after every period, question mark, and exclamation mark. In a world of monospace fonts, that _might_ make readability better, but not for the vast majority of fonts, which aren't monospaced. The Slate article really impacted me. I was convinced, so around June of last year, I broke a lifetime habit of double-tapping the space bar. ![spacebar](./img/3429413001_3a8e7c1eeb_z.jpg) _[Photo](https://flic.kr/p/6e3D1n) by Jake Bouma_ Within a week of doing the single space, I could see how much nicer the fonts were lining up. Whenever I went back into the blog archives to collect a link, I'd cringe a little seeing all those extra spaces. Every now and then I'd hand edit the post and remove those extra spaces. The problem is this site has over 1700 posts. That could take forever. A few weeks ago I was doing some housekeeping on this site and decided to do something programmatically about it. I wrote some queries to remove extra spaces out, but they didn't work. After a lot of work, I determined that the ASCII codes for the first and second space after a sentence were different. Then I modified a stored procedure to clean the posts of these evil hidden spaces. Before running the query, I did several tests and it appeared to be solid code. So I ran it and it appeared to work. All those extra spaces from December 2005 to June 2011 were gone. All was not well though. I started seeing cases where words that should have been separated by spaces were now collapsed. And there was no rhyme or reason on where it happened. Last night I wrote I stored procedure to locate long words, with the thought that some of these long words were really pairs of words packed together. I found a bunch and I'm still finding more. I went from having yucky typography to having a number of spelling errors. I do have a backup, but I'm hesitant to roll back because far more posts were positively impacted than negatively. This might take a while. **UPDATE:** Eventually all the extra spaces were removed. There may be a few stray ones left, but the bulk is gone.
+When I was in school, I had been taught to drop 2 spaces after every period, question mark, and exclamation mark. In a world of monospace fonts, that _might_ make readability better, but not for the vast majority of fonts, which aren't monospaced. The Slate article really impacted me. I was convinced, so around June of last year, I broke a lifetime habit of double-tapping the space bar.
+
+![spacebar](./img/3429413001_3a8e7c1eeb_z.jpg)
+
+_[Photo](https://flic.kr/p/6e3D1n) by Jake Bouma_
+
+Within a week of doing the single space, I could see how much nicer the fonts were lining up. Whenever I went back into the blog archives to collect a link, I'd cringe a little seeing all those extra spaces. Every now and then I'd hand edit the post and remove those extra spaces. The problem is this site has over 1700 posts. That could take forever.
+
+A few weeks ago I was doing some housekeeping on this site and decided to do something programmatically about it. I wrote some queries to remove extra spaces out, but they didn't work. After a lot of work, I determined that the ASCII codes for the first and second space after a sentence were different. Then I modified a stored procedure to clean the posts of these evil hidden spaces. Before running the query, I did several tests and it appeared to be solid code. So I ran it and it appeared to work. All those extra spaces from December 2005 to June 2011 were gone.
+
+All was not well though. I started seeing cases where words that should have been separated by spaces were now collapsed. And there was no rhyme or reason on where it happened. Last night I wrote I stored procedure to locate long words, with the thought that some of these long words were really pairs of words packed together. I found a bunch and I'm still finding more. I went from having yucky typography to having a number of spelling errors. I do have a backup, but I'm hesitant to roll back because far more posts were positively impacted than negatively.
+
+This might take a while.
+
+**UPDATE:** Eventually all the extra spaces were removed. There may be a few stray ones left, but the bulk is gone.
 
 ---
 

@@ -9,7 +9,13 @@ description: "Karl Denninger has some excellent advice for regular investors on 
 commentCount: 1
 ---
 
-Karl Denninger has some excellent advice for regular investors on how they can outperform the stock market indexes with minimal research and minimal trades. His rule which he learned from his Chicago days is to compare the 20 Week Moving Average to the 50 Week Moving Average. When the 20 WMA passes the 50 WMA by 1%, you buy into an index fund. When the 50 WMA exceeds the 20 WMA by 1%, you sell your positions and move into a cash position or fixed income position. [A Simple Long-Term Timing Signal For the Markets](http://www.youtube.com/watch?v=bN9WUIXaRr4) (8:20 video) Karl's video will show you how using this simple rule you would have participated in every bull market and avoid every bear market in the last 30 years. You would have outperformed the indexes and paid a minimal amount in commissions. The last signal we received was a few months ago and it was a SELL signal.
+Karl Denninger has some excellent advice for regular investors on how they can outperform the stock market indexes with minimal research and minimal trades. His rule which he learned from his Chicago days is to compare the 20 Week Moving Average to the 50 Week Moving Average. When the 20 WMA passes the 50 WMA by 1%, you buy into an index fund. When the 50 WMA exceeds the 20 WMA by 1%, you sell your positions and move into a cash position or fixed income position.
+
+[A Simple Long-Term Timing Signal For the Markets](http://www.youtube.com/watch?v=bN9WUIXaRr4) (8:20 video)
+
+Karl's video will show you how using this simple rule you would have participated in every bull market and avoid every bear market in the last 30 years. You would have outperformed the indexes and paid a minimal amount in commissions.
+
+The last signal we received was a few months ago and it was a SELL signal.
 
 ---
 

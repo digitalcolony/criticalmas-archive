@@ -9,7 +9,11 @@ description: "Do I really want to spend another 5 nights in Bangkok? Nope. I've 
 commentCount: 4
 ---
 
-Do I really want to spend another [5 nights in Bangkok](/2009/11/one-night-in-bangkok-and-the-worlds-your-oyster/)? Nope. I've decided to head down to Kuala Lumpur for some urban hiking and Malaysian curry. ![](http://farm4.static.flickr.com/3270/2349026792_3790c5b089.jpg "by StuckInCustoms") _Photo_ [_The Sky Bar in Kuala Lumpur with a view of Petronas_](http://www.flickr.com/photos/stuckincustoms/2349026792/) _by_ [_Stuck in Customs_](http://www.stuckincustoms.com/)
+Do I really want to spend another [5 nights in Bangkok](/2009/11/one-night-in-bangkok-and-the-worlds-your-oyster/)? Nope. I've decided to head down to Kuala Lumpur for some urban hiking and Malaysian curry.
+
+![](http://farm4.static.flickr.com/3270/2349026792_3790c5b089.jpg "by StuckInCustoms")
+
+_Photo_ [_The Sky Bar in Kuala Lumpur with a view of Petronas_](http://www.flickr.com/photos/stuckincustoms/2349026792/) _by_ [_Stuck in Customs_](http://www.stuckincustoms.com/)
 
 ---
 

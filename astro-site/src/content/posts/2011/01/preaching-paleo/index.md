@@ -9,11 +9,19 @@ description: "A big topic in the paleo community is the desire to spread the wor
 commentCount: 4
 ---
 
-A big topic in the paleo community is the desire to spread the word and get others to adopt a more evolutionary diet. In a Robb Wolf podcast (E55 of the Paleo Solution), a listener asked about creating an _elevator pitch_ for the diet. I understand that people are passionate about this diet, think it has changed their lives, and therefore want to spread the good word, but almost nobody wants to be preached about their food choices. When you tell someone what they eat is wrong, they get defensive. Diet can be our [identity](/2010/08/diet-as-identity/). So how do you preach paleo? You don't. Just live your life and maybe your success will inspire others to be open to change. Or maybe it won't. ![](./img/caveman-preach.jpg) Or as my mentor, Art De Vany once said:
+A big topic in the paleo community is the desire to spread the word and get others to adopt a more evolutionary diet. In a Robb Wolf podcast (E55 of the Paleo Solution), a listener asked about creating an _elevator pitch_ for the diet. I understand that people are passionate about this diet, think it has changed their lives, and therefore want to spread the good word, but almost nobody wants to be preached about their food choices.
+
+When you tell someone what they eat is wrong, they get defensive. Diet can be our [identity](/2010/08/diet-as-identity/). So how do you preach paleo? You don't. Just live your life and maybe your success will inspire others to be open to change. Or maybe it won't.
+
+![](./img/caveman-preach.jpg)
+
+Or as my mentor, Art De Vany once said:
 
 > I never try to convince others of anything. I make my case and they decide what they'll do with the information.
 
-[Debating nutrition](/2010/12/nutrition-is-the-new-politics/) is something I have no desire to do. People much smarter than me disagree. All I can do is synthesize the information I read, try it, listen to my own body, and incorporate what works. This blog chronicles my experiments in nutrition and fitness. If it helps or inspires you that is wonderful. If it doesn't, that is OK too. What works for me may not work for you. And what doesn't work for me, may work for you. We are all unique and at different points in our fitness journey.
+[Debating nutrition](/2010/12/nutrition-is-the-new-politics/) is something I have no desire to do. People much smarter than me disagree. All I can do is synthesize the information I read, try it, listen to my own body, and incorporate what works.
+
+This blog chronicles my experiments in nutrition and fitness. If it helps or inspires you that is wonderful. If it doesn't, that is OK too. What works for me may not work for you. And what doesn't work for me, may work for you. We are all unique and at different points in our fitness journey.
 
 ---
 

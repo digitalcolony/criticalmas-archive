@@ -9,7 +9,11 @@ description: "About the time I finished reading The Shallows, a book about the a
 commentCount: 2
 ---
 
-About the time I finished reading [The Shallows](/2010/08/the-shallows-what-the-internet-is-doing-to-our-brains/), a book about the addicting effects of the Internet, I stumbled onto a recommendation for this fiction book. ![Hooked: A Thriller About Love and Other Addictions](https://images-na.ssl-images-amazon.com/images/I/5173aGbhYVL.jpg) _Hooked: A Thriller About Love and Other Addictions by Matt Richtel_ was a great book. No [lengthy setups](/2010/09/con-ed/). I was hooked from page 1. The parts of the book that deal with addiction are deep into the story, which I'd love to discuss, however, I don't want to give any plot spoilers in this review. If you want to read a good thriller, pick up _Hooked_. Wow, I've read two whole fiction books this year. :)
+About the time I finished reading [The Shallows](/2010/08/the-shallows-what-the-internet-is-doing-to-our-brains/), a book about the addicting effects of the Internet, I stumbled onto a recommendation for this fiction book.
+
+![Hooked: A Thriller About Love and Other Addictions](https://images-na.ssl-images-amazon.com/images/I/5173aGbhYVL.jpg) _Hooked: A Thriller About Love and Other Addictions by Matt Richtel_ was a great book. No [lengthy setups](/2010/09/con-ed/). I was hooked from page 1. The parts of the book that deal with addiction are deep into the story, which I'd love to discuss, however, I don't want to give any plot spoilers in this review.
+
+If you want to read a good thriller, pick up _Hooked_. Wow, I've read two whole fiction books this year. :)
 
 ---
 

@@ -9,7 +9,9 @@ description: "In my previous post, I explained how I like the idea of having an
 commentCount: 10
 ---
 
-In my [previous post](/2017/01/eat-dont-eat-2017-edition/), I explained how I like the idea of having an expansive approach to food. Still, I also recognize that it can lead to consuming too many bad foods or too many calories. I wanted an eating strategy that I didn't have to think about that kept me full and kept me lean. I not only succeeded, but I did it in a way that saved me time and money. I developed my 5-level food pyramid.
+In my [previous post](/2017/01/eat-dont-eat-2017-edition/), I explained how I like the idea of having an expansive approach to food. Still, I also recognize that it can lead to consuming too many bad foods or too many calories. I wanted an eating strategy that I didn't have to think about that kept me full and kept me lean. I not only succeeded, but I did it in a way that saved me time and money.
+
+I developed my 5-level food pyramid.
 
 1.  Peasant Diet
 2.  Old School Bodybuilder
@@ -17,31 +19,49 @@ In my [previous post](/2017/01/eat-dont-eat-2017-edition/), I explained how I l
 4.  Super Foods
 5.  (optional) Modern indulgences
 
-I took the first letter of the first 4 levels and named this the POWS Food Pyramid. The levels are in order from consuming the most to consuming the fewest, so from the bottom of the pyramid to the top. Let us drill into it. ![](./img/pows-pyramid.jpg)
+I took the first letter of the first 4 levels and named this the POWS Food Pyramid. The levels are in order from consuming the most to consuming the fewest, so from the bottom of the pyramid to the top. Let us drill into it.
+
+![](./img/pows-pyramid.jpg)
 
 
 ### #1 Peasant Diet
 
 
-The base of my food pyramid is the Peasant Diet, which I described in the post [Designing a Modern Peasant Diet](/2016/11/designing-modern-peasant-diet/). There I made the case for consuming a large portion of your calories using foods traditionally associated with peasants. Think potatoes, beans, oats, etc. Nutritious and dirt cheap. I do want to stress these are traditional peasant foods, not the foods consumed by poor people today. So no french fries and Mountain Dew. Legumes can be time-consuming to make for true peasants, but we all have pressure cookers. [Right?](/2014/09/pressure-cooker-game-changer/)
+The base of my food pyramid is the Peasant Diet, which I described in the post [Designing a Modern Peasant Diet](/2016/11/designing-modern-peasant-diet/). There I made the case for consuming a large portion of your calories using foods traditionally associated with peasants. Think potatoes, beans, oats, etc. Nutritious and dirt cheap. I do want to stress these are traditional peasant foods, not the foods consumed by poor people today. So no french fries and Mountain Dew.
+
+Legumes can be time-consuming to make for true peasants, but we all have pressure cookers. [Right?](/2014/09/pressure-cooker-game-changer/)
 
 
 ### #2 Old School Bodybuilder
 
 
-There was a time before the Internet when a group of mostly men worked hard on developing some of the most amazing physiques to ever walk this planet. I'm thinking of the bodybuilding era from the 1950s up to the 1980s. Not the steroid monsters we see today, but the classic physiques. Without access to the information we have today, they figured out how to sculpt amazing bodies. They weren't in chat rooms arguing about the most minute details. They were hammering out the basics day in and day out. And they got damn good results. Let us set aside the training debates for now. On food, they consumed a lot of protein. Eggs, tuna, cottage cheese, ground beef, chicken breasts, turkey, and seafood. Most people associate higher protein intake with building muscle, but higher [protein suppresses appetite](/2014/07/just-count-protein-fat-loss/). It helps you get lean and getting lean makes your muscles look bigger. There is a lot of crossover between the Peasant Diet and the Old School Bodybuilder. For my clarity, I envision the Peasant Diet as more carbohydrate-based and the Old School Bodybuilder more focused on protein. Whenever I don't separate the two in my mind, I tend to under-consume protein.
+There was a time before the Internet when a group of mostly men worked hard on developing some of the most amazing physiques to ever walk this planet. I'm thinking of the bodybuilding era from the 1950s up to the 1980s. Not the steroid monsters we see today, but the classic physiques.
+
+Without access to the information we have today, they figured out how to sculpt amazing bodies. They weren't in chat rooms arguing about the most minute details. They were hammering out the basics day in and day out. And they got damn good results. Let us set aside the training debates for now. On food, they consumed a lot of protein. Eggs, tuna, cottage cheese, ground beef, chicken breasts, turkey, and seafood.
+
+Most people associate higher protein intake with building muscle, but higher [protein suppresses appetite](/2014/07/just-count-protein-fat-loss/). It helps you get lean and getting lean makes your muscles look bigger.
+
+There is a lot of crossover between the Peasant Diet and the Old School Bodybuilder. For my clarity, I envision the Peasant Diet as more carbohydrate-based and the Old School Bodybuilder more focused on protein. Whenever I don't separate the two in my mind, I tend to under-consume protein.
 
 
 ### #3 World Cuisine
 
 
-If one only ate food consumed by peasants and 1970s bodybuilders, life would be pretty miserable. One of the things I love most about modern life is that I have access to foods consumed by people all over the world for hundreds or even thousands of years. Thanks to the internet and globalization, I can try so many different cuisines via restaurants and ethnic grocery stores that were not around when I was a kid in Central Ohio. Now add ideas from YouTube, cookbooks, and food shows and the number of food possibilities is enormous. There are two keys to this section of the POWS Food Pyramid. First, the cuisines need to be as traditional as possible. Just because some deep-fried flour thing is the rage somewhere in Asia now, doesn't make it a candidate for this tier. Ask if it was popular 50, 100, or 200 years ago. Aim for dishes that have been altered less since industrialization. In other words, avoid the high heat foods cooked in oils. Favor soups and slower-cooked foods. Those who follow a Weston A. Price diet are aware of how to make many traditional American dishes. Now take that thinking globally. The second key is moderation. If I had the metabolism of an Olympic swimmer, almost 100% of my calories would be in this tier, but I'm not, so I need to be realistic. I need to consume a majority of my calories from the Peasant Diet and Old School Bodybuilder to create a calorie deficit that I will spend here.
+If one only ate food consumed by peasants and 1970s bodybuilders, life would be pretty miserable. One of the things I love most about modern life is that I have access to foods consumed by people all over the world for hundreds or even thousands of years. Thanks to the internet and globalization, I can try so many different cuisines via restaurants and ethnic grocery stores that were not around when I was a kid in Central Ohio. Now add ideas from YouTube, cookbooks, and food shows and the number of food possibilities is enormous.
+
+There are two keys to this section of the POWS Food Pyramid. First, the cuisines need to be as traditional as possible. Just because some deep-fried flour thing is the rage somewhere in Asia now, doesn't make it a candidate for this tier. Ask if it was popular 50, 100, or 200 years ago. Aim for dishes that have been altered less since industrialization. In other words, avoid the high heat foods cooked in oils. Favor soups and slower-cooked foods. Those who follow a Weston A. Price diet are aware of how to make many traditional American dishes. Now take that thinking globally.
+
+The second key is moderation. If I had the metabolism of an Olympic swimmer, almost 100% of my calories would be in this tier, but I'm not, so I need to be realistic. I need to consume a majority of my calories from the Peasant Diet and Old School Bodybuilder to create a calorie deficit that I will spend here.
 
 
 ### #4 Super Foods
 
 
-If 60-70% of my calories are from staples that I'll consume repeatedly, there is a possibility that a few nutrients could become underrepresented and since there is no guarantee that I'll get them on my World Cuisine visits, I created this tier as extra insurance. Super Foods are not going to be a high source of calories, but they will be a high source of nutrition. Bone broth, offal, oysters, natto, ginger, kelp, garlic, and mushrooms are the foods that first come to mind. [The 150 Healthiest Foods on Earth](/2008/03/150-superfoods-because-14-just-wasnt-enough/) is a book with more ideas. Nutrient density is a topic that is popular in nutritional blogs. I like to also think of nutrient diversity. This means from the group of Super Foods, rotate your selection. This is the opposite of the staple approach used to get the bulk of our calories in the Peasant Diet and Old School Bodybuilder. That is by design. We should spend the least amount of time, thought, and energy with those calories.
+If 60-70% of my calories are from staples that I'll consume repeatedly, there is a possibility that a few nutrients could become underrepresented and since there is no guarantee that I'll get them on my World Cuisine visits, I created this tier as extra insurance.
+
+Super Foods are not going to be a high source of calories, but they will be a high source of nutrition. Bone broth, offal, oysters, natto, ginger, kelp, garlic, and mushrooms are the foods that first come to mind. [The 150 Healthiest Foods on Earth](/2008/03/150-superfoods-because-14-just-wasnt-enough/) is a book with more ideas.
+
+Nutrient density is a topic that is popular in nutritional blogs. I like to also think of nutrient diversity. This means from the group of Super Foods, rotate your selection. This is the opposite of the staple approach used to get the bulk of our calories in the Peasant Diet and Old School Bodybuilder. That is by design. We should spend the least amount of time, thought, and energy with those calories.
 
 
 ### #5 Modern Indulgences (optional)
@@ -65,7 +85,9 @@ POWS takes advantage of three proven nutritional principles that work for fat l
 2.  Protein suppresses appetite. This is the Old School Bodybuilder tier of eggs and tuna working. (see [Just Count Protein For Fat Loss](/2014/07/just-count-protein-fat-loss/))
 3.  By having a high percentage of weekly calories as "OK tasting", you greatly reduce your exposure to _hyper-palatable_ foods.
 
-The POWS Pyramid saves you time and money and if you calibrate the ratios right you'll get fat loss without hunger. You can read the excellent book _Forever Fat Loss by Ari Whiten_ for the science that supports the statements above. I've been doing a variation of the POWS for over a year and it works. I've saved money, calories, and time.
+The POWS Pyramid saves you time and money and if you calibrate the ratios right you'll get fat loss without hunger. You can read the excellent book _Forever Fat Loss by Ari Whiten_ for the science that supports the statements above.
+
+I've been doing a variation of the POWS for over a year and it works. I've saved money, calories, and time.
 
 ---
 

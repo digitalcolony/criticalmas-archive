@@ -9,7 +9,13 @@ description: "A few people in Seattle have asked me if this is the right time to
 commentCount: 13
 ---
 
-A few people in Seattle have asked me if this is the _right_ time to buy a house. They don't really want my answer. They want to buy and want me to agree with that decision. My needs and their needs are not the same. My goal (at this time) is to maximize investment, not to be a homeowner. One lady I know is tired of moving. She wants to have children and wants her own house. I'm a single guy with no debt. My plan is to wait it out and buy a kick-ass place at the bottom. She has a biological clock that can't be reconciled with inventory levels. She needs to buy a house in order for her to be comfortable with being a new mother. I started mentioning to her how sophisticated investors could hedge risk by trading [Case-Shiller futures](https://en.wikipedia.org/wiki/Case-Shiller_index) on the Chicago Mercantile Exchange. Too difficult. Robert Shiller mentioned in _Irrational Exuberance_ how someday regular home buyers would be able to purchase insurance to protect themselves against home price declines. However, that day hasn't arrived yet. There are some financially smart people who read this blog. **Do you have any ideas on how a first time home buyer could hedge against the risk that their home might drop by 20% in value in less than 5 years?** There has to be a way the average Joe can easily offset some of the risk associated with the largest purchase they will ever make.
+A few people in Seattle have asked me if this is the _right_ time to buy a house. They don't really want my answer. They want to buy and want me to agree with that decision. My needs and their needs are not the same. My goal (at this time) is to maximize investment, not to be a homeowner.
+
+One lady I know is tired of moving. She wants to have children and wants her own house. I'm a single guy with no debt. My plan is to wait it out and buy a kick-ass place at the bottom. She has a biological clock that can't be reconciled with inventory levels. She needs to buy a house in order for her to be comfortable with being a new mother.
+
+I started mentioning to her how sophisticated investors could hedge risk by trading [Case-Shiller futures](https://en.wikipedia.org/wiki/Case-Shiller_index) on the Chicago Mercantile Exchange. Too difficult. Robert Shiller mentioned in _Irrational Exuberance_ how someday regular home buyers would be able to purchase insurance to protect themselves against home price declines. However, that day hasn't arrived yet.
+
+There are some financially smart people who read this blog. **Do you have any ideas on how a first time home buyer could hedge against the risk that their home might drop by 20% in value in less than 5 years?** There has to be a way the average Joe can easily offset some of the risk associated with the largest purchase they will ever make.
 
 ---
 

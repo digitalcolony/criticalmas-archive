@@ -15,7 +15,13 @@ This is a follow-up to the previous post [The Case For High Intensity Training 
 ### Heavier Weight or More Volume?
 
 
-Chris shared this article by Lyle McDonald, which was published a day after my blog post, suggests the case for higher volume, may not be well supported. _Resistance Training Volume Enhances Muscle Hypertrophy – Research Review_ _(this link was removed in April 2020. I found [another article](https://bodyrecomposition.com/research/training-volume-trained-men) that covers his views. If Lyle McDonald ever reads this, the CORRECT thing to do when you move an article is to set up a [link redirect](/2018/06/broken-link-checkers-are-an-essential-tool-for-every-blogger/)._ I thought about this for a while and I don't think it will change my decision to increase volume. My reasons:
+Chris shared this article by Lyle McDonald, which was published a day after my blog post, suggests the case for higher volume, may not be well supported.
+
+_Resistance Training Volume Enhances Muscle Hypertrophy – Research Review_
+
+_(this link was removed in April 2020. I found [another article](https://bodyrecomposition.com/research/training-volume-trained-men) that covers his views. If Lyle McDonald ever reads this, the CORRECT thing to do when you move an article is to set up a [link redirect](/2018/06/broken-link-checkers-are-an-essential-tool-for-every-blogger/)._
+
+I thought about this for a while and I don't think it will change my decision to increase volume. My reasons:
 
 1.  I see the choice between Heavier Weight or More Volume as 2 paths that will both lead to gains. Some will respond better to Heavy and some better to Volume. My intuition tells me that I need Volume now. Not a lot, just more. I've very likely been untraining for years as I've danced around knee injuries.
 2.  Going Heavier, unless you are super careful with exercise selection, form, and recovery times, may lead to an increased risk of injury. Certainly in the compound movements. Being sidelined is the worst path for long-term gains.
@@ -25,13 +31,25 @@ Chris shared this article by Lyle McDonald, which was published a day after my b
 ### Measurement Problem
 
 
-Whenever these sorts of topics come up and the articles are discussing sets and reps, I'm always feeling like I don't belong in the conversation. Or any of us that do slower lifts. A HIT rep is nothing like the reps that are used in these debates. We use lower weights, slower movements, and we don't pause at the endpoints either. We purposely make our reps inefficient from a work standpoint to make them more efficient at keeping the load on the muscle. We try to keep under tension throughout the set. How do you measure that in terms of "high weight" or even volume? Also, there are numerous HIT rep speeds. Some are 3 seconds in each direction. 10 seconds is common. Or even 30-second reps. To my knowledge, there isn't a "currency converter" type of calculation to help us speak the same language. This is why I try and develop my own intuition. All the talk of sets and reps doesn't make sense in my world of slower lifting.
+Whenever these sorts of topics come up and the articles are discussing sets and reps, I'm always feeling like I don't belong in the conversation. Or any of us that do slower lifts.
+
+A HIT rep is nothing like the reps that are used in these debates. We use lower weights, slower movements, and we don't pause at the endpoints either. We purposely make our reps inefficient from a work standpoint to make them more efficient at keeping the load on the muscle. We try to keep under tension throughout the set.
+
+How do you measure that in terms of "high weight" or even volume? Also, there are numerous HIT rep speeds. Some are 3 seconds in each direction. 10 seconds is common. Or even 30-second reps. To my knowledge, there isn't a "currency converter" type of calculation to help us speak the same language.
+
+This is why I try and develop my own intuition. All the talk of sets and reps doesn't make sense in my world of slower lifting.
 
 
 ### Going to Failure
 
 
-Carl of Super Human Radio said something about training to failure that I found interesting. He recently turned 60 and said that when he trains to failure his muscles might recovery a day or so before his neural system does. Until that moment, I hadn't thought of the body having two different recovery pathways. I suspected age would be a factor, but I wasn't clear how it would be. So, I am going to piggyback on Carl's wisdom here. Carl likes volume and not training to failure at this stage in his life. Sounds good to me. It is worth a try. Also, I'm not giving up training to failure completely. I think the best path here is to time the failure workouts before you know you'll be taking a break. Maybe just before a trip or a busy holiday schedule. ![](./img/leg-press.jpg)
+Carl of Super Human Radio said something about training to failure that I found interesting. He recently turned 60 and said that when he trains to failure his muscles might recovery a day or so before his neural system does.
+
+Until that moment, I hadn't thought of the body having two different recovery pathways. I suspected age would be a factor, but I wasn't clear how it would be. So, I am going to piggyback on Carl's wisdom here. Carl likes volume and not training to failure at this stage in his life. Sounds good to me. It is worth a try.
+
+Also, I'm not giving up training to failure completely. I think the best path here is to time the failure workouts before you know you'll be taking a break. Maybe just before a trip or a busy holiday schedule.
+
+![](./img/leg-press.jpg)
 
 ---
 

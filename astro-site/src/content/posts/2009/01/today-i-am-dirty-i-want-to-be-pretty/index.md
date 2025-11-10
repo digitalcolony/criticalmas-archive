@@ -9,7 +9,15 @@ description: "Paul over at Infectious Greed posted this cool graphic on how Amer
 commentCount: 2
 ---
 
-Paul over at _Infectious Greed_ posted this cool graphic on how Americans spent their food dollar in 1955 vs today. ![restaurants_food](./img/restaurants_food.png "restaurants_food") _Infectious Greed_ is a financial site, but I couldn't help but think of the nutritional angle. In my post [The More You Cook, The Better You Look](/2008/12/the-more-you-cook-the-better-you-look/), I shared how by moving my food dollars from restaurants to home cooked meals, not only did I save money, but I lost 10 pounds and almost 3 inches off my waist. In 1955 Americans were not obese and diabetic. They ate far more home cooked meals. And they did all without microwaves, George Foreman grills or the Food Network. Amazing! After your rent/mortgage payment, the largest expense a family has is food. Not only can you save money by heading back into the kitchen, you'll probably lean out in the process.
+Paul over at _Infectious Greed_ posted this cool graphic on how Americans spent their food dollar in 1955 vs today.
+
+![restaurants_food](./img/restaurants_food.png "restaurants_food")
+
+_Infectious Greed_ is a financial site, but I couldn't help but think of the nutritional angle. In my post [The More You Cook, The Better You Look](/2008/12/the-more-you-cook-the-better-you-look/), I shared how by moving my food dollars from restaurants to home cooked meals, not only did I save money, but I lost 10 pounds and almost 3 inches off my waist.
+
+In 1955 Americans were not obese and diabetic. They ate far more home cooked meals. And they did all without microwaves, George Foreman grills or the Food Network. Amazing!
+
+After your rent/mortgage payment, the largest expense a family has is food. Not only can you save money by heading back into the kitchen, you'll probably lean out in the process.
 
 ---
 

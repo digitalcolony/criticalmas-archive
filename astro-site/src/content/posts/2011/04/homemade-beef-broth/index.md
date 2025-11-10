@@ -9,7 +9,39 @@ description: "Update: This is technically a beef stock, as it uses roasted bones
 commentCount: 18
 ---
 
-_Update: This is technically a beef stock, as it uses roasted bones._ I've recently discovered a magical elixir. It helps me recovery from workouts faster, protects me from [incoming radiation](/2011/03/nutrition-radiation/), keeps my skin looking great and it tastes awesome. The magical potion is a homemade beef broth. It takes 24-72 hours to make, but is worth the effort. I use the recipe found in the book Nourishing Traditions by Sally Fallon. Put knuckle bone into stock pot. Add 1/2 cup of vinegar. Cover with water. ![soak-bone](./img/soak-bone.jpg) Roast Beef Soup Bones for 30-45 minutes at 350 degrees. ![roast-soup-bone](./img/roast-soup-bone.jpg) ![roasted-soup-bones](./img/roasted-soup-bones.jpg) Cut up a few onions, carrots and celery sticks. Add them and the roasted meat to the stock pot. ![stock-veggies](./img/stock-veggies.jpg) Cover with water. Turn on the heat. Bring it to a boil and then lower the heat until you achieve the slowest simmer possible. Cover the stock pot. ![simmer-stock](./img/simmer-stock.jpg) Periodically you want to skim off the large bubbles with a spoon. These are impurities. I do this maybe 5 times in the first few hours and then leave it alone. ![filter-stock](./img/filter-stock.jpg) Let it sit on the stove with a very low simmer for 24-72 hours. The simmer should be slow enough that you can easily count the bubbles as they rise to the surface. With 10 minutes remaining, add a handful of parsley. ![beef-stock](./img/beef-stock.jpg) Turn off the heat and let it cool. Using tongs, pull out the large chunks of meat and bones. Throw that away. Then using a strainer, filter out everything else. Pour the broth into jars. Unless you plan on using the broth in the next day, put the jars into the freezer. There you have it. I do this about once a month. I then add some broth to whatever stew or soup I am making.
+_Update: This is technically a beef stock, as it uses roasted bones._
+
+I've recently discovered a magical elixir. It helps me recovery from workouts faster, protects me from [incoming radiation](/2011/03/nutrition-radiation/), keeps my skin looking great and it tastes awesome. The magical potion is a homemade beef broth. It takes 24-72 hours to make, but is worth the effort. I use the recipe found in the book Nourishing Traditions by Sally Fallon.
+
+Put knuckle bone into stock pot. Add 1/2 cup of vinegar. Cover with water.
+
+![soak-bone](./img/soak-bone.jpg)
+
+Roast Beef Soup Bones for 30-45 minutes at 350 degrees.
+
+![roast-soup-bone](./img/roast-soup-bone.jpg)
+
+![roasted-soup-bones](./img/roasted-soup-bones.jpg)
+
+Cut up a few onions, carrots and celery sticks. Add them and the roasted meat to the stock pot.
+
+![stock-veggies](./img/stock-veggies.jpg)
+
+Cover with water. Turn on the heat. Bring it to a boil and then lower the heat until you achieve the slowest simmer possible. Cover the stock pot.
+
+![simmer-stock](./img/simmer-stock.jpg)
+
+Periodically you want to skim off the large bubbles with a spoon. These are impurities. I do this maybe 5 times in the first few hours and then leave it alone.
+
+![filter-stock](./img/filter-stock.jpg)
+
+Let it sit on the stove with a very low simmer for 24-72 hours. The simmer should be slow enough that you can easily count the bubbles as they rise to the surface. With 10 minutes remaining, add a handful of parsley.
+
+![beef-stock](./img/beef-stock.jpg)
+
+Turn off the heat and let it cool. Using tongs, pull out the large chunks of meat and bones. Throw that away. Then using a strainer, filter out everything else. Pour the broth into jars. Unless you plan on using the broth in the next day, put the jars into the freezer.
+
+There you have it. I do this about once a month. I then add some broth to whatever stew or soup I am making.
 
 ---
 

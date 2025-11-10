@@ -9,7 +9,31 @@ description: "Earlier this week I saw a video showing how to make bacon-wrapped 
 commentCount: 12
 ---
 
-Earlier this week I saw a video showing how to make bacon-wrapped egg cupcakes. I was so inspired that I made the recipe twice. The first time I did a scrambled egg version, The second time, I took the advice in the video and did the eggs "sunny side up". I had made up bacon ahead of time. Having more uniform-sized pieces would have made the cupcake more pretty, but won't make a difference with the cupcake taste or structural integrity. To prevent the cupcake from sticking to the tray, I smeared in some bacon fat first. ![bacon-egg-cupcakes-tray](./img/bacon-egg-cupcakes-tray.jpg) _Wrapping the cupcake tray with bacon._ ![eggs-cupcake](./img/eggs-cupcake.jpg) _Here I added the scrambled eggs._ ![bacon-egg-cupcake-1](./img/bacon-egg-cupcake-1.jpg) _Bacon Egg Cupcakes Take #1_ ![eggs-cupcake-tray](./img/eggs-cupcake-tray.jpg) _The next day I didn't scramble the eggs and just placed them in whole._ ![bacon-egg-cupcakes-2](./img/bacon-egg-cupcakes-2.jpg) _Bacon Egg Cupcakes Take #2_ I baked these at 385 degrees for 15 minutes. Take #1 tasted good, but Take #2 was excellent. For Take #3, I am going to sprinkle in some red pepper flakes.
+Earlier this week I saw a video showing how to make bacon-wrapped egg cupcakes. I was so inspired that I made the recipe twice. The first time I did a scrambled egg version, The second time, I took the advice in the video and did the eggs "sunny side up".
+
+I had made up bacon ahead of time. Having more uniform-sized pieces would have made the cupcake more pretty, but won't make a difference with the cupcake taste or structural integrity. To prevent the cupcake from sticking to the tray, I smeared in some bacon fat first.
+
+![bacon-egg-cupcakes-tray](./img/bacon-egg-cupcakes-tray.jpg)
+
+_Wrapping the cupcake tray with bacon._
+
+![eggs-cupcake](./img/eggs-cupcake.jpg)
+
+_Here I added the scrambled eggs._
+
+![bacon-egg-cupcake-1](./img/bacon-egg-cupcake-1.jpg)
+
+_Bacon Egg Cupcakes Take #1_
+
+![eggs-cupcake-tray](./img/eggs-cupcake-tray.jpg)
+
+_The next day I didn't scramble the eggs and just placed them in whole._
+
+![bacon-egg-cupcakes-2](./img/bacon-egg-cupcakes-2.jpg)
+
+_Bacon Egg Cupcakes Take #2_
+
+I baked these at 385 degrees for 15 minutes. Take #1 tasted good, but Take #2 was excellent. For Take #3, I am going to sprinkle in some red pepper flakes.
 
 ---
 

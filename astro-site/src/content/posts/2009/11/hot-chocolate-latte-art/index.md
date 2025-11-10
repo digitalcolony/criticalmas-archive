@@ -8,7 +8,13 @@ description: "Victrola Coffee proves that latte art works just as well on hot ch
 commentCount: 4
 ---
 
-Victrola Coffee proves that latte art works just as well on hot chocolate. ![](http://farm3.static.flickr.com/2681/4098459744_dc7df54253.jpg "hot chocolate latte art") _Source:_ [Victrola Coffee](http://www.victrolacoffee.com/) - Official website.
+Victrola Coffee proves that latte art works just as well on hot chocolate.
+
+![](http://farm3.static.flickr.com/2681/4098459744_dc7df54253.jpg "hot chocolate latte art")
+
+_Source:_
+
+[Victrola Coffee](http://www.victrolacoffee.com/) - Official website.
 
 ---
 

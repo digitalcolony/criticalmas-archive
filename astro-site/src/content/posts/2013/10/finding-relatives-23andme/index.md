@@ -9,7 +9,25 @@ description: "Back in April, I shared my genetic test results from 23andMe. That
 commentCount: 7
 ---
 
-Back in April, I shared my genetic test [results from 23andMe](/2013/04/23andme-results/). That post focused on the health side of the test. At that time, I didn't really pay much attention to the ancestry side of the application. My thinking was that as more people signed up, my relatives would be found and connected. So today I revisited the ancestry side and found I have been genetically connected to 993 other _23andMe_ members. The relationship distance is between 3rd and "distant" cousin. I think "distant" means greater than 6th cousin. To protect the privacy of my "cuzs", I'm not going to post a screenshot with their names. Instead, below I'm sharing a map view of where _23andMe_ has found my relatives so far. ![23 and Me - North America](./img/23andMe-NorthAmerica.jpg) ![23 and Me - Europe](./img/23andMe-Europe.jpg) _23andMe_ has not found a single relative of mine in Asia, Africa, or South America. Either that confirms that I really am 99.5% European or that _23andMe_ isn't as popular in those continents. The maps do show I have a 5th cousin in Novosibirsk, Russia. Those in my family that have looked into the genealogy have said our roots are mostly in England and Germany. Drilling into the European map confirms that. ![23andMe USA](./img/23andMe-USA.jpg) When I drill into the detail for the USA, I see the heaviest concentrations in Ohio, Pennsylvania, Virginia, and North Carolina. This is completely in line with what I know about my family's genealogy. It will be interesting to monitor the map as more and more people sign up for the test. PS - I just checked the health side again. There are still running new tests against my genetic profile. Another test in August further confirmed my Decreased Risk for Alzheimer's Disease.
+Back in April, I shared my genetic test [results from 23andMe](/2013/04/23andme-results/). That post focused on the health side of the test. At that time, I didn't really pay much attention to the ancestry side of the application. My thinking was that as more people signed up, my relatives would be found and connected.
+
+So today I revisited the ancestry side and found I have been genetically connected to 993 other _23andMe_ members. The relationship distance is between 3rd and "distant" cousin. I think "distant" means greater than 6th cousin. To protect the privacy of my "cuzs", I'm not going to post a screenshot with their names. Instead, below I'm sharing a map view of where _23andMe_ has found my relatives so far.
+
+![23 and Me - North America](./img/23andMe-NorthAmerica.jpg)
+
+![23 and Me - Europe](./img/23andMe-Europe.jpg)
+
+_23andMe_ has not found a single relative of mine in Asia, Africa, or South America. Either that confirms that I really am 99.5% European or that _23andMe_ isn't as popular in those continents. The maps do show I have a 5th cousin in Novosibirsk, Russia.
+
+Those in my family that have looked into the genealogy have said our roots are mostly in England and Germany. Drilling into the European map confirms that.
+
+![23andMe USA](./img/23andMe-USA.jpg)
+
+When I drill into the detail for the USA, I see the heaviest concentrations in Ohio, Pennsylvania, Virginia, and North Carolina. This is completely in line with what I know about my family's genealogy.
+
+It will be interesting to monitor the map as more and more people sign up for the test.
+
+PS - I just checked the health side again. There are still running new tests against my genetic profile. Another test in August further confirmed my Decreased Risk for Alzheimer's Disease.
 
 ---
 

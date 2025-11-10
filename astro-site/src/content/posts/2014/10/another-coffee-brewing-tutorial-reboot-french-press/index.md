@@ -9,13 +9,21 @@ description: "This year I have gone back and rewritten a few of the older brewin
 commentCount: 6
 ---
 
-This year I have gone back and rewritten a few of the older brewing tutorials on [INeedCoffee](https://ineedcoffee.com). Unlike this site which has built a loyal audience over time, most of the people who access INeedCoffee are hit and run. They come looking for specific information, read it and leave. So what I have been doing is swapping out the old tutorials for new ones. New verbiage and new photos. Same URL. Then I change the article date to today and "re-release". I call this process the "Reverse Indy". ![reverse indy](./img/reverse-indy.jpg) _Replace the lame French Press tutorial with the shiny new one. Same URL so no bookmarks break._  Until a few minutes ago, INeedCoffee has had two different tutorials for the French Press. One sucked (1999) and one was OK (2002, updated several times). The problem was they competed for audience. Search engines would deliver half the users to one and half to the other. Today I deleted the sucky one and redirected that link to the other tutorial. The other tutorial was completely rewritten.
+This year I have gone back and rewritten a few of the older brewing tutorials on [INeedCoffee](https://ineedcoffee.com). Unlike this site which has built a loyal audience over time, most of the people who access INeedCoffee are hit and run. They come looking for specific information, read it and leave. So what I have been doing is swapping out the old tutorials for new ones. New verbiage and new photos. Same URL. Then I change the article date to today and "re-release". I call this process the "Reverse Indy".
+
+![reverse indy](./img/reverse-indy.jpg)
+
+_Replace the lame French Press tutorial with the shiny new one. Same URL so no bookmarks break._ 
+
+Until a few minutes ago, INeedCoffee has had two different tutorials for the French Press. One sucked (1999) and one was OK (2002, updated several times). The problem was they competed for audience. Search engines would deliver half the users to one and half to the other. Today I deleted the sucky one and redirected that link to the other tutorial. The other tutorial was completely rewritten.
 
 
 #### [French Press Tutorial](https://ineedcoffee.com/press-pot-tutorial/)
 
 
-![french Press](./img/french-press-depressed-plunger.jpg) I actually wrote this tutorial from memory as I quit using a French Press a few years ago in favor of the Clever and [Aeropress](https://ineedcoffee.com/upside-aeropress-coffee-brewing-tutorial/).
+![french Press](./img/french-press-depressed-plunger.jpg)
+
+I actually wrote this tutorial from memory as I quit using a French Press a few years ago in favor of the Clever and [Aeropress](https://ineedcoffee.com/upside-aeropress-coffee-brewing-tutorial/).
 
 ---
 

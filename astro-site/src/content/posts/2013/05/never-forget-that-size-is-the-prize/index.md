@@ -9,21 +9,33 @@ description: "Gather around my fellow ectomorphs. I have something to say about 
 commentCount: 40
 ---
 
-Gather around my fellow ectomorphs. I have something to say about weight training. My belief is that our goals got mixed up when we started following the bad advice of genetically gifted mesomorphic fitness trainers. **We forgot why we started lifting weights.** I'm going to speak for myself, but I'm pretty sure I'm not alone. **The reason I started lifting weights was to gain muscle. I wanted to be bigger.** I did not like having scrawny arms and legs. I wanted muscle. Back then the scrawny hipster look didn't exist. Back then being a [Stick Boy](/2008/09/the-stick-boy-explained/) sucked. Like many other lanky males, I joined a gym to get muscle and size. The first 10 pounds of muscle came effortlessly. Using the machines was a great introduction to strength training. But then like other ectomorphs I got impatient and made the classic false assumption made by so many.
+Gather around my fellow ectomorphs. I have something to say about weight training. My belief is that our goals got mixed up when we started following the bad advice of genetically gifted mesomorphic fitness trainers. **We forgot why we started lifting weights.**
+
+I'm going to speak for myself, but I'm pretty sure I'm not alone. **The reason I started lifting weights was to gain muscle. I wanted to be bigger.** I did not like having scrawny arms and legs. I wanted muscle. Back then the scrawny hipster look didn't exist. Back then being a [Stick Boy](/2008/09/the-stick-boy-explained/) sucked.
+
+Like many other lanky males, I joined a gym to get muscle and size. The first 10 pounds of muscle came effortlessly. Using the machines was a great introduction to strength training. But then like other ectomorphs I got impatient and made the classic false assumption made by so many.
 
 > If the big guys in the gym are lifting free weights and not using machines, then free weights must be better for size. And the guys who lift the most weight tend to be the biggest, therefore to get bigger I needed to lift heavier free weights.
 
-I could spend paragraphs going through all the false assumptions, but instead, I want to focus on how the goal of "getting bigger" got replaced with "getting stronger" and that "getting stronger" became defined as lifting more pounds using the classic bodybuilding exercises of barbell squat, bench press, and the deadlift. Now I have come to believe that the quest to get stronger using classic definitions of strength is a major factor in limiting the muscular potential of ectomorphs. But I am getting ahead of myself. ![MAS Flex](./img/mas_flex500.jpg)
+I could spend paragraphs going through all the false assumptions, but instead, I want to focus on how the goal of "getting bigger" got replaced with "getting stronger" and that "getting stronger" became defined as lifting more pounds using the classic bodybuilding exercises of barbell squat, bench press, and the deadlift.
+
+Now I have come to believe that the quest to get stronger using classic definitions of strength is a major factor in limiting the muscular potential of ectomorphs. But I am getting ahead of myself.
+
+![MAS Flex](./img/mas_flex500.jpg)
 
 
 ### Come for the Muscle, Stay For "the Strength"
 
 
-I fell for it. At a certain point, I found gaining muscle difficult. I was doing squats, deadlifts, and benching. I read everything. Pavel, Bill Pearl, T-Nation, and hundreds if not thousands of articles and posts on getting stronger. I assumed that I needed to get a lot stronger to get bigger and getting stronger meant lifting heavier weights and training more frequently. There is nothing wrong with getting stronger, but that wasn't the original goal. Which brings us to the question - what is strength? I found this [definition of muscular strength](http://exercise.about.com/cs/exercisehealth/g/muscle_strength.htm) by Paige Waehner on About.com:
+I fell for it. At a certain point, I found gaining muscle difficult. I was doing squats, deadlifts, and benching. I read everything. Pavel, Bill Pearl, T-Nation, and hundreds if not thousands of articles and posts on getting stronger. I assumed that I needed to get a lot stronger to get bigger and getting stronger meant lifting heavier weights and training more frequently.
+
+There is nothing wrong with getting stronger, but that wasn't the original goal. Which brings us to the question - what is strength? I found this [definition of muscular strength](http://exercise.about.com/cs/exercisehealth/g/muscle_strength.htm) by Paige Waehner on About.com:
 
 > Strength refers to a muscle's ability to generate force against physical objects. In the fitness world, this typically refers to **how much weight you can lift** for different strength training exercises.
 
-If strength is measured in how much weight we can lift, then how can we lift more weight? **By making the movement as EASY as possible.** The way you do that is by executing a perfect form where the weight moves quickly through each repetition. You want the amount of time the weight spends on the targeted muscles minimized. If the weight spends too much time on the targeted muscles, fatigue will set in and the repetition will be aborted. When you watch a weight-class powerlifter, there is fluidity in the movement. Almost like a dance. Certainly, they are strong, but the grace of the movement is equally as impressive. They are using momentum to get their numbers up. In the interview with High Intensity Trainer Luke Carlson on [Conditioning Research](https://conditioningresearch.blogspot.com/2009/04/revisiting-this-idea-of-functional.html), Luke said:
+If strength is measured in how much weight we can lift, then how can we lift more weight? **By making the movement as EASY as possible.** The way you do that is by executing a perfect form where the weight moves quickly through each repetition. You want the amount of time the weight spends on the targeted muscles minimized. If the weight spends too much time on the targeted muscles, fatigue will set in and the repetition will be aborted.
+
+When you watch a weight-class powerlifter, there is fluidity in the movement. Almost like a dance. Certainly, they are strong, but the grace of the movement is equally as impressive. They are using momentum to get their numbers up. In the interview with High Intensity Trainer Luke Carlson on [Conditioning Research](https://conditioningresearch.blogspot.com/2009/04/revisiting-this-idea-of-functional.html), Luke said:
 
 > If the weight actually moves fast during strength training, momentum is introduced and muscle tension is reduced (as the musculature is essentially unloaded); this is the exact opposite of the goal of strength training and the requirement for muscle fiber recruitment.
 

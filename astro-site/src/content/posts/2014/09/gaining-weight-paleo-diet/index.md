@@ -15,13 +15,23 @@ Yesterday I listened to Chris Kresser's podcast on how to gain weight on a Paleo
 -   The first half the show Chris goes into all kinds of ailments one could have that would prevent weight gain. If you are sick this section is worth listening to. Otherwise you'll be a ball of stress.
 -   The second half was valuable as it had all the dietary tricks. The main ones being don't fear the carbs, eat starchy veggies and dairy if you can. Chris also likes high calorie smoothies.
 
-At one point Chris advises to eat liberally from all the macronutrients: carbs, protein and fat. This is where my advice would deviate slightly. I would advise reducing protein. Protein reduces appetite. I cover this in the post [Just Count Protein For Fat Loss](/2014/07/just-count-protein-fat-loss/). The typical paleo diet is high in protein and low in carbs. That combo can result in lower appetite, lowered calorie intake and lowered body weight. Add in a newly found active lifestyle and you could really be in a caloric deficit. Fine if you need to lose weight, but not good if you are underweight.
+At one point Chris advises to eat liberally from all the macronutrients: carbs, protein and fat. This is where my advice would deviate slightly. I would advise reducing protein. Protein reduces appetite. I cover this in the post [Just Count Protein For Fat Loss](/2014/07/just-count-protein-fat-loss/).
+
+The typical paleo diet is high in protein and low in carbs. That combo can result in lower appetite, lowered calorie intake and lowered body weight. Add in a newly found active lifestyle and you could really be in a caloric deficit. Fine if you need to lose weight, but not good if you are underweight.
 
 
 ### Forget Paleo, Bring on the Ice Cream!
 
 
-Chris didn't say it but I will. Ice cream is the best food you can eat to gain weight. High flavor signal, low in protein and calorie dense. _Oh nooz, what about the sugarz?_ Stop thinking about food as either good or bad. You can use "bad foods" as a tool to solve a bigger problem. If you are an over exercising, bacon eating, carb avoider stressed and unable to build an ounce of muscle on your scrawny body, ice cream is a godsend. I've been there. A few years ago my super clean Paleo/WAPF diet became effortless. I was beyond lean. Thankfully I wasn't over-exercising. My abs looked amazing, but my face looked gaunt, almost meth like. So I needed to find the best food that would upregulate my appetite. That research lead to my post [Why Ice Cream is Better than Protein Powder](/2012/07/why-ice-cream-is-better-than-protein-powder/). It worked. I gained weight. My gaunt face is gone. My body temperature is higher. My sleep is deeper and I eat wonderful ice cream. :) Chris did mention [dairy kefir](/2013/03/making-dairy-kefir-is-super-easy/), which I also recommend if you are willing to make it on a regular basis. The store bought stuff is over priced and tends to be low-fat. If you can't handle dairy, a single can of coconut milk packs 840 calories. ![MAS at Molly Moon's Ice Cream](./img/mas-molly-moons-ice-cream.jpg)
+Chris didn't say it but I will. Ice cream is the best food you can eat to gain weight. High flavor signal, low in protein and calorie dense. _Oh nooz, what about the sugarz?_ Stop thinking about food as either good or bad. You can use "bad foods" as a tool to solve a bigger problem. If you are an over exercising, bacon eating, carb avoider stressed and unable to build an ounce of muscle on your scrawny body, ice cream is a godsend.
+
+I've been there. A few years ago my super clean Paleo/WAPF diet became effortless. I was beyond lean. Thankfully I wasn't over-exercising. My abs looked amazing, but my face looked gaunt, almost meth like. So I needed to find the best food that would upregulate my appetite. That research lead to my post [Why Ice Cream is Better than Protein Powder](/2012/07/why-ice-cream-is-better-than-protein-powder/).
+
+It worked. I gained weight. My gaunt face is gone. My body temperature is higher. My sleep is deeper and I eat wonderful ice cream. :)
+
+Chris did mention [dairy kefir](/2013/03/making-dairy-kefir-is-super-easy/), which I also recommend if you are willing to make it on a regular basis. The store bought stuff is over priced and tends to be low-fat. If you can't handle dairy, a single can of coconut milk packs 840 calories.
+
+![MAS at Molly Moon's Ice Cream](./img/mas-molly-moons-ice-cream.jpg)
 
 ---
 

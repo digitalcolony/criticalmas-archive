@@ -9,7 +9,11 @@ description: "This week I received one of the greatest gifts ever. This is more 
 commentCount: 6
 ---
 
-This week I received one of the greatest gifts ever. This is more than a book. It is an eating challenge wish list. ![Yuck! The Things People Eat](https://images-na.ssl-images-amazon.com/images/I/41oBRDCPpeL.jpg) _Yuck! The Things People Eat by Neil Setchfield_ _Yuck!_ is an awesome photo-filled book full of bizarre food items. Lots of bugs, weird seafood, and animal "parts". Some of the ideas from the book I have already tried, such as [pig uterus](/2012/10/pig-uterus-still-an-offal-idea/) and [silkworm larvae](/2012/12/potato-soup-with-bugs/). But most of them are completely new to me. Korean penis fish, duck entrails, and yellow scorpions on a stick. Yummy? About half the items in this book can be found in a good Asian grocery store. The other half will require actually traveling to Asia. Works for me.
+This week I received one of the greatest gifts ever. This is more than a book. It is an eating challenge wish list.
+
+![Yuck! The Things People Eat](https://images-na.ssl-images-amazon.com/images/I/41oBRDCPpeL.jpg) _Yuck! The Things People Eat by Neil Setchfield_
+
+_Yuck!_ is an awesome photo-filled book full of bizarre food items. Lots of bugs, weird seafood, and animal "parts". Some of the ideas from the book I have already tried, such as [pig uterus](/2012/10/pig-uterus-still-an-offal-idea/) and [silkworm larvae](/2012/12/potato-soup-with-bugs/). But most of them are completely new to me. Korean penis fish, duck entrails, and yellow scorpions on a stick. Yummy? About half the items in this book can be found in a good Asian grocery store. The other half will require actually traveling to Asia. Works for me.
 
 ---
 

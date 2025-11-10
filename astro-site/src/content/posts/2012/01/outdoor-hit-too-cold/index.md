@@ -9,7 +9,13 @@ description: "I just got back from a very cold day at my gym. My gym is a neighb
 commentCount: 10
 ---
 
-I just got back from a very cold day at my gym. My gym is a neighborhood playground where I do a workout that I describe in the post [Escaping the Glitter: Taking High Intensity Training Outdoors](/2011/11/escaping-the-glitter-taking-high-intensity-training-outdoors/). It was 41 degrees today with a 10 mile an hour wind, which made it "feel like 35 degrees". I'm thinking that I found the lower boundary for my outdoor workouts. It was too cold today. ![shiver](http://farm5.staticflickr.com/4061/4290709420_d0d5ee7fe8.jpg "shiver") _[Photo](http://www.flickr.com/photos/1f2frfbf/4290709420/in/photostream/) by Ben_ One of the reasons I left the Glitter Gym was that they kept the temperature in the gym too warm. From the post [No Longer a Gym Germaphobe](/2011/10/no-longer-a-gym-germaphobe/):
+I just got back from a very cold day at my gym. My gym is a neighborhood playground where I do a workout that I describe in the post [Escaping the Glitter: Taking High Intensity Training Outdoors](/2011/11/escaping-the-glitter-taking-high-intensity-training-outdoors/). It was 41 degrees today with a 10 mile an hour wind, which made it "feel like 35 degrees". I'm thinking that I found the lower boundary for my outdoor workouts. It was too cold today.
+
+![shiver](http://farm5.staticflickr.com/4061/4290709420_d0d5ee7fe8.jpg "shiver")
+
+_[Photo](http://www.flickr.com/photos/1f2frfbf/4290709420/in/photostream/) by Ben_
+
+One of the reasons I left the Glitter Gym was that they kept the temperature in the gym too warm. From the post [No Longer a Gym Germaphobe](/2011/10/no-longer-a-gym-germaphobe/):
 
 > People continually confuse sweat with intensity. If you are sweating it is because your body is trying to cool you down. The resources and energy that could have been used for deeper muscle recruitment have been shifted to temperature regulation and now are a limiting factor in generating more intensity.
 

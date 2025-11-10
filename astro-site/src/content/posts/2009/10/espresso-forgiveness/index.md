@@ -9,7 +9,33 @@ description: "In the past two years I've had many excellent espressos here in Se
 commentCount: 9
 ---
 
-In the past two years I've had many excellent espressos here in Seattle. However, not every espresso is great. Some have been lousy. Now on any given day, it is possible to get a bad espresso from an otherwise good coffee shop. Because we have so many great coffee shops, if I get a bad espresso from one place, I probably won't go back. There are just too many great choices. This week I decided I'd give three places a second chance. All past mistakes would be forgiven. The slate would be wiped clean. Here is how my _Espresso Forgiveness_ journey went. **Caffe Fiore (QUEEN ANNE)** It has been over 6 months since I went to Caffe Fiore. On my last visit, I got an over-extracted espresso from a barista who was not trained properly. I knew Fiore could make a great espresso, as I've had a few in the past and purchased their whole bean blend as well. Espresso Forgiveness #1 was a success. I had a great espresso from Caffe Fiore. **Caffe Ladro (QUEEN ANNE)** In fairness to the good people at the Queen Anne location, I stopped going to Caffe Ladro because of the poorly trained barista at the new Issaquah location. Back in the spring, I got an awful espresso from them. Espresso Forgiveness #2 was a success. Although this blend isn't my favorite, it was still good. Not outstanding, but good. I'm still afraid of the Issaquah location. **Caffe Umbria (PIONEER SQUARE)** It has now been two years since I went to Caffe Umbria. It is an Italian-style espresso made with 100% Arabica beans. I prefer a little [robusta in my Italian espresso](/2009/10/espresso-vivace-dolce-now-without-robusta/), but it is possible to create a good Italian espresso without robusta. On my one visit two years ago, my drink was made correctly (I think), but the flavor was bitter. Espresso Forgiveness #3 was a failure. Not only is this espresso blend tasteless and bitter, but my double ristretto was served in a cappuccino cup. How this place stays in business when it is located between two vastly superior espresso places (Zeitgeist and Stella) amazes me. ![](./img/umbria-seattle.jpg) _Caffe Umbria in the Pioneer Square area of Seattle._ The Espresso Forgiveness project was a success. I was able to add two coffee places back into my rotation (Fiore, Ladro) and send one to the "dead for life" list (Umbria). I might do this again.
+In the past two years I've had many excellent espressos here in Seattle. However, not every espresso is great. Some have been lousy. Now on any given day, it is possible to get a bad espresso from an otherwise good coffee shop. Because we have so many great coffee shops, if I get a bad espresso from one place, I probably won't go back. There are just too many great choices.
+
+This week I decided I'd give three places a second chance. All past mistakes would be forgiven. The slate would be wiped clean. Here is how my _Espresso Forgiveness_ journey went.
+
+**Caffe Fiore (QUEEN ANNE)**
+
+It has been over 6 months since I went to Caffe Fiore. On my last visit, I got an over-extracted espresso from a barista who was not trained properly. I knew Fiore could make a great espresso, as I've had a few in the past and purchased their whole bean blend as well.
+
+Espresso Forgiveness #1 was a success. I had a great espresso from Caffe Fiore.
+
+**Caffe Ladro (QUEEN ANNE)**
+
+In fairness to the good people at the Queen Anne location, I stopped going to Caffe Ladro because of the poorly trained barista at the new Issaquah location. Back in the spring, I got an awful espresso from them.
+
+Espresso Forgiveness #2 was a success. Although this blend isn't my favorite, it was still good. Not outstanding, but good. I'm still afraid of the Issaquah location.
+
+**Caffe Umbria (PIONEER SQUARE)**
+
+It has now been two years since I went to Caffe Umbria. It is an Italian-style espresso made with 100% Arabica beans. I prefer a little [robusta in my Italian espresso](/2009/10/espresso-vivace-dolce-now-without-robusta/), but it is possible to create a good Italian espresso without robusta. On my one visit two years ago, my drink was made correctly (I think), but the flavor was bitter.
+
+Espresso Forgiveness #3 was a failure. Not only is this espresso blend tasteless and bitter, but my double ristretto was served in a cappuccino cup. How this place stays in business when it is located between two vastly superior espresso places (Zeitgeist and Stella) amazes me.
+
+![](./img/umbria-seattle.jpg)
+
+_Caffe Umbria in the Pioneer Square area of Seattle._
+
+The Espresso Forgiveness project was a success. I was able to add two coffee places back into my rotation (Fiore, Ladro) and send one to the "dead for life" list (Umbria). I might do this again.
 
 ---
 

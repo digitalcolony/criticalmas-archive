@@ -9,11 +9,17 @@ description: "At the start of this year, I stopped doing daily cold temperature 
 commentCount: 21
 ---
 
-At the start of this year, I stopped doing daily [cold temperature exposure](https://criticalmas.org/best-of/cold-weather-training/), which is something I have been practicing since 2008. No more cold showers and I could even be spotted walking around Seattle wearing a thin sweater. Never a coat though. The reason I abandoned cold exposure was I couldn't figure out why my body felt so cold in the morning. I decided to reboot. In an effort to increase my morning temperature, I also cut back on [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/). I increased my food intake and added more carbs to my diet. I was trying to put a fire under my metabolism. I was lean, healthy, but damn cold in the morning. The interesting thing was that adding more heat and more calories did nothing to make me feel warmer. My hands were still ice cold. When the Cold Thermogenesis topic caught fire with Jack Kruse and Richard Nikoley, I decided to take a side seat and watch their results from afar. That was the plan. Then I read a paragraph on _FreeTheAnimal_ that inspired me to try cold water exposure. From the post Putting it All Together: Moderate Carb Paleo, Resistance Training & Kettlebells, Intermittent Fasting and Cold Thermogenesis: (MAY 2021: link behind paywall)
+At the start of this year, I stopped doing daily [cold temperature exposure](https://criticalmas.org/best-of/cold-weather-training/), which is something I have been practicing since 2008. No more cold showers and I could even be spotted walking around Seattle wearing a thin sweater. Never a coat though. The reason I abandoned cold exposure was I couldn't figure out why my body felt so cold in the morning. I decided to reboot.
+
+In an effort to increase my morning temperature, I also cut back on [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/). I increased my food intake and added more carbs to my diet. I was trying to put a fire under my metabolism. I was lean, healthy, but damn cold in the morning. The interesting thing was that adding more heat and more calories did nothing to make me feel warmer. My hands were still ice cold.
+
+When the Cold Thermogenesis topic caught fire with Jack Kruse and Richard Nikoley, I decided to take a side seat and watch their results from afar. That was the plan. Then I read a paragraph on _FreeTheAnimal_ that inspired me to try cold water exposure. From the post Putting it All Together: Moderate Carb Paleo, Resistance Training & Kettlebells, Intermittent Fasting and Cold Thermogenesis: (MAY 2021: link behind paywall)
 
 > ... from _my very first session_ almost a month ago, 26 minutes at 52 degrees, I have not experienced cold hands or feet a single time. Not once. In fact, I sometimes feel as though I'm radiating heat off the palms of my hands and soles of my feet. Weird.
 
-I'm not sure how I missed that when the post went out, but I would happily jump into cold water to fix my cold hands. And with that piece of information, I began swimming in Puget Sound, which is just minutes from my place. The water temperature is between 49-50° F. I began logging my sessions in a shared spreadsheet. **[Cold Exposure](https://docs.google.com/spreadsheet/ccc?key=0Ah7un7bmW3oBdGowUE4yUTBudFVqZ0N5WllMQ1JiYlE)**
+I'm not sure how I missed that when the post went out, but I would happily jump into cold water to fix my cold hands. And with that piece of information, I began swimming in Puget Sound, which is just minutes from my place. The water temperature is between 49-50° F. I began logging my sessions in a shared spreadsheet.
+
+**[Cold Exposure](https://docs.google.com/spreadsheet/ccc?key=0Ah7un7bmW3oBdGowUE4yUTBudFVqZ0N5WllMQ1JiYlE)**
 
 
 ### ![Cold Water Safety](./img/ct-sign.jpg "Cold Water Safety")
@@ -31,13 +37,17 @@ I'm going to divide the cold water exposure session into 3 acts.
 2.  Being in the cold water.
 3.  Warming up once you get out of the cold water.
 
-After the first session, the initial plunge was easy. Being in the cold water also got very easy, very quickly. I went from 2 minutes to 14 minutes in just a few days. It became enjoyable, peaceful and something I looked forward to. However, my problem was with warming up. My toes got very numb and pale. They were taking about an hour to regain full feeling and during this time I was experiencing very mild pain. It has concerned me to the point that I am stopping any further cold water exposure until I understand what might be going on. As for my hands, they never warmed up. In fact, my hands are now colder than when I started. The fingers in my right hand feel sore and move slower than my left hand. _(\* The hand soreness went away after a 2-day break from the swims.)_
+After the first session, the initial plunge was easy. Being in the cold water also got very easy, very quickly. I went from 2 minutes to 14 minutes in just a few days. It became enjoyable, peaceful and something I looked forward to. However, my problem was with warming up.
+
+My toes got very numb and pale. They were taking about an hour to regain full feeling and during this time I was experiencing very mild pain. It has concerned me to the point that I am stopping any further cold water exposure until I understand what might be going on. As for my hands, they never warmed up. In fact, my hands are now colder than when I started. The fingers in my right hand feel sore and move slower than my left hand. _(\* The hand soreness went away after a 2-day break from the swims.)_
 
 
 ### Taking a Break
 
 
-I thought I was being cautious by gradually increasing the time. My times and temperatures were far more conservative than those used by others doing Cold Thermogenesis, so I'm not sure what I should be doing next. Maybe cold water exposure won't help my hands or maybe I need to give it more time? I do enjoy being in the water and I'd love to continue - even it is just for post-workout recovery. But for now, I'll be suspending my Puget Sound swims until I know more. If you have any wisdom to share, please drop me a comment.
+I thought I was being cautious by gradually increasing the time. My times and temperatures were far more conservative than those used by others doing Cold Thermogenesis, so I'm not sure what I should be doing next. Maybe cold water exposure won't help my hands or maybe I need to give it more time? I do enjoy being in the water and I'd love to continue - even it is just for post-workout recovery. But for now, I'll be suspending my Puget Sound swims until I know more.
+
+If you have any wisdom to share, please drop me a comment.
 
 ---
 

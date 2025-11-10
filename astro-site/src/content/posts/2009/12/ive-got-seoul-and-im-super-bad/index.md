@@ -9,7 +9,15 @@ description: "What do you do when you have a 12 hour layover in Seoul, Korea? Ha
 commentCount: 2
 ---
 
-What do you do when you have a 12 hour layover in Seoul, Korea? Hang out in the terminal or go exploring? Explore! It is time to put allthat [cold weather training](/2009/10/my-cold-weather-challenge-to-you/) to use. Once I step outside the terminal (minutes from now) it will be 41 F. Good thing I dropped $2.50 on a long sleeve shirt in Bangkok. ![](http://farm1.static.flickr.com/113/300928932_3bf6d408df.jpg "Rush Hour by Stuck in Customs") _Photo_ [_Rush Hour_](http://www.flickr.com/photos/stuckincustoms/300928932/) _by_ [_Stuck in Customs_](http://www.stuckincustoms.com/) \* Post title is based off the 1970 James Brown song Super Bad.
+What do you do when you have a 12 hour layover in Seoul, Korea? Hang out in the terminal or go exploring? Explore!
+
+It is time to put allthat [cold weather training](/2009/10/my-cold-weather-challenge-to-you/) to use. Once I step outside the terminal (minutes from now) it will be 41 F. Good thing I dropped $2.50 on a long sleeve shirt in Bangkok.
+
+![](http://farm1.static.flickr.com/113/300928932_3bf6d408df.jpg "Rush Hour by Stuck in Customs")
+
+_Photo_ [_Rush Hour_](http://www.flickr.com/photos/stuckincustoms/300928932/) _by_ [_Stuck in Customs_](http://www.stuckincustoms.com/)
+
+\* Post title is based off the 1970 James Brown song Super Bad.
 
 ---
 

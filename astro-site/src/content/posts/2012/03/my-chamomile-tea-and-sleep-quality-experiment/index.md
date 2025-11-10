@@ -9,7 +9,9 @@ description: "One of the most often things repeated about Chamomile Tea is that 
 commentCount: 12
 ---
 
-One of the most often things repeated about Chamomile Tea is that it improves sleep quality. For many people, this means being able to fall asleep faster. I wanted to test this assumption. For my experiment, I used a total Sleep Quality score. I brewed a single mug of loose leaf Chamomile between 3 and 5 minutes at a temperature of around 200F. The beverage was consumed within 60 minutes before going to sleep. After 60 days of data, here are the numbers. The Sleep Quality number is a score between 1 and 5, with 5 being perfect sleep.
+One of the most often things repeated about Chamomile Tea is that it improves sleep quality. For many people, this means being able to fall asleep faster. I wanted to test this assumption. For my experiment, I used a total Sleep Quality score. I brewed a single mug of loose leaf Chamomile between 3 and 5 minutes at a temperature of around 200F. The beverage was consumed within 60 minutes before going to sleep.
+
+After 60 days of data, here are the numbers. The Sleep Quality number is a score between 1 and 5, with 5 being perfect sleep.
 
 
 #### 30 Nights with Chamomile Tea = 4.17 average
@@ -29,7 +31,15 @@ Wow! At first glance, it appears that Chamomile Tea is really helping my Sleep Q
 #### 14 Nights without Chamomile Tea + Side Sleep = 4.071 average
 
 
-I'm not a statistics guru (yet), but it now appears the sleep improvement did not come from the Chamomile Tea. It came when I switched from being a back sleeper to a side sleeper. ![Chamomile](http://farm3.staticflickr.com/2677/4287011738_18b70ca395.jpg "Chamomile") _[Loose leaf Chamomile](http://www.flickr.com/photos/cjhuang/4287011738/in/photostream/) by cjhuang_ According to Ori Hofmekler, the author of the [The Anti-Estogenic Diet](/2009/10/the-anti-estrogenic-diet/) and [The Warrior Diet](/2009/04/revisiting-the-warrior-diet/), chamomile is a "powerful estrogen inhibitor". His book covers how estrogens are in the modern food supply and our environment. Excessive estrogens can make us sick and overweight. So I will continue to drink Chamomile Tea as cheap insurance against estrogens. I don't find the taste of Chamomile Tea that appealing, but I discovered that adding a pinch of [red roobios tea](https://ineedcoffee.com/red-espresso-is-espresso-style-rooibos/) makes it taste much better. Roobios is a South African bark tea that has no caffeine and its own health benefits.
+I'm not a statistics guru (yet), but it now appears the sleep improvement did not come from the Chamomile Tea. It came when I switched from being a back sleeper to a side sleeper.
+
+![Chamomile](http://farm3.staticflickr.com/2677/4287011738_18b70ca395.jpg "Chamomile")
+
+_[Loose leaf Chamomile](http://www.flickr.com/photos/cjhuang/4287011738/in/photostream/) by cjhuang_
+
+According to Ori Hofmekler, the author of the [The Anti-Estogenic Diet](/2009/10/the-anti-estrogenic-diet/) and [The Warrior Diet](/2009/04/revisiting-the-warrior-diet/), chamomile is a "powerful estrogen inhibitor". His book covers how estrogens are in the modern food supply and our environment. Excessive estrogens can make us sick and overweight. So I will continue to drink Chamomile Tea as cheap insurance against estrogens.
+
+I don't find the taste of Chamomile Tea that appealing, but I discovered that adding a pinch of [red roobios tea](https://ineedcoffee.com/red-espresso-is-espresso-style-rooibos/) makes it taste much better. Roobios is a South African bark tea that has no caffeine and its own health benefits.
 
 ---
 

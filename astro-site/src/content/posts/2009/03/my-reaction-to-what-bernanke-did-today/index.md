@@ -13,11 +13,15 @@ When I heard The Federal Reserve was going buy Treasuries (aka [Quantitative Eas
 
 > You maniacs! You blew it up! God damn you! God damn you all to hell!
 
-![planetapes](./img/planetapes.jpg "planetapes") Over on [TickerForum.org](http://tickerforum.org/akcs-www), someone asked how to explain _Quantitative Easing_ to the average American. User _Mayorquimby_ said this:
+![planetapes](./img/planetapes.jpg "planetapes")
+
+Over on [TickerForum.org](http://tickerforum.org/akcs-www), someone asked how to explain _Quantitative Easing_ to the average American. User _Mayorquimby_ said this:
 
 > Imagine you owe $20K on your credit card. Your interest is $500 a month. You can barely pay the interest. So you issue YOUR OWN credit card and LEND YOURSELF more money to pay your bills. And you expect your credit card company to INCREASE your line of credit (which is always MAXED) when the know full well that you're paying them with money borrowed against yourself!!!!
 
-Now imagine you are a country, not an individual. And instead of relying on your own population to buy that debt, you rely on foreign governments. Put yourself in the shoes of that foreign government that trusted us enough to park their savings into T-Bills. What happens next?
+Now imagine you are a country, not an individual. And instead of relying on your own population to buy that debt, you rely on foreign governments. Put yourself in the shoes of that foreign government that trusted us enough to park their savings into T-Bills.
+
+What happens next?
 
 ---
 

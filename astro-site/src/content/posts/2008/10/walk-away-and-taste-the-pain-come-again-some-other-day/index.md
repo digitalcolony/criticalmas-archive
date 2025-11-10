@@ -9,7 +9,15 @@ description: "On Monday, when the market crashed, I was away from my computer. I
 commentCount: 7
 ---
 
-On Monday, when the market crashed, I was away from my computer. I missed the entire event. In fact, I was having lunch with _Market Man,_ who is also bearish on the market. While most investors had their ass handed to them, my portfolio set a single-day record. Of course, a single day is just noise, which is why I gave back half my gains from Monday the very next day. The direction for the stock market indexes is down, but the path is not straight. ![](./img/war-of-wealth.jpg) _From FLICKR user pingnews.com ["The War of Wealth" by Strobridge & Co. Lith., ca. 1895 (LOC)](http://flickr.com/photos/pingnews/2868382770/in/set-72157594178798376/)_ Bear markets are brutal. [Buy and hold strategies](/2008/03/investing-in-stocks-for-the-long-term/) will seriously damage you in a secular bear market. If you do not feel comfortable shorting the market, whether directly or in a [managed fund](/2008/03/bear-market-investing/), the best place to be is in a fixed income fund. Return of capital is more important now than return on capital. Your goal should be to have cash at the bottom.
+On Monday, when the market crashed, I was away from my computer. I missed the entire event. In fact, I was having lunch with _Market Man,_ who is also bearish on the market. While most investors had their ass handed to them, my portfolio set a single-day record. Of course, a single day is just noise, which is why I gave back half my gains from Monday the very next day.
+
+The direction for the stock market indexes is down, but the path is not straight.
+
+![](./img/war-of-wealth.jpg)
+
+_From FLICKR user pingnews.com ["The War of Wealth" by Strobridge & Co. Lith., ca. 1895 (LOC)](http://flickr.com/photos/pingnews/2868382770/in/set-72157594178798376/)_
+
+Bear markets are brutal. [Buy and hold strategies](/2008/03/investing-in-stocks-for-the-long-term/) will seriously damage you in a secular bear market. If you do not feel comfortable shorting the market, whether directly or in a [managed fund](/2008/03/bear-market-investing/), the best place to be is in a fixed income fund. Return of capital is more important now than return on capital. Your goal should be to have cash at the bottom.
 
 ---
 

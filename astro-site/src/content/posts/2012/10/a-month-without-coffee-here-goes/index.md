@@ -9,19 +9,37 @@ description: "Today is Day 1 of my most challenging self experiment to date. I 
 commentCount: 13
 ---
 
-Today is Day 1 of my most challenging self experiment to date. **I am going to go the entire month of October without coffee. No decaf either.** My prior record was 4 days in 1997. :o I outlined my goal and plan in the previous post [My Caffeine Detox Plan](/2012/09/my-caffeine-detox-plan/). That post was written on Thursday and published on Friday. Here we are on Monday and I'm feeling super confident that I will succeed. The dark clouds already seems to be lifting. What happened? In that post, I said:
+Today is Day 1 of my most challenging self experiment to date. **I am going to go the entire month of October without coffee. No decaf either.** My prior record was 4 days in 1997. :o I outlined my goal and plan in the previous post [My Caffeine Detox Plan](/2012/09/my-caffeine-detox-plan/). That post was written on Thursday and published on Friday. Here we are on Monday and I'm feeling super confident that I will succeed. The dark clouds already seems to be lifting. What happened?
+
+In that post, I said:
 
 > There is a raging debate on whether announcing goals make you more or less accountable. Well, I am about to find out.
 
 There have been articles making the case that we should keep our goals to ourselves. Derek Sivers posted [Shut up! Announcing your plans makes you less motivated to accomplish them.](http://sivers.org/zipit)
 
-> Tests done since 1933 show that people who talk about their intentions are less likely to make them happen. Announcing your plans to others satisfies your self-identity just enough that you're less motivated to do the hard work needed.
+> Tests done since 1933 show that people who talk about their intentions are less likely to make them happen.
+> 
+> Announcing your plans to others satisfies your self-identity just enough that you're less motivated to do the hard work needed.
 
 And:
 
 > Once you've told people of your intentions, it gives you a “premature sense of completeness.”
 
-My history is that I almost never publicly announce goals unless I know there is a high probability of success. Otherwise I'm wasting everyone's time spouting off about something that likely won't happen. Being private is easier than being accountable. And being accountable is something I strongly value. Almost as if I created an experiment within an experiment, I decided to ignore Sivers advice and do the opposite of what I normally do. That is why I announced my intentions to curb my caffeine addiction in the post [Caffeinated Delusions](/2012/09/caffeinated-delusions/) and my goals in [My Caffeine Detox Plan](/2012/09/my-caffeine-detox-plan/). ![](./img/coffee-gear550.jpg "coffee-gear550") ![](./img/coffee-gear-really-gone.jpg "coffee-gear-really-gone") _Boxing up all my coffee gear and putting it into storage was motivating. I liberated the space for some of my ferments. :)_ A fascinating thing happened after I published my goal. Immediately I started believing that I was going to be successful. My confidence soared. My mood improved and I honestly didn't feel the powerful pull of coffee. Never have I reduced my caffeine levels this fast this easily. It only became easier once I hit publish on Friday. By posting my intentions, I was saying that this goal no longer had a _high probability of failure_ and as a result it instantly felt more attainable. I still have a long way to go, but I think I will succeed. Being accountable has increased my motivation and my belief in myself. Siver's article seems like sound advice, but I wonder if there are cases or personality types that are exceptions? I suspect I might be one. We will find out. I'd be interested to hear other opinions on when it is wise to announce goals, when it isn't and how that affects success rates. **UPDATE Nov 1, 2012:** [Did It! A Month Without Coffee](/2012/11/did-it-a-month-without-coffee/)
+My history is that I almost never publicly announce goals unless I know there is a high probability of success. Otherwise I'm wasting everyone's time spouting off about something that likely won't happen. Being private is easier than being accountable. And being accountable is something I strongly value.
+
+Almost as if I created an experiment within an experiment, I decided to ignore Sivers advice and do the opposite of what I normally do. That is why I announced my intentions to curb my caffeine addiction in the post [Caffeinated Delusions](/2012/09/caffeinated-delusions/) and my goals in [My Caffeine Detox Plan](/2012/09/my-caffeine-detox-plan/).
+
+![](./img/coffee-gear550.jpg "coffee-gear550")
+
+![](./img/coffee-gear-really-gone.jpg "coffee-gear-really-gone")
+
+_Boxing up all my coffee gear and putting it into storage was motivating. I liberated the space for some of my ferments. :)_
+
+A fascinating thing happened after I published my goal. Immediately I started believing that I was going to be successful. My confidence soared. My mood improved and I honestly didn't feel the powerful pull of coffee. Never have I reduced my caffeine levels this fast this easily. It only became easier once I hit publish on Friday. By posting my intentions, I was saying that this goal no longer had a _high probability of failure_ and as a result it instantly felt more attainable.
+
+I still have a long way to go, but I think I will succeed. Being accountable has increased my motivation and my belief in myself. Siver's article seems like sound advice, but I wonder if there are cases or personality types that are exceptions? I suspect I might be one. We will find out. I'd be interested to hear other opinions on when it is wise to announce goals, when it isn't and how that affects success rates.
+
+**UPDATE Nov 1, 2012:** [Did It! A Month Without Coffee](/2012/11/did-it-a-month-without-coffee/)
 
 ---
 

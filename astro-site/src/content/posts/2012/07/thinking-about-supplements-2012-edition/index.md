@@ -15,23 +15,41 @@ It has been 2 years since my [Thinking About Supplements](/2010/11/thinking-abou
 ### Supplements I No Longer Believe In
 
 
-**BCAA** - I know Leangains loves BCAA (Branched Chain Amino Acids) as does my mentor Art De Vany. The most common benefit associated with BCAA is that it preserves muscle during fasted training. I was already highly skeptical before I listened to [Brad Pilon on the Fat Burning Man podcast](http://fatburningman.com/brad-pilon-interview-intermittent-fasting-if-eat-stop-eat-and-how-much-protein/). He made a solid case that BCAA is absolutely not needed to prevent muscle loss during fasted training. **Multi-Vitamin** - I haven't taken vitamins in a few years. My goal is to eat a nutrient-dense diet with real food. But what if I couldn't cook my own food? Would I take a vitamin? No. I think our understanding of nutrition is still in its infancy and trying to fool Mother Nature could have side effects. In episode [112 of the Paleo Solution podcast](http://robbwolf.com/2011/12/27/the-paleo-solution-episode-112/), Dr. Loren Cordain sounded the alarm about vitamins.
+**BCAA** - I know Leangains loves BCAA (Branched Chain Amino Acids) as does my mentor Art De Vany. The most common benefit associated with BCAA is that it preserves muscle during fasted training. I was already highly skeptical before I listened to [Brad Pilon on the Fat Burning Man podcast](http://fatburningman.com/brad-pilon-interview-intermittent-fasting-if-eat-stop-eat-and-how-much-protein/). He made a solid case that BCAA is absolutely not needed to prevent muscle loss during fasted training.
+
+**Multi-Vitamin** - I haven't taken vitamins in a few years. My goal is to eat a nutrient-dense diet with real food. But what if I couldn't cook my own food? Would I take a vitamin? No. I think our understanding of nutrition is still in its infancy and trying to fool Mother Nature could have side effects. In episode [112 of the Paleo Solution podcast](http://robbwolf.com/2011/12/27/the-paleo-solution-episode-112/), Dr. Loren Cordain sounded the alarm about vitamins.
 
 > Yeah, there’s a series of meta-analyses that have come out in the last -- I want to say 2 to 3 years particularly from the Harvard group and others. And what we’re finding is that when we look at these enormous groups of people, 250,000 people and we look at mortality from all causes combined, what we find is that **antioxidants and vitamins, B vitamins, beta-carotene, vitamin E, they actually increase the overall mortality**.
 
-**Fish Oil** - After reading [The Perfect Health Diet](/2012/06/deep-nutrition-perfect-health-diet-and-the-end-of-overeating/), I learned that many fish oils on the shelf are rancid. It is much better to just eat fish and do everything you can to reduce your Omega 6 intake (cut out the vegetable oils). **Protein Powder** - Pure garbage. The limiting factor in gaining muscle is not protein. It is calories. I only wish I had figured this out years ago. I'll be doing a [separate post](/2012/07/why-ice-cream-is-better-than-protein-powder/) on this topic. In the meantime, if you are a young ectomorphic male, don't waste your money on this crap. Buy [ice cream](/2012/07/why-ice-cream-is-better-than-protein-powder/) instead. I'm not kidding.
+**Fish Oil** - After reading [The Perfect Health Diet](/2012/06/deep-nutrition-perfect-health-diet-and-the-end-of-overeating/), I learned that many fish oils on the shelf are rancid. It is much better to just eat fish and do everything you can to reduce your Omega 6 intake (cut out the vegetable oils).
+
+**Protein Powder** - Pure garbage. The limiting factor in gaining muscle is not protein. It is calories. I only wish I had figured this out years ago. I'll be doing a [separate post](/2012/07/why-ice-cream-is-better-than-protein-powder/) on this topic. In the meantime, if you are a young ectomorphic male, don't waste your money on this crap. Buy [ice cream](/2012/07/why-ice-cream-is-better-than-protein-powder/) instead. I'm not kidding.
 
 
 ### Supplements I Take
 
 
-**Magnesium** - So many smart people swear by Magnesium, so I take it. I'm using Glycinate because Chris Kresser has gotten the best results with his clients using that form. That is good enough for me. I feel no different when I take this and when I don't. **Vitamin D3** - I have my suspicions about our [understanding of Vitamin D3](/2011/04/think-you-know-vitamin-d/), but I still take it occasionally in the winter months. However, my primary winter source of Vitamin D3 is fermented cod liver oil. It isn't a supplement, but a real food. It also has Vitamin A. **Selenium** - The Perfect Health Diet makes a solid case for Selenium use. **Copper** - Also recommended by The Perfect Health Diet. **Creatine Monohydrate** - Earlier this year I stopped taking Creatine for a few months. I wanted to see again if this stuff really worked. Well, two weeks later and I've gained 4 pounds of "muscle". _Beefcake!_ **L-Tyrosine + 5-HTP** - I am currently working on improving my focus and mood. The book The Mood Cure suggests that based on my quiz results that I should be supplementing with L-Tyrosine and 5-HTP. I firmly believe in [L-Tyrosine](/2012/05/l-tyrosine-is-my-nzt-48/), which I posted about. I'm still testing 5-HTP. So far the one thing I've noticed with it is that my dreams are more vivid. I'll report more on this in a future post.
+**Magnesium** - So many smart people swear by Magnesium, so I take it. I'm using Glycinate because Chris Kresser has gotten the best results with his clients using that form. That is good enough for me. I feel no different when I take this and when I don't.
+
+**Vitamin D3** - I have my suspicions about our [understanding of Vitamin D3](/2011/04/think-you-know-vitamin-d/), but I still take it occasionally in the winter months. However, my primary winter source of Vitamin D3 is fermented cod liver oil. It isn't a supplement, but a real food. It also has Vitamin A.
+
+**Selenium** - The Perfect Health Diet makes a solid case for Selenium use.
+
+**Copper** - Also recommended by The Perfect Health Diet.
+
+**Creatine Monohydrate** - Earlier this year I stopped taking Creatine for a few months. I wanted to see again if this stuff really worked. Well, two weeks later and I've gained 4 pounds of "muscle". _Beefcake!_
+
+**L-Tyrosine + 5-HTP** - I am currently working on improving my focus and mood. The book The Mood Cure suggests that based on my quiz results that I should be supplementing with L-Tyrosine and 5-HTP. I firmly believe in [L-Tyrosine](/2012/05/l-tyrosine-is-my-nzt-48/), which I posted about. I'm still testing 5-HTP. So far the one thing I've noticed with it is that my dreams are more vivid. I'll report more on this in a future post.
 
 
 ### Supplements That Are Really Food
 
 
-**Icelandic Kelp Tablets** - Sea vegetables are extremely healthy. This supplement is super cheap and is an excellent source of iodine. ![Nature's Life Kelp Tablets, Icelandic, 41 Mg, 1000 Count](https://images-na.ssl-images-amazon.com/images/I/51CHMAatdOL.jpg) _Nature's Life Kelp Tablets, Icelandic, 41 Mg, 1000 Count_ **Gelatin Powder** - I first bought gelatin powder to see if it could [deepen my sleep](/2012/05/gelatin-supplementation-and-deep-sleep/). Although it didn't make my sleep better, I could see how it could really benefit others who don't regularly consume bone broths. For me, I am using this supplement post-workout to see if I increase my recoverability.
+**Icelandic Kelp Tablets** - Sea vegetables are extremely healthy. This supplement is super cheap and is an excellent source of iodine.
+
+![Nature's Life Kelp Tablets, Icelandic, 41 Mg, 1000 Count](https://images-na.ssl-images-amazon.com/images/I/51CHMAatdOL.jpg) _Nature's Life Kelp Tablets, Icelandic, 41 Mg, 1000 Count_
+
+**Gelatin Powder** - I first bought gelatin powder to see if it could [deepen my sleep](/2012/05/gelatin-supplementation-and-deep-sleep/). Although it didn't make my sleep better, I could see how it could really benefit others who don't regularly consume bone broths. For me, I am using this supplement post-workout to see if I increase my recoverability.
 
 
 ### How About You?

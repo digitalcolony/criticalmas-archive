@@ -18,13 +18,19 @@ If you are new to the Fasting Mimicking Diet or the Protein Cycling Diet, check 
 ### The Short Version
 
 
-When you strip away all the complexities, the 5-day diet is a super-low protein diet that is also low in carbs. This is an anti-aging, anti-disease biological hack that tricks the body into a repair and rebuilding process. How low on protein? Keep it under 15-20 grams a day is my short answer. You can research this number for your recommendation, but it won't be much higher.
+When you strip away all the complexities, the 5-day diet is a super-low protein diet that is also low in carbs. This is an anti-aging, anti-disease biological hack that tricks the body into a repair and rebuilding process.
+
+How low on protein? Keep it under 15-20 grams a day is my short answer. You can research this number for your recommendation, but it won't be much higher.
 
 
 ### The Simple Version
 
 
-Dr. Longo has all these menus in his book on how to eat tasty foods that achieve very low protein and carb numbers. I get that some people need to taste something great at every meal or they won't do the diet. Even if the diet drastically improves their health and lifestyle. For me, I want to think LESS about food during my FMD/PCD. A few weeks ago, I completed my 4th FMD/PCD and it went great. Here is what I ate each day for 5 days:
+Dr. Longo has all these menus in his book on how to eat tasty foods that achieve very low protein and carb numbers. I get that some people need to taste something great at every meal or they won't do the diet. Even if the diet drastically improves their health and lifestyle.
+
+For me, I want to think LESS about food during my FMD/PCD.
+
+A few weeks ago, I completed my 4th FMD/PCD and it went great. Here is what I ate each day for 5 days:
 
 -   2 medium-sized avocados
 -   steamed cabbage (red is more nutritious than green, but either works)
@@ -36,7 +42,15 @@ During the 5-days, I went to the sauna to accelerate sweat detoxification, which
 ### Results
 
 
-I dropped 9 pounds, which was more than I expected. When I resumed eating normally and supplementing with creatine, I still had a 2-pound loss and I was another 1/4 inch smaller around the waist. When I drop calories, my body gets cold. This time I had sauna access. I even went twice on Day 2. One tip, increase salt and fluid intake during this period. I was just a little hungry on Day 1 and got used to it rather quickly. My simplified approach requires almost no thought to food and food prep other than steaming and weighing cabbage. 100 grams of cabbage is just 1.4 grams of protein. The fiber in the cabbage will assist with detox as well, which is something you don't get on a pure 0 calorie fast. ![avocado](./img/charles-deluvio-avocado.jpg)
+I dropped 9 pounds, which was more than I expected. When I resumed eating normally and supplementing with creatine, I still had a 2-pound loss and I was another 1/4 inch smaller around the waist.
+
+When I drop calories, my body gets cold. This time I had sauna access. I even went twice on Day 2. One tip, increase salt and fluid intake during this period.
+
+I was just a little hungry on Day 1 and got used to it rather quickly.
+
+My simplified approach requires almost no thought to food and food prep other than steaming and weighing cabbage. 100 grams of cabbage is just 1.4 grams of protein. The fiber in the cabbage will assist with detox as well, which is something you don't get on a pure 0 calorie fast.
+
+![avocado](./img/charles-deluvio-avocado.jpg)
 
 ---
 

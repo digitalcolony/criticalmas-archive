@@ -9,25 +9,39 @@ description: "A few days ago I mentioned that I was starting the \"Turn Up the 
 commentCount: 17
 ---
 
-A few days ago I mentioned that I was starting the ["Turn Up the Heat"](/2013/03/diet-recovery-2-and-the-turn-up-the-heat-experiment/) experiment, which is my attempt to increase my body temperature. Read the previous post for the background on where I got the idea and why it could be beneficial. This post is about listing ideas on why my body temperature is lower than average and how I will try to fix it. Before proceeding with the plan to increase my body temperature, I wanted to examine the reasons why it might have gotten low in the first place. Here are the reasons from most likely to least likely.
+A few days ago I mentioned that I was starting the ["Turn Up the Heat"](/2013/03/diet-recovery-2-and-the-turn-up-the-heat-experiment/) experiment, which is my attempt to increase my body temperature. Read the previous post for the background on where I got the idea and why it could be beneficial. This post is about listing ideas on why my body temperature is lower than average and how I will try to fix it.
+
+Before proceeding with the plan to increase my body temperature, I wanted to examine the reasons why it might have gotten low in the first place. Here are the reasons from most likely to least likely.
 
 
 ### #1 Drink Too Much Liquid
 
 
-I have consumed a ridiculous amount of water for more than 20 years. During [Army Basic Training](/2008/04/military-mas/), drill sergeants would order us to drink a full canteen of water almost every hour. They didn't want any recruit to get heat exhaustion in the hot Georgia sun. After leaving the military, I fell victim to the health advice that we need to drink massive amounts of water. And I did. This I learned from Matt Stone can lower metabolism. During college, I listened to a radio show by Dr. Dean Edell. A caller was concerned about the diuretic effect of coffee. The good doctor's advice was to relax and drink more water. And I did. Then during my fling with microbrewery beers, I chased every pint of ale with a pint of water - to avoid dehydration or something like that. By 2009, I had stopped drinking beer and thanks to Art De Vany was drinking a lot less water. But I still drank a lot of coffee and tea. I also was likely still drinking too much water, especially in the morning. For more information on over-hydration read Matt Stone's post [How Much Water Should YOU Drink?](https://web.archive.org/web/20131023125611/http://180degreehealth.com/2012/02/how-much-water-should-you-drink). Also, listen to [Episode 6: Matt Stone/180 Degree Health - The Bobby Pickles Podcast](http://youtu.be/EAqjTY1zzFo?t=29m) from minutes 29 to 32.
+I have consumed a ridiculous amount of water for more than 20 years. During [Army Basic Training](/2008/04/military-mas/), drill sergeants would order us to drink a full canteen of water almost every hour. They didn't want any recruit to get heat exhaustion in the hot Georgia sun. After leaving the military, I fell victim to the health advice that we need to drink massive amounts of water. And I did. This I learned from Matt Stone can lower metabolism.
+
+During college, I listened to a radio show by Dr. Dean Edell. A caller was concerned about the diuretic effect of coffee. The good doctor's advice was to relax and drink more water. And I did. Then during my fling with microbrewery beers, I chased every pint of ale with a pint of water - to avoid dehydration or something like that.
+
+By 2009, I had stopped drinking beer and thanks to Art De Vany was drinking a lot less water. But I still drank a lot of coffee and tea. I also was likely still drinking too much water, especially in the morning.
+
+For more information on over-hydration read Matt Stone's post [How Much Water Should YOU Drink?](https://web.archive.org/web/20131023125611/http://180degreehealth.com/2012/02/how-much-water-should-you-drink). Also, listen to [Episode 6: Matt Stone/180 Degree Health - The Bobby Pickles Podcast](http://youtu.be/EAqjTY1zzFo?t=29m) from minutes 29 to 32.
 
 
 ### #2 Excess PUFA
 
 
-Up until I found the Paleo diet, like most people I was consuming veggie oil, which is loaded with unhealthy PUFA. I've since ditched those unhealthy fats for coconut oil and butter. However, for the past few years I've been eating lots of almonds, almond butter, and sunflower seeds. For the longest time, I tried justifying [eating almonds](/2012/04/food-reward-test-almonds-vs-almond-butter/). They provided me with a high level of satiety, which helped me sleep better. But nuts and seeds are still loaded with Omega 6 fats, which are bad for metabolism. About two weeks ago, I stopped eating nuts and seeds. To replace calories, I've started eating more cheese. It is the only other food that even comes close to providing the same level of satiety. The good news is cheese has saturated fat, which is metabolically boosting.
+Up until I found the Paleo diet, like most people I was consuming veggie oil, which is loaded with unhealthy PUFA. I've since ditched those unhealthy fats for coconut oil and butter. However, for the past few years I've been eating lots of almonds, almond butter, and sunflower seeds. For the longest time, I tried justifying [eating almonds](/2012/04/food-reward-test-almonds-vs-almond-butter/). They provided me with a high level of satiety, which helped me sleep better. But nuts and seeds are still loaded with Omega 6 fats, which are bad for metabolism.
+
+About two weeks ago, I stopped eating nuts and seeds. To replace calories, I've started eating more cheese. It is the only other food that even comes close to providing the same level of satiety. The good news is cheese has saturated fat, which is metabolically boosting.
 
 
 ### #3 Ectomorph (the lanky body type)
 
 
-The third possibility is that my body type is more of a factor in lower temperatures than what I eat or drink. I reached out to Matt Stone on Twitter with that question. [![body-type-temps](./img/body-type-temps.png)](./img/body-type-temps.png) Those are the most likely reasons for having a lower temperature. Reasons that don't apply to me are yo-yo dieting, carb restriction, or excessive exercise. I've never counted calories or carbs. And although I've done experiments with low carb, I've always cycled in higher carb days, plus my cold hands have been around a long time before I ever restricted carbs. As for exercise, I pride myself on [not having broken a sweat exercising](/2012/09/less-exercise-equals-more-fat-loss-of-course-it-does/) since leaving sunny San Diego in 2007.
+The third possibility is that my body type is more of a factor in lower temperatures than what I eat or drink. I reached out to Matt Stone on Twitter with that question.
+
+[![body-type-temps](./img/body-type-temps.png)](./img/body-type-temps.png)
+
+Those are the most likely reasons for having a lower temperature. Reasons that don't apply to me are yo-yo dieting, carb restriction, or excessive exercise. I've never counted calories or carbs. And although I've done experiments with low carb, I've always cycled in higher carb days, plus my cold hands have been around a long time before I ever restricted carbs. As for exercise, I pride myself on [not having broken a sweat exercising](/2012/09/less-exercise-equals-more-fat-loss-of-course-it-does/) since leaving sunny San Diego in 2007.
 
 
 ### How I Plan to "Turn Up the Heat"

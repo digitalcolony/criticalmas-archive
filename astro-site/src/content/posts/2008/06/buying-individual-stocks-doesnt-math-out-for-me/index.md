@@ -5,13 +5,17 @@ modifiedDate: 2015-05-01T23:02:18.000Z
 author: "MAS"
 categories: ["Finance"]
 tags: ["etfs", "stocks"]
-description: "In a post earlier this week TheTailGunner posted his success buying individual stocks since 2004. From The Market has been good to me: > On July 16th, 2004, I opened this account with $11,107.66. As..."
+description: "In a post earlier this week TheTailGunner posted his success buying individual stocks since 2004. From The Market has been good to me: > On July 16th, 2004, I opened this account with $11,107.66. > ..."
 commentCount: 12
 ---
 
 In a post earlier this week _TheTailGunner_ posted his success buying individual stocks since 2004. From The Market has been good to me:
 
-> On July 16th, 2004, I opened this account with $11,107.66. As of some time today, the account is currently worth $26,869.12. That's an increase of almost 240% in less than 4 years. Not too shabby.
+> On July 16th, 2004, I opened this account with $11,107.66.
+> 
+> As of some time today, the account is currently worth $26,869.12.
+> 
+> That's an increase of almost 240% in less than 4 years. Not too shabby.
 
 He further goes on to take a dig at us ETF investors and then provides the secret of his success.
 
@@ -22,14 +26,30 @@ I thought about how to respond to this post and I decided to do it with math. Si
 -   TheTailGunner = 240%
 -   NASDAQ 100 = 40%
 
-The extra gain earned for individual stock picking over those four years was $11,318.4. Now _TheTailGunner_ freely admits he doesn't spend the one hour per stock per week advised by Jim Cramer. But we can't all be so lucky. Most of us can't be successful active investors without some time commitment. Let us assume _TheTailGunner_ listened to Cramer and set up a portfolio of 5 stocks and spent an average of just 5 hours a week doing homework, checking stock tickers and watching CNBC. 200 weeks \* 5 hours = 1000 hours $11,318.40 / 1000 hours = $11.32 per hour. When I was active investing I was spending 15-30 hours a week on financial research and media. And I never got anywhere close to a 240% return. **Most of us don't beat the indexes.** Most professional money managers don't beat the indexes. Bill Miller of _Legg Mason_ beat the S& P 500 for 15 consecutive years, then failed to beat it for the last two. Taleb stated in [Fooled By Randomness](/2008/03/fooled-by-randomness/) that investors credit their investing skills when they are right and then blame bad luck when they are wrong. As addicting as it is to play the market I stepped away from individual stock picking after coming up with this formula.
+The extra gain earned for individual stock picking over those four years was $11,318.4. Now _TheTailGunner_ freely admits he doesn't spend the one hour per stock per week advised by Jim Cramer. But we can't all be so lucky. Most of us can't be successful active investors without some time commitment.
+
+Let us assume _TheTailGunner_ listened to Cramer and set up a portfolio of 5 stocks and spent an average of just 5 hours a week doing homework, checking stock tickers and watching CNBC.
+
+200 weeks \* 5 hours = 1000 hours
+
+$11,318.40 / 1000 hours = $11.32 per hour.
+
+When I was active investing I was spending 15-30 hours a week on financial research and media. And I never got anywhere close to a 240% return. **Most of us don't beat the indexes.** Most professional money managers don't beat the indexes. Bill Miller of _Legg Mason_ beat the S& P 500 for 15 consecutive years, then failed to beat it for the last two. Taleb stated in [Fooled By Randomness](/2008/03/fooled-by-randomness/) that investors credit their investing skills when they are right and then blame bad luck when they are wrong.
+
+As addicting as it is to play the market I stepped away from individual stock picking after coming up with this formula.
 
   (Investment \* Rate of Return Above Index)
 - (Value of Free Hour \* Weekly Hours Spent Researching \* 52)
 ------------------------------------------------------------
   Net Benefit
 
-The hours spent doing financial research have a value. Since the goal of investing is to make money, one way to value a free hour is by using our hourly billable rate. Every hour spent chasing returns is an hour we can't devote to another billable endeavor. Some investors value their free hour less than their billable hour. Fair enough. Before one starts actively investing ask yourself how much you value your free hour then run the above formula. I've ran the above formula using a wide range of values for **Return Above Index** and **Free Hour Valued Rate** and active investing never mathed out for me with the amount of money I am willing to actively invest. One criticism of this approach is my use of **Free Hour Valued Rate**. Some investors absolutely love every moment they spend on financial education and media. For those investors, ignore this entire post. Even a negative return will be entertaining. I don't regret spending thousands of hours studying finance over the past four years. I've learned enough to know success is random and that spending another thousand hours on the game won't guarantee me returns high enough to justify the effort. I now believe greater financial gain can come from pursuing another discipline with the same dedication I gave to finance. Perhaps I should just hand some money over to _TheTailGunner_ to manage and then spend my time learning Mandarian?
+The hours spent doing financial research have a value. Since the goal of investing is to make money, one way to value a free hour is by using our hourly billable rate. Every hour spent chasing returns is an hour we can't devote to another billable endeavor. Some investors value their free hour less than their billable hour. Fair enough. Before one starts actively investing ask yourself how much you value your free hour then run the above formula.
+
+I've ran the above formula using a wide range of values for **Return Above Index** and **Free Hour Valued Rate** and active investing never mathed out for me with the amount of money I am willing to actively invest. One criticism of this approach is my use of **Free Hour Valued Rate**. Some investors absolutely love every moment they spend on financial education and media. For those investors, ignore this entire post. Even a negative return will be entertaining.
+
+I don't regret spending thousands of hours studying finance over the past four years. I've learned enough to know success is random and that spending another thousand hours on the game won't guarantee me returns high enough to justify the effort. I now believe greater financial gain can come from pursuing another discipline with the same dedication I gave to finance.
+
+Perhaps I should just hand some money over to _TheTailGunner_ to manage and then spend my time learning Mandarian?
 
 ---
 

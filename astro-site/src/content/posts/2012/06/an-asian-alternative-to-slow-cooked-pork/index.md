@@ -9,7 +9,9 @@ description: "A month ago I outlined all the food restrictions involved in a low
 commentCount: 2
 ---
 
-A month ago I outlined all the food restrictions involved in a [low histamine diet](/2012/05/the-low-histamine-diet/). One of the no-no foods is vinegar, which is a sneaky food ingredient. I was just getting ready to load up the slow cooker with pork and BBQ sauce, when I realized that vinegar was in the sauce. I didn't want to go to the store, so I improvised. After going through every bottle in my kitchen, I discovered my oyster sauce had no vinegar in it. My dish would be Asian style. I'm not going to post this in recipe format, because it was a version one that I'm sure could be improved upon. Basically, I lined the bottom of the crock pot with onions. Added the pork shoulder. Then I made a paste of the following:
+A month ago I outlined all the food restrictions involved in a [low histamine diet](/2012/05/the-low-histamine-diet/). One of the no-no foods is vinegar, which is a sneaky food ingredient. I was just getting ready to load up the slow cooker with pork and BBQ sauce, when I realized that vinegar was in the sauce. I didn't want to go to the store, so I improvised. After going through every bottle in my kitchen, I discovered my oyster sauce had no vinegar in it. My dish would be Asian style.
+
+I'm not going to post this in recipe format, because it was a version one that I'm sure could be improved upon. Basically, I lined the bottom of the crock pot with onions. Added the pork shoulder. Then I made a paste of the following:
 
 -   diced ginger
 -   diced garlic
@@ -17,7 +19,13 @@ A month ago I outlined all the food restrictions involved in a [low histamine di
 -   some chili powder
 -   Chinese [5 Spice Powder](https://en.wikipedia.org/wiki/Five-spice_powder)
 
-I added that to the pork and mixed it up. Then I added some chicken stock and cooked it for 4 hours, with the first hour on high and the remainder on low. I served the dish on rice. It was excellent. For an improvised version one, I'm quite proud of myself. And I was able to avoid vinegar and stay low histamine. ![slow-cooked-pork](./img/slow-cooked-pork.jpg) _Asian style cook slowed pork_
+I added that to the pork and mixed it up. Then I added some chicken stock and cooked it for 4 hours, with the first hour on high and the remainder on low. I served the dish on rice. It was excellent.
+
+For an improvised version one, I'm quite proud of myself. And I was able to avoid vinegar and stay low histamine.
+
+![slow-cooked-pork](./img/slow-cooked-pork.jpg)
+
+_Asian style cook slowed pork_
 
 ---
 

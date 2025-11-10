@@ -9,7 +9,9 @@ description: "Shopping sign located in the Wallingford area of Seattle. !your-pa
 commentCount: 3
 ---
 
-Shopping sign located in the Wallingford area of Seattle. ![your-pants-must-be](./img/your-pants-must-be.jpg)
+Shopping sign located in the Wallingford area of Seattle.
+
+![your-pants-must-be](./img/your-pants-must-be.jpg)
 
 ---
 

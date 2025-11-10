@@ -15,23 +15,57 @@ I'm putting this post together as a way to gather my thoughts on the current sta
 ### WordPress is a Bloated Mess
 
 
-I've been using WordPress now since 2007. I use it on 5 of my websites now. It is probably still the best content management system out there. Almost 30% of all websites use WordPress now. As popular as it is, it has become increasingly more complex every year. The number of steps I need to go through to **properly** set up a website using WordPress is tremendous. You can absolutely run a blog without a backup plan, broken link checker, sitemaps (XML and user), SEO, favicon, custom 404 pages, HTTPS, and 30 other things. But your chance of finding an audience against sites that get it all right will be weak. Now combine this with setting up accounts with Google Webmaster, Bing Webmaster, Google Analytics, connecting the blog to a Twitter account, Facebook page, and Pinterest account. Once you get all the moving parts working for both the browser and mobile, you will likely find the site moves slow according to speed tests. Many users won't wait 3 seconds for a page to load. Some bail at 2 seconds. At this point, you can set up a Content Delivery Network to speed up the site. The speed tests will also provide a few clues on ways to make your site faster. Most will be too technical to understand. Often it means replacing things you just set up. Then you repeat the tests. You might think that once this is complete, you can focus on the content. Nope. Because WordPress is built on an ecosystem of themes, widgets, and plugins that are updated (or not updated), sites will drift toward being sluggish at best or insecure at worst without a commitment to keeping up to date on all code and performance testing. Recently a plugin I use on a few of my sites released an update that crashed my site. In the support forums, others had the same problem. Because I have been at this for a decade, I was able to connect to the server directly, rename some files, and get things working again. The average WordPress user doesn't have my technical background. The new users are just trying to come up with ideas for their next post. They have no interest in playing technical support. I have had to fix numerous issues with WordPress over the years. It is rarely easy. And if you ever need to move web hosts, transferring can be challenging and almost never goes smoothly. There are tools now - if you can find them and they are still being supported - to make transfers easier, but more than once I've had to use my SQL skills to move a WordPress site. Now bloggers have a legal risk with the GDPR and Privacy Policies should they not follow the proper steps, of which as far as I can tell, there isn't concise agreement upon. I could go on and on. The short version is that running a WordPress site competently requires technical skills and a time commitment.
+I've been using WordPress now since 2007. I use it on 5 of my websites now. It is probably still the best content management system out there. Almost 30% of all websites use WordPress now. As popular as it is, it has become increasingly more complex every year.
+
+The number of steps I need to go through to **properly** set up a website using WordPress is tremendous. You can absolutely run a blog without a backup plan, broken link checker, sitemaps (XML and user), SEO, favicon, custom 404 pages, HTTPS, and 30 other things. But your chance of finding an audience against sites that get it all right will be weak.
+
+Now combine this with setting up accounts with Google Webmaster, Bing Webmaster, Google Analytics, connecting the blog to a Twitter account, Facebook page, and Pinterest account.
+
+Once you get all the moving parts working for both the browser and mobile, you will likely find the site moves slow according to speed tests. Many users won't wait 3 seconds for a page to load. Some bail at 2 seconds. At this point, you can set up a Content Delivery Network to speed up the site. The speed tests will also provide a few clues on ways to make your site faster. Most will be too technical to understand. Often it means replacing things you just set up. Then you repeat the tests.
+
+You might think that once this is complete, you can focus on the content. Nope. Because WordPress is built on an ecosystem of themes, widgets, and plugins that are updated (or not updated), sites will drift toward being sluggish at best or insecure at worst without a commitment to keeping up to date on all code and performance testing.
+
+Recently a plugin I use on a few of my sites released an update that crashed my site. In the support forums, others had the same problem. Because I have been at this for a decade, I was able to connect to the server directly, rename some files, and get things working again.
+
+The average WordPress user doesn't have my technical background. The new users are just trying to come up with ideas for their next post. They have no interest in playing technical support.
+
+I have had to fix numerous issues with WordPress over the years. It is rarely easy. And if you ever need to move web hosts, transferring can be challenging and almost never goes smoothly. There are tools now - if you can find them and they are still being supported - to make transfers easier, but more than once I've had to use my SQL skills to move a WordPress site.
+
+Now bloggers have a legal risk with the GDPR and Privacy Policies should they not follow the proper steps, of which as far as I can tell, there isn't concise agreement upon.
+
+I could go on and on. The short version is that running a WordPress site competently requires technical skills and a time commitment.
 
 
 ### WordPress No Longer a Sign a Quality
 
 
-WordPress benefited years ago when all the smart kids left Blogger, TypePad, GeoCities, MySpace, and ten other platforms to WordPress. Because these smart kids (as a former Blogger user, I include myself on this list), went to WordPress, the average quality of a post was greater than other publishing platforms. If you don't believe that, look at the comment section of any Blogger site circa 2010. Rampant with spam. WordPress, although not perfect, was the best at filtering out spam from comments. This in turn provided those blogs with a better community of users than non-WordPress sites. In the last few years, the trend I have witnessed is the rise of the topic blogs created simply to make affiliate revenue. The writing is generic. The font and layouts are polished, but they are basically brochures used to direct traffic to Amazon. They all use WordPress. Don't get me wrong, there are still a lot of great bloggers that use WordPress, but I'm seeing a trend where the platform is increasingly being used by "bloggers" focused on affiliate revenue than those trying to share ideas. Today, you are more likely to see a WordPress blog post about the "5 Best Bread Makers" than something that is of lasting value.
+WordPress benefited years ago when all the smart kids left Blogger, TypePad, GeoCities, MySpace, and ten other platforms to WordPress. Because these smart kids (as a former Blogger user, I include myself on this list), went to WordPress, the average quality of a post was greater than other publishing platforms.
+
+If you don't believe that, look at the comment section of any Blogger site circa 2010. Rampant with spam. WordPress, although not perfect, was the best at filtering out spam from comments. This in turn provided those blogs with a better community of users than non-WordPress sites.
+
+In the last few years, the trend I have witnessed is the rise of the topic blogs created simply to make affiliate revenue. The writing is generic. The font and layouts are polished, but they are basically brochures used to direct traffic to Amazon. They all use WordPress.
+
+Don't get me wrong, there are still a lot of great bloggers that use WordPress, but I'm seeing a trend where the platform is increasingly being used by "bloggers" focused on affiliate revenue than those trying to share ideas. Today, you are more likely to see a WordPress blog post about the "5 Best Bread Makers" than something that is of lasting value.
 
 
 ### Comments are Down, Way Down
 
 
-Before I started this post, I had a hunch that people were leaving fewer comments on blogs in general, but more specifically this blog. So I hacked out an SQL query and confirmed that fact. ![](./img/comments-per-post.jpg) As you can see from the chart, comments per post have crashed on this site. The site traffic increased most years, so it is not for a lack of visitors. Not only did this blog receive more comments during the glory years of 2011 - 2016, but I was more likely to leave comments on other blogs. Now, I rarely do. What about other blogs? From the article [Is Blogging Dead? How Blogs are changing and How You Can Stay on Top](https://problogger.com/is-blogging-dead-how-blogs-are-changing-and-how-you-can-stay-on-top/) by ProBlogger:
+Before I started this post, I had a hunch that people were leaving fewer comments on blogs in general, but more specifically this blog. So I hacked out an SQL query and confirmed that fact.
+
+![](./img/comments-per-post.jpg)
+
+As you can see from the chart, comments per post have crashed on this site. The site traffic increased most years, so it is not for a lack of visitors. Not only did this blog receive more comments during the glory years of 2011 - 2016, but I was more likely to leave comments on other blogs. Now, I rarely do.
+
+What about other blogs?
+
+From the article [Is Blogging Dead? How Blogs are changing and How You Can Stay on Top](https://problogger.com/is-blogging-dead-how-blogs-are-changing-and-how-you-can-stay-on-top/) by ProBlogger:
 
 > So how many blog comments do you get, huh? Is it anything like the number you had four years ago? I doubt it very much. Practically every blogger I’ve talked to has said comments are on the decline. Why? Two words: social media.
 
-I also know of several top blogs that removed their comment section after they achieved a certain level of success. They no longer needed the feedback from their readers or they consumed that feedback on Twitter or Facebook in bite-sized chunks. I have a few more ideas on why blog comments are down:
+I also know of several top blogs that removed their comment section after they achieved a certain level of success. They no longer needed the feedback from their readers or they consumed that feedback on Twitter or Facebook in bite-sized chunks.
+
+I have a few more ideas on why blog comments are down:
 
 1.  More readers access sites with mobile. Mobile is harder to use for commenting.
 2.  Those damn CAPTCHA challenges.
@@ -41,13 +75,21 @@ I also know of several top blogs that removed their comment section after they a
 6.  There are a lot more sites to read. More reading = less writing.
 7.  Listening to podcasts and watching YouTube has made audiences more passive. (I'm guilty)
 
-Over the years, I've received many outstanding comments on this blog that have taught me lessons and shaped the way I think. The comments were essential to my story. Now they are disappearing. I haven't done a good job of engaging my readers or my peers on social media. Social media is draining for me and I try to do as little as possible. That lack of engagement probably shows.
+Over the years, I've received many outstanding comments on this blog that have taught me lessons and shaped the way I think. The comments were essential to my story. Now they are disappearing.
+
+I haven't done a good job of engaging my readers or my peers on social media. Social media is draining for me and I try to do as little as possible. That lack of engagement probably shows.
 
 
 ### Now What?
 
 
-The cool kids of today are podcasting, running YouTube channels, or have crafted email newsletters. Blogs are increasingly seen as a second channel to promote audio or video. Considering the effort it takes to run a maintained blog and the lack of engagement, is it still worth it? It seems to be for those running a business, but less so for those of us that want to write about our interests. I have no interest in starting a podcast, YouTube channel, or even running a newsletter. However, I do go back and forth on using [Medium](https://medium.com/@CriticalMAS) as a primary blogging platform. As a reader, I really like the experience and the articles do receive quality comments. As a writer, they make it so simple. 1000x easier than running a self-hosted WordPress blog. However, like all other social networks, Medium hides content, even from those you follow. I also don't know where that company will be in 10 years. Too many content creators have gotten burned digital sharecropping only to lose it all when it goes away. Do you have any thoughts or advice for me or another blogger?
+The cool kids of today are podcasting, running YouTube channels, or have crafted email newsletters. Blogs are increasingly seen as a second channel to promote audio or video. Considering the effort it takes to run a maintained blog and the lack of engagement, is it still worth it? It seems to be for those running a business, but less so for those of us that want to write about our interests.
+
+I have no interest in starting a podcast, YouTube channel, or even running a newsletter. However, I do go back and forth on using [Medium](https://medium.com/@CriticalMAS) as a primary blogging platform. As a reader, I really like the experience and the articles do receive quality comments. As a writer, they make it so simple. 1000x easier than running a self-hosted WordPress blog.
+
+However, like all other social networks, Medium hides content, even from those you follow. I also don't know where that company will be in 10 years. Too many content creators have gotten burned digital sharecropping only to lose it all when it goes away.
+
+Do you have any thoughts or advice for me or another blogger?
 
 ---
 

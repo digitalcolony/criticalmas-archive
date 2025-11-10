@@ -13,7 +13,15 @@ Back in April, I received an excellent recommendation from Tezza in the [comment
 
 > You might want to try some exercises by a guy named Eric Goodman (Foundation Training). They seem to be more related to the lower back but they are meant to help the posterior chain and posture. I've tried them for about a week now and I feel better. You can check them out on youtube for free anyhow, well at least some of them. Good luck.
 
-Now although I don't get back pain these days, there are days when I spend many hours sitting. My back and hamstrings do get tight. I was interested in finding a time efficient routine that could undo those hours in minutes. **Foundation Training is the absolute most efficient set of core, back, glute and hamstring exercises I've ever experienced.** And I've tried a lot. A word of warning, do not do the entire 12 minute routine on your first attempt. I ignored that warning and my mid-back was sore for almost two days. Even though I pushed the workout too far the first time, I could tell I was on to something. This wasn't a boring low/no intensity routine and unlike yoga or other mobility drills, the positions required weren't too complicated. To speed up my understanding of the routine, I got their book, which if you get the paperback version is beautifully edited with color photos. Although they sell a Kindle version of Foundation, I can't imagine it accurately displaying the detail of the paperback version. ![Foundation Training Book](./img/Foundation-Training-Book.jpg) _Foundation: Redefine Your Core, Conquer Back Pain, and Move with Confidence by Dr. Eric Goodman_ The video is unlisted on YouTube. It was public when I first found it. Since they sell a DVD on the [Foundation Training website](https://www.foundationtraining.com/), it is possible they might pull it at some point. Here is the link for now.
+Now although I don't get back pain these days, there are days when I spend many hours sitting. My back and hamstrings do get tight. I was interested in finding a time efficient routine that could undo those hours in minutes. **Foundation Training is the absolute most efficient set of core, back, glute and hamstring exercises I've ever experienced.** And I've tried a lot.
+
+A word of warning, do not do the entire 12 minute routine on your first attempt. I ignored that warning and my mid-back was sore for almost two days. Even though I pushed the workout too far the first time, I could tell I was on to something. This wasn't a boring low/no intensity routine and unlike yoga or other mobility drills, the positions required weren't too complicated.
+
+To speed up my understanding of the routine, I got their book, which if you get the paperback version is beautifully edited with color photos. Although they sell a Kindle version of Foundation, I can't imagine it accurately displaying the detail of the paperback version.
+
+![Foundation Training Book](./img/Foundation-Training-Book.jpg) _Foundation: Redefine Your Core, Conquer Back Pain, and Move with Confidence by Dr. Eric Goodman_
+
+The video is unlisted on YouTube. It was public when I first found it. Since they sell a DVD on the [Foundation Training website](https://www.foundationtraining.com/), it is possible they might pull it at some point. Here is the link for now.
 
 **[12 min to Perfect Posture: Free Foundation Training videos with Dr. Eric Goodman](http://youtu.be/4BOTvaRaDjI)**
 
@@ -27,7 +35,9 @@ Dr. Goodman also did a TEDx Talk titled **[The Unexpected Physical Consequences 
 ### My Results
 
 
-I no longer cheerlead any fitness method until I've had at least a few months to test it out. A lot of times things seem fine at first, but the benefits don't last or the routine becomes too time-consuming or boring. One example was my 2010 kind review of Esther Gokhale's [8 Steps to a Pain-Free Back](/2010/11/8-steps-to-a-pain-free-back/). At first, it seemed like it had value, but in the end, the recommendations were too passive and unsustainable for me. Constantly thinking about my posture was stressful. The Egoscue Exercises were more active and effective but required a much larger time commitment. Foundation solves both those issues. **Foundation Training is the best, most time-efficient set of exercises for the back and glutes I've ever done.** I've found that a single 12-minute routine can undo the damage of a few days of sitting at a desk. I highly recommend trying this routine. Just ease into the routine and get the book if you can.
+I no longer cheerlead any fitness method until I've had at least a few months to test it out. A lot of times things seem fine at first, but the benefits don't last or the routine becomes too time-consuming or boring. One example was my 2010 kind review of Esther Gokhale's [8 Steps to a Pain-Free Back](/2010/11/8-steps-to-a-pain-free-back/). At first, it seemed like it had value, but in the end, the recommendations were too passive and unsustainable for me. Constantly thinking about my posture was stressful. The Egoscue Exercises were more active and effective but required a much larger time commitment. Foundation solves both those issues.
+
+**Foundation Training is the best, most time-efficient set of exercises for the back and glutes I've ever done.** I've found that a single 12-minute routine can undo the damage of a few days of sitting at a desk. I highly recommend trying this routine. Just ease into the routine and get the book if you can.
 
 ---
 

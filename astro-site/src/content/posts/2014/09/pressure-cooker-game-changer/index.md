@@ -9,13 +9,29 @@ description: "Shortly after arriving in Seattle in 2007, I broke down and bough
 commentCount: 14
 ---
 
-Shortly after arriving in Seattle in 2007, I broke down and [bought a good coffee grinder](/2007/10/its-a-boy/). After years of thinking my old grinder was good enough to grind fine and consistent for espresso, I spent the $350 for the Rancilio Rocky. I'm frugal, so the purchase was tough to make. I'm the guy who tries to squeeze every ounce of life out of something before replacing it. So even though I had the money to buy a nice grinder, I waited until my old grinder was on life support. I still the recall that feeling I got when I pulled those first few shots. They were beautiful.  Thin rat tails of espresso poured out of the espresso machine. **In a second, I knew everything had changed.** And in a second I knew I was a fool for wasting years with that old grinder. In one day, the quality of my espresso went up 10 fold. My education and appreciation of espresso went through the roof starting at that moment. ![espresso rat tail](./img/170856635_910824d2a2_z.jpg) _[The Stream](https://flic.kr/p/g6FJ4) by Mark_
+Shortly after arriving in Seattle in 2007, I broke down and [bought a good coffee grinder](/2007/10/its-a-boy/). After years of thinking my old grinder was good enough to grind fine and consistent for espresso, I spent the $350 for the Rancilio Rocky. I'm frugal, so the purchase was tough to make. I'm the guy who tries to squeeze every ounce of life out of something before replacing it. So even though I had the money to buy a nice grinder, I waited until my old grinder was on life support.
+
+I still the recall that feeling I got when I pulled those first few shots. They were beautiful.  Thin rat tails of espresso poured out of the espresso machine. **In a second, I knew everything had changed.** And in a second I knew I was a fool for wasting years with that old grinder. In one day, the quality of my espresso went up 10 fold. My education and appreciation of espresso went through the roof starting at that moment.
+
+![espresso rat tail](./img/170856635_910824d2a2_z.jpg)
+
+_[The Stream](https://flic.kr/p/g6FJ4) by Mark_
 
 
 ### Pressure Drop
 
 
-Last week that same feeling hit me again. We got a pressure cooker for the house. I've been cooking with it every day. Sometimes twice a day. It is a game changer. Dishes that took hours are now done in minutes. The stock that took a day to make is now finished in one hour. I can bake potatoes faster in the pressure cooker than it takes to preheat the oven. I've spent the last 6 years or so teaching myself cooking. And although I am proud of what I've learned, I now realize that learning curve would have been greatly accelerated had I purchased a pressure cooker years ago. When you reduce the cooking time by magnitudes, you cook more. When you cook more, you experiment more and you learn faster. Not to mention you eat better and save money. After doing a bunch of research, we decided to go with the recommendation of America's Test Kitchen. They preferred the Fagor 8-Quart Pressure Cooker over other models. ![Fagor 8-Quart Stainless-Steel Pressure Cooker with Steamer Basket](https://images-na.ssl-images-amazon.com/images/I/41NH8BTBXEL.jpg) _Fagor 8-Quart Stainless-Steel Pressure Cooker with Steamer Basket_ When I first considered getting a pressure cooker, I had safety concerns. What I learned is that the engineering of 2nd generation pressure cookers is far superior to the old models. The article [New Valve System for Pressure Cookers](http://web.archive.org/web/20120627031134/http://missvickie.com:80/library/2ndgenerationvalves.html) details the differences between modern and old school pressure cookers. The short version is new pressure cookers are completely safe. What about the nutrient loss? The site _hip pressure cooking_ has [an article](https://www.hippressurecooking.com/3-pressure-cooker-nutrition-myths-that-just-wont-go-away-till-now/) that makes the case more nutrients are retained when pressure cooking veggies over boiling, steaming or microwaving. And the article also explains why the high temperatures in the pressure cooker don't create carcinogen compounds that occur with frying or grilling. Also, Dr. Stephan Guyenet of Whole Health Source, who is also a fan of Weston A. Price, loves his pressure cooker. Good enough for me.
+Last week that same feeling hit me again. We got a pressure cooker for the house. I've been cooking with it every day. Sometimes twice a day. It is a game changer. Dishes that took hours are now done in minutes. The stock that took a day to make is now finished in one hour. I can bake potatoes faster in the pressure cooker than it takes to preheat the oven.
+
+I've spent the last 6 years or so teaching myself cooking. And although I am proud of what I've learned, I now realize that learning curve would have been greatly accelerated had I purchased a pressure cooker years ago. When you reduce the cooking time by magnitudes, you cook more. When you cook more, you experiment more and you learn faster. Not to mention you eat better and save money.
+
+After doing a bunch of research, we decided to go with the recommendation of America's Test Kitchen. They preferred the Fagor 8-Quart Pressure Cooker over other models.
+
+![Fagor 8-Quart Stainless-Steel Pressure Cooker with Steamer Basket](https://images-na.ssl-images-amazon.com/images/I/41NH8BTBXEL.jpg) _Fagor 8-Quart Stainless-Steel Pressure Cooker with Steamer Basket_
+
+When I first considered getting a pressure cooker, I had safety concerns. What I learned is that the engineering of 2nd generation pressure cookers is far superior to the old models. The article [New Valve System for Pressure Cookers](http://web.archive.org/web/20120627031134/http://missvickie.com:80/library/2ndgenerationvalves.html) details the differences between modern and old school pressure cookers. The short version is new pressure cookers are completely safe.
+
+What about the nutrient loss? The site _hip pressure cooking_ has [an article](https://www.hippressurecooking.com/3-pressure-cooker-nutrition-myths-that-just-wont-go-away-till-now/) that makes the case more nutrients are retained when pressure cooking veggies over boiling, steaming or microwaving. And the article also explains why the high temperatures in the pressure cooker don't create carcinogen compounds that occur with frying or grilling. Also, Dr. Stephan Guyenet of Whole Health Source, who is also a fan of Weston A. Price, loves his pressure cooker. Good enough for me.
 
 
 ### My First Week of Pressure Cooking
@@ -32,7 +48,9 @@ Here is an overview of a few things I've made so far and how long it cooked onc
 -   Beets - 15 minutes
 -   Pulled pork - 55 minutes (**not a typo!!!**)
 
-Can you tell I'm excited? I feel like someone just added years to my life. I've spent the last week looking up ideas for the pressure cooker. Each time I see a recipe, my first reaction is disbelief that it could cook that fast, followed by excitement. And the quality of everything I've made so far has been as good and usually better than other cooking methods I've used. This is especially true for the beef stock. Super rich and gelatinous. No more babysitting a stock pot for 24 hours. If you've been considering a pressure cooker but haven't purchased one yet, all I can say is GET ONE!
+Can you tell I'm excited? I feel like someone just added years to my life. I've spent the last week looking up ideas for the pressure cooker. Each time I see a recipe, my first reaction is disbelief that it could cook that fast, followed by excitement. And the quality of everything I've made so far has been as good and usually better than other cooking methods I've used. This is especially true for the beef stock. Super rich and gelatinous. No more babysitting a stock pot for 24 hours.
+
+If you've been considering a pressure cooker but haven't purchased one yet, all I can say is GET ONE!
 
 ---
 

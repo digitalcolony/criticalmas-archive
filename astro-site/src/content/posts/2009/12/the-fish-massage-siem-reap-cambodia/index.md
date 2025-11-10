@@ -9,7 +9,17 @@ description: "This was too weird and cheap not to try. Siem Reap, Cambodia has s
 commentCount: 5
 ---
 
-This was too weird and cheap not to try. Siem Reap, Cambodia has something called Angkor Dr. Fish Massage. Basically you put your feet into a tank of water filled with little fish. The fish then swarm your feet and eat off the dead skin. I think that is what they said. It is an odd feeling. 20 Minute Fish Massage - $3. This story - priceless. :) ![fish-massage](./img/fish-massage.jpg) ![fish-massage-2](./img/fish-massage-2.jpg) ![fish-massage-3](./img/fish-massage-3.jpg) _Left =_ _TheTailGunner__, Right = MAS, Below = Lots of Fish!_
+This was too weird and cheap not to try. Siem Reap, Cambodia has something called Angkor Dr. Fish Massage. Basically you put your feet into a tank of water filled with little fish. The fish then swarm your feet and eat off the dead skin. I think that is what they said. It is an odd feeling.
+
+20 Minute Fish Massage - $3. This story - priceless. :)
+
+![fish-massage](./img/fish-massage.jpg)
+
+![fish-massage-2](./img/fish-massage-2.jpg)
+
+![fish-massage-3](./img/fish-massage-3.jpg)
+
+_Left =_ _TheTailGunner__, Right = MAS, Below = Lots of Fish!_
 
 ---
 

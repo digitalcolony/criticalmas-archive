@@ -9,7 +9,11 @@ description: "I discovered this book on the shelf at a friend's house. I was cur
 commentCount: 0
 ---
 
-I discovered this book on the shelf at a friend's house. I was curious to read it. :) ![Curious?: Discover the Missing Ingredient to a Fulfilling Life](https://images-na.ssl-images-amazon.com/images/I/41V9BdvsplL.jpg) _Curious?: Discover the Missing Ingredient to a Fulfilling Life by Todd Kashdan_ is a different spin on the _find your happiness_ genre of psychology books. The central theme is not about coddling yourself into finding happiness, but about becoming an explorer when faced with adversity. The author states that curiosity is the _central ingredient_ in creating a fulfilling life. I really liked this book. It logically broke down the emotional process and how by responding with curiosity we can become more emotionally resilient. Here is a snippet from the book about curiosity.
+I discovered this book on the shelf at a friend's house. I was curious to read it. :)
+
+![Curious?: Discover the Missing Ingredient to a Fulfilling Life](https://images-na.ssl-images-amazon.com/images/I/41V9BdvsplL.jpg) _Curious?: Discover the Missing Ingredient to a Fulfilling Life by Todd Kashdan_ is a different spin on the _find your happiness_ genre of psychology books. The central theme is not about coddling yourself into finding happiness, but about becoming an explorer when faced with adversity. The author states that curiosity is the _central ingredient_ in creating a fulfilling life.
+
+I really liked this book. It logically broke down the emotional process and how by responding with curiosity we can become more emotionally resilient. Here is a snippet from the book about curiosity.
 
 > Curiosity creates possibilities; the need for certainty narrows them. Curiosity creates energy; the need for certainty depletes. Curiosity results in exploration; the need for certainty creates closure. Curiosity creates movement; the need for certainty is about replaying events. Curiosity creates relationships; the need for certainty creates defensiveness. Curiosity is about discovery; the need for certainty is about being right.
 

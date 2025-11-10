@@ -9,13 +9,21 @@ description: "I just finished reading Chris Kresser's book Your Personal Paleo C
 commentCount: 34
 ---
 
-I just finished reading Chris Kresser's book _Your Personal Paleo Code_. There is nothing new in this book if you are familiar with his blog or the basics of Paleo. It is a long-winded version of [Primal Blueprint](/2009/06/the-primal-blueprint-10-old-school-laws-for-nutrition-and-fitness/) mixed with [Perfect Health Diet](/2012/06/deep-nutrition-perfect-health-diet-and-the-end-of-overeating/) mixed with _The Primal Connection_. For the most part, the information seemed solid, but I would only recommend this book for someone new to the topic. ![Your Personal Paleo Code: The 3-Step Plan to Lose Weight, Reverse Disease, and Stay Fit and Healthy for Life](https://images-na.ssl-images-amazon.com/images/I/51hbqzQFaBL.jpg) _Your Personal Paleo Code: The 3-Step Plan to Lose Weight, Reverse Disease, and Stay Fit and Healthy for Life by Chris Kresser_ At 416 pages I found this book could have easily been edited down to about half that size. Other than the length, I recall 5 issues I had with the book. There may have been more, but these stood out.
+I just finished reading Chris Kresser's book _Your Personal Paleo Code_. There is nothing new in this book if you are familiar with his blog or the basics of Paleo. It is a long-winded version of [Primal Blueprint](/2009/06/the-primal-blueprint-10-old-school-laws-for-nutrition-and-fitness/) mixed with [Perfect Health Diet](/2012/06/deep-nutrition-perfect-health-diet-and-the-end-of-overeating/) mixed with _The Primal Connection_. For the most part, the information seemed solid, but I would only recommend this book for someone new to the topic.
+
+![Your Personal Paleo Code: The 3-Step Plan to Lose Weight, Reverse Disease, and Stay Fit and Healthy for Life](https://images-na.ssl-images-amazon.com/images/I/51hbqzQFaBL.jpg) _Your Personal Paleo Code: The 3-Step Plan to Lose Weight, Reverse Disease, and Stay Fit and Healthy for Life by Chris Kresser_
+
+At 416 pages I found this book could have easily been edited down to about half that size. Other than the length, I recall 5 issues I had with the book. There may have been more, but these stood out.
 
 
 ### #1 Too Low in Carbs
 
 
-Having read Kresser for years and listened to his podcast, I thought he had mostly rejected the low-carb interpretation of the Paleo diet. I thought he was a leading voice for a moderate intake of carbs. Yet, the recommendations for all but the most active seem low. He advises "most people" to get between 15-30% of their calories from carbs. Buried in a sidebar titled _When To Think Twice About a Very Low-Carb Diet_ there is a mention of hypothyroid symptoms. I think this topic deserves more attention than it received. For years I've been reading how this problem is common in low-carb Paleo. I experienced it and I never went that low in carbs. What is the case for restricting carbs to these levels? It was never made in the book. Hasn't this assumption that our ancestors were eating high-fat diets been gradually eroding as we learn more? All I can think is that these are the macronutrient levels that have worked best for his client base. And if that is the case, I'm fine with that. Just be clear about it. For the record, I'm not anti-low carb. I'm just no longer convinced it is superior to moderate levels. Many of the arguments I've seen supporting LC have been discredited or weakened. If carb levels are optimal between 15-30%, make the case. _Your Personal Paleo Code_ didn't.
+Having read Kresser for years and listened to his podcast, I thought he had mostly rejected the low-carb interpretation of the Paleo diet. I thought he was a leading voice for a moderate intake of carbs. Yet, the recommendations for all but the most active seem low. He advises "most people" to get between 15-30% of their calories from carbs. Buried in a sidebar titled _When To Think Twice About a Very Low-Carb Diet_ there is a mention of hypothyroid symptoms. I think this topic deserves more attention than it received. For years I've been reading how this problem is common in low-carb Paleo. I experienced it and I never went that low in carbs.
+
+What is the case for restricting carbs to these levels? It was never made in the book. Hasn't this assumption that our ancestors were eating high-fat diets been gradually eroding as we learn more? All I can think is that these are the macronutrient levels that have worked best for his client base. And if that is the case, I'm fine with that. Just be clear about it.
+
+For the record, I'm not anti-low carb. I'm just no longer convinced it is superior to moderate levels. Many of the arguments I've seen supporting LC have been discredited or weakened. If carb levels are optimal between 15-30%, make the case. _Your Personal Paleo Code_ didn't.
 
 
 ### #2 Refined Sugar is "Toxic"
@@ -27,7 +35,9 @@ No, it is not. The fact there are carbohydrate sources with better nutrient prof
 ### #3 Fear of Phytic Acid in Legumes
 
 
-The reason Paleo doesn't like legumes is that they contain phytic acid. Phytic acid binds to minerals. The fear is that eating legumes will make one mineral deficient. Chris does get props for discussing how traditional cultures prepared their legumes via soaking, sprouting, and fermenting. The question comes down to is if legumes without traditional preparation are worth eating. Chris says they are best avoided. I am more persuaded by the Precision Nutrition article [Phytates and phytic acid. Here's what you need to know.](https://www.precisionnutrition.com/all-about-phytates-phytic-acid) In addition to discussing the risks of phytic acid, the PN article mentions the benefit. One example:
+The reason Paleo doesn't like legumes is that they contain phytic acid. Phytic acid binds to minerals. The fear is that eating legumes will make one mineral deficient. Chris does get props for discussing how traditional cultures prepared their legumes via soaking, sprouting, and fermenting. The question comes down to is if legumes without traditional preparation are worth eating. Chris says they are best avoided. I am more persuaded by the Precision Nutrition article [Phytates and phytic acid. Here's what you need to know.](https://www.precisionnutrition.com/all-about-phytates-phytic-acid)
+
+In addition to discussing the risks of phytic acid, the PN article mentions the benefit. One example:
 
 > When phytic acid binds minerals in the gut, it prevents the formation of free radicals, thus making it an antioxidant. Not only that, but it seems to bind heavy metals (e.g., cadmium, lead) helping to prevent their accumulation in the body.
 
@@ -41,7 +51,11 @@ I agree. There are many great Indian and Mexican dishes that use legumes. I no l
 ### #4 The Gluten in Beer
 
 
-I am anti-wheat. Me and Chris are in full agreement. However, unless one has a serious issue with gluten, I don't think it is necessary to avoid all food with trace amounts of gluten. I also suspect that 100% avoidance could increase sensitivity. Chris was right when he said distilled liquors were safer because they are fermented. Well, beer is fermented too! Last year I got the idea that my body could [handle beer](/2013/09/wrong-gluten/) from Chris's podcast on the hygiene hypothesis. The short version is I used fermented foods to restore my gut flora that was destroyed by heavy antibiotics use. After listening to his show, I decided to test the health of my gut. So I drank a 4 oz beer and felt fine. Clearly, a sign that I was healthier. I chose beer over bread because it is fermented (partially digested). There is no mention of the hygiene hypothesis in the book. The point I want to share is that one can heal from gluten intolerance and that drinking a small amount of a tasty ale is not the same as eating a bowl of pasta. Exposing myself to trace levels of gluten via beer, soy sauce and gochujang has made me more resilient and thus more healthy.
+I am anti-wheat. Me and Chris are in full agreement. However, unless one has a serious issue with gluten, I don't think it is necessary to avoid all food with trace amounts of gluten. I also suspect that 100% avoidance could increase sensitivity. Chris was right when he said distilled liquors were safer because they are fermented. Well, beer is fermented too!
+
+Last year I got the idea that my body could [handle beer](/2013/09/wrong-gluten/) from Chris's podcast on the hygiene hypothesis. The short version is I used fermented foods to restore my gut flora that was destroyed by heavy antibiotics use. After listening to his show, I decided to test the health of my gut. So I drank a 4 oz beer and felt fine. Clearly, a sign that I was healthier. I chose beer over bread because it is fermented (partially digested). There is no mention of the hygiene hypothesis in the book.
+
+The point I want to share is that one can heal from gluten intolerance and that drinking a small amount of a tasty ale is not the same as eating a bowl of pasta. Exposing myself to trace levels of gluten via beer, soy sauce and gochujang has made me more resilient and thus more healthy.
 
 
 ### #5 Extra Protein to Gain Muscle

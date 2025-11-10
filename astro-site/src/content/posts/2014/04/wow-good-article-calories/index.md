@@ -9,11 +9,15 @@ description: "For what seems like years there has been this endless debate on ca
 commentCount: 18
 ---
 
-For what seems like years there has been this endless debate on calories. It probably will never end. On one side you have charlatans that preach certain calories in excess somehow magically won't make you fat. This belief is rampant in the low-carb community. The other side endlessly repeats the Eat Less More Move (ELMM) chant and dismisses any discussion of metabolism. This side is dominated by many in the fitness field, who tend to be young and in great shape. Teenage triathlete Armi Legge recently said this asinine statement in an article fawned over by many in the blogosphere. (DEC 2021: article no longer online)
+For what seems like years there has been this endless debate on calories. It probably will never end.
+
+On one side you have charlatans that preach certain calories in excess somehow magically won't make you fat. This belief is rampant in the low-carb community. The other side endlessly repeats the Eat Less More Move (ELMM) chant and dismisses any discussion of metabolism. This side is dominated by many in the fitness field, who tend to be young and in great shape. Teenage triathlete Armi Legge recently said this asinine statement in an article fawned over by many in the blogosphere. (DEC 2021: article no longer online)
 
 > You could get ripped on skittles and coke (the soda).
 
-I can't stand either side. Idiocy on one side and arrogance on the other. To my surprise, I stumbled on an actual balanced article regarding calories that doesn't lie, addresses quality, and is concerned about metabolism. Go check out [A Calorie Is Sometimes Not A Calorie](https://forums.t-nation.com/t/the-hidden-story-about-calories-and-weight-loss/283770) by Dr. Jade Teta.
+I can't stand either side. Idiocy on one side and arrogance on the other.
+
+To my surprise, I stumbled on an actual balanced article regarding calories that doesn't lie, addresses quality, and is concerned about metabolism. Go check out [A Calorie Is Sometimes Not A Calorie](https://forums.t-nation.com/t/the-hidden-story-about-calories-and-weight-loss/283770) by Dr. Jade Teta.
 
 > Anyone that says calories don't matter has zero credibility. But anyone who claims calories are all that matter has even less credibility.
 
@@ -24,7 +28,15 @@ Here are some takeaway points from the article.
 3.  Combining sugar, salt and fat have a negative impact on appetite control. (For more info on this read [The End of Overeating](/2012/06/deep-nutrition-perfect-health-diet-and-the-end-of-overeating/)).
 4.  "The standard "eat less, exercise more" approach to dieting leads to about 20-50% loss of lean tissue."
 
-Dr. Jade Teta's article successfully balances the strongest points of each side while rejecting the nonsense. When I put together my [plan to lose 20 pounds](/2014/02/plan-lose-20-pounds-win-bet/), my first rule was to remove the foods that dis-regulated my appetite the most. My goal wasn't to directly lose 20 pounds via calorie restriction. My plan was to reset my appetite via high-quality, high-satiety foods to that of someone 20 pounds lighter. Reduce appetite while maintaining metabolism first. Then the fat loss should follow. Calories were reduced, but not until I increased quality. So far my diet strategy, which falls in line with the ideas from Dr. Teta's article is working. I'm halfway to the goal and my appetite is in check and my energy levels are fine. ![Skittles](./img/2709432517_18faedbe57_z.jpg) _[Photo](https://www.flickr.com/photos/p4nc0np4n/2709432517/) by Victor. Getting ripped on Skittles!_
+Dr. Jade Teta's article successfully balances the strongest points of each side while rejecting the nonsense.
+
+When I put together my [plan to lose 20 pounds](/2014/02/plan-lose-20-pounds-win-bet/), my first rule was to remove the foods that dis-regulated my appetite the most. My goal wasn't to directly lose 20 pounds via calorie restriction. My plan was to reset my appetite via high-quality, high-satiety foods to that of someone 20 pounds lighter. Reduce appetite while maintaining metabolism first. Then the fat loss should follow. Calories were reduced, but not until I increased quality.
+
+So far my diet strategy, which falls in line with the ideas from Dr. Teta's article is working. I'm halfway to the goal and my appetite is in check and my energy levels are fine.
+
+![Skittles](./img/2709432517_18faedbe57_z.jpg)
+
+_[Photo](https://www.flickr.com/photos/p4nc0np4n/2709432517/) by Victor. Getting ripped on Skittles!_
 
 ---
 

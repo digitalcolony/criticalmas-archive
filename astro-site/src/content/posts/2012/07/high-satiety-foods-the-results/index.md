@@ -15,7 +15,13 @@ Last October I posted [High Satiety Paleo Friendly Foods?](/2011/10/high-satiety
 ### #1 Popcorn
 
 
-Yes, I am aware popcorn is a cereal grain and is thus a no-no for those following a strict Paleo Diet. However, I have found it is **by far** the food that packs the most satiety. I'm not talking about the prepackaged microwave popcorn which are loaded with unhealthy vegetable oil fats. I'm talking about regular popcorn cooked over the stove using coconut oil. I liked both white and yellow popcorn equally. For a topping I used Cajun seasonings. Eating popcorn requires a lot of chewing. To eat a bowl of popcorn takes time. A medium sized bowl of popcorn can keep me full for hours. It is also dirt cheap and super easy and quick to make. ![](http://farm1.staticflickr.com/18/90042248_2cbf62cb85.jpg "popcorn") _[Photo](http://www.flickr.com/photos/bcmom/90042248/) by Anna_
+Yes, I am aware popcorn is a cereal grain and is thus a no-no for those following a strict Paleo Diet. However, I have found it is **by far** the food that packs the most satiety. I'm not talking about the prepackaged microwave popcorn which are loaded with unhealthy vegetable oil fats. I'm talking about regular popcorn cooked over the stove using coconut oil. I liked both white and yellow popcorn equally. For a topping I used Cajun seasonings.
+
+Eating popcorn requires a lot of chewing. To eat a bowl of popcorn takes time. A medium sized bowl of popcorn can keep me full for hours. It is also dirt cheap and super easy and quick to make.
+
+![](http://farm1.staticflickr.com/18/90042248_2cbf62cb85.jpg "popcorn")
+
+_[Photo](http://www.flickr.com/photos/bcmom/90042248/) by Anna_
 
 
 ### #2 Soaked Almonds
@@ -33,7 +39,9 @@ I had mostly positive results with sweet potatoes. I would cube a peeled sweet p
 ### That is All
 
 
-I tried other foods, but these were the only three that approached the satiety levels I got with almond butter or full fat dairy options such as yogurt, cottage cheese or hard cheeses. In the absence of caloric density, I believe seeking out foods that require more chewing will yield the greatest satiety. Those foods also tend to be more expensive and require more time preparing. What foods have you found provided the greatest satiety that are also inexpensive and easy to prepare?
+I tried other foods, but these were the only three that approached the satiety levels I got with almond butter or full fat dairy options such as yogurt, cottage cheese or hard cheeses. In the absence of caloric density, I believe seeking out foods that require more chewing will yield the greatest satiety. Those foods also tend to be more expensive and require more time preparing.
+
+What foods have you found provided the greatest satiety that are also inexpensive and easy to prepare?
 
 ---
 

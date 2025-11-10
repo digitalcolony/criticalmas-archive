@@ -9,7 +9,11 @@ description: "This post is the conclusion of how I answered the questions raised
 commentCount: 10
 ---
 
-This post is the conclusion of how I answered the questions raised in the post [Feeling Destructive](/2014/12/feeling-destructive/). Shortly after that post, I deleted 750 blog entries from this site. Mostly they were the type of disposable content you now see on Twitter or Facebook. Nothing of lasting value. Noise. What makes a good blog post? It will vary from person to person, but as someone who has been at this since 1996, here is how I would answer that question today.
+This post is the conclusion of how I answered the questions raised in the post [Feeling Destructive](/2014/12/feeling-destructive/).
+
+Shortly after that post, I deleted 750 blog entries from this site. Mostly they were the type of disposable content you now see on Twitter or Facebook. Nothing of lasting value. Noise.
+
+What makes a good blog post? It will vary from person to person, but as someone who has been at this since 1996, here is how I would answer that question today.
 
 
 ### #1 "Entertaining, Inspirational, Educational"
@@ -39,7 +43,11 @@ I'll let other bloggers tackle the topic of the day. I'd like my posts to stay r
 ### Going Forward
 
 
-I'd like to meet those 4 criteria as much as possible before hitting publish. And if that means publishing fewer posts, that is OK. What are your thoughts on what makes for a good blog post? ![blog](./img/3485417819_fd42af570e_z.jpg) _[Photo](https://flic.kr/p/6iZFhF) by Dimitar Nikolov_
+I'd like to meet those 4 criteria as much as possible before hitting publish. And if that means publishing fewer posts, that is OK. What are your thoughts on what makes for a good blog post?
+
+![blog](./img/3485417819_fd42af570e_z.jpg)
+
+_[Photo](https://flic.kr/p/6iZFhF) by Dimitar Nikolov_
 
 ---
 

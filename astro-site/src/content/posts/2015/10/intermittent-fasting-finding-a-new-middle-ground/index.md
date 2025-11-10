@@ -9,7 +9,11 @@ description: "Last week I went back and revisited all my old posts on Intermitte
 commentCount: 9
 ---
 
-Last week I went back and revisited all my old posts on Intermittent Fasting. Because of the concerns, I discussed in [Irresponsible Health Blogging](/2015/09/irresponsible-health-blogging/), a few posts were edited and a few were deleted. I also completely rewrote my [Best Of Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/) page. My goal was to do two things. First I did not want to be seen as giving a blanket recommendation to IF. Second, I did not want to regurgitate the scientific explanations that I got from other sites, some of which I now have less confidence in. Last month when I put out the post [Intermittent Fasting - Context is Likely Important](/2015/09/intermittent-fasting-context-is-likely-important/), I honestly thought it was a good way to end the series. I felt it was balanced and addressed both the fans and the critics of IF. But you can't please everyone. Some of the fans discounted my concerns and a few people on a Ray Peat forum felt even with all my caveats and experience that I'd be making a big mistake to resume even a little IF. It got me thinking if there might be a way to reconcile the two sides.
+Last week I went back and revisited all my old posts on Intermittent Fasting. Because of the concerns, I discussed in [Irresponsible Health Blogging](/2015/09/irresponsible-health-blogging/), a few posts were edited and a few were deleted. I also completely rewrote my [Best Of Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/) page. My goal was to do two things. First I did not want to be seen as giving a blanket recommendation to IF. Second, I did not want to regurgitate the scientific explanations that I got from other sites, some of which I now have less confidence in.
+
+Last month when I put out the post [Intermittent Fasting - Context is Likely Important](/2015/09/intermittent-fasting-context-is-likely-important/), I honestly thought it was a good way to end the series. I felt it was balanced and addressed both the fans and the critics of IF. But you can't please everyone. Some of the fans discounted my concerns and a few people on a Ray Peat forum felt even with all my caveats and experience that I'd be making a big mistake to resume even a little IF.
+
+It got me thinking if there might be a way to reconcile the two sides.
 
 
 ### The Benefits and Criticisms of IF
@@ -30,19 +34,43 @@ Now for the criticisms.
 ### What Diana Schwarzbein Said That Resonated With Me
 
 
-After the Context post, I watched Diana Schwarzbein's _Survival of the Smartest_ lecture twice. Took [notes too](/2015/09/notes-for-the-survival-of-the-smartest-lecture-by-diana-schwarzbein/). She discusses how on a hormonal level we are either using or building. When we fast, we are using. When we eat we are building. And our ability to rebuild hormones is greatly reduced as we age. For women age 35 and for men age 40. So our ability to handle fasting can be diminished as we age. If we already have poor sleep, over-exercise, or abuse chemicals (caffeine, nicotine) then fasting would be even worse. What I learned from Schwarzbein was the cascade of stress hormones can cause the metabolism to tank. This lines up with the Ray Peat people and their criticisms regarding forcefully triggering autophagy. She also talked about how hormonally breaking down can feel good. It is a survival technique for the species. However, repeatedly running on stress hormones is not good and can gradually lead to chronic health problems.
+After the Context post, I watched Diana Schwarzbein's _Survival of the Smartest_ lecture twice. Took [notes too](/2015/09/notes-for-the-survival-of-the-smartest-lecture-by-diana-schwarzbein/). She discusses how on a hormonal level we are either using or building. When we fast, we are using. When we eat we are building. And our ability to rebuild hormones is greatly reduced as we age. For women age 35 and for men age 40.
+
+So our ability to handle fasting can be diminished as we age. If we already have poor sleep, over-exercise, or abuse chemicals (caffeine, nicotine) then fasting would be even worse.
+
+What I learned from Schwarzbein was the cascade of stress hormones can cause the metabolism to tank. This lines up with the Ray Peat people and their criticisms regarding forcefully triggering autophagy. She also talked about how hormonally breaking down can feel good. It is a survival technique for the species. However, repeatedly running on stress hormones is not good and can gradually lead to chronic health problems.
 
 
 ### Seeking an Alternative Approach to Fasting
 
 
-I first learned about autophagy from Art De Vany. He mentioned in his lecture how during the fasted state the cell consumes the damaged proteins first. Diana Schwarzbein said something similar in her lecture, stating that in the absence of glucose, amino acids are broken down to make sugar. The problem is the accompanying stress hormonal response. All this made me ask the question: **Can one get the benefits of fasting without the stress hormone response?** Maybe you can. If carbs and salt can suppress stress hormones and protein suppresses autophagy, what would happen if one consumed just enough sugar/salt to shut down the stress hormones? I did some searching and discovered the online book [The Protein Cycling Diet](https://proteincyclingdiet.wordpress.com/article/protein-cycling-diet-2s3nmvrwklbxs-1/). This book is very pro-autophagy and goes into great detail on science. To trigger autophagy it recommends following a very low protein diet. How low? 5% or fewer of total calories. The problem with this diet is that capping protein at 5% is going to be tough as most foods exceed 5% protein. Even foods you wouldn't think had much protein are often greater than 5%. White rice is 8% protein. A potato is 7%. Once you start digging through the nutritional content of food, it looks almost impossible to construct a meal with 5% or less protein. Unless instead of constructing a very low protein diet one greatly reduces the number of calories. The Ray Peat people love salted orange juice as it shuts down stress hormones. Orange juice has a protein content of 5%. Good. Raw honey, which was discussed in the post [In Defense of Sugar](/2015/01/defense-sugar/), has only trace amounts of protein. ![honey](./img/honey.jpg) _[Photo](https://flic.kr/p/fCADiP) by mbeo_
+I first learned about autophagy from Art De Vany. He mentioned in his lecture how during the fasted state the cell consumes the damaged proteins first. Diana Schwarzbein said something similar in her lecture, stating that in the absence of glucose, amino acids are broken down to make sugar. The problem is the accompanying stress hormonal response.
+
+All this made me ask the question: **Can one get the benefits of fasting without the stress hormone response?** Maybe you can. If carbs and salt can suppress stress hormones and protein suppresses autophagy, what would happen if one consumed just enough sugar/salt to shut down the stress hormones?
+
+I did some searching and discovered the online book [The Protein Cycling Diet](https://proteincyclingdiet.wordpress.com/article/protein-cycling-diet-2s3nmvrwklbxs-1/). This book is very pro-autophagy and goes into great detail on science. To trigger autophagy it recommends following a very low protein diet. How low? 5% or fewer of total calories.
+
+The problem with this diet is that capping protein at 5% is going to be tough as most foods exceed 5% protein. Even foods you wouldn't think had much protein are often greater than 5%. White rice is 8% protein. A potato is 7%. Once you start digging through the nutritional content of food, it looks almost impossible to construct a meal with 5% or less protein.
+
+Unless instead of constructing a very low protein diet one greatly reduces the number of calories.
+
+The Ray Peat people love salted orange juice as it shuts down stress hormones. Orange juice has a protein content of 5%. Good. Raw honey, which was discussed in the post [In Defense of Sugar](/2015/01/defense-sugar/), has only trace amounts of protein.
+
+![honey](./img/honey.jpg)
+
+_[Photo](https://flic.kr/p/fCADiP) by mbeo_
 
 
 ### The Low-Stress Intermittent Fast
 
 
-Here is how I envision the plan working. Once or twice a week on days when I wake up with great sleep and I have no plans to exercise, I will begin the day with a small amount of either honey or salted OJ. Then if I feel anxious or stressed during that day, consume a little more until the 22-hour fast is complete. I'll also have a small amount of honey or salted OJ before every caffeinated drink to blunt the stress response. At the end of the day, I will end the low-stress IF and have a normal meal. Will this method meet my goals? I think so. First, it will teach me to deal with hunger. Not as powerful as a zero-calorie fast, but I suspect it will still be effective. Second, it will create a caloric deficit for fat loss. Third, I think but have no way of knowing that will trigger autophagy, but do it in a way that lowers stress hormones and doesn't compromise metabolism. One criticism might be the very act of doing this could reduce metabolism via the reduction in calories. To reduce the chance of that happening, I would not do this fast on consecutive days. When I do eat, it will be a carbohydrate-friendly diet. Am I on the right path here? One question I do not know is just how many grams of sugar (OJ or honey) will be needed to address stress hormones. I'll guess for now. If I feel cold or anxious then I'll up the sugar/salt, otherwise I'll lower it until that sweet spot is found.
+Here is how I envision the plan working. Once or twice a week on days when I wake up with great sleep and I have no plans to exercise, I will begin the day with a small amount of either honey or salted OJ. Then if I feel anxious or stressed during that day, consume a little more until the 22-hour fast is complete. I'll also have a small amount of honey or salted OJ before every caffeinated drink to blunt the stress response. At the end of the day, I will end the low-stress IF and have a normal meal.
+
+Will this method meet my goals? I think so. First, it will teach me to deal with hunger. Not as powerful as a zero-calorie fast, but I suspect it will still be effective. Second, it will create a caloric deficit for fat loss. Third, I think but have no way of knowing that will trigger autophagy, but do it in a way that lowers stress hormones and doesn't compromise metabolism.
+
+One criticism might be the very act of doing this could reduce metabolism via the reduction in calories. To reduce the chance of that happening, I would not do this fast on consecutive days. When I do eat, it will be a carbohydrate-friendly diet.
+
+Am I on the right path here? One question I do not know is just how many grams of sugar (OJ or honey) will be needed to address stress hormones. I'll guess for now. If I feel cold or anxious then I'll up the sugar/salt, otherwise I'll lower it until that sweet spot is found.
 
 ---
 

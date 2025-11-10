@@ -19,7 +19,11 @@ As I write this post it looks like our lawmakers are going to pass a bailout pla
 -   Karl Denninger is opposed.
 -   John Mauldin is in favor.
 
-I've learned a lot about markets and finance from these three. These are my main economic mentors for the past year and they don't agree. Mauldin thinks we crash if don't get the bailout. Denninger thinks we crash if don't add transparency immediately. Both men are highly experienced traders and it is possible they are both right. The end result may be that half the investors lose faith in the markets when their side doesn't prevail. That may enough to cause a crash. Half want immediate honesty. The other half wants massive amounts of cash immediately. The _Sovereign Speculator_ sums up the state of the market brilliantly in the post _Credit markets iced over. Put your head between your knees._
+I've learned a lot about markets and finance from these three. These are my main economic mentors for the past year and they don't agree. Mauldin thinks we crash if don't get the bailout. Denninger thinks we crash if don't add transparency immediately. Both men are highly experienced traders and it is possible they are both right.
+
+The end result may be that half the investors lose faith in the markets when their side doesn't prevail. That may enough to cause a crash. Half want immediate honesty. The other half wants massive amounts of cash immediately.
+
+The _Sovereign Speculator_ sums up the state of the market brilliantly in the post _Credit markets iced over. Put your head between your knees._
 
 > If the fundamentals were not so horrible and stock prices not so high (with earnings falling off a cliff, **real PEs are in the stratosphere** and dividend yields are pathetic), this would be a promising time to go long, at least for a trade. As is, that would be Russian Roulette, because it **would be hard to imagine a market more primed to absolutely crash than this one**.
 
@@ -32,7 +36,9 @@ My quick scorecard looks like this:
 -   Home prices still too high given tighter lending standards and huge inventories.
 -   Bans on stock shorting makes a crash scenario much more likely. (EX: China down 65% in 3 months)
 
-The bailout may provide a little bounce, but it won't hold. The deleveraging of the largest credit expansion in history will continue. **My target for the [S&P 500 was 1000](/2008/07/shooting-the-messenger/). Now I'm lowering it to 900.** If your 401K is in equities, either move your money to fixed income or get ready for a _punch in the nose_. Even though I'm a long-term bull on America, I can't help but to think of this line from the Crowded House song Chocolate Cake when I see all the bailouts.
+The bailout may provide a little bounce, but it won't hold. The deleveraging of the largest credit expansion in history will continue. **My target for the [S&P 500 was 1000](/2008/07/shooting-the-messenger/). Now I'm lowering it to 900.** If your 401K is in equities, either move your money to fixed income or get ready for a _punch in the nose_.
+
+Even though I'm a long-term bull on America, I can't help but to think of this line from the Crowded House song Chocolate Cake when I see all the bailouts.
 
 > Now the excess of fat on your American bones Will cushion the impact as you sink like a stone
 

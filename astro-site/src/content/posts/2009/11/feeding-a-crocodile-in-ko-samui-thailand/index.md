@@ -9,4 +9,6 @@ description: "For just 50 baht ($1.65), I was able to use a fishing pole to lowe
 commentCount: 0
 ---
 
-For just 50 baht ($1.65), I was able to use a fishing pole to lower a chicken down to a pit of hungry crocodiles. https://www.youtube.com/watch?v=ZSqJNwo5xUI
+For just 50 baht ($1.65), I was able to use a fishing pole to lower a chicken down to a pit of hungry crocodiles.
+
+https://www.youtube.com/watch?v=ZSqJNwo5xUI

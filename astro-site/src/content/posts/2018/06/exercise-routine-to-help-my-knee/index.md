@@ -8,31 +8,61 @@ description: "My previous post An Update on My Knee Pain – Plus Tips You Can 
 commentCount: 2
 ---
 
-My previous post [An Update on My Knee Pain – Plus Tips You Can Use](/2018/06/an-update-on-my-knee-pain-plus-tips-you-can-use/) is a background on how I'm approaching my knee issues. The short version is that I am using a combination of exercises to strengthen my foot, ankle, and hip, while also stretching my inner thigh, hamstring, and calf muscles. I think this might be the strategy that finally makes a difference. This issue has been a problem for far too long. And if it doesn't work, well at least I know I've tried some new ideas and building strength in these areas can't be bad. For those interested in what exercises I'm doing, here is my plan.
+My previous post [An Update on My Knee Pain – Plus Tips You Can Use](/2018/06/an-update-on-my-knee-pain-plus-tips-you-can-use/) is a background on how I'm approaching my knee issues. The short version is that I am using a combination of exercises to strengthen my foot, ankle, and hip, while also stretching my inner thigh, hamstring, and calf muscles.
+
+I think this might be the strategy that finally makes a difference. This issue has been a problem for far too long. And if it doesn't work, well at least I know I've tried some new ideas and building strength in these areas can't be bad.
+
+For those interested in what exercises I'm doing, here is my plan.
 
 
 ### Foot / Ankle
 
 
-**Ankle Pushout** - Hunter found a [short video](https://www.youtube.com/watch?v=QVjno5C0dxE) that demonstrates this exercise which helps to reverse a collapsed arch. **Single-Leg Band Rotation** - Anchor band on side of the planted foot. Pull band across body and balance. **Floss Calf / Rotate Foot** - Cross leg, place on top of knee, rotate ankle while pressing into the calf. You can use lacrosse ball. Also, twist the bottom of the foot up and hold the stretch. **Band Stretches** - Strap foot with a band. Bend / rotate in different directions. **Golf-Ball Roll-out** - Roll foot over a golf ball. **Towel Crunches** - Use toes to grab a small towel. 50 reps with each foot. **Toe Spreads** - No socks, spread/contract toes.
+**Ankle Pushout** - Hunter found a [short video](https://www.youtube.com/watch?v=QVjno5C0dxE) that demonstrates this exercise which helps to reverse a collapsed arch.
+
+**Single-Leg Band Rotation** - Anchor band on side of the planted foot. Pull band across body and balance.
+
+**Floss Calf / Rotate Foot** - Cross leg, place on top of knee, rotate ankle while pressing into the calf. You can use lacrosse ball. Also, twist the bottom of the foot up and hold the stretch.
+
+**Band Stretches** - Strap foot with a band. Bend / rotate in different directions.
+
+**Golf-Ball Roll-out** - Roll foot over a golf ball.
+
+**Towel Crunches** - Use toes to grab a small towel. 50 reps with each foot.
+
+**Toe Spreads** - No socks, spread/contract toes.
 
 
 ### Inner Thigh Stretch (Adductors)
 
 
-**Zen / Butterfly Stretch** - Place soles of feet together, stretch. Can use elbows for a deeper stretch. (30-60 seconds 2-3x) ![butterfly stretch](./img/butterfly-stretch.jpg) **Frog Pose Stretch** - Prone, rock up and down. (see [wikiHow](https://www.wikihow.com/Do-the-Frog-Pose-in-Yoga))
+**Zen / Butterfly Stretch** - Place soles of feet together, stretch. Can use elbows for a deeper stretch. (30-60 seconds 2-3x)
+
+![butterfly stretch](./img/butterfly-stretch.jpg)
+
+**Frog Pose Stretch** - Prone, rock up and down. (see [wikiHow](https://www.wikihow.com/Do-the-Frog-Pose-in-Yoga))
 
 
 ### Hips
 
 
-**High-Knee Raise** - Lift knee above 90 degrees, hold for 15+ seconds, place hands behind head. **Band Knee and Twist** - Place band on the knee and fix to something stable. Twist outward and hold. **Side Leg Raise (aka the Jane Fonda)** - Point toe forward. (see [wikiHow](https://www.wikihow.com/Do-Leg-Lifts#Doing_Side_Leg_Lifts_sub)) **Banded Squats** - Also fires glutes, 1x week. I do slow bodyweight for now but eventually will use goblet squats with either a kettlebell or dumbbell.
+**High-Knee Raise** - Lift knee above 90 degrees, hold for 15+ seconds, place hands behind head.
+
+**Band Knee and Twist** - Place band on the knee and fix to something stable. Twist outward and hold.
+
+**Side Leg Raise (aka the Jane Fonda)** - Point toe forward. (see [wikiHow](https://www.wikihow.com/Do-Leg-Lifts#Doing_Side_Leg_Lifts_sub))
+
+**Banded Squats** - Also fires glutes, 1x week. I do slow bodyweight for now but eventually will use goblet squats with either a kettlebell or dumbbell.
 
 
 ### Quads
 
 
-**Leg Raises** - I use two variations. One with the toe pointing up and the other with the foot turned outward 45 degrees. **Bridges** - For this one I'm careful not to go too deeply into the bend or my knee will hurt. **Leg Press (abbreviated)** - Recently, I've been able to use reduced reps and static holds from shallow bends on the leg press. I can target my quads while only using a reduced bend in my knees.
+**Leg Raises** - I use two variations. One with the toe pointing up and the other with the foot turned outward 45 degrees.
+
+**Bridges** - For this one I'm careful not to go too deeply into the bend or my knee will hurt.
+
+**Leg Press (abbreviated)** - Recently, I've been able to use reduced reps and static holds from shallow bends on the leg press. I can target my quads while only using a reduced bend in my knees.
 
 
 ### Combo

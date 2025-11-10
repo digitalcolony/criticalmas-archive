@@ -11,13 +11,25 @@ commentCount: 10
 
 This is going to be a quick post about a story that just came out. From the article [Shielding kids from peanuts might cause peanut allergies](http://www.vox.com/2015/2/24/8103419/babies-peanut-allergies):
 
-> Children are much less likely to develop peanut allergies if they are frequently fed peanuts, according to a new study published this week in the New England Journal of Medicine. Researchers at King's College London looked at 640 British infants at high risk of developing peanut allergies and found that those who ate the equivalent of 4 big teaspoons of peanut butter every week were 80 percent less likely than others to develop a peanut allergy by the time they were five.
+> Children are much less likely to develop peanut allergies if they are frequently fed peanuts, according to a new study published this week in the New England Journal of Medicine.
+> 
+> Researchers at King's College London looked at 640 British infants at high risk of developing peanut allergies and found that those who ate the equivalent of 4 big teaspoons of peanut butter every week were 80 percent less likely than others to develop a peanut allergy by the time they were five.
 
 This story immediately reminded me of my own experiences with peanuts. From my 2012 post [Healthy vs Resilient](/2012/05/healthy-vs-resilient/):
 
-> At one point in the lecture De Vany mentions how we shouldn’t eat peanuts, because they contain a carcinogenic toxin know as aflatoxin. This wasn’t a problem for me. I loved almond butter just as much as peanut butter, so I formed a new food rule and avoided peanuts for almost 2 years. Then at a Thai restaurant I had a dish made with a peanut sauce. My mouth turned instantly numb. I had trouble speaking, almost like I had been injected with Novocaine. This had never happened to me before.
+> At one point in the lecture De Vany mentions how we shouldn’t eat peanuts, because they contain a carcinogenic toxin know as aflatoxin. This wasn’t a problem for me. I loved almond butter just as much as peanut butter, so I formed a new food rule and avoided peanuts for almost 2 years.
+> 
+> Then at a Thai restaurant I had a dish made with a peanut sauce. My mouth turned instantly numb. I had trouble speaking, almost like I had been injected with Novocaine. This had never happened to me before.
 
-By not eating peanuts for two years, I developed a minor intolerance to peanuts. Since that incident, I purposely expose myself to peanuts every few months. The study cited today was for children, so I do not know if my experience is instructive or common. The lesson I walked away with is eating too clean can make you less resilient. Our _Bulletproof Exec_ has created an entire diet demonizing one food after another preaching the gospel that we can become super healthy if we eat like him. The reality is the opposite. Walling yourself off from threats - perceived or real - does not make you tougher. Dave Asprey has created a diet of fragility. The way to become "bulletproof", whatever that means, is to be resilient in the face of the foods we deem to awful, even if there is no truth behind those claims. If the words of the great Ronnie Coleman: **_Ain't nothin but a peanut!_** ![ronnie-coleman](./img/ronnie-coleman.jpg) _[Ronnie Coleman](https://flic.kr/p/8EPTit) by A Scott_
+By not eating peanuts for two years, I developed a minor intolerance to peanuts. Since that incident, I purposely expose myself to peanuts every few months. The study cited today was for children, so I do not know if my experience is instructive or common.
+
+The lesson I walked away with is eating too clean can make you less resilient. Our _Bulletproof Exec_ has created an entire diet demonizing one food after another preaching the gospel that we can become super healthy if we eat like him. The reality is the opposite. Walling yourself off from threats - perceived or real - does not make you tougher. Dave Asprey has created a diet of fragility. The way to become "bulletproof", whatever that means, is to be resilient in the face of the foods we deem to awful, even if there is no truth behind those claims.
+
+If the words of the great Ronnie Coleman: **_Ain't nothin but a peanut!_**
+
+![ronnie-coleman](./img/ronnie-coleman.jpg)
+
+_[Ronnie Coleman](https://flic.kr/p/8EPTit) by A Scott_
 
 ---
 

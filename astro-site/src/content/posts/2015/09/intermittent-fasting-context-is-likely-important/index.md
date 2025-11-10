@@ -9,7 +9,17 @@ description: "Last week I was involved in two discussions on Intermittent Fastin
 commentCount: 15
 ---
 
-Last week I was involved in two discussions on [Intermittent Fasting (IF)](https://criticalmas.org/best-of/intermittent-fasting/). One was extremely supportive of IF and the other highly critical. Both sides were represented by smart people and both made valid points. They each pointed to science to back up their position. Yet they completely disagreed with each other. My view on fasting has changed a lot since 2007. I've gone back and forth along a spectrum of being anti-IF and pro-IF. I understand the arguments of both sides and at times I've been more swayed by one than the other. My personal experience has been varied. ![fork](./img/fork.jpg) _[Photo](https://flic.kr/p/mhbK8a) by Diana Robinson_ Let me begin by saying that I am completely unqualified to comment on what happens at a cellular level. I have read experts and their opinions on the role fasting plays on cell repair (autophagy), metabolism and stress hormones. There is a lot of disagreement. I won't step into those debates. Instead I will approach this debate as an incomplete information problem. In other words, approach this decision as an investor, which means hedging. I've written on this strategy in the post [Approaching Nutrition From an Investor's Mindset](/2013/04/approaching-nutrition-from-an-investors-mindset/). My general beliefs are:
+Last week I was involved in two discussions on [Intermittent Fasting (IF)](https://criticalmas.org/best-of/intermittent-fasting/). One was extremely supportive of IF and the other highly critical. Both sides were represented by smart people and both made valid points. They each pointed to science to back up their position. Yet they completely disagreed with each other.
+
+My view on fasting has changed a lot since 2007. I've gone back and forth along a spectrum of being anti-IF and pro-IF. I understand the arguments of both sides and at times I've been more swayed by one than the other. My personal experience has been varied.
+
+![fork](./img/fork.jpg)
+
+_[Photo](https://flic.kr/p/mhbK8a) by Diana Robinson_
+
+Let me begin by saying that I am completely unqualified to comment on what happens at a cellular level. I have read experts and their opinions on the role fasting plays on cell repair (autophagy), metabolism and stress hormones. There is a lot of disagreement. I won't step into those debates. Instead I will approach this debate as an incomplete information problem. In other words, approach this decision as an investor, which means hedging. I've written on this strategy in the post [Approaching Nutrition From an Investor's Mindset](/2013/04/approaching-nutrition-from-an-investors-mindset/).
+
+My general beliefs are:
 
 1.  The person most likely to benefit from fasting is the person that doesn't fast.
 2.  The person least likely to benefit from fasting is the person either fasts too much, under eats, has a slow metabolism, exercises a lot, has poor sleep, or has a more stressful life. I am a believer in not stacking stressors. I cover this concept in the post [Cold Exposure - Not One Size Fits All](/2014/11/cold-exposure-not-one-size-fits/).
@@ -17,15 +27,33 @@ Last week I was involved in two discussions on [Intermittent Fasting (IF)](https
 4.  Fasting probably isn't wise for children. I'm not a parent. Do your own research.
 5.  The optimal amount of fasting is likely to be the least amount needed to make a positive change. This will be different for different people. And that amount will change for the individual. For some people that optimal amount is zero. For some it might be a cycle of on and off. Cycles might daily, weekly, monthly or even seasonal.
 
-Instead of viewing fasting as good or bad, I think it makes sense to look at where the individual is at on their health journey. I want to share my story and how it changed between 2008 and today. Stress is cited as the primary reason to not fast, but I believe it cuts both ways. There is a stress associated with never missing an eating window. Always cooking. Always grocery shopping. Always trying to make the best food decisions with time restrictions can be taxing. From the post [Peat-atarians and Fear of Hormetic Stress](/2013/01/peat-atarians-and-fear-of-hormetic-stress/):
+Instead of viewing fasting as good or bad, I think it makes sense to look at where the individual is at on their health journey. I want to share my story and how it changed between 2008 and today.
+
+Stress is cited as the primary reason to not fast, but I believe it cuts both ways. There is a stress associated with never missing an eating window. Always cooking. Always grocery shopping. Always trying to make the best food decisions with time restrictions can be taxing. From the post [Peat-atarians and Fear of Hormetic Stress](/2013/01/peat-atarians-and-fear-of-hormetic-stress/):
 
 > Before discovering IF, I was a slave to hunger. Every 3 or so waking hours, I had to eat. IF taught me how to be patient with food. I learned how to cook, because I could now chose to eat later rather than immediately.
 
-IF initially reduced my stress. I felt empowered. I learned I was stronger and more resilient than I had ever imagined. I cut way back on eating out and grabbing "nutritional bars" for quick calories and began discovering new foods that I could make in my own kitchen. But then I made the mistake that many in the Paleo community did and that was take it too far. If a little is good, then more must be better? Nope. In 2011, I did [70 consecutive days of Leangains](/2011/03/intermittent-fasting-70-day-review-of-the-leangains-method/), which is a 16 hour daily fast. During the 2nd month of the experiment I was often tired, always cold and I lost muscle. A few of his fanboys sent me emails or left comments on how it was my fault. I accepted some responsibility, but in the end I felt it was too much for me. My suspicion was confirmed when one my commenters Tauno found a old comment on the _Leangains_ site from 2008 written by Berkhan. ![leangains-ectomorphs](./img/leangains-ectomorphs.png) This advice never made it into the 2010 Leangains Guide. Would I have done better with this strategy? Yes and I confirmed it later that summer. From my post [Intermittent Fasting - Life After Leangains](/2011/06/intermittent-fasting-life-after-leangains/), I said this:
+IF initially reduced my stress. I felt empowered. I learned I was stronger and more resilient than I had ever imagined. I cut way back on eating out and grabbing "nutritional bars" for quick calories and began discovering new foods that I could make in my own kitchen.
+
+But then I made the mistake that many in the Paleo community did and that was take it too far. If a little is good, then more must be better? Nope.
+
+In 2011, I did [70 consecutive days of Leangains](/2011/03/intermittent-fasting-70-day-review-of-the-leangains-method/), which is a 16 hour daily fast. During the 2nd month of the experiment I was often tired, always cold and I lost muscle. A few of his fanboys sent me emails or left comments on how it was my fault. I accepted some responsibility, but in the end I felt it was too much for me. My suspicion was confirmed when one my commenters Tauno found a old comment on the _Leangains_ site from 2008 written by Berkhan.
+
+![leangains-ectomorphs](./img/leangains-ectomorphs.png)
+
+This advice never made it into the 2010 Leangains Guide. Would I have done better with this strategy? Yes and I confirmed it later that summer. From my post [Intermittent Fasting - Life After Leangains](/2011/06/intermittent-fasting-life-after-leangains/), I said this:
 
 > Since ending the daily 16 hour fasts, I have regained my strength and am now at the leanest point of my life. When I scaled back from daily fasts to 2-3 times per week, my metabolism kicked into gear and I started progressing again.
 
-This was optimal for a while. Until I started losing too much weight. This was a problem that I solved and one of the tools I used was to stop fasting. Doing this increased my body temperature and increased my sleep quality. Both positive signs that I had made the right decision. ![dead-end](./img/dead-end.jpg) _[Pick Your Poison](https://flic.kr/p/qpiGo) by Scott Ableman. When I am HUNGRY and away from my kitchen, I am a sucker for getting 3 tostadas from Taco Bell. That is 840 calories which has very little nutrition to show for itself. :(_  But I overshot my target weight and once again became a slave to hunger. With the stress of meal planning and not being able to always make good food choices, the quality of my diet got worse. Carrying around an extra 15 pounds has made me more lethargic, which hasn't been good for my mood. To me this is my sign that it is time to start fasting again. Just a little. Maybe one 22 hour fast a week. I already know that my body can't handle too much and I am aware of the symptoms (tired, cold, weak) if I were to push the fasting too much. So is fasting good or bad? It was both for me. I no longer believe fasting is either magical or dangerous. Context is likely important.
+This was optimal for a while. Until I started losing too much weight. This was a problem that I solved and one of the tools I used was to stop fasting. Doing this increased my body temperature and increased my sleep quality. Both positive signs that I had made the right decision.
+
+![dead-end](./img/dead-end.jpg)
+
+_[Pick Your Poison](https://flic.kr/p/qpiGo) by Scott Ableman. When I am HUNGRY and away from my kitchen, I am a sucker for getting 3 tostadas from Taco Bell. That is 840 calories which has very little nutrition to show for itself. :(_ 
+
+But I overshot my target weight and once again became a slave to hunger. With the stress of meal planning and not being able to always make good food choices, the quality of my diet got worse. Carrying around an extra 15 pounds has made me more lethargic, which hasn't been good for my mood. To me this is my sign that it is time to start fasting again. Just a little. Maybe one 22 hour fast a week. I already know that my body can't handle too much and I am aware of the symptoms (tired, cold, weak) if I were to push the fasting too much.
+
+So is fasting good or bad? It was both for me. I no longer believe fasting is either magical or dangerous. Context is likely important.
 
 ---
 

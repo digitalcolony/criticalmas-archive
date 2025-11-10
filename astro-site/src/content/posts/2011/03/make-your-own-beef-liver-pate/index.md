@@ -9,7 +9,15 @@ description: "For all my friends that still can't bring themselves to eat health
 commentCount: 21
 ---
 
-For all my friends that still can't bring themselves to eat healthy pastured beef liver, I have the solution. How about making your own creamy pate? I did it earlier this week. It was very easy. I found a [beef liver pate recipe](http://farmlet.co.nz/?p=199) from a small New Zealand farm that worked great. Once the pate has chilled, you can spread it on celery or sliced cucumbers. I've read several sites that recommend eating 1/4 pound of beef liver each week. Using this recipe, you'll have all your liver needs met for an entire month. Store bought pate can be expensive. This recipe wasn't. A pound a healthy beef liver in Seattle goes for about $4 a pound. The rest of the ingredients are dirt cheap. You'll be hard pressed to find a more nutrient dense food at such a low price. Swap out regular butter for Kerry Gold to make it even better. ![beef-liver-pate](./img/beef-liver-pate.jpg) _Homemade Beef Liver Pate_
+For all my friends that still can't bring themselves to eat healthy pastured beef liver, I have the solution. How about making your own creamy pate? I did it earlier this week. It was very easy. I found a [beef liver pate recipe](http://farmlet.co.nz/?p=199) from a small New Zealand farm that worked great.
+
+Once the pate has chilled, you can spread it on celery or sliced cucumbers. I've read several sites that recommend eating 1/4 pound of beef liver each week. Using this recipe, you'll have all your liver needs met for an entire month.
+
+Store bought pate can be expensive. This recipe wasn't. A pound a healthy beef liver in Seattle goes for about $4 a pound. The rest of the ingredients are dirt cheap. You'll be hard pressed to find a more nutrient dense food at such a low price. Swap out regular butter for Kerry Gold to make it even better.
+
+![beef-liver-pate](./img/beef-liver-pate.jpg)
+
+_Homemade Beef Liver Pate_
 
 ---
 

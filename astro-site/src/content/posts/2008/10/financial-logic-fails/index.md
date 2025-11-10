@@ -9,7 +9,25 @@ description: "This weekend I talked to several people regarding the current stat
 commentCount: 12
 ---
 
-This weekend I talked to several people regarding the current state of the markets. They all remembered that I had called for this correction and advised moving their money into fixed income. Most didn't take [my warning](/2008/07/hope-your-401k-is-in-fixed-income/) and lost a lot of money in their 401k account. **But that was yesterday, let's talk about today.** In this post I want to respond to the most common responses I've heard to the current market correction. **It's Over Now, It Can't Go Lower** Yes it can and I believe it will. [My S&P 500 target is 600](/2008/10/picking-a-new-sp-500-target/). The forward P/E as of last Friday was 20.2. This is not a good start for a market bottom. Historically, a good bottom should see P/E rations between 8-12. I'll take 15. But 20? No way. Every day another company comes out and lowers estimates. Stocks are coming down. **It Doesn't Matter Since I'm Not Near Retirement** There are really two goals for retirement. The first is to retire with as much money as possible and the second is to retire as soon as possible. Being fully invested in stocks during a secular bear markets is not a smart way to achieve retirement goals. Every few years Wall Street plays its shenanigans, you don't need to play during these periods. Fixed income is the best defensive move. **I Can't Sell Now** Yes you can. The ONLY reason to hold stocks now is you believe they are going higher. Not higher in 30 years, but higher now. **Stock Will Go Higher, The Bottom Is In** To this crowd I ask them to tell me what their 1 year target on the S&P 500 is. They usually don't have a target. If they do, I ask them how they arrive at that number with estimates being revised downward weekly and dividends in free fall.
+This weekend I talked to several people regarding the current state of the markets. They all remembered that I had called for this correction and advised moving their money into fixed income. Most didn't take [my warning](/2008/07/hope-your-401k-is-in-fixed-income/) and lost a lot of money in their 401k account. **But that was yesterday, let's talk about today.**
+
+In this post I want to respond to the most common responses I've heard to the current market correction.
+
+**It's Over Now, It Can't Go Lower**
+
+Yes it can and I believe it will. [My S&P 500 target is 600](/2008/10/picking-a-new-sp-500-target/). The forward P/E as of last Friday was 20.2. This is not a good start for a market bottom. Historically, a good bottom should see P/E rations between 8-12. I'll take 15. But 20? No way. Every day another company comes out and lowers estimates. Stocks are coming down.
+
+**It Doesn't Matter Since I'm Not Near Retirement**
+
+There are really two goals for retirement. The first is to retire with as much money as possible and the second is to retire as soon as possible. Being fully invested in stocks during a secular bear markets is not a smart way to achieve retirement goals. Every few years Wall Street plays its shenanigans, you don't need to play during these periods. Fixed income is the best defensive move.
+
+**I Can't Sell Now**
+
+Yes you can. The ONLY reason to hold stocks now is you believe they are going higher. Not higher in 30 years, but higher now.
+
+**Stock Will Go Higher, The Bottom Is In**
+
+To this crowd I ask them to tell me what their 1 year target on the S&P 500 is. They usually don't have a target. If they do, I ask them how they arrive at that number with estimates being revised downward weekly and dividends in free fall.
 
 ---
 

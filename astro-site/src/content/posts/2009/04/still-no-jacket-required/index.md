@@ -20,7 +20,17 @@ Other than the Seattle snowstorm, I went this entire winter wearing at most a lo
 3.  Movement is very important. The body does not appreciate standing still in cold weather. Even a slow walk is enough to keep warm or at the least, not be painfully cold.
 4.  Respect the wind. It will chill you to the bone faster than cold temperatures. Limit exposure on windy days.
 
-![seattle-snow-mas](./img/seattle-snow-mas.jpg) _Me during the snow storm wearing just a tee-shirt and a sweater._ Some people think I am a lunatic for trying this, but I really enjoy the freedom of knowing that I pushed my comfort zone almost 30 degrees. When I first moved up from San Diego, I would be uncomfortably cold in the low 60s. Now I head out of the house wearing a golf shirt with no fear of what the weather can throw at me. If it starts to rain, I have a rain jacket packed inside my back pack. I didn't catch a cold or flu this entire winter. My last winter in San Diego I was sick a lot. I didn't gain any fat this winter. That is a first. Although that is most likely from another reason, which I will save for another post. Besides sheer will power, I had two things going for me on cold weather exposure that others might not have.
+![seattle-snow-mas](./img/seattle-snow-mas.jpg)
+
+_Me during the snow storm wearing just a tee-shirt and a sweater._
+
+Some people think I am a lunatic for trying this, but I really enjoy the freedom of knowing that I pushed my comfort zone almost 30 degrees. When I first moved up from San Diego, I would be uncomfortably cold in the low 60s. Now I head out of the house wearing a golf shirt with no fear of what the weather can throw at me. If it starts to rain, I have a rain jacket packed inside my back pack.
+
+I didn't catch a cold or flu this entire winter. My last winter in San Diego I was sick a lot.
+
+I didn't gain any fat this winter. That is a first. Although that is most likely from another reason, which I will save for another post.
+
+Besides sheer will power, I had two things going for me on cold weather exposure that others might not have.
 
 1.  Male and a higher amount of muscle - higher metabolism.
 2.  I do Weight Training 2-3x a week. The result is Uncoupling Proteins throwing off heat.

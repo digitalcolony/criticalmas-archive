@@ -9,7 +9,13 @@ description: "I can't stop making new vegetable ferments. I've ran out of jars a
 commentCount: 7
 ---
 
-I can't stop making new vegetable ferments. I've ran out of jars and containers to hold the ferments. At this time, I have over 25 pounds of vegetables fermenting and I'm thinking about going out and acquiring more jars. I have too many ideas that I want to try out. I think it is time for an intervention. :) ![veggie-ferments](./img/veggie-ferments.jpg) _Back row (L to R): Ghost Pepper Sauerkraut v2, 4 jars of Classic Sauerkraut_ _Front row: Killer Kimchi v3, "Peruvian style" Sauerkraut (R&D)_
+I can't stop making new vegetable ferments. I've ran out of jars and containers to hold the ferments. At this time, I have over 25 pounds of vegetables fermenting and I'm thinking about going out and acquiring more jars. I have too many ideas that I want to try out. I think it is time for an intervention. :)
+
+![veggie-ferments](./img/veggie-ferments.jpg)
+
+_Back row (L to R): Ghost Pepper Sauerkraut v2, 4 jars of Classic Sauerkraut_
+
+_Front row: Killer Kimchi v3, "Peruvian style" Sauerkraut (R&D)_
 
 ---
 

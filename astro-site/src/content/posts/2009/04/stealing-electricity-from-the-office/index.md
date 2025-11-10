@@ -9,7 +9,15 @@ description: "Today's Dilbert reminded me of one of my office stories. !dilbert-
 commentCount: 2
 ---
 
-Today's Dilbert reminded me of one of my office stories. ![dilbert-electricity](./img/dilbert-electricity.gif) One day I was walking back to the break room and I noticed a thick orange extension cord plugged into the wall. Someone had propped the back door open. Curious to see what was being charged, I followed the orange extension cord outside. It was an RV. A pretty good sized one too. Turns out one of the employees was heading out on a weekend trip to the desert and thought it was a good idea to charge up his RV on the company dime. I hinted to the employee that it took guts to be so openly stealing electricity. Despite the fact California had gone through rate hikes and rolling blackouts, he didn't seem to think charging up his RV was theft. It took all day to fully charge his vehicle. That employee was eventually promoted to Vice President.
+Today's Dilbert reminded me of one of my office stories.
+
+![dilbert-electricity](./img/dilbert-electricity.gif)
+
+One day I was walking back to the break room and I noticed a thick orange extension cord plugged into the wall. Someone had propped the back door open. Curious to see what was being charged, I followed the orange extension cord outside. It was an RV. A pretty good sized one too.
+
+Turns out one of the employees was heading out on a weekend trip to the desert and thought it was a good idea to charge up his RV on the company dime. I hinted to the employee that it took guts to be so openly stealing electricity. Despite the fact California had gone through rate hikes and rolling blackouts, he didn't seem to think charging up his RV was theft. It took all day to fully charge his vehicle.
+
+That employee was eventually promoted to Vice President.
 
 ---
 

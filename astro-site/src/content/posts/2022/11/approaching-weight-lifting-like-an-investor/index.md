@@ -9,47 +9,85 @@ description: "Back in 2013, I posted Approaching Nutrition From An Investor’s 
 commentCount: 6
 ---
 
-Back in 2013, I posted [Approaching Nutrition From An Investor’s Mindset.](/2013/04/approaching-nutrition-from-an-investors-mindset/) It was a very popular post where I framed some of the nutritional debates as an investor would. We can also use an investing mindset when we head into the free weight room. This will be the post I wish I had read when I was younger.
+Back in 2013, I posted [Approaching Nutrition From An Investor’s Mindset.](/2013/04/approaching-nutrition-from-an-investors-mindset/) It was a very popular post where I framed some of the nutritional debates as an investor would. We can also use an investing mindset when we head into the free weight room.
+
+This will be the post I wish I had read when I was younger.
 
 
 ### Investment Window and Muscle Window
 
 
-The goal of an investor is to put away money on a regular basis into investments that grow with the goal of being able to retire and live off those investments at some point. When we lift weights, we also have a window. However, the window looks different. Although one aims to lift their entire adult life, the deposits made early are worth far more than those made later. A younger man will not only have higher testosterone levels, but he will have superior recoverability. He will not only be able to recover from a successful workout but also from injuries. Let me illustrate that point with a personal example. In 1988, I had knee surgery. Not the sleek arthroscopic knee surgeries we have now, but one where they cut open my leg, ground down some bone and then put me in a full leg cast, which I wore for months. The next year, I [ran a sub-4 hour marathon](/2008/03/the-runner-1989-1995/) having never run a single race before. Fast forward to May 2021, I had the opportunity to try and kick a field goal after a fancy dinner held on Century Field, which is where the Seattle Seahawks play. Although I made the field goal, I got a high hamstring tear. It still isn't fully healed. For the first year, I could only drive my car for 10 minutes before the pain would arrive. I don't know if I'll ever be 100%. All the sports massages and daily PT exercises have made my recovery painfully slow. That's the cold reality of aging and recoverability.
+The goal of an investor is to put away money on a regular basis into investments that grow with the goal of being able to retire and live off those investments at some point.
+
+When we lift weights, we also have a window. However, the window looks different. Although one aims to lift their entire adult life, the deposits made early are worth far more than those made later.
+
+A younger man will not only have higher testosterone levels, but he will have superior recoverability. He will not only be able to recover from a successful workout but also from injuries.
+
+Let me illustrate that point with a personal example.
+
+In 1988, I had knee surgery. Not the sleek arthroscopic knee surgeries we have now, but one where they cut open my leg, ground down some bone and then put me in a full leg cast, which I wore for months. The next year, I [ran a sub-4 hour marathon](/2008/03/the-runner-1989-1995/) having never run a single race before.
+
+Fast forward to May 2021, I had the opportunity to try and kick a field goal after a fancy dinner held on Century Field, which is where the Seattle Seahawks play. Although I made the field goal, I got a high hamstring tear. It still isn't fully healed. For the first year, I could only drive my car for 10 minutes before the pain would arrive. I don't know if I'll ever be 100%. All the sports massages and daily PT exercises have made my recovery painfully slow.
+
+That's the cold reality of aging and recoverability.
 
 
 ### How to Invest For Retirement
 
 
-It is commonly accepted advice to save a portion of your earnings for retirement. As your career progresses, your wages will typically rise and your contributions will get larger. The earlier you begin investing, the more you have the potential to compound gains. When you are further away from retirement, financial planners will recommend a more aggressive portfolio allocation. More stocks than fixed income. Growth stocks and emerging markets. Historically, these investments have the most potential for higher returns. However, they also have the most downside risk. If you are young enough and don't need to access retirement for decades, you have the potential to ride out any down period. As we get older and our retirement account has grown in value (hopefully), we want to lock in some of those gains by moving to safer investments that will be less likely to decline in a recession or financial crisis.
+It is commonly accepted advice to save a portion of your earnings for retirement. As your career progresses, your wages will typically rise and your contributions will get larger. The earlier you begin investing, the more you have the potential to compound gains.
+
+When you are further away from retirement, financial planners will recommend a more aggressive portfolio allocation. More stocks than fixed income. Growth stocks and emerging markets. Historically, these investments have the most potential for higher returns. However, they also have the most downside risk. If you are young enough and don't need to access retirement for decades, you have the potential to ride out any down period.
+
+As we get older and our retirement account has grown in value (hopefully), we want to lock in some of those gains by moving to safer investments that will be less likely to decline in a recession or financial crisis.
 
 
 ### Muscle For Retirement
 
 
-What if we view muscle in the same manner as investing? Early investors and young lifters have lots of potential gains ahead of them. They both can take greater risks. If something goes wrong, they recover quickly. Time is on their side. An all too common mistake in retirement planning is that people wait too long to take it seriously. They lose those early years of saving and compounding. This mistake is true for fitness. I'm guilty myself. What percent of men between 18 and 30 lift regularly? I don't know. But it is far too low. At that age, you have so much testosterone that you can practically gain muscle by looking at weights. And if you tweak something, you'll recover so quickly that you'll be back to lifting in no time.
+What if we view muscle in the same manner as investing? Early investors and young lifters have lots of potential gains ahead of them. They both can take greater risks. If something goes wrong, they recover quickly. Time is on their side.
+
+An all too common mistake in retirement planning is that people wait too long to take it seriously. They lose those early years of saving and compounding. This mistake is true for fitness. I'm guilty myself.
+
+What percent of men between 18 and 30 lift regularly? I don't know. But it is far too low. At that age, you have so much testosterone that you can practically gain muscle by looking at weights. And if you tweak something, you'll recover so quickly that you'll be back to lifting in no time.
 
 
 ### Pricing an Investment
 
 
-On my 17th birthday at MEPS (Military Entrance Processing Station), my weight was 156 pounds at a height of 6’2.5_._ My testosterone was peaking and I had never lifted weights. Through the eyes of an investor, I was sitting on an extremely undervalued investment. Did I make deposits in the free weight room? Nope. I didn't start lifting until I was 24. I wasted those 7 years. Had I lifted back then, I would have earned a lifetime of muscle and quickly reached my [genetic potential](https://www.fitmatic.com/body/calculator/muscular-potential-calculator).
+On my 17th birthday at MEPS (Military Entrance Processing Station), my weight was 156 pounds at a height of 6’2.5_._ My testosterone was peaking and I had never lifted weights. Through the eyes of an investor, I was sitting on an extremely undervalued investment.
+
+Did I make deposits in the free weight room? Nope. I didn't start lifting until I was 24. I wasted those 7 years. Had I lifted back then, I would have earned a lifetime of muscle and quickly reached my [genetic potential](https://www.fitmatic.com/body/calculator/muscular-potential-calculator).
 
 
 ### Reducing Risk
 
 
-Another common mistake in investing is when people stay in higher-risk investments too close to retirement. It could work out for them and often it does, but one recession or financial scare could set back their retirement date by several years. The same principle is true in the free weight room. Guys that have been building strength and muscle throughout their golden decade, keep adding more and more weight to the bar, all while their recoverability and testosterone are falling. This is a point I've brought up before and I'll continue to bring it up. I posted this [11 years ago](/2011/11/my-bench-press-sucks-and-i-dont-care/) this month.
+Another common mistake in investing is when people stay in higher-risk investments too close to retirement. It could work out for them and often it does, but one recession or financial scare could set back their retirement date by several years.
+
+The same principle is true in the free weight room. Guys that have been building strength and muscle throughout their golden decade, keep adding more and more weight to the bar, all while their recoverability and testosterone are falling.
+
+This is a point I've brought up before and I'll continue to bring it up. I posted this [11 years ago](/2011/11/my-bench-press-sucks-and-i-dont-care/) this month.
 
 > This brings us back to our old friend survivorship bias. I see lots of guys in their 20s slamming serious weights. I see a few guys doing it in their 30s. Where are the 40-60-year-old guys? Occasionally I'll see one, but it is a rare sight. Where did all those guys who had amazing bench press numbers 10-20 years ago go? I've said it before and I'll say it again: People do not en masse voluntarily quit participating in something for which they are highly skilled at doing. What happened?
 
-I know what happened. They continued to use the same exercises (investments) that brought them the highest return without considering that the risks of injury were increasing as the weight got heavier at the very same time, and due to age, their recoverability was declining. I've been critical of the [barbell back squat](/2012/06/i-no-longer-give-a-squat-about-the-squat/) and [heavy benches](/2011/11/my-bench-press-sucks-and-i-dont-care/) for being unsafe. I'd like to partially walk that statement back. I think both of these exercises for some young 20-year-olds with lots of muscle potential are fine levers for a few years of muscle growth. Same as investing in growth stocks. And like a young investor, if something goes wrong, dust yourself off, and get back in there. However, if you are over 35 and already made decent muscle gains, why not lock in some of those gains and move to safer exercises? I threw out the age of 35 as a conversation starter and not something fixed. Depending upon your age, somatype, and other factors, that age could be higher or lower by a few years.
+I know what happened. They continued to use the same exercises (investments) that brought them the highest return without considering that the risks of injury were increasing as the weight got heavier at the very same time, and due to age, their recoverability was declining.
+
+I've been critical of the [barbell back squat](/2012/06/i-no-longer-give-a-squat-about-the-squat/) and [heavy benches](/2011/11/my-bench-press-sucks-and-i-dont-care/) for being unsafe. I'd like to partially walk that statement back. I think both of these exercises for some young 20-year-olds with lots of muscle potential are fine levers for a few years of muscle growth. Same as investing in growth stocks. And like a young investor, if something goes wrong, dust yourself off, and get back in there.
+
+However, if you are over 35 and already made decent muscle gains, why not lock in some of those gains and move to safer exercises? I threw out the age of 35 as a conversation starter and not something fixed. Depending upon your age, somatype, and other factors, that age could be higher or lower by a few years.
 
 
 ### Catch-Up Contributions
 
 
-In the United States, workers over 50 are allowed to contribute more money each year to their 401k plans. This allows those individuals who are falling short of their retirement goals to make up the difference. Sadly, we can't do this in the gym. I can't make up for the fact I didn't lift weights in high school or college with additional workouts today. That window is closed. Maybe TRT or [getting young blood](https://en.wikipedia.org/wiki/Young_blood_transfusion) would help some, but naturally, it isn't going to happen. When I tried to push the workouts in my mid-30s, I frequently got injured. I tried to play catch up and my recovery rate couldn't match my motivation rate. Thankfully, I found and grasped the [concepts of HIT](/2015/06/muscle-on-weight-or-weight-on-muscle/) before I was sidelined for good. ![weights-in-gym](./img/weights-in-gym.jpg)
+In the United States, workers over 50 are allowed to contribute more money each year to their 401k plans. This allows those individuals who are falling short of their retirement goals to make up the difference.
+
+Sadly, we can't do this in the gym. I can't make up for the fact I didn't lift weights in high school or college with additional workouts today. That window is closed. Maybe TRT or [getting young blood](https://en.wikipedia.org/wiki/Young_blood_transfusion) would help some, but naturally, it isn't going to happen.
+
+When I tried to push the workouts in my mid-30s, I frequently got injured. I tried to play catch up and my recovery rate couldn't match my motivation rate. Thankfully, I found and grasped the [concepts of HIT](/2015/06/muscle-on-weight-or-weight-on-muscle/) before I was sidelined for good.
+
+![weights-in-gym](./img/weights-in-gym.jpg)
 
 
 ### Last Words

@@ -8,11 +8,15 @@ description: "I'm so tired of people singing the praises of a particular diet as
 commentCount: 2
 ---
 
-I'm so tired of people singing the praises of a particular diet as the _one true way_ to lose weight. Diet choice has become the new religion. Most of the time when I revisit a diet evangelist months later, the weight they lost has returned. They blame themselves and not the diet. All diets work in the short run because they all have one thing in common. They restrict food choices, which causes us to pause and think about what we put in our mouths.
+I'm so tired of people singing the praises of a particular diet as the _one true way_ to lose weight. Diet choice has become the new religion. Most of the time when I revisit a diet evangelist months later, the weight they lost has returned. They blame themselves and not the diet.
+
+All diets work in the short run because they all have one thing in common. They restrict food choices, which causes us to pause and think about what we put in our mouths.
 
 > Food restriction = Caloric decrease = Weight loss.
 
-But humans are hunters by design. Eventually we figure out how to get those lost calories by either ending the diet or finding other food choices that are _acceptable_. And if we don't, then the body will adapt to the new level of calories and the weight loss will cease. The key to fat loss isn't the diet choice, it is the pause.
+But humans are hunters by design. Eventually we figure out how to get those lost calories by either ending the diet or finding other food choices that are _acceptable_. And if we don't, then the body will adapt to the new level of calories and the weight loss will cease.
+
+The key to fat loss isn't the diet choice, it is the pause.
 
 ---
 

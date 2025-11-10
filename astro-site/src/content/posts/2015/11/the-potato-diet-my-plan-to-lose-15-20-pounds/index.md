@@ -9,7 +9,11 @@ description: "Be sure to check out my Potato Hack Diet Best of Page. Earlier thi
 commentCount: 26
 ---
 
-Be sure to check out my [Potato Hack Diet](https://criticalmas.org/best-of/potato-hack-diet/) Best of Page. Earlier this month I posted [No Hunger Games - A Day of Just Boiled Potatoes](/2015/11/no-hunger-games-a-day-of-just-boiled-potatoes/). It was a trial run of two days of eating just cold boiled potatoes. That post goes into why it is easy to go into a calorie deficit without feeling hungry if one just eats potatoes. [The Potato Diet](https://vegetablepharm.blogspot.com/p/the-potato-diet_14.html) guide on _Vegetable Pharm_ is the comprehensive guide. If you have any questions, they are likely answered there. The two-day test showed me a few things:
+Be sure to check out my [Potato Hack Diet](https://criticalmas.org/best-of/potato-hack-diet/) Best of Page.
+
+Earlier this month I posted [No Hunger Games - A Day of Just Boiled Potatoes](/2015/11/no-hunger-games-a-day-of-just-boiled-potatoes/). It was a trial run of two days of eating just cold boiled potatoes. That post goes into why it is easy to go into a calorie deficit without feeling hungry if one just eats potatoes. [The Potato Diet](https://vegetablepharm.blogspot.com/p/the-potato-diet_14.html) guide on _Vegetable Pharm_ is the comprehensive guide. If you have any questions, they are likely answered there.
+
+The two-day test showed me a few things:
 
 1.  That I could eat to satiety in a caloric deficit. No hunger.
 2.  That I could sleep throughout the night and not wake up hungry.
@@ -21,7 +25,16 @@ Shortly after the two-day experiment, I planned to start The Potato Diet, but I 
 -   POTATO DIET: Monday, Tuesday, Wednesday every week.
 -   EXERCISE: Sunday, Thursday
 
-Continue with 3x a week until your goal is met and then scale to a maintenance plan. Discontinue or scale back if I experience excessive lethargy or coldness. If after a month I fail to see at least a 5# lose, I will reassess. ![potatoes](./img/potatoes-1.jpg) I will be boiling white potatoes and be consuming them cold. No salt, spices, or anything. If the diet is successful and I use the Potato Diet as a maintenance tool, I might add salt or spices at that time. Today is Day 1. I don't plan on doing weekly updates. Maybe 1-2 updates a month. Some of you will want to know why I have picked this diet over other strategies. The short answer is I do better on simple rule diets that require minimal planning. The long answer will be the topic of a future post. _The best resource for the potato hack is the Tim Steele book Potato Hack: Weight Loss Simplified_
+Continue with 3x a week until your goal is met and then scale to a maintenance plan. Discontinue or scale back if I experience excessive lethargy or coldness. If after a month I fail to see at least a 5# lose, I will reassess.
+
+
+![potatoes](./img/potatoes-1.jpg)
+
+I will be boiling white potatoes and be consuming them cold. No salt, spices, or anything. If the diet is successful and I use the Potato Diet as a maintenance tool, I might add salt or spices at that time.
+
+Today is Day 1. I don't plan on doing weekly updates. Maybe 1-2 updates a month. Some of you will want to know why I have picked this diet over other strategies. The short answer is I do better on simple rule diets that require minimal planning. The long answer will be the topic of a future post.
+
+_The best resource for the potato hack is the Tim Steele book Potato Hack: Weight Loss Simplified_
 
 ---
 

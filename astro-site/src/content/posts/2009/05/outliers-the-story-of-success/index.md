@@ -9,7 +9,13 @@ description: "Everyone else seems to be reading this book now. Me too. !Outliers
 commentCount: 6
 ---
 
-Everyone else seems to be reading this book now. Me too. ![Outliers: The Story of Success](https://images-na.ssl-images-amazon.com/images/I/41KIJF6MAQL.jpg) _Outliers: The Story of Success by Malcolm Gladwell_ impressed me. This guy can bundle massive amounts of statistical evidence into fun readable and entertaining stories. I liked this book better _The Tipping Point_. I don't recall reading _Blink_, although my gut reaction is I didn't. :) This is the story of how success in society almost always starts with a huge statistical advantage that eliminates most competitors. One example in the book was how kids that are six months older than their classmates have an advantage in sports and maturity that compounds over time. Hey, I was thrown into kindergarten at 4 years old, months before turning 5. Maybe I could have been better in sports or academics had I started at 5 years old? _I coulda had class. I coulda been a contender. I coulda been somebody..._ ;)
+Everyone else seems to be reading this book now. Me too.
+
+![Outliers: The Story of Success](https://images-na.ssl-images-amazon.com/images/I/41KIJF6MAQL.jpg) _Outliers: The Story of Success by Malcolm Gladwell_ impressed me. This guy can bundle massive amounts of statistical evidence into fun readable and entertaining stories. I liked this book better _The Tipping Point_. I don't recall reading _Blink_, although my gut reaction is I didn't. :)
+
+This is the story of how success in society almost always starts with a huge statistical advantage that eliminates most competitors. One example in the book was how kids that are six months older than their classmates have an advantage in sports and maturity that compounds over time.
+
+Hey, I was thrown into kindergarten at 4 years old, months before turning 5. Maybe I could have been better in sports or academics had I started at 5 years old? _I coulda had class. I coulda been a contender. I coulda been somebody..._ ;)
 
 ---
 

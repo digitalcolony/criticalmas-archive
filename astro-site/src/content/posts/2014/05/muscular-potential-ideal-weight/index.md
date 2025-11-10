@@ -9,12 +9,36 @@ description: "Stephan over at Biohacks.net put together the Maximum Lean Body Ma
 commentCount: 12
 ---
 
-Stephan over at Biohacks.net put together the Maximum Lean Body Mass Calculator _(no longer online)_. The formula used to make the calculation includes wrist and ankle size, which is a wise thing as ectomorphs tend to have smaller wrists and less muscle potential than someone with thicker wrists. But the formula is still incomplete. I'll explain later. My numbers are: \[table id=34 /\] I have no idea what my body fat percentage is. Since college, I've had numerous body fat tests done using a number of different methods. They are all over the map. I've had higher percentages when I was visibly lean and lower percentages when I clearly wasn't. But the interesting part of the calculation is not what your current body fat is, but what your lean mass potential might be. Today I weigh 206. If my body fat percentage is 16%, then my lean mass is 173. Subtract that from 190 and according to the calculator I still have the potential to gain 17 more pounds of muscle. I'm highly skeptical. Not because I am a beast. I'm clearly not. I'm skeptical because the formula doesn't capture enough data points. Let us revisit the work of Ellington Darden Ph.D. In the post [Fitness Role Models Revisited](/2012/03/fitness-role-models-revisited/), I included two charts of muscular potential based on his research and work with thousands of athletes. Go check out that post now. What we learned is that there are two other variables.
+Stephan over at Biohacks.net put together the Maximum Lean Body Mass Calculator _(no longer online)_. The formula used to make the calculation includes wrist and ankle size, which is a wise thing as ectomorphs tend to have smaller wrists and less muscle potential than someone with thicker wrists. But the formula is still incomplete. I'll explain later.
+
+My numbers are:
+
+\[table id=34 /\]
+
+I have no idea what my body fat percentage is. Since college, I've had numerous body fat tests done using a number of different methods. They are all over the map. I've had higher percentages when I was visibly lean and lower percentages when I clearly wasn't. But the interesting part of the calculation is not what your current body fat is, but what your lean mass potential might be.
+
+Today I weigh 206. If my body fat percentage is 16%, then my lean mass is 173. Subtract that from 190 and according to the calculator I still have the potential to gain 17 more pounds of muscle. I'm highly skeptical. Not because I am a beast. I'm clearly not. I'm skeptical because the formula doesn't capture enough data points.
+
+Let us revisit the work of Ellington Darden Ph.D. In the post [Fitness Role Models Revisited](/2012/03/fitness-role-models-revisited/), I included two charts of muscular potential based on his research and work with thousands of athletes. Go check out that post now. What we learned is that there are two other variables.
 
 1.  Distance Between Elbow and Edge of Contracted Bicep
 2.  Distance Between Elbow Tip and Top of Inside Horseshoe
 
-Using both these metrics, my muscular potential is "very minimal". After playing with the calculator on Biohacks, I went looking for more formulas. The article The WeighTrainer: Your Maximum Muscular Bodyweight and Measurements by Casey Butt, Ph.D. has several more formulas including ones to calculate maximum measurements. I'm not going to list all my maximum potential numbers, just the two most ridiculous ones. According to the formulas, I have the potential to have a 13.9-inch forearm and a 17.3-inch bicep. Unless I foolishly decided to inject Synthol, that is not going to happen with the 2.25-inch gap between my elbow and contracted bicep. With very few exceptions, almost every jacked ectomorph you see carrying significant muscle, you will see a small gap there. ![scrawny-to-brawny](./img/scrawny-to-brawny.jpg) _Anthony Ellis_ Probably the most memorable body transformation of an ectomorph I've seen was Anthony Ellis from the original Body For Life contest (~ 1996). Notice how tight the space is between his elbow and contracted bicep. His accomplishments are to be praised, but for a majority of ectomorphs, I would say he represents an unrealistic role model. Today I weigh 50 pounds more than I did the day I enlisted in the military at the age of 17. Most of those pounds are muscle. I also didn't start weight training until I was 24, missing the golden window of youth. So all things considered, I am very pleased with what I've accomplished. For most of my lifting years, I had unrealistic role models and goals. I was rarely satisfied with what I had accomplished and I had a poor body image. Thankfully I am wiser today and can look back at that scrawny 156-pound 17-year-old and see what I have gained and maintained. I only wish I was aware of Darden's data earlier. I would have saved myself from several injuries by pushing myself to reach some vision of myself that was never possible. [Part 2](/2014/06/muscular-potential-reality-part-2-hardgainer-edition/)
+Using both these metrics, my muscular potential is "very minimal". After playing with the calculator on Biohacks, I went looking for more formulas. The article The WeighTrainer: Your Maximum Muscular Bodyweight and Measurements by Casey Butt, Ph.D. has several more formulas including ones to calculate maximum measurements.
+
+I'm not going to list all my maximum potential numbers, just the two most ridiculous ones. According to the formulas, I have the potential to have a 13.9-inch forearm and a 17.3-inch bicep. Unless I foolishly decided to inject Synthol, that is not going to happen with the 2.25-inch gap between my elbow and contracted bicep. With very few exceptions, almost every jacked ectomorph you see carrying significant muscle, you will see a small gap there.
+
+![scrawny-to-brawny](./img/scrawny-to-brawny.jpg)
+
+_Anthony Ellis_
+
+Probably the most memorable body transformation of an ectomorph I've seen was Anthony Ellis from the original Body For Life contest (~ 1996). Notice how tight the space is between his elbow and contracted bicep. His accomplishments are to be praised, but for a majority of ectomorphs, I would say he represents an unrealistic role model.
+
+Today I weigh 50 pounds more than I did the day I enlisted in the military at the age of 17. Most of those pounds are muscle. I also didn't start weight training until I was 24, missing the golden window of youth. So all things considered, I am very pleased with what I've accomplished.
+
+For most of my lifting years, I had unrealistic role models and goals. I was rarely satisfied with what I had accomplished and I had a poor body image. Thankfully I am wiser today and can look back at that scrawny 156-pound 17-year-old and see what I have gained and maintained. I only wish I was aware of Darden's data earlier. I would have saved myself from several injuries by pushing myself to reach some vision of myself that was never possible.
+
+[Part 2](/2014/06/muscular-potential-reality-part-2-hardgainer-edition/)
 
 ---
 

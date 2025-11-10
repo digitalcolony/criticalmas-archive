@@ -23,7 +23,11 @@ A few of the problems that were pointed out to me included sample size, length o
 4.  **Confirmation Bias** - Since I only test ideas that I think might have a chance of showing a positive outcome, the possibility of confirmation bias does exist, especially early in the test. You want something to work, so that might influence the results. This is where having a lot of data helps. I have discovered on a few tests where data in the first 3-5 days tends to be more positive than the overall test. This is why I collect data over longer test periods.
 5.  **Placebo Effect** - I wish I fell for the placebo effect. Life would be so much sweeter if I could go to a supplement store, imagine how great some pill was going to be and then have it all materialize. If I believed strongly enough that chamomile tea would improve my sleep quality and it did, then I would count that as victory. A win is a win. Unfortunately, in the year I've been doing testing that hasn't happened yet.
 
-No test is going to be perfect, but not testing is a sure fire way to lose. Spending a few minutes each morning in front of a spreadsheet for the past year has measurably improved the quality of my life. At the point when I stop receiving benefits to justify the minimal time commitment, I'll stop collecting data. But I don't see that happening anytime soon. I've only just begun. ![spreadsheet-mug](./img/spreadsheet-mug.jpg) _[Photo](https://flic.kr/p/dNdaUb) by Craig Chew-Moulding_
+No test is going to be perfect, but not testing is a sure fire way to lose. Spending a few minutes each morning in front of a spreadsheet for the past year has measurably improved the quality of my life. At the point when I stop receiving benefits to justify the minimal time commitment, I'll stop collecting data. But I don't see that happening anytime soon. I've only just begun.
+
+![spreadsheet-mug](./img/spreadsheet-mug.jpg)
+
+_[Photo](https://flic.kr/p/dNdaUb) by Craig Chew-Moulding_
 
 ---
 

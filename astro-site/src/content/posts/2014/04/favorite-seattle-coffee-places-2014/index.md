@@ -9,7 +9,13 @@ description: "This weekend Seattle is hosting the SCAA (Speciality Coffee Associ
 commentCount: 6
 ---
 
-This weekend Seattle is hosting the SCAA (Speciality Coffee Association of America). This is the big coffee event for the industry. People from all over the world will be visiting Seattle. In addition to the big expo, I expect our visitors will be checking out the local coffee scene. Below is my current list of Seattle coffee shop favorites broken down by neighborhood. **Biases:** I only drink espresso and I loathe dark roasts. **Disclosures:** None. I've never worked for anyone in the coffee industry. I am the organizer of the [Coffee Club of Seattle](https://www.meetup.com/seattle-coffee-club/), which is a group of 700+ coffee fans that have been exploring the Seattle coffee scene since 2006. I've also ran the coffee hobbyist website [INeedCoffee](https://ineedcoffee.com) since 1999.
+This weekend Seattle is hosting the SCAA (Speciality Coffee Association of America). This is the big coffee event for the industry. People from all over the world will be visiting Seattle. In addition to the big expo, I expect our visitors will be checking out the local coffee scene.
+
+Below is my current list of Seattle coffee shop favorites broken down by neighborhood.
+
+**Biases:** I only drink espresso and I loathe dark roasts.
+
+**Disclosures:** None. I've never worked for anyone in the coffee industry. I am the organizer of the [Coffee Club of Seattle](https://www.meetup.com/seattle-coffee-club/), which is a group of 700+ coffee fans that have been exploring the Seattle coffee scene since 2006. I've also ran the coffee hobbyist website [INeedCoffee](https://ineedcoffee.com) since 1999.
 
 
 ### Downtown / Belltown / Pioneer Square
@@ -72,7 +78,11 @@ This weekend Seattle is hosting the SCAA (Speciality Coffee Association of Ameri
 -   Caffe Delia (White Center)
 -   Burien Press (Burien)
 
-_This list is not complete. There are many more great spots._ ![Caffe Delia](./img/7600597462_2262425027_z.jpg "Caffe Delia") If you haven't been to Seattle in a few years, the biggest changes have been:
+_This list is not complete. There are many more great spots._
+
+![Caffe Delia](./img/7600597462_2262425027_z.jpg "Caffe Delia")
+
+If you haven't been to Seattle in a few years, the biggest changes have been:
 
 1.  Many more coffee shops are offering more than 1 espresso option. Sometimes from multiple roasters.
 2.  Caffe Ladro is much better.

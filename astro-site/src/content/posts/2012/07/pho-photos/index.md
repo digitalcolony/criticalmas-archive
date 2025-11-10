@@ -9,7 +9,21 @@ description: "My latest food project moves to Vietnam. !pho3 !pho2 !pho1 !pho4 !
 commentCount: 3
 ---
 
-My latest food project moves to Vietnam. ![pho3](./img/pho3.jpg) ![pho2](./img/pho2.jpg) ![pho1](./img/pho1.jpg) ![pho4](./img/pho4.jpg) ![pho5](./img/pho5.jpg) I used the average of a few [pho](https://en.wikipedia.org/wiki/Pho) recipes online. It turned out to be very tasty. The funny thing is that I never actually had pho before\*, so I can't tell you how authentic my version turned out. I suspect I did OK. _\* I've been to Pho restaurants twice before and had the vegetarian option both times. Youthful indiscretion_. ;)
+My latest food project moves to Vietnam.
+
+![pho3](./img/pho3.jpg)
+
+![pho2](./img/pho2.jpg)
+
+![pho1](./img/pho1.jpg)
+
+![pho4](./img/pho4.jpg)
+
+![pho5](./img/pho5.jpg)
+
+I used the average of a few [pho](https://en.wikipedia.org/wiki/Pho) recipes online. It turned out to be very tasty. The funny thing is that I never actually had pho before\*, so I can't tell you how authentic my version turned out. I suspect I did OK.
+
+_\* I've been to Pho restaurants twice before and had the vegetarian option both times. Youthful indiscretion_. ;)
 
 ---
 

@@ -9,7 +9,17 @@ description: "Last year I posted my gyro meatloaf recipe. It mimics the flavor p
 commentCount: 6
 ---
 
-Last year I posted my [gyro meatloaf recipe](/2012/03/the-gyro-meatloaf-recipe/). It mimics the flavor profile of gyro meat in convenient meatloaf format. Unlike [commercial gyro meat](/2012/09/commercial-gyro-meat-is-absolutely-not-gluten-free/), my recipe is 100% gluten free. I discovered you don't need bread crumbs. A single egg is enough to bind the meatloaf. However, I started experimenting with bread crumb substitutes to thicken the meatloaf. The first thing I used was instant potatoes. It works very well and I've made probably 10 meatloaves with instant potatoes. But I got a better idea recently. I was reading a Persian cookbook I got from the library. The book was terrible, as every recipe required way too many ingredients and at least 2 hours. But I did get one good idea. Mixing cooked rice into meatballs. If it works for meatballs, it should work for meatloaf. And it did. I am now mixing cooked white rice into my meatloaves and it works great. I'm still working on the optimal mix. My first meatloaf, I underdosed using 1 cup for 3 pounds. Below is a photo using 3 cups of basmati for 3 pounds. Probably a little too much. Will use 2 cups next time. ![Meatloaf](./img/meatloaf650.jpg) _Gyro Meatloaf with Basmati rice_ Another brilliant thing about this idea, is I don't need to cook up a starch side dish. It is literally baked in the meatloaf. Wrap some foil around it and you have a perfect portable meal.
+Last year I posted my [gyro meatloaf recipe](/2012/03/the-gyro-meatloaf-recipe/). It mimics the flavor profile of gyro meat in convenient meatloaf format. Unlike [commercial gyro meat](/2012/09/commercial-gyro-meat-is-absolutely-not-gluten-free/), my recipe is 100% gluten free. I discovered you don't need bread crumbs. A single egg is enough to bind the meatloaf. However, I started experimenting with bread crumb substitutes to thicken the meatloaf.
+
+The first thing I used was instant potatoes. It works very well and I've made probably 10 meatloaves with instant potatoes. But I got a better idea recently. I was reading a Persian cookbook I got from the library. The book was terrible, as every recipe required way too many ingredients and at least 2 hours. But I did get one good idea. Mixing cooked rice into meatballs. If it works for meatballs, it should work for meatloaf. And it did.
+
+I am now mixing cooked white rice into my meatloaves and it works great. I'm still working on the optimal mix. My first meatloaf, I underdosed using 1 cup for 3 pounds. Below is a photo using 3 cups of basmati for 3 pounds. Probably a little too much. Will use 2 cups next time.
+
+![Meatloaf](./img/meatloaf650.jpg)
+
+_Gyro Meatloaf with Basmati rice_
+
+Another brilliant thing about this idea, is I don't need to cook up a starch side dish. It is literally baked in the meatloaf. Wrap some foil around it and you have a perfect portable meal.
 
 ---
 

@@ -9,7 +9,13 @@ description: "Last November, I outlined the Peasant Diet in the post Designing a
 commentCount: 24
 ---
 
-Last November, I outlined the Peasant Diet in the post [Designing a Modern Peasant Diet](/2016/11/designing-modern-peasant-diet/). At that time I had the plan I needed to lose weight, but I didn't start losing weight until this March. I believe the reason for this was a false belief about metabolism that was having me over consume calories on my non-peasant meals. I explained this in the post [Overcoming False Health Beliefs to Lose Fat](/2017/09/overcoming-false-health-beliefs-lose-fat/). This false belief on metabolism led me to create [The POWS Food Pyramid](/2017/01/pows-food-pyramid/). I still think this is a solid food pyramid for healthy eating on a budget, but I was getting too many calories from the World Cuisine tier. Not enough to gain weight, but too many for the Peasant tier and Bodybuilder tier to take me into a caloric deficit. ![](./img/floating-village-4.jpg) _[Siem Reap, Cambodia](/2009/12/floating-village-siem-reap-cambodia/)_
+Last November, I outlined the Peasant Diet in the post [Designing a Modern Peasant Diet](/2016/11/designing-modern-peasant-diet/). At that time I had the plan I needed to lose weight, but I didn't start losing weight until this March. I believe the reason for this was a false belief about metabolism that was having me over consume calories on my non-peasant meals. I explained this in the post [Overcoming False Health Beliefs to Lose Fat](/2017/09/overcoming-false-health-beliefs-lose-fat/).
+
+This false belief on metabolism led me to create [The POWS Food Pyramid](/2017/01/pows-food-pyramid/). I still think this is a solid food pyramid for healthy eating on a budget, but I was getting too many calories from the World Cuisine tier. Not enough to gain weight, but too many for the Peasant tier and Bodybuilder tier to take me into a caloric deficit.
+
+![](./img/floating-village-4.jpg)
+
+_[Siem Reap, Cambodia](/2009/12/floating-village-siem-reap-cambodia/)_
 
 
 ### Fully Adopting the Peasant Mindset
@@ -17,7 +23,9 @@ Last November, I outlined the Peasant Diet in the post [Designing a Modern Peasa
 
 At the same time, I was rejecting the delicate metabolism thesis, I was becoming more aware of how powerful stories can be in shaping behavior. I explored this topic in the post [Using the Power of Story for Fat Loss](/2017/08/using-power-story-fat-loss/).
 
-> You may not need a story, but I’ve discovered they can be extremely motivating and powerful. They work. But we can’t lie to ourselves. Calories do count. Willpower is not unlimited. We live in a world of endless food choices, many of which have been designed by food chemists, that know you better than you know yourself. Stories work because they provide the simple framework we can use to navigate our modern world without having to think about the details. Good stories should also be visual.
+> You may not need a story, but I’ve discovered they can be extremely motivating and powerful. They work. But we can’t lie to ourselves. Calories do count. Willpower is not unlimited. We live in a world of endless food choices, many of which have been designed by food chemists, that know you better than you know yourself.
+> 
+> Stories work because they provide the simple framework we can use to navigate our modern world without having to think about the details. Good stories should also be visual.
 
 I decided to strengthen the Peasant story. Not just the details, but fully embrace the mindset.
 
@@ -31,13 +39,19 @@ I decided to strengthen the Peasant story. Not just the details, but fully embra
 -   A peasant is not time rich. Meals must be assembled quickly or in bulk.
 -   A peasant does not eat for entertainment. Food is for survival.
 
-I thought about being a peasant. What it meant. How other behaviors might be impacted. As I started losing weight, I didn't buy new clothes. I did laundry twice a week with the clothes I had that fit me. I even learned to sew a little to mend older clothes. Before I made any decision regarding food, I envisioned being the peasant. I wasn't always perfect, but I was most of the time and that was enough to **drop my weight from 222 to 200**. Recently, I spent a whopping $17 on a meal with friends. As I was walking away from the restaurant, I calculated I could have spent $17 on 60 pounds of potatoes at the restaurant supply store. At 4 pounds a day, I realized that was 15 days worth of food to the peasant.
+I thought about being a peasant. What it meant. How other behaviors might be impacted. As I started losing weight, I didn't buy new clothes. I did laundry twice a week with the clothes I had that fit me. I even learned to sew a little to mend older clothes.
+
+Before I made any decision regarding food, I envisioned being the peasant. I wasn't always perfect, but I was most of the time and that was enough to **drop my weight from 222 to 200**. Recently, I spent a whopping $17 on a meal with friends. As I was walking away from the restaurant, I calculated I could have spent $17 on 60 pounds of potatoes at the restaurant supply store. At 4 pounds a day, I realized that was 15 days worth of food to the peasant.
 
 
 ### My Values
 
 
-The Peasant Diet works for me because it lines up with my values. We all want to eat healthily and be at our ideal weight. And most of us know there are many paths to achieve our goals. Some paths are harder and more expensive than others. Some methods are effective and some are not sustainable. One of the things I dislike about health advice is it often costly. Not just costly in ingredients, but costly in time to prepare meals. The people in North America with the worst health are the people with the least amount of money and often the least amount of time. Becoming lean and healthy on minimal money is inspiring to me. Someone asked me about organic food. My response is that a peasant can't afford organic and while I'm on my Peasant Diet, I will only buy organic if it is the price is about the same. After I've achieved a perfect weight and held it for a satisfactory period, I may decide to change my diet, but while I'm a peasant I am frugal with money spent on food.
+The Peasant Diet works for me because it lines up with my values. We all want to eat healthily and be at our ideal weight. And most of us know there are many paths to achieve our goals. Some paths are harder and more expensive than others. Some methods are effective and some are not sustainable.
+
+One of the things I dislike about health advice is it often costly. Not just costly in ingredients, but costly in time to prepare meals. The people in North America with the worst health are the people with the least amount of money and often the least amount of time. Becoming lean and healthy on minimal money is inspiring to me.
+
+Someone asked me about organic food. My response is that a peasant can't afford organic and while I'm on my Peasant Diet, I will only buy organic if it is the price is about the same. After I've achieved a perfect weight and held it for a satisfactory period, I may decide to change my diet, but while I'm a peasant I am frugal with money spent on food.
 
 
 ### Why the Peasant Diet Works

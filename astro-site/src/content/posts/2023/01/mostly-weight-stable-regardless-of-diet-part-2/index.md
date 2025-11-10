@@ -16,13 +16,23 @@ My conclusion showed that each time I pivoted to a new nutritional philosophy, t
 
 > So even though I had a dip for a few years, you can see that I have been mostly weight-stable. During this entire time period, I never counted calories and my activity level and diet varied a lot.
 
-That was August 2017. I had just dropped from my peak of 222 to 200 following a Potato Hack. I even state in that post that I considered my ideal weight range to be 190-200. _(Height: 6' 2.5)_ What happened next? I gradually lost another 20 pounds over the next 18 months following variations of the Potato Hack. As I got leaner, I increased my protein intake to defend against muscle loss. Potatoes and Protein! ![potatoes-protein](./img/potatoes-protein.jpg) [Potatoes and Protein – A No Hunger Template For Fat Loss](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/)
+That was August 2017. I had just dropped from my peak of 222 to 200 following a Potato Hack. I even state in that post that I considered my ideal weight range to be 190-200. _(Height: 6' 2.5)_
+
+What happened next?
+
+I gradually lost another 20 pounds over the next 18 months following variations of the Potato Hack. As I got leaner, I increased my protein intake to defend against muscle loss. Potatoes and Protein!
+
+![potatoes-protein](./img/potatoes-protein.jpg)
+
+[Potatoes and Protein – A No Hunger Template For Fat Loss](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/)
 
 
 ### The New Normal
 
 
-I love weighing 180 pounds. I never thought I'd say that. I clearly had body image issues. Since I was a teenager, I wanted to be big. I didn't want to be a [Stick Boy](/2008/09/the-stick-boy-explained/). In a [2008 post](/2008/08/i-dont-want-to-ride-a-donkey-down-the-grand-canyon/), I feared dropping below 200 pounds.
+I love weighing 180 pounds. I never thought I'd say that. I clearly had body image issues. Since I was a teenager, I wanted to be big. I didn't want to be a [Stick Boy](/2008/09/the-stick-boy-explained/).
+
+In a [2008 post](/2008/08/i-dont-want-to-ride-a-donkey-down-the-grand-canyon/), I feared dropping below 200 pounds.
 
 > Today I weighed exactly 200 pounds. Uh oh! Even though I’m clearly leaner than I’ve ever been, it is a bit scary to drop 5% of my weight in such a short time, considering how long it took to gain that weight.
 
@@ -30,7 +40,9 @@ Years later, I would freak out at the 190 mark after a few people started tellin
 
 > When you lose weight, your clothes get loose. And if you aren’t sure you can maintain your new lower weight or you don’t want to buy new clothes or both, you don’t look your best. Being lean in baggy clothes provides the appearance of being too thin. Being athletic in baggy clothes provides the appearance of being weak. You can look sickly, which can be concerning to those that care about you.
 
-Whenever I had these bouts of fear that I was losing muscle, I would sabotage my leanness and start eating more to get my "gains" back. The last few years have been a teacher for me. I finally accepted that I was carrying more weight than I needed. I detailed that realization in the post [Body Weight Wisdom I Heard 20 Years Ago](/2022/12/body-weight-wisdom-i-heard-20-years-ago/). Check out the post if you haven't already. I consider it one of the most important posts on this site.
+Whenever I had these bouts of fear that I was losing muscle, I would sabotage my leanness and start eating more to get my "gains" back.
+
+The last few years have been a teacher for me. I finally accepted that I was carrying more weight than I needed. I detailed that realization in the post [Body Weight Wisdom I Heard 20 Years Ago](/2022/12/body-weight-wisdom-i-heard-20-years-ago/). Check out the post if you haven't already. I consider it one of the most important posts on this site.
 
 
 ### Last Words

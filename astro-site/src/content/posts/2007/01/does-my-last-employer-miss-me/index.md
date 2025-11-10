@@ -9,4 +9,8 @@ description: "Since I left my last job on May 5th 2006, I haven't heard from any
 commentCount: 0
 ---
 
-Since I left my last job on May 5th 2006, I haven't heard from anyone in the company. However, I have noticed that the stock tanked shortly after I quit. The red dot on the chart below is the day I left. [![](./img/lime.jpg "lime")](./img/lime.jpg) Too bad I didn't think to short the stock.
+Since I left my last job on May 5th 2006, I haven't heard from anyone in the company. However, I have noticed that the stock tanked shortly after I quit. The red dot on the chart below is the day I left.
+
+[![](./img/lime.jpg "lime")](./img/lime.jpg)
+
+Too bad I didn't think to short the stock.

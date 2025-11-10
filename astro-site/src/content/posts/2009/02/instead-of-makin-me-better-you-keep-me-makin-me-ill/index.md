@@ -9,19 +9,31 @@ description: "Yesterday I stumbled across a ridiculous article on Yahoo! Finance
 commentCount: 2
 ---
 
-Yesterday I stumbled across a ridiculous article on Yahoo! Finance called Retirement Guide for 20- and 30-Somethings. It was provided by _SmartMoney_ and sponsored by _Fidelity_. Gee, I wonder what their expert financial advice is at this time? Let me guess. They want you to be fully invested in the market. Both _Fidelity_ and _SmartMoney_ pay their bills by convincing readers of two things:
+Yesterday I stumbled across a ridiculous article on Yahoo! Finance called Retirement Guide for 20- and 30-Somethings. It was provided by _SmartMoney_ and sponsored by _Fidelity_. Gee, I wonder what their expert financial advice is at this time? Let me guess. They want you to be fully invested in the market.
+
+Both _Fidelity_ and _SmartMoney_ pay their bills by convincing readers of two things:
 
 -   They are experts and you are not.
 -   By not investing RIGHT NOW, you are missing out on great opportunities.
 
-Once they've tricked you into thinking you are too stupid to save money, they then try and fill you with fear that you will die penniless living under the bridge in a cardboard box unless you put your money into the stock market RIGHT NOW! What makes this particular article bad is the chart they use to support their thesis that _you can't time the market_. Let's take a look at the 4 examples they cherry-picked from the last 100 years of stock data. ![stock-recovery](./img/stock-recovery.gif "Stock Recovery?") _Chart source: Ned Davis Research_ That chart makes a good case for holding stocks in tough times. But that chart isn't telling the full story.
+Once they've tricked you into thinking you are too stupid to save money, they then try and fill you with fear that you will die penniless living under the bridge in a cardboard box unless you put your money into the stock market RIGHT NOW!
+
+What makes this particular article bad is the chart they use to support their thesis that _you can't time the market_. Let's take a look at the 4 examples they cherry-picked from the last 100 years of stock data.
+
+![stock-recovery](./img/stock-recovery.gif "Stock Recovery?")
+
+_Chart source: Ned Davis Research_
+
+That chart makes a good case for holding stocks in tough times. But that chart isn't telling the full story.
 
 1.  **Market Crash '29** - This is the most asinine case listed. The DJIA peaked at 381, dropped to 198, and then recovered to 294. Sounds good, right? Well, what they fail to mention in the above chart is the index tanked all the way down to 41 by 1932. So the investor who got spooked and left the market at 198 did far better than the buy-and-hold sucker. The DJIA wouldn't see 198 again until 1946!
 2.  **Financial Panic '87** - This was a widely reported case of computers triggering off auto-sell orders while the economy was still robust. I'm not sure how spooked the average investor got compared to recessionary times.
 3.  **Asian Stock Market Crisis** - The economy was in full-tilt growth mode. I worked side by side with many day traders. No one cared. Pulling a financial crisis example from a non-recessionary time period is like saying your kids are well-behaved the week before Santa Claus comes.
 4.  **WTC / Pentagon Attacks** - In the chart above they list a 25% gain if you bought after 9/21/2001. The DJIA was 8265 then. What happened after that spike? It tanked again. By Oct 2002, it was down to 7528. By March 2003, the index was still only at 7740. Again fixed income would have protected more money. With or without Al-Qaeda, it was a recession. Unemployment rises, earnings fall, and stock prices drop in a recession. This isn't rocket science. And by the way, it is now 2009 and the DJIA is at 7850, which is lower than the 2002 recovery number in the chart.
 
-Before someone critiques me as picking the lows to support the case for [fixed income in a recession](/2008/07/hope-your-401k-is-in-fixed-income/), let me say that it was _SmartMoney_'s thesis that one shouldn't try and time the market. If they want to pick these [dead cat bounces](https://en.wikipedia.org/wiki/Dead_cat_bounce) as proof that throwing your money into the stock market at the early stages of a recession is wise, then I am free to look past the bounce to see where the market stabilized. That is a far more conservative approach. It also frees up your money for other investment opportunities. I wonder how many thousands of people read that article yesterday and didn't think to even look at a chart to see how each of those examples played out.
+Before someone critiques me as picking the lows to support the case for [fixed income in a recession](/2008/07/hope-your-401k-is-in-fixed-income/), let me say that it was _SmartMoney_'s thesis that one shouldn't try and time the market. If they want to pick these [dead cat bounces](https://en.wikipedia.org/wiki/Dead_cat_bounce) as proof that throwing your money into the stock market at the early stages of a recession is wise, then I am free to look past the bounce to see where the market stabilized. That is a far more conservative approach. It also frees up your money for other investment opportunities.
+
+I wonder how many thousands of people read that article yesterday and didn't think to even look at a chart to see how each of those examples played out.
 
 ---
 

@@ -9,7 +9,21 @@ description: "I moved at the end of April and my new place is much warmer and un
 commentCount: 3
 ---
 
-I moved at the end of April and my new place is much warmer and unfortunately for me this month, it does not have air conditioning. Seattle is having a bit of a heatwave right now. ![heatwave](./img/hot-in-seattle.jpg) 🥵 A friend of mine that knows health gadgets told me about the ColPac. It is a budget solution for dropping your body temperature to help initiate sleep. Of course, I had to buy one to try out. I've now used the ColPac 3 nights and it is a game-changer. I put it on my bed and then cover it with a thin dish towel and then lie down on it. I place it so the target area is my upper back. For a few seconds, I feel a cold shock, but then it feels great. Sleeping in a cool environment is a common sleep hygiene recommendation. Prior to getting the [Oura Ring](/2021/02/learning-to-love-my-oura-ring/), I didn't believe that I would benefit from sleeping in a cooler room. I felt I needed to be warmer. But this past winter I ran tests and could clearly see my sleep improved when I dropped the temperature and/or used fewer coverings. Last night, even though my room was 83°F, I wasn't hot thanks to the ColPac. I fell asleep in under 5 minutes. Thankfully, I always start my sleep on my back. I also have been using it for my mid-day Yoga Nidra. And it is only $30! I bought the 12.5 x 18.5 Inch Chattanooga Colpac. If it doesn't help you sleep, you can always use it for injuries.
+I moved at the end of April and my new place is much warmer and unfortunately for me this month, it does not have air conditioning. Seattle is having a bit of a heatwave right now. ![heatwave](./img/hot-in-seattle.jpg)
+
+🥵
+
+A friend of mine that knows health gadgets told me about the ColPac. It is a budget solution for dropping your body temperature to help initiate sleep. Of course, I had to buy one to try out.
+
+I've now used the ColPac 3 nights and it is a game-changer. I put it on my bed and then cover it with a thin dish towel and then lie down on it. I place it so the target area is my upper back. For a few seconds, I feel a cold shock, but then it feels great.
+
+Sleeping in a cool environment is a common sleep hygiene recommendation. Prior to getting the [Oura Ring](/2021/02/learning-to-love-my-oura-ring/), I didn't believe that I would benefit from sleeping in a cooler room. I felt I needed to be warmer. But this past winter I ran tests and could clearly see my sleep improved when I dropped the temperature and/or used fewer coverings.
+
+Last night, even though my room was 83°F, I wasn't hot thanks to the ColPac. I fell asleep in under 5 minutes. Thankfully, I always start my sleep on my back. I also have been using it for my mid-day Yoga Nidra. And it is only $30!
+
+I bought the 12.5 x 18.5 Inch Chattanooga Colpac.
+
+If it doesn't help you sleep, you can always use it for injuries.
 
 ---
 

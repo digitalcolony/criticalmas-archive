@@ -9,11 +9,21 @@ description: "I just finished reading an interesting book on stress. I jotted do
 commentCount: 7
 ---
 
-I just finished reading an interesting book on stress. I jotted down some of the key ideas. _The Myth of Stress: Where Stress Really Comes From and How to Live a Happier and Healthier Life by Andrew Bernstein_ The author states that stress is not a physical process with a psychological component, but a psychological process with a physical component. Stress doesn’t come from what’s going on in your life - it comes from your thoughts about what’s going on in your life.
+I just finished reading an interesting book on stress. I jotted down some of the key ideas.
+
+_The Myth of Stress: Where Stress Really Comes From and How to Live a Happier and Healthier Life by Andrew Bernstein_
+
+The author states that stress is not a physical process with a psychological component, but a psychological process with a physical component. Stress doesn’t come from what’s going on in your life - it comes from your thoughts about what’s going on in your life.
 
 > ...in reality, there is no such thing as a stressor. Nothing has the inherent power to cause stress in you. Things happen (divorce, layoffs, disease, etc.) and you experience stress - or you don’t - depending on what you think about of those things. Stress is a function of beliefs, not circumstances.
 
-The book explains how stress originates from our thoughts, but the effects on our body, feelings, and behaviors are real. This reminded me of my experience with overcoming back pain and understanding how the [roots were psychological](/2011/02/the-psychology-of-back-pain/), but the pain was real. When I changed my thinking, the pain went away. The Myth of Stress says that insight is the key to reducing or eliminating the effect of stress. And the author defines insight as _the realization that what you had believed to be true is actually false so that the real truth emerges_. The book disagrees with the wisdom that "time heals all wounds", by stating that it is actually insight and not time. The problem is this insight can take a long time to arrive. People can spend days, months or years stuck on a problem. The key is to seek greater insight. This is done via worksheets. Here is how the worksheet process works.
+The book explains how stress originates from our thoughts, but the effects on our body, feelings, and behaviors are real. This reminded me of my experience with overcoming back pain and understanding how the [roots were psychological](/2011/02/the-psychology-of-back-pain/), but the pain was real. When I changed my thinking, the pain went away.
+
+The Myth of Stress says that insight is the key to reducing or eliminating the effect of stress. And the author defines insight as _the realization that what you had believed to be true is actually false so that the real truth emerges_.
+
+The book disagrees with the wisdom that "time heals all wounds", by stating that it is actually insight and not time. The problem is this insight can take a long time to arrive. People can spend days, months or years stuck on a problem. The key is to seek greater insight. This is done via worksheets.
+
+Here is how the worksheet process works.
 
 1.  Describe the stressful feeling in a should or shouldn’t sentence.
 2.  Rank feeling from 0-10.
@@ -23,7 +33,13 @@ The book explains how stress originates from our thoughts, but the effects on ou
 6.  (a) How do you feel when you see the truth of the negation? (b) What actions might come from this?
 7.  Read your original statement again. How strongly do you feel this belief to be true now?
 
-This process can lower the initial stress ranking several points. ![stress](./img/stress.jpg) _Photo by Amy McTigue_ The book goes through many real examples on a variety of topics including:
+This process can lower the initial stress ranking several points.
+
+![stress](./img/stress.jpg)
+
+_Photo by Amy McTigue_
+
+The book goes through many real examples on a variety of topics including:
 
 -   Traffic
 -   Anger

@@ -9,7 +9,9 @@ description: "Last month I told a friend not to do a for sale by owner. In that 
 commentCount: 0
 ---
 
-Last month I told a friend not to do a [for sale by owner](/2006/04/for-sale-by-owner-dont-do-it/). In that post I went into detail why you need to court buyers agents more than ever. Someone asked me what I would do if I had to sell my house now. Before I outline my plan, let me first state I'm not in the real estate industry. For almost one year I had my first house up for sale. During that time I learned a lot. Here in San Diego, inventories are rising and sales are falling. This is not a recipe for getting top dollar. From [No Spring in Real-Estate Step](https://www.voiceofsandiego.org/housing/no-spring-in-real-estate-step-2/):
+Last month I told a friend not to do a [for sale by owner](/2006/04/for-sale-by-owner-dont-do-it/). In that post I went into detail why you need to court buyers agents more than ever. Someone asked me what I would do if I had to sell my house now. Before I outline my plan, let me first state I'm not in the real estate industry. For almost one year I had my first house up for sale. During that time I learned a lot.
+
+Here in San Diego, inventories are rising and sales are falling. This is not a recipe for getting top dollar. From [No Spring in Real-Estate Step](https://www.voiceofsandiego.org/housing/no-spring-in-real-estate-step-2/):
 
 > In 2006, spring has seen record numbers of people lining up to sell their homes, but there's been no subsequent rise in the rate of sales. Indeed, sales activity in April 2006 was down 30.7 percent from April 2005, despite the existence of almost 20,000 homes for buyers to choose from. That's the biggest year-on-year decrease in sales rates since April 1995.
 
@@ -23,22 +25,50 @@ In this environment you need to go for the quick sale. This isn't 2003 when home
 6.  Work With Your Neighbors: Last summer a group of competing agents in the 92025 zip code got together and created a joint ad for the homes for sale in a gated community. The result was they had a high open house turn out. Meanwhile, the agents in my gated community refused to work together and nobody showed up to our open houses. Only after I took the lead with my RanchoSanPasqual web site did inventory start to drop. Although your primary goal is to sell your house, your secondary goal would be for your neighbors to sell. This reduces the inventory and keeps the _days on market_ lower for your area.
 7.  Weekly Meetings: Demand weekly meetings with your agent. They should have an open house and show up with copies of any newspaper ads ran that week. For most people selling a house is an emotional process. The meetings with your agent should be handled business like.
 
-Good luck if you are trying to sell your home this year in San Diego. Go for the quick sale and be tough on your sellers agent. ![3377-Holly-Oak-Lane 2002](./img/3377-Holly-Oak-Lane-Again.jpg) **Legacy Comments** Derek
+Good luck if you are trying to sell your home this year in San Diego. Go for the quick sale and be tough on your sellers agent.
 
-> Mas, have you ever read Freakonomics? There's a great chapter in there on the value of the services of a realtor. The bottom line of their study is right in line with my personal experience: that realtors do little to enhance the sale-price of your home. I don't think they specifically studied the time-to-sell factor of a FSBO vs. a realtor-represented home, though--that would be interesting. Your list is full of great things you can do to sell your home, however. Almost all of them can be done as a FSBO ;)
+![3377-Holly-Oak-Lane 2002](./img/3377-Holly-Oak-Lane-Again.jpg)
 
-MAS
-
-> Buyers agents will NOT take their clients to FSBO. They will take their clients to the listings that offer the highest commission to them. I'm not against FSBO when inventory is low. I'm against it when inventory is high and prices are falling. My agent earned his commission because I pushed him. Most agents are lazy. Real Estate today is like the dot-com period was for us. Any loser could get a job as an HTML Engineer (ha!). Once the bubble burst those "coders" left the industry. Real Estate will have an equally great shake out in the next few years.
+**Legacy Comments**
 
 Derek
 
-> When I say FSBO I should clarify my meaning. With that term I am including the use of a flat-rate discount broker in order to get your home listed in the MLS, etc. You can still offer the buyers agent the usual 3% or 4% that way. Real estate has always been an easy-entry profession. It just gets "hotter" when prices start to go up and the dogs start drooling at the potential commissions they could earn with little work.
+> Mas, have you ever read Freakonomics?
+> 
+> There's a great chapter in there on the value of the services of a realtor. The bottom line of their study is right in line with my personal experience: that realtors do little to enhance the sale-price of your home. I don't think they specifically studied the time-to-sell factor of a FSBO vs. a realtor-represented home, though--that would be interesting.
+> 
+> Your list is full of great things you can do to sell your home, however. Almost all of them can be done as a FSBO ;)
 
 MAS
 
-> Agents suck, I agree. Most will lose their job in the next few years. However, great agents are worth every penny. For a year I closely monitored every sale inside our gated community. I looked at days on market, which agent was selling and any price movement. Not a single FSBO sold. Every one gave up or went with an agent. In San Diego inventory is rising fast and prices are starting to fall. This decline is happening at a greater clip than the amount of commission the agents will ultimately earn. This advice most likely would not translate to Columbus, which has one of the most stable housing markets in the country.
+> Buyers agents will NOT take their clients to FSBO. They will take their clients to the listings that offer the highest commission to them.
+> 
+> I'm not against FSBO when inventory is low. I'm against it when inventory is high and prices are falling.
+> 
+> My agent earned his commission because I pushed him. Most agents are lazy. Real Estate today is like the dot-com period was for us. Any loser could get a job as an HTML Engineer (ha!). Once the bubble burst those "coders" left the industry. Real Estate will have an equally great shake out in the next few years.
 
 Derek
 
-> Yeah, the housing market in Columbus is very stable...which also translates into not-very-profitable. But I don't really look on my house as an investment too much. I know it is in actuality, but it's not a very good one compared to most other things one could do with the money. At least not here. I do keep an eye on things in my neighborhood as well, though, and the same things are happening here that you describe in the market in San Diego. The inventories are rising and the pressure is driving prices down this year. I don't know if this is a real-estate "bubble" or not but it looks to me like the next few years could be very favorable for buyers. I despise agents but getting a good one could be worth the money. But it's hard to find a good one. Agents have historically just exploited their informational advantage (or monopoly) to garner their commissions--in lieu of doing any real work. That advantage is diminishing rapidly with all the resources available on the internet. I'd like to see real-estate agents adopt a fee-for-service strategy where I simply pay them for their time as needed... like a lawyer. That would certainly get rid of all the dead-weight out there just trying for the easy bucks.
+> When I say FSBO I should clarify my meaning. With that term I am including the use of a flat-rate discount broker in order to get your home listed in the MLS, etc. You can still offer the buyers agent the usual 3% or 4% that way.
+> 
+> Real estate has always been an easy-entry profession. It just gets "hotter" when prices start to go up and the dogs start drooling at the potential commissions they could earn with little work.
+
+MAS
+
+> Agents suck, I agree. Most will lose their job in the next few years. However, great agents are worth every penny.
+> 
+> For a year I closely monitored every sale inside our gated community. I looked at days on market, which agent was selling and any price movement. Not a single FSBO sold. Every one gave up or went with an agent.
+> 
+> In San Diego inventory is rising fast and prices are starting to fall. This decline is happening at a greater clip than the amount of commission the agents will ultimately earn.
+> 
+> This advice most likely would not translate to Columbus, which has one of the most stable housing markets in the country.
+
+Derek
+
+> Yeah, the housing market in Columbus is very stable...which also translates into not-very-profitable. But I don't really look on my house as an investment too much. I know it is in actuality, but it's not a very good one compared to most other things one could do with the money. At least not here.
+> 
+> I do keep an eye on things in my neighborhood as well, though, and the same things are happening here that you describe in the market in San Diego. The inventories are rising and the pressure is driving prices down this year. I don't know if this is a real-estate "bubble" or not but it looks to me like the next few years could be very favorable for buyers.
+> 
+> I despise agents but getting a good one could be worth the money. But it's hard to find a good one. Agents have historically just exploited their informational advantage (or monopoly) to garner their commissions--in lieu of doing any real work. That advantage is diminishing rapidly with all the resources available on the internet.
+> 
+> I'd like to see real-estate agents adopt a fee-for-service strategy where I simply pay them for their time as needed... like a lawyer. That would certainly get rid of all the dead-weight out there just trying for the easy bucks.

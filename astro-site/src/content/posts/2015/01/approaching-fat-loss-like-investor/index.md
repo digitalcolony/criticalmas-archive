@@ -11,9 +11,17 @@ commentCount: 23
 
 A few days ago I read a comment on _180degreehealth_ from Jason who is frustrated with figuring out how to lose weight.
 
-> So basically what I gather is that its pretty much impossible to lose fat. Calorie restriction doesn't work. Macro restriction doesn't work. Food reward is out the window. Exercise doesn't cut it. Eating clean doesn't matter. Ok avoid omega-6s, don’t starve yourself, don’t drink too much water, eat the food, take some glycine. I’m doing all of these things and I feel like shit and am 270 lbs.
+> So basically what I gather is that its pretty much impossible to lose fat. Calorie restriction doesn't work. Macro restriction doesn't work. Food reward is out the window. Exercise doesn't cut it. Eating clean doesn't matter.
+> 
+> Ok avoid omega-6s, don’t starve yourself, don’t drink too much water, eat the food, take some glycine.
+> 
+> I’m doing all of these things and I feel like shit and am 270 lbs.
 
-I really empathize with Jason. When you start going down the well of online experts on fat loss, there is so much disagreement. There not only are several different theories of obesity, but each camp is quick to discount the other theories. So what happens over time is the person seeking help becomes more knowledgeable but more paralyzed. A few years ago I was wrestling with competing nutritional philosophies and the deeper my knowledge went the more confused I got. So I stepped back from the problem and reassessed. Nutrition was an incomplete knowledge problem. We don't know who is right and those writing the articles don't know our needs. Since we don't know, we _invest_ ourselves into the thesis that makes the most sense to us. That is when I put together the post [Approaching Nutrition From an Investor's Mindset](/2013/04/approaching-nutrition-from-an-investors-mindset/). I encourage all to read that post now. The basic concept is that the foods we select are like investments. We get more value from the foods we are lacking and less value from those we consume on a regular basis. If we approach fat loss in the same manner, I think the picture gets more clear.
+I really empathize with Jason. When you start going down the well of online experts on fat loss, there is so much disagreement. There not only are several different theories of obesity, but each camp is quick to discount the other theories. So what happens over time is the person seeking help becomes more knowledgeable but more paralyzed.
+
+A few years ago I was wrestling with competing nutritional philosophies and the deeper my knowledge went the more confused I got. So I stepped back from the problem and reassessed. Nutrition was an incomplete knowledge problem. We don't know who is right and those writing the articles don't know our needs. Since we don't know, we _invest_ ourselves into the thesis that makes the most sense to us. That is when I put together the post [Approaching Nutrition From an Investor's Mindset](/2013/04/approaching-nutrition-from-an-investors-mindset/).
+
+I encourage all to read that post now. The basic concept is that the foods we select are like investments. We get more value from the foods we are lacking and less value from those we consume on a regular basis. If we approach fat loss in the same manner, I think the picture gets more clear.
 
 > _**Calorie restriction doesn't work.**_
 
@@ -25,11 +33,15 @@ Another take on calorie restriction. It provides a simple narrative to accomplis
 
 > _**Food reward is out the window.**_  
 
-I'm not so sure. The thesis here is that food scientists able to create foods using a mix of salt, fat, and sugar into something so tasty and easily digestible that we eat past satiety. Having read _The End of Overeating_, I think there is merit in food reward. How much of a role, I do not know. If one consumes very little processed food, then this would be a poor investment. If one consumes a lot, it is worth consideration. ![overeating](./img/overeating.jpg) _The End of Overeating: Taking Control of the Insatiable American Appetite by David A. Kessler_
+I'm not so sure. The thesis here is that food scientists able to create foods using a mix of salt, fat, and sugar into something so tasty and easily digestible that we eat past satiety. Having read _The End of Overeating_, I think there is merit in food reward. How much of a role, I do not know. If one consumes very little processed food, then this would be a poor investment. If one consumes a lot, it is worth consideration.
+
+![overeating](./img/overeating.jpg) _The End of Overeating: Taking Control of the Insatiable American Appetite by David A. Kessler_
 
 > _**Exercise doesn't cut it.**_
 
-If someone isn't exercising, then exercise is an undervalued tool. If someone is exercising too much, then it is overvalued. My personal belief is that fitness professionals prescribe too much exercise, but some exercise is necessary. Lots of walking and just enough strength training. The risks of too much exercise are injury risk and increased appetite. For me, the sweet spot is to walk every day - be it 30 minutes or 2 hours - and then lift weights 1-2 times a week for about 15 minutes. I use machines with the movement performed slowly. Anyone that says 15 minutes "isn't enough", either doesn't understand intensity or is not looking at a long enough time horizon. See the book Body By Science for a deeper understanding or if you don't have a gym [Hillfit 2.0](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/).
+If someone isn't exercising, then exercise is an undervalued tool. If someone is exercising too much, then it is overvalued.
+
+My personal belief is that fitness professionals prescribe too much exercise, but some exercise is necessary. Lots of walking and just enough strength training. The risks of too much exercise are injury risk and increased appetite. For me, the sweet spot is to walk every day - be it 30 minutes or 2 hours - and then lift weights 1-2 times a week for about 15 minutes. I use machines with the movement performed slowly. Anyone that says 15 minutes "isn't enough", either doesn't understand intensity or is not looking at a long enough time horizon. See the book Body By Science for a deeper understanding or if you don't have a gym [Hillfit 2.0](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/).
 
 > _**Eating clean doesn't matter.**_
 
@@ -39,7 +51,11 @@ If someone has a slow metabolism and has already been eating clean, it probably 
 ### Building Our Fat Loss Portfolio
 
 
-A good investor doesn't just buy one stock. They diversify. They don't know which investment is going to make money and which ones won't. A good investor will limit their losses on their bad picks and periodically rebalance their portfolio. You can't beat yourself over picking bad stocks. Sell them and move on. Maybe one day you will buy it back at a better price. Approaching fat loss with this mindset frees you from any allegiance to the different nutritional camps. You use the tool that is undervalued to you at that moment and discard the ones that aren't. And no internet expert knows you better than you know yourself. No one is getting 100% success rates. That tells you that not every fat loss strategy works for every person. I personally see the diets that are having the most long-term success are using some form of cycling. You have time periods of reduced calories and exercise and time periods with more calories and activity. Those are paired in a manner to reduce overall calorie levels while maintaining metabolism.
+A good investor doesn't just buy one stock. They diversify. They don't know which investment is going to make money and which ones won't. A good investor will limit their losses on their bad picks and periodically rebalance their portfolio. You can't beat yourself over picking bad stocks. Sell them and move on. Maybe one day you will buy it back at a better price.
+
+Approaching fat loss with this mindset frees you from any allegiance to the different nutritional camps. You use the tool that is undervalued to you at that moment and discard the ones that aren't. And no internet expert knows you better than you know yourself. No one is getting 100% success rates. That tells you that not every fat loss strategy works for every person.
+
+I personally see the diets that are having the most long-term success are using some form of cycling. You have time periods of reduced calories and exercise and time periods with more calories and activity. Those are paired in a manner to reduce overall calorie levels while maintaining metabolism.
 
 ---
 

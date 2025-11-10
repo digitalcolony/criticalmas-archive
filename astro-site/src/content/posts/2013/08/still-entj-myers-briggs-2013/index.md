@@ -9,7 +9,9 @@ description: "Friday some friends and I were discussing the Myers-Briggs test. W
 commentCount: 10
 ---
 
-Friday some friends and I were discussing the [Myers-Briggs](https://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator) test. When I first took this personality test years ago I was INTJ, but in 2010 my results said I was ENTJ. I was curious to see if the [2010 test](/2010/03/my-new-myers-briggs-score-is-entj/) results held up or if anything else had changed, so I retook [the test](http://www.humanmetrics.com/cgi-win/jtypes2.asp). I'm still an ENTJ. This time I saved the numbers.
+Friday some friends and I were discussing the [Myers-Briggs](https://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator) test. When I first took this personality test years ago I was INTJ, but in 2010 my results said I was ENTJ. I was curious to see if the [2010 test](/2010/03/my-new-myers-briggs-score-is-entj/) results held up or if anything else had changed, so I retook [the test](http://www.humanmetrics.com/cgi-win/jtypes2.asp).
+
+I'm still an ENTJ. This time I saved the numbers.
 
 > **Extravert(11%) iNtuitive(62%) Thinking(25%) Judging(33%)**
 
@@ -21,7 +23,13 @@ That ENTJ description doesn't exactly ring true to me. I actually think I am mor
 
 > INTJs are independent types, wildly intelligent and creative — but rather un-interested in what anyone else is doing. They are often considered the most independent of all the personality types, and they work best when given freedom. They are acutely aware of their own intelligence, as well as what they don’t know, and their passion often lies in conceptualizing ideas and processing complex theories.
 
-Maybe I'm somewhere in between. ![mas-and-lion](./img/mas-and-lion.jpg) _Me and a [real lion](/2009/11/3-tigers-1-lion-and-mas-in-a-cage/). Chiang Mai, Thailand 2009._  How about you? What is your Myers-Briggs type and animal?
+Maybe I'm somewhere in between.
+
+![mas-and-lion](./img/mas-and-lion.jpg)
+
+_Me and a [real lion](/2009/11/3-tigers-1-lion-and-mas-in-a-cage/). Chiang Mai, Thailand 2009._ 
+
+How about you? What is your Myers-Briggs type and animal?
 
 ---
 

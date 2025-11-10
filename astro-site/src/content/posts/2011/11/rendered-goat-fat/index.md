@@ -9,7 +9,11 @@ description: "Last night I rendered my first batch of goat fat. I scored a 6 pou
 commentCount: 7
 ---
 
-Last night I rendered my first batch of goat fat. I scored a 6 pound bag at the Ballard Farmers Market for $12. I used the same technique for rendering that I use for [lard](/2011/07/rendering-lard-in-a-crock-pot/) and [beef tallow](/2011/02/rendering-beef-tallow-in-a-crock-pot/). The color was a bright yellow. Grass fed animals have yellow fat, whereas the fat from grain fed animals is more white. The flavor was amazing. Like a more buttery version of beef tallow. ![rendered-goat-fat](./img/rendered-goat-fat.jpg) _Rendered Goat Fat_
+Last night I rendered my first batch of goat fat. I scored a 6 pound bag at the Ballard Farmers Market for $12. I used the same technique for rendering that I use for [lard](/2011/07/rendering-lard-in-a-crock-pot/) and [beef tallow](/2011/02/rendering-beef-tallow-in-a-crock-pot/). The color was a bright yellow. Grass fed animals have yellow fat, whereas the fat from grain fed animals is more white. The flavor was amazing. Like a more buttery version of beef tallow.
+
+![rendered-goat-fat](./img/rendered-goat-fat.jpg)
+
+_Rendered Goat Fat_
 
 ---
 

@@ -9,7 +9,15 @@ description: "I'm going to share my dark embarrassing secret. My bench press suc
 commentCount: 32
 ---
 
-I'm going to share my dark embarrassing secret. **My bench press sucks!** Since I started lifting weights in 1994, there have only been three periods where I could bench more than my weight. And then I could only muster up an extra 10 or so more pounds. Until recently this has always bothered me a little. How much a man can bench press has for longest time been one of the three metrics for success in the gym. The other two being the squat and deadlift. In the article [Are You Strong?](https://web.archive.org/web/20150316202627/http://www.t-nation.com/readArticle.do?id=1563264) author and fitness professional Tim Henriques makes the case that a _decent_ bench press is 225 pounds or 1.25 times body weight. Achieving a _good_ bench press requires 315 pounds or 1.5 times body weight. This means that for the vast majority of the time I've been lifting weights, I've been less than _decent_. This used to bother me. Not anymore. ![legos-bench-press](./img/legos-bench-press.jpg) _[Photo](https://flic.kr/p/9pbzs7) by W\_Minshull_
+I'm going to share my dark embarrassing secret. **My bench press sucks!**
+
+Since I started lifting weights in 1994, there have only been three periods where I could bench more than my weight. And then I could only muster up an extra 10 or so more pounds. Until recently this has always bothered me a little. How much a man can bench press has for longest time been one of the three metrics for success in the gym. The other two being the squat and deadlift.
+
+In the article [Are You Strong?](https://web.archive.org/web/20150316202627/http://www.t-nation.com/readArticle.do?id=1563264) author and fitness professional Tim Henriques makes the case that a _decent_ bench press is 225 pounds or 1.25 times body weight. Achieving a _good_ bench press requires 315 pounds or 1.5 times body weight. This means that for the vast majority of the time I've been lifting weights, I've been less than _decent_. This used to bother me. Not anymore.
+
+![legos-bench-press](./img/legos-bench-press.jpg)
+
+_[Photo](https://flic.kr/p/9pbzs7) by W\_Minshull_
 
 
 ### Why I No Longer Care About the Bench Press
@@ -19,13 +27,17 @@ I'm going to share my dark embarrassing secret. **My bench press sucks!** Since 
 #### #1 Accepting my Somatype
 
 
-I am 6 foot and 2.5 inches tall (189 cm). My arms are long and my wrists are small. I am an [ectomorph](/2009/08/the-ectomorphs-dilemma/). Ectomorphs across the board suck at the bench press. We have greater weak points in the movement. Shorter guys excel at this movement, as do men with thick wrists. Back when I was a member of a hardcore gym in South Tampa, the guys who could bench 400+ pounds were all under 5' 10 and had stocky builds. Seeing a true ectomorph bench more than his weight after college is a rare sight.
+I am 6 foot and 2.5 inches tall (189 cm). My arms are long and my wrists are small. I am an [ectomorph](/2009/08/the-ectomorphs-dilemma/). Ectomorphs across the board suck at the bench press. We have greater weak points in the movement. Shorter guys excel at this movement, as do men with thick wrists.
+
+Back when I was a member of a hardcore gym in South Tampa, the guys who could bench 400+ pounds were all under 5' 10 and had stocky builds. Seeing a true ectomorph bench more than his weight after college is a rare sight.
 
 
 #### #2 Understanding that the Bench Press is a Technical Move
 
 
-The bench press isn't just a way to develop strength. It is a technical movement. The goal is to lower and lift as much weight as possible without hurting yourself. Although the primary muscle being targeted is the pectoralis major, the [bench press](https://en.wikipedia.org/wiki/Bench_press) will also target the anterior deltoids, serratus anterior, coracobrachialis, scapulae fixers, trapezii, and triceps. Each muscle has a limiting factor. Getting them all to work together to share the load via form and timing isn't just about having more strength. Like any sport, one needs to train the movement itself. That may all seem like common sense, but the reason many men go to the gym in the first place is to build muscle, not have a better bench press. We later - falsely - draw the conclusion that in order to have more chest muscle we need to have a greater bench press. I care about muscle, not bragging rights to some number.
+The bench press isn't just a way to develop strength. It is a technical movement. The goal is to lower and lift as much weight as possible without hurting yourself. Although the primary muscle being targeted is the pectoralis major, the [bench press](https://en.wikipedia.org/wiki/Bench_press) will also target the anterior deltoids, serratus anterior, coracobrachialis, scapulae fixers, trapezii, and triceps. Each muscle has a limiting factor. Getting them all to work together to share the load via form and timing isn't just about having more strength. Like any sport, one needs to train the movement itself.
+
+That may all seem like common sense, but the reason many men go to the gym in the first place is to build muscle, not have a better bench press. We later - falsely - draw the conclusion that in order to have more chest muscle we need to have a greater bench press. I care about muscle, not bragging rights to some number.
 
 
 #### #3 Embracing The Negative
@@ -33,7 +45,9 @@ The bench press isn't just a way to develop strength. It is a technical movement
 
 One of the aspects of High-Intensity Training that I've learned to love is the focus on the negatives. By slowing down the lowering of the weight, you will recruit more muscle and fatigue much faster. From [Negative Training for Positive Results](https://web.archive.org/web/20170211003000/http://www.highintensitynation.com/2010/03/negative-training-for-positive-results/) by Dave Durell:
 
-> During the negative, or lowering, phase of a repetition, the muscle fibers involved are lengthening under tension. Your muscles are much stronger during this phase than during the positive, or lifting phase. Even when you reach positive failure during an exercise, and can no longer lift a certain weight with good form, the truth is there is still a lot of strength left in that muscle. Negative training allows you to tap into that unused strength, overloading the muscle at a much deeper level, and stimulating it to respond by growing bigger and stronger. This type of overload has tremendous strength and muscle building properties. It is possible to get VERY big and strong VERY quickly with negative only training.
+> During the negative, or lowering, phase of a repetition, the muscle fibers involved are lengthening under tension. Your muscles are much stronger during this phase than during the positive, or lifting phase. Even when you reach positive failure during an exercise, and can no longer lift a certain weight with good form, the truth is there is still a lot of strength left in that muscle. Negative training allows you to tap into that unused strength, overloading the muscle at a much deeper level, and stimulating it to respond by growing bigger and stronger.
+> 
+> This type of overload has tremendous strength and muscle building properties. It is possible to get VERY big and strong VERY quickly with negative only training.
 
 In order to get a higher bench press number, you'll want to avoid negative fatigue so you have enough strength to safely complete the positive portion. So if my choice is to slow the negative portion of the lift using a lower weight or having a higher bench press number with less muscle recruitment, I'll take the lower number.
 
@@ -41,19 +55,31 @@ In order to get a higher bench press number, you'll want to avoid negative fatig
 #### #4 Avoiding Injury
 
 
-To get good at the bench press, you need to bench press a lot. This brings us back to our old friend survivorship bias. I see lots of guys in their 20s slamming serious weights. I see a few guys doing it in their 30s. Where are the 40-60-year-old guys? Occasionally, I'll see one, but it is a rare sight. Where did all those guys who had amazing bench press numbers 10-20 years ago go? I've said it before, and I'll repeat it: People do not en masse voluntarily quit participating in something for which they are highly skilled. What happened? The fitness websites are filled with reports of injuries related to bench pressing. The body doesn't have an unlimited capacity for recovery. And because the bench press is a technical move, being off a few inches or a second in timing can result in injury. _2016 Update: The video of the bench press accident by an elite lifter was taken down._ 
+To get good at the bench press, you need to bench press a lot. This brings us back to our old friend survivorship bias. I see lots of guys in their 20s slamming serious weights. I see a few guys doing it in their 30s. Where are the 40-60-year-old guys? Occasionally, I'll see one, but it is a rare sight. Where did all those guys who had amazing bench press numbers 10-20 years ago go? I've said it before, and I'll repeat it: People do not en masse voluntarily quit participating in something for which they are highly skilled. What happened?
+
+The fitness websites are filled with reports of injuries related to bench pressing. The body doesn't have an unlimited capacity for recovery. And because the bench press is a technical move, being off a few inches or a second in timing can result in injury.
+
+_2016 Update: The video of the bench press accident by an elite lifter was taken down._ 
 
 
 #### #5 The Modern Gym
 
 
-Assume that I changed my opinion about the bench press and my goal was to get _decent_ or even _good_ at it. To be safe, I would need to have a spotter. Back in the pre-iPod days, guys in the free weight room acknowledged each other. Sometimes they even spoke to one another. Real conservation! We asked for spots and we offered them. Not anymore. I haven't been asked for a spot in over 5 years now. Gym walls today have flat-screen TVs showing sports highlights and MSNBC. Back in the day, the walls displayed photos of Frank Zane and Arnold. The free weight rooms went from a group of fellow lifters helping each other out to a room full of iPod-wearing, TV-watching zombies. Even if asking for a spot wasn't considered old-timey 20th-century behavior, I wouldn't trust anyone in the modern gym for a safe spot and that includes the staff.
+Assume that I changed my opinion about the bench press and my goal was to get _decent_ or even _good_ at it. To be safe, I would need to have a spotter. Back in the pre-iPod days, guys in the free weight room acknowledged each other. Sometimes they even spoke to one another. Real conservation! We asked for spots and we offered them. Not anymore. I haven't been asked for a spot in over 5 years now.
+
+Gym walls today have flat-screen TVs showing sports highlights and MSNBC. Back in the day, the walls displayed photos of Frank Zane and Arnold. The free weight rooms went from a group of fellow lifters helping each other out to a room full of iPod-wearing, TV-watching zombies. Even if asking for a spot wasn't considered old-timey 20th-century behavior, I wouldn't trust anyone in the modern gym for a safe spot and that includes the staff.
 
 
 ### Life After The Bench Press
 
 
-I've done thousands of bench press repetitions. Although it did help me gain some muscle, it also resulted in a rounded mid-back and contributed to my wrist surgery. Was there a better, safer way to develop chest muscles? I now think so. In the past year, I have done [High Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) using Super Slow and static hold movements with machines. No more free weights. No more bench presses. For the first time in years, I actually gained new muscle. And I didn't have to beat my body senseless to earn it. How much can I bench press? I don't know and I don't care. _Skip to the [2:00 mark](https://www.youtube.com/watch?v=gPp_zlUz5wQ) to see what a chest exercise looks like using the SuperSlow method and machines._
+I've done thousands of bench press repetitions. Although it did help me gain some muscle, it also resulted in a rounded mid-back and contributed to my wrist surgery. Was there a better, safer way to develop chest muscles? I now think so.
+
+In the past year, I have done [High Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) using Super Slow and static hold movements with machines. No more free weights. No more bench presses. For the first time in years, I actually gained new muscle. And I didn't have to beat my body senseless to earn it.
+
+How much can I bench press? I don't know and I don't care.
+
+_Skip to the [2:00 mark](https://www.youtube.com/watch?v=gPp_zlUz5wQ) to see what a chest exercise looks like using the SuperSlow method and machines._
 
 ---
 

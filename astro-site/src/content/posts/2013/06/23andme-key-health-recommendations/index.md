@@ -9,13 +9,25 @@ description: "I haven't logged into my 23andMe account for a month or so now, bu
 commentCount: 4
 ---
 
-I haven't logged into my _23andMe_ account for a month or so now, but I did this morning and I found they added something cool. The new feature is a report called **Key Health Recommendations**. Unlike typical health advice, which knows nothing about you, this report is based on your DNA. Unless you are a data junkie like myself, going through all the reports on _23andMe_ may be overwhelming. This report is great because it drills into the most important actionable items.
+I haven't logged into my _23andMe_ account for a month or so now, but I did this morning and I found they added something cool. The new feature is a report called **Key Health Recommendations**. Unlike typical health advice, which knows nothing about you, this report is based on your DNA.
+
+Unless you are a data junkie like myself, going through all the reports on _23andMe_ may be overwhelming. This report is great because it drills into the most important actionable items.
 
 
 ### 3 Key Recommendations
 
 
-For me, I learned that if I were to develop Hepatitis C that I need to make my doctor aware that I have _Moderately lower odds of responding to PEG-IFNalpha/RBV treatment_. I'd really prefer just not to contract it in the first place, so I read all the prevention advice. Don't share toothbrushes, razors or nail clippers. Stuff like that. Because I have an alpha-1 antitrypsin deficiency, I should do my best to _Avoid air pollutants and watch for signs of liver disease_. So I probably shouldn't move to one of [these cities](http://science.time.com/2011/09/27/the-10-most-air-polluted-cities-in-the-world/). On lists of air pollution in the USA, cities in California are always in the top 10, including Los Angeles. Having lived in California for 7 years, I never found the air quality poor and that includes LA. It is way better than it was 20 or 30 years ago. I'll take LA air over Rio de Janeiro or Bangkok any day. [![23andMe-report](./img/23andMe-report.jpg)](./img/23andMe-report.jpg) _Click the image for a larger version._ The last recommendation had to do with inheritable conditions that I don't have, but could be passed on should I have children. For me, I have a single mutation linked to hemochromatosis, which can result in higher iron levels. I'll just tell my kid to [donate blood every 8 weeks](/2013/04/2-gallon-blood-donor-for-washington/) as their pop does. For those that didn't see my full post on 23andMe, check out [23andMe Results](/2013/04/23andme-results/).
+For me, I learned that if I were to develop Hepatitis C that I need to make my doctor aware that I have _Moderately lower odds of responding to PEG-IFNalpha/RBV treatment_. I'd really prefer just not to contract it in the first place, so I read all the prevention advice. Don't share toothbrushes, razors or nail clippers. Stuff like that.
+
+Because I have an alpha-1 antitrypsin deficiency, I should do my best to _Avoid air pollutants and watch for signs of liver disease_. So I probably shouldn't move to one of [these cities](http://science.time.com/2011/09/27/the-10-most-air-polluted-cities-in-the-world/). On lists of air pollution in the USA, cities in California are always in the top 10, including Los Angeles. Having lived in California for 7 years, I never found the air quality poor and that includes LA. It is way better than it was 20 or 30 years ago. I'll take LA air over Rio de Janeiro or Bangkok any day.
+
+[![23andMe-report](./img/23andMe-report.jpg)](./img/23andMe-report.jpg)
+
+_Click the image for a larger version._
+
+The last recommendation had to do with inheritable conditions that I don't have, but could be passed on should I have children. For me, I have a single mutation linked to hemochromatosis, which can result in higher iron levels. I'll just tell my kid to [donate blood every 8 weeks](/2013/04/2-gallon-blood-donor-for-washington/) as their pop does.
+
+For those that didn't see my full post on 23andMe, check out [23andMe Results](/2013/04/23andme-results/).
 
 ---
 

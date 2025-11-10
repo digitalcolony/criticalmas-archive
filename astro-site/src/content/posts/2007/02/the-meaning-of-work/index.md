@@ -16,17 +16,27 @@ Here are my thoughts on the ingredients for a good job.
 3.  Management - Nobody likes a bad manager. And I'd add that hands-off management can often cultivate a culture of complacency. Lead, follow or get out of the way. Refusal to do all three defines bad management.
 4.  Paycheck - We work to eat. Living below your means and saving aggressively gives you the freedom to be the director of your own life. Living paycheck to paycheck is surrendering your freedom.
 
-A great job will meet all 4 ingredients. A good job might meet 3. A fair job will have 2. And a bad job will have 0 or 1. And jobs change over time. Most professional growth occurs early in a position. Then the employee gets pigeon holed into a role and growth slows or stops. Managers change and pay increases tend to lag skill increases. The only thing I got from the job I left this morning was a good paycheck. That's not enough anymore. **Legacy Comments** Matt
+A great job will meet all 4 ingredients. A good job might meet 3. A fair job will have 2. And a bad job will have 0 or 1. And jobs change over time. Most professional growth occurs early in a position. Then the employee gets pigeon holed into a role and growth slows or stops. Managers change and pay increases tend to lag skill increases.
+
+The only thing I got from the job I left this morning was a good paycheck. That's not enough anymore.
+
+**Legacy Comments**
+
+Matt
 
 > CONGRATULATIONS! I support your decision 100%. You know my strong opinions about JOBs (i.e. risky, slave wage-makers)/WORK, etc, so I won't pontificate here. I'll support you no matter what you plan on doing (and I might throw in my opinion every once and a while). ;-)
 
 Joe
 
-> Sounds like the right call. I did the same thing several weeks ago and have not looked back. It's scary, but necessary, to get out of situations that suck (for all the reasons you describe).
+> Sounds like the right call.
+> 
+> I did the same thing several weeks ago and have not looked back. It's scary, but necessary, to get out of situations that suck (for all the reasons you describe).
 
 Nick
 
-> Finally! You took my darned advice. I feel like I've accomplished something today. Thanks!
+> Finally! You took my darned advice. I feel like I've accomplished something today.
+> 
+> Thanks!
 
 Robin
 

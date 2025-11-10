@@ -8,7 +8,13 @@ description: "Last August I posted Using the Power of Story for Fat Loss, which
 commentCount: 6
 ---
 
-Last August I posted [Using the Power of Story for Fat Loss](/2017/08/using-power-story-fat-loss/), which I think is one of the more important posts on this site. The short version is that if we can wrap the complexities of an effective diet into a simple story that inspires us and aligns with our values, it has a much higher chance of working. For me, I developed the Peasant Diet. This is a diet of simple cheap foods that are higher in volume and lower in calories. The Peasant Diet is not a modern poverty diet. Potatoes, not Doritos. It worked for me because not only did I drop calories, but because it saved me time and money, both which are important to me. You can read the full story at [How I Used the Peasant Diet to Lean Out](/2017/09/used-peasant-diet-lean/). The story was working. Everything was going strong. Then came my [injury](/2017/11/my-bizarre-injury/) on September 19th. It didn't affect my diet at first. But after a few months, it was clear my injury was not getting better. It was getting worse.  So in addition to starting physical therapy, I reduced my daily steps from 10,000 to around 5,000. The progress I was making most of 2017 came to a halt. My story was no longer as strong. Instead of being the Peasant walking across my village, I was the modern man at home sitting in front of my laptop.
+Last August I posted [Using the Power of Story for Fat Loss](/2017/08/using-power-story-fat-loss/), which I think is one of the more important posts on this site. The short version is that if we can wrap the complexities of an effective diet into a simple story that inspires us and aligns with our values, it has a much higher chance of working.
+
+For me, I developed the Peasant Diet. This is a diet of simple cheap foods that are higher in volume and lower in calories. The Peasant Diet is not a modern poverty diet. Potatoes, not Doritos. It worked for me because not only did I drop calories, but because it saved me time and money, both which are important to me. You can read the full story at [How I Used the Peasant Diet to Lean Out](/2017/09/used-peasant-diet-lean/).
+
+The story was working. Everything was going strong. Then came my [injury](/2017/11/my-bizarre-injury/) on September 19th. It didn't affect my diet at first. But after a few months, it was clear my injury was not getting better. It was getting worse.  So in addition to starting physical therapy, I reduced my daily steps from 10,000 to around 5,000.
+
+The progress I was making most of 2017 came to a halt. My story was no longer as strong. Instead of being the Peasant walking across my village, I was the modern man at home sitting in front of my laptop.
 
 
 ### Pause the Story
@@ -30,13 +36,27 @@ Increased rest and increased calories didn't work. Nor did PT. Instead of the ex
 ### Weakening the Story
 
 
-My story for fat loss was solid, right up until I got injured. Then it got weak because my primary goal shifted. The good news is I caught this quickly. This week I have been thinking about every time period where I made measurable progress in health and fitness and every time I slipped. The times I did best were times when I was following a simple story. The times I didn't were when the story got weaker. A weaker story is not necessarily bad, especially if there are flaws in the story. The lesson I want to share is that **without a strong story, motivation and compliance will fall**. Find a new better story if the old one is no longer working.
+My story for fat loss was solid, right up until I got injured. Then it got weak because my primary goal shifted. The good news is I caught this quickly.
+
+This week I have been thinking about every time period where I made measurable progress in health and fitness and every time I slipped. The times I did best were times when I was following a simple story. The times I didn't were when the story got weaker.
+
+A weaker story is not necessarily bad, especially if there are flaws in the story. The lesson I want to share is that **without a strong story, motivation and compliance will fall**. Find a new better story if the old one is no longer working.
 
 
 ### My New Story
 
 
-I'm ditching the majority of these dairy calories I've been consuming the last two months. I'm returning to Peasant. Potatoes, grains, legumes, eggs, etc. I'm highly motivated. I don't like the idea that I spent all that extra money on food only to gain weight. Eating cheap to get lean aligns with my values best. For my knees, I have accepted that I may never get to 100% healed. I'm trying new exercises thanks to a few commenters. Maybe they will work, maybe the won't. Time will tell. Another plan that aligns with my Peasant Diet is to use the [Fasting Mimicking Diet](/2017/12/fasting-mimicking-diet-overview/) to increase the production of stem cells in my body. I'm hoping that tripling the level of circulating stem cells will speed my healing. But even if they don't assist with the knee recovery, they still have a lot of other benefits and I'll save money those 5 days. Win, win! My story is strong again. ![](./img/grains-1.jpg) _My latest Peasant discovery are these whole grain mixes I found at Cash & Carry. I got both for around $15 total. Watching these simmer for 35 minutes is no fun, but this week I cooked both via the pressure cooker in about 8 minutes. Saving money and time. Pure Peasant!_
+I'm ditching the majority of these dairy calories I've been consuming the last two months. I'm returning to Peasant. Potatoes, grains, legumes, eggs, etc. I'm highly motivated. I don't like the idea that I spent all that extra money on food only to gain weight. Eating cheap to get lean aligns with my values best.
+
+For my knees, I have accepted that I may never get to 100% healed. I'm trying new exercises thanks to a few commenters. Maybe they will work, maybe the won't. Time will tell.
+
+Another plan that aligns with my Peasant Diet is to use the [Fasting Mimicking Diet](/2017/12/fasting-mimicking-diet-overview/) to increase the production of stem cells in my body. I'm hoping that tripling the level of circulating stem cells will speed my healing. But even if they don't assist with the knee recovery, they still have a lot of other benefits and I'll save money those 5 days. Win, win!
+
+My story is strong again.
+
+![](./img/grains-1.jpg)
+
+_My latest Peasant discovery are these whole grain mixes I found at Cash & Carry. I got both for around $15 total. Watching these simmer for 35 minutes is no fun, but this week I cooked both via the pressure cooker in about 8 minutes. Saving money and time. Pure Peasant!_
 
 ---
 

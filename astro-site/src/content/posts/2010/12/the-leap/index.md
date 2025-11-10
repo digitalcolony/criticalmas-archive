@@ -9,7 +9,13 @@ description: "This book came highly recommended by a few bloggers that I respect
 commentCount: 2
 ---
 
-This book came highly recommended by a few bloggers that I respect. ![The Leap: How 3 Simple Changes Can Propel Your Career from Good to Great](https://images-na.ssl-images-amazon.com/images/I/41D4JFOICIL.jpg) _The Leap: How 3 Simple Changes Can Propel Your Career from Good to Great by Rick Smith_ is nothing new. I think this book has been written a hundred times before. A successful person reverse engineers how they made it and then handpicks a few conforming examples and then presents their findings as to the path. Are there good lessons in the book? Sure. The book has quite a bit of good advice, but I never once had the feeling I was reading some new life-changing wisdom. I felt like I've read this book before. Just once I'd like to read a business book that doesn't cite huge outliers like Bill Gates, Warren Buffett, and Tiger Woods. This book mentions all three. Does anyone in the business genre understand the concept of [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias)? In fairness to the author, he does frame his advice in a way where the reader minimizes downside risk. I also liked his tip to focus on ideas that are big, selfless, and simple. If you are new to the _pump-you-up-and-take-on-the-world_ genre, you may like this book. It said very little new to me.
+This book came highly recommended by a few bloggers that I respect.
+
+![The Leap: How 3 Simple Changes Can Propel Your Career from Good to Great](https://images-na.ssl-images-amazon.com/images/I/41D4JFOICIL.jpg) _The Leap: How 3 Simple Changes Can Propel Your Career from Good to Great by Rick Smith_ is nothing new. I think this book has been written a hundred times before. A successful person reverse engineers how they made it and then handpicks a few conforming examples and then presents their findings as to the path. Are there good lessons in the book? Sure. The book has quite a bit of good advice, but I never once had the feeling I was reading some new life-changing wisdom. I felt like I've read this book before.
+
+Just once I'd like to read a business book that doesn't cite huge outliers like Bill Gates, Warren Buffett, and Tiger Woods. This book mentions all three. Does anyone in the business genre understand the concept of [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias)? In fairness to the author, he does frame his advice in a way where the reader minimizes downside risk. I also liked his tip to focus on ideas that are big, selfless, and simple.
+
+If you are new to the _pump-you-up-and-take-on-the-world_ genre, you may like this book. It said very little new to me.
 
 ---
 

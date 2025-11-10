@@ -8,7 +8,11 @@ description: "Here is a mini cooking update. I bought my first REAL kitchen knif
 commentCount: 2
 ---
 
-Here is a mini cooking update. I bought my first REAL kitchen knife. It is a [Global](https://en.wikipedia.org/wiki/Global_\(cutlery\)). Yeah it was $90, but it is so much better than any other knife I've ever used. ![global knife](./img/global-knife.jpg "global-knife") My curries are getting better. My first attempt at Pad Thai was almost inedible. And my Russian Borscht soup was good. That is all for now.
+Here is a mini cooking update. I bought my first REAL kitchen knife. It is a [Global](https://en.wikipedia.org/wiki/Global_\(cutlery\)). Yeah it was $90, but it is so much better than any other knife I've ever used.
+
+![global knife](./img/global-knife.jpg "global-knife")
+
+My curries are getting better. My first attempt at Pad Thai was almost inedible. And my Russian Borscht soup was good. That is all for now.
 
 ---
 

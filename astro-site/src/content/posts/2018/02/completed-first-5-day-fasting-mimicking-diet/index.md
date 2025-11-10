@@ -9,24 +9,40 @@ description: "I was going to wait until spring before trying my first 5-day Fast
 commentCount: 10
 ---
 
-I was going to wait until spring before trying my first 5-day Fasting Mimicking Diet period, but I got impatient and went for it starting last Thursday. This post will cover my experience. For those that need a background on the Fasting Mimicking Diet read these two posts:
+I was going to wait until spring before trying my first 5-day Fasting Mimicking Diet period, but I got impatient and went for it starting last Thursday. This post will cover my experience.
+
+For those that need a background on the Fasting Mimicking Diet read these two posts:
 
 -   [The Longevity Diet Book Overview](/2018/02/longevity-diet-book-overview/)
 -   [Fasting Mimicking Diet Overview](/2017/12/fasting-mimicking-diet-overview/)
 
-Instead of following the detailed macro and calorie recommendations in Dr. Longo's book, I decided to keep it simple. The most important thing is to keep protein super low for this period. The 2011 [Protein Cycling Diet](https://proteincyclingdiet.wordpress.com/article/protein-cycling-diet-11-2s3nmvrwklbxs-12/) has a page on calculating your upper limit of protein grams. Their 20 grams is calculated as the boundary for a man weighing 154 pounds. At the start of my FMD, I weighed 203. Instead of bumping up my protein grams, I stayed with a 20 grams limit. Each day during the FMD, I would not exceed 20 grams of protein.
+Instead of following the detailed macro and calorie recommendations in Dr. Longo's book, I decided to keep it simple. The most important thing is to keep protein super low for this period. The 2011 [Protein Cycling Diet](https://proteincyclingdiet.wordpress.com/article/protein-cycling-diet-11-2s3nmvrwklbxs-12/) has a page on calculating your upper limit of protein grams.
+
+Their 20 grams is calculated as the boundary for a man weighing 154 pounds. At the start of my FMD, I weighed 203. Instead of bumping up my protein grams, I stayed with a 20 grams limit. Each day during the FMD, I would not exceed 20 grams of protein.
 
 
 ### Pure Fasting
 
 
-What is less than 20? Zero. My concern was that if I tried to micro-manage low levels of calories early into the FMD, I might find it harder to be committed for 5 days. This concern may not be warranted. What I decided to do was to start the FMD with a pure fast. Not only zero grams of protein but zero calories as well. I've done intermittent fasts of 16-24 hours probably 250 times in the past decade. However, I've never gone longer and I've never gone to sleep on an empty stomach. My belief was that I couldn't sleep if I was hungry. What I learned was that I could, but the sleep was not great, which was to be expected. My hunger peaked at hour 22 on Day 1 and declined afterward to a steady level that was not distracting. The loud stomach rumbling only happened on Day 1. On Day 2, I discovered what countless other fasters have discovered, hunger doesn't continue to rise. It actually falls a little. So I continued a pure fast until 9 PM on Day 3. During the FMD, I drank a lot of coffee, which Dr. Longo doesn't like, but without coffee, not only would I have never succeeded, I would never have attempted the FMD.
+What is less than 20? Zero. My concern was that if I tried to micro-manage low levels of calories early into the FMD, I might find it harder to be committed for 5 days. This concern may not be warranted. What I decided to do was to start the FMD with a pure fast. Not only zero grams of protein but zero calories as well.
+
+I've done intermittent fasts of 16-24 hours probably 250 times in the past decade. However, I've never gone longer and I've never gone to sleep on an empty stomach. My belief was that I couldn't sleep if I was hungry. What I learned was that I could, but the sleep was not great, which was to be expected.
+
+My hunger peaked at hour 22 on Day 1 and declined afterward to a steady level that was not distracting. The loud stomach rumbling only happened on Day 1.
+
+On Day 2, I discovered what countless other fasters have discovered, hunger doesn't continue to rise. It actually falls a little. So I continued a pure fast until 9 PM on Day 3. During the FMD, I drank a lot of coffee, which Dr. Longo doesn't like, but without coffee, not only would I have never succeeded, I would never have attempted the FMD.
 
 
 ### Low Calorie, Low Protein
 
 
-At the very end of Days 3, 4, and 5, I had a bowl of boiled potatoes with a pad of butter. Protein grams were well under 20. Probably closer to 12 grams. I could have probably continued the pure fast for the 2nd half of the FMD, but I wanted to experience a few days of eating very low protein. During the pure fast, I got SUPER COLD. However, it just so happened that Seattle experienced a sharp drop in temperature at the same time. This is why I originally planned to start my first FMD in the spring. Cold and windy weather sucks for fasting. ![](./img/ezra-jeffrey-cold.jpg) _[Photo](https://unsplash.com/@emcomeau) by Ezra Jeffrey. Did I mention how cold I felt?_
+At the very end of Days 3, 4, and 5, I had a bowl of boiled potatoes with a pad of butter. Protein grams were well under 20. Probably closer to 12 grams.
+
+I could have probably continued the pure fast for the 2nd half of the FMD, but I wanted to experience a few days of eating very low protein. During the pure fast, I got SUPER COLD. However, it just so happened that Seattle experienced a sharp drop in temperature at the same time. This is why I originally planned to start my first FMD in the spring. Cold and windy weather sucks for fasting.
+
+![](./img/ezra-jeffrey-cold.jpg)
+
+_[Photo](https://unsplash.com/@emcomeau) by Ezra Jeffrey. Did I mention how cold I felt?_
 
 
 ### Activity
@@ -45,7 +61,13 @@ It is impossible to know much my health benefited from a single 5-day FMD. Other
 -   Day 6: 193   (morning after the end of FMD)
 -   Day 9: 197
 
-I placed my Day 9 weight here because it is something I see too many fasters not including. When you depleted your glycogen stores via fasting or ketosis, the water that binds to the glycogen is also lost. So when you resume normal eating, not only will your glycogen stores fill back up, but so will that lose water. Whenever you hear some Low-Carb fans talk about their amazing first week with carbs or how they gain the weight back when they resume eating carbs, this is what is going on. See the post [Understanding Bodyweight and Glycogen Depletion](https://web.archive.org/web/20230531105448/https://justinowings.com/understanding-bodyweight-and-glycogen-de/) for a deeper explanation. A 6-pound weight loss over 5 days is pretty awesome. Is it possible that some of that weight is muscle? Maybe, but I did lose almost an inch off my waist at the widest point. Muscle loss during fasting is a topic that is debated, but it is not a concern because I understand how muscle memory works. Muscle is hard to gain the first time, but easy to recover with training and calories. See the [Tim Ferriss](/2011/01/how-tim-ferriss-really-gained-34-pounds-of-muscle-in-28-days/) or [Mickey Rourke](/2009/01/how-mickey-rourke-gained-27-pounds-of-muscle-for-the-wrestler/) posts for details. I will continue doing these 5-day FMD cycles using a combination of pure fasting and low protein fasting. They should get easier as the weather gets warmer.
+I placed my Day 9 weight here because it is something I see too many fasters not including. When you depleted your glycogen stores via fasting or ketosis, the water that binds to the glycogen is also lost. So when you resume normal eating, not only will your glycogen stores fill back up, but so will that lose water. Whenever you hear some Low-Carb fans talk about their amazing first week with carbs or how they gain the weight back when they resume eating carbs, this is what is going on.
+
+See the post [Understanding Bodyweight and Glycogen Depletion](https://web.archive.org/web/20230531105448/https://justinowings.com/understanding-bodyweight-and-glycogen-de/) for a deeper explanation.
+
+A 6-pound weight loss over 5 days is pretty awesome. Is it possible that some of that weight is muscle? Maybe, but I did lose almost an inch off my waist at the widest point. Muscle loss during fasting is a topic that is debated, but it is not a concern because I understand how muscle memory works. Muscle is hard to gain the first time, but easy to recover with training and calories. See the [Tim Ferriss](/2011/01/how-tim-ferriss-really-gained-34-pounds-of-muscle-in-28-days/) or [Mickey Rourke](/2009/01/how-mickey-rourke-gained-27-pounds-of-muscle-for-the-wrestler/) posts for details.
+
+I will continue doing these 5-day FMD cycles using a combination of pure fasting and low protein fasting. They should get easier as the weather gets warmer.
 
 ---
 

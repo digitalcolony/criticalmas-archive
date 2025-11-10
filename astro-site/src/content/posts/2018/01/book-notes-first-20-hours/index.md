@@ -9,7 +9,13 @@ description: "Today, I was organizing all my Google Drive files and I found a bl
 commentCount: 0
 ---
 
-Today, I was organizing all my Google Drive files and I found a blog post outline from 2013 that I never published. That summer I read the excellent book The First 20 Hours: How to Learn Anything . . . Fast! by Josh Kaufman. Since reading the book, I have tackled learning a few skills. I'm good at #1 (choose a lovable project), but poor at #2 (one skill at a time). But I'm getting better. Probably the best tip I have to learning a new skill is to **just get started**. We waste too much time looking for the best tools and hacks to learn something as an avoidance tactic for that first week (or 20 hours) of being frustrated. You can always change tools later and often we don't know which tool is going to be best until we start the work. I touched on this briefly in my 2016 post [Learn a Foreign Language SUPER FAST or Not](/2016/11/learn-foreign-language-super-fast-not/). Here are the notes I took in 2013.
+Today, I was organizing all my Google Drive files and I found a blog post outline from 2013 that I never published. That summer I read the excellent book The First 20 Hours: How to Learn Anything . . . Fast! by Josh Kaufman.
+
+Since reading the book, I have tackled learning a few skills. I'm good at #1 (choose a lovable project), but poor at #2 (one skill at a time). But I'm getting better.
+
+Probably the best tip I have to learning a new skill is to **just get started**. We waste too much time looking for the best tools and hacks to learn something as an avoidance tactic for that first week (or 20 hours) of being frustrated. You can always change tools later and often we don't know which tool is going to be best until we start the work. I touched on this briefly in my 2016 post [Learn a Foreign Language SUPER FAST or Not](/2016/11/learn-foreign-language-super-fast-not/).
+
+Here are the notes I took in 2013.
 
 
 #### 10 Principles of Rapid Skill Acquisition
@@ -52,4 +58,6 @@ Don’t rely on willpower to overcome these barriers. Rearrange your environment
 9.  Make and test predictions.
 10.  Honor your biology.
 
-![first 20 hours](./img/first-20-hours.jpg) _The First 20 Hours: How to Learn Anything . . . Fast! by Josh Kaufman._
+![first 20 hours](./img/first-20-hours.jpg)
+
+_The First 20 Hours: How to Learn Anything . . . Fast! by Josh Kaufman._

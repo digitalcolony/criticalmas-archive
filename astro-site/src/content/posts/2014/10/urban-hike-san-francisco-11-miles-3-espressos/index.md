@@ -9,7 +9,23 @@ description: "From 2008-2013 I did a few posts mapping my urban hiking adventure
 commentCount: 14
 ---
 
-From 2008-2013 I did a few posts mapping my [urban hiking adventures](https://criticalmas.org/best-of/urban-hiking/) in Seattle. Now that I am temporarily in the San Francisco area, I thought I'd post one for this city. I've done many already. I'd say I've urban hiked over 100 miles in the city since my July arrival. Probably closer to 200 miles. Today I paid attention to the streets I was taking, so I could put together this map. Usually I don't pay attention and just move north, south, east and west, until I get to my target location. Today's espressos were Pinhole, Coffee Cultures and Contraband. All were excellent. If you are interested in the SF Bay Area coffee scene, you can follow along on my adventures via a Google Spreadsheet at [tinyurl.com/sf-espresso](http://tinyurl.com/sf-espresso). ![san francisco](./img/sf-1.jpg) ![chinatown](./img/sf-2.jpg) ![dolores heights](./img/sf-3.jpg) ![urban-hike-sf](./img/urban-hike-sf.jpg) _[11.6905 miles](http://www.gmap-pedometer.com?r=6452793)_ If you want to urban hike San Francisco, but like me don't want to pay for parking, start your adventures in Noe Valley, Castro, South Haight, Cow Hollow, Alamo Square or Bernal Heights. Monday through Friday is tougher, because even if you find free parking, you might be limited to two hours. Saturday and especially Sunday are easier, but get there in the morning. You want to be parked by 10 AM. By Noon the freeways are full of people coming into the city and parking will be much tougher. And to get around, I used to use GPS, but I ditched the battery draining technology for a good map. I'm learning the city a lot better with the Streetwise map. ![Streetwise San Francisco Map - Laminated City Center Street Map of San Francisco, California - Folding pocket size travel map with BART map, MUNI lines, bus routes](https://images-na.ssl-images-amazon.com/images/I/51DuvevffvL.jpg) _Streetwise San Francisco Map - Laminated City Center Street Map of San Francisco, California - Folding pocket size travel map with BART map, MUNI lines, bus routes by Streetwise Maps_
+From 2008-2013 I did a few posts mapping my [urban hiking adventures](https://criticalmas.org/best-of/urban-hiking/) in Seattle. Now that I am temporarily in the San Francisco area, I thought I'd post one for this city. I've done many already. I'd say I've urban hiked over 100 miles in the city since my July arrival. Probably closer to 200 miles.
+
+Today I paid attention to the streets I was taking, so I could put together this map. Usually I don't pay attention and just move north, south, east and west, until I get to my target location. Today's espressos were Pinhole, Coffee Cultures and Contraband. All were excellent. If you are interested in the SF Bay Area coffee scene, you can follow along on my adventures via a Google Spreadsheet at [tinyurl.com/sf-espresso](http://tinyurl.com/sf-espresso).
+
+![san francisco](./img/sf-1.jpg)
+
+![chinatown](./img/sf-2.jpg)
+
+![dolores heights](./img/sf-3.jpg)
+
+![urban-hike-sf](./img/urban-hike-sf.jpg)
+
+_[11.6905 miles](http://www.gmap-pedometer.com?r=6452793)_
+
+If you want to urban hike San Francisco, but like me don't want to pay for parking, start your adventures in Noe Valley, Castro, South Haight, Cow Hollow, Alamo Square or Bernal Heights. Monday through Friday is tougher, because even if you find free parking, you might be limited to two hours. Saturday and especially Sunday are easier, but get there in the morning. You want to be parked by 10 AM. By Noon the freeways are full of people coming into the city and parking will be much tougher. And to get around, I used to use GPS, but I ditched the battery draining technology for a good map. I'm learning the city a lot better with the Streetwise map.
+
+![Streetwise San Francisco Map - Laminated City Center Street Map of San Francisco, California - Folding pocket size travel map with BART map, MUNI lines, bus routes](https://images-na.ssl-images-amazon.com/images/I/51DuvevffvL.jpg) _Streetwise San Francisco Map - Laminated City Center Street Map of San Francisco, California - Folding pocket size travel map with BART map, MUNI lines, bus routes by Streetwise Maps_
 
 ---
 

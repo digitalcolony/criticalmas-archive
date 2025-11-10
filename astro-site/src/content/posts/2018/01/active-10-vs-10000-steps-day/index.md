@@ -8,17 +8,35 @@ description: "Chris from Conditioning Research shared this article this morning:
 commentCount: 5
 ---
 
-Chris from Conditioning Research shared this article this morning: [Michael Mosley: 'Forget walking 10,000 steps a day'](http://www.bbc.com/news/health-42864061) The short summary is that people that aim for walking briskly 3 times a day for 10 minutes get better results than those that aim for 10,000 steps.
+Chris from Conditioning Research shared this article this morning:
 
-> When we looked at the volunteers' results, two out of the three asked to do 10,000 steps had managed to hit their target. But they had all struggled. The Active 10 group, on the other hand, had found it relatively easy. They had formed a small walking group and met together at convenient times during their working day to go for a brisk walk together.
+[Michael Mosley: 'Forget walking 10,000 steps a day'](http://www.bbc.com/news/health-42864061)
 
-The article concludes that the Active 10 group had a better health outcome than the 10,000 Steps group. As President and Founder of [The 10,000 Steps University](/2017/11/the-10000-steps-university/), I did not like how the author and others have lumped the "10,000 Steps" protocol in with other exercise protocols and then compared them. ![10,000 Steps University](./img/10k-university.jpg) **10,000 Steps was never prescribed as a replacement or substitute for true exercise.** It was prescribed as an antidote to endless hours of sitting. You still need to lift and get your heart rate up. The goal is to do **both**. But people hear what they want to hear. And then they repeat that false statement over and over until it became the accepted truth that 10,000 Steps was being recommended as exercise. Anyway, even though Active 10 was introduced to me in a sloppy manner, I think I like the idea. If I aim for 3 periods of brisk 10-minute walking all that still counts towards my 10,000 Steps. Only now, I've varied the intensity. Also, on busy days or days with awful weather, I can favor the Active 10 path and then on sunny relaxed days, favor the 10,000 Steps path. And for those fans of Active 10 that think it is all they need for exercise, it really isn't. It is a good start, but a true exercise plan will also involve resistance training.
+The short summary is that people that aim for walking briskly 3 times a day for 10 minutes get better results than those that aim for 10,000 steps.
+
+> When we looked at the volunteers' results, two out of the three asked to do 10,000 steps had managed to hit their target. But they had all struggled.
+> 
+> The Active 10 group, on the other hand, had found it relatively easy. They had formed a small walking group and met together at convenient times during their working day to go for a brisk walk together.
+
+The article concludes that the Active 10 group had a better health outcome than the 10,000 Steps group. As President and Founder of [The 10,000 Steps University](/2017/11/the-10000-steps-university/), I did not like how the author and others have lumped the "10,000 Steps" protocol in with other exercise protocols and then compared them.
+
+![10,000 Steps University](./img/10k-university.jpg)
+
+**10,000 Steps was never prescribed as a replacement or substitute for true exercise.** It was prescribed as an antidote to endless hours of sitting. You still need to lift and get your heart rate up. The goal is to do **both**. But people hear what they want to hear. And then they repeat that false statement over and over until it became the accepted truth that 10,000 Steps was being recommended as exercise.
+
+Anyway, even though Active 10 was introduced to me in a sloppy manner, I think I like the idea. If I aim for 3 periods of brisk 10-minute walking all that still counts towards my 10,000 Steps. Only now, I've varied the intensity. Also, on busy days or days with awful weather, I can favor the Active 10 path and then on sunny relaxed days, favor the 10,000 Steps path.
+
+And for those fans of Active 10 that think it is all they need for exercise, it really isn't. It is a good start, but a true exercise plan will also involve resistance training.
 
 
 ### Time to Test
 
 
-Active 10 has a [free app for iOS and Android](https://www.nhs.uk/oneyou/active10/home#jp6ZQ2tJrciP5t7V.97). I've installed it and will be testing it out. Currently, I have reduced my 10,000 Steps to 5,000 while I deal with my knee issues. I'll find out if I can walk "brisk" enough to meet my Active 10 goals. Join me if you like and I'll post again in a few months and then we share our results. ![Active 10](./img/active-10.jpg)
+Active 10 has a [free app for iOS and Android](https://www.nhs.uk/oneyou/active10/home#jp6ZQ2tJrciP5t7V.97). I've installed it and will be testing it out. Currently, I have reduced my 10,000 Steps to 5,000 while I deal with my knee issues. I'll find out if I can walk "brisk" enough to meet my Active 10 goals.
+
+Join me if you like and I'll post again in a few months and then we share our results.
+
+![Active 10](./img/active-10.jpg)
 
 ---
 

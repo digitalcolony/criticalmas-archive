@@ -9,13 +9,21 @@ description: "While I was walking around New Orleans, I stumbled into a store an
 commentCount: 6
 ---
 
-While I was walking around New Orleans, I stumbled into a store and started flipping through the cookbooks. Forgive me for being a newbie, but I found a line of cookbooks that I adored. The store was Williams-Sonoma and it was their line of cookbooks. What makes a good cookbook for me?
+While I was walking around New Orleans, I stumbled into a store and started flipping through the cookbooks. Forgive me for being a newbie, but I found a line of cookbooks that I adored. The store was Williams-Sonoma and it was their line of cookbooks.
+
+What makes a good cookbook for me?
 
 1.  **Killer photo** - I get no joy looking at the Joy of Cooking. Boring text cannot compare with a photo taken with the latest and greatest macro lens. The photo for a recipe should scream - eat me, I'm so tasty!
 2.  **Minimal Ingredients** - Sometimes I think recipe authors put too many things in their dish, just to stamp their identity on the dish. Fewer components mean that I'm more likely to make the recipe.
 3.  **Well Written Sequential Steps** - As a software developer, I have written my fair share of user documentation. My rules are to keep the steps simple and don't assume English is the reader's first language. Most recipe writers would do well to use my rules. I've seen too many recipes with all kinds of extra verbiage, _clever_ writing, and steps that aren't even sequential.
 
-I must have spent an hour going through the full line of cookbooks. All of them were amazing. Beautiful photos, minimal (normal) ingredients, and not a wasted word in the directions. ![Williams-Sonoma: Food Made Fast Asian (Food Made Fast)](https://images-na.ssl-images-amazon.com/images/I/51PI12Hx0vL.jpg) _Williams-Sonoma: Food Made Fast Asian (Food Made Fast) by Farina Kingsley_ ![Williams-Sonoma: Seafood: Food Made Fast](https://images-na.ssl-images-amazon.com/images/I/51UH9BgcJjL.jpg) _Williams-Sonoma: Seafood: Food Made Fast by Jay Harlow_ My birthday is on December 19th. ;)
+I must have spent an hour going through the full line of cookbooks. All of them were amazing. Beautiful photos, minimal (normal) ingredients, and not a wasted word in the directions.
+
+![Williams-Sonoma: Food Made Fast Asian (Food Made Fast)](https://images-na.ssl-images-amazon.com/images/I/51PI12Hx0vL.jpg) _Williams-Sonoma: Food Made Fast Asian (Food Made Fast) by Farina Kingsley_
+
+![Williams-Sonoma: Seafood: Food Made Fast](https://images-na.ssl-images-amazon.com/images/I/51UH9BgcJjL.jpg) _Williams-Sonoma: Seafood: Food Made Fast by Jay Harlow_
+
+My birthday is on December 19th. ;)
 
 ---
 

@@ -9,7 +9,15 @@ description: "Back in April, I built my own standing desk using boxes. It was a 
 commentCount: 6
 ---
 
-Back in April, I built my own [standing desk using boxes](/2012/04/standing-desk-ghetto-edition/). It was a cheap hack, but it didn't last long, as the boxes began to warp after a week. Although I am still not convinced that a standing desk is superior to a sitting one, I was inspired by a link in the most recent issue of Wired. They highlighted a tutorial that showed how to build your own standing desk for just $22 using items from IKEA. I followed the instructions and now I have a standing desk. I'm pretty sure this one won't warp like my box solution. The only piece of information missing from the tutorial was the size of the wood screws. I made a lucky guess and selected #10 x 1-3/4. They fit perfectly. Below is a photo of the desk as it is now. I may lower the keyboard stand. TUTORIAL: [A standing desk for $22](https://alphacolin.com/ikea-standing-desk-for-22-dollars/) ![diy-stand-up-desk](./img/diy-stand-up-desk.jpg) _Standing Desk version 2.0_
+Back in April, I built my own [standing desk using boxes](/2012/04/standing-desk-ghetto-edition/). It was a cheap hack, but it didn't last long, as the boxes began to warp after a week. Although I am still not convinced that a standing desk is superior to a sitting one, I was inspired by a link in the most recent issue of Wired. They highlighted a tutorial that showed how to build your own standing desk for just $22 using items from IKEA.
+
+I followed the instructions and now I have a standing desk. I'm pretty sure this one won't warp like my box solution. The only piece of information missing from the tutorial was the size of the wood screws. I made a lucky guess and selected #10 x 1-3/4. They fit perfectly. Below is a photo of the desk as it is now. I may lower the keyboard stand.
+
+TUTORIAL: [A standing desk for $22](https://alphacolin.com/ikea-standing-desk-for-22-dollars/)
+
+![diy-stand-up-desk](./img/diy-stand-up-desk.jpg)
+
+_Standing Desk version 2.0_
 
 ---
 

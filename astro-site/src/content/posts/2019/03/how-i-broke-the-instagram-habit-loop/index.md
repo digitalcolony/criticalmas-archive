@@ -9,13 +9,27 @@ description: "My last post was all about quitting Facebook. Now, I want to cover
 commentCount: 5
 ---
 
-My last post was all about [quitting Facebook](/2019/02/how-i-quit-facebook-tips-you-might-use/). Now, I want to cover how I defeated my Instagram addiction. Unlike Facebook, Instagram actually brought me joy. It was everything that was once great about Facebook in photo form. But as great as Instagram is, mindlessly going from photo to photo can eat up a lot of time. Several times throughout the day, I'd find myself scrolling through the Instagram images. And unlike Facebook, I'd be participating by posting my own photos. It was fun. But I wanted to reclaim that time for myself. **Unlike Facebook, the browser version of Instagram is full of limitations. Therein lies the key to breaking the habit loop.  Uninstall the mobile app and only access the browser version of the website.** You won't be able to post photos\*, but that is fine. It just means you won't have a need to check on how others are engaging with your posts. Another option, especially for businesses that have to use Instagram, is to get a cheap tablet for Instagram and then leave it off your phone. Purposeful and hopefully scheduled engagement with your customers.
+My last post was all about [quitting Facebook](/2019/02/how-i-quit-facebook-tips-you-might-use/). Now, I want to cover how I defeated my Instagram addiction. Unlike Facebook, Instagram actually brought me joy. It was everything that was once great about Facebook in photo form.
+
+But as great as Instagram is, mindlessly going from photo to photo can eat up a lot of time. Several times throughout the day, I'd find myself scrolling through the Instagram images. And unlike Facebook, I'd be participating by posting my own photos. It was fun. But I wanted to reclaim that time for myself.
+
+**Unlike Facebook, the browser version of Instagram is full of limitations. Therein lies the key to breaking the habit loop.  Uninstall the mobile app and only access the browser version of the website.** You won't be able to post photos\*, but that is fine. It just means you won't have a need to check on how others are engaging with your posts.
+
+Another option, especially for businesses that have to use Instagram, is to get a cheap tablet for Instagram and then leave it off your phone. Purposeful and hopefully scheduled engagement with your customers.
 
 
 ### My Instagram Use Now
 
 
-What if I have something unique to share, such as photos of the historic snowstorm Seattle had last month? I can still take those photos, reinstall Instagram, post them, and then uninstall the app. Which is exactly what I did. Now instead of checking Instagram several times a day on my phone, I now check the browser version just a few times a week. A quick scan and I'm done. The spell has been broken. ![](./img/carlos-santa-haight.jpg) One of my earliest Instagram posts was when I noticed Carlos Santana coming out of a clothing store in San Francisco. _\*  There is a way to fake the headers inside your browser to trick Instagram into thinking you are really a mobile device. This gives you the ability to post photos from your desktop, but it does involve a few steps and is nowhere near as easy as the mobile app.  If there is interest in how to do this, let me know._
+What if I have something unique to share, such as photos of the historic snowstorm Seattle had last month? I can still take those photos, reinstall Instagram, post them, and then uninstall the app. Which is exactly what I did.
+
+Now instead of checking Instagram several times a day on my phone, I now check the browser version just a few times a week. A quick scan and I'm done. The spell has been broken.
+
+![](./img/carlos-santa-haight.jpg)
+
+One of my earliest Instagram posts was when I noticed Carlos Santana coming out of a clothing store in San Francisco.
+
+_\*  There is a way to fake the headers inside your browser to trick Instagram into thinking you are really a mobile device. This gives you the ability to post photos from your desktop, but it does involve a few steps and is nowhere near as easy as the mobile app.  If there is interest in how to do this, let me know._
 
 ---
 

@@ -9,7 +9,13 @@ description: "I'm ready to provide a status update on the \"Turn Up the Heat\" e
 commentCount: 20
 ---
 
-I'm ready to provide a status update on the ["Turn Up the Heat" experiment](/2013/03/diet-recovery-2-and-the-turn-up-the-heat-experiment/) I started last year. The goal was to see if I could increase my body temperature using some of the ideas found in Matt Stone's _Diet Recovery 2_ and _Eat For Heat_ books. I provided a [one-month status report](/2013/04/turn-up-the-heat-1-month-update/) in April that showed zero benefits. By June I had lost patience that I wasn't seeing any benefit, so I decided to [shelf the experiment](/2013/06/june-2013-experiments/) and focus on other things. But I mostly continued the ideas I listed from the experiment with one exception. I didn't worry about eating carbs upon waking. That is unnatural for me. I eat right before I go to sleep. Eating right when I wake up widened my eating window too much. ![Diet Recovery 2: Restoring Mind and Metabolism from Dieting, Weight Loss, Exercise, and Healthy Food](https://images-na.ssl-images-amazon.com/images/I/51nhuUuh%2BIL.jpg) _Diet Recovery 2: Restoring Mind and Metabolism from Dieting, Weight Loss, Exercise, and Healthy Food by Matt Stone_ My #1 health focus in the second half of 2013 was to become militant about reducing PUFA. For me, this meant adopting a zero nut policy. I had already eliminated vegetable oils years ago. The last source of significant PUFA left in my diet was almonds. In December, I did a 3 part series on PUFA, which made the case that the standard Paleo advice of "nuts in moderation" might be flawed and could slow down the process of reducing PUFA levels in the body.
+I'm ready to provide a status update on the ["Turn Up the Heat" experiment](/2013/03/diet-recovery-2-and-the-turn-up-the-heat-experiment/) I started last year. The goal was to see if I could increase my body temperature using some of the ideas found in Matt Stone's _Diet Recovery 2_ and _Eat For Heat_ books. I provided a [one-month status report](/2013/04/turn-up-the-heat-1-month-update/) in April that showed zero benefits. By June I had lost patience that I wasn't seeing any benefit, so I decided to [shelf the experiment](/2013/06/june-2013-experiments/) and focus on other things.
+
+But I mostly continued the ideas I listed from the experiment with one exception. I didn't worry about eating carbs upon waking. That is unnatural for me. I eat right before I go to sleep. Eating right when I wake up widened my eating window too much.
+
+![Diet Recovery 2: Restoring Mind and Metabolism from Dieting, Weight Loss, Exercise, and Healthy Food](https://images-na.ssl-images-amazon.com/images/I/51nhuUuh%2BIL.jpg) _Diet Recovery 2: Restoring Mind and Metabolism from Dieting, Weight Loss, Exercise, and Healthy Food by Matt Stone_
+
+My #1 health focus in the second half of 2013 was to become militant about reducing PUFA. For me, this meant adopting a zero nut policy. I had already eliminated vegetable oils years ago. The last source of significant PUFA left in my diet was almonds. In December, I did a 3 part series on PUFA, which made the case that the standard Paleo advice of "nuts in moderation" might be flawed and could slow down the process of reducing PUFA levels in the body.
 
 1.  [The Common Enemy in Nutrition](/2013/11/common-enemy-nutrition/)
 2.  [The Problem With PUFA](/2013/11/problem-pufa/)
@@ -19,13 +25,23 @@ I'm ready to provide a status update on the ["Turn Up the Heat" experiment](/201
 ### No Nuts + More Cheese
 
 
-For me, evening food satiety comes from nuts or cheese. By giving up the nuts, I was making a conscious choice to consume more cheese. The good news is _Diet Recovery 2_ lists cheese as the #1 warming food. The bad news is fat loss is much easier with almonds than with cheese. This applies to nuts, not nut butter. See my post [Food Reward Test: Almonds vs Almond Butter](/2012/04/food-reward-test-almonds-vs-almond-butter/) for that explanation. I knew that it could take several months and possibly years of eating a super low PUFA diet before I could tell if it had a metabolically stimulating effect. But since PUFA was my interest, I proceeded with the experiment. It only took a few more months before I began to notice improvements. My cold fingers began to warm up. I donate blood every 8 weeks and I saw a steady increase in body temperature with a slight increase in pulse. **My body temperature went from 97.0 to 98.4!** This is the first winter I can ever recall not having cold hands and feet. It should be noted that prior to removing nuts, I was already consuming a higher-carb diet. I regularly had sugar and never restricted salt. Sleep quality was also consistent. Going back to the [list of ideas](/2013/04/turn-up-the-heat-1-month-update/) from the experiment, the only major change I made was removing nuts. ![almonds-dried](./img/almonds-dried.jpg)
+For me, evening food satiety comes from nuts or cheese. By giving up the nuts, I was making a conscious choice to consume more cheese. The good news is _Diet Recovery 2_ lists cheese as the #1 warming food. The bad news is fat loss is much easier with almonds than with cheese. This applies to nuts, not nut butter. See my post [Food Reward Test: Almonds vs Almond Butter](/2012/04/food-reward-test-almonds-vs-almond-butter/) for that explanation.
+
+I knew that it could take several months and possibly years of eating a super low PUFA diet before I could tell if it had a metabolically stimulating effect. But since PUFA was my interest, I proceeded with the experiment.
+
+It only took a few more months before I began to notice improvements. My cold fingers began to warm up. I donate blood every 8 weeks and I saw a steady increase in body temperature with a slight increase in pulse. **My body temperature went from 97.0 to 98.4!** This is the first winter I can ever recall not having cold hands and feet.
+
+It should be noted that prior to removing nuts, I was already consuming a higher-carb diet. I regularly had sugar and never restricted salt. Sleep quality was also consistent. Going back to the [list of ideas](/2013/04/turn-up-the-heat-1-month-update/) from the experiment, the only major change I made was removing nuts.
+
+![almonds-dried](./img/almonds-dried.jpg)
 
 
 ### "But Nuts Are Healthy!"
 
 
-When I was first exposed to the idea that nuts might be bad for metabolism, I dismissed it as nonsense. Then I ran the numbers and came to the conclusion that although moderation makes sense for many things in nutrition when it comes to undoing years of excess PUFA damage, adopting a strict low-PUFA diet is mathematically the best course of action. My takeaway advice is to restore metabolism first and then decide if you want to consume nuts in "moderation". I will continue restricting them for now.
+When I was first exposed to the idea that nuts might be bad for metabolism, I dismissed it as nonsense. Then I ran the numbers and came to the conclusion that although moderation makes sense for many things in nutrition when it comes to undoing years of excess PUFA damage, adopting a strict low-PUFA diet is mathematically the best course of action.
+
+My takeaway advice is to restore metabolism first and then decide if you want to consume nuts in "moderation". I will continue restricting them for now.
 
 ---
 

@@ -9,13 +9,25 @@ description: "During my blogging hiatus, an online feud erupted between two blog
 commentCount: 23
 ---
 
-During my blogging hiatus, an online feud erupted between two bloggers that I have been reading for years. It was glorious to watch. My readers probably already know Richard Nikoley from FreeTheAnimal. The other blogger was Karl Denninger, who mostly blogs about finance, but in recent years has also shown an interest in nutrition. Although I rarely read Karl today, he was my go-to financial site leading into the financial crisis of 2008-2009. Their battle started on Twitter over the Potato Diet. Richard is a fan. Karl isn't. If you missed the battle in February, you can read Richard's post Why Does Karl Denninger Lie Like That? _(MAY 2021: link now behind a paywall)_ I would also link to Karl's post, but like so many of his other posts in the past, he no longer has it available publicly. Although I think Karl is brilliant when it comes to his understanding of interest rates and other topics related to economics, I completely side with Richard on this topic. Richard, like me, is pro-potato and pro-carbs. For a summary of how we went from preaching the low-carb gospel to eating bags of potatoes, see the post [How Low Carb Paleo Can Fool You](/2014/01/low-carb-paleo-can-fool/). But I also understand why Karl feels the way he does. He has had great success (so far) following a low-carb diet. I was there. So was Richard. I totally get it. _\*\* If Karl happens to read this post, I want to say you lose tremendous credibility when you take down old posts. Especially posts of a financial nature. Jim Cramer never had [this post](https://www.thestreet.com/personal-finance/the-winners-of-the-new-world-891820) taken down. I really wish you'd put up your critique of MMT you wrote several years ago. I recall that post being brilliant._ Before this post turns into yet another carb battle, I want to tell you why this battle still resonates with me almost a year later. I recall Karl using the phrase "peasant diet". He meant it as a critique, but it made me smile. I love the term.
+During my blogging hiatus, an online feud erupted between two bloggers that I have been reading for years. It was glorious to watch.
+
+My readers probably already know Richard Nikoley from FreeTheAnimal. The other blogger was Karl Denninger, who mostly blogs about finance, but in recent years has also shown an interest in nutrition. Although I rarely read Karl today, he was my go-to financial site leading into the financial crisis of 2008-2009.
+
+Their battle started on Twitter over the Potato Diet. Richard is a fan. Karl isn't. If you missed the battle in February, you can read Richard's post Why Does Karl Denninger Lie Like That? _(MAY 2021: link now behind a paywall)_ I would also link to Karl's post, but like so many of his other posts in the past, he no longer has it available publicly.
+
+Although I think Karl is brilliant when it comes to his understanding of interest rates and other topics related to economics, I completely side with Richard on this topic. Richard, like me, is pro-potato and pro-carbs. For a summary of how we went from preaching the low-carb gospel to eating bags of potatoes, see the post [How Low Carb Paleo Can Fool You](/2014/01/low-carb-paleo-can-fool/). But I also understand why Karl feels the way he does. He has had great success (so far) following a low-carb diet. I was there. So was Richard. I totally get it.
+
+_\*\* If Karl happens to read this post, I want to say you lose tremendous credibility when you take down old posts. Especially posts of a financial nature. Jim Cramer never had [this post](https://www.thestreet.com/personal-finance/the-winners-of-the-new-world-891820) taken down. I really wish you'd put up your critique of MMT you wrote several years ago. I recall that post being brilliant._
+
+Before this post turns into yet another carb battle, I want to tell you why this battle still resonates with me almost a year later. I recall Karl using the phrase "peasant diet". He meant it as a critique, but it made me smile. I love the term.
 
 
 ### The Case For the Peasant Diet
 
 
-When I think of a poor person today and imagine their diet, I see a lot of processed foods. They are likely to be overweight or even obese. The foods are highly flavorful, calorie-dense, and hyper-palatable. However, when I imagine a peasant I see a diet of boring staples. The foods are low in flavor and have a low-calorie density. If you believe the [Food Reward](http://wholehealthsource.blogspot.com/2011/04/food-reward-dominant-factor-in-obesity.html) theory of obesity has merit - and I absolutely do - then striving for a more peasant-like diet is a brilliant idea. Filling your belly with nutritious, non-processed foods that are also dirt cheap is a great strategy for defending ourselves from an environment of highly flavorful foods designed to get us to overeat.
+When I think of a poor person today and imagine their diet, I see a lot of processed foods. They are likely to be overweight or even obese. The foods are highly flavorful, calorie-dense, and hyper-palatable. However, when I imagine a peasant I see a diet of boring staples. The foods are low in flavor and have a low-calorie density.
+
+If you believe the [Food Reward](http://wholehealthsource.blogspot.com/2011/04/food-reward-dominant-factor-in-obesity.html) theory of obesity has merit - and I absolutely do - then striving for a more peasant-like diet is a brilliant idea. Filling your belly with nutritious, non-processed foods that are also dirt cheap is a great strategy for defending ourselves from an environment of highly flavorful foods designed to get us to overeat.
 
 
 ### The Peasant Diet Menu
@@ -36,13 +48,23 @@ Unlike peasants, we can selectively choose the foods that are higher in nutritio
 11.  Carrots
 12.  Cabbage
 
-Is there anything else that belongs on the list? I wish I could eat more beans, even lentils or green peas. They are so cheap and nutritious. However, unless my portion is small, I get bloating and even gut pain sometimes. I've tried soaking - even with baking soda. Pressure-cooking. Adding ginger. Nothing seems to work. If you have an idea, please post a comment. Farro is super yummy. I'm glad _VeggiePharm_ posted that tip. ![potato-diet](./img/potato-diet.jpg)
+Is there anything else that belongs on the list?
+
+I wish I could eat more beans, even lentils or green peas. They are so cheap and nutritious. However, unless my portion is small, I get bloating and even gut pain sometimes. I've tried soaking - even with baking soda. Pressure-cooking. Adding ginger. Nothing seems to work. If you have an idea, please post a comment.
+
+Farro is super yummy. I'm glad _VeggiePharm_ posted that tip.
+
+![potato-diet](./img/potato-diet.jpg)
 
 
 ### My Belly is Full and So Is My Wallet
 
 
-If you try and eat like a poor person in North America today you will spend a lot of money on junk food and probably end up overweight. However, if you eat like a peasant, your belly will be full but your abs will be visible. And you'll have [more money in your pocket](/2022/02/food-inflation-is-not-a-concern-on-the-peasant-diet/). A lot more money. You don't need to be a peasant at every meal. Dial in what works for you. I'm probably 60-70% peasant today. I eat the foods on the list and then add in more veggies and dairy. Then when I go out to eat I select foods with more flavor. And to those who object to a Peasant Diet because it is too boring, my response is why does every meal need to be highly flavorful and entertaining? If you find yourself overweight then your diet has likely been too flavorful and entertaining. Like a credit card balance, you consumed more than you needed and now it is time to tighten your belt.
+If you try and eat like a poor person in North America today you will spend a lot of money on junk food and probably end up overweight. However, if you eat like a peasant, your belly will be full but your abs will be visible. And you'll have [more money in your pocket](/2022/02/food-inflation-is-not-a-concern-on-the-peasant-diet/). A lot more money.
+
+You don't need to be a peasant at every meal. Dial in what works for you. I'm probably 60-70% peasant today. I eat the foods on the list and then add in more veggies and dairy. Then when I go out to eat I select foods with more flavor.
+
+And to those who object to a Peasant Diet because it is too boring, my response is why does every meal need to be highly flavorful and entertaining? If you find yourself overweight then your diet has likely been too flavorful and entertaining. Like a credit card balance, you consumed more than you needed and now it is time to tighten your belt.
 
 ---
 

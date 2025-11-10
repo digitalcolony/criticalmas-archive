@@ -9,7 +9,11 @@ description: "Before you head out to see Indiana Jones 4, make sure you've read 
 commentCount: 2
 ---
 
-Before you head out to see _Indiana Jones 4_, make sure you've read the listing correctly. I'd hate to see you end up at the wrong theater. :) ![indiana-moans](./img/indiana-moans.jpg) Photo taken near Pike Place Market in downtown Seattle.
+Before you head out to see _Indiana Jones 4_, make sure you've read the listing correctly. I'd hate to see you end up at the wrong theater. :)
+
+![indiana-moans](./img/indiana-moans.jpg)
+
+Photo taken near Pike Place Market in downtown Seattle.
 
 ---
 

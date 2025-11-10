@@ -9,7 +9,21 @@ description: "Today I am Waze Royalty! !waze royalty Driving sucks. I know. But 
 commentCount: 4
 ---
 
-Today I am Waze Royalty! ![waze royalty](./img/21707489576_7ede363e63_z.jpg) Driving sucks. I know. But if you need to drive, why not get some points and a rank? I explained all this in the post [Learning to Hate Driving Less](/2015/04/learning-to-hate-driving-less/). Waze may seem silly to many, but it not only makes driving more pleasant (less painful) but gave me the idea to use gamification for something more beneficial. That turned out to be the language learning application Duolingo, which I covered in the post [30 Días](/2015/06/30-dias/). Well, 30 days is now 132 days. I'm on [Level 14](https://www.duolingo.com/digitalcolony) and just hit the 6% Fluency level. Several of my friends have now joined me on Duolingo. My group the [Coffee Club of Seattle](https://www.meetup.com/seattle-coffee-club/) now has eight members actively learning Spanish. A few are learning French and one is Portuguese. It all started with the Waze scoreboard. ![Duolingo 6%](./img/21722015992_3f6bd94671_z.jpg) We live in great times. A year ago I hated driving and was too unmotivated even to start the process of learning a foreign language. Today I drive around with Waze turned on while listening to Spanish lessons (Pimsleur). I feel like a King. Are you using any educational applications that take advantage of points, ranking, streaks, or competition with friends? UPDATE January 2016: Having fun with the new Language Zen program.
+Today I am Waze Royalty!
+
+![waze royalty](./img/21707489576_7ede363e63_z.jpg)
+
+Driving sucks. I know. But if you need to drive, why not get some points and a rank? I explained all this in the post [Learning to Hate Driving Less](/2015/04/learning-to-hate-driving-less/). Waze may seem silly to many, but it not only makes driving more pleasant (less painful) but gave me the idea to use gamification for something more beneficial.
+
+That turned out to be the language learning application Duolingo, which I covered in the post [30 Días](/2015/06/30-dias/). Well, 30 days is now 132 days. I'm on [Level 14](https://www.duolingo.com/digitalcolony) and just hit the 6% Fluency level. Several of my friends have now joined me on Duolingo. My group the [Coffee Club of Seattle](https://www.meetup.com/seattle-coffee-club/) now has eight members actively learning Spanish. A few are learning French and one is Portuguese. It all started with the Waze scoreboard.
+
+![Duolingo 6%](./img/21722015992_3f6bd94671_z.jpg)
+
+We live in great times. A year ago I hated driving and was too unmotivated even to start the process of learning a foreign language. Today I drive around with Waze turned on while listening to Spanish lessons (Pimsleur). I feel like a King.
+
+Are you using any educational applications that take advantage of points, ranking, streaks, or competition with friends?
+
+UPDATE January 2016: Having fun with the new Language Zen program.
 
 ---
 

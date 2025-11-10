@@ -9,13 +9,25 @@ description: "This is an important post. It is about how our response to stress 
 commentCount: 15
 ---
 
-This is an important post. It is about how our response to stress learned in childhood can result in chronic disease. We've all heard how stress can kill you, but until I was exposed to the work of Dr. Gabor Maté, I never fully grasped just how just how much we now know about the role of stress in disease. It is huge. _Perfect Health Diet_ recently linked to the first part of the lecture _Bio-Psychosocial View on Neuro Degenerative Diseases_. I found the second part, even though these videos are unlisted, which makes me think they might get taken down at some point. I highly encourage you to watch both. There are some sound issues with the second part, but it is still valuable. Part 1 [http://youtu.be/MuZMSZ1\_8o4](http://youtu.be/MuZMSZ1_8o4) (53:41) Part 2 [http://youtu.be/po3cVvxzcRA](http://youtu.be/po3cVvxzcRA) (56:07) After watching the above videos, I read the doctor's book _When the Body Says No_. ![When the Body Says No: Exploring the Stress-Disease Connection](https://images-na.ssl-images-amazon.com/images/I/41ns33Z8vhL.jpg) _When the Body Says No: Exploring the Stress-Disease Connection by Gabor Maté_
+This is an important post. It is about how our response to stress learned in childhood can result in chronic disease. We've all heard how stress can kill you, but until I was exposed to the work of Dr. Gabor Maté, I never fully grasped just how just how much we now know about the role of stress in disease. It is huge.
+
+_Perfect Health Diet_ recently linked to the first part of the lecture _Bio-Psychosocial View on Neuro Degenerative Diseases_. I found the second part, even though these videos are unlisted, which makes me think they might get taken down at some point. I highly encourage you to watch both. There are some sound issues with the second part, but it is still valuable.
+
+Part 1 [http://youtu.be/MuZMSZ1\_8o4](http://youtu.be/MuZMSZ1_8o4) (53:41)
+
+Part 2 [http://youtu.be/po3cVvxzcRA](http://youtu.be/po3cVvxzcRA) (56:07)
+
+After watching the above videos, I read the doctor's book _When the Body Says No_.
+
+![When the Body Says No: Exploring the Stress-Disease Connection](https://images-na.ssl-images-amazon.com/images/I/41ns33Z8vhL.jpg) _When the Body Says No: Exploring the Stress-Disease Connection by Gabor Maté_
 
 
 ### Two Kinds of Stress
 
 
-When we think about stress, we think about our response to events that disturb us. Someone cuts us off in traffic or we have a personal conflict. So when we engage in stress management strategies, we are working on responses to these events. But stress can come not only from explicit memories but implicit memories. Implicit memories are often those events that happen in childhood where we can't recall the event, but we can recall the emotion. What happens in our childhood sets us up for chronic illness later. Children need attachment and they need to be themselves. Dr. Maté calls it being authentic and for survival purposes, attachment will always trump authenticity. When children are trained to suppress their emotions for their survival, it sets them up for much higher rates of illness later on. He further states that children are not born with a personality, but develop one as a coping strategy.
+When we think about stress, we think about our response to events that disturb us. Someone cuts us off in traffic or we have a personal conflict. So when we engage in stress management strategies, we are working on responses to these events. But stress can come not only from explicit memories but implicit memories. Implicit memories are often those events that happen in childhood where we can't recall the event, but we can recall the emotion. What happens in our childhood sets us up for chronic illness later.
+
+Children need attachment and they need to be themselves. Dr. Maté calls it being authentic and for survival purposes, attachment will always trump authenticity. When children are trained to suppress their emotions for their survival, it sets them up for much higher rates of illness later on. He further states that children are not born with a personality, but develop one as a coping strategy.
 
 > The psychology of children is programmed by the emotional states of their parents.
 

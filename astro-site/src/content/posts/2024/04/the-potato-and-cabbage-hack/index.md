@@ -14,19 +14,37 @@ It has been several years since I did a strict [Potato Hack](https://potatohack.
 -   Cool the potatoes overnight. This develops resistant starch which lowers the glycemic response. It will also reduce the calories of the potatoes by 17%.
 -   Eat the potatoes plain. Eat until full. No salt.
 
-The hack works on two levels. You get full while in a large calorie deficit, which triggers fat loss. And you reset the brain's connection with satiety and highly flavorful food. This allows you to emerge from the hack appreciating the basic flavors of whole unprocessed foods much better. This reduces the odds you will regain the lost weight. Most diets fail because they restrict the portions of the same flavorful foods which causes the individual to gain weight. The brain remembers the restriction and regain is almost guaranteed. The potato hack is perfect, yet people bargain for ways to cheat. Then they cheat and the results are unwhelming and say the diet doesn't work for them. With humility, I decided to improve upon perfection.
+The hack works on two levels. You get full while in a large calorie deficit, which triggers fat loss. And you reset the brain's connection with satiety and highly flavorful food. This allows you to emerge from the hack appreciating the basic flavors of whole unprocessed foods much better. This reduces the odds you will regain the lost weight. Most diets fail because they restrict the portions of the same flavorful foods which causes the individual to gain weight. The brain remembers the restriction and regain is almost guaranteed.
+
+The potato hack is perfect, yet people bargain for ways to cheat. Then they cheat and the results are unwhelming and say the diet doesn't work for them. With humility, I decided to improve upon perfection.
 
 
 ### Adding Cabbage
 
 
-The average American only consumes 10-15 grams of dietary fiber daily. A pound of potatoes will yield 4-5 grams of fiber (if peeled) and 8-10 grams (with the skins). If one eats 3-5 pounds of peeled potatoes, the fiber content will increase slightly during the hack. That is for most Americans. Although I am not a vegan, my diet macros most closely match the whole-food plant-based vegans. This group gets between 40-60 grams of fiber a day. Some quick math puts me in this group. Someone consuming high fiber that does a potato hack will see a big drop in fiber intake while the body is burning fat and releasing fat-soluble toxins. Just as increasing fiber intake too fast can cause diarrhea, decreasing too fast can cause constipation. You want to eliminate these toxins after they are liberated. Keep the pipes moving. Cabbage is low in flavor and calories, but high in fiber. Perfect. See the post [Dieting and Detoxification](/2018/04/dieting-and-detoxification/) for a deeper discussion. ![](./img/potato-cabbage.jpg)
+The average American only consumes 10-15 grams of dietary fiber daily. A pound of potatoes will yield 4-5 grams of fiber (if peeled) and 8-10 grams (with the skins). If one eats 3-5 pounds of peeled potatoes, the fiber content will increase slightly during the hack. That is for most Americans.
+
+Although I am not a vegan, my diet macros most closely match the whole-food plant-based vegans. This group gets between 40-60 grams of fiber a day. Some quick math puts me in this group.
+
+Someone consuming high fiber that does a potato hack will see a big drop in fiber intake while the body is burning fat and releasing fat-soluble toxins. Just as increasing fiber intake too fast can cause diarrhea, decreasing too fast can cause constipation. You want to eliminate these toxins after they are liberated. Keep the pipes moving.
+
+Cabbage is low in flavor and calories, but high in fiber. Perfect.
+
+See the post [Dieting and Detoxification](/2018/04/dieting-and-detoxification/) for a deeper discussion.
+
+![](./img/potato-cabbage.jpg)
 
 
 ### Potato Peels
 
 
-Why not just leave the peels on and get the higher fiber content? The Potato Hack book says this: ![](./img/potato-peel-hack.jpg) Peeling potatoes is also wise if one is [concerned about cadmium](/2018/12/cadmium-and-potatoes-time-to-worry/). What about organic potatoes? Read this [2018 comment from Maureen](/2017/11/potato-hack-quick-start-guide/#comment-26054), which supports Steele's concern about high solanine levels in potato peels.
+Why not just leave the peels on and get the higher fiber content? The Potato Hack book says this:
+
+![](./img/potato-peel-hack.jpg)
+
+Peeling potatoes is also wise if one is [concerned about cadmium](/2018/12/cadmium-and-potatoes-time-to-worry/).
+
+What about organic potatoes? Read this [2018 comment from Maureen](/2017/11/potato-hack-quick-start-guide/#comment-26054), which supports Steele's concern about high solanine levels in potato peels.
 
 > I stopped eating the peel of organic potato as well. I was married to a potato farmer for 30 years. There are more eyes on organic potatoes and more fungi on the outside, I know that, because I’ve got a license to pick out diseased potatoes. Organic races need to be more resistant against worms and insects, so it stands to reason that they will produce more solanine. Fusarium, Helminthosporium and Rhizoctonia, often found on the tubers are well known for the mycotoxins they produce. I started getting nightly muscle cramps when I ate organic potatoes with their peel. Now that I peel them, it has stopped.
 
@@ -36,7 +54,19 @@ This is why I picked cabbage over potato peels.
 ### My 5-Day Potato and Cabbage Hack
 
 
-I am [weight stable at 180-182](/2023/01/mostly-weight-stable-regardless-of-diet-part-2/), but this is not firmly fixed. By the end of summer, I will drift down to 177. Warmer weather suppresses my appetite more. I also walk more and have a tighter eating window. On the flip side, my weight could drift to 184-186 at the end of winter. It did this year as well. Colder weather plus recovering from [my hernia](/2023/08/i-got-a-hernia/) surgery brought me up to 186. See the post [Temperature and Appetite](/2023/10/temperature-and-appetite/) for more details. Being at the high end of my ideal zone in March is not a concern. I'm fully recovered from my surgery and I've been adding some volume to my workouts. My step count is up. I would naturally drop a few pounds as the weather improves, but I decided to test my potato and cabbage hack. I did 5-days strict. Nothing but cooked-and-cooled potatoes with lightly steamed green cabbage. I used an Instant Pot for cooking. I did not weigh or measure anything. I ate the potatoes slowly until I was full. The only difference was I topped each bowl of potatoes with a handful or two of steamed cabbage. Zero salt. My fiber intake with the added cabbage more closely matched my daily diet than the original potato hack. I went from 186 to 183. Interestingly, the weight drop didn't happen until the last day. I also dropped 1/2 an inch off my widest point. I continued to [supplement with creatine](/2024/02/have-i-found-my-headache-cure/) so I didn't credit the success of the hack when it could have been falling creatine levels. **It has been a week since the hack and I have maintained the 3-pound loss.** I call that a success. What do you think of this variation of the potato hack? I think it honors the original and is a viable alternative for those of us who normally consume a higher-fiber diet.
+I am [weight stable at 180-182](/2023/01/mostly-weight-stable-regardless-of-diet-part-2/), but this is not firmly fixed. By the end of summer, I will drift down to 177. Warmer weather suppresses my appetite more. I also walk more and have a tighter eating window. On the flip side, my weight could drift to 184-186 at the end of winter. It did this year as well. Colder weather plus recovering from [my hernia](/2023/08/i-got-a-hernia/) surgery brought me up to 186.
+
+See the post [Temperature and Appetite](/2023/10/temperature-and-appetite/) for more details.
+
+Being at the high end of my ideal zone in March is not a concern. I'm fully recovered from my surgery and I've been adding some volume to my workouts. My step count is up. I would naturally drop a few pounds as the weather improves, but I decided to test my potato and cabbage hack.
+
+I did 5-days strict. Nothing but cooked-and-cooled potatoes with lightly steamed green cabbage. I used an Instant Pot for cooking. I did not weigh or measure anything. I ate the potatoes slowly until I was full. The only difference was I topped each bowl of potatoes with a handful or two of steamed cabbage. Zero salt.
+
+My fiber intake with the added cabbage more closely matched my daily diet than the original potato hack.
+
+I went from 186 to 183. Interestingly, the weight drop didn't happen until the last day. I also dropped 1/2 an inch off my widest point. I continued to [supplement with creatine](/2024/02/have-i-found-my-headache-cure/) so I didn't credit the success of the hack when it could have been falling creatine levels. **It has been a week since the hack and I have maintained the 3-pound loss.** I call that a success.
+
+What do you think of this variation of the potato hack? I think it honors the original and is a viable alternative for those of us who normally consume a higher-fiber diet.
 
 ---
 

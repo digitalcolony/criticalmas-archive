@@ -9,7 +9,11 @@ description: "Back in October, I shared my 8 Tips For Avoiding Sickness. Then in
 commentCount: 0
 ---
 
-Back in October, I shared my 8 Tips For Avoiding Sickness. Then in January, I narrowed it down to what I felt were the three most important in the post [Fighting Sickness Ninja Style](/2009/01/fighting-sickness-ninja-style/). After years of getting colds, I was sick and tired of being _sick and tired_, so I researched how I could boost my immune system. It has now been almost 18 months since my last cold. Because of my success, I assumed I had figured out why I had defeated the common cold. Turns out there was something I overlooked. Yesterday I was researching something else when I stumbled on a study that showed that cold water exposure boosts your immunity. This is the exact opposite of conventional wisdom which has people running for sweaters at the slightest breeze. _You'll catch a cold!_ Nonsense. Your body will release _cytokines_, which are hormone like substances that trigger other hormones that boost immune function. From the study [Immune system of cold-exposed and cold-adapted humans](https://link.springer.com/article/10.1007%2FBF00242274):
+Back in October, I shared my 8 Tips For Avoiding Sickness. Then in January, I narrowed it down to what I felt were the three most important in the post [Fighting Sickness Ninja Style](/2009/01/fighting-sickness-ninja-style/). After years of getting colds, I was sick and tired of being _sick and tired_, so I researched how I could boost my immune system. It has now been almost 18 months since my last cold.
+
+Because of my success, I assumed I had figured out why I had defeated the common cold. Turns out there was something I overlooked.
+
+Yesterday I was researching something else when I stumbled on a study that showed that cold water exposure boosts your immunity. This is the exact opposite of conventional wisdom which has people running for sweaters at the slightest breeze. _You'll catch a cold!_ Nonsense. Your body will release _cytokines_, which are hormone like substances that trigger other hormones that boost immune function. From the study [Immune system of cold-exposed and cold-adapted humans](https://link.springer.com/article/10.1007%2FBF00242274):
 
 > It was concluded that the stress-inducing noninfectious stimuli, such as repeated cold water immersions, which increased metabolic rate due to shivering the elevated blood concentrations of catecholamines, activated the immune system to a slight extent.
 

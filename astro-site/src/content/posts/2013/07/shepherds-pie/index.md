@@ -9,7 +9,9 @@ description: "I've been making Shepherd's Pie a lot lately. It is a nice break 
 commentCount: 4
 ---
 
-I've been making Shepherd's Pie a lot lately. It is a nice break from my normal [gyro meatloaf](/2012/03/the-gyro-meatloaf-recipe/) staple. Using my larger Pyrex, I double [this recipe](http://www.simplyrecipes.com/recipes/easy_shepherds_pie/). It is a perfect leftover food. Just warm and serve. ![shepherds-pie](./img/shepherds-pie.jpg)
+I've been making Shepherd's Pie a lot lately. It is a nice break from my normal [gyro meatloaf](/2012/03/the-gyro-meatloaf-recipe/) staple. Using my larger Pyrex, I double [this recipe](http://www.simplyrecipes.com/recipes/easy_shepherds_pie/). It is a perfect leftover food. Just warm and serve.
+
+![shepherds-pie](./img/shepherds-pie.jpg)
 
 ---
 

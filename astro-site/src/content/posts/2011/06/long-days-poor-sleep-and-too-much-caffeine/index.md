@@ -9,7 +9,15 @@ description: "I have about 15 half-written blog posts in the queue right now. I'
 commentCount: 2
 ---
 
-I have about 15 half-written blog posts in the queue right now. I'm not happy with any of them. The sun is rising at 5:10 AM in Seattle and not setting until after 9 PM. I have blackout drapes, but the light is still sneaking into my room and waking me up. During the winter I was able to get extra sleep, now I'm missing some sleep. My plan was to cut my coffee intake come summer, but then Seattle got the Northwest Coffee Festival and Coffee Crawl with multiple events each day. As a coffee fanatic, I have been going to all these events and consuming a high amount of coffee. This isn't helping my sleep either. So the result is I've been too tired to complete about 15 blog posts. Sunday is the last day of the Coffee Festival. When it is over, I'll start to reduce my coffee intake. The days will begin to shorten on Wednesday. Hopefully, I'll get my blog mojo back then. ![](./img/ballard-locks.jpg "ballard-locks") _My hood. This photo has nothing to do with this post. I need more sleep._
+I have about 15 half-written blog posts in the queue right now. I'm not happy with any of them. The sun is rising at 5:10 AM in Seattle and not setting until after 9 PM. I have blackout drapes, but the light is still sneaking into my room and waking me up. During the winter I was able to get extra sleep, now I'm missing some sleep.
+
+My plan was to cut my coffee intake come summer, but then Seattle got the Northwest Coffee Festival and Coffee Crawl with multiple events each day. As a coffee fanatic, I have been going to all these events and consuming a high amount of coffee. This isn't helping my sleep either.
+
+So the result is I've been too tired to complete about 15 blog posts. Sunday is the last day of the Coffee Festival. When it is over, I'll start to reduce my coffee intake. The days will begin to shorten on Wednesday. Hopefully, I'll get my blog mojo back then.
+
+![](./img/ballard-locks.jpg "ballard-locks")
+
+_My hood. This photo has nothing to do with this post. I need more sleep._
 
 ---
 

@@ -9,11 +9,17 @@ description: "For those that don't know Joseph Campbell, he was the world's auth
 commentCount: 8
 ---
 
-For those that don't know [Joseph Campbell](https://en.wikipedia.org/wiki/Joseph_Campbell), he was the world's authority on mythology and ancient religion. He wrote the book _The Hero With a Thousand Faces_ and was even an inspiration to George Lucas for the original Star Wars. He also coined the phrase _"Follow Your Bliss"_. About a year ago, I was watching a documentary about his life and the part that struck me as the most interesting was what he did during the Great Depression. When opportunities were drying up for most Americans, he went to upstate New York and devoted himself to study. Campbell decided to not pursue a doctorate degree. What did he do instead? From [Return to the United States and The Great Depression](https://en.wikipedia.org/wiki/Joseph_Campbell#Return_to_the_United_States_and_the_Great_Depression) (Wikipedia):
+For those that don't know [Joseph Campbell](https://en.wikipedia.org/wiki/Joseph_Campbell), he was the world's authority on mythology and ancient religion. He wrote the book _The Hero With a Thousand Faces_ and was even an inspiration to George Lucas for the original Star Wars. He also coined the phrase _"Follow Your Bliss"_.
+
+About a year ago, I was watching a documentary about his life and the part that struck me as the most interesting was what he did during the Great Depression. When opportunities were drying up for most Americans, he went to upstate New York and devoted himself to study.
+
+Campbell decided to not pursue a doctorate degree. What did he do instead? From [Return to the United States and The Great Depression](https://en.wikipedia.org/wiki/Joseph_Campbell#Return_to_the_United_States_and_the_Great_Depression) (Wikipedia):
 
 > A few weeks later, the Great Depression began. Campbell would spend the next five years (1929-1934) trying to figure out what to do with his life (Larsen and Larsen, 2002:160) and he engaged in a period of intensive and rigorous independent study. Campbell discussed this period in _The Hero's Journey: Joseph Campbell on His Life and Work_ (1990, first edition:52-3). Campbell states that he "would divide the day into four four-hour periods, of which I would be reading in three of the four hour periods, and free one of them...I would get nine hours of sheer reading done a day. And this went on for five years straight."
 
-That is so cool. He had the resources to go away for five years and live a simple life dedicated to research. It wasn't research assigned to him by a university or a requirement for some degree or certification. He picked a topic that he was interested in and pursued it. If you could go away for a few years and live a simple life dedicated to research, what topics would you pursue? And where would you go?
+That is so cool. He had the resources to go away for five years and live a simple life dedicated to research. It wasn't research assigned to him by a university or a requirement for some degree or certification. He picked a topic that he was interested in and pursued it.
+
+If you could go away for a few years and live a simple life dedicated to research, what topics would you pursue? And where would you go?
 
 ---
 

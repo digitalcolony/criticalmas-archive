@@ -8,14 +8,28 @@ description: "I recently was invited to do a High Intensity Training workout at 
 commentCount: 10
 ---
 
-I recently was invited to do a High Intensity Training workout at DeSisto Strength Training in San Francisco. It has been over 3 years now since I had those two HIT workouts from legendary trainer [Greg Anderson](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) (RIP). I learned that Dave DeSisto got his certification from Greg Anderson. Small world. This past summer I haven't been working out much for two reasons. First is my ongoing left knee problems, which I recently learned a lot more about and will be discussing in a future post. The second is I am very temperature sensitive and where I've been staying at this summer has a garage gym that is very hot. I like cold. I can lift a lot more and reach a higher level of intensity when the [temperature is lower](/2013/08/why-i-traded-volume-for-intensity-at-the-glitter-gym/). When I first entered DeSisto Strength, I was concerned it was too hot in the gym. The glass in the front captured a lot of heat. However, when it came time to begin the workout, the air conditioner was turned on and Dave had fans set up to directly cool me as I moved from one exercise to another. It was the coolest indoor workout I had in years. ![desisto strength](./img/desisto-strength.jpeg) _DeSisto Strength Training - San Francisco, CA_ Now that I am closing in on 4 years of High Intensity Training, I view the 4 essential components as:
+I recently was invited to do a High Intensity Training workout at DeSisto Strength Training in San Francisco. It has been over 3 years now since I had those two HIT workouts from legendary trainer [Greg Anderson](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) (RIP). I learned that Dave DeSisto got his certification from Greg Anderson. Small world.
+
+This past summer I haven't been working out much for two reasons. First is my ongoing left knee problems, which I recently learned a lot more about and will be discussing in a future post. The second is I am very temperature sensitive and where I've been staying at this summer has a garage gym that is very hot. I like cold. I can lift a lot more and reach a higher level of intensity when the [temperature is lower](/2013/08/why-i-traded-volume-for-intensity-at-the-glitter-gym/).
+
+When I first entered DeSisto Strength, I was concerned it was too hot in the gym. The glass in the front captured a lot of heat. However, when it came time to begin the workout, the air conditioner was turned on and Dave had fans set up to directly cool me as I moved from one exercise to another. It was the coolest indoor workout I had in years.
+
+![desisto strength](./img/desisto-strength.jpeg)
+
+_DeSisto Strength Training - San Francisco, CA_
+
+Now that I am closing in on 4 years of High Intensity Training, I view the 4 essential components as:
 
 1.  **Safety** - Selecting exercises that are safe to perform slowly and to failure.
 2.  **Form** - Having a solid form that eliminates or greatly reduces momentum and targets the muscles appropriately.
 3.  **Intensity** - Reach enough intensity to target fast twitch muscle fibers, often to failure.
 4.  **Rest** - Allowing enough time between workouts.
 
-If you read this site regularly, you'll know that I attribute most of the effectiveness of HIT as #1. As for intensity, I have my doubts that always going to failure is ideal for ectomorphs. See the post [Is High Intensity Training Best for Ectomorphs? One Year Later](/2013/08/is-high-intensity-training-best-for-ectomorphs-part-2/). Because I know which exercises are safe to perform and I know how to slowly move a weight and I'm not concerned with pushing myself to failure, I have been working out alone without the guidance of a HIT trainer. I also know to err on the side of another day of rest than racing back to the gym to squeeze in another workout. What I learned during my workout with Dave DeSisto is how my form on exercises was off. Not a lot, but noticeable when he suggested corrections. When we work out alone there is no one there to provide feedback to guide us back into perfect form. Weeks, months and years can go by developing poor form habits. Once you understand the basics of HIT, I think this might be the greatest value in hiring a HIT trainer. In addition to helping me make adjustments to my form, Dave helped me with my breathing, which was too shallow. This is something I have to continue working at. If you are in San Francisco and looking for a High Intensity Trainer to get started or for a tune-up, check out [DeSisto Strength Training](http://www.desistostrengthtraining.com/).
+If you read this site regularly, you'll know that I attribute most of the effectiveness of HIT as #1. As for intensity, I have my doubts that always going to failure is ideal for ectomorphs. See the post [Is High Intensity Training Best for Ectomorphs? One Year Later](/2013/08/is-high-intensity-training-best-for-ectomorphs-part-2/). Because I know which exercises are safe to perform and I know how to slowly move a weight and I'm not concerned with pushing myself to failure, I have been working out alone without the guidance of a HIT trainer. I also know to err on the side of another day of rest than racing back to the gym to squeeze in another workout.
+
+What I learned during my workout with Dave DeSisto is how my form on exercises was off. Not a lot, but noticeable when he suggested corrections. When we work out alone there is no one there to provide feedback to guide us back into perfect form. Weeks, months and years can go by developing poor form habits. Once you understand the basics of HIT, I think this might be the greatest value in hiring a HIT trainer. In addition to helping me make adjustments to my form, Dave helped me with my breathing, which was too shallow. This is something I have to continue working at.
+
+If you are in San Francisco and looking for a High Intensity Trainer to get started or for a tune-up, check out [DeSisto Strength Training](http://www.desistostrengthtraining.com/).
 
 ---
 

@@ -9,9 +9,17 @@ description: "After 9/11, I bought a bunch of extra food and water. I also got s
 commentCount: 5
 ---
 
-After 9/11, I bought a bunch of extra food and water. I also got some other supplies. After Hurricane Katrina, I doubled my reserves. Then, like many Americans, I slowly let my guard down. I still have food and water, but I have no clue what happened to my flashlight or first aid kit. The threat from terrorism is still real as is the threat from a natural or economic disaster. I needed to be reminded of this. ![Emergency: This Book Will Save Your Life](https://images-na.ssl-images-amazon.com/images/I/51g5X0b6PkL.jpg) Emergency: This Book Will Save Your Life by Neil Strauss is not a guide, but a story of one man that decided he wants to survive no matter what the world throws at him. Strauss buries himself in the different survivalist subcultures to learn the skills and actions required for survival. I think Neil Strauss is a great writer and I went through the 400+ pages in just a few days. My survival philosophy has always been modeled after my favorite joke.
+After 9/11, I bought a bunch of extra food and water. I also got some other supplies. After Hurricane Katrina, I doubled my reserves. Then, like many Americans, I slowly let my guard down. I still have food and water, but I have no clue what happened to my flashlight or first aid kit. The threat from terrorism is still real as is the threat from a natural or economic disaster. I needed to be reminded of this.
 
-> Two guys are in the jungle when they see a lion running towards them. Frantically, one of the men starts putting on his running shoes. Surprised, the other man says " What are you thinking, you can't outrun a lion!!!" " I don't have to outrun the lion," said the man, " I just have to outrun you."
+![Emergency: This Book Will Save Your Life](https://images-na.ssl-images-amazon.com/images/I/51g5X0b6PkL.jpg) Emergency: This Book Will Save Your Life by Neil Strauss is not a guide, but a story of one man that decided he wants to survive no matter what the world throws at him. Strauss buries himself in the different survivalist subcultures to learn the skills and actions required for survival. I think Neil Strauss is a great writer and I went through the 400+ pages in just a few days.
+
+My survival philosophy has always been modeled after my favorite joke.
+
+> Two guys are in the jungle when they see a lion running towards them. Frantically, one of the men starts putting on his running shoes.
+> 
+> Surprised, the other man says " What are you thinking, you can't outrun a lion!!!"
+> 
+> " I don't have to outrun the lion," said the man, " I just have to outrun you."
 
 This book made me realize that I can't run as fast as I thought I could. I have some work to do.
 

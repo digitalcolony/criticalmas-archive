@@ -9,31 +9,53 @@ description: "The plan was to do my 4th Fasting Mimicking Diet from July 3 to Ju
 commentCount: 16
 ---
 
-The plan was to do my 4th Fasting Mimicking Diet from July 3 to July 8 and then donate blood on July 9th. Let me unpack that sentence. A [Fasting Mimicking Diet](/2018/02/longevity-diet-book-overview/) is a 5-day very low protein diet created by Dr. Valter Longo. It has longevity benefits. The reason I wanted to donate blood just after the 5-day fast was that I knew that due to being in a low-calorie mode for 5-days that many of the toxins liberated from fat cells would be in the bloodstream. Donating that pint is just another detox pathway. That was the plan. But I made an error that may not apply to you.
+The plan was to do my 4th Fasting Mimicking Diet from July 3 to July 8 and then donate blood on July 9th. Let me unpack that sentence.
+
+A [Fasting Mimicking Diet](/2018/02/longevity-diet-book-overview/) is a 5-day very low protein diet created by Dr. Valter Longo. It has longevity benefits. The reason I wanted to donate blood just after the 5-day fast was that I knew that due to being in a low-calorie mode for 5-days that many of the toxins liberated from fat cells would be in the bloodstream. Donating that pint is just another detox pathway.
+
+That was the plan. But I made an error that may not apply to you.
 
 
 ### Iron Levels
 
 
-In order to donate blood, you need to meet a certain iron level. That level will likely vary from region to region. In Seattle, they increased the requirements in 2017. Since then, I have been turned away a few times for just missing the lower boundary of iron of what they accept. I want to pause here and explain this to the idiots that interpret me being turned away as proof that my diet leads to iron deficiency. My iron levels are in the healthy range. In fact, I'd go further and say they are probably optimal. The blood bank changed their policy to protect the health of the donor. They were concerned that after donating, the donor's iron level would drop too much for the weeks post-donation. Anyway, I learned online how fasting can lower iron levels. Since I was already on the lower boundary, I knew if I fasted before donating that I'd likely be turned away. So, I donated on July 9th and started my fast on July 18th. ![](./img/31814891686_a577276e10_z.jpg) _I got my 4-gallon pin for Washington in 2017. I expect to get my 5-gallon pin in 2019._
+In order to donate blood, you need to meet a certain iron level. That level will likely vary from region to region. In Seattle, they increased the requirements in 2017. Since then, I have been turned away a few times for just missing the lower boundary of iron of what they accept.
+
+I want to pause here and explain this to the idiots that interpret me being turned away as proof that my diet leads to iron deficiency. My iron levels are in the healthy range. In fact, I'd go further and say they are probably optimal. The blood bank changed their policy to protect the health of the donor. They were concerned that after donating, the donor's iron level would drop too much for the weeks post-donation.
+
+Anyway, I learned online how fasting can lower iron levels. Since I was already on the lower boundary, I knew if I fasted before donating that I'd likely be turned away. So, I donated on July 9th and started my fast on July 18th.
+
+![](./img/31814891686_a577276e10_z.jpg)
+
+_I got my 4-gallon pin for Washington in 2017. I expect to get my 5-gallon pin in 2019._
 
 
 ### Possibly Wrong About the Potato Version of the FMD
 
 
-In March, I put together this post [The Potato Diet Version of the Fasting Mimicking Diet](/2018/03/the-potato-diet-version-of-the-fasting-mimicking-diet/). The short version is that I felt Dr. Longo did not convincingly explain why one would need to restrict healthy carbohydrates during the 5-day fast provided that protein was kept very low. So, I constructed a potato diet version. In a [follow-up interview on Found My Fitness](https://www.youtube.com/watch?v=evGFWRXEzz8), they talked about a relationship between insulin and IGF-1. It was beyond my understanding, but the lesson I took away was that potatoes might interfere with the benefits of an FMD by affecting IGF-1. I still suspect that just getting the protein super low is the secret sauce, but if I am going to go through the effort of such a strict diet for 5-days, I can at least play by the rules. Even if I don't understand them fully.
+In March, I put together this post [The Potato Diet Version of the Fasting Mimicking Diet](/2018/03/the-potato-diet-version-of-the-fasting-mimicking-diet/). The short version is that I felt Dr. Longo did not convincingly explain why one would need to restrict healthy carbohydrates during the 5-day fast provided that protein was kept very low. So, I constructed a potato diet version.
+
+In a [follow-up interview on Found My Fitness](https://www.youtube.com/watch?v=evGFWRXEzz8), they talked about a relationship between insulin and IGF-1. It was beyond my understanding, but the lesson I took away was that potatoes might interfere with the benefits of an FMD by affecting IGF-1.
+
+I still suspect that just getting the protein super low is the secret sauce, but if I am going to go through the effort of such a strict diet for 5-days, I can at least play by the rules. Even if I don't understand them fully.
 
 
 ### Prepping For Cold - Even in the Summer
 
 
-My initial plan for this fast was to go 5 days with zero calories. The reason was I figured there are benefits of applying different fasting strategies and that following the most strict version of zero calories would make the most sense in the summer. The reason is your body temperature drops. Being in a warm season would make it easier. As day 3 was winding down, I started to feel colder and colder. It was sunny and 73 F in Seattle and yet my hands and feet were ice cold. By 6 PM, my right hand was turning yellow. I knew I had to end the fast, as I did not adequately prepare for feeling cold. So I went to the store to get cabbage and avocados.
+My initial plan for this fast was to go 5 days with zero calories. The reason was I figured there are benefits of applying different fasting strategies and that following the most strict version of zero calories would make the most sense in the summer. The reason is your body temperature drops. Being in a warm season would make it easier.
+
+As day 3 was winding down, I started to feel colder and colder. It was sunny and 73 F in Seattle and yet my hands and feet were ice cold. By 6 PM, my right hand was turning yellow.
+
+I knew I had to end the fast, as I did not adequately prepare for feeling cold. So I went to the store to get cabbage and avocados.
 
 
 ### Fat Bomb Mistake
 
 
-About an hour or two after eating a few avocados and a plate of steamed cabbage, I had to run to the bathroom. A quick search on a fasting forum taught me that eating a high-fat high-fiber meal after going 3 days without food was an error. Before I do my 5th FMD, I will revisit the food choices in the Fasting Mimicking Diet book.
+About an hour or two after eating a few avocados and a plate of steamed cabbage, I had to run to the bathroom. A quick search on a fasting forum taught me that eating a high-fat high-fiber meal after going 3 days without food was an error.
+
+Before I do my 5th FMD, I will revisit the food choices in the Fasting Mimicking Diet book.
 
 
 ### Calling it over on Day 4
@@ -45,7 +67,9 @@ About 10 am on Day 4, I called it quits on this fast. I was cold and felt awful.
 ### Wrap Up
 
 
-Even though I didn't get the full 5-days, I still feel this fast was successful, because I learned a few important lessons. The two big ones are to solve for heat regardless of the season and to not eat fat bombs after days of no calories. I started the fast at 194 pounds. After a full day of refeeding, I am at 188. I expect to settle in at 191 or 192 by the end of the week.
+Even though I didn't get the full 5-days, I still feel this fast was successful, because I learned a few important lessons. The two big ones are to solve for heat regardless of the season and to not eat fat bombs after days of no calories.
+
+I started the fast at 194 pounds. After a full day of refeeding, I am at 188. I expect to settle in at 191 or 192 by the end of the week.
 
 ---
 

@@ -9,7 +9,11 @@ description: "One of the guiding principles I have used for many years is paying
 commentCount: 10
 ---
 
-One of the guiding principles I have used for many years is paying attention to what is becoming more or less popular as a way to measure how true it might be. Health and fitness trends come and go. The best ideas will stick around longer. The worst ones will be forgotten. An optimal strategy would be to avoid the new fads until they have been around for a while. Give the critics time to respond. Let more and more people go before you. If more people are getting great results then they will tell more people. Keep watching. Solid ideas will stand up to criticism. And the marketplace of individuals will, in the long run, figure out what is directionally accurate. This won't always be the truth, but close enough in many cases. In 2011, I published [How Tim Ferriss REALLY Gained 34 Pounds of Muscle](/2011/01/how-tim-ferriss-really-gained-34-pounds-of-muscle-in-28-days/). It was a critique of the expectation set forward in the _Geek to Freak_ chapter. Three years later I got challenged on that post and I responded with [Anatomy of a Stupid Fitness Comment](/2014/08/anatomy-stupid-fitness-comment/). Here is what I said:
+One of the guiding principles I have used for many years is paying attention to what is becoming more or less popular as a way to measure how true it might be. Health and fitness trends come and go. The best ideas will stick around longer. The worst ones will be forgotten.
+
+An optimal strategy would be to avoid the new fads until they have been around for a while. Give the critics time to respond. Let more and more people go before you. If more people are getting great results then they will tell more people. Keep watching. Solid ideas will stand up to criticism. And the marketplace of individuals will, in the long run, figure out what is directionally accurate. This won't always be the truth, but close enough in many cases.
+
+In 2011, I published [How Tim Ferriss REALLY Gained 34 Pounds of Muscle](/2011/01/how-tim-ferriss-really-gained-34-pounds-of-muscle-in-28-days/). It was a critique of the expectation set forward in the _Geek to Freak_ chapter. Three years later I got challenged on that post and I responded with [Anatomy of a Stupid Fitness Comment](/2014/08/anatomy-stupid-fitness-comment/). Here is what I said:
 
 > Geek to Freak is still a hoax. Do you know how I know? The book has been out since December 2010. It was a bestseller. Between the book and the supporting blog post, I wouldn’t be surprised if it had an audience of 1 million. Most of them, young healthy males seeking to gain more muscle. Yet almost nobody is still talking about this chapter. It came and went. If it were realistic, there will would A LOT MORE success stories and we would still be talking about it.
 
@@ -19,11 +23,27 @@ Ferriss was directionally inaccurate. Three more years have passed and almost no
 ### Metabolic Unicorns
 
 
-I want to thank Matt Stone for writing The Metabolic Zone back in February. It was so hard to believe that it broke the spell I was under regarding my understanding of metabolism. I posted my thoughts back then in the article [Is There a Metabolic Unicorn?](/2017/02/is-there-a-metabolic-unicorn/) I needed to discover if what Stone and the Ray Peat bloggers taught me about metabolism was serving my needs. I have no way of knowing who is right and who is wrong, but I can determine if their message has been directionally accurate. And it hasn't. A few weeks after the Metabolic Unicorn, I posted [The Digital Graveyard of My Health and Fitness Mentors](/2017/03/digital-graveyard-health-fitness-mentors/). It was a brilliant post that I thought would gather feedback and praise from the individuals I mentioned in the article. Nope. I never got a response from a single one. Anyway, one section in the post called out the Ray Peat bloggers.
+I want to thank Matt Stone for writing The Metabolic Zone back in February. It was so hard to believe that it broke the spell I was under regarding my understanding of metabolism. I posted my thoughts back then in the article [Is There a Metabolic Unicorn?](/2017/02/is-there-a-metabolic-unicorn/)
+
+I needed to discover if what Stone and the Ray Peat bloggers taught me about metabolism was serving my needs. I have no way of knowing who is right and who is wrong, but I can determine if their message has been directionally accurate. And it hasn't.
+
+A few weeks after the Metabolic Unicorn, I posted [The Digital Graveyard of My Health and Fitness Mentors](/2017/03/digital-graveyard-health-fitness-mentors/). It was a brilliant post that I thought would gather feedback and praise from the individuals I mentioned in the article. Nope. I never got a response from a single one. Anyway, one section in the post called out the Ray Peat bloggers.
 
 > I guess I was fortunate to stumble onto the Ray Peat nutritional argument when I did because most of the resources I used to further my knowledge are gone.
 
-That planted a big seed of doubt as well. If the message was strong, why were the messengers disappearing? Why was the message not getting louder? Were they directionally accurate? If you look at the comments on 180 Degree Health or any Ray Peat forum, you will see a bunch of people that have gained weight following the advice to boost their metabolism. They bought into the philosophy - only now the weight isn't coming off. They express hope and belief in some form of the Metabolic Unicorn. Every few comments there will be a success story to fuel the myth. And the dance continues for years. Two more seeds of doubt were planted. First, Matt Stone never added a comment to my post to clarify any of my questions. My blog pingback shows up his site and he has commented here in the past. The second was this comment he added to his article. ![matt stone comment](./img/matt-stone-comment.png) I don't know his height, but someone told me 5' 9 (175 cm). That is quite heavy, especially for someone that is an expert on metabolism. And a 10-pound weight loss from 260 is a rounding error. I'm not stating the Stone and Peat view on metabolism is completely wrong. I am saying it was directionally inaccurate enough for me to re-educate myself on the topic. As I explained in my [last post](/2017/08/time-vegetarian-got-sick/), belief can be powerful in ways that can be good or bad. Thankfully, shedding everything I thought I knew about metabolism and starting over turned out to be a great move for me. I'll save that story for an upcoming post.
+That planted a big seed of doubt as well. If the message was strong, why were the messengers disappearing? Why was the message not getting louder? Were they directionally accurate?
+
+If you look at the comments on 180 Degree Health or any Ray Peat forum, you will see a bunch of people that have gained weight following the advice to boost their metabolism. They bought into the philosophy - only now the weight isn't coming off. They express hope and belief in some form of the Metabolic Unicorn. Every few comments there will be a success story to fuel the myth. And the dance continues for years.
+
+Two more seeds of doubt were planted. First, Matt Stone never added a comment to my post to clarify any of my questions. My blog pingback shows up his site and he has commented here in the past. The second was this comment he added to his article.
+
+![matt stone comment](./img/matt-stone-comment.png)
+
+I don't know his height, but someone told me 5' 9 (175 cm). That is quite heavy, especially for someone that is an expert on metabolism. And a 10-pound weight loss from 260 is a rounding error.
+
+I'm not stating the Stone and Peat view on metabolism is completely wrong. I am saying it was directionally inaccurate enough for me to re-educate myself on the topic. As I explained in my [last post](/2017/08/time-vegetarian-got-sick/), belief can be powerful in ways that can be good or bad. Thankfully, shedding everything I thought I knew about metabolism and starting over turned out to be a great move for me.
+
+I'll save that story for an upcoming post.
 
 ---
 

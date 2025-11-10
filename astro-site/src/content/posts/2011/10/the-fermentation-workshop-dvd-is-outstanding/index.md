@@ -9,7 +9,15 @@ description: "I just finished watching Fermentation Workshop with Sandor Ellix K
 commentCount: 17
 ---
 
-I just finished watching _Fermentation Workshop with Sandor Ellix Katz_ twice. If you are interested in getting started with fermented vegetables or kefir, it is must see. ![Fermentation Workshop with Sandor Ellix Katz](https://images-na.ssl-images-amazon.com/images/I/51syGck1syL.jpg) Fermentation Workshop with Sandor Ellix Katz is an almost 2 hour long workshop by the author of _Wild Fermentation._ It is an excellent presentation. Sandor covers history, health, different cultures, ideas for ferments and the science. And he does it all while making a vegetable ferment. I loved this DVD. There were no pauses. Sander is passionate about fermentation and covers a lot of information. Many of the ideas covered in the DVD are things I learned through trial and error. I would have loved to have gone back in time to when I first getting interested in fermentation and watched this presentation. Regardless, I still learned more. Not only was the demonstration educational, it was inspiring. Even though I've been making ferments for over two years now, I felt like jumping up and starting another ferment. [Actually, I did](/2011/10/kraut-cabbage-this-sucker-is-huge/). Sandor also covered making kefir, which is something I did a few times and then got out of the habit. Now I'm all fired up to resume making kefir again! Some topics covered in _Fermentation Workshop_ include:
+I just finished watching _Fermentation Workshop with Sandor Ellix Katz_ twice. If you are interested in getting started with fermented vegetables or kefir, it is must see.
+
+![Fermentation Workshop with Sandor Ellix Katz](https://images-na.ssl-images-amazon.com/images/I/51syGck1syL.jpg) Fermentation Workshop with Sandor Ellix Katz is an almost 2 hour long workshop by the author of _Wild Fermentation._ It is an excellent presentation. Sandor covers history, health, different cultures, ideas for ferments and the science. And he does it all while making a vegetable ferment.
+
+I loved this DVD. There were no pauses. Sander is passionate about fermentation and covers a lot of information. Many of the ideas covered in the DVD are things I learned through trial and error. I would have loved to have gone back in time to when I first getting interested in fermentation and watched this presentation. Regardless, I still learned more.
+
+Not only was the demonstration educational, it was inspiring. Even though I've been making ferments for over two years now, I felt like jumping up and starting another ferment. [Actually, I did](/2011/10/kraut-cabbage-this-sucker-is-huge/). Sandor also covered making kefir, which is something I did a few times and then got out of the habit. Now I'm all fired up to resume making kefir again!
+
+Some topics covered in _Fermentation Workshop_ include:
 
 -   Nutrition and mineral bio-availability.
 -   An overview of different types of ferments.

@@ -9,7 +9,13 @@ description: "I am an enthusiastic supporter of High-Intensity Training (HIT). I
 commentCount: 18
 ---
 
-I am an enthusiastic supporter of High-Intensity Training (HIT). I've written many posts on the topic, but the one I haven't written is why it isn't more popular. I believe that good ideas spread and gain popularity. Poor ideas might be faddish for a while, but over time, they fade away. HIT has been around since the 1970s. It hasn't faded away, but it doesn't seem to be gaining any ground on traditional weightlifting programs. I've recently been thinking about why this is the case. HIT is sold as more effective, efficient, and safe than traditional weight lifting. But do most people who start a fitness plan care about all those attributes? I don't believe so. I would say the majority of those beginning a traditional weight training program are young and mostly male. They might be time-rich, so efficiency is not a priority. And because they are young and still invincible, safety is dismissed. As for effectiveness, almost all fitness programs can be effective in the short term, especially for beginners. If you are a young lifter looking to gain muscle and seeking role models, there will be far more examples using traditional weight lifting than HIT. Hell, I didn't even know what HIT was until 15 years after I first started lifting.
+I am an enthusiastic supporter of High-Intensity Training (HIT). I've written many posts on the topic, but the one I haven't written is why it isn't more popular. I believe that good ideas spread and gain popularity. Poor ideas might be faddish for a while, but over time, they fade away. HIT has been around since the 1970s. It hasn't faded away, but it doesn't seem to be gaining any ground on traditional weightlifting programs.
+
+I've recently been thinking about why this is the case. HIT is sold as more effective, efficient, and safe than traditional weight lifting. But do most people who start a fitness plan care about all those attributes? I don't believe so.
+
+I would say the majority of those beginning a traditional weight training program are young and mostly male. They might be time-rich, so efficiency is not a priority. And because they are young and still invincible, safety is dismissed. As for effectiveness, almost all fitness programs can be effective in the short term, especially for beginners.
+
+If you are a young lifter looking to gain muscle and seeking role models, there will be far more examples using traditional weight lifting than HIT. Hell, I didn't even know what HIT was until 15 years after I first started lifting.
 
 
 ### Attribution Bias
@@ -25,19 +31,37 @@ Because the vast majority of new lifters use traditional weightlifting programs 
 ### Volume Mindset
 
 
-There is a deeply ingrained belief in our collective fitness consciousness that more is better. If a 10K is healthy then a marathon is more healthy. Squat more. Do more reps. Workout longer. Exercise more times per week. We have industries built around keeping the message that more exercise is better. High-Intensity Training challenges the volume mindset. But like religion and politics, most people are unwilling to listen, test, or try it for themselves. They laugh at it. They'll recall the times they most the progress as the ones where they did the most. They won't question if they did too much or if what they were doing was sustainable or led to an injury. Overcoming the volume mindset is hard enough with an older adult, but next to impossible with the younger lifter. ![lift-weights](./img/lift-weights.jpg) _Photo by US Navy_ 
+There is a deeply ingrained belief in our collective fitness consciousness that more is better. If a 10K is healthy then a marathon is more healthy. Squat more. Do more reps. Workout longer. Exercise more times per week. We have industries built around keeping the message that more exercise is better.
+
+High-Intensity Training challenges the volume mindset. But like religion and politics, most people are unwilling to listen, test, or try it for themselves. They laugh at it. They'll recall the times they most the progress as the ones where they did the most. They won't question if they did too much or if what they were doing was sustainable or led to an injury.
+
+Overcoming the volume mindset is hard enough with an older adult, but next to impossible with the younger lifter.
+
+![lift-weights](./img/lift-weights.jpg)
+
+_Photo by US Navy_ 
 
 
 ### Coaches and Team Strength Trainers
 
 
-Let us imagine that you offered me a nice paying job as a strength coach for a college sports team. Would I remake the program with the HIT principles I believe in so deeply? Nope. Why not? Let us explore the incentives. If I switch the program to HIT and the team performs as well as before or even slightly better, there is no or very little upside for me. If however, the team does worse they will look for blame. What changed? Fire the radical strength coach. In the event the team sucks and I use a similar strength program that other schools are using then I'm less likely to be faulted. I see the safety benefits of HIT as becoming more pronounced over the years. They matter more to the average 30+ year-old than the 20-year-old gifted collegiate athlete. Young athletes bounce back quickly, so the safety advantage I believe HIT has is far less visible with that group. So there is little incentive to shake things up. These coaches and strength trainers serve as additional confirmation that traditional lifting is the better path, which may or may not be true.
+Let us imagine that you offered me a nice paying job as a strength coach for a college sports team. Would I remake the program with the HIT principles I believe in so deeply? Nope. Why not? Let us explore the incentives.
+
+If I switch the program to HIT and the team performs as well as before or even slightly better, there is no or very little upside for me. If however, the team does worse they will look for blame. What changed? Fire the radical strength coach. In the event the team sucks and I use a similar strength program that other schools are using then I'm less likely to be faulted.
+
+I see the safety benefits of HIT as becoming more pronounced over the years. They matter more to the average 30+ year-old than the 20-year-old gifted collegiate athlete. Young athletes bounce back quickly, so the safety advantage I believe HIT has is far less visible with that group. So there is little incentive to shake things up.
+
+These coaches and strength trainers serve as additional confirmation that traditional lifting is the better path, which may or may not be true.
 
 
 ### Can Be Expensive
 
 
-Hiring a HIT trainer in a HIT gym is not a trivial cost. Getting a membership to a regular gym and figuring out something on your own is cheaper. Now you can do HIT at a regular gym, but having a few sessions with an experienced HIT trainer is super valuable for understanding how to generate intensity. Young lifters tend to be time-rich and have less money. Hiring a HIT trainer is probably not the best use of their money. The benefits of a HIT trainer increase as one becomes busier and earns more money. Note that HIT doesn't have to be expensive. You can get Body By Science, [Hillfit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/), and/or [The New High-Intensity Training](/2011/05/the-new-high-intensity-training/) for not much money. Add in a few YouTube videos and you can start on a budget.
+Hiring a HIT trainer in a HIT gym is not a trivial cost. Getting a membership to a regular gym and figuring out something on your own is cheaper. Now you can do HIT at a regular gym, but having a few sessions with an experienced HIT trainer is super valuable for understanding how to generate intensity.
+
+Young lifters tend to be time-rich and have less money. Hiring a HIT trainer is probably not the best use of their money. The benefits of a HIT trainer increase as one becomes busier and earns more money.
+
+Note that HIT doesn't have to be expensive. You can get Body By Science, [Hillfit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/), and/or [The New High-Intensity Training](/2011/05/the-new-high-intensity-training/) for not much money. Add in a few YouTube videos and you can start on a budget.
 
 
 ### Can Be Boring
@@ -53,7 +77,9 @@ It took a year and a session at [Ideal Exercise](/2011/02/high-intensity-trainin
 ### Wrapping It Up
 
 
-There are more reasons why HIT is not that popular, but those are the most important. And although I am a fan of HIT, I completely understand why it will never be as popular as traditional lifting. I'm OK with that. It's not my battle. **[Part 2](/2015/05/why-isnt-high-intensity-training-more-popular-part-2/)**
+There are more reasons why HIT is not that popular, but those are the most important. And although I am a fan of HIT, I completely understand why it will never be as popular as traditional lifting. I'm OK with that. It's not my battle.
+
+**[Part 2](/2015/05/why-isnt-high-intensity-training-more-popular-part-2/)**
 
 ---
 

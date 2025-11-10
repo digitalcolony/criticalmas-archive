@@ -9,13 +9,25 @@ description: "My last post Scan, Encrypt, Store, Delete, Shred: Going Paperless!
 commentCount: 7
 ---
 
-My last post [Scan, Encrypt, Store, Delete, Shred: Going Paperless!](/2014/09/scan-encrypt-store-delete-shred-paperless/) was about physically securing sensitive data in my home. The other half of a security plan is securing your online accounts. I am not an expert on security. **My strategy is to be more secure than the vast majority of people on the Internet and do it in a way that is sustainable.** We all know the problem. We either use easy-to-remember passwords or we reuse passwords across different sites or we become a ball of stress trying to recall which password we used with which site. Then we save passwords in our email folder and hope that it doesn't get compromised. Technology is always changing. What might have been considered a secure password a few years ago is now trivially easy to hack. In a few years, there may be new guidelines on passwords, but right now **longer is better**. And every password should be unique. Sites are being hacked all the time. When a site is hacked, the usernames and passwords are tested against other sites. You don't want your health insurance password to be the same as your Amazon password and vice versa. I used to have a "tough" password for important sites and an "easy" password for sites I didn't care about. In retrospect that was a dumb approach. Compromise one of the important sites and the hackers could access all the other important sites. And my "tough" password was only 8 characters long with numbers and symbols, but because it wasn't in the dictionary I felt comfortable with it. Processors are much faster now. That "tough" password is now trivially easy to break. Wikipedia has a good page on [password strength](https://en.wikipedia.org/wiki/Password_strength) and [password cracking](https://en.wikipedia.org/wiki/Password_cracking). ![locks](./img/8272496548_2cf92bdb48_z.jpg) _[Photo](https://flic.kr/p/dB1H1Q) by Nathan Meijer_
+My last post [Scan, Encrypt, Store, Delete, Shred: Going Paperless!](/2014/09/scan-encrypt-store-delete-shred-paperless/) was about physically securing sensitive data in my home. The other half of a security plan is securing your online accounts. I am not an expert on security. **My strategy is to be more secure than the vast majority of people on the Internet and do it in a way that is sustainable.** We all know the problem. We either use easy-to-remember passwords or we reuse passwords across different sites or we become a ball of stress trying to recall which password we used with which site. Then we save passwords in our email folder and hope that it doesn't get compromised.
+
+Technology is always changing. What might have been considered a secure password a few years ago is now trivially easy to hack. In a few years, there may be new guidelines on passwords, but right now **longer is better**. And every password should be unique. Sites are being hacked all the time. When a site is hacked, the usernames and passwords are tested against other sites. You don't want your health insurance password to be the same as your Amazon password and vice versa.
+
+I used to have a "tough" password for important sites and an "easy" password for sites I didn't care about. In retrospect that was a dumb approach. Compromise one of the important sites and the hackers could access all the other important sites. And my "tough" password was only 8 characters long with numbers and symbols, but because it wasn't in the dictionary I felt comfortable with it. Processors are much faster now. That "tough" password is now trivially easy to break.
+
+Wikipedia has a good page on [password strength](https://en.wikipedia.org/wiki/Password_strength) and [password cracking](https://en.wikipedia.org/wiki/Password_cracking).
+
+![locks](./img/8272496548_2cf92bdb48_z.jpg)
+
+_[Photo](https://flic.kr/p/dB1H1Q) by Nathan Meijer_
 
 
 ### #1 Get a Password Manager
 
 
-Passwords that are tough to crack are impossible to remember. They are also hard to type correctly. Password Managers not only help remember the passwords you use for different sites, but they are able to generate very secure passwords on your behalf. A good password manager will also be able to run a security analysis on your passwords to alert you when you are reusing a password or when a password isn't secure enough. There are several Password Managers. This [CNET article](https://www.cnet.com/news/best-password-managers/) covers a few. Which one you pick will depend upon your needs and devices. I'm not going to tell you which is best. Again I am not a security expert. I will say that whichever one you use is a step up from reusing short passwords.
+Passwords that are tough to crack are impossible to remember. They are also hard to type correctly. Password Managers not only help remember the passwords you use for different sites, but they are able to generate very secure passwords on your behalf. A good password manager will also be able to run a security analysis on your passwords to alert you when you are reusing a password or when a password isn't secure enough.
+
+There are several Password Managers. This [CNET article](https://www.cnet.com/news/best-password-managers/) covers a few. Which one you pick will depend upon your needs and devices. I'm not going to tell you which is best. Again I am not a security expert. I will say that whichever one you use is a step up from reusing short passwords.
 
 
 ### #2 Create a Passphrase
@@ -41,7 +53,9 @@ You can't assume that some hacker doesn't already have one of your passwords alr
 
 **!v8e5hzMmCYWc9DADmy9**
 
-Thankfully I don't need to remember that or type it in by hand because that task is now handled by the password manager. If during this process you decide to close old accounts, still change the password first. You don't want your old insecure password sitting on a database table\* forgotten.
+Thankfully I don't need to remember that or type it in by hand because that task is now handled by the password manager.
+
+If during this process you decide to close old accounts, still change the password first. You don't want your old insecure password sitting on a database table\* forgotten.
 
 
 ### #5 Delete Old Emails
@@ -59,11 +73,17 @@ A good password manager will have a security test. Run it until you pass. Once y
 ### More Secure, But Not Perfect
 
 
-If you follow the above steps, you will be far more secure than the average person on the Internet. If one of your sites is compromised, the damage is contained. Some argue that the Password Manager becomes the weak point in security. Break that password and you have all the passwords. This is true. To minimize that risk, make sure your passphrase is secure (#2) and that you monitor developments in security from time to time. The article [“Severe” password manager attacks steal digital keys and data en masse](https://web.archive.org/web/20170720081300/https://arstechnica.com/security/2014/07/severe-password-manager-attacks-steal-digital-keys-and-data-en-masse/) talks about how some password managers were recently exploited. Most of the password managers were fixed. Despite those risks the article still advises:
+If you follow the above steps, you will be far more secure than the average person on the Internet. If one of your sites is compromised, the damage is contained. Some argue that the Password Manager becomes the weak point in security. Break that password and you have all the passwords. This is true. To minimize that risk, make sure your passphrase is secure (#2) and that you monitor developments in security from time to time.
+
+The article [“Severe” password manager attacks steal digital keys and data en masse](https://web.archive.org/web/20170720081300/https://arstechnica.com/security/2014/07/severe-password-manager-attacks-steal-digital-keys-and-data-en-masse/) talks about how some password managers were recently exploited. Most of the password managers were fixed. Despite those risks the article still advises:
 
 > On the whole, readers are likely better off using a password manager than they are using the same password for multiple sites. For that reason, Ars still recommends that people use a password manager. However, readers should remember that password managers represent a single point of failure that could lead to the complete compromise of virtually every website account they have. It's not possible to know which managers are safer than others without a trusted third-party conducting a detailed assessment on each one. That said, well-known managers that have been available for years are probably more trustworthy than a newer one that was recently introduced into the market.
 
-I put (2014) in the title of this post because I expect security strategies will change at some point. _\* When you create an account on a site, they are supposed to store your password in a secure manner. Meaning it should be encrypted on their database and not stored as plain text. That way if they are hacked and the hackers have a copy of the database, they won't be able to make use of the passwords. Unfortunately, not every site uses best practices. OKCupid was [storing 42 million user passwords in plain text](http://krebsonsecurity.com/2013/11/cupid-media-hack-exposed-42m-passwords/). This is a big reason why every password should be unique. I wonder how many of the OKCupid customers used the same password and email to access their online banking?_  **UPDATE 2017:** Check out this [Password Strength Tool](https://www.comparitech.com/privacy-security-tools/password-strength-test/) to get a feel for how secure your password might be.
+I put (2014) in the title of this post because I expect security strategies will change at some point.
+
+_\* When you create an account on a site, they are supposed to store your password in a secure manner. Meaning it should be encrypted on their database and not stored as plain text. That way if they are hacked and the hackers have a copy of the database, they won't be able to make use of the passwords. Unfortunately, not every site uses best practices. OKCupid was [storing 42 million user passwords in plain text](http://krebsonsecurity.com/2013/11/cupid-media-hack-exposed-42m-passwords/). This is a big reason why every password should be unique. I wonder how many of the OKCupid customers used the same password and email to access their online banking?_ 
+
+**UPDATE 2017:** Check out this [Password Strength Tool](https://www.comparitech.com/privacy-security-tools/password-strength-test/) to get a feel for how secure your password might be.
 
 ---
 

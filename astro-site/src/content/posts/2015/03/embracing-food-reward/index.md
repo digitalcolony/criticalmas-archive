@@ -9,7 +9,15 @@ description: "I mentioned at the end of the post Food Reward and Old School Body
 commentCount: 16
 ---
 
-I mentioned at the end of the post [Food Reward and Old School Bodybuilders](/2015/02/food-reward-and-old-school-bodybuilders/) that I would be testing the food reward theory for myself. There are several bloggers that get hung up on the definition of food reward. To me is simply that we tend to gain weight more easily on the foods that are easy to eat past satiety. Those foods tend to be processed and are often designed by food engineers. It is not a theory to explain all obesity, but one part of the puzzle. My goal is to see if I can lose 10-15 pounds without feeling hungry. The last time I lost weight, I was stacking different strategies, including lower carbs, intermittent fasting, cold exposure and cooking more food at home. Eating foods cooked at home lowered my food reward, but how important of a factor did it play? I aim to find out. **I will not be lowering my carbs.** In fact I plan to eat a lot of potatoes cooked plainly. I will also be pressuring cooking legumes. _Sorry Paleo, but you are wrong about legumes ([see #3](/2014/09/5-issues-personal-paleo-code/))._ There will be no [cold exposure](https://criticalmas.org/best-of/cold-weather-training/) and although I will be reducing my eating window, I do not plan to fast at the levels I did during my prior weight loss. Exercise levels will remain the same, which is two brief moderately intense machine based workouts a week plus walking. Unlike the last time, I will be monitoring my sleep quality and body temperature. If either decline, I will add back in higher food reward items. This strategy worked for me before. The biggest reason I am now embracing food reward is that it pretty much overlaps with so many other weight loss theories, so even if it is wrong, it won't be too wrong. You know I [like to hedge](/2015/01/approaching-fat-loss-like-investor/).
+I mentioned at the end of the post [Food Reward and Old School Bodybuilders](/2015/02/food-reward-and-old-school-bodybuilders/) that I would be testing the food reward theory for myself. There are several bloggers that get hung up on the definition of food reward. To me is simply that we tend to gain weight more easily on the foods that are easy to eat past satiety. Those foods tend to be processed and are often designed by food engineers. It is not a theory to explain all obesity, but one part of the puzzle.
+
+My goal is to see if I can lose 10-15 pounds without feeling hungry. The last time I lost weight, I was stacking different strategies, including lower carbs, intermittent fasting, cold exposure and cooking more food at home. Eating foods cooked at home lowered my food reward, but how important of a factor did it play? I aim to find out.
+
+**I will not be lowering my carbs.** In fact I plan to eat a lot of potatoes cooked plainly. I will also be pressuring cooking legumes. _Sorry Paleo, but you are wrong about legumes ([see #3](/2014/09/5-issues-personal-paleo-code/))._ There will be no [cold exposure](https://criticalmas.org/best-of/cold-weather-training/) and although I will be reducing my eating window, I do not plan to fast at the levels I did during my prior weight loss. Exercise levels will remain the same, which is two brief moderately intense machine based workouts a week plus walking.
+
+Unlike the last time, I will be monitoring my sleep quality and body temperature. If either decline, I will add back in higher food reward items. This strategy worked for me before.
+
+The biggest reason I am now embracing food reward is that it pretty much overlaps with so many other weight loss theories, so even if it is wrong, it won't be too wrong. You know I [like to hedge](/2015/01/approaching-fat-loss-like-investor/).
 
 
 ### My Food Reward Fat Loss Plan
@@ -35,7 +43,11 @@ I might also experiment with the idea of flavorless calories from the book [The
 
 > At least an hour before one of your meals, consume unflavored sugar water and/or Extra Light Olive Oil. Both of these foods are flavorless and provide calories.
 
-The one thing I am not clear about is if the hour before and hour after blocks are just calorie free or all flavor free. I gave my book away, so I can't look this up. I ask this question because I have my last coffee between 2 PM and 3 PM. The coffee has no calories, but a strong flavor signal. Does anyone know if it is the absense of calories or the absence of flavor signals that makes this technique work? ![potatoes](./img/4499242134_167ddd0655_z.jpg) _[Photo](https://flic.kr/p/7RzMWf) by Brian Hoffman_
+The one thing I am not clear about is if the hour before and hour after blocks are just calorie free or all flavor free. I gave my book away, so I can't look this up. I ask this question because I have my last coffee between 2 PM and 3 PM. The coffee has no calories, but a strong flavor signal. Does anyone know if it is the absense of calories or the absence of flavor signals that makes this technique work?
+
+![potatoes](./img/4499242134_167ddd0655_z.jpg)
+
+_[Photo](https://flic.kr/p/7RzMWf) by Brian Hoffman_
 
 ---
 

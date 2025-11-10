@@ -20,37 +20,83 @@ What does "serious" weight loss even mean? I don't know. There were two phases o
 1.  222 to 200: This was the original goal. I thought 200 would be a good weight for me given my height 6 ft 2.5 in.
 2.  200 to 180: The skills and habits I developed in phase one caused me to effortlessly glide down to 180. I discovered that 180 was a perfect weight for me.
 
-Looking back I would say that Phase 1 was my "serious" weight loss. Phase 2 was my Red Zone weight loss. Red Zone is a football term when a team's offense is inside their opponent's 20-yard line. Because the defense has less field to defend, it is harder to make gains here. The same is true with fat loss. As you get leaner, your metabolism drops and it gets harder to lose weight. In my diet, the Red Zone was 20 pounds out. Again I was flying blind. There was never a goal to hit 180. I increased my protein intake when I entered the Red Zone. I did several posts on [Potato and Protein](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/). Was 20 pounds the correct path? I don't know. Maybe 30 pounds would have been better. Why split the two phases? Because they likely will require different strategies.
+Looking back I would say that Phase 1 was my "serious" weight loss. Phase 2 was my Red Zone weight loss. Red Zone is a football term when a team's offense is inside their opponent's 20-yard line. Because the defense has less field to defend, it is harder to make gains here. The same is true with fat loss. As you get leaner, your metabolism drops and it gets harder to lose weight.
+
+In my diet, the Red Zone was 20 pounds out. Again I was flying blind. There was never a goal to hit 180. I increased my protein intake when I entered the Red Zone. I did several posts on [Potato and Protein](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/). Was 20 pounds the correct path? I don't know. Maybe 30 pounds would have been better.
+
+Why split the two phases? Because they likely will require different strategies.
 
 
 ### The Basics
 
 
-I would follow a [low-fat diet](/2022/02/in-defense-of-low-fat-dieting/) using whole foods that taste OK and minimize the consumption of delicious foods. Eat boring, high-volume, fiber-rich foods. **Eat to satiety at every meal.** Yes, this means the [Potato Diet](https://potatohack.com/) and the [Modern Peasant Diet](/2016/11/designing-modern-peasant-diet/). Initially, you probably won't lose as much weight as you would restricting delicious foods and feeling a little hunger, because you are not restricting calories. However, you are training your brain to not associate eating with entertainment. When the flavor signals are lowered meal after meal, appetite will naturally drop. I highly recommend the book [The Hungry Brain: Outsmarting the Instincts That Make Us Overeat](https://www.stephanguyenet.com/thehungrybrain/) by Stephan J. Guyenet Ph.D. for a deeper explanation of this concept. Great-tasting food causes us to overeat. We always have room for an extra slice of pizza or a bowl of ice cream, yet we get full with boiled potatoes rather quickly. We consume fewer calories when the food has less flavor. Eat slower. A few people have mentioned that they got nauseous eating potatoes. Eat slower. One bite at a time. Add salt and Tabasco if you need to. Prepare most (or all) of your food. Get an Instant Pot and maybe an Air Fryer. Prep food like a bodybuilder. Focus on staples, not novelty. Stock your [pantry full of the non-perishables](/2024/03/whats-inside-my-pantry-and-fridge/) you'll be eating. My shelves are packed with legumes (canned and dried), quinoa, buckwheat groats, steel-cut oats, salsa, canned tomatoes, tomato paste, TVP, broth, sardines, and canned salmon. If I handled gluten, I'd have bags of farro, kumut, and couscous. Eating a plate of veggies over a whole grain or potatoes fills me up with very few calories. No liquid calories. This includes soft drinks and alcohol. If you are a fan of those beverages, cut your intake by 50%. And then every so often, cut by another 50% until you are free. ![](./img/potato-in-bowl.jpg)
+I would follow a [low-fat diet](/2022/02/in-defense-of-low-fat-dieting/) using whole foods that taste OK and minimize the consumption of delicious foods. Eat boring, high-volume, fiber-rich foods. **Eat to satiety at every meal.** Yes, this means the [Potato Diet](https://potatohack.com/) and the [Modern Peasant Diet](/2016/11/designing-modern-peasant-diet/).
+
+Initially, you probably won't lose as much weight as you would restricting delicious foods and feeling a little hunger, because you are not restricting calories. However, you are training your brain to not associate eating with entertainment. When the flavor signals are lowered meal after meal, appetite will naturally drop.
+
+I highly recommend the book [The Hungry Brain: Outsmarting the Instincts That Make Us Overeat](https://www.stephanguyenet.com/thehungrybrain/) by Stephan J. Guyenet Ph.D. for a deeper explanation of this concept.
+
+Great-tasting food causes us to overeat. We always have room for an extra slice of pizza or a bowl of ice cream, yet we get full with boiled potatoes rather quickly. We consume fewer calories when the food has less flavor.
+
+Eat slower. A few people have mentioned that they got nauseous eating potatoes. Eat slower. One bite at a time. Add salt and Tabasco if you need to.
+
+Prepare most (or all) of your food. Get an Instant Pot and maybe an Air Fryer. Prep food like a bodybuilder. Focus on staples, not novelty.
+
+Stock your [pantry full of the non-perishables](/2024/03/whats-inside-my-pantry-and-fridge/) you'll be eating. My shelves are packed with legumes (canned and dried), quinoa, buckwheat groats, steel-cut oats, salsa, canned tomatoes, tomato paste, TVP, broth, sardines, and canned salmon. If I handled gluten, I'd have bags of farro, kumut, and couscous.
+
+Eating a plate of veggies over a whole grain or potatoes fills me up with very few calories.
+
+No liquid calories. This includes soft drinks and alcohol. If you are a fan of those beverages, cut your intake by 50%. And then every so often, cut by another 50% until you are free.
+
+![](./img/potato-in-bowl.jpg)
 
 
 ### Protein
 
 
-Protein is the cool kid in nutrition right now. However, if I had a lot of weight to lose, I would keep protein low during the "serious" Phase One. I would only increase protein once I got close to the Red Zone or if I needed additional help lowering my appetite. Restricting protein has the benefit of [triggering cellular repair](/2018/11/simplified-fasting-mimicking-diet-protein-cycling-diet/). If the person has a lot of weight to lose, restricting protein could minimize the amount of extra skin at the end of the diet, as the body would recycle those amino acids. See the post [More Thoughts on High Volume or High Protein For Fat Loss](/2017/08/thoughts-high-volume-high-protein-fat-loss/) for more details. The protein restriction doesn't need to be every day or every meal. Dial in what works best for you.
+Protein is the cool kid in nutrition right now. However, if I had a lot of weight to lose, I would keep protein low during the "serious" Phase One.
+
+I would only increase protein once I got close to the Red Zone or if I needed additional help lowering my appetite.
+
+Restricting protein has the benefit of [triggering cellular repair](/2018/11/simplified-fasting-mimicking-diet-protein-cycling-diet/). If the person has a lot of weight to lose, restricting protein could minimize the amount of extra skin at the end of the diet, as the body would recycle those amino acids. See the post [More Thoughts on High Volume or High Protein For Fat Loss](/2017/08/thoughts-high-volume-high-protein-fat-loss/) for more details.
+
+The protein restriction doesn't need to be every day or every meal. Dial in what works best for you.
 
 
 ### Exercise and Heat
 
 
-Another mistake dieters make is they start exercising at the same time they are cutting calories. Does this work? Yes. For a while. Then hunger spikes and life becomes miserable. You'll make far more progress on weight loss in the kitchen than in the gym. For Phase One "serious" fat loss, limit exercise. As you get leaner, slowly add in exercise. The goal of Phase One is to minimize hunger not to "burn" calories. Go for walks and stretch. Figure out how to get warmer. See the post [Temperature and Appetite](/2023/10/temperature-and-appetite/) for details. Saunas would be a great tool, just ease into them gradually.
+Another mistake dieters make is they start exercising at the same time they are cutting calories. Does this work? Yes. For a while. Then hunger spikes and life becomes miserable. You'll make far more progress on weight loss in the kitchen than in the gym.
+
+For Phase One "serious" fat loss, limit exercise. As you get leaner, slowly add in exercise. The goal of Phase One is to minimize hunger not to "burn" calories. Go for walks and stretch.
+
+Figure out how to get warmer. See the post [Temperature and Appetite](/2023/10/temperature-and-appetite/) for details. Saunas would be a great tool, just ease into them gradually.
 
 
 ### Fasting / Detox
 
 
-A few months ago, I posted about how the fitness bros have been [dunking on fasting](/2023/04/more-protein-and-the-fasting-backlash/) recently in favor of eating protein throughout the day. This seems like fine advice if you are already lean (or older). However, we know that [very little muscle is lost when heavy people diet](/2017/08/high-volume-high-protein-foods-fat-loss/), so there is no reason to fear fasting. It is a solid tool, but it can also be difficult and make you feel like crap. Here is how I would use fasting. I would gradually reduce my daily eating window. First to 12 hours. Then to 10. Maybe get down to 8 hours. There is no need to rush. Once you can eat in a reduced eating window, start planning for a longer fast of a day or two. Instead of a pure water fast, consume some steamed cabbage and maybe an avocado or two. Why? This will keep your protein levels low while providing the body with some fiber that will help eliminate some of the toxins liberated during fat burning. See my post [Detoxification Notes (Science Not Woo-Woo)](/2018/04/detoxification-notes-science-not-woo-woo/) for more details. I would also [donate blood every 56 days](/2022/07/seed-oils-blood-donations-and-body-temperature/).
+A few months ago, I posted about how the fitness bros have been [dunking on fasting](/2023/04/more-protein-and-the-fasting-backlash/) recently in favor of eating protein throughout the day. This seems like fine advice if you are already lean (or older).
+
+However, we know that [very little muscle is lost when heavy people diet](/2017/08/high-volume-high-protein-foods-fat-loss/), so there is no reason to fear fasting. It is a solid tool, but it can also be difficult and make you feel like crap.
+
+Here is how I would use fasting. I would gradually reduce my daily eating window. First to 12 hours. Then to 10. Maybe get down to 8 hours. There is no need to rush.
+
+Once you can eat in a reduced eating window, start planning for a longer fast of a day or two. Instead of a pure water fast, consume some steamed cabbage and maybe an avocado or two. Why? This will keep your protein levels low while providing the body with some fiber that will help eliminate some of the toxins liberated during fat burning. See my post [Detoxification Notes (Science Not Woo-Woo)](/2018/04/detoxification-notes-science-not-woo-woo/) for more details.
+
+I would also [donate blood every 56 days](/2022/07/seed-oils-blood-donations-and-body-temperature/).
 
 
 ### Worked For Me
 
 
-I bored myself thin with nutrient-dense high-volume fiber-rich foods. I was never hungry and my appetite fell to support my ideal weight. There are certainly other ways to lose weight. However, most will fail to maintain the weight loss after 4 years (80% failure rate), whereas I've effortlessly maintained my loss for years now. For more info on how I think about satiety see my posts [Should one ever diet?](/2021/06/should-one-ever-diet/) and [Approach Fat Loss Like You Would Approach a Cat](/2018/05/approach-fat-loss-like-you-would-approach-a-cat/). Any questions? UPDATE: Exfatloss posted [Response: How Critical MAS would tackle serious weight loss](https://www.exfatloss.com/p/response-how-critical-mas-would-tackle)
+I bored myself thin with nutrient-dense high-volume fiber-rich foods. I was never hungry and my appetite fell to support my ideal weight. There are certainly other ways to lose weight. However, most will fail to maintain the weight loss after 4 years (80% failure rate), whereas I've effortlessly maintained my loss for years now.
+
+For more info on how I think about satiety see my posts [Should one ever diet?](/2021/06/should-one-ever-diet/) and [Approach Fat Loss Like You Would Approach a Cat](/2018/05/approach-fat-loss-like-you-would-approach-a-cat/).
+
+Any questions?
+
+UPDATE: Exfatloss posted [Response: How Critical MAS would tackle serious weight loss](https://www.exfatloss.com/p/response-how-critical-mas-would-tackle)
 
 ---
 

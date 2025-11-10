@@ -9,7 +9,11 @@ description: "Even though I no longer workout at a Glitter Gym, sometimes elemen
 commentCount: 2
 ---
 
-Even though I [no longer](/2008/01/leaving-the-glitter-embracing-the-rust/) workout at a Glitter Gym, sometimes elements of _glitter_ rear their head. On a recent trip to the gym I was doing sit-ups when I overheard an older couple arguing. The woman was reading a flier posted on the wall. Our gym is sponsoring a body-fat test using the highly accurate water dunk method for around $50. The wife kept reading the flier with interest. The husband kept saying _we already discussed this_ and _we aren't getting the test_. This went back and forth for a while until the woman looked at me and asked my opinion. Getting put in the middle of a marital fight was a Glitter Gym first for me. My response to the woman went something like this:
+Even though I [no longer](/2008/01/leaving-the-glitter-embracing-the-rust/) workout at a Glitter Gym, sometimes elements of _glitter_ rear their head. On a recent trip to the gym I was doing sit-ups when I overheard an older couple arguing. The woman was reading a flier posted on the wall. Our gym is sponsoring a body-fat test using the highly accurate water dunk method for around $50.
+
+The wife kept reading the flier with interest. The husband kept saying _we already discussed this_ and _we aren't getting the test_. This went back and forth for a while until the woman looked at me and asked my opinion. Getting put in the middle of a marital fight was a Glitter Gym first for me.
+
+My response to the woman went something like this:
 
 > The water dunk body-fat test is highly accurate, but a completely useless number for anyone other than Olympic athletes. The best body-fat test is not the one that is the most accurate, but the one you can get done on a regular basis. Since most people don't have access to regular body-fat tests, a simple tape measure is the best and cheapest tool. If you lose inches around your waist then there is a high probability your body fat is dropping. So I think the $50 is waste of money.
 

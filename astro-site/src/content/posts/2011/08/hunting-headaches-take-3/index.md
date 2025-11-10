@@ -9,19 +9,29 @@ description: "This has been a rough summer for me. Things haven't turned out as 
 commentCount: 24
 ---
 
-This has been a rough summer for me. Things haven't turned out as I expected. In addition to personal and financial setbacks, I still have not solved the riddle of my headaches. When I began actively researching a solution to my headaches back in March, I had high confidence that I'd figure it out. After all, I cured my rosacea, gotten leaner, and solved my back pain. All I needed was more data. Well, not only have I not solved my headache problem, it has gotten worse. And although the advice I have been getting is well-intentioned, most ignores the conditions I've described or strategies I've tested already. Also, my goal is not to cure the pain once it surfaces, but to prevent it from occurring. Removing the headache is simple. I just lift my head into an upright position and be patient. But, that sucks when it is 3 AM and you really want to sleep.
+This has been a rough summer for me. Things haven't turned out as I expected. In addition to personal and financial setbacks, I still have not solved the riddle of my headaches. When I began actively researching a solution to my headaches back in March, I had high confidence that I'd figure it out. After all, I cured my rosacea, gotten leaner, and solved my back pain. All I needed was more data.
+
+Well, not only have I not solved my headache problem, it has gotten worse. And although the advice I have been getting is well-intentioned, most ignores the conditions I've described or strategies I've tested already. Also, my goal is not to cure the pain once it surfaces, but to prevent it from occurring. Removing the headache is simple. I just lift my head into an upright position and be patient. But, that sucks when it is 3 AM and you really want to sleep.
 
 
 ### Background
 
 
-[Hunting Headaches](/2011/07/hunting-headaches/) - Background describing headaches and my initial efforts. [Hunting Headaches Take 2](/2011/07/hunting-headaches-take-2/) - Four new strategies. [30 Days Without Cheese](/2011/08/30-days-without-cheese/) - Eliminating tyramine as a cause. [My Headache Journal](http://tinyurl.com/my-headaches) - Data going back to March 24, 2011.
+[Hunting Headaches](/2011/07/hunting-headaches/) - Background describing headaches and my initial efforts.
+
+[Hunting Headaches Take 2](/2011/07/hunting-headaches-take-2/) - Four new strategies.
+
+[30 Days Without Cheese](/2011/08/30-days-without-cheese/) - Eliminating tyramine as a cause.
+
+[My Headache Journal](http://tinyurl.com/my-headaches) - Data going back to March 24, 2011.
 
 
 ### It's Not a Tumor
 
 
-A few have suggested that I immediately seek out medical care, because it may be a tumor or something equally dangerous. I looked into this and I have none of the symptoms that are common in those with brain tumors or that have neurological damage. Having me throw away $10,000 to eliminate a slim possibility is not going to happen. Also, it doesn't explain why my sister gets the same headaches unless we both have the same exact rare condition. Ridiculously slim odds. I know we live in a fear-mongering climate, but I do not consider my headaches to be an emergency situation. I've had them for many years and all other aspects of my health are stellar. So, I'm not surrendering to medical professionals. At the point where I've exhausted all avenues, I will. I'm not there yet.
+A few have suggested that I immediately seek out medical care, because it may be a tumor or something equally dangerous. I looked into this and I have none of the symptoms that are common in those with brain tumors or that have neurological damage. Having me throw away $10,000 to eliminate a slim possibility is not going to happen. Also, it doesn't explain why my sister gets the same headaches unless we both have the same exact rare condition. Ridiculously slim odds.
+
+I know we live in a fear-mongering climate, but I do not consider my headaches to be an emergency situation. I've had them for many years and all other aspects of my health are stellar. So, I'm not surrendering to medical professionals. At the point where I've exhausted all avenues, I will. I'm not there yet.
 
 
 ### Dietary or Environmental?
@@ -39,7 +49,15 @@ Although I haven't solved my headaches, I have eliminated many potential causes 
 ### The Next 30 Day Test
 
 
-It is time to bring out the big guns. I've tried many supplements and none have demonstrated that they can reduce the intensity or frequency of my headaches. Combine this with the fact that I already eat super clean and I'm coming to the conclusion that it is not a nutrient deficiency. If there is a dietary component, then it is likely something I'm consuming regularly that my body sees as problematic. There are two potential causes that come to mind: dairy and caffeine. They are also consumed by my sister as well. My plan all along was to get off the caffeine this summer, but it has proven way too difficult for a number of reasons. And please don't comment that my sinus headaches are really caffeine withdrawal. They aren't in the same region of the head and they feel completely different. Caffeine headaches are trivial compared to what I'm going through. Also, I recently did a test where I consumed low doses of caffeine during the night. It made no difference. That leaves dairy. Dairy is mentioned as a common sinus allergen in the book _Healing Your Sinuses_. So is wheat and since I've already determined that wheat makes my sinus problems worse, logically it makes sense to test dairy next. I can't recall a single day in my life that I didn't have some dairy. I am going to eliminate all dairy for 30 Days and then monitor my outcomes. I'll also keep striving to reduce caffeine and practice stress reduction, especially on days where I wake up without a headache. The hunt continues!
+It is time to bring out the big guns. I've tried many supplements and none have demonstrated that they can reduce the intensity or frequency of my headaches. Combine this with the fact that I already eat super clean and I'm coming to the conclusion that it is not a nutrient deficiency. If there is a dietary component, then it is likely something I'm consuming regularly that my body sees as problematic.
+
+There are two potential causes that come to mind: dairy and caffeine. They are also consumed by my sister as well. My plan all along was to get off the caffeine this summer, but it has proven way too difficult for a number of reasons. And please don't comment that my sinus headaches are really caffeine withdrawal. They aren't in the same region of the head and they feel completely different. Caffeine headaches are trivial compared to what I'm going through. Also, I recently did a test where I consumed low doses of caffeine during the night. It made no difference.
+
+That leaves dairy. Dairy is mentioned as a common sinus allergen in the book _Healing Your Sinuses_. So is wheat and since I've already determined that wheat makes my sinus problems worse, logically it makes sense to test dairy next. I can't recall a single day in my life that I didn't have some dairy.
+
+I am going to eliminate all dairy for 30 Days and then monitor my outcomes.
+
+I'll also keep striving to reduce caffeine and practice stress reduction, especially on days where I wake up without a headache. The hunt continues!
 
 ---
 

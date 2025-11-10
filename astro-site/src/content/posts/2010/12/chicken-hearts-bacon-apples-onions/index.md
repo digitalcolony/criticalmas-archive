@@ -9,7 +9,19 @@ description: "I got this recipe idea from my friend Sue in Portland. Turns out c
 commentCount: 2
 ---
 
-I got this recipe idea from my friend Sue in Portland. Turns out chicken hearts are loaded with that miracle nutrient Co-enzyme Q10 (aka Co Q 10). According to the Wikipedia, it is really good for [heart health](https://en.wikipedia.org/wiki/Coenzyme_Q10#Supplementation_benefits) (yours, not the chicken). :) ![cut-onions](./img/cut-onions.jpg) ![cut-apples](./img/cut-apples.jpg) ![bacon](./img/bacon.jpg) ![chicken-hearts](./img/chicken-hearts.jpg) ![chicken-hearts-bacon](./img/chicken-hearts-bacon1.jpg) Chicken hearts taste like a milder version of chicken livers, which is why adding the apples and bacon helps round out the flavor.
+I got this recipe idea from my friend Sue in Portland. Turns out chicken hearts are loaded with that miracle nutrient Co-enzyme Q10 (aka Co Q 10). According to the Wikipedia, it is really good for [heart health](https://en.wikipedia.org/wiki/Coenzyme_Q10#Supplementation_benefits) (yours, not the chicken). :)
+
+![cut-onions](./img/cut-onions.jpg)
+
+![cut-apples](./img/cut-apples.jpg)
+
+![bacon](./img/bacon.jpg)
+
+![chicken-hearts](./img/chicken-hearts.jpg)
+
+![chicken-hearts-bacon](./img/chicken-hearts-bacon1.jpg)
+
+Chicken hearts taste like a milder version of chicken livers, which is why adding the apples and bacon helps round out the flavor.
 
 ---
 

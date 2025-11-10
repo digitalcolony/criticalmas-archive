@@ -9,7 +9,11 @@ description: "2019 UPDATE: This post has not aged well. There is a lot I would r
 commentCount: 15
 ---
 
-_**2019 UPDATE:** This post has not aged well. There is a lot I would remove or change. It is only remaining on the site for archival purposes._ It is true that I [no longer](/2008/07/im-not-a-vegetarian/) follow a vegetarian diet. It wasn't right for me. But that is not what this post is about. In the past few years, I've learned how I could have done the vegetarian diet better. I want to share some of those ideas with vegetarians and at the end of the post vegans. Vegetarians are 100% right when they reject factory farm meat. The reasons are numerous. However, rejecting a class of unhealthy foods doesn't automatically make a diet healthy. Here are the steps I would take to improve the nutritional quality of the typical vegetarian diet. Note that I am not endorsing a vegetarian diet, nor am I condemning it.
+_**2019 UPDATE:** This post has not aged well. There is a lot I would remove or change. It is only remaining on the site for archival purposes._
+
+It is true that I [no longer](/2008/07/im-not-a-vegetarian/) follow a vegetarian diet. It wasn't right for me. But that is not what this post is about. In the past few years, I've learned how I could have done the vegetarian diet better. I want to share some of those ideas with vegetarians and at the end of the post vegans.
+
+Vegetarians are 100% right when they reject factory farm meat. The reasons are numerous. However, rejecting a class of unhealthy foods doesn't automatically make a diet healthy. Here are the steps I would take to improve the nutritional quality of the typical vegetarian diet. Note that I am not endorsing a vegetarian diet, nor am I condemning it.
 
 1.  **Avoid Soy** - Soy is not healthy. This highly processed "food" makes billions for big agriculture, but can play hell on your health. It is unfortunate that soy is peddled as the healthy anti-meat alternative. It is criminal that soy is fed to infants and children. The only safe soy is the occasional fermented soy, such as [natto](/2013/12/natto/) or miso soup.
 2.  **Cook With Coconut Oil, Palm Oil, and Butter** - Throw out your corn oil, soybean, canola, and other vegetable oils. Industrial seed oils are highly inflammatory. Olive oil is good for salads, but due to its low smoke point is not ideal for cooking.
@@ -27,7 +31,13 @@ And now for the vegans.
 3.  **Consider Moving or Winter Vacations** - The further one is from the Equator, the less natural a vegetarian diet becomes. Closer to the Equator plants grow year-round without having to deal with winter. The sun rains down Vitamin D year-round. As cultures move further away from their Equator, their diet increases in animal sources. Animal fat has all the vitamins of plants (except Vitamin C\*\*). If being a vegan and living in harmony with the local environment is important, then choosing to be where plant growth is supported year-round might be a consideration. Or you could head to vegan-friendly areas like Thailand for your winter vacation. :)
 4.  **Vitamin K2** - The evidence is pouring in that Vitamin K2 is essential to good health and preventing cancers. Vitamin K1, which is abundant in green leafy vegetables is not the same thing and the body can only convert a small amount to K2. To stay vegan and get this nutrient, eat fermented foods such as natto or kimchi. I make my own [kimchi](/2011/03/kimchi-101/), which is super easy to do. Fermented foods promote good gut flora and are very nutrient-dense.
 
-![veggies](./img/52743337_6669d801c8_z.jpg)_[Photo](https://flic.kr/p/5EjKT) by Danny O._ Note that all these tips are not restricted to vegetarians or vegans. Provided the person doesn't have a specific food allergy, they should work for anyone. Did I miss anything? _\*\* DECEMBER 2011 UPDATE: Correction, organ meat such as liver does contain Vitamin C. However, cooking it destroys most of it. Some people (me) will occasionally eat small pieces of raw beef liver (after being frozen for 14+ days)._ For a much better article on this topic, **please read [For Vegans](https://deniseminger.com/for-vegans/) by Denise Minger**. She is way smarter than me and brings up a few issues I was unaware of.
+![veggies](./img/52743337_6669d801c8_z.jpg)_[Photo](https://flic.kr/p/5EjKT) by Danny O._
+
+Note that all these tips are not restricted to vegetarians or vegans. Provided the person doesn't have a specific food allergy, they should work for anyone. Did I miss anything?
+
+_\*\* DECEMBER 2011 UPDATE: Correction, organ meat such as liver does contain Vitamin C. However, cooking it destroys most of it. Some people (me) will occasionally eat small pieces of raw beef liver (after being frozen for 14+ days)._
+
+For a much better article on this topic, **please read [For Vegans](https://deniseminger.com/for-vegans/) by Denise Minger**. She is way smarter than me and brings up a few issues I was unaware of.
 
 ---
 

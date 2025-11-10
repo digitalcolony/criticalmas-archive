@@ -13,7 +13,17 @@ In 2008 I did something that completely changed my outlook on personal health. I
 
 > In the end, I decided that I needed to know if Intermittent Fasting would work for me. Both sides of the IF debate knew more science and nutrition than me. Only my own tests would answer the question. If I lost muscle or strength, I could end the experiment and resume the old way.
 
-In the past 3 years, I've learned much about what fasting levels work best for me. And it was all because I embraced self-experimentation. Self-experimentation is empowering. Instead of surrendering to experts, you take charge, because no health professional will know your body better than you. Now to be clear, I am not referring to emergencies. If I get hit by a bus, I'll go to the Emergency Room, not PubMed. ![](./img/experiment-spreadsheet.gif "experiment-spreadsheet") _A snapshot of data from my most recent self experiment._ During the same time I was having success with [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/), I did self-experiments with [Cold Weather Training](https://criticalmas.org/best-of/cold-weather-training/) and a low carbohydrate diet. Both were successful. My health was improving and it was a direct result of my self-experiments. Later I would [cure my rosacea](/2011/04/be-your-own-dermatologist/) by eliminating wheat from my diet. Currently, I am tracking variables that may or may not be contributing to my [sinus headaches](/2011/08/hunting-headaches-take-3/). **Every experiment is a success because even if it doesn't get you the results you expected, you've learned something new about yourself.** In a speech titled _Self-experimentation: the best science_ at the Ancestral Health Symposium, fellow Paleo blogger [Richard Nikoley](https://freetheanimal.com/) said this about the motivation and philosophy behind self experimenting:
+In the past 3 years, I've learned much about what fasting levels work best for me. And it was all because I embraced self-experimentation. Self-experimentation is empowering. Instead of surrendering to experts, you take charge, because no health professional will know your body better than you. Now to be clear, I am not referring to emergencies. If I get hit by a bus, I'll go to the Emergency Room, not PubMed.
+
+![](./img/experiment-spreadsheet.gif "experiment-spreadsheet")
+
+_A snapshot of data from my most recent self experiment._
+
+During the same time I was having success with [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/), I did self-experiments with [Cold Weather Training](https://criticalmas.org/best-of/cold-weather-training/) and a low carbohydrate diet. Both were successful. My health was improving and it was a direct result of my self-experiments. Later I would [cure my rosacea](/2011/04/be-your-own-dermatologist/) by eliminating wheat from my diet. Currently, I am tracking variables that may or may not be contributing to my [sinus headaches](/2011/08/hunting-headaches-take-3/).
+
+**Every experiment is a success because even if it doesn't get you the results you expected, you've learned something new about yourself.**
+
+In a speech titled _Self-experimentation: the best science_ at the Ancestral Health Symposium, fellow Paleo blogger [Richard Nikoley](https://freetheanimal.com/) said this about the motivation and philosophy behind self experimenting:
 
 > ...I got to figure this out for myself. And it is a process of learning, trying, experimenting, moving on - without any authorities. There are no authorities, what there is is information.
 

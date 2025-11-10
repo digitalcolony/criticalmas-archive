@@ -9,7 +9,19 @@ description: "I was poking around on Kayotic Kitchen and I found a recipe for Sl
 commentCount: 4
 ---
 
-I was poking around on _Kayotic Kitchen_ and I found a recipe for Slow-Cooked Bombay Potatoes. It was a great idea, but I didn't have any potatoes. What I did have was a lot of cauliflower. Instead of making a single dish, I loaded up my slow cooker and [made the dish in bulk](http://escapetheherdblog.blogspot.com/2012/06/it-pays-to-cook-in-bulk.html). Usually, I never would do a larger quantity the first time I make a dish, but I was fairly confident that it would turn out good. And it did. Cauliflower cooks faster than potatoes, so this dish was done in just 2 hours. All slow cookers are different. Taste as you go and stop the cook when it has the texture you like. ![spicy-cauliflower](./img/spicy-cauliflower.jpg) _Indian Style Spicy Cauliflower_ I was proud of the dish but it needed some protein. So I threw in some sardines. [Sardines are super healthy](http://theprimalsexy.wordpress.com/2012/06/21/i-3-sardines/) provided they aren't soaked in soybean oil. They also mixed nicely with the spices. Just remember to drain the water before adding them to the cauliflower. ![spicy-cauliflower-with-sardine](./img/spicy-cauliflower-with-sardine.jpg) _Indian Style Spicy Cauliflower with Sardines_
+I was poking around on _Kayotic Kitchen_ and I found a recipe for Slow-Cooked Bombay Potatoes. It was a great idea, but I didn't have any potatoes. What I did have was a lot of cauliflower. Instead of making a single dish, I loaded up my slow cooker and [made the dish in bulk](http://escapetheherdblog.blogspot.com/2012/06/it-pays-to-cook-in-bulk.html). Usually, I never would do a larger quantity the first time I make a dish, but I was fairly confident that it would turn out good. And it did.
+
+Cauliflower cooks faster than potatoes, so this dish was done in just 2 hours. All slow cookers are different. Taste as you go and stop the cook when it has the texture you like.
+
+![spicy-cauliflower](./img/spicy-cauliflower.jpg)
+
+_Indian Style Spicy Cauliflower_
+
+I was proud of the dish but it needed some protein. So I threw in some sardines. [Sardines are super healthy](http://theprimalsexy.wordpress.com/2012/06/21/i-3-sardines/) provided they aren't soaked in soybean oil. They also mixed nicely with the spices. Just remember to drain the water before adding them to the cauliflower.
+
+![spicy-cauliflower-with-sardine](./img/spicy-cauliflower-with-sardine.jpg)
+
+_Indian Style Spicy Cauliflower with Sardines_
 
 ---
 

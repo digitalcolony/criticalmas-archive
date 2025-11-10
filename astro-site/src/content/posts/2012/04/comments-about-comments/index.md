@@ -9,7 +9,13 @@ description: "This site recently passed a great milestone of having over 5,000 c
 commentCount: 7
 ---
 
-This site recently passed a great milestone of having over 5,000 comments. I love the comments this site gets. I've gotten so many great ideas. Last year I added comments to my coffee site [INeedCoffee](https://ineedcoffee.com). It was a disaster. Despite having ten times the traffic this site has - very few readers left comments and those that did added no value and were often spam. I ended up shutting down the comments. I may restore it to selected articles in the future, but not right now. ![](https://farm1.staticflickr.com/17/20993325_affce142b9.jpg "comment") _[Photo](https://www.flickr.com/photos/dharmasphere/20993325/in/photostream/) by Premasagar Rose_ I don't comment on other blogs as much as I'd like to. Recently, I thought about the barriers that prevented me from adding a comment and came up with this list.
+This site recently passed a great milestone of having over 5,000 comments. I love the comments this site gets. I've gotten so many great ideas. Last year I added comments to my coffee site [INeedCoffee](https://ineedcoffee.com). It was a disaster. Despite having ten times the traffic this site has - very few readers left comments and those that did added no value and were often spam. I ended up shutting down the comments. I may restore it to selected articles in the future, but not right now.
+
+![](https://farm1.staticflickr.com/17/20993325_affce142b9.jpg "comment")
+
+_[Photo](https://www.flickr.com/photos/dharmasphere/20993325/in/photostream/) by Premasagar Rose_
+
+I don't comment on other blogs as much as I'd like to. Recently, I thought about the barriers that prevented me from adding a comment and came up with this list.
 
 
 ### Why I Didn't Comment on Your Blog

@@ -20,11 +20,17 @@ Some ideas put forward to correct the stall included reducing caffeine, reducing
 
 > the term intermittent doesn't seem to apply here. seems more like scheduled fasting.
 
-This brings up the question on if there is an important distinction between long scheduled fasts and intermittent fasting. While I was pondering the question, I tuned into the latest Jimmy Moore podcast, which was an interview with Art De Vany.(May 2019:  link dead) De Vany was the writer that first exposed me to the intermittent fasting concept back in December 2007. During the interview, Jimmy asked De Vany the very question I was pondering. They were discussing metabolism and the topic shifted to the potential downside to doing 16 hour daily fasts.
+This brings up the question on if there is an important distinction between long scheduled fasts and intermittent fasting. While I was pondering the question, I tuned into the latest Jimmy Moore podcast, which was an interview with Art De Vany.(May 2019:  link dead) De Vany was the writer that first exposed me to the intermittent fasting concept back in December 2007. During the interview, Jimmy asked De Vany the very question I was pondering.
 
-> **Jimmy Moore :** It sounds to me Art that \[daily 16 hour fasts\] would kind of - your body would get used to that. Because it would say _"OK I'm not going to eat for 16 hours, I better hold onto the energy."_ How does work exactly? **Art De Vany:** Exactly. Exactly. Exactly. The genes are these amazing learners. _"OK that is my last meal for the next umpteumph hours - I better do some things to conserve energy."_ It has to be a surprise. That is why spontaneous and random - are big elements of my approach to exercise, everything.
+They were discussing metabolism and the topic shifted to the potential downside to doing 16 hour daily fasts.
 
-The _Leangains_ method is not spontaneous and random. It is scheduled. If De Vany's understanding of genes and metabolism is right - and I suspect it is - then this could explain the problems I've had in the last month. I need to bring back spontaneity and randomness to my Intermittent Fasting. It also falls more in line with our evolutionary past. Nature is not scheduled. Going forward I am ending the daily 16 hour fasts. I'm going to mix it up more. Maybe a few short fasts (12-16 hours), a longer fast (18-22 hours) and a few days where I feast. I'll go back to listening to my body more and looking at the clock less.
+> **Jimmy Moore :** It sounds to me Art that \[daily 16 hour fasts\] would kind of - your body would get used to that. Because it would say _"OK I'm not going to eat for 16 hours, I better hold onto the energy."_ How does work exactly?
+> 
+> **Art De Vany:** Exactly. Exactly. Exactly. The genes are these amazing learners. _"OK that is my last meal for the next umpteumph hours - I better do some things to conserve energy."_ It has to be a surprise. That is why spontaneous and random - are big elements of my approach to exercise, everything.
+
+The _Leangains_ method is not spontaneous and random. It is scheduled. If De Vany's understanding of genes and metabolism is right - and I suspect it is - then this could explain the problems I've had in the last month. I need to bring back spontaneity and randomness to my Intermittent Fasting. It also falls more in line with our evolutionary past. Nature is not scheduled.
+
+Going forward I am ending the daily 16 hour fasts. I'm going to mix it up more. Maybe a few short fasts (12-16 hours), a longer fast (18-22 hours) and a few days where I feast. I'll go back to listening to my body more and looking at the clock less.
 
 ---
 

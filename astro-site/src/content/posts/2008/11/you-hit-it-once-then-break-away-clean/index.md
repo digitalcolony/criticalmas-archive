@@ -9,7 +9,19 @@ description: "Some guys go fishing and have fishing tales. I don't fish. I inves
 commentCount: 10
 ---
 
-_Some guys go fishing and have fishing tales. I don't fish. I invest. Here is my tale._ Across the field of battered stocks was EEV. EEV is an UltraShort of the Emerging Markets. I know I said I wouldn't touch the ultra-shorts because of the [counterparty risk](/2008/09/my-counter-party-is-over/), but I couldn't resist. The stock had dropped $100 in just a few days. I could feel a snap back was coming. I finally moved a baby 401K of $5K away from the [fixed income plan](/2008/07/hope-your-401k-is-in-fixed-income/) of my former employer. By Tuesday I noticed the check had been deposited into my self-directed account at Ameritrade. I had hunting money and EEV was looking like a sweet target. **Bought 70 EEV @70.00** Then EEV exploded upwards. $80. $90. $100. Should I sell? This thing could go to $200 or back down to $70 or lower. Or the entire ETF could explode and it could go to $0. Lock in the gain and walk away. **Sold 70 EEV @101.50** Minus two commissions my baby 401K is now worth $7205. A 44% gain in 48 hours. The hunt was good.
+_Some guys go fishing and have fishing tales. I don't fish. I invest. Here is my tale._
+
+Across the field of battered stocks was EEV. EEV is an UltraShort of the Emerging Markets. I know I said I wouldn't touch the ultra-shorts because of the [counterparty risk](/2008/09/my-counter-party-is-over/), but I couldn't resist. The stock had dropped $100 in just a few days. I could feel a snap back was coming.
+
+I finally moved a baby 401K of $5K away from the [fixed income plan](/2008/07/hope-your-401k-is-in-fixed-income/) of my former employer. By Tuesday I noticed the check had been deposited into my self-directed account at Ameritrade. I had hunting money and EEV was looking like a sweet target.
+
+**Bought 70 EEV @70.00**
+
+Then EEV exploded upwards. $80. $90. $100. Should I sell? This thing could go to $200 or back down to $70 or lower. Or the entire ETF could explode and it could go to $0. Lock in the gain and walk away.
+
+**Sold 70 EEV @101.50**
+
+Minus two commissions my baby 401K is now worth $7205. A 44% gain in 48 hours. The hunt was good.
 
 ---
 

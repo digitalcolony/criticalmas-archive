@@ -21,7 +21,9 @@ From the beginning, I have rejected tracking my workouts. I go into detail on wh
 -   [When I Would Measure My Workouts](/2012/08/when-i-would-measure-my-workouts/)
 -   [What Weight Lifting Should Have Taught Me About Quantified Self](/2014/03/weight-lifting-taught-quantified-self/)
 
-In the fitness blogosphere, we get wrapped up in the mechanic view of weight lifting. How many reps, sets, speed, rest, and on and on? What I've discovered is room temperature is the number that impacts my training the most and it is a number I can not control at my gym. More on this point later. I'm not advising others to follow my lead. Numbers can be motivating for many. If I had a trainer, I would insist they record everything, but only share data with me after the workout. I want to focus on form not numbers when I am exercising.
+In the fitness blogosphere, we get wrapped up in the mechanic view of weight lifting. How many reps, sets, speed, rest, and on and on? What I've discovered is room temperature is the number that impacts my training the most and it is a number I can not control at my gym. More on this point later.
+
+I'm not advising others to follow my lead. Numbers can be motivating for many. If I had a trainer, I would insist they record everything, but only share data with me after the workout. I want to focus on form not numbers when I am exercising.
 
 
 ### Safe Exercises
@@ -52,7 +54,11 @@ Here comes the shocking part. The intensity I hit today is much less than when I
 ### Wrapping Up
 
 
-There you have it. This is how I approach HIT today. If my time became scarce, I'd happily hire a HIT trainer in a HIT gym. But for right now, I am still using safe exercises at a reduced tempo, just not to failure, except on a rare day. ![body by science](./img/51DXynBp-CL.jpg) _Body By Science_
+There you have it. This is how I approach HIT today. If my time became scarce, I'd happily hire a HIT trainer in a HIT gym. But for right now, I am still using safe exercises at a reduced tempo, just not to failure, except on a rare day.
+
+![body by science](./img/51DXynBp-CL.jpg)
+
+_Body By Science_
 
 ---
 

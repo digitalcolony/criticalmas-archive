@@ -28,7 +28,11 @@ This study came as no surprise to me. Back in May, I reviewed the book [Lights O
 
 > Going to sleep with the sunset means a whole-body melatonin bath, and a sharp increase in prolactin. Prolactin enhances the production of T cells and NK (natural killer) cells. These are the first lines of cancer defense.
 
-My advice is to make your sleeping environment as dark as possible with as few electronic devices as possible and go to bed earlier. If you have a choice between waking up an hour early to run on a treadmill under florescent lights or sleeping more; choose sleep. I have some more tips in the post [Turning Down the Lights](/2010/07/turning-down-the-lights/). ![kuala-lumpur](./img/kuala-lumpur.jpg) _Photo taken during my December 2009 trip to [Kuala Lumpur, Malaysia](/2009/12/arrived-in-kuala-lumpur-malaysia/)_
+My advice is to make your sleeping environment as dark as possible with as few electronic devices as possible and go to bed earlier. If you have a choice between waking up an hour early to run on a treadmill under florescent lights or sleeping more; choose sleep. I have some more tips in the post [Turning Down the Lights](/2010/07/turning-down-the-lights/).
+
+![kuala-lumpur](./img/kuala-lumpur.jpg)
+
+_Photo taken during my December 2009 trip to [Kuala Lumpur, Malaysia](/2009/12/arrived-in-kuala-lumpur-malaysia/)_
 
 ---
 

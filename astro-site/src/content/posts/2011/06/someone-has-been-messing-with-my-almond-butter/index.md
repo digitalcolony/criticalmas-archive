@@ -9,11 +9,33 @@ description: "One of the reasons I go to Costco is to stock up on almond butter.
 commentCount: 53
 ---
 
-One of the reasons I go to Costco is to stock up on almond butter. Recently, they replaced the _MaraNatha Creamy Almond Butter_ glass jars with plastic jars. I noticed the ounces were the same, so I assume the product inside the jar was unchanged. About two servings into the jar, it struck me just how creamy it was. It seemed almost watery. I did some digging and discovered that the Costco version of the _MaraNatha Creamy Almond Butter_ has been thinned out. The price is still the same, but you are getting less almond butter. The product sold on their corporate site and others appears to be the same. This may just be a Costco thing. The glass jar version had 23 servings at 190 calories. This plastic jar version has 23 servings at 180 calories. Same price, less product. ![almond-butter](./img/almond-butter.jpg) _The glass jar version. Happier times._ They removed 230 calories of almond butter from every jar. Now it is too creamy. Who is to blame? Costco or MaraNatha or both? I don't know. What I do know is the taste of the product has suffered and I'll be buying the fresh ground stuff from Central Market and Fred Meyer going forward. Every month that goes by, Costco gives me one less reason to shop there. **UPDATE July 28, 2011:** Today I received this comment from Ted.
+One of the reasons I go to Costco is to stock up on almond butter. Recently, they replaced the _MaraNatha Creamy Almond Butter_ glass jars with plastic jars. I noticed the ounces were the same, so I assume the product inside the jar was unchanged. About two servings into the jar, it struck me just how creamy it was. It seemed almost watery.
+
+I did some digging and discovered that the Costco version of the _MaraNatha Creamy Almond Butter_ has been thinned out. The price is still the same, but you are getting less almond butter. The product sold on their corporate site and others appears to be the same. This may just be a Costco thing.
+
+The glass jar version had 23 servings at 190 calories. This plastic jar version has 23 servings at 180 calories. Same price, less product.
+
+![almond-butter](./img/almond-butter.jpg)
+
+_The glass jar version. Happier times._
+
+They removed 230 calories of almond butter from every jar. Now it is too creamy. Who is to blame? Costco or MaraNatha or both? I don't know. What I do know is the taste of the product has suffered and I'll be buying the fresh ground stuff from Central Market and Fred Meyer going forward.
+
+Every month that goes by, Costco gives me one less reason to shop there.
+
+**UPDATE July 28, 2011:** Today I received this comment from Ted.
 
 > I would prefer the glass jars too, however the product inside is identical, 180 calories per serving , same as it was in the last batch of glass jars I purchased. The ingredients are only almonds so there is no thinning out. I checked with the company and they confirmed this.
 
-That didn't sound right to me, since when I wrote my original almond butter post in June 2010, I used 190 calories in my calculations. Lucky for me, I saved a few older jars. What did I find? **_MarthaNatha_ did have 190 calories per serving, but they switched to the 180 calories (the thin version) prior to switching to plastic jars.** It was only when the almond butter went to pastic jars did I taste the difference. If _MarthaNatha_ is claiming that the recipe for this product has not changed, then they are being dishonest. They thinned the product BEFORE they made the switch to plastic jars, but they did in fact thin their product. Look at the photo below. ![almond-butter-label](./img/almond-butter-label.jpg) Costco is not the guilty party. _MaraNatha_ is to blame. **UPDATE August 1, 2011:** _MaraNatha_ is now selling "No Stir" Almond Butter in both Creamy and Crunchy. They are in glass jars and they use the original 190 calories per serving recipe.
+That didn't sound right to me, since when I wrote my original almond butter post in June 2010, I used 190 calories in my calculations. Lucky for me, I saved a few older jars. What did I find? **_MarthaNatha_ did have 190 calories per serving, but they switched to the 180 calories (the thin version) prior to switching to plastic jars.** It was only when the almond butter went to pastic jars did I taste the difference.
+
+If _MarthaNatha_ is claiming that the recipe for this product has not changed, then they are being dishonest. They thinned the product BEFORE they made the switch to plastic jars, but they did in fact thin their product. Look at the photo below.
+
+![almond-butter-label](./img/almond-butter-label.jpg)
+
+Costco is not the guilty party. _MaraNatha_ is to blame.
+
+**UPDATE August 1, 2011:** _MaraNatha_ is now selling "No Stir" Almond Butter in both Creamy and Crunchy. They are in glass jars and they use the original 190 calories per serving recipe.
 
 ---
 

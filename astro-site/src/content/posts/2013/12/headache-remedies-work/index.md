@@ -9,7 +9,13 @@ description: "Some of you know that I spent 2.5 years quantifying data to elimin
 commentCount: 28
 ---
 
-Some of you know that I spent 2.5 years quantifying data to eliminate my [late night headaches](/2011/07/hunting-headaches/) that wake me up. In the end, I was [unsuccessful](/2013/09/hunting-headaches-ending-hunt/) on finding a single cause, although I learned caffeine plays a role. During that entire experiment, I solely focused on preventing the headache, not on eliminating the pain once it arrived. The reason is I have very poor luck with painkillers. Before I ask for ideas on how you would address the pain, I'm going to describe the pain and what I've tried already. ![headache](./img/headache.gif) Below is my wonderful drawing. The red areas are where my headache pain comes from. More info:
+Some of you know that I spent 2.5 years quantifying data to eliminate my [late night headaches](/2011/07/hunting-headaches/) that wake me up. In the end, I was [unsuccessful](/2013/09/hunting-headaches-ending-hunt/) on finding a single cause, although I learned caffeine plays a role. During that entire experiment, I solely focused on preventing the headache, not on eliminating the pain once it arrived. The reason is I have very poor luck with painkillers.
+
+Before I ask for ideas on how you would address the pain, I'm going to describe the pain and what I've tried already.
+
+![headache](./img/headache.gif)
+
+Below is my wonderful drawing. The red areas are where my headache pain comes from. More info:
 
 -   My headaches are around and behind the eyes. They often feel sinus in nature, but there is never signs of a sinus infection.
 -   The pain is equal on both sides.

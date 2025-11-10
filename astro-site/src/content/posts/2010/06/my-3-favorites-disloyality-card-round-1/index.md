@@ -15,7 +15,13 @@ Today I completed my first _Disloyalty Card_. The [Disloyalty Card](/2010/05/sea
 2.  **Makeda Coffee** - I love the Hula blend by Seven Roasters.
 3.  **Tougo Coffee** - A perfectly pulled espresso using Stumptown's Hair Bender blend.
 
-Time to start Round #2. ![](./img/urban-coffee-lounge.jpg) _Urban Coffee Lounge - Cups on the Wall_ Have you completed your Disloyalty Card yet? What were your favorites?
+Time to start Round #2.
+
+![](./img/urban-coffee-lounge.jpg)
+
+_Urban Coffee Lounge - Cups on the Wall_
+
+Have you completed your Disloyalty Card yet? What were your favorites?
 
 ---
 

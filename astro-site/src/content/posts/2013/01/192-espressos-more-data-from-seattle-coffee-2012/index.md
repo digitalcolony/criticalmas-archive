@@ -20,13 +20,23 @@ Last year I consumed 192 espressos in Seattle area coffee shops. I detailed who 
 ### Espresso By Neighborhood
 
 
-In 2012, the neighborhood of Ballard stepped up as a challenger to Capitol Hill for espresso supremacy. My gut tells me that this is still a few years away. What did the data say? For these tables, I only included neighborhoods with 5 or more visits. **\[table id=25 /\]** Before we say Ballard is better than Capitol Hill, we need to deal with neighborhood borders and minor neighborhoods. I am going to update the data with 3 rules.
+In 2012, the neighborhood of Ballard stepped up as a challenger to Capitol Hill for espresso supremacy. My gut tells me that this is still a few years away. What did the data say? For these tables, I only included neighborhoods with 5 or more visits.
+
+**\[table id=25 /\]**
+
+Before we say Ballard is better than Capitol Hill, we need to deal with neighborhood borders and minor neighborhoods. I am going to update the data with 3 rules.
 
 1.  Roll the Central District (Tougo and Cortona Cafe) into Capitol Hill.
 2.  The north Ballard neighborhood of Sunset Hill (Caffe Fiore) should be included in Ballard numbers.
 3.  Pioneer Square will be merged into Downtown.
 
-**\[table id=26 /\]** With the new rules, Capitol Hill is better than Ballard. But it is only better when you include the bordering Central District. The University topped all, but that was all from _Trabant_. Had I ventured to other University places in 2012, that number would have been lower. ![caffe fiore](./img/6853827969_87a3fd3c5c_z.jpg) _Caffe Fiore in Sunset Hill (aka North Ballard)_
+**\[table id=26 /\]**
+
+With the new rules, Capitol Hill is better than Ballard. But it is only better when you include the bordering Central District. The University topped all, but that was all from _Trabant_. Had I ventured to other University places in 2012, that number would have been lower.
+
+![caffe fiore](./img/6853827969_87a3fd3c5c_z.jpg)
+
+_Caffe Fiore in Sunset Hill (aka North Ballard)_
 
 
 ### Espresso: Single Origins vs Blends
@@ -47,13 +57,21 @@ I also wanted to know if espresso price was a predictor of quality, so I track
 1.  I might demand more from higher priced espresso and thus rate it stricter.
 2.  I might use the higher prices as a signal of higher quality and thus rate it less strict.
 
-Although I'd like to think I rated each espresso fairly, the purpose of _192 Espressos_ was to collect so many data points that biases would be minimized. **\[table id=27 /\]** From my sample data, I found a slight inverse correlation between price and quality. The highest priced espresso got the lowest ratings. The differences were small, but the conclusion I reached is that higher prices are not a predictor of greater quality.
+Although I'd like to think I rated each espresso fairly, the purpose of _192 Espressos_ was to collect so many data points that biases would be minimized.
+
+**\[table id=27 /\]**
+
+From my sample data, I found a slight inverse correlation between price and quality. The highest priced espresso got the lowest ratings. The differences were small, but the conclusion I reached is that higher prices are not a predictor of greater quality.
 
 
 ### What Day of the Week is Best for Espresso?
 
 
-I'm not sure this data means much, but I have it so why not share it? **\[table id=28 /\]** Friday had the best espresso and Saturday had the worst. Monday also scored high.
+I'm not sure this data means much, but I have it so why not share it?
+
+**\[table id=28 /\]**
+
+Friday had the best espresso and Saturday had the worst. Monday also scored high.
 
 
 ### Putting It All Together

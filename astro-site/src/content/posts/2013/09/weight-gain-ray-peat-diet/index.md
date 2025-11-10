@@ -13,19 +13,33 @@ I wanted to bring up a topic that I see mentioned frequently on forums and comme
 
 > I have tried this diet for a couple of months now and have gained a lot of weight (mostly Subcutaneous fat) around the stomach and my abs are a goner. My diet has consisted mostly of fruit, carrots and milk and then some beef.
 
-These comments are common. For those not familiar with the Ray Peat diet, read my post [The Peat-atarian Diet For Those of Us With Average IQs](/2012/11/the-peatarian-diet-for-those-of-us-with-average-iqs/). The diet ideas of Ray Peat are not about fat loss or achieving an ideal weight. The goal is to increase metabolism and support the thyroid. That often means increasing calories and carbohydrates. Getting healthy hormonally is more paramount than weight management. Some people gain weight. I did.
+These comments are common. For those not familiar with the Ray Peat diet, read my post [The Peat-atarian Diet For Those of Us With Average IQs](/2012/11/the-peatarian-diet-for-those-of-us-with-average-iqs/).
+
+The diet ideas of Ray Peat are not about fat loss or achieving an ideal weight. The goal is to increase metabolism and support the thyroid. That often means increasing calories and carbohydrates. Getting healthy hormonally is more paramount than weight management. Some people gain weight. I did.
 
 
 ### My Story
 
 
-In early 2012 I noticed that my weight kept dropping. I went from a healthy lean 195 down to a ripped but gaunt 183. My height is 6 foot 2.5 inches (189 cm). I was eating a super clean hybrid of [WAPF](/2011/02/paleo-vs-weston-price/), Paleo and the [Perfect Health](/2012/06/deep-nutrition-perfect-health-diet-and-the-end-of-overeating/) Diet. I needed to gain weight, but I wanted to do it in a nutrient dense manner. My research led to the conclusion that [ice cream was the optimal food](/2012/07/why-ice-cream-is-better-than-protein-powder/). Ice cream also happens to be a _superfood_ on the Ray Peat diet. Read that post if the idea that ice cream can be super healthy puzzles you. I had trouble with it until I really dug into the numbers. It worked. Eating ice cream stopped my weight loss. Once I stabilized my weight, I decided to use ice cream to gain muscle. And it worked. I gained 10 pounds of muscle before the end of the year. Throughout the summer of 2012, I was preaching the gospel of ice cream to anyone that would listen. The problem came later. I overshot my target weight and kept gaining. For the first time in my life, I had developed a sugar craving. Then I went a [month without coffee](https://ineedcoffee.com/a-month-without-coffee/) and my appetite signals got all messed up. Today I am 10-15 pounds heavier than my target weight. The good news is I have more muscle and am no longer gaunt. My metabolism seems to be high, but so is my appetite. ![](./img/milk.jpg) _Photo by Atomische \* Tom Giebel_
+In early 2012 I noticed that my weight kept dropping. I went from a healthy lean 195 down to a ripped but gaunt 183. My height is 6 foot 2.5 inches (189 cm). I was eating a super clean hybrid of [WAPF](/2011/02/paleo-vs-weston-price/), Paleo and the [Perfect Health](/2012/06/deep-nutrition-perfect-health-diet-and-the-end-of-overeating/) Diet. I needed to gain weight, but I wanted to do it in a nutrient dense manner. My research led to the conclusion that [ice cream was the optimal food](/2012/07/why-ice-cream-is-better-than-protein-powder/). Ice cream also happens to be a _superfood_ on the Ray Peat diet. Read that post if the idea that ice cream can be super healthy puzzles you. I had trouble with it until I really dug into the numbers.
+
+It worked. Eating ice cream stopped my weight loss. Once I stabilized my weight, I decided to use ice cream to gain muscle. And it worked. I gained 10 pounds of muscle before the end of the year. Throughout the summer of 2012, I was preaching the gospel of ice cream to anyone that would listen.
+
+The problem came later. I overshot my target weight and kept gaining. For the first time in my life, I had developed a sugar craving. Then I went a [month without coffee](https://ineedcoffee.com/a-month-without-coffee/) and my appetite signals got all messed up. Today I am 10-15 pounds heavier than my target weight. The good news is I have more muscle and am no longer gaunt. My metabolism seems to be high, but so is my appetite.
+
+![](./img/milk.jpg)
+
+_Photo by Atomische \* Tom Giebel_
 
 
 ### Losing Weight on a Ray Peat diet
 
 
-Remember the point of the Ray Peat diet is not about having ripped abs, but having a healthy metabolism. If you are still recovering from thyroid or metabolism issues, you may want to solve that before pursuing an ideal weight. I am not a nutritionist, nor do I have any clients. I'm just trying to figure this riddle out myself. The standard advice I see in forums devoted to Ray Peat when it comes to fat loss is to reduce your dairy fat content and cut back on the coconut oil. So you might go from whole milk to 2% milk fat. I suspect this standard advice is geared towards the individuals who still need to boost metabolism, as it would ensure they were still getting ample carbs and sugars to support the thyroid. The reduction in fat would reduce calories without restricting carbs. I suspect that standard advice is not ideal for those of us with healthy metabolisms. I could be wrong on this, but my guess is those of us with healthy metabolisms just need to correct our appetite signals. I doubt reducing dairy fat is going to do that. Some ideas that come to mind are:
+Remember the point of the Ray Peat diet is not about having ripped abs, but having a healthy metabolism. If you are still recovering from thyroid or metabolism issues, you may want to solve that before pursuing an ideal weight. I am not a nutritionist, nor do I have any clients. I'm just trying to figure this riddle out myself.
+
+The standard advice I see in forums devoted to Ray Peat when it comes to fat loss is to reduce your dairy fat content and cut back on the coconut oil. So you might go from whole milk to 2% milk fat. I suspect this standard advice is geared towards the individuals who still need to boost metabolism, as it would ensure they were still getting ample carbs and sugars to support the thyroid. The reduction in fat would reduce calories without restricting carbs.
+
+I suspect that standard advice is not ideal for those of us with healthy metabolisms. I could be wrong on this, but my guess is those of us with healthy metabolisms just need to correct our appetite signals. I doubt reducing dairy fat is going to do that. Some ideas that come to mind are:
 
 1.  Replace highly palatable foods by consuming the components separately. Have a piece of fruit and a glass of milk instead of ice cream. You get the sugar and the dairy fat without the high flavor signals.
 2.  Replace the sacred orange juice with oranges. An orange has 1/2 the calories of an 8 oz glass of orange juice. I [don't eat oranges](/2007/10/why-i-dont-like-oranges/) myself, but I like to rotate in new fruit every week.
@@ -36,7 +50,9 @@ Remember the point of the Ray Peat diet is not about having ripped abs, but havi
 ### Your Thoughts?
 
 
-To be clear, I am in no way endorsing the Ray Peat diet. Some parts make sense to me and some don't. I am a student of what makes different diets work. This one is more complicated than most. I successfully used ice cream to fix my rapid weight loss, now I am going to see if I can curb my appetite signals using slight tweaks of the Ray Peat diet. If you have any tips or ideas, drop a comment.
+To be clear, I am in no way endorsing the Ray Peat diet. Some parts make sense to me and some don't. I am a student of what makes different diets work. This one is more complicated than most. I successfully used ice cream to fix my rapid weight loss, now I am going to see if I can curb my appetite signals using slight tweaks of the Ray Peat diet.
+
+If you have any tips or ideas, drop a comment.
 
 ---
 

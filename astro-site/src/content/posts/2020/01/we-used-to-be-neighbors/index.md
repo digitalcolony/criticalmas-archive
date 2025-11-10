@@ -9,7 +9,21 @@ description: "Every 10,000 miles, I take my car over to my neighborhood Jiffy Lu
 commentCount: 6
 ---
 
-Every 10,000 miles, I take my car over to my neighborhood Jiffy Lube for an oil change. It usually takes 12-14 months to hit that marker. I don't mind going, in fact, I enjoy the fact knowing that I'll be buying lunch for some neighbors that I never met. I'll explain. On the Jiffy Lube website, there is always a coupon for $5 off any service. This week it was $7 off. While I am in the waiting room, I share this info with the 2-3 other people that happen to be there at the same time. They pull out their phone, find the coupon, and thank me. It's always nice to collect free money. This year was different, but I've seen the trend building in recent years. Nobody makes small talk or even eye contact. Everyone (except me) is glued to their phone with their headphones on. I waited for an opening to share the coupon info with my fellow customers like I've done every year since returning from California. But they never looked up or removed their headphones. They had zero interest in anything around them. Maybe next year, I'll plug my headphones in and knock out a Duolingo lesson or two? The digital world won. ![phone zombies](./img/phone-zombies650.jpg)
+Every 10,000 miles, I take my car over to my neighborhood Jiffy Lube for an oil change. It usually takes 12-14 months to hit that marker. I don't mind going, in fact, I enjoy the fact knowing that I'll be buying lunch for some neighbors that I never met.
+
+I'll explain.
+
+On the Jiffy Lube website, there is always a coupon for $5 off any service. This week it was $7 off. While I am in the waiting room, I share this info with the 2-3 other people that happen to be there at the same time. They pull out their phone, find the coupon, and thank me. It's always nice to collect free money.
+
+This year was different, but I've seen the trend building in recent years. Nobody makes small talk or even eye contact. Everyone (except me) is glued to their phone with their headphones on.
+
+I waited for an opening to share the coupon info with my fellow customers like I've done every year since returning from California. But they never looked up or removed their headphones. They had zero interest in anything around them.
+
+Maybe next year, I'll plug my headphones in and knock out a Duolingo lesson or two?
+
+The digital world won.
+
+![phone zombies](./img/phone-zombies650.jpg)
 
 _Photo by Jens Johnsson_
 

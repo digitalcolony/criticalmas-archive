@@ -9,7 +9,13 @@ description: "About five years ago I read an interesting book on what was basica
 commentCount: 4
 ---
 
-About five years ago I read an interesting book on what was basically a modern caveman diet. When I finished I came to the conclusion the diet was way too difficult to follow in the modern world. Recently I started reading Art De Vany's site and his _Evolutionary Fitness_ posts, so I thought I'd go back and read _NeaderThin_ with fresh eyes. ![NeanderThin: Eat Like a Caveman to Achieve a Lean, Strong, Healthy Body](https://images-na.ssl-images-amazon.com/images/I/51C0D5ZSMXL._SL500_.jpg) _NeanderThin: Eat Like a Caveman to Achieve a Lean, Strong, Healthy Body by Ray Audette_ starts off with an excellent history of how primitive man ate. It convincingly builds its case against the modern agriculture diet. And for the most part I agree with the author's findings. However, the diet is still looks near impossible to follow in modern society. Here are the Ten Commandments of the NeaderThin Plan as posted on the back cover of the book. Do eat:
+About five years ago I read an interesting book on what was basically a modern caveman diet. When I finished I came to the conclusion the diet was way too difficult to follow in the modern world. Recently I started reading Art De Vany's site and his _Evolutionary Fitness_ posts, so I thought I'd go back and read _NeaderThin_ with fresh eyes.
+
+![NeanderThin: Eat Like a Caveman to Achieve a Lean, Strong, Healthy Body](https://images-na.ssl-images-amazon.com/images/I/51C0D5ZSMXL._SL500_.jpg) _NeanderThin: Eat Like a Caveman to Achieve a Lean, Strong, Healthy Body by Ray Audette_ starts off with an excellent history of how primitive man ate. It convincingly builds its case against the modern agriculture diet. And for the most part I agree with the author's findings. However, the diet is still looks near impossible to follow in modern society.
+
+Here are the Ten Commandments of the NeaderThin Plan as posted on the back cover of the book.
+
+Do eat:
 
 1.  Meats and Fish
 2.  Fruits
@@ -25,7 +31,17 @@ Don't Eat:
 4.  Dairy
 5.  Sugar
 
-Also on the NO list is coffee, which the author insultingly refers to as a _burnt berry_. Now I'm in full agreement with his DO list. It's the NO list that seems too restrictive. He made a solid case for surrendering grains and sugar, but [other books](/2008/03/150-superfoods-because-14-just-wasnt-enough/) clearly demonstrate that beans and potatoes (red or yams) are nutritional powerhouses. This leaves dairy. Yogurt is a [superfood](/2007/10/are-these-the-14-superfoods/), but Arnold taught us that _milk is for babies_. Seriously, if the dairy comes from grain-fed animals then sure it'll be problematic because grains are problematic. Too many omega-6s, too few omega-3s. I get it. However, my take is that different people can handle dairy to differing degrees. Can this diet work? Sure. It worked for thousands of years. Can it work in modern society? Not without a lot of work and discipline. The diet requires 0% cheating. Although I praise the author's research into primitive man and his diet, the exercise section in the book is ridiculously bad. Exercises like leg curls and tricep extensions are hardly primitive movements. And I laughed when the 2 authors bragged they were both 6 feet tall, weighed 145 pounds, and had a combined body-fat of 12%. Sounds a bit scrawny to me. I recommend reading just the first 60 pages of this book and then perhaps figuring out how to eat a cleaner and less modern diet.
+Also on the NO list is coffee, which the author insultingly refers to as a _burnt berry_.
+
+Now I'm in full agreement with his DO list. It's the NO list that seems too restrictive. He made a solid case for surrendering grains and sugar, but [other books](/2008/03/150-superfoods-because-14-just-wasnt-enough/) clearly demonstrate that beans and potatoes (red or yams) are nutritional powerhouses. This leaves dairy.
+
+Yogurt is a [superfood](/2007/10/are-these-the-14-superfoods/), but Arnold taught us that _milk is for babies_. Seriously, if the dairy comes from grain-fed animals then sure it'll be problematic because grains are problematic. Too many omega-6s, too few omega-3s. I get it. However, my take is that different people can handle dairy to differing degrees.
+
+Can this diet work? Sure. It worked for thousands of years. Can it work in modern society? Not without a lot of work and discipline. The diet requires 0% cheating.
+
+Although I praise the author's research into primitive man and his diet, the exercise section in the book is ridiculously bad. Exercises like leg curls and tricep extensions are hardly primitive movements. And I laughed when the 2 authors bragged they were both 6 feet tall, weighed 145 pounds, and had a combined body-fat of 12%. Sounds a bit scrawny to me.
+
+I recommend reading just the first 60 pages of this book and then perhaps figuring out how to eat a cleaner and less modern diet.
 
 ---
 

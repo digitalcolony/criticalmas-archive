@@ -9,7 +9,11 @@ description: "2014 Update. This post made me cringe a little because my opinions
 commentCount: 8
 ---
 
-_**2014 Update**. This post made me cringe a little because my opinions have changed, so I made a few updates. Not complete, but better._  This post is for the ladies. On many occasions, I've ranted against the personal trainers who work at the various [Glitter Gyms](https://criticalmas.org/tag/glitter-gym/). Although the time you spend with your trainer is time you aren't watching Maury Povich and eating no-fat Weight Watcher cookies, I believe I can do a better job training you. But I'm not a personal trainer, nor do I desire to be one. I fear I would lose too many brain cells digesting their high-rep nonsense to pass the certification. Do you want to be buff? Follow these steps and stop listening to your trainer tell you how drunk she got last weekend.
+_**2014 Update**. This post made me cringe a little because my opinions have changed, so I made a few updates. Not complete, but better._ 
+
+This post is for the ladies. On many occasions, I've ranted against the personal trainers who work at the various [Glitter Gyms](https://criticalmas.org/tag/glitter-gym/). Although the time you spend with your trainer is time you aren't watching Maury Povich and eating no-fat Weight Watcher cookies, I believe I can do a better job training you. But I'm not a personal trainer, nor do I desire to be one. I fear I would lose too many brain cells digesting their high-rep nonsense to pass the certification.
+
+Do you want to be buff? Follow these steps and stop listening to your trainer tell you how drunk she got last weekend.
 
 1.  Never touch your face. Ever. The gym is a germ factory. Stay healthy and avoid sickness.
 2.  Never do more than 2 sets of any new exercise. Focus on form when learning a new exercise. Your goal is to get stronger, not sore, and certainly not injured.

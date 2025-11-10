@@ -9,7 +9,17 @@ description: "Since I have quite a few posts on investing, I thought it was appr
 commentCount: 4
 ---
 
-Since I have quite a few posts on investing, I thought it was appropriate that I add a disclaimer. **I am not a Certified Financial Planner.** I'm just a regular Joe with an interest in economics. Although I have a Finance degree from the diploma mill known as _The Ohio State University_, everything that I apply to investing today was knowledge obtained since 2004. ![](./img/21-300x294.jpg "MAS money") No post on this site shall be construed as investment advice. This site is about me. I invest. Therefore I blog about investing. I know my risk tolerance and how much time and effort I am willing to devote to investing. What works for me, may not work for you. I will continue to [trash the advice](/2008/04/mr-financial-planner-go-home-and-get-your-shine-box/) of certified financial planners as they continue to peddle the [industry lie](/2008/03/investing-in-stocks-for-the-long-term/). As my friend Mattwould say - _**don't invest in anything you don't understand**_. That especially includes the stock market. Knowing what you don't know is the most liberating thing about investing. When professionals try and convince you that they know, you should be skeptical. That is all.
+Since I have quite a few posts on investing, I thought it was appropriate that I add a disclaimer. **I am not a Certified Financial Planner.** I'm just a regular Joe with an interest in economics. Although I have a Finance degree from the diploma mill known as _The Ohio State University_, everything that I apply to investing today was knowledge obtained since 2004.
+
+![](./img/21-300x294.jpg "MAS money")
+
+No post on this site shall be construed as investment advice. This site is about me. I invest. Therefore I blog about investing. I know my risk tolerance and how much time and effort I am willing to devote to investing. What works for me, may not work for you.
+
+I will continue to [trash the advice](/2008/04/mr-financial-planner-go-home-and-get-your-shine-box/) of certified financial planners as they continue to peddle the [industry lie](/2008/03/investing-in-stocks-for-the-long-term/).
+
+As my friend Mattwould say - _**don't invest in anything you don't understand**_. That especially includes the stock market. Knowing what you don't know is the most liberating thing about investing. When professionals try and convince you that they know, you should be skeptical.
+
+That is all.
 
 ---
 

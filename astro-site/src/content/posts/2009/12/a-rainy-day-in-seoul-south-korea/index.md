@@ -9,7 +9,15 @@ description: "On the return flight home to Seattle, I had a 12 hour layover in S
 commentCount: 2
 ---
 
-On the return flight home to Seattle, I had a 12 hour layover in Seoul, South Korea. Urban hiking in 41F rain felt a lot like Seattle. Like [Kuala Lumpur](/2009/12/arrived-in-kuala-lumpur-malaysia/), Seoul has an airport which connects right into a train/subway system. I was able to get to the heart of downtown Seoul in about an hour. For a city of 10 million people, I expected the streets to be packed, but they weren't. Where was everyone? My short trip did give me enough time to eat some great food and acquire some outstanding Korean green tea. Now for the photos. ![seoul-3](./img/seoul-3.jpg) ![seoul-2](./img/seoul-2.jpg) ![seoul-1](./img/seoul-1.jpg)
+On the return flight home to Seattle, I had a 12 hour layover in Seoul, South Korea. Urban hiking in 41F rain felt a lot like Seattle. Like [Kuala Lumpur](/2009/12/arrived-in-kuala-lumpur-malaysia/), Seoul has an airport which connects right into a train/subway system. I was able to get to the heart of downtown Seoul in about an hour. For a city of 10 million people, I expected the streets to be packed, but they weren't. Where was everyone?
+
+My short trip did give me enough time to eat some great food and acquire some outstanding Korean green tea. Now for the photos.
+
+![seoul-3](./img/seoul-3.jpg)
+
+![seoul-2](./img/seoul-2.jpg)
+
+![seoul-1](./img/seoul-1.jpg)
 
 ---
 

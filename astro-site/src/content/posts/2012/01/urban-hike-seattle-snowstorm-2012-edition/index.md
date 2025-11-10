@@ -9,7 +9,37 @@ description: "A good snowstorm doesn't happen in Seattle every year, so I took a
 commentCount: 10
 ---
 
-A good snowstorm doesn't happen in Seattle every year, so I took advantage of the day and went for an urban hike. Three years ago, I did a [16 mile hike](/2008/12/urban-hike-seattle-snow-edition/) through the snow. Today I did 20 miles. My hike took me through Ballard, Phinney Ridge, Wallingford, University, Montlake, Madison Valley, Capitol Hill, Downtown, Belltown, Queen Anne and Fremont. I saw lots of kids and many adults having fun in the snow. It was another great day in Seattle. ![urban-hike-map](./img/urban-hike-map-M.jpg) _Today's urban hike was [19.978 miles](http://www.gmap-pedometer.com?r=5261026)._ ![family sled](./img/IMG2113-M.jpg) _Sledding Family on Phinney Ridge_ ![Interlaken Blvd ](./img/IMG2151-M.jpg) _Interlaken Blvd on Capitol Hill_ ![Snowmobile in Madison Park](./img/IMG2162-M.jpg) _Snowmobile in Madison Park_ ![Snowboarder ](./img/IMG2175-M.jpg) _Snowboarder coming down the Queen Anne Counterbalance_ ![Queen Anne Ave](./img/IMG2179-M.jpg) _More fun coming down Queen Anne Ave._ ![family of bears](./img/IMG2196-M.jpg) _A family of bears spotted in front of the Fremont Brown Bear Car Wash ;)_ Full photo gallery for [Urban Hike - Seattle Snowstorm (JAN 18, 2012)](https://www.flickr.com/photos/129592470@N02/sets/72157649720325169/)
+A good snowstorm doesn't happen in Seattle every year, so I took advantage of the day and went for an urban hike. Three years ago, I did a [16 mile hike](/2008/12/urban-hike-seattle-snow-edition/) through the snow. Today I did 20 miles. My hike took me through Ballard, Phinney Ridge, Wallingford, University, Montlake, Madison Valley, Capitol Hill, Downtown, Belltown, Queen Anne and Fremont. I saw lots of kids and many adults having fun in the snow. It was another great day in Seattle.
+
+![urban-hike-map](./img/urban-hike-map-M.jpg)
+
+_Today's urban hike was [19.978 miles](http://www.gmap-pedometer.com?r=5261026)._
+
+![family sled](./img/IMG2113-M.jpg)
+
+_Sledding Family on Phinney Ridge_
+
+![Interlaken Blvd ](./img/IMG2151-M.jpg)
+
+_Interlaken Blvd on Capitol Hill_
+
+![Snowmobile in Madison Park](./img/IMG2162-M.jpg)
+
+_Snowmobile in Madison Park_
+
+![Snowboarder ](./img/IMG2175-M.jpg)
+
+_Snowboarder coming down the Queen Anne Counterbalance_
+
+![Queen Anne Ave](./img/IMG2179-M.jpg)
+
+_More fun coming down Queen Anne Ave._
+
+![family of bears](./img/IMG2196-M.jpg)
+
+_A family of bears spotted in front of the Fremont Brown Bear Car Wash ;)_
+
+Full photo gallery for [Urban Hike - Seattle Snowstorm (JAN 18, 2012)](https://www.flickr.com/photos/129592470@N02/sets/72157649720325169/)
 
 ---
 

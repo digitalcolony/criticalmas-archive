@@ -9,11 +9,23 @@ description: "Last week the book Heal Your Headache: The 1-2-3 Program for Takin
 commentCount: 9
 ---
 
-Last week the book [Heal Your Headache: The 1-2-3 Program for Taking Charge of Your Pain](/2012/06/heal-your-headache-the-1-2-3-program-for-taking-charge-of-your-pain/) had me rethink the root cause of my headaches. It made a strong case that the roots of my headache were migraine. So I decided to read up more on migraines. I selected the new book The Migraine Solution: A Complete Guide to Diagnosis, Treatment, and Pain Management. Now I am really confused. ![](./img/migraine-solution.jpg "migraine-solution") _The Migraine Solution: A Complete Guide to Diagnosis, Treatment, and Pain Management_ This book contradicts almost every major point from the book _Heal You Headaches_. Both are written by doctors and both are well reviewed. \[table id=18 /\] _The Migraine Solution_ doesn't discount food triggers, but makes a case that unless you can find obvious links, one shouldn't drive themselves crazy trying to connect dietary triggers with headaches. Regarding the benefit of food restrictive migraine diets, _The Migrain Solutions_ says:
+Last week the book [Heal Your Headache: The 1-2-3 Program for Taking Charge of Your Pain](/2012/06/heal-your-headache-the-1-2-3-program-for-taking-charge-of-your-pain/) had me rethink the root cause of my headaches. It made a strong case that the roots of my headache were migraine. So I decided to read up more on migraines. I selected the new book The Migraine Solution: A Complete Guide to Diagnosis, Treatment, and Pain Management. Now I am really confused.
+
+![](./img/migraine-solution.jpg "migraine-solution")
+
+_The Migraine Solution: A Complete Guide to Diagnosis, Treatment, and Pain Management_
+
+This book contradicts almost every major point from the book _Heal You Headaches_. Both are written by doctors and both are well reviewed.
+
+\[table id=18 /\]
+
+_The Migraine Solution_ doesn't discount food triggers, but makes a case that unless you can find obvious links, one shouldn't drive themselves crazy trying to connect dietary triggers with headaches. Regarding the benefit of food restrictive migraine diets, _The Migrain Solutions_ says:
 
 > ...headache clinics like ours often recognize that for many patients, the considerable effort involved to start and maintain one of these diets is not worth the typically meager results. Furthermore, good-quality research studies often fail to back up specific claims of benefit from these diets.
 
-_Heal Your Headaches_ makes the opposite case which is a highly restrictive diet one must follow for 4 months before reintroducing trigger foods. Who is right? I have no clue. If I knew that my headaches were migraine in nature, I'd likely pursue the more aggressive _Heal You Headaches_ program. However, I'm not convinced they are. _The Migraine Solution_ lists the POUND acronym as a way to determine if a headache is migraine.
+_Heal Your Headaches_ makes the opposite case which is a highly restrictive diet one must follow for 4 months before reintroducing trigger foods.
+
+Who is right? I have no clue. If I knew that my headaches were migraine in nature, I'd likely pursue the more aggressive _Heal You Headaches_ program. However, I'm not convinced they are. _The Migraine Solution_ lists the POUND acronym as a way to determine if a headache is migraine.
 
 -   P - Pulsating pain
 -   O - one-day duration

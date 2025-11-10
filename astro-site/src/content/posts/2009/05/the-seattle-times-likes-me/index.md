@@ -13,7 +13,9 @@ Yesterday I was interviewed by the _Seattle Times Coffee City Blog_. I've had a 
 
 > Why do we blog writers need to be validated by the real media? We dont. My goal is to create web sites and to gain audiences for those sites. If a reporter can help me achieve my goal, Ill help them with their story. And if my blog is good enough on its own to tell the story then pay me for it. Otherwise bug off.
 
-The Seattle Times story got everything correct and linked to my websites. Perfect. During the interview I learned the the reporter was also a graduate of _The Ohio State University_. Nice! Here is a scorecard of my dealings with the press.
+The Seattle Times story got everything correct and linked to my websites. Perfect. During the interview I learned the the reporter was also a graduate of _The Ohio State University_. Nice!
+
+Here is a scorecard of my dealings with the press.
 
 -   **St. Petersburg Times (1997-1998)** - The radio reporter for the St. Pete Times stole content from my website for at least one radio column. I was never contacted. The reporter gave credit to my Internet Service Provider.
 -   **Tampa Tribune (1997)** \- Wrote up a nice profile of the Best websites in Tampa Bay. They included a screenshot of my [Virgin Mary Kinison](/2008/03/tampa-bay-satire-1997-1998/) graphic. Very well done.
@@ -27,6 +29,12 @@ The Seattle Times story got everything correct and linked to my websites. Perfec
 -   **Bloomberg (2006)** - Published a story on a caffeine gene marker. They took some quotes from me and linked to my website. Very well done.
 -   **Seattle Times (2009)**\- Yesterday's story mentioned above. Very well done.
 
-There were other smaller papers that I've forgotten about, but I would score my press experiences as 6 positive, 4 negative and 1 neutral. ![usatoday-mas](./img/usatoday-mas.jpg) _Photo from USA Today._ **UPDATE 2014:**
+There were other smaller papers that I've forgotten about, but I would score my press experiences as 6 positive, 4 negative and 1 neutral.
+
+![usatoday-mas](./img/usatoday-mas.jpg)
+
+_Photo from USA Today._
+
+**UPDATE 2014:**
 
 -   **Sun Sentinel and reprinted in Miami Herald (2014)** - Full story and interview with me regarding the Neil Rogers Audio Restoration project ([neilrogers.org](https://neilrogers.org)). Although the story was excellent publicity for the project, the reporter got so many things wrong. I explicitly told him to use my middle name if he quoted me, because my name is so common. He didn't. I wrote a blog post correcting the story from my perspective. see [My Tribute to Radio's Neil Rogers](/2014/01/tribute-radios-neil-rogers/).

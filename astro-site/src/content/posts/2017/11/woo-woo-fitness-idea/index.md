@@ -12,16 +12,30 @@ Before I start this post, I want to disclose my belief on building strength. The
 
 > Chris provides an overview of what the scientific evidence says is required to gain muscle. It isn’t about compound exercises or high volume. It is about recruiting muscle fibers. Your muscles don’t know if that recruitment is coming from free weights, body weight or a machine. But your joints sure do.
 
-I still think most of that paragraph is true. Recruiting muscle fibers is still the path to gaining strength and protecting your joints will reduce your risk of injury, which will result in having more strength over a longer time frame. But something Dr. G Moore said to me in an email got me thinking about an idea I had been toying around with for a month. He said:
+I still think most of that paragraph is true. Recruiting muscle fibers is still the path to gaining strength and protecting your joints will reduce your risk of injury, which will result in having more strength over a longer time frame.
+
+But something Dr. G Moore said to me in an email got me thinking about an idea I had been toying around with for a month. He said:
 
 > When you train exclusively with your body weight, you're heavily penalized for excess body fat.
 
-Clearly a true statement. Not just excess body fat, excess weight period. I started wondering if the causality was bi-directional. Meaning we know a lighter body will excel at bodyweight exercises, but would bodyweight exercises signal to the body to be lighter? Asking that question got me thinking about the opposite case, where one trains exclusively in the big iron movements: squats, benches, and deadlifts. With those exercises having extra bodyweight is not a penalty, but a benefit. Having more weight (to a point) helps one lift more weight. From observation and experience, it seems that lifting heavier weights regularly signals to the body to carry more weight. Let us take 2 young men that both want to get strong. We will call them Karate Ken and Lineman Larry. Ken does a strength training program of bodyweight exercises. Larry does big iron. They both need to be very strong to excel in their sports. For Ken, excess weight is a penalty. For Larry, excess weight (up to a point) is an asset. Maybe my head is scrambled after watching all 18 hours of the new Twin Peaks last month, but this is when my Woo-Woo idea came to me. What if the type of training indirectly determined body composition by affecting appetite differently? If Karate Ken and Lineman Larry each trained equally hard, would Larry have a greater appetite? Is there a mechanism in the human body that can regulate appetite to match the goals of how we build strength? Is the body smart enough to adapt to the demands of the type of weight we lift? Does my brain know I'm lifting myself up into a tree or if I'm lifting a heavy ass rock? This is probably a case where success in a given sport dictates the body type, but I have seen some interesting things over the years that have planted seeds of doubt.
+Clearly a true statement. Not just excess body fat, excess weight period. I started wondering if the causality was bi-directional. Meaning we know a lighter body will excel at bodyweight exercises, but would bodyweight exercises signal to the body to be lighter?
+
+Asking that question got me thinking about the opposite case, where one trains exclusively in the big iron movements: squats, benches, and deadlifts. With those exercises having extra bodyweight is not a penalty, but a benefit. Having more weight (to a point) helps one lift more weight. From observation and experience, it seems that lifting heavier weights regularly signals to the body to carry more weight.
+
+Let us take 2 young men that both want to get strong. We will call them Karate Ken and Lineman Larry. Ken does a strength training program of bodyweight exercises. Larry does big iron. They both need to be very strong to excel in their sports. For Ken, excess weight is a penalty. For Larry, excess weight (up to a point) is an asset.
+
+Maybe my head is scrambled after watching all 18 hours of the new Twin Peaks last month, but this is when my Woo-Woo idea came to me. What if the type of training indirectly determined body composition by affecting appetite differently? If Karate Ken and Lineman Larry each trained equally hard, would Larry have a greater appetite? Is there a mechanism in the human body that can regulate appetite to match the goals of how we build strength? Is the body smart enough to adapt to the demands of the type of weight we lift? Does my brain know I'm lifting myself up into a tree or if I'm lifting a heavy ass rock?
+
+This is probably a case where success in a given sport dictates the body type, but I have seen some interesting things over the years that have planted seeds of doubt.
 
 -   I've seen a friend go from a 300 to a 600-pound squat with a gradual increase in body fat at the same rate.
 -   There are numerous examples of big iron guys that switch over to bodyweight programs that lean out and lose muscle. We have to assume this group knows how to work hard in the gym and they would not want to sacrifice muscle.
 
-Your thoughts? Am I still in a Twin Peaks dream state or if there merit to this Woo-Woo fitness idea? ![Twin Peaks](./img/stephen-walker-twin-peaks.jpg) _Photo by [Stephan Walker](https://unsplash.com/@stephenwalker)_
+Your thoughts? Am I still in a Twin Peaks dream state or if there merit to this Woo-Woo fitness idea?
+
+![Twin Peaks](./img/stephen-walker-twin-peaks.jpg)
+
+_Photo by [Stephan Walker](https://unsplash.com/@stephenwalker)_
 
 ---
 

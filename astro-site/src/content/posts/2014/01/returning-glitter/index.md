@@ -9,11 +9,23 @@ description: "It has only been one month since I stopped going to the gym, but I
 commentCount: 19
 ---
 
-It has only been one month since I stopped going to the gym, but I signed back up today. In the post [Stepping Away From the Glitter...Again!](/2013/11/stepping-away-glitter/) I ranted about how hot my glitter gym was and how I couldn't take it anymore. I would go outside and do [Hillfit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/) instead. That was the plan and it would have worked except for one thing. My knee isn't getting better. Since spring it has been [bumming me out](/2013/10/left-knee-bumming/). Rest isn't working. It isn't even that bad. I can walk for 7 miles with no pain, but driving an hour or more with my stick shift car causes minor soreness. I have stability issues trying to do a wall sit or bodyweight squat in the bent position, so I avoid those movements. I've done foam rolling, braces, topical magnesium, rest, ice, heat, and had taken copious amounts of MSM, gelatin, and Zyflamend. It hasn't gotten much better. A few days ago I was reading a post on the Congruent Exercise Facebook page about the leg extension exercise when I asked Bill about what he'd do for my type of knee pain. Here was his response. ![knee-help](./img/knee-help.png) Later in the thread, the _Framework for the Knee_ book was recommended, so I picked up a copy. I went through it quickly and realized that sitting on my ass waiting for my knee to heal wasn't going to work. Like Bill suggested, the book was clear that I needed access to a stationary bike. Dr. DiNubile writes about cycling:
+It has only been one month since I stopped going to the gym, but I signed back up today. In the post [Stepping Away From the Glitter...Again!](/2013/11/stepping-away-glitter/) I ranted about how hot my glitter gym was and how I couldn't take it anymore. I would go outside and do [Hillfit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/) instead. That was the plan and it would have worked except for one thing.
+
+My knee isn't getting better. Since spring it has been [bumming me out](/2013/10/left-knee-bumming/). Rest isn't working. It isn't even that bad. I can walk for 7 miles with no pain, but driving an hour or more with my stick shift car causes minor soreness. I have stability issues trying to do a wall sit or bodyweight squat in the bent position, so I avoid those movements.
+
+I've done foam rolling, braces, topical magnesium, rest, ice, heat, and had taken copious amounts of MSM, gelatin, and Zyflamend. It hasn't gotten much better. A few days ago I was reading a post on the Congruent Exercise Facebook page about the leg extension exercise when I asked Bill about what he'd do for my type of knee pain.
+
+Here was his response.
+
+![knee-help](./img/knee-help.png)
+
+Later in the thread, the _Framework for the Knee_ book was recommended, so I picked up a copy. I went through it quickly and realized that sitting on my ass waiting for my knee to heal wasn't going to work. Like Bill suggested, the book was clear that I needed access to a stationary bike. Dr. DiNubile writes about cycling:
 
 > It is the cornerstone of knee rehabilitation because, from an exercise specificity standpoint, it targets the ever important quadriceps muscle better than any other aerobic-type exercise, building both strength and endurance.
 
-After reading this, I closed the book and returned to my old gym. With hat in hand, I resigned up. The gym is still too hot, but the focus now is on knee rehab. My gym is only $16.43 a month, so it is a small investment to see if stationary cycling does the trick.   ![FrameWork for the Knee: A 6-Step Plan for Preventing Injury and Ending Pain (FrameWork Active for Life)](https://images-na.ssl-images-amazon.com/images/I/51fnZpOCtDL.jpg) FrameWork for the Knee: A 6-Step Plan for Preventing Injury and Ending Pain (FrameWork Active for Life) by Nicholas A. DiNubile
+After reading this, I closed the book and returned to my old gym. With hat in hand, I resigned up. The gym is still too hot, but the focus now is on knee rehab. My gym is only $16.43 a month, so it is a small investment to see if stationary cycling does the trick.
+
+![FrameWork for the Knee: A 6-Step Plan for Preventing Injury and Ending Pain (FrameWork Active for Life)](https://images-na.ssl-images-amazon.com/images/I/51fnZpOCtDL.jpg) FrameWork for the Knee: A 6-Step Plan for Preventing Injury and Ending Pain (FrameWork Active for Life) by Nicholas A. DiNubile
 
 ---
 

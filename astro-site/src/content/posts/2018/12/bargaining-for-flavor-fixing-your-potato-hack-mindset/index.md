@@ -12,16 +12,40 @@ I have received some variation of this question so many times now, that I though
 
 > Can I add \_\_\_\_ to the potatoes for flavor during the potato hack?
 
-What the person wants to add to the potatoes varies, but the theme is always the same. They want to make the potato hack easier. They want more flavor. They are bargaining. Bargaining for flavor. I briefly discussed this in the 2017 post [The Five Stages of (Potato Hack) Grief](/2017/08/five-stages-potato-hack-grief/). From Stage #3:
+What the person wants to add to the potatoes varies, but the theme is always the same. They want to make the potato hack easier. They want more flavor. They are bargaining. Bargaining for flavor.
+
+I briefly discussed this in the 2017 post [The Five Stages of (Potato Hack) Grief](/2017/08/five-stages-potato-hack-grief/). From Stage #3:
 
 > Bargaining is the most predictable stage. Once they’ve accepted the concept, moved past any objection they can think of, they immediately start looking for loopholes. Can I have sour cream? Can I have ketchup? What about apples? Salads? Eggs? Protein shakes?
 
-The Potato Hack works because you fill your belly with very-low flavor boiled potatoes. It tricks your brain in a good way to break the connection between flavor and satiety. It is a powerful learning experience that will not only help you lose weight but do it a way that helps reset your connection to food in an unnatural environment where food has been engineered to taste better than anything any previous generation of humans since the beginning ever had to taste. But, you are weak and you need your flavor. You can't go 5 days or even 1 day or even one meal with plain boiled potatoes. I have suggested two ways to make it easier to prepare for potato hacking.
+The Potato Hack works because you fill your belly with very-low flavor boiled potatoes. It tricks your brain in a good way to break the connection between flavor and satiety. It is a powerful learning experience that will not only help you lose weight but do it a way that helps reset your connection to food in an unnatural environment where food has been engineered to taste better than anything any previous generation of humans since the beginning ever had to taste.
+
+But, you are weak and you need your flavor. You can't go 5 days or even 1 day or even one meal with plain boiled potatoes.
+
+I have suggested two ways to make it easier to prepare for potato hacking.
 
 1.  Use salt and red wine vinegar as "training wheels" to get the habit started. It will increase the flavor, but not the calories. From there, you can decide what you want to do next.
 2.  [Marine Potato 20 – An Easy Potato Hack For Everyone](/2017/08/marine-potato-20-easy-potato-hack-everyone/)
 
-But for some of you, these hacks aren't enough. Highly-flavorful foods have made you their bitch. You work for your taste buds. They are in control. So let's go back to the original question: _Can I add \_\_\_ to the potatoes for flavor?_ Add it up. If the average human eats 3-5 pounds of food a day, add the potatoes and all your _fixings_ you need, weight it up, take the total calories and measure it against your metabolic rate. There are calculators online to help you with finding yours. If the math works in your favor, test it out. If you are able to make your numbers and NOT FEEL HUNGRY, then congrats. You won't get the full benefit, but you might move in the right direction. Why is important to not feel hungry? Because the brain remembers. It doesn't want you to lean out. Do you know what hunger does during a diet? It puts the brain on alert. Then when your willpower is at its lowest, it cranks up the hunger. Most dieters regain their lost pounds because they never lost the weight in a manner that didn't trigger the brain to go on alert. How do you fool your brain? You fill your belly with potatoes until you can't eat another one. Silencing hunger is the key to maintaining fat loss. If you still think you need to flavor up your potatoes, let me share with you the mindset that helped me **drop 25 pounds and keep it off for more than a year without ever feeling hunger**. Once I understood the roles of flavor and satiety, I saw it like debt. The extra weight I was carrying was like credit card debt. It was there because I spent beyond my means. I took more flavor from the environment than my body could process, so it got stored as fat. I paid off my debt in full by reducing my flavor intake. By reducing my flavor intake, I reduced my calorie intake, but I did it in a way that I never felt hungry. My brain never went into alert status. I believe that reducing flavor is important to the long-term success of a diet. Not every meal, but some. You might potato hack a few days a month or a meal a day or whatever works for you. Plain boiled potatoes are the ultimate tool for breaking the flavor addiction. The ability to go without flavor for a meal or a few days is a skill you develop. It gets easier. That strength of character you build potato hacking stays with you and makes other challenges easier. You can [potato hack](https://criticalmas.org/best-of/potato-hack-diet/)! **Start with one potato.** Then a year from now, come back here and post a comment telling me how much weight you lost and how much better you feel or if you've already been successful, drop some encouragement below. ![potato](./img/lars-blankers-potato.jpg) _Photo by [Lars Blankers](https://unsplash.com/@lmablankers)_
+But for some of you, these hacks aren't enough. Highly-flavorful foods have made you their bitch. You work for your taste buds. They are in control. So let's go back to the original question: _Can I add \_\_\_ to the potatoes for flavor?_
+
+Add it up. If the average human eats 3-5 pounds of food a day, add the potatoes and all your _fixings_ you need, weight it up, take the total calories and measure it against your metabolic rate. There are calculators online to help you with finding yours. If the math works in your favor, test it out. If you are able to make your numbers and NOT FEEL HUNGRY, then congrats. You won't get the full benefit, but you might move in the right direction.
+
+Why is important to not feel hungry? Because the brain remembers. It doesn't want you to lean out. Do you know what hunger does during a diet? It puts the brain on alert. Then when your willpower is at its lowest, it cranks up the hunger. Most dieters regain their lost pounds because they never lost the weight in a manner that didn't trigger the brain to go on alert. How do you fool your brain? You fill your belly with potatoes until you can't eat another one.
+
+Silencing hunger is the key to maintaining fat loss.
+
+If you still think you need to flavor up your potatoes, let me share with you the mindset that helped me **drop 25 pounds and keep it off for more than a year without ever feeling hunger**. Once I understood the roles of flavor and satiety, I saw it like debt. The extra weight I was carrying was like credit card debt. It was there because I spent beyond my means. I took more flavor from the environment than my body could process, so it got stored as fat. I paid off my debt in full by reducing my flavor intake.
+
+By reducing my flavor intake, I reduced my calorie intake, but I did it in a way that I never felt hungry. My brain never went into alert status. I believe that reducing flavor is important to the long-term success of a diet. Not every meal, but some. You might potato hack a few days a month or a meal a day or whatever works for you.
+
+Plain boiled potatoes are the ultimate tool for breaking the flavor addiction.
+
+The ability to go without flavor for a meal or a few days is a skill you develop. It gets easier. That strength of character you build potato hacking stays with you and makes other challenges easier. You can [potato hack](https://criticalmas.org/best-of/potato-hack-diet/)! **Start with one potato.** Then a year from now, come back here and post a comment telling me how much weight you lost and how much better you feel or if you've already been successful, drop some encouragement below.
+
+![potato](./img/lars-blankers-potato.jpg)
+
+_Photo by [Lars Blankers](https://unsplash.com/@lmablankers)_
 
 ---
 

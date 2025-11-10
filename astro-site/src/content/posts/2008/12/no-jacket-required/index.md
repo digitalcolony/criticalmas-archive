@@ -13,7 +13,11 @@ Last April in the post [Shivering My Way to Leanness](/2008/04/shivering-my-way-
 
 > Went to the gym this morning at 7:45 AM in my tank top and shorts. It was a bit brisk, but not cold. At least that is what I thought. When I got home I checked the weather and it read 41 degrees (5 C). I guess Ive acclimatized to the Seattle area.
 
-The above story was a short trip to my gym by car, where I had only a few minutes of outdoor air exposure. **The testing has gotten a lot more intense.** On an average day, I am now spending between 1 to 2 hours outside. As temperatures gradually dropped from the summer 70s to the current mid-40s, I have remained in short-sleeved shirts. If the wind is strong, I'll add a thin fleece on top, but that has only happened once so far this season. ![No Jacket Required](https://images-na.ssl-images-amazon.com/images/I/311W5Z4NAYL.jpg) _My cold weather exposure tests are not to be confused with the 1985 Phil Collins release._ There are three goals of cold weather exposure.
+The above story was a short trip to my gym by car, where I had only a few minutes of outdoor air exposure. **The testing has gotten a lot more intense.** On an average day, I am now spending between 1 to 2 hours outside. As temperatures gradually dropped from the summer 70s to the current mid-40s, I have remained in short-sleeved shirts. If the wind is strong, I'll add a thin fleece on top, but that has only happened once so far this season.
+
+![No Jacket Required](https://images-na.ssl-images-amazon.com/images/I/311W5Z4NAYL.jpg) _My cold weather exposure tests are not to be confused with the 1985 Phil Collins release._
+
+There are three goals of cold weather exposure.
 
 1.  Protection from heart attacks and strokes. De Vany believes that cold weather exposure produces an acceptable amount of stress that can condition the body to deal with much harsher stresses in the future. He theorizes: _"The adaptive capacity extends to other stresses as well and, thus, may protect you against a heart attack or a life-stressing event."_
 2.  Getting Leaner. Is this the third path to fat loss, after diet and exercise?
@@ -25,7 +29,11 @@ Although my testing will continue, I want to give a status report on how these g
 2.  Too soon to tell on this one. Every year when the colder weather comes, I gain some fat. This year I haven't, but I also haven't gotten leaner. So the jury is still out on this one. By spring I should have a better idea of the fat-burning effects of cold weather exposure.
 3.  **Acclimatization has been an amazing success.** My body has been able to adapt to cold temperatures more this year than in the 24 years I lived in Ohio. When I first walk out the door, I get the sting of cold on my exposed skin, but it goes away in minutes. I love walking around my city enjoying the cool brisk air without putting on a jacket.
 
-While putting this post together, I discovered a 3-minute video by Art De Vany explaining how cold weather exposure accelerates the burning of body fat. _(2020: video no longer online)_ Since content by Art De Vany is often moved or removed from the Internet, I've taken some notes from the video below.
+While putting this post together, I discovered a 3-minute video by Art De Vany explaining how cold weather exposure accelerates the burning of body fat.
+
+_(2020: video no longer online)_
+
+Since content by Art De Vany is often moved or removed from the Internet, I've taken some notes from the video below.
 
 -   Infants have BAT (brown adipose tissue) to protect them from cold.
 -   People in cold climates retain BAT.

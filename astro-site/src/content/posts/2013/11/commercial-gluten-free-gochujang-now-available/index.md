@@ -9,7 +9,23 @@ description: "UPDATE (September 7, 2014): This product is wheat-free, not neces
 commentCount: 12
 ---
 
-**UPDATE (September 7, 2014):** _This product is wheat-free, not necessarily gluten free._  Good news for my fellow gluten free peeps that wish to cook more Korean dishes at home. You no longer need to [make your own gluten-free gochujang](/2012/10/making-gluten-free-korean-chili-paste-gochujang/) (Korean chili pepper paste). There now exists at least one option that does not have added wheat. That is the good news. The bad news is it will still be extremely difficult to find. Most Asian grocery stores will not carry it. And of the three Korean grocery stores I visit, I've only seen it at one of them. To be honest, I actually needed the help of a Korean friend to spot it. ![GF-gochujang](./img/GF-gochujang.jpg) Start your search by looking for containers that look like this one. That will narrow your search. However, MOST of the containers that look like this still have added wheat. So you'll still need to look at the ingredients. ![GF-gochujang-label](./img/GF-gochujang-label.jpg) Not exactly the most healthy list of ingredients, but as you can see no added wheat. This is to my knowledge, the first and only brand of gochujang that is safe to eat for those trying to avoid gluten. It tastes fine. Not as good as my [homemade gochujang recipe](/2012/10/making-gluten-free-korean-chili-paste-gochujang/), but far more convenient. Several years ago when I first got into [kimchi](/2012/08/kimchi-2-0/), all the brands had added crap,. Things like MSG and a few unpronounceable ingredients, which are totally unnecessary for fermented vegetables. Today most brands of kimchi have a clean list of ingredients - even at the Korean grocery stores. This is an encouraging trend. My inner Korean is pleased. :)
+**UPDATE (September 7, 2014):** _This product is wheat-free, not necessarily gluten free._ 
+
+Good news for my fellow gluten free peeps that wish to cook more Korean dishes at home. You no longer need to [make your own gluten-free gochujang](/2012/10/making-gluten-free-korean-chili-paste-gochujang/) (Korean chili pepper paste). There now exists at least one option that does not have added wheat.
+
+That is the good news.
+
+The bad news is it will still be extremely difficult to find. Most Asian grocery stores will not carry it. And of the three Korean grocery stores I visit, I've only seen it at one of them. To be honest, I actually needed the help of a Korean friend to spot it.
+
+![GF-gochujang](./img/GF-gochujang.jpg)
+
+Start your search by looking for containers that look like this one. That will narrow your search. However, MOST of the containers that look like this still have added wheat. So you'll still need to look at the ingredients.
+
+![GF-gochujang-label](./img/GF-gochujang-label.jpg)
+
+Not exactly the most healthy list of ingredients, but as you can see no added wheat. This is to my knowledge, the first and only brand of gochujang that is safe to eat for those trying to avoid gluten.
+
+It tastes fine. Not as good as my [homemade gochujang recipe](/2012/10/making-gluten-free-korean-chili-paste-gochujang/), but far more convenient. Several years ago when I first got into [kimchi](/2012/08/kimchi-2-0/), all the brands had added crap,. Things like MSG and a few unpronounceable ingredients, which are totally unnecessary for fermented vegetables. Today most brands of kimchi have a clean list of ingredients - even at the Korean grocery stores. This is an encouraging trend. My inner Korean is pleased. :)
 
 ---
 

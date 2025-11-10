@@ -9,7 +9,9 @@ description: "My membership to the Northgate 24-Hour Fitness has ended. During m
 commentCount: 48
 ---
 
-My membership to the Northgate 24-Hour Fitness has ended. During my 2 year relationship with them, they upgraded their facility from a small gym (_Express_) to a monstrosity (_Super Sport_). The fair deal that I once paid would no longer be enough. They need more money to pay for all those treadmills, _Zumba_ classes, and other crap I never use. It was time for me to find a new gym. My original plan was to play the _gym hop_ game. I would spend a month or two going from gym to gym scoring free trial passes before negotiating a sweet deal somewhere. Then I got another idea that involved taking what I learned about High-Intensity Training and applying it to an outdoor workout.
+My membership to the Northgate 24-Hour Fitness has ended. During my 2 year relationship with them, they upgraded their facility from a small gym (_Express_) to a monstrosity (_Super Sport_). The fair deal that I once paid would no longer be enough. They need more money to pay for all those treadmills, _Zumba_ classes, and other crap I never use. It was time for me to find a new gym.
+
+My original plan was to play the _gym hop_ game. I would spend a month or two going from gym to gym scoring free trial passes before negotiating a sweet deal somewhere. Then I got another idea that involved taking what I learned about High-Intensity Training and applying it to an outdoor workout.
 
 
 ### Didn't I Try This Once Before?
@@ -23,13 +25,21 @@ Back then my workout was:
 
 > 5 Pull Ups + 10 Push Ups repeated for 7 sets (30-40 seconds between sets)
 
-I now view that workout as focusing too much on volume and too little on intensity. After a few weeks, I felt like I needed to lift something heavy, so I returned to the Glitter Gym. In order to make my return to outdoor training successful, I'd need to figure out a way to increase intensity safely in a body-weight environment. ![Green Lake Pull Up Rings](./img/green-lake-pull-up.jpg "Green Lake Pull Up Rings") _My new gym_
+I now view that workout as focusing too much on volume and too little on intensity. After a few weeks, I felt like I needed to lift something heavy, so I returned to the Glitter Gym. In order to make my return to outdoor training successful, I'd need to figure out a way to increase intensity safely in a body-weight environment.
+
+![Green Lake Pull Up Rings](./img/green-lake-pull-up.jpg "Green Lake Pull Up Rings")
+
+_My new gym_
 
 
 ### Learning From Art De Vany and John Little
 
 
-The goal with High Intensity Training is deep muscular recruitment. One set to failure. Then allow time for full recovery. Any additional work is unnecessary and would short-circuit the recovery progress. Doing this with machines at a gym is pretty easy. Drop the pin into the weight stack at the resistance level you want and go. With outdoor HIT, the only weight in the "gym" is what you weigh. [Art De Vany](/2010/12/the-new-evolution-diet/) is a fan of lifting a lower weight for 15 reps for the first set. He states this pre-exhausts the slow muscle fibers. At that point, he adds weight, reduces the reps, and targets the fast-twitch muscle fibers. But since I'm outside and have no weights, I'm just going to use his idea to get started. Then I'll conclude the exercise using a strategy that I learned from [John Little](/2011/05/max-contraction-training/) to target the fast twitch fibers. Static hold. John Little developed a protocol called Max Pyramid that involves holding a weight in a maximum _"[moment arm](http://www.youtube.com/watch?v=JipFOs17kg0)"_ to recruit and fatigue all muscle fibers. So instead of moving the weight through a full range of movement, you resist against the weight at the point where the most muscle is engaged. And then you hold it until complete failure is reached. Using the pre-exhaustion technique offered by De Vany, I theorized you could use a far lower weight for the Static Hold. More specifically, your body weight.
+The goal with High Intensity Training is deep muscular recruitment. One set to failure. Then allow time for full recovery. Any additional work is unnecessary and would short-circuit the recovery progress. Doing this with machines at a gym is pretty easy. Drop the pin into the weight stack at the resistance level you want and go. With outdoor HIT, the only weight in the "gym" is what you weigh.
+
+[Art De Vany](/2010/12/the-new-evolution-diet/) is a fan of lifting a lower weight for 15 reps for the first set. He states this pre-exhausts the slow muscle fibers. At that point, he adds weight, reduces the reps, and targets the fast-twitch muscle fibers. But since I'm outside and have no weights, I'm just going to use his idea to get started. Then I'll conclude the exercise using a strategy that I learned from [John Little](/2011/05/max-contraction-training/) to target the fast twitch fibers. Static hold.
+
+John Little developed a protocol called Max Pyramid that involves holding a weight in a maximum _"[moment arm](http://www.youtube.com/watch?v=JipFOs17kg0)"_ to recruit and fatigue all muscle fibers. So instead of moving the weight through a full range of movement, you resist against the weight at the point where the most muscle is engaged. And then you hold it until complete failure is reached. Using the pre-exhaustion technique offered by De Vany, I theorized you could use a far lower weight for the Static Hold. More specifically, your body weight.
 
 
 ### My Outdoor HIT Workout
@@ -49,7 +59,13 @@ That is it. My entire workout took about 7 minutes. I reached a deeper level of 
 ### Workable? Sustainable?
 
 
-I was skeptical when I drove out to the park for two reasons. First I was concerned that I wouldn't be able to generate enough intensity to create an effective workout. My second concern was the weather. If 61 degrees is the optimal temperature for intensity, 43 might prove too cold, even for someone who practices [Cold Weather Exposure](https://criticalmas.org/best-of/cold-weather-training/). Did it work? Absolutely. That brief highly intense workout kicked my ass. It was safe and it required no gym membership. A public park with a pull-up bar was all I needed. Since my workout, I've located a much closer park with a jungle gym that I can use to replicate a chin-up bar. Is it sustainable? I believe so. Unlike the energy foolish, I'm not working out 3-5 times a week for 30-60 minutes. All I need is about 10 minutes maximum once every 5-7 days. As crappy as the weather gets during a Seattle winter, I should easily be able to find a brief pocket of weather similar to my first outdoor HIT workout. Then as we move into warmer weather, I can just move my workout to the early morning hours. I've escaped the Glitter!
+I was skeptical when I drove out to the park for two reasons. First I was concerned that I wouldn't be able to generate enough intensity to create an effective workout. My second concern was the weather. If 61 degrees is the optimal temperature for intensity, 43 might prove too cold, even for someone who practices [Cold Weather Exposure](https://criticalmas.org/best-of/cold-weather-training/).
+
+Did it work? Absolutely. That brief highly intense workout kicked my ass. It was safe and it required no gym membership. A public park with a pull-up bar was all I needed. Since my workout, I've located a much closer park with a jungle gym that I can use to replicate a chin-up bar.
+
+Is it sustainable? I believe so. Unlike the energy foolish, I'm not working out 3-5 times a week for 30-60 minutes. All I need is about 10 minutes maximum once every 5-7 days. As crappy as the weather gets during a Seattle winter, I should easily be able to find a brief pocket of weather similar to my first outdoor HIT workout. Then as we move into warmer weather, I can just move my workout to the early morning hours.
+
+I've escaped the Glitter!
 
 ---
 

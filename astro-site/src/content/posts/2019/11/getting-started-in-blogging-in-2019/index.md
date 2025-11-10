@@ -11,33 +11,57 @@ commentCount: 9
 
 After my last post, [My Blog Was Hacked and WordPress Sucks](/2019/11/my-blog-was-hacked-and-wordpress-sucks/) I received an email from a reader that I want to share and respond to.
 
-> What a clusterfck, Just think of the headaches that would create for a neophyte. The neophyte would have to pay some whoring web design/hosting operation thousands over the course of a few years just to troubleshoot the constantly evolving miasma of bullshit. After reading your post -- I am convinced that having a blog would be a really bad idea. A San Diego contact appears to use a FB business page for his digital product, mail chimp newsletter etc. Maybe that's the way forward for us tech neophytes.
+> What a clusterfck, Just think of the headaches that would create for a neophyte. The neophyte would have to pay some whoring web design/hosting operation thousands over the course of a few years just to troubleshoot the constantly evolving miasma of bullshit.
+> 
+> After reading your post -- I am convinced that having a blog would be a really bad idea.
+> 
+> A San Diego contact appears to use a FB business page for his digital product, mail chimp newsletter etc. Maybe that's the way forward for us tech neophytes.
 
-The spirit of this comment is absolutely correct. WordPress for a non-technical person can be done, but it has so many moving parts that for most people it can be problematic. You can make a lot of these problems go away by spending more money or accepting more limitations. You can give your money to a developer or a designer and hope everything works out. The beginner is often the person that doesn't know if blogging is right for them, but wants to try. A self-hosted WordPress site is a big hurdle to tackle, especially at the same time you are trying to come up with ideas to post about. For years I have attended a local WordPress Meetup group. There are designers, developers, and bloggers. Countless beginners have attended these events to find someone to help them solve their WordPress issues. I've seen many come month after month tackling one issue at a time. They spend their time fighting the software and not creating content or creating very little. I'd guess the majority give up and quit. Defeated by the software.
+The spirit of this comment is absolutely correct. WordPress for a non-technical person can be done, but it has so many moving parts that for most people it can be problematic. You can make a lot of these problems go away by spending more money or accepting more limitations.
+
+You can give your money to a developer or a designer and hope everything works out. The beginner is often the person that doesn't know if blogging is right for them, but wants to try. A self-hosted WordPress site is a big hurdle to tackle, especially at the same time you are trying to come up with ideas to post about.
+
+For years I have attended a local WordPress Meetup group. There are designers, developers, and bloggers. Countless beginners have attended these events to find someone to help them solve their WordPress issues. I've seen many come month after month tackling one issue at a time. They spend their time fighting the software and not creating content or creating very little. I'd guess the majority give up and quit. Defeated by the software.
 
 
 ### Digital Sharecropping
 
 
-The fact that WordPress gets more bloated and frustrating every year and that Google has never modernized the Blogger platform are driving a generation of would-be bloggers to social media as a "blogging" platform. It is much easier to use Facebook, Instagram, or Medium. But there are big problems with this approach.
+The fact that WordPress gets more bloated and frustrating every year and that Google has never modernized the Blogger platform are driving a generation of would-be bloggers to social media as a "blogging" platform.
+
+It is much easier to use Facebook, Instagram, or Medium. But there are big problems with this approach.
 
 1.  You don't own anything. WordPress is open-source software. If I don't like my web host, I can fire them and be up and running on a new host in an hour. I can even run a local copy on my laptop.
 2.  Social media hides A LOT. See [this post](/2013/11/shutting-down-the-criticalmas-facebook-page/).
 3.  You can be kicked off without recourse or even an explanation at any time for any reason. Make a joke or a comment that offends someone in a tech company and you can see years of work disappear in seconds. And it is happening.
 
-![naval tweet](./img/Screenshot_2019-11-16-Naval-naval-Twitter-e1573920405941.png) Social media does have a place and that is to promote your content. Use social media to leave breadcrumbs back to your assets, but don't use it for creating those assets. Before I left Facebook last December, I looked for ways to connect with some creators outside the FB ecosystem. If I found a blog or newsletter, I went there. If they didn't have anything but Facebook, I left them. They lost me because I found Facebook to be a toxic platform.
+![naval tweet](./img/Screenshot_2019-11-16-Naval-naval-Twitter-e1573920405941.png)
+
+Social media does have a place and that is to promote your content. Use social media to leave breadcrumbs back to your assets, but don't use it for creating those assets.
+
+Before I left Facebook last December, I looked for ways to connect with some creators outside the FB ecosystem. If I found a blog or newsletter, I went there. If they didn't have anything but Facebook, I left them. They lost me because I found Facebook to be a toxic platform.
 
 
 ### Easy Blogging Options
 
 
-Wix and Square Space are two options that make blogging easier. I have not used either one but based on reading the help files, I would consider Square Space, as it seems it would be easier to export your content should you choose to leave. WordPress.com is probably the best option for now. They host a limited version of the WordPress site and handle the security for you. It is still a challenge but not as much as a self-hosted site. This might be the training wheels to get you going. And it would allow you to export your content easily when you want to do more with your site. ![wordpress](./img/wordpress-ss.jpg) _WordPress.com is the paid service version of WordPress. It has fewer options, which can be a good thing when starting out._
+Wix and Square Space are two options that make blogging easier. I have not used either one but based on reading the help files, I would consider Square Space, as it seems it would be easier to export your content should you choose to leave.
+
+WordPress.com is probably the best option for now. They host a limited version of the WordPress site and handle the security for you. It is still a challenge but not as much as a self-hosted site. This might be the training wheels to get you going. And it would allow you to export your content easily when you want to do more with your site.
+
+![wordpress](./img/wordpress-ss.jpg)
+
+_WordPress.com is the paid service version of WordPress. It has fewer options, which can be a good thing when starting out._
 
 
 ### The Future
 
 
-There is this big opportunity in the blogging space. We need an open-source blogging platform that is as easy to use as Medium and lets bloggers freely and easily move platforms without fear of being filtered or shutdown. I think Google could solve this problem (See #2 on [this list](/2019/06/how-google-helped-kill-the-indie-web-and-how-it-can-bring-it-back/)). But Google can't be trusted, as they have a [long history of killing off services](https://killedbygoogle.com/) that users invest so much energy into. This article outlines the [12 main blogging choices](https://www.isitwp.com/best-blogging-platforms-beginners-compared/) we have in 2019. It is a sad list, but the only two I would consider for a newbie would be #3 WordPress.com or #7 SquareSpace. As frustrated as I am with WordPress, it isn't going anywhere, as it runs about 30% of the internet. Learning WordPress on the training wheels version will help if you migrate to self-hosted WordPress someday.
+There is this big opportunity in the blogging space. We need an open-source blogging platform that is as easy to use as Medium and lets bloggers freely and easily move platforms without fear of being filtered or shutdown.
+
+I think Google could solve this problem (See #2 on [this list](/2019/06/how-google-helped-kill-the-indie-web-and-how-it-can-bring-it-back/)). But Google can't be trusted, as they have a [long history of killing off services](https://killedbygoogle.com/) that users invest so much energy into.
+
+This article outlines the [12 main blogging choices](https://www.isitwp.com/best-blogging-platforms-beginners-compared/) we have in 2019. It is a sad list, but the only two I would consider for a newbie would be #3 WordPress.com or #7 SquareSpace. As frustrated as I am with WordPress, it isn't going anywhere, as it runs about 30% of the internet. Learning WordPress on the training wheels version will help if you migrate to self-hosted WordPress someday.
 
 ---
 

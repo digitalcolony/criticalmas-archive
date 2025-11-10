@@ -9,7 +9,13 @@ description: "For a background to this post see How I Plan to Lose 20 Pounds and
 commentCount: 7
 ---
 
-_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._ Week #1 Weigh-in: **Down 3 pounds.** From 216 to 213. I suppose this is a common weight loss in the first week. It is especially common when people drop processed carbs with high levels of salt. But I consumed almost no processed carbs before and I didn't cut back on the salt. I fully expect the first 10 pounds to be easy. After that it will get more challenging. I mostly credit reducing my morning calories for the first week progress. Below is my food journal for last week. I'm not counting calories or weighing anything. The early phase of this diet is about making better choices. And as long as I'm making progress, why complicate things?
+_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._
+
+Week #1 Weigh-in: **Down 3 pounds.** From 216 to 213. I suppose this is a common weight loss in the first week. It is especially common when people drop processed carbs with high levels of salt. But I consumed almost no processed carbs before and I didn't cut back on the salt.
+
+I fully expect the first 10 pounds to be easy. After that it will get more challenging. I mostly credit reducing my morning calories for the first week progress.
+
+Below is my food journal for last week. I'm not counting calories or weighing anything. The early phase of this diet is about making better choices. And as long as I'm making progress, why complicate things?
 
 
 ### Sunday Feb 23
@@ -111,7 +117,11 @@ _For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet
 -   cod
 -   grapes
 
-![lengua taco](http://farm5.staticflickr.com/4012/4433838052_a00050acf5_z.jpg) _[Photo](http://www.flickr.com/photos/morganrochele/4433838052/) by Morgan Rochele. Lengua tacos means beef tongue._  A couple of notes.
+![lengua taco](http://farm5.staticflickr.com/4012/4433838052_a00050acf5_z.jpg)
+
+_[Photo](http://www.flickr.com/photos/morganrochele/4433838052/) by Morgan Rochele. Lengua tacos means beef tongue._ 
+
+A couple of notes.
 
 1.  I often eat coconut oil and kimchi (not together) in the AM. It is an [appetite suppressing trick](/2011/10/intermittent-fasting-the-no-hunger-method/) I learned a few years ago.
 2.  I no longer mix mayo into my tuna. I find mustard works fine. I've also mixed fish sauce with thai peppers into tuna.

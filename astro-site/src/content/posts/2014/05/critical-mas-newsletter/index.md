@@ -9,11 +9,23 @@ description: "For the longest time, I have rejected the idea of having a newslet
 commentCount: 7
 ---
 
-For the longest time, I have rejected the idea of having a newsletter for this site. There are too many spammy sites out there that have jumped on the "win the inbox" meme. But there are some people doing it right. They cultivate content and limit the number of emails they send. And although I wish the world would all embrace [RSS](/2013/11/shutting-down-the-criticalmas-facebook-page/), I can see that isn't going to happen. Facebook, Twitter and Google+ want to get between content providers and content consumers. A newsletter is a way around that control. Unlike Matt Stone and Danny Roddy, I have zero plans to ever shut down my website and become newsletter only. They are both making a serious mistake, which I'll cover in a future post. My initial plans for the Critical MAS newsletter is to summarize what is new on the blog as well as highlight older posts that are still relevant. I don't see any reason to send the newsletter out more than 1 or 2 times a month. If I were still actively posting on finance, I could see a more frequent mailing, but I'm not.
+For the longest time, I have rejected the idea of having a newsletter for this site. There are too many spammy sites out there that have jumped on the "win the inbox" meme. But there are some people doing it right. They cultivate content and limit the number of emails they send. And although I wish the world would all embrace [RSS](/2013/11/shutting-down-the-criticalmas-facebook-page/), I can see that isn't going to happen. Facebook, Twitter and Google+ want to get between content providers and content consumers. A newsletter is a way around that control.
+
+Unlike Matt Stone and Danny Roddy, I have zero plans to ever shut down my website and become newsletter only. They are both making a serious mistake, which I'll cover in a future post.
+
+My initial plans for the Critical MAS newsletter is to summarize what is new on the blog as well as highlight older posts that are still relevant. I don't see any reason to send the newsletter out more than 1 or 2 times a month. If I were still actively posting on finance, I could see a more frequent mailing, but I'm not.
 
 ---
 
-\[mc4wp\_form\] ![Lil MAS first Day of School](./img/268590984_qQ56e-M.jpg) _Your first newsletter!_  :) By the way, this is not a replacement for Feedburner's RSS to email service. That will continue as is.
+\[mc4wp\_form\]
+
+![Lil MAS first Day of School](./img/268590984_qQ56e-M.jpg)
+
+_Your first newsletter!_ 
+
+:)
+
+By the way, this is not a replacement for Feedburner's RSS to email service. That will continue as is.
 
 ---
 

@@ -9,13 +9,23 @@ description: "I've only been doing High Intensity Training for a little more tha
 commentCount: 7
 ---
 
-I've only been doing [High Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) for a little more than a year now, so I am far from an authority on the topic. Before I became a believer in the effectiveness of HIT, I really didn't pay much attention to its supporters or detractors. However, in the last year, I've read numerous fitness articles and comments on the Internet attacking HIT. Now I'm just a regular person. I'm not a personal trainer and I don't have a client list to prove to anyone anything. What I've discovered in the past year is that HIT is highly effective for me. I did it the other way for 16 years. In my N=1 experiment, High-Intensity Training is superior to traditional weight lifting or explosive training. I'm not saying HIT is superior for everyone - just for me.
+I've only been doing [High Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) for a little more than a year now, so I am far from an authority on the topic. Before I became a believer in the effectiveness of HIT, I really didn't pay much attention to its supporters or detractors. However, in the last year, I've read numerous fitness articles and comments on the Internet attacking HIT.
+
+Now I'm just a regular person. I'm not a personal trainer and I don't have a client list to prove to anyone anything. What I've discovered in the past year is that HIT is highly effective for me. I did it the other way for 16 years. In my N=1 experiment, High-Intensity Training is superior to traditional weight lifting or explosive training. I'm not saying HIT is superior for everyone - just for me.
 
 
 ### Is Coca-Cola Better than RC Draft Cola?
 
 
-One of the things I constantly read from fitness "experts" is how HIT is flawed because they see better results with clients that don't follow a High-Intensity Training protocol. They say this as if it is proof that HIT is less effective. For starters, I don't discount that statement is true. But it is not for the implied reason. Way more people are exposed to traditional weightlifting protocols than HIT. I'd be surprised if HIT made up 1% of all strength training. It only makes sense with that huge of an advantage that non-HIT trainers would have a greater pool of successes. Also, those athletes that respond well to classic strength training are going to be less likely to give it up and embrace HIT. So we don't know if they would do better or worse on HIT, what we know is they aren't going to be as motivated to switch. Back in the mid-1990s, I was still drinking cola. I preferred Coke over Pepsi. One day I spotted RC Draft Cola and tried to recall if I liked it as a child. I wasn't sure, but I was willing to give it a try. The taste blew me away. It was superior to Coke, probably because it used raw cane sugar and no high fructose corn syrup. For a few months, I recall telling friends and co-workers about RC Draft Cola. With one exception, I don't think anyone tried it. Coke was working for them, why should they seek out a far less popular cola option? I was able to get one die-hard Coke fan to try it and agree with me. ![RC Draft Cola](./img/rc-draft-cola.jpg "RC Draft Cola") The fact way more people prefer Coke to RC Draft Cola isn't proof that Coke is superior. And the fact the majority of elite athletes don't use HIT isn't proof that traditional strength training is superior.
+One of the things I constantly read from fitness "experts" is how HIT is flawed because they see better results with clients that don't follow a High-Intensity Training protocol. They say this as if it is proof that HIT is less effective. For starters, I don't discount that statement is true. But it is not for the implied reason.
+
+Way more people are exposed to traditional weightlifting protocols than HIT. I'd be surprised if HIT made up 1% of all strength training. It only makes sense with that huge of an advantage that non-HIT trainers would have a greater pool of successes. Also, those athletes that respond well to classic strength training are going to be less likely to give it up and embrace HIT. So we don't know if they would do better or worse on HIT, what we know is they aren't going to be as motivated to switch.
+
+Back in the mid-1990s, I was still drinking cola. I preferred Coke over Pepsi. One day I spotted RC Draft Cola and tried to recall if I liked it as a child. I wasn't sure, but I was willing to give it a try. The taste blew me away. It was superior to Coke, probably because it used raw cane sugar and no high fructose corn syrup. For a few months, I recall telling friends and co-workers about RC Draft Cola. With one exception, I don't think anyone tried it. Coke was working for them, why should they seek out a far less popular cola option? I was able to get one die-hard Coke fan to try it and agree with me.
+
+![RC Draft Cola](./img/rc-draft-cola.jpg "RC Draft Cola")
+
+The fact way more people prefer Coke to RC Draft Cola isn't proof that Coke is superior. And the fact the majority of elite athletes don't use HIT isn't proof that traditional strength training is superior.
 
 
 ### Measuring Failure
@@ -27,7 +37,9 @@ Just as Coke has far more fans than RC Draft Cola, more people have quit drinkin
 ### Try Both
 
 
-Instead of repeating the same old arguments for and against HIT, why not just try it for yourself? Seek out a top trainer in your area and schedule a workout. I thought I understood intensity after reading Body By Science and watching a few videos online. I didn't. After my workout at Ideal Exercise, it all clicked. _UPDATE (Feb 4, 2012): I changed the title of this post to be more descriptive._
+Instead of repeating the same old arguments for and against HIT, why not just try it for yourself? Seek out a top trainer in your area and schedule a workout. I thought I understood intensity after reading Body By Science and watching a few videos online. I didn't. After my workout at Ideal Exercise, it all clicked.
+
+_UPDATE (Feb 4, 2012): I changed the title of this post to be more descriptive._
 
 ---
 

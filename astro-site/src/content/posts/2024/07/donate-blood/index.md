@@ -8,7 +8,23 @@ description: "Back in 2010, I posted The Selfish Case For Donating Blood. It was
 commentCount: 5
 ---
 
-Back in 2010, I posted [The Selfish Case For Donating Blood](/2010/06/the-selfish-case-for-donating-blood/). It was about how I was inspired to donate blood again to reduce iron levels. Years later, my primary motivation shifted to removing [environmental toxins](/2022/07/seed-oils-blood-donations-and-body-temperature/) and later [microplastics](/2024/05/dieting-seed-oils-microplastics/). Fast forward to 2024 and I've donated almost 6 gallons of blood in Washington. I have also donated a gallon in both Florida and California. Then last week, I received this text. ![](./img/donate-blood.jpg) Powerful. While I am busy optimizing my health, someone else is clinging to life. And we both are helping each other. One day that might be me in need of life-saving blood. Some people whine that they don't like needles as an excuse not to donate. Think about what this patient and his family are going through right now and weigh that against some minor discomfort you might experience. In my life, I've only had one bad blood draw. My arm was bruised for a bit and I was back donating 56 days later. Donate blood.
+Back in 2010, I posted [The Selfish Case For Donating Blood](/2010/06/the-selfish-case-for-donating-blood/). It was about how I was inspired to donate blood again to reduce iron levels. Years later, my primary motivation shifted to removing [environmental toxins](/2022/07/seed-oils-blood-donations-and-body-temperature/) and later [microplastics](/2024/05/dieting-seed-oils-microplastics/).
+
+Fast forward to 2024 and I've donated almost 6 gallons of blood in Washington. I have also donated a gallon in both Florida and California.
+
+Then last week, I received this text.
+
+![](./img/donate-blood.jpg)
+
+Powerful.
+
+While I am busy optimizing my health, someone else is clinging to life. And we both are helping each other. One day that might be me in need of life-saving blood.
+
+Some people whine that they don't like needles as an excuse not to donate. Think about what this patient and his family are going through right now and weigh that against some minor discomfort you might experience.
+
+In my life, I've only had one bad blood draw. My arm was bruised for a bit and I was back donating 56 days later.
+
+Donate blood.
 
 ---
 

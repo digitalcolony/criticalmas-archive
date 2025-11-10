@@ -9,7 +9,9 @@ description: "After posting True Job Insurance Means Shorting Your Own Company e
 commentCount: 5
 ---
 
-After posting [True Job Insurance Means Shorting Your Own Company](/2008/07/true-job-insurance-means-shorting-your-own-company/) earlier this week I realized it raised some questions that weren't answered in the post. DHammy stated accurately:
+After posting [True Job Insurance Means Shorting Your Own Company](/2008/07/true-job-insurance-means-shorting-your-own-company/) earlier this week I realized it raised some questions that weren't answered in the post.
+
+DHammy stated accurately:
 
 > I think its unlikely anyone is going to follow this advice. People just arent able to see how big that gap is between what they know and what they think they know.
 
@@ -23,7 +25,11 @@ Matt's comment got me thinking as well.
 
 > How about never joining a company, but creating your own and investing in it?
 
-I should have been more clear. Shorting your own company is NOT an investment strategy. It is a hedging strategy. It is protection for the event you don't want to happen. Only use a small amount of money you are willing to lose. Think of it like car insurance. You have coverage and hope to never use it. Matt also brings up the self-employed angle. If you are self-employed or work for a private company, then you do not have the option of shorting your employer. What should be your hedging strategy here? I would advise buying long-term puts on a same sector ETF. If your company is in healthcare, then buy puts on something like ProShares Ultra Health Care ETF. Before I get attacked on this point, let me invent a hypothetical situation to use as an example. Sue quits her job and decides to start her own luggage business. She pools her money and loans to start production on her product line. Then 9/11 hits. Nobody is traveling. Nobody is buying luggage. Her business is wiped out before her first sale. The undervalued unexpected event hit her hard. Had Sue purchased some long term puts on a travel related sector such as airlines, she would be much better off. And it wouldn't have cost her much money.
+I should have been more clear. Shorting your own company is NOT an investment strategy. It is a hedging strategy. It is protection for the event you don't want to happen. Only use a small amount of money you are willing to lose. Think of it like car insurance. You have coverage and hope to never use it.
+
+Matt also brings up the self-employed angle. If you are self-employed or work for a private company, then you do not have the option of shorting your employer. What should be your hedging strategy here? I would advise buying long-term puts on a same sector ETF. If your company is in healthcare, then buy puts on something like ProShares Ultra Health Care ETF.
+
+Before I get attacked on this point, let me invent a hypothetical situation to use as an example. Sue quits her job and decides to start her own luggage business. She pools her money and loans to start production on her product line. Then 9/11 hits. Nobody is traveling. Nobody is buying luggage. Her business is wiped out before her first sale. The undervalued unexpected event hit her hard. Had Sue purchased some long term puts on a travel related sector such as airlines, she would be much better off. And it wouldn't have cost her much money.
 
 ---
 

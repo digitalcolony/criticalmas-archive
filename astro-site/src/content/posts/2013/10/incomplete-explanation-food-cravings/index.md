@@ -13,7 +13,19 @@ I just finished reading [How to Stop Food Cravings](https://180degreehealth.com
 
 > Satisfy all cravings when they arise 110%. So what if you eat 168 Oreo cookies in a week? You won’t eat that many the second week and may not touch one for two years after the second week.
 
-I've seen this thesis before. Those that diet regularly develop food cravings and stress about the very foods they crave. Restriction and cravings can be stressful. It makes total sense. Matt's approach even seems like an interesting one to try. Yet it didn't work for me. I have never had a sweet tooth. I've never craved sweets. Yet after I started the [ice cream experiment](/2013/03/ending-the-ice-cream-experiment/), I wanted something sweet a few times a day. I couldn't stop thinking about ice cream and Mexican colas. Even at a pint of ice cream a day, I wanted more. ![MAS at Molly Moon's Ice Cream](./img/mas-molly-moons-ice-cream.jpg) Unlike the clients Matt works with, I've never counted calories or really even dieted. I'm guessing my metabolism is on the high side of average. I've never had better sleep. Giving in to my food cravings only made them stronger. The only thing that has reduced my craving for sugar has been a conscious effort to reduce my intake. Rules and restrictions. After Labor Day I told myself no more ice cream or Mexican cola until Memorial Day. I've slipped a few times, but the rule has worked remarkably well and my sugar cravings are lower. Not gone, but lower.
+I've seen this thesis before. Those that diet regularly develop food cravings and stress about the very foods they crave. Restriction and cravings can be stressful. It makes total sense. Matt's approach even seems like an interesting one to try.
+
+Yet it didn't work for me.
+
+I have never had a sweet tooth. I've never craved sweets. Yet after I started the [ice cream experiment](/2013/03/ending-the-ice-cream-experiment/), I wanted something sweet a few times a day. I couldn't stop thinking about ice cream and Mexican colas. Even at a pint of ice cream a day, I wanted more.
+
+![MAS at Molly Moon's Ice Cream](./img/mas-molly-moons-ice-cream.jpg)
+
+Unlike the clients Matt works with, I've never counted calories or really even dieted. I'm guessing my metabolism is on the high side of average. I've never had better sleep.
+
+Giving in to my food cravings only made them stronger.
+
+The only thing that has reduced my craving for sugar has been a conscious effort to reduce my intake. Rules and restrictions. After Labor Day I told myself no more ice cream or Mexican cola until Memorial Day. I've slipped a few times, but the rule has worked remarkably well and my sugar cravings are lower. Not gone, but lower.
 
 ---
 

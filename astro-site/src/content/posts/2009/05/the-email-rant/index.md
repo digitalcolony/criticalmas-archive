@@ -9,7 +9,9 @@ description: "It is time for a good old-fashioned rant. This is not targeted at 
 commentCount: 4
 ---
 
-It is time for a good old-fashioned rant. This is not targeted at any one person. This rant is against the increasing trend of not being able to send a proper email response. If I sound like an old man, so be it. I received my first Internet email account in 1992, and back in my day, people knew how to send and respond with clarity to emails. First I need to cover what is NOT email.
+It is time for a good old-fashioned rant. This is not targeted at any one person. This rant is against the increasing trend of not being able to send a proper email response. If I sound like an old man, so be it. I received my first Internet email account in 1992, and back in my day, people knew how to send and respond with clarity to emails.
+
+First I need to cover what is NOT email.
 
 1.  **Facebook Email is NOT Email** - Don't force me to log into Facebook to read and respond to an email. Facebook is a contact management tool, not my email client. My email address is visible on my Facebook Profile page - use it.
 2.  **Twitter Tweets Are NOT Email** - Don't email me via Twitter. I'm not going to read it. I'm not going to respond to it. Twitter is for people who can only think thoughts that are less than 140 characters. It is not for email. Twitter is also for whoring out links to your websites. ;)
@@ -17,7 +19,11 @@ It is time for a good old-fashioned rant. This is not targeted at any one person
 4.  **Texting is NOT Email** - I understand location-based texts. I don't understand texts that are not important or can be handled via email. Every time I receive a Text message, AT&T dings me for 20 cents. Then I get to pay another 20 cents to respond to your nonsense? You just cost me 2 bananas at the grocery store. If isn't location-based or an emergency, send me an email. Or here is a radical idea - call me!
 5.  **IM is NOT Email** - I know I'm wrong on this one, so I'm not going to defend my position that IM is brain rot. Everyone else is right and I'm too slow and dumb to get it. And _Good Will Hunting_ was a good movie with a realistic plot and dialog. Right.
 
-![email](./img/15197804185_d4a1f3d9b3_z.jpg) _Photo by Maria Elena_ Now that you know what is NOT email, here are tips to improve your email communication. This isn't about being perfect, it is about being a little bit better. If every American improved their email communication by 10%, the productivity gains in this country would be so huge as to pull us out of the recession in a single quarter. I'm not holding my breath.
+![email](./img/15197804185_d4a1f3d9b3_z.jpg)
+
+_Photo by Maria Elena_
+
+Now that you know what is NOT email, here are tips to improve your email communication. This isn't about being perfect, it is about being a little bit better. If every American improved their email communication by 10%, the productivity gains in this country would be so huge as to pull us out of the recession in a single quarter. I'm not holding my breath.
 
 1.  **Assume English is the reader's 2nd language** - More people on this planet speak English as a second language than as a first language. Write shorter sentences. Reduce your use of pronouns. If it means repeating the proper names several times, so be it. It reduces confusion and increases clarity. Line breaks between ideas. You aren't writing a novel, you are writing an email. Clarity first.
 2.  **Different Topics Deserve Different Emails** - Stop jamming emails with multiple threads into a single email.
@@ -26,7 +32,11 @@ It is time for a good old-fashioned rant. This is not targeted at any one person
 5.  **New Topic = New Email** - This one drives me bonkers and everyone does it. They want to send a brand new email, but instead of going to the TO line of their email client, they find some ancient email, hit Reply, and start up a new topic. They don't even bother to change the subject line. _Why is this person sending me economic data in an email titled Directions from the airport to my house?_ Stop it!
 6.  **Virus Warnings and Other Urban Legend Nonsense** - If the end of the world is coming, I seriously doubt I'm going to learn about it from your co-worker's sister's boyfriends next door neighbor that knows someone who overheard some other person talking about the end of times. Good data almost always comes from good sources. An email forwarded to you is not a good source. Don't send it to me. Let me be blissfully ignorant of all the [infected heroin needles buried in the ball pits](http://www.snopes.com/horrors/parental/archer.asp) at playgrounds.
 
-Feel free to tell me how right I am in the comments. If you disagree with anything here, send me a tweet. ;) UPDATE (May 28, 2010): Since this post, I have disabled texts on my cell phone and blocked the ability of others to write on my Facebook wall. Although I still think Twitter is brain rot, I acknowledge there are now tools to help facilitate better communication. Facebook email no longer bothers me as much, but I still prefer regular email for searching and archiving. UPDATE (October 24, 2014): Facebook email bothers me more now and I still can't stand Twitter Direct Messages. Texting still makes me anxious, but less so than when I first wrote this post. I still dislike text conversations. I make too many errors. One of the reasons email is superior to all other forms of communication is it has superior search functionality.
+Feel free to tell me how right I am in the comments. If you disagree with anything here, send me a tweet. ;)
+
+UPDATE (May 28, 2010): Since this post, I have disabled texts on my cell phone and blocked the ability of others to write on my Facebook wall. Although I still think Twitter is brain rot, I acknowledge there are now tools to help facilitate better communication. Facebook email no longer bothers me as much, but I still prefer regular email for searching and archiving.
+
+UPDATE (October 24, 2014): Facebook email bothers me more now and I still can't stand Twitter Direct Messages. Texting still makes me anxious, but less so than when I first wrote this post. I still dislike text conversations. I make too many errors. One of the reasons email is superior to all other forms of communication is it has superior search functionality.
 
 ---
 

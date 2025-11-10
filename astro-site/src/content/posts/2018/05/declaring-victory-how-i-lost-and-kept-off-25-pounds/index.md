@@ -9,24 +9,42 @@ description: "It was just over a year ago that I decided I needed to lose 20-25 
 commentCount: 6
 ---
 
-It was just over a year ago that I decided I needed to lose 20-25 pounds. But before I started on my diet, I knew the challenge wasn't losing the weight, but keeping it off. That is where many people fail. There is no shortage of success stories, but they often regain. I've read estimates that between 70 and 95% of people who successfully lose weight will regain the weight. Often they gain more. My belief based on the research I did a year ago was that using willpower would be a long-term losing strategy. If setpoint theory has any validity then the brain will both remember the higher preferred weight and the hunger signals experienced during any weight loss. Then when your willpower drops, the brain will ramp up hunger and take you back to your setpoint. So following a simple "eat less, move more" plan without addressing how the brain would respond to hunger is a poor strategy. The key that I tested and proved for myself during my diet is to create a calorie deficit by minimizing hunger. My 2 tools were:
+It was just over a year ago that I decided I needed to lose 20-25 pounds. But before I started on my diet, I knew the challenge wasn't losing the weight, but keeping it off. That is where many people fail. There is no shortage of success stories, but they often regain. I've read estimates that between 70 and 95% of people who successfully lose weight will regain the weight. Often they gain more.
+
+My belief based on the research I did a year ago was that using willpower would be a long-term losing strategy. If setpoint theory has any validity then the brain will both remember the higher preferred weight and the hunger signals experienced during any weight loss. Then when your willpower drops, the brain will ramp up hunger and take you back to your setpoint.
+
+So following a simple "eat less, move more" plan without addressing how the brain would respond to hunger is a poor strategy. The key that I tested and proved for myself during my diet is to create a calorie deficit by minimizing hunger.
+
+My 2 tools were:
 
 1.  Volume ([Peasant Diet](/2016/11/designing-modern-peasant-diet/), [Potato Hack](https://criticalmas.org/best-of/potato-hack-diet/), Volumetrics)
 2.  Protein ([Old School Bodybuilder](/2014/07/just-count-protein-fat-loss/))
 
-I've talked about these approaches at length in other posts, but the short versions are that foods with a high volume and low calories fool the brain. The stomach doesn't measure calories. It measures volume. Given the same volume, boiled potatoes will have far fewer calories than French fries. Protein is known to crush appetite. I have more ideas and thoughts here: [Fat Loss Cheatsheet: What Works and What Doesn’t (for me)](/2018/02/fat-loss-cheatsheet-works-doesnt/)
+I've talked about these approaches at length in other posts, but the short versions are that foods with a high volume and low calories fool the brain. The stomach doesn't measure calories. It measures volume. Given the same volume, boiled potatoes will have far fewer calories than French fries. Protein is known to crush appetite.
+
+I have more ideas and thoughts here: [Fat Loss Cheatsheet: What Works and What Doesn’t (for me)](/2018/02/fat-loss-cheatsheet-works-doesnt/)
 
 
 ### Why Victory Now?
 
 
-In March 2017, I weighed 222. By August 2017, I was down to 202. Today, I weigh 197. That is a 25-pound loss. _(Height 6' 2.5)_  Why did I wait so long before declaring victory? A few reasons:
+In March 2017, I weighed 222.
+
+By August 2017, I was down to 202.
+
+Today, I weigh 197. That is a 25-pound loss. _(Height 6' 2.5)_ 
+
+Why did I wait so long before declaring victory? A few reasons:
 
 1.  When I reinjured my knee, my activity fell. I needed to maintain my lower weight at a lower activity level. If I didn't, I'd need to change my plan.
 2.  If setpoint theory is correct and I use a conservative 1/2 pound per week reset, then my fat loss moved much faster than my setpoint. But now that we are just over a year, it has caught up. This means that because I've been at my lower weight for several months now, I've likely locked in the new lower setpoint. This is all my speculation. The science is still being debated. I took a conservative view of the debate.
 3.  I have spent more than a year building habits with the Peasant Diet and the Potato Hack. And lately, the [Fasting Mimicking Diet](/2017/12/fasting-mimicking-diet-overview/). I'm very skilled with these tools. I'm well past the learning curve. I know how to use these methods to get immediate and predictable results. Muscle memory. Like driving a stick-shift.
 
-I know that thousands of people have read my various posts on the Peasant Diet and the Potato Hack and it is likely that I inspired a few people and hopefully they are having success. If you are, leave a comment. May your success inspire others. ![victory](./img/japheth-mast-victory.jpg) _Photo by [Japheth Mast](https://unsplash.com/@japhethmast)_
+I know that thousands of people have read my various posts on the Peasant Diet and the Potato Hack and it is likely that I inspired a few people and hopefully they are having success. If you are, leave a comment. May your success inspire others.
+
+![victory](./img/japheth-mast-victory.jpg)
+
+_Photo by [Japheth Mast](https://unsplash.com/@japhethmast)_
 
 ---
 

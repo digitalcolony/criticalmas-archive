@@ -9,7 +9,29 @@ description: "One of my fitness mentors is Chris Highcock from Conditioning Res
 commentCount: 69
 ---
 
-One of my fitness mentors is Chris Highcock from [Conditioning Research](https://conditioningresearch.blogspot.com/) and author of Hillfit. He always seems to be a year or two ahead of me when it comes to fitness interests and knowledge. In a comment recently, he referenced a book called The Cardio Code that makes the case for why the science is clear that cardio is necessary for heart health and that lifting weights or even lifting weights in an interval setting is not enough. If anyone else had posted the link, I would have dismissed it and moved on, but it was Chris, so I fired up [Bing](/2018/08/how-i-made-35-last-year-by-quitting-google/) and did a search. The Cardio Code was released in 2014, but unfortunately only as an iBook on Apple iTunes. No paper. No Kindle. I dusted off my version 1 of the iPad only to discover I can't update to the latest iOS version in order to read the book. And since I use Windows and not Mac, I can't read the book on my laptop. I really do not want to have to read a 270-page technical book on my iPhone. Now there may be a way to buy the book and convert it to a Kindle-friendly format, but every time I've done that in the past, the formatting has been a disaster. Why wouldn't the author put the book up on Amazon? There are services to handle both the conversion to Kindle and print-on-demand. I discovered the author's website\*, which to be kind is "a piece of crap". More embarrassing than McGuff's Body By Science site before the _"Chinese hackers"_ got to it. 🙄 Sorry, I'm a little opinionated on this topic. See [The Digital Graveyard of My Health and Fitness Mentors](/2017/03/digital-graveyard-health-fitness-mentors/) for details. _\*site down as of April 2021_ I located a January 2017 podcast interview with Dr. Kenneth Jay on Leo Training. You can hear that [here](https://overcast.fm/+GIRyBLONw). The cardio portion of the interview starts around 19 minutes. Although his publishing strategy and website are terrible, his arguments impressed me. My [bias against cardio](/2018/10/understanding-my-bias-against-cardio/) took a serious blow. Now perhaps someone in the HIT community far smarter than me can find flaws or disagreements with Dr. Jay, but I couldn't. I still want to read the book or something to better understand this topic, but I'm not buying a new iPad to make that happen. Not giving up, I went to the _Wayback Machine_ and found an earlier version of the Cardio Code website. A much better version too! [https://web.archive.org/web/20161026075018/http://www.cardiocode.dk/blog/](https://web.archive.org/web/20161026075018/http://www.cardiocode.dk/blog/) Some highlights from this page:
+One of my fitness mentors is Chris Highcock from [Conditioning Research](https://conditioningresearch.blogspot.com/) and author of Hillfit. He always seems to be a year or two ahead of me when it comes to fitness interests and knowledge.
+
+In a comment recently, he referenced a book called The Cardio Code that makes the case for why the science is clear that cardio is necessary for heart health and that lifting weights or even lifting weights in an interval setting is not enough. If anyone else had posted the link, I would have dismissed it and moved on, but it was Chris, so I fired up [Bing](/2018/08/how-i-made-35-last-year-by-quitting-google/) and did a search.
+
+The Cardio Code was released in 2014, but unfortunately only as an iBook on Apple iTunes. No paper. No Kindle. I dusted off my version 1 of the iPad only to discover I can't update to the latest iOS version in order to read the book. And since I use Windows and not Mac, I can't read the book on my laptop. I really do not want to have to read a 270-page technical book on my iPhone.
+
+Now there may be a way to buy the book and convert it to a Kindle-friendly format, but every time I've done that in the past, the formatting has been a disaster.
+
+Why wouldn't the author put the book up on Amazon? There are services to handle both the conversion to Kindle and print-on-demand.
+
+I discovered the author's website\*, which to be kind is "a piece of crap". More embarrassing than McGuff's Body By Science site before the _"Chinese hackers"_ got to it. 🙄 Sorry, I'm a little opinionated on this topic. See [The Digital Graveyard of My Health and Fitness Mentors](/2017/03/digital-graveyard-health-fitness-mentors/) for details.
+
+_\*site down as of April 2021_
+
+I located a January 2017 podcast interview with Dr. Kenneth Jay on Leo Training. You can hear that [here](https://overcast.fm/+GIRyBLONw). The cardio portion of the interview starts around 19 minutes. Although his publishing strategy and website are terrible, his arguments impressed me.
+
+My [bias against cardio](/2018/10/understanding-my-bias-against-cardio/) took a serious blow. Now perhaps someone in the HIT community far smarter than me can find flaws or disagreements with Dr. Jay, but I couldn't. I still want to read the book or something to better understand this topic, but I'm not buying a new iPad to make that happen.
+
+Not giving up, I went to the _Wayback Machine_ and found an earlier version of the Cardio Code website. A much better version too!
+
+[https://web.archive.org/web/20161026075018/http://www.cardiocode.dk/blog/](https://web.archive.org/web/20161026075018/http://www.cardiocode.dk/blog/)
+
+Some highlights from this page:
 
 -   Cardio is defined as _exercise or training to make your heart work better_.
 -   The goal is to _improve the pumping- and blood delivery capacity of the heart to the working muscles_.
@@ -25,7 +47,15 @@ The rest of the blog post discusses VO2Max, intensity, and sports variations.
 ### Right or Wrong? Undervalued or Overvalued?
 
 
-As a once hardcode cardio skeptic, do I think Dr. Jay is correct? Likely, but for me, that is the wrong question to ask. He is smarter than me as are some of my fellow cardio critics. The way I am approaching this question is as an investor. For at least a decade, I have heavily invested in the _cardio is crap_ exercise portfolio. I achieved tremendous gains using HIT and walking, but it appears to be time to rebalance my portfolio. Cardio is undervalued to me at this time. It is worth pursuing. I'd still like to read the book, but that may not be possible. In the meantime, I will ease into some cardio. What type? That will be the topic of my next post. ![me on a bike](./img/mas-bike.jpg) _Time to dust off my old bike?_ 🤣
+As a once hardcode cardio skeptic, do I think Dr. Jay is correct? Likely, but for me, that is the wrong question to ask. He is smarter than me as are some of my fellow cardio critics. The way I am approaching this question is as an investor.
+
+For at least a decade, I have heavily invested in the _cardio is crap_ exercise portfolio. I achieved tremendous gains using HIT and walking, but it appears to be time to rebalance my portfolio. Cardio is undervalued to me at this time. It is worth pursuing.
+
+I'd still like to read the book, but that may not be possible. In the meantime, I will ease into some cardio. What type? That will be the topic of my next post.
+
+![me on a bike](./img/mas-bike.jpg)
+
+_Time to dust off my old bike?_ 🤣
 
 ---
 

@@ -13,7 +13,11 @@ Today I read an unfortunate sentence. From the Perfect Health Diet post [Around 
 
 > Warning: Dr Clark says that coffee is bad for people with gluten sensitivity, due to cross-reactive antibodies.
 
-_Say it isn't so._ This is a video of Dr. Clark explaining how people with gluten issues, like myself, may also experience issues with the **protein** in coffee. (original video removed. Updated video [here](https://www.youtube.com/watch?v=9jv3l8HJwew)) From the video:
+_Say it isn't so._ This is a video of Dr. Clark explaining how people with gluten issues, like myself, may also experience issues with the **protein** in coffee.
+
+(original video removed. Updated video [here](https://www.youtube.com/watch?v=9jv3l8HJwew))
+
+From the video:
 
 > Ten percent of coffee is a protein that cross-reacts with gluten antibodies.
 

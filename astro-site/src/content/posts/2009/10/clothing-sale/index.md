@@ -9,7 +9,9 @@ description: "One of the things I enjoy most about Seattle is seeing what The Lu
 commentCount: 1
 ---
 
-One of the things I enjoy most about Seattle is seeing what _The Lusty Lady_ has up on their sign. Not as good as [Indiana Moans and the Temple of Poon](/2008/05/double-check-that-movie-listing/), but pretty funny. ![lusty-lady-sign](./img/lusty-lady-sign.jpg)
+One of the things I enjoy most about Seattle is seeing what _The Lusty Lady_ has up on their sign. Not as good as [Indiana Moans and the Temple of Poon](/2008/05/double-check-that-movie-listing/), but pretty funny.
+
+![lusty-lady-sign](./img/lusty-lady-sign.jpg)
 
 ---
 

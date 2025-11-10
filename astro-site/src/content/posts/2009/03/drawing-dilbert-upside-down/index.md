@@ -9,11 +9,17 @@ description: "This weekend I was taught a drawing trick. Turn the image upside d
 commentCount: 3
 ---
 
-This weekend I was taught a drawing trick. Turn the image upside down and then attempt to draw focusing on spacing and not the actual object. From ArtInstructionBlog.com - Learn How To Draw - Top 20 Drawing Tips For Beginners (#20):
+This weekend I was taught a drawing trick. Turn the image upside down and then attempt to draw focusing on spacing and not the actual object.
+
+From ArtInstructionBlog.com - Learn How To Draw - Top 20 Drawing Tips For Beginners (#20):
 
 > Drawing upside down is a wonderful exercise to awaken the right side of your brain. When you turn an image upside down, you are making it somewhat abstract and unrecognizable. This forces you to draw what you see as opposed to relying on your memory to draw something.
 
-Here are my first two attempts using Dilbert. ![dilbert-upside-down](./img/dilbert-upside-down.jpg) ![dilbert-upside-down-2](./img/dilbert-upside-down-2.jpg)
+Here are my first two attempts using Dilbert.
+
+![dilbert-upside-down](./img/dilbert-upside-down.jpg)
+
+![dilbert-upside-down-2](./img/dilbert-upside-down-2.jpg)
 
 ---
 

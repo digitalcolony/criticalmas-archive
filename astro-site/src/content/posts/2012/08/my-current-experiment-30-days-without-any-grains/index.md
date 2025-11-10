@@ -9,7 +9,15 @@ description: "Even though I gave up gluten years ago, I still would from time to
 commentCount: 16
 ---
 
-Even though I [gave up gluten](/2010/08/life-without-gluten/) years ago, I still would from time to time have gluten-free grain options. In the past several months as I've increased my carbohydrate levels, I've been consuming [popcorn](/2012/07/high-satiety-foods-the-results/) and treats from Dolce Lou (now Nuflours), a local GF bakery. At first I thought I was OK with the gluten-free grain options, but I noticed a red spot on my skin that seemed to become more pronounced the day after I consumed popcorn. A skin inflammation is often a sign that that something is wrong internally. Also when I dug through my headache data, I noticed an uptick in headache intensity on Wednesdays and Sundays, which are the days I am most likely to consume a gluten-free bakery item from the Farmers Market. Time for a new experiment! I am going 100% grain free, including popcorn, for 30 days. White rice is still OK. For some reason, I thought I did this specific test once before, but if I did I don't have accurate data. Plus it is probably a wise idea to get updated information. ![](http://farm3.staticflickr.com/2022/2100226700_c2cbefbaf1.jpg "pupusa") _[Photo](http://www.flickr.com/photos/roboppy/2100226700/in/photostream/) by Robyn Lee. Pupusas from my newly found El Salvador restaurant will have to wait a month._  Is anyone else starting or in the middle of a dietary experiment this summer?
+Even though I [gave up gluten](/2010/08/life-without-gluten/) years ago, I still would from time to time have gluten-free grain options. In the past several months as I've increased my carbohydrate levels, I've been consuming [popcorn](/2012/07/high-satiety-foods-the-results/) and treats from Dolce Lou (now Nuflours), a local GF bakery. At first I thought I was OK with the gluten-free grain options, but I noticed a red spot on my skin that seemed to become more pronounced the day after I consumed popcorn. A skin inflammation is often a sign that that something is wrong internally. Also when I dug through my headache data, I noticed an uptick in headache intensity on Wednesdays and Sundays, which are the days I am most likely to consume a gluten-free bakery item from the Farmers Market.
+
+Time for a new experiment! I am going 100% grain free, including popcorn, for 30 days. White rice is still OK. For some reason, I thought I did this specific test once before, but if I did I don't have accurate data. Plus it is probably a wise idea to get updated information.
+
+![](http://farm3.staticflickr.com/2022/2100226700_c2cbefbaf1.jpg "pupusa")
+
+_[Photo](http://www.flickr.com/photos/roboppy/2100226700/in/photostream/) by Robyn Lee. Pupusas from my newly found El Salvador restaurant will have to wait a month._ 
+
+Is anyone else starting or in the middle of a dietary experiment this summer?
 
 ---
 

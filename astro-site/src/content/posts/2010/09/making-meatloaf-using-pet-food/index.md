@@ -13,7 +13,13 @@ I buy the majority of my meat from Thundering Hooves. This is a pasture farm in 
 
 > A nice blend of 85% ground beef, 10% ground heart, and 5% ground liver is a fantastic source of protein to add to your pet's diet - all made from Thundering Hooves 100% grass fed beef. This is one pet food your dog or cat is going to love! (Comes in 1 lb. pkgs. - Reg. $3.50/lb.)
 
-My roommates and I have figured out that - despite what the label says - is it perfectly fine for human consumption. Organ meats are extremely healthy when the animal is pasture raised. And you can't beat the price. The one thing we have learned is that it doesn't taste good as burgers. Chili or meatloaf is ideal. No medium rare. It tastes best at medium well. ![pet-food-meatloaf](./img/pet-food-meatloaf.jpg) Below is my _Pet Food Meatloaf_ recipe that was a huge hit recently. **Summary**: _Using pastured "pet food" ground beef to make meatloaf._
+My roommates and I have figured out that - despite what the label says - is it perfectly fine for human consumption. Organ meats are extremely healthy when the animal is pasture raised. And you can't beat the price. The one thing we have learned is that it doesn't taste good as burgers. Chili or meatloaf is ideal. No medium rare. It tastes best at medium well.
+
+![pet-food-meatloaf](./img/pet-food-meatloaf.jpg)
+
+Below is my _Pet Food Meatloaf_ recipe that was a huge hit recently.
+
+**Summary**: _Using pastured "pet food" ground beef to make meatloaf._
 
 
 #### Ingredients
@@ -54,7 +60,9 @@ This is a very fatty meatloaf. You can pour off some of the liquid if you like. 
 
 The "pet food" is of course optional. Feel free to use regular ground beef for the entire meatloaf if you like.
 
-![pet-food-meat](./img/pet-food-meat.jpg) Cooking time (duration): 60 (15 min prep, 45 min cooking) Number of servings (yield): 6
+![pet-food-meat](./img/pet-food-meat.jpg)
+
+Cooking time (duration): 60 (15 min prep, 45 min cooking) Number of servings (yield): 6
 
 ---
 

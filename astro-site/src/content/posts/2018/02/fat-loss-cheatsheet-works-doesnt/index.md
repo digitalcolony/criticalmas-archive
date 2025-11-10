@@ -9,7 +9,13 @@ description: "Now that I have enough experience with gaining and losing a few po
 commentCount: 7
 ---
 
-Now that I have enough experience with gaining and losing a few pounds over the years, I wanted to assemble all the ideas that have worked and those that haven't. This list is my experience, which may or may not match yours. The purpose of this post is to both remind me and perhaps to serve as a starting point for someone looking for guidance. Standard disclaimer: I'm not a health professional. Just an enthusiast. I view health challenges with an [investor mindset](/2013/04/approaching-nutrition-from-an-investors-mindset/), meaning I use the best data available to me, but I also assume I have incomplete information. When I do try something ineffective, I don't double down and get stricter, I change course. I also understand that fat loss is caused by a caloric deficit. But unlike the vast majority of people discussing fat loss, I see the challenge of keeping off the weight as equally or more difficult than losing it in the first place. So what works for me best will be strategies that use easy rulesets that minimize decision making and hunger, because I understand that willpower is not an unlimited resource. Let's get started.
+Now that I have enough experience with gaining and losing a few pounds over the years, I wanted to assemble all the ideas that have worked and those that haven't. This list is my experience, which may or may not match yours. The purpose of this post is to both remind me and perhaps to serve as a starting point for someone looking for guidance.
+
+Standard disclaimer: I'm not a health professional. Just an enthusiast. I view health challenges with an [investor mindset](/2013/04/approaching-nutrition-from-an-investors-mindset/), meaning I use the best data available to me, but I also assume I have incomplete information. When I do try something ineffective, I don't double down and get stricter, I change course.
+
+I also understand that fat loss is caused by a caloric deficit. But unlike the vast majority of people discussing fat loss, I see the challenge of keeping off the weight as equally or more difficult than losing it in the first place. So what works for me best will be strategies that use easy rulesets that minimize decision making and hunger, because I understand that willpower is not an unlimited resource.
+
+Let's get started.
 
 
 ### What Works For Fat Loss
@@ -42,7 +48,13 @@ Again, this is my list and some of these ideas have worked for others.
 3.  Organic Grass-fed Farmers Market Heirloom Whole Paycheck eating. I'm going to explain this comment in much greater detail in a [future post](/2018/04/fear-of-a-toxic-planet/), but the short version is buying higher-quality foods will not make you leaner unless those foods have fewer calories. I know many people who make a decent living and want to spend their way to better health without making true sacrifices that would require willpower. The high amount of money they spend on groceries never seems to make a dent in their weight.
 4.  Above baseline exercise. Sorry Brotards, but in the real world and not your 12-week studies with untrained college men, people respond to higher levels of activity with higher levels of hunger. Not at first, but eventually. The fact it doesn't happen immediately makes it look like exercise is a potent fat burner. It is not. See [Exercise and Fat Loss Revisited](/2015/04/exercise-and-fat-loss-revisited/). And for the record, I am a believer in the health benefits of exercise, just not when it comes to fat loss.
 
-![fat loss cheatsheet](./img/fat-loss-meme.jpg) If you decide to try some of the ideas on this list, my advice is to roll in a few ideas at a time. Changing too many things at once is likely to be overwhelming. Plus, why add additional restrictions if you can see progress with just a few ideas? UPDATE FEB 2021: I may have been too harsh on cold exposure. If it is combined with calorie restriction and you keep exercise to the minimum, it may not spike appetite. It probably still works best for men and men with greater mass. I'm going to move this idea into the maybe category. UPDATE DEC 2023: I was correct that cold exposure is a poor tool for fat loss. See the post [Temperature and Appetite](/2023/10/temperature-and-appetite/).
+![fat loss cheatsheet](./img/fat-loss-meme.jpg)
+
+If you decide to try some of the ideas on this list, my advice is to roll in a few ideas at a time. Changing too many things at once is likely to be overwhelming. Plus, why add additional restrictions if you can see progress with just a few ideas?
+
+UPDATE FEB 2021: I may have been too harsh on cold exposure. If it is combined with calorie restriction and you keep exercise to the minimum, it may not spike appetite. It probably still works best for men and men with greater mass. I'm going to move this idea into the maybe category.
+
+UPDATE DEC 2023: I was correct that cold exposure is a poor tool for fat loss. See the post [Temperature and Appetite](/2023/10/temperature-and-appetite/).
 
 ---
 

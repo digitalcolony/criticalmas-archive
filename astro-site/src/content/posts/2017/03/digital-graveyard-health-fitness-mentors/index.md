@@ -9,25 +9,53 @@ description: "One of the projects I've been doing recently is going back into th
 commentCount: 4
 ---
 
-One of the projects I've been doing recently is going back into the archives, finding posts that have inaccurate information, and making 2017 updates where appropriate. I also run a broken link checker, which alerts me when anything I've linked to is no longer available. This allows me to either link to an archived version of the article on The Wayback Machine or find an alternate source. Anyway, I found this entire exercise to be interesting. A lot of the sites that I received value from have disappeared or have revamped their websites in ways to make my old links broken. In this post, I am going to walk you through the digital graveyard of some of these mentors and at the same time I'm going to share some webmaster wisdom on what they did wrong.
+One of the projects I've been doing recently is going back into the archives, finding posts that have inaccurate information, and making 2017 updates where appropriate. I also run a broken link checker, which alerts me when anything I've linked to is no longer available. This allows me to either link to an archived version of the article on The Wayback Machine or find an alternate source.
+
+Anyway, I found this entire exercise to be interesting. A lot of the sites that I received value from have disappeared or have revamped their websites in ways to make my old links broken. In this post, I am going to walk you through the digital graveyard of some of these mentors and at the same time I'm going to share some webmaster wisdom on what they did wrong.
 
 
 ### Art De Vany
 
 
-My revamped health journey all began with De Vany. I went from a pescovegetarian to a Paleo/WAPF diet very shortly after reading his work in late 2007. Fasting and cold exposure were both ideas I received from his website. His original site was at arthurdevany.com then later he moved to artdevanyonline.com. Both sites are now dead. Then he moved to Facebook. Then he changed pages on Facebook. If you want an example on how to annoy your fans, here you go. Just keep moving around without leaving a forwarding address. The super popular T-Nation still links to his original site from a 2005 article. ![](./img/art-devany.jpg) _2006 screenshot_
+My revamped health journey all began with De Vany. I went from a pescovegetarian to a Paleo/WAPF diet very shortly after reading his work in late 2007. Fasting and cold exposure were both ideas I received from his website.
+
+His original site was at arthurdevany.com then later he moved to artdevanyonline.com. Both sites are now dead. Then he moved to Facebook. Then he changed pages on Facebook. If you want an example on how to annoy your fans, here you go. Just keep moving around without leaving a forwarding address. The super popular T-Nation still links to his original site from a 2005 article.
+
+![](./img/art-devany.jpg)
+
+_2006 screenshot_
 
 
 ### The Ray Peat Bloggers
 
 
-I guess I was fortunate to stumble onto the Ray Peat nutritional argument when I did, because most of the resources I used to further my knowledge are gone. Danny Roddy had a blog with several excellent articles. It was taken down. It came back online later with new articles, but the old ones are gone. I'm not to judge if that was the right or wrong decision, but I will say that if you remove a link, the correct HTTP code to return is 404. Redirecting users to the homepage is not correct. It makes the person who linked to your article look like an idiot because the page doesn't match the link. I had to remove some articles from my coffee site, INeedCoffee, years ago. I set up a custom 404 page telling visitors that the article they expected to find no longer exists on the site, followed by an invitation to view other site content. ArkOfWellness was another site that had well-written articles on Ray Peat topics. Gone. The domain appears to be hijacked now. Andrew Kim had some great articles. Gone. The domain appears to be hijacked now. Although not a Ray Peat blogger, Matt Stone of 180DegreeHealth was my introduction to Ray Peat. He shut down the blog a few years ago, only to bring it back several months (or was it longer?) later. Only when he returned he changed all the article URLs. The site went from dated URLs to dateless URLs, which I think is a [bad thing to do with health blogs](/2014/06/blogging-permalinks/). But because a redirection plugin was never set up, all legacy inbound links to the site are broken. I updated all my inbound links to 180D. Most bloggers won't.
+I guess I was fortunate to stumble onto the Ray Peat nutritional argument when I did, because most of the resources I used to further my knowledge are gone.
+
+Danny Roddy had a blog with several excellent articles. It was taken down. It came back online later with new articles, but the old ones are gone. I'm not to judge if that was the right or wrong decision, but I will say that if you remove a link, the correct HTTP code to return is 404. Redirecting users to the homepage is not correct. It makes the person who linked to your article look like an idiot because the page doesn't match the link.
+
+I had to remove some articles from my coffee site, INeedCoffee, years ago. I set up a custom 404 page telling visitors that the article they expected to find no longer exists on the site, followed by an invitation to view other site content.
+
+ArkOfWellness was another site that had well-written articles on Ray Peat topics. Gone. The domain appears to be hijacked now.
+
+Andrew Kim had some great articles. Gone. The domain appears to be hijacked now.
+
+Although not a Ray Peat blogger, Matt Stone of 180DegreeHealth was my introduction to Ray Peat. He shut down the blog a few years ago, only to bring it back several months (or was it longer?) later. Only when he returned he changed all the article URLs. The site went from dated URLs to dateless URLs, which I think is a [bad thing to do with health blogs](/2014/06/blogging-permalinks/). But because a redirection plugin was never set up, all legacy inbound links to the site are broken. I updated all my inbound links to 180D. Most bloggers won't.
 
 
 ### BodyByScience.net
 
 
-I knew it was just a matter of time before this site would be hacked. You NEVER publicly display the version of WordPress your site is using because if a security flaw is discovered later and you don't update, you are telling bad people to "come hack me." The BBS site displayed its outdated, insecure version of WordPress in its footer. I would have brought it to their attention, but the 2 times I tried to comment on the site, my comments were blocked without reason. Well, last year they got hacked. The site is still down. Through back channels, I learned the site wasn't backed up. I tried to pass a message via mutual friends that archive.org had copies of all the content, but as expected, I never heard anything back. From what I gather, they believe that "Chinese hackers" now have their domain, so Dr. McGuff has started a new website. But a quick check on WHOIS shows his co-author John Little is still the registrar. They are walking away from almost a decade of content and countless inbound links to their domain. Tragic. ![](./img/Body-By-Science.jpg) _2011 Screenshot of BBS website. This screenshot was taken today. The content is not lost._ 
+I knew it was just a matter of time before this site would be hacked. You NEVER publicly display the version of WordPress your site is using because if a security flaw is discovered later and you don't update, you are telling bad people to "come hack me." The BBS site displayed its outdated, insecure version of WordPress in its footer.
+
+I would have brought it to their attention, but the 2 times I tried to comment on the site, my comments were blocked without reason.
+
+Well, last year they got hacked. The site is still down. Through back channels, I learned the site wasn't backed up. I tried to pass a message via mutual friends that archive.org had copies of all the content, but as expected, I never heard anything back.
+
+From what I gather, they believe that "Chinese hackers" now have their domain, so Dr. McGuff has started a new website. But a quick check on WHOIS shows his co-author John Little is still the registrar. They are walking away from almost a decade of content and countless inbound links to their domain. Tragic.
+
+![](./img/Body-By-Science.jpg)
+
+_2011 Screenshot of BBS website. This screenshot was taken today. The content is not lost._ 
 
 
 ### Anthony Colpo

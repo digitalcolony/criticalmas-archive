@@ -15,7 +15,27 @@ This is a follow-up post to [When the Check Engine Light Comes On](/2013/06/when
 ### Bluetooth OBD2 adapter and an Android App
 
 
-I purchased the Soliport ELM 327 Bluetooth OBDII OBD2 Diagnostic Scanner on Amazon for $5 (now $11) plus shipping and I downloaded the free version of [Torque for the Android](https://play.google.com/store/apps/details?id=org.prowl.torque). Once you have your phone connected, you can then get the $5 paid version which has more features. ![ELM327-OBD2](./img/ELM327-OBD2.jpg)   Look under your steering wheel and you will see where the scanner plugs into. It looks like a printer port. Here is a photo of mine. VW was nice enough to use fuchsia so it stood out. ![obd2-slot](./img/obd2-slot.jpg) _Plug in the scanner there._  ![installed](./img/installed.jpg) _The OBD2 scanner is now plugged in._ The Amazon review by Mark from Oswego provides perfect directions on connecting the Torque app to your OBD2 adapter. Once you are connected, start your car and Torque. When the Check Engine comes on, go to Actions -> Show Logged Faults. You will see the error code being thrown by the engine along with a link to a web page explaining what the problem is. Don't you just love technology? Now when the Check Engine light comes on, I can pull over to the side of the road and read the code. No need to schedule an appointment at the mechanic just to learn what the code is. I can learn the severity in real-time. I may end up at the mechanic, but I'll have more information when I schedule that appointment. And if the code is related to [prior work](/2013/04/car-repair-spreadsheet-why-didnt-i-think-of-this-earlier/), it might be covered under a service guarantee. My car has a spare tire, a jack, a first aid kit and now I have an OBD2 reader. The Torque app does a lot more that show fault codes. It collects A LOT of data points. I'll save that discussion for another post.
+I purchased the Soliport ELM 327 Bluetooth OBDII OBD2 Diagnostic Scanner on Amazon for $5 (now $11) plus shipping and I downloaded the free version of [Torque for the Android](https://play.google.com/store/apps/details?id=org.prowl.torque). Once you have your phone connected, you can then get the $5 paid version which has more features.
+
+![ELM327-OBD2](./img/ELM327-OBD2.jpg)
+
+Look under your steering wheel and you will see where the scanner plugs into. It looks like a printer port. Here is a photo of mine. VW was nice enough to use fuchsia so it stood out.
+
+![obd2-slot](./img/obd2-slot.jpg)
+
+_Plug in the scanner there._ 
+
+![installed](./img/installed.jpg)
+
+_The OBD2 scanner is now plugged in._
+
+The Amazon review by Mark from Oswego provides perfect directions on connecting the Torque app to your OBD2 adapter. Once you are connected, start your car and Torque. When the Check Engine comes on, go to Actions -> Show Logged Faults. You will see the error code being thrown by the engine along with a link to a web page explaining what the problem is.
+
+Don't you just love technology?
+
+Now when the Check Engine light comes on, I can pull over to the side of the road and read the code. No need to schedule an appointment at the mechanic just to learn what the code is. I can learn the severity in real-time. I may end up at the mechanic, but I'll have more information when I schedule that appointment. And if the code is related to [prior work](/2013/04/car-repair-spreadsheet-why-didnt-i-think-of-this-earlier/), it might be covered under a service guarantee.
+
+My car has a spare tire, a jack, a first aid kit and now I have an OBD2 reader. The Torque app does a lot more that show fault codes. It collects A LOT of data points. I'll save that discussion for another post.
 
 ---
 

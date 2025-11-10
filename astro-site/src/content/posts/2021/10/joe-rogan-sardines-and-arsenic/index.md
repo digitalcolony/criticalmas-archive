@@ -9,13 +9,29 @@ description: "In a show this summer, Joe Rogan mentioned how he tested for high 
 commentCount: 8
 ---
 
-In a show this summer, Joe Rogan mentioned how he tested for high levels of arsenic from consuming lots of sardines. When he removed the sardines, the arsenic levels dropped. This alarmed me because I eat a lot of sardines. I was consuming 2-3 cases a month for a few years. There are 12 cans in a case. One of my [Potatoes and Protein](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/) meals was adding 2 cans of sardines on top of boiled potatoes (sometimes with a little kimchi). That high-protein plus high-volume meal would crush my appetite for hours. It was one of the staples I used to get lean and stay lean. I decided to get tested to see if my levels were elevated. They were. ![heavy metal report](./img/Screenshot-2021-10-22-at-16-03-52-SMITH-MICHAEL-10-11-2021-pdf.png) This isn't panic level but had I continued another year or more, maybe it would have kept climbing. Thanks, Joe for the info! I purchased the [Hair Analysis (TEI Profile 2) - Test 36 Minerals & Toxic Metals](https://www.evenbetternow.com/proddetail.asp?prod=hair_tissue_analysis) test from EvenBetterNow. If you decide to get this test put 3 times as much hair as you think they are asking for. I had to resend more hair, because the first time, I didn't send enough. And I thought I followed the directions. So whatever you think they are asking for, give more. The test also gave me a few other insights. One was that my purine levels were very high. A quick search informed me that sardines are high in purines. That makes sense. I also had high Lithium levels. I had been supplementing with Lithium because some health podcast that I don't recall was raving about most of us are deficient and we need more. It was cheap, so I started that supplement, which of course I immediately stopped taking.
+In a show this summer, Joe Rogan mentioned how he tested for high levels of arsenic from consuming lots of sardines. When he removed the sardines, the arsenic levels dropped.
+
+This alarmed me because I eat a lot of sardines. I was consuming 2-3 cases a month for a few years. There are 12 cans in a case. One of my [Potatoes and Protein](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/) meals was adding 2 cans of sardines on top of boiled potatoes (sometimes with a little kimchi). That high-protein plus high-volume meal would crush my appetite for hours. It was one of the staples I used to get lean and stay lean.
+
+I decided to get tested to see if my levels were elevated. They were.
+
+![heavy metal report](./img/Screenshot-2021-10-22-at-16-03-52-SMITH-MICHAEL-10-11-2021-pdf.png)
+
+This isn't panic level but had I continued another year or more, maybe it would have kept climbing. Thanks, Joe for the info!
+
+I purchased the [Hair Analysis (TEI Profile 2) - Test 36 Minerals & Toxic Metals](https://www.evenbetternow.com/proddetail.asp?prod=hair_tissue_analysis) test from EvenBetterNow. If you decide to get this test put 3 times as much hair as you think they are asking for. I had to resend more hair, because the first time, I didn't send enough. And I thought I followed the directions. So whatever you think they are asking for, give more.
+
+The test also gave me a few other insights. One was that my purine levels were very high. A quick search informed me that sardines are high in purines. That makes sense. I also had high Lithium levels. I had been supplementing with Lithium because some health podcast that I don't recall was raving about most of us are deficient and we need more. It was cheap, so I started that supplement, which of course I immediately stopped taking.
 
 
 ### Purging the Arsenic
 
 
-In this [brief clip](https://www.youtube.com/watch?v=qdTr7gI2WI0), it sounds like Joe Rogan got his arsenic levels down when he stopped eating sardines. Maybe that is enough? I also stopped eating brown rice for now, although I hadn't consumed much brown rice before. I see some sites state that Chlorella could help with lowering levels. Maybe donating blood would also help? I haven't donated since I got my [5-gallon pin](/2020/02/5-gallon-blood-donation-achievement-unlocked/) in March 2020. I feel like I stopped this in time and likely prevented more dangerous levels of arsenic. If anyone has any additional tips, please share a comment. Thanks.
+In this [brief clip](https://www.youtube.com/watch?v=qdTr7gI2WI0), it sounds like Joe Rogan got his arsenic levels down when he stopped eating sardines. Maybe that is enough? I also stopped eating brown rice for now, although I hadn't consumed much brown rice before.
+
+I see some sites state that Chlorella could help with lowering levels. Maybe donating blood would also help? I haven't donated since I got my [5-gallon pin](/2020/02/5-gallon-blood-donation-achievement-unlocked/) in March 2020. I feel like I stopped this in time and likely prevented more dangerous levels of arsenic.
+
+If anyone has any additional tips, please share a comment. Thanks.
 
 ---
 

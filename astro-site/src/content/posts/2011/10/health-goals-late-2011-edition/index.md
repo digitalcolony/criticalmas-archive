@@ -21,7 +21,11 @@ I've posted a few times on how I often get sinus headaches late at night that wa
 ### #2 Stress Reduction
 
 
-I've always had trouble understanding stress. When asked if I am stressed, I'm never sure what the answer is. _Stress compared to what and to whom?_ How I deal with stress may be different than others and vary on a continual basis. I don't know how to quantify stress to determine if it is or isn't a problem. Thinking about quantifying and dealing with stress has always been in itself stressful. Two things recently have made me think that starting a stress reduction program may be beneficial to me. First is the idea that it may be connected to my headaches. The second came from super trainer [Keith Norris](http://ancestralmomentum.com/) when he appeared on the Latest in Paleo podcast. My question for Keith was about being able to predict the ability of a particular body to recover from an intense workout. I was wondering about sex, age, training age, and somatype, but Keith provided an angle I hadn't considered, which is stress. Stress could be the limiting factor in how well a body recovers from exercise. Since that show, I have been thinking about this idea. The two periods where my fitness level tanked were during the dot-com days after moving to the Washington DC area and when I was trying to sell my house in San Diego. Both were highly stressful situations and I lost strength both times. Interesting.
+I've always had trouble understanding stress. When asked if I am stressed, I'm never sure what the answer is. _Stress compared to what and to whom?_ How I deal with stress may be different than others and vary on a continual basis. I don't know how to quantify stress to determine if it is or isn't a problem. Thinking about quantifying and dealing with stress has always been in itself stressful.
+
+Two things recently have made me think that starting a stress reduction program may be beneficial to me. First is the idea that it may be connected to my headaches. The second came from super trainer [Keith Norris](http://ancestralmomentum.com/) when he appeared on the Latest in Paleo podcast. My question for Keith was about being able to predict the ability of a particular body to recover from an intense workout. I was wondering about sex, age, training age, and somatype, but Keith provided an angle I hadn't considered, which is stress. Stress could be the limiting factor in how well a body recovers from exercise.
+
+Since that show, I have been thinking about this idea. The two periods where my fitness level tanked were during the dot-com days after moving to the Washington DC area and when I was trying to sell my house in San Diego. Both were highly stressful situations and I lost strength both times. Interesting.
 
 
 ### #3 Dialing in Optimal Coffee Level
@@ -33,13 +37,19 @@ Although I did [learn some things during my coffee detox](/2011/09/what-i-learne
 ### #4 More Varied Movement
 
 
-The more I restrict my movement, the worse I feel. Since I live in the modern world and push pixels all day, I need to figure out a way to incorporate more varied movements in my life. I don't have a sport or kids to play with, so this will be a challenge to make part of a daily habit. ![Michael in the box](./img/michael_in_box2.jpg "Michael in the box") _Back when my movement was more varied._
+The more I restrict my movement, the worse I feel. Since I live in the modern world and push pixels all day, I need to figure out a way to incorporate more varied movements in my life. I don't have a sport or kids to play with, so this will be a challenge to make part of a daily habit.
+
+![Michael in the box](./img/michael_in_box2.jpg "Michael in the box")
+
+_Back when my movement was more varied._
 
 
 ### #5 Improve Posture and Alignment
 
 
-Because I sit at a desk a lot, my shoulders and neck will sometimes get rounded forward. The more I sit at the desk, the more pronounced the effect. Years ago I used Egoscue exercises to help. Conditioning Research often posts links to videos that tackle specific posture and alignment issues. I haven't been very disciplined about doing posture exercises over the years. I think I need to discover a _High-Intensity_ approach. Find a few core exercises that yield maximum benefit in the shortest time. If I need to spend 20-40 minutes several times a week, I'll likely fail.
+Because I sit at a desk a lot, my shoulders and neck will sometimes get rounded forward. The more I sit at the desk, the more pronounced the effect. Years ago I used Egoscue exercises to help. Conditioning Research often posts links to videos that tackle specific posture and alignment issues.
+
+I haven't been very disciplined about doing posture exercises over the years. I think I need to discover a _High-Intensity_ approach. Find a few core exercises that yield maximum benefit in the shortest time. If I need to spend 20-40 minutes several times a week, I'll likely fail.
 
 
 ### #6 Improve Memory

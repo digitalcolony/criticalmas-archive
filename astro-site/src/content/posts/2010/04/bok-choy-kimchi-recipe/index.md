@@ -9,7 +9,9 @@ description: "UPDATE October 2011: I no longer use the Brine method described in
 commentCount: 4
 ---
 
-_UPDATE October 2011: I no longer use the Brine method described in this recipe. Instead, I prefer the "Rub in by Hand" method, which I outline in the post [Kimchi 101](/2011/03/kimchi-101/)._ ![bok-choy-kimchi](./img/bok-choy-kimchi.jpg)
+_UPDATE October 2011: I no longer use the Brine method described in this recipe. Instead, I prefer the "Rub in by Hand" method, which I outline in the post [Kimchi 101](/2011/03/kimchi-101/)._
+
+![bok-choy-kimchi](./img/bok-choy-kimchi.jpg)
 
 
 #### Ingredients

@@ -9,13 +9,19 @@ description: "I love talking to people about investing. Listening to what people
 commentCount: 10
 ---
 
-I love talking to people about investing. Listening to what people are doing and how they interpret the financial news is very helpful to me. Being a [contrarian](https://en.wikipedia.org/wiki/Contrarian) has been profitable to me. In the last month, I've talked to several people about the stock market. Here are some of the things I've heard.
+I love talking to people about investing. Listening to what people are doing and how they interpret the financial news is very helpful to me. Being a [contrarian](https://en.wikipedia.org/wiki/Contrarian) has been profitable to me.
+
+In the last month, I've talked to several people about the stock market. Here are some of the things I've heard.
 
 -   _I bought at the bottom._ - A very smart engineer said with complete confidence, that he fully invested into the stock market _at the bottom_. When I inquired how he knew it was the bottom, he seemed puzzled as if the market couldn't drop below the late October lows. Note that since we talked it already has. Other than the 1987 computer glitch crash, I have yet to find a market bottom formed from the massive day to day swings in price action that we are seeing today. When the market roars back on a single day or week, it is often not a reaction to positive news, but a squeeze on those shorting stocks. Once the squeeze ends, the stocks resume their downward channel.
 -   _It'll come back in three years._ \- A lady in software training informed me that all the losses in the market are troubling, but she is confident the market will return it all in three years. I asked how she arrived at three years. Her response was that it always comes back.
 -   _It doesn't matter, since I have a long time before retiring._ - I've already covered this silly statement. If retirement is delayed by years, then it does matter.
 
-When I put my house up for sale in 2005, I heard similar nonsense. _Houses could only go up. Home prices never go down._ People just repeat what they hear without checking their sources. And often what they heard was some nonsense they saw or read from the financial media, which make its money from advertisers whose goal is to keep you fully invested in the market at all times. [![](./img/cycle.jpg "cycle")](./img/cycle.jpg) Market bottoms come after capitulation. Here in Seattle, I haven't even heard the faint whisper of capitulation. We got a ways to go before bottoming. I'm still calling for an [S&P 500 of 600](/2008/10/picking-a-new-sp-500-target/).
+When I put my house up for sale in 2005, I heard similar nonsense. _Houses could only go up. Home prices never go down._ People just repeat what they hear without checking their sources. And often what they heard was some nonsense they saw or read from the financial media, which make its money from advertisers whose goal is to keep you fully invested in the market at all times.
+
+[![](./img/cycle.jpg "cycle")](./img/cycle.jpg)
+
+Market bottoms come after capitulation. Here in Seattle, I haven't even heard the faint whisper of capitulation. We got a ways to go before bottoming. I'm still calling for an [S&P 500 of 600](/2008/10/picking-a-new-sp-500-target/).
 
 ---
 

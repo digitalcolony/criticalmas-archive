@@ -9,7 +9,13 @@ description: "In the post Psychology of Back Pain, I touched on the work of Dr. 
 commentCount: 10
 ---
 
-In the post [Psychology of Back Pain](/2011/02/the-psychology-of-back-pain/), I touched on the work of Dr. Sarno that connects stress to back pain. If you haven't read that post, go do so now. A primary strategy for addressing back pain is to give the person exercises to do. Dr. Sarno states that all forms of therapy that validate the physical pain should be avoided and that includes back exercises. By doing back exercises you are addressing the physical manifestation of pain with psychological roots. I agree with Dr. Sarno, but I've expanded my thinking on back exercises. Prior to my workouts, I do a short session of what I call mobility exercises. This is not stretching. It takes me about 10 minutes and I don't always do the same movements. Anyone watching me in the gym would see my effort as a warm-up strategy. It appears that I am preparing my body for the workout that is coming. They would be wrong. My mobility work is about demonstrating to my mind that my body is healthy and can engage in a wide range of movements effortlessly and pain-free. Since I believe the root cause of almost all my back pain is psychological and not physical, I am showing my mind just how capable I am. Throughout the week, I may sit for hours at a desk or in a car. During this time, I am incapable of demonstrating free movement. **My mobility sessions are, to me, a movement meditation.** I am proudly showing my mind just how capable my movement is when I step away from the restrictions the modern world places on varied movements. Some of the movements I perform include:
+In the post [Psychology of Back Pain](/2011/02/the-psychology-of-back-pain/), I touched on the work of Dr. Sarno that connects stress to back pain. If you haven't read that post, go do so now. A primary strategy for addressing back pain is to give the person exercises to do. Dr. Sarno states that all forms of therapy that validate the physical pain should be avoided and that includes back exercises. By doing back exercises you are addressing the physical manifestation of pain with psychological roots.
+
+I agree with Dr. Sarno, but I've expanded my thinking on back exercises. Prior to my workouts, I do a short session of what I call mobility exercises. This is not stretching. It takes me about 10 minutes and I don't always do the same movements. Anyone watching me in the gym would see my effort as a warm-up strategy. It appears that I am preparing my body for the workout that is coming. They would be wrong.
+
+My mobility work is about demonstrating to my mind that my body is healthy and can engage in a wide range of movements effortlessly and pain-free. Since I believe the root cause of almost all my back pain is psychological and not physical, I am showing my mind just how capable I am. Throughout the week, I may sit for hours at a desk or in a car. During this time, I am incapable of demonstrating free movement. **My mobility sessions are, to me, a movement meditation.** I am proudly showing my mind just how capable my movement is when I step away from the restrictions the modern world places on varied movements.
+
+Some of the movements I perform include:
 
 -   arm circles (both directions)
 -   bodyweight squats (vary speed and depth)
@@ -18,7 +24,13 @@ In the post [Psychology of Back Pain](/2011/02/the-psychology-of-back-pain/), I 
 -   leg swings (forward, side)
 -   the 6 core movements outlined in [3 Minutes to a Pain-Free Life](/2011/12/3-minutes-to-a-pain-free-life/)
 
-![3 Minutes to a Pain-Free Life: The Groundbreaking Program for Total Body Pain Prevention and Rapid Relief](https://images-na.ssl-images-amazon.com/images/I/51CWMJ531HL.jpg) _3 Minutes to a Pain-Free Life: The Groundbreaking Program for Total Body Pain Prevention and Rapid Relief by Joseph Weisberg_ Another excellent resource is the Magnificent Mobility DVD by Eric Cressey. The video demonstrates many ideas for movements you can add to your own personal routine. Even though Dr. Weisberg and Eric Cressey are presenting their material as movements to prevent physical pain, I am using their work to demonstrate to my mind that I am capable of excellent movement. If I do experience back pain that wasn't directly attributable to an injury, then I don't do these movements. Instead, I reflect on what stresses are going on in my life and work through those first. Mobility work is only done to support an already healthy body.
+![3 Minutes to a Pain-Free Life: The Groundbreaking Program for Total Body Pain Prevention and Rapid Relief](https://images-na.ssl-images-amazon.com/images/I/51CWMJ531HL.jpg)
+
+_3 Minutes to a Pain-Free Life: The Groundbreaking Program for Total Body Pain Prevention and Rapid Relief by Joseph Weisberg_
+
+Another excellent resource is the Magnificent Mobility DVD by Eric Cressey. The video demonstrates many ideas for movements you can add to your own personal routine. Even though Dr. Weisberg and Eric Cressey are presenting their material as movements to prevent physical pain, I am using their work to demonstrate to my mind that I am capable of excellent movement.
+
+If I do experience back pain that wasn't directly attributable to an injury, then I don't do these movements. Instead, I reflect on what stresses are going on in my life and work through those first. Mobility work is only done to support an already healthy body.
 
 ---
 

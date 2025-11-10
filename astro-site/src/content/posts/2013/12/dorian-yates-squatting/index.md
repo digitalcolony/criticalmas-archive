@@ -16,13 +16,17 @@ One of the false criticisms of High Intensity Training is that the top bodybuild
 3.  This is an extension of point #1. Most of the easiest gains come in the first year of training. Some would say in the first six months. Very very few lifters start with HIT. The young lifter associates their gains to their workout protocol and not the fact they are a beginner. This sets off a culture built on attribution bias. "I made the most gains with the squat" instead of "I made the most gains when I was a beginner".
 4.  Mike Mentzer and 6-time Mr. Olympia Dorian Yates.
 
-HIT does have its elite bodybuilding role models in Mike Mentzer and Dorian Yates. I hate to cite an outlier as a defense, but when someone mentions that no top bodybuilders use HIT, they need to be corrected. Mentzer has written tons on HIT, so I decided to read more about Dorian Yates. These quotes are from a [2008 interview on BodyBuilding.com](https://web.archive.org/web/20231202191347/https://www.bodybuilding.com/fun/dorian_yates_training_insight.htm).
+HIT does have its elite bodybuilding role models in Mike Mentzer and Dorian Yates. I hate to cite an outlier as a defense, but when someone mentions that no top bodybuilders use HIT, they need to be corrected.
+
+Mentzer has written tons on HIT, so I decided to read more about Dorian Yates. These quotes are from a [2008 interview on BodyBuilding.com](https://web.archive.org/web/20231202191347/https://www.bodybuilding.com/fun/dorian_yates_training_insight.htm).
 
 
 ### #1 On Squats
 
 
-> Well, I was a big squatter in my early days. That's what everyone did and it was macho exercise as well. It was like if you don't squat then you are not even a real man. That was the attitude in the gym. And, of course, Tom Platz was the big guy around back then, with his massive legs and his preaching about squats. But there were times when I was forced to look at alternatives - from the free weight squat anyway. I would always pre-exhaust before I got onto the compound exercises, but I did leg press, and hack squatting, or squatting on a Smith machine instead of going to squats. And I found I got much better development from these exercises than from just heavy squatting. It depends a lot on your structure, but it (the squat) didn't suit me. So hack squats, leg presses and pre-exhaustion with leg extensions.
+> Well, I was a big squatter in my early days. That's what everyone did and it was macho exercise as well. It was like if you don't squat then you are not even a real man. That was the attitude in the gym. And, of course, Tom Platz was the big guy around back then, with his massive legs and his preaching about squats. But there were times when I was forced to look at alternatives - from the free weight squat anyway.
+> 
+> I would always pre-exhaust before I got onto the compound exercises, but I did leg press, and hack squatting, or squatting on a Smith machine instead of going to squats. And I found I got much better development from these exercises than from just heavy squatting. It depends a lot on your structure, but it (the squat) didn't suit me. So hack squats, leg presses and pre-exhaustion with leg extensions.
 
 The great Dorian Yates preferred the leg press to the squat. He started with squats but changed his mind and got better results.
 
@@ -30,7 +34,9 @@ The great Dorian Yates preferred the leg press to the squat. He started with squ
 ### #2 On Training and Momentum
 
 
-> I usually ask, "What is the usual max weight you would use?" The usual reply is, "300 pounds," or some excessive weight. I have those people using 150 to 200 pounds and getting a much better workout. I make them do it properly and focus on different mechanics, the correct conditioning and correct control - **no momentum** - so all of the stress is going on the muscle and they have the best workout ever. They are not throwing around the kinds of weights they are used to doing, because that's what they are doing with them: throwing them around. They are using other muscle groups, using momentum to get the weights moving and the muscle that they are targeting is not benefiting as much as it should be.
+> I usually ask, "What is the usual max weight you would use?" The usual reply is, "300 pounds," or some excessive weight. I have those people using 150 to 200 pounds and getting a much better workout. I make them do it properly and focus on different mechanics, the correct conditioning and correct control - **no momentum** - so all of the stress is going on the muscle and they have the best workout ever.
+> 
+> They are not throwing around the kinds of weights they are used to doing, because that's what they are doing with them: throwing them around. They are using other muscle groups, using momentum to get the weights moving and the muscle that they are targeting is not benefiting as much as it should be.
 
 One reason I believe there is so much hostility to HIT is that a traditional lifter has his ego tied up with a number. They say they can lift X number of pounds. When their friend momentum is reduced or eliminated, they find they can't lift anywhere near that amount. It is humbling to see just how much your "strength" declines when you stop throwing weights.
 
@@ -40,7 +46,11 @@ One reason I believe there is so much hostility to HIT is that a traditional lif
 
 > I believe it is important, if not more important than the positive part. So I always emphasize the negative part because more muscle damage occurs during the negative phase. And it's the damage that is repaired that makes the muscle grow.
 
-If you use machines correctly, you can control momentum and target the negative portion of the lift. Two things that you can't do safely with a classic barbell back squat. Based on the comments in this interview, Dorian chose the machines not because they were the [safer option](/2012/06/lower-risk-alternatives-to-the-barbell-back-squat/), but because they were more effective for him. And his results speak volumes. From 1992-1997, the top physique in the world didn't back squat. ![Dorian Yates](./img/DorianYates1.jpg) _Do you even squat bro?_
+If you use machines correctly, you can control momentum and target the negative portion of the lift. Two things that you can't do safely with a classic barbell back squat. Based on the comments in this interview, Dorian chose the machines not because they were the [safer option](/2012/06/lower-risk-alternatives-to-the-barbell-back-squat/), but because they were more effective for him. And his results speak volumes. From 1992-1997, the top physique in the world didn't back squat.
+
+![Dorian Yates](./img/DorianYates1.jpg)
+
+_Do you even squat bro?_
 
 ---
 

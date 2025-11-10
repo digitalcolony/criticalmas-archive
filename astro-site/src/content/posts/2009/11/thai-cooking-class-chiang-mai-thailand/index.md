@@ -9,7 +9,23 @@ description: "Besides riding elephants and playing with big cats, the other cool
 commentCount: 7
 ---
 
-Besides [riding elephants](/2009/11/elephant-training-in-chiang-mai-thailand/) and [playing with big cats](/2009/11/3-tigers-1-lion-and-mas-in-a-cage/), the other cool thing I did in Chiang Mai was take an all day [Thai cooking class](http://www.thaifarmcooking.net/home/). I've been cooking Thai food pretty much every week for the past 18 months. Assuming I don't get hit on the head and forget everything I've learned, my Thai cooking skills will be even better when I return to Seattle. The day started out with a trip to the market. There wemet up with our instructor and got an introudction to curry and rice. We also and saw a machine used to extract coconut cream and milk. Then we drove out to the Thai cooking school, which was on an organic farm. Our instructor walked us around the garden and showed us the different plants that we would be adding to our Thai cooking. ![thaicooking-class-1](./img/thaicooking-class-1.jpg) ![thaicooking-class-2](./img/thaicooking-class-2.jpg) The Thai cooking class was a 6 course event. We made our own curry paste and then a dish using that curry. In addition, we made a soup and astir fry. The class had a choice between pad thai and spring rolls. I picked pad thai. We finished with a desert (pumpkin soup for me). ![thaicooking-class-3](./img/thaicooking-class-3.jpg) I highly recommend the Thai Cooking Class. It was fun and we got to eat our own cooking. We even had leftovers to takehome. [Photo Gallery for Thai Cooking Class and Market Trip](https://www.flickr.com/photos/129592470@N02/sets/72157649736077428/) Photos taken with the Canon 30D by Nick
+Besides [riding elephants](/2009/11/elephant-training-in-chiang-mai-thailand/) and [playing with big cats](/2009/11/3-tigers-1-lion-and-mas-in-a-cage/), the other cool thing I did in Chiang Mai was take an all day [Thai cooking class](http://www.thaifarmcooking.net/home/). I've been cooking Thai food pretty much every week for the past 18 months. Assuming I don't get hit on the head and forget everything I've learned, my Thai cooking skills will be even better when I return to Seattle.
+
+The day started out with a trip to the market. There wemet up with our instructor and got an introudction to curry and rice. We also and saw a machine used to extract coconut cream and milk. Then we drove out to the Thai cooking school, which was on an organic farm. Our instructor walked us around the garden and showed us the different plants that we would be adding to our Thai cooking.
+
+![thaicooking-class-1](./img/thaicooking-class-1.jpg)
+
+![thaicooking-class-2](./img/thaicooking-class-2.jpg)
+
+The Thai cooking class was a 6 course event. We made our own curry paste and then a dish using that curry. In addition, we made a soup and astir fry. The class had a choice between pad thai and spring rolls. I picked pad thai. We finished with a desert (pumpkin soup for me).
+
+![thaicooking-class-3](./img/thaicooking-class-3.jpg)
+
+I highly recommend the Thai Cooking Class. It was fun and we got to eat our own cooking. We even had leftovers to takehome.
+
+[Photo Gallery for Thai Cooking Class and Market Trip](https://www.flickr.com/photos/129592470@N02/sets/72157649736077428/)
+
+Photos taken with the Canon 30D by Nick
 
 ---
 

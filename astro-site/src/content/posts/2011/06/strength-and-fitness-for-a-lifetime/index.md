@@ -9,13 +9,25 @@ description: "Last week Fred Fornicola from Premiere Personal Fitness sent me a 
 commentCount: 15
 ---
 
-Last week Fred Fornicola from _Premiere Personal Fitness_ sent me a copy of his e-book _Strength and Fitness For a Lifetime - How We Train_ to review. _Strength and Fitness For a Lifetime_ is a collection of older fitness enthusiasts that are still around and still in great shape. Almost all those profiled are over 40, with the majority being in their 50s and 60s. Most guys at the gym make the same mistake when seeking role models. They look at the huge guy in his mid 20s and decide to train like him. Not me. I've always been far more interested in the survivors. I detailed my thoughts on this topic in the post [Rambling Thoughts About Gym Survivorship](/2010/06/rambling-thoughts-about-gym-survivorship/). I wanted to learn what enabled these lifters to survive when so many their age had given up or got sidelined with injuries. I expected that answer to be a common sense scaled back version of training that measured risk versus reward. Although there was some of that, I came away with the opinion that these athletes mostly survived through superior recovery ability. ![strength-and-fitness-lifetime](./img/strength-and-fitness-lifetime.jpg) _Strength and Fitness For a Lifetime: How We Train Now by Fred Fornicola_ Almost all the athletes profiled began training as teenagers, and a few before then. I don't know this to be a fact, but I believe that if you start weight training at a young age, you develop an ability to recover faster and that you retain that ability into your later years. So the fact you are muscular at 55 has more to do with the fact you started lifting at 13 than your 4x a week exercise program. I could be wrong, but you almost never see older guys pushing serious iron that started lifting later in life. My favorite profiles in the book included:
+Last week Fred Fornicola from _Premiere Personal Fitness_ sent me a copy of his e-book _Strength and Fitness For a Lifetime - How We Train_ to review.
+
+_Strength and Fitness For a Lifetime_ is a collection of older fitness enthusiasts that are still around and still in great shape. Almost all those profiled are over 40, with the majority being in their 50s and 60s. Most guys at the gym make the same mistake when seeking role models. They look at the huge guy in his mid 20s and decide to train like him. Not me. I've always been far more interested in the survivors. I detailed my thoughts on this topic in the post [Rambling Thoughts About Gym Survivorship](/2010/06/rambling-thoughts-about-gym-survivorship/).
+
+I wanted to learn what enabled these lifters to survive when so many their age had given up or got sidelined with injuries. I expected that answer to be a common sense scaled back version of training that measured risk versus reward. Although there was some of that, I came away with the opinion that these athletes mostly survived through superior recovery ability.
+
+![strength-and-fitness-lifetime](./img/strength-and-fitness-lifetime.jpg) _Strength and Fitness For a Lifetime: How We Train Now by Fred Fornicola_
+
+Almost all the athletes profiled began training as teenagers, and a few before then. I don't know this to be a fact, but I believe that if you start weight training at a young age, you develop an ability to recover faster and that you retain that ability into your later years. So the fact you are muscular at 55 has more to do with the fact you started lifting at 13 than your 4x a week exercise program. I could be wrong, but you almost never see older guys pushing serious iron that started lifting later in life.
+
+My favorite profiles in the book included:
 
 -   **Fred Fornicola** - His approach was the least rigid. He has the mind of a student. Always learning and exploring new fitness protocols. He also had the most solid nutritional advice.
 -   **Bill DeSimone** - He takes a smart bio-mechanics approach to lifting and recognizes there is a balance between performance and injury and that avoiding injury is the primary goal.
 -   **Dwayne Wimmer** - His training philosophy is [almost identical to mine](/2011/05/high-intensity-training-my-6-month-update/). Perform two brief, highly intense workouts a week and then allow time for recovery.
 
-Some profiles I would have liked to seen in the book would include [John Little](/2011/05/max-contraction-training/) and Dave Durell. They are both over 40 and have a great understanding of recovery, which is a topic critical to the older lifter. Maybe as I get older I'll understand the wisdom from many of these lifters, but my opinion is that most of them over train and their body let them get away with it. The book is a quick read at 96 pages. Fred did a great job with the editing and I also enjoyed reading the introductions.
+Some profiles I would have liked to seen in the book would include [John Little](/2011/05/max-contraction-training/) and Dave Durell. They are both over 40 and have a great understanding of recovery, which is a topic critical to the older lifter. Maybe as I get older I'll understand the wisdom from many of these lifters, but my opinion is that most of them over train and their body let them get away with it.
+
+The book is a quick read at 96 pages. Fred did a great job with the editing and I also enjoyed reading the introductions.
 
 ---
 

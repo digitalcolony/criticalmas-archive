@@ -17,7 +17,11 @@ Before I answer let me state that I am an espresso drinker. The only coffee I'll
 
 > When you first look into a coffee shop, what is the first thing you see? Is it ice cream, pretzels, flavored coffee, juices, regular coffee, or an espresso-based drink? Nine times out of ten, whatever is most prominently displayed is what they do best. When gourmet coffee or espresso starts looking like a side dish, start looking for the door.
 
-![McCafe-uruguay](./img/McCafe-uruguay.jpg) _McCafe photo I took in Montevideo, Uruguay. McDonalds is my favorite coffee in URUGUAY only!_ Commenter "t" inquired about Caribou Coffee. I haven't been to one in several years so I'll reserve judgement. Most of my coffee experience since 2000 has been with west coast chains. Of the multi-state chains I've been to the clear champion is Peets. The rest are very close, although Gloria Jeans is the worst.
+![McCafe-uruguay](./img/McCafe-uruguay.jpg)
+
+_McCafe photo I took in Montevideo, Uruguay. McDonalds is my favorite coffee in URUGUAY only!_
+
+Commenter "t" inquired about Caribou Coffee. I haven't been to one in several years so I'll reserve judgement. Most of my coffee experience since 2000 has been with west coast chains. Of the multi-state chains I've been to the clear champion is Peets. The rest are very close, although Gloria Jeans is the worst.
 
 1.  Peets
 2.  Seattle's Best Coffee
@@ -27,7 +31,9 @@ Before I answer let me state that I am an espresso drinker. The only coffee I'll
 6.  It's a Grind
 7.  Gloria Jean
 
-Note that as good as Peets is, I can name 20 independent places better. Most of the places are in Seattle, Portland and Vancouver. My last comment is that once Starbucks deploys the Clover machine nationally, it will move up my national rankings to 2nd. **UPDATE 2015:** Since this post was written 7 years ago, both Peets and Seattle's Best Coffee have declined in quality. Starbucks has made some improvements. So I'd put CBTL and Starbucks at the top and the rest below. They are all still awful. Seek out a quality local roaster.
+Note that as good as Peets is, I can name 20 independent places better. Most of the places are in Seattle, Portland and Vancouver. My last comment is that once Starbucks deploys the Clover machine nationally, it will move up my national rankings to 2nd.
+
+**UPDATE 2015:** Since this post was written 7 years ago, both Peets and Seattle's Best Coffee have declined in quality. Starbucks has made some improvements. So I'd put CBTL and Starbucks at the top and the rest below. They are all still awful. Seek out a quality local roaster.
 
 ---
 

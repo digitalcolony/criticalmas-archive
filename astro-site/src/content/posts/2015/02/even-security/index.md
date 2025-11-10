@@ -9,7 +9,17 @@ description: "A few weeks ago I was getting ready to walk into a coffee shop, so
 commentCount: 9
 ---
 
-A few weeks ago I was getting ready to walk into a coffee shop, so I reached down to pull out my wallet. It wasn't there. In my rush to leave the house, I grabbed my old cell phone instead of my wallet. Fortunately, I knew my wallet was back home safe. But it got me thinking about how I would have responded had it been stolen or lost. I suppose I could sit down and try to recall all my accounts and then look up the numbers. Call those companies. Confirm my identity. Freeze those accounts. However, last year I went 100% paperless, which I describe in detail in the post [Scan, Encrypt, Store, Delete, Shred: Going Paperless!](/2014/09/scan-encrypt-store-delete-shred-paperless/) In order to get to those documents, I would need to connect to a cloud server, download, and decode using a program that I only have installed on my PC. The coffee shop I was at was 30 minutes from my house. What if I had been out of the country? Time is ticking. My inner [Stoic](/2010/11/a-guide-to-the-good-life/) imagined the worst and then came up with a plan so I know how to respond to that scenario should it ever happen. Today using _My LastPass Vault_ I created emergency recovery documents so in minutes I could be contacting and shutting down access to my financial accounts. I can get to it from my phone or any internet connection. I also added frequent customer cards numbers. I paid for the LastPass Mobile version which is just $1 a month. The desktop version is free. ![safe-vault](./img/safe-vault.jpg) _[Photo](https://flic.kr/p/ruAw2) by Rob Pongsajapan_
+A few weeks ago I was getting ready to walk into a coffee shop, so I reached down to pull out my wallet. It wasn't there. In my rush to leave the house, I grabbed my old cell phone instead of my wallet. Fortunately, I knew my wallet was back home safe. But it got me thinking about how I would have responded had it been stolen or lost.
+
+I suppose I could sit down and try to recall all my accounts and then look up the numbers. Call those companies. Confirm my identity. Freeze those accounts. However, last year I went 100% paperless, which I describe in detail in the post [Scan, Encrypt, Store, Delete, Shred: Going Paperless!](/2014/09/scan-encrypt-store-delete-shred-paperless/) In order to get to those documents, I would need to connect to a cloud server, download, and decode using a program that I only have installed on my PC. The coffee shop I was at was 30 minutes from my house. What if I had been out of the country? Time is ticking.
+
+My inner [Stoic](/2010/11/a-guide-to-the-good-life/) imagined the worst and then came up with a plan so I know how to respond to that scenario should it ever happen.
+
+Today using _My LastPass Vault_ I created emergency recovery documents so in minutes I could be contacting and shutting down access to my financial accounts. I can get to it from my phone or any internet connection. I also added frequent customer cards numbers. I paid for the LastPass Mobile version which is just $1 a month. The desktop version is free.
+
+![safe-vault](./img/safe-vault.jpg)
+
+_[Photo](https://flic.kr/p/ruAw2) by Rob Pongsajapan_
 
 
 ### I Agree With Richard on Carbs, But Not Security
@@ -23,11 +33,21 @@ He then links to a site that was supposed to support his argument, but the first
 
 > ...don't reuse your passwords across different security domains or websites. We all belong to dozens of different websites and networks. The more you belong to, the higher the risk of malicious compromise -- which will happen eventually. If you don't reuse your logon credentials all over the place, you make it harder for the bad guys to hurt you more than once.
 
-I have accounts on 209 sites. Not a single one uses a duplicate password. The second article Richard linked to [Do we really need strong passwords?](https://nakedsecurity.sophos.com/2014/10/24/do-we-really-need-strong-passwords/) started off making his case, but then concluded with this recommendation:
+I have accounts on 209 sites. Not a single one uses a duplicate password.
 
-> Fortunately, you can bypass the authors' notion of a 'fixed time-effort' budget by using a password manager. That way, you no longer need to differentiate your lower consequence accounts: you can simply treat all your accounts as important. With a password manager, the effort involved in generating and storing an extremely strong password is exactly the same as the effort needed to create a weak password.
+The second article Richard linked to [Do we really need strong passwords?](https://nakedsecurity.sophos.com/2014/10/24/do-we-really-need-strong-passwords/) started off making his case, but then concluded with this recommendation:
 
-That same article links deeper into their site on [how to pick a proper password](https://nakedsecurity.sophos.com/2014/10/01/how-to-pick-a-proper-password/), which advises to "go as long and complex as you can". They state it would take less than 2 seconds to crack Richard's 8 character password. Once they hack one site with Richard's password, they can try it on hundreds of sites to see which ones work and since he uses the same password, he is now compromised in multiple spots. My average password is 14 characters (and growing), with my master password being more than double that. Even if one account is hacked, the damage is contained. I cover all this in my post [My Online Password Strategy (2014)](/2014/09/online-password-strategy-2014/). With password managers, there is no reason not to lock down your security. I use LastPass, but I've also read good things about KeePass and 1Password.
+> Fortunately, you can bypass the authors' notion of a 'fixed time-effort' budget by using a password manager.
+> 
+> That way, you no longer need to differentiate your lower consequence accounts: you can simply treat all your accounts as important.
+> 
+> With a password manager, the effort involved in generating and storing an extremely strong password is exactly the same as the effort needed to create a weak password.
+
+That same article links deeper into their site on [how to pick a proper password](https://nakedsecurity.sophos.com/2014/10/01/how-to-pick-a-proper-password/), which advises to "go as long and complex as you can". They state it would take less than 2 seconds to crack Richard's 8 character password. Once they hack one site with Richard's password, they can try it on hundreds of sites to see which ones work and since he uses the same password, he is now compromised in multiple spots.
+
+My average password is 14 characters (and growing), with my master password being more than double that. Even if one account is hacked, the damage is contained. I cover all this in my post [My Online Password Strategy (2014)](/2014/09/online-password-strategy-2014/).
+
+With password managers, there is no reason not to lock down your security. I use LastPass, but I've also read good things about KeePass and 1Password.
 
 ---
 

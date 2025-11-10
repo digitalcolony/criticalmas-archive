@@ -9,11 +9,17 @@ description: "Something about the proposed Paulson $700 Billion bailout doesn't 
 commentCount: 8
 ---
 
-Something about the proposed Paulson $700 Billion bailout doesn't seem right. You have very smart people making sound arguments against it, but I'm starting to wonder if there is another motive behind the bailout. I can't help but think of Law 3 from the book _The 48 Laws of Power_ by Robert Greene:
+Something about the proposed Paulson $700 Billion bailout doesn't seem right. You have very smart people making sound arguments against it, but I'm starting to wonder if there is another motive behind the bailout.
 
-> **Law 3 - Conceal Your Intentions** Keep people off-balance and in the dark by never revealing the purpose behind your actions. If they have no clue what you are up to, they cannot prepare a defense. Guide them far enough down the wrong path, envelope them in enough smoke, and by the time they realize your intentions, it will be too late.
+I can't help but think of Law 3 from the book _The 48 Laws of Power_ by Robert Greene:
 
-When I hear Paulson, Bernanke and Bush discuss the banking crisis, I can't help but think of this Law. Get the public hot and bothered over executive compensation or some other minor issues while the real plan unfolds. What is the real intent? I did several more hours of reading and found an alternate theory that makes more sense to me. Granted I am an arm-chair economist, so I could be 100% wrong. I'll do my best to explain my current thoughts.
+> **Law 3 - Conceal Your Intentions**
+> 
+> Keep people off-balance and in the dark by never revealing the purpose behind your actions. If they have no clue what you are up to, they cannot prepare a defense. Guide them far enough down the wrong path, envelope them in enough smoke, and by the time they realize your intentions, it will be too late.
+
+When I hear Paulson, Bernanke and Bush discuss the banking crisis, I can't help but think of this Law. Get the public hot and bothered over executive compensation or some other minor issues while the real plan unfolds. What is the real intent?
+
+I did several more hours of reading and found an alternate theory that makes more sense to me. Granted I am an arm-chair economist, so I could be 100% wrong. I'll do my best to explain my current thoughts.
 
 1.  The United States runs a deficit to the tune of $2 Billion a day. To get the $2 Billion, we sell Treasuries. Most of the $2 Billion comes from China.
 2.  Moving $2 Billion worth of Treasuries every day is not an easy task. The Federal Reserve hands this task out to [Primary Dealers](https://en.wikipedia.org/wiki/Primary_dealers). Primary Dealers (PD) are large banks and investment houses. The Federal Reserve of New York has a full list of Primary Dealers.
@@ -27,7 +33,9 @@ This theory is my overview of many comments I read over on _Ticker Forum_ in 2 t
 -   Nothing's take on the bailout (by NoThing)
 -   Some exchanges seem on Mish's blog (by Bam\_Man)
 
-The big question that is still left unanswered to me is why doesn't the Federal Reserve of New York start finding new stronger financial institutions to become Primary Dealers? Are the banks that weak or are they out of time? The Federal Reserve is often called _the banker of bankers_. Doesn't it make sense that they would back a plan that would show favoritism to their Primary Dealers? This post is speculation, but it makes more sense than what I've heard from our leaders. How would most Americans respond knowing that our country is a slave to foreign bankers? Ignorance is an easier pill to digest than living within our means.
+The big question that is still left unanswered to me is why doesn't the Federal Reserve of New York start finding new stronger financial institutions to become Primary Dealers? Are the banks that weak or are they out of time? The Federal Reserve is often called _the banker of bankers_. Doesn't it make sense that they would back a plan that would show favoritism to their Primary Dealers?
+
+This post is speculation, but it makes more sense than what I've heard from our leaders. How would most Americans respond knowing that our country is a slave to foreign bankers? Ignorance is an easier pill to digest than living within our means.
 
 ---
 

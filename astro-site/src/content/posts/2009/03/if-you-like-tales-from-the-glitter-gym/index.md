@@ -9,15 +9,25 @@ description: "This week the great TC from T-Nation takes you through his Glitter
 commentCount: 8
 ---
 
-This week the great TC from [T-Nation](http://www.t-nation.com) takes you through his [_Glitter Gym_](https://criticalmas.org/tag/glitter-gym/) in San Diego. He doesn't name the gym, but I believe it is in La Jolla. If you can get past the blinding gold text on black background, the article is titled [Where it Rains Doughnuts and Boobs](http://web.archive.org/web/20140720140754/http://www.t-nation.com/free_online_article/sex_news_sports_funny_grok/where_it_rains_doughnuts_and_boobs). One of his stories was frighteningly similar to one of mine. From [Tales From the Glitter Gym - Locker Room Edition](/2007/08/tales-from-the-glitter-gym-locker-room-edition/):
+This week the great TC from [T-Nation](http://www.t-nation.com) takes you through his [_Glitter Gym_](https://criticalmas.org/tag/glitter-gym/) in San Diego. He doesn't name the gym, but I believe it is in La Jolla. If you can get past the blinding gold text on black background, the article is titled [Where it Rains Doughnuts and Boobs](http://web.archive.org/web/20140720140754/http://www.t-nation.com/free_online_article/sex_news_sports_funny_grok/where_it_rains_doughnuts_and_boobs).
 
-> **Thats a _Hand_ Dryer!** - You may never forget to bring your own towel to the gym after hearing this tale. When I entered the locker room, I thought I saw out of the corner of my eye some dude drying his hands at the hand dryer. When I exited the locker room, I saw what he really was doing. He was standing on his tip toes and positioning his _junk_ up to the dryer. After leaving the shower, he didnt have a towel so he was aiming the _hand_ dryer at **every** part of his wet body. I got the hell out of there before he turned around to dry his _backside_.
+One of his stories was frighteningly similar to one of mine. From [Tales From the Glitter Gym - Locker Room Edition](/2007/08/tales-from-the-glitter-gym-locker-room-edition/):
+
+> **Thats a _Hand_ Dryer!** - You may never forget to bring your own towel to the gym after hearing this tale. When I entered the locker room, I thought I saw out of the corner of my eye some dude drying his hands at the hand dryer.
+> 
+> When I exited the locker room, I saw what he really was doing.
+> 
+> He was standing on his tip toes and positioning his _junk_ up to the dryer. After leaving the shower, he didnt have a towel so he was aiming the _hand_ dryer at **every** part of his wet body. I got the hell out of there before he turned around to dry his _backside_.
 
 From TC's article this morning:
 
-> **Don't Hair-Dry Your Balls.** Why can't I walk into the locker room of my gym without being greeted by the sight of some old bastard, one foot on top of the counter, crotch spread wide like a model in a _Hustler_ photo shoot, using a portable hair dryer on his balls? It's ghastly. Not only that, it makes the room smell like the cheddar-cheese covered popcorn my Nana used to make on her old potbelly stove and it makes me feel nostalgic and sad. Use a towel on your nads, or maybe do a little manscaping, for Chrissake. Less hair would allow you to dry faster, possibly saving others from having that terrible vision loaded forever onto their mental hard drive.
+> **Don't Hair-Dry Your Balls.** Why can't I walk into the locker room of my gym without being greeted by the sight of some old bastard, one foot on top of the counter, crotch spread wide like a model in a _Hustler_ photo shoot, using a portable hair dryer on his balls? It's ghastly. Not only that, it makes the room smell like the cheddar-cheese covered popcorn my Nana used to make on her old potbelly stove and it makes me feel nostalgic and sad.
+> 
+> Use a towel on your nads, or maybe do a little manscaping, for Chrissake. Less hair would allow you to dry faster, possibly saving others from having that terrible vision loaded forever onto their mental hard drive.
 
-This is common? Oh no. TC is a great writer. I've been reading him for over a decade. It is sad that his phenomenal web site has such a hideous web design. TC, if you are reading this post, imagine your writing on a clean readable site like the [WSJ](http://online.wsj.com/article/SB123655039683165011.html) or [Mike Industries](https://mikeindustries.com/blog/).
+This is common? Oh no.
+
+TC is a great writer. I've been reading him for over a decade. It is sad that his phenomenal web site has such a hideous web design. TC, if you are reading this post, imagine your writing on a clean readable site like the [WSJ](http://online.wsj.com/article/SB123655039683165011.html) or [Mike Industries](https://mikeindustries.com/blog/).
 
 ---
 

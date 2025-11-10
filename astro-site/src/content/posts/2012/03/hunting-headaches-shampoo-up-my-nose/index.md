@@ -9,7 +9,19 @@ description: "It is time for a status report on my Hunting Headaches project. Fo
 commentCount: 22
 ---
 
-It is time for a status report on my Hunting Headaches project. For the new readers, almost a year ago I started a quantified self project to track down the cause of my late night headaches. Many ideas have been tried and so far the headaches continue. A few months ago I got an idea that my sinus headaches may have roots in some form of chronic infection. This troubled me, because I can run all sorts of self experiments, but if it was based upon some infection then I'd need to see a doctor. And you know how I [distrust doctors](/2011/10/why-i-distrust-doctors/). The infection idea seemed weak, but at this point I'm running out of ideas. Then I heard a health podcast that gave me a bizarre yet effective idea for eliminating chronic sinus infections. You add a small amount of baby shampoo to your Neti pot. Yes, baby shampoo! ![](./img/baby-shampoo.jpg "baby-shampoo") So I tried this Neti nose cocktail three nights in a row. My recipe was 8 ounces of warm filtered water, 1/2 teaspoon of sea salt, 1/3 teaspoon of baking soda and 1/2 teaspoon of J & J baby shampoo. As crazy as it seems the first time you use a Neti Pot, it is doubly weird to knowingly put shampoo up your nose. But I did it. It actually had a pleasant feel to it. Did the shampoo up the nose trick work? No. In the week following this experiment, I had zero decrease in sinus headaches. I'm glad I bought the travel size portion and not a full bottle. I could see using this trick again if I exhibited sinus symptoms other than headaches. Oh well, the hunt continues. I do have an interesting development in Hunting Headaches that I'll save for my [next post](/2012/03/hunting-headaches-side-sleep/). UPDATE: I no longer use baking soda in the mix. Stings too much.
+It is time for a status report on my Hunting Headaches project. For the new readers, almost a year ago I started a quantified self project to track down the cause of my late night headaches. Many ideas have been tried and so far the headaches continue.
+
+A few months ago I got an idea that my sinus headaches may have roots in some form of chronic infection. This troubled me, because I can run all sorts of self experiments, but if it was based upon some infection then I'd need to see a doctor. And you know how I [distrust doctors](/2011/10/why-i-distrust-doctors/).
+
+The infection idea seemed weak, but at this point I'm running out of ideas. Then I heard a health podcast that gave me a bizarre yet effective idea for eliminating chronic sinus infections. You add a small amount of baby shampoo to your Neti pot. Yes, baby shampoo!
+
+![](./img/baby-shampoo.jpg "baby-shampoo")
+
+So I tried this Neti nose cocktail three nights in a row. My recipe was 8 ounces of warm filtered water, 1/2 teaspoon of sea salt, 1/3 teaspoon of baking soda and 1/2 teaspoon of J & J baby shampoo. As crazy as it seems the first time you use a Neti Pot, it is doubly weird to knowingly put shampoo up your nose. But I did it. It actually had a pleasant feel to it.
+
+Did the shampoo up the nose trick work? No. In the week following this experiment, I had zero decrease in sinus headaches. I'm glad I bought the travel size portion and not a full bottle. I could see using this trick again if I exhibited sinus symptoms other than headaches. Oh well, the hunt continues. I do have an interesting development in Hunting Headaches that I'll save for my [next post](/2012/03/hunting-headaches-side-sleep/).
+
+UPDATE: I no longer use baking soda in the mix. Stings too much.
 
 ---
 

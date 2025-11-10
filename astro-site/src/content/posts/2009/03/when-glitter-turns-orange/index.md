@@ -9,7 +9,15 @@ description: "Yesterday I walked into my Glitter Gym and was hit with the smell 
 commentCount: 5
 ---
 
-Yesterday I walked into my Glitter Gym and was hit with the smell of wet paint. Before I could think about why they wouldn't prop open a door to air out the place, I walked into the free weight room. The walls were painted a pumpkin orange. Back in my Florida days I learned from an owner of a Gold's franchise that the two most common colors used for gyms are blue and red. Seeing blue is supposed to increase your endurance. Seeing red is supposed to increase your strength. I never followed up with that trivia to see if there was any truth to it. But I did have a dazed look on my face as I looked over the orange walls. The one cool trainer spotted my look and said that they had just painted it. He then said that **everyone** hates it. I corrected him and told him there was **one person who loved it**. ![mas-orange](./img/mas-orange.jpg "mas-orange") _Young MAS dreaming of the day gym walls will be the same color as his shirt._
+Yesterday I walked into my Glitter Gym and was hit with the smell of wet paint. Before I could think about why they wouldn't prop open a door to air out the place, I walked into the free weight room. The walls were painted a pumpkin orange.
+
+Back in my Florida days I learned from an owner of a Gold's franchise that the two most common colors used for gyms are blue and red. Seeing blue is supposed to increase your endurance. Seeing red is supposed to increase your strength. I never followed up with that trivia to see if there was any truth to it. But I did have a dazed look on my face as I looked over the orange walls.
+
+The one cool trainer spotted my look and said that they had just painted it. He then said that **everyone** hates it. I corrected him and told him there was **one person who loved it**.
+
+![mas-orange](./img/mas-orange.jpg "mas-orange")
+
+_Young MAS dreaming of the day gym walls will be the same color as his shirt._
 
 ---
 

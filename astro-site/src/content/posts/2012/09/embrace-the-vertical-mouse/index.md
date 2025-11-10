@@ -11,9 +11,15 @@ commentCount: 6
 
 Back in April, I put out the post [Standing Desk - Ghetto Edition](/2012/04/standing-desk-ghetto-edition/). That post was about figuring out ways of reducing my right shoulder pain. My solution of stacking my computer and monitor on boxes turned out to be unsustainable. The weight of the equipment on the boxes caused them to warp. I meant to get some better boxes, but I never did. What I did instead was take the advice [Kamal suggested](/2012/04/standing-desk-ghetto-edition/#comment-12577) in his comment.
 
-> Michael- have you ever looked into “vertical” mice? A neutral hand position often translates to better shoulder positioning. Since I’ve had a few shoulder surgeries, I tried to look into a zillion different ways to ease shoulder tension at the computer, and this might be one good thing to look into.
+> Michael- have you ever looked into “vertical” mice?
+> 
+> A neutral hand position often translates to better shoulder positioning. Since I’ve had a few shoulder surgeries, I tried to look into a zillion different ways to ease shoulder tension at the computer, and this might be one good thing to look into.
 
-I bought the mouse that day. It took me a few days to get used to the mouse, but now I am a believer. I have less tension in my right shoulder and far less tension on the back on my right forearm. When I first started using the vertical mouse, I started getting some pain in my right wrist. I solved that problem by switching back to my regular mouse every 3rd day for about 2 weeks. Since that adaptation period, I've been using the vertical mouse 100%. ![Evoluent VM4 Vertical Mouse Right Handed - The Patented Shape Supports Your Hand](https://images-na.ssl-images-amazon.com/images/I/21mUNoooGjL.jpg) _Evoluent VM4 Vertical Mouse Right Handed - The Patented Shape Supports Your Hand_ My shoulder tension isn't 100% gone, but the sharp pains are. Also, all the pain I was experiencing in my lower arm from extending mouse use is gone since using the vertical mouse. Note it did take a few weeks for this benefit to occur.
+I bought the mouse that day. It took me a few days to get used to the mouse, but now I am a believer. I have less tension in my right shoulder and far less tension on the back on my right forearm. When I first started using the vertical mouse, I started getting some pain in my right wrist. I solved that problem by switching back to my regular mouse every 3rd day for about 2 weeks. Since that adaptation period, I've been using the vertical mouse 100%.
+
+![Evoluent VM4 Vertical Mouse Right Handed - The Patented Shape Supports Your Hand](https://images-na.ssl-images-amazon.com/images/I/21mUNoooGjL.jpg) _Evoluent VM4 Vertical Mouse Right Handed - The Patented Shape Supports Your Hand_
+
+My shoulder tension isn't 100% gone, but the sharp pains are. Also, all the pain I was experiencing in my lower arm from extending mouse use is gone since using the vertical mouse. Note it did take a few weeks for this benefit to occur.
 
 ---
 

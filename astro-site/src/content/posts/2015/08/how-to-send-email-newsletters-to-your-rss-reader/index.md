@@ -9,7 +9,11 @@ description: "UPDATE April 2021: The service discussed in this post is no longer
 commentCount: 4
 ---
 
-_UPDATE April 2021: The service discussed in this post is no longer working._ In my previous post [How to Save RSS](/2015/08/how-to-save-rss/), I asked the RSS developers to create a newsletter reader. My wish was to redirect my content newsletters out of my email Inbox and over to my RSS Reader. One of the suggestions I got in the comments was to use InoReader. If you pay for the Plus version, which is $30 a year, you get the Mail2Tag feature. I'm a big fan of free and don't like paying for features that I can't test out. I prefer trial periods. Anyway, I kept thinking about how to solve this problem and with enough searching, I came up with a solution that is FREE and doesn't require changing your RSS Reader.
+_UPDATE April 2021: The service discussed in this post is no longer working._
+
+In my previous post [How to Save RSS](/2015/08/how-to-save-rss/), I asked the RSS developers to create a newsletter reader. My wish was to redirect my content newsletters out of my email Inbox and over to my RSS Reader. One of the suggestions I got in the comments was to use InoReader. If you pay for the Plus version, which is $30 a year, you get the Mail2Tag feature. I'm a big fan of free and don't like paying for features that I can't test out. I prefer trial periods.
+
+Anyway, I kept thinking about how to solve this problem and with enough searching, I came up with a solution that is FREE and doesn't require changing your RSS Reader.
 
 1.  Get a Google Account if you don't already have one.
 2.  Go to Emails to RSS Feed and log in.
@@ -17,7 +21,9 @@ _UPDATE April 2021: The service discussed in this post is no longer working._ In
 4.  Take the generated RSS Feed and subscribe to it to your Reader. Rename it something friendly.
 5.  Go forth and subscribe to newsletters with your Email Bridge address. Instead of cluttering up your Email Inbox, they will be waiting for you inside a folder of your choosing in your RSS Reader.
 
-![feedly-ss](./img/feedly-ss-e1438801068642.png) _The FluentU newsletter is now inside my RSS Reader Feedly_
+![feedly-ss](./img/feedly-ss-e1438801068642.png)
+
+_The FluentU newsletter is now inside my RSS Reader Feedly_
 
 ---
 

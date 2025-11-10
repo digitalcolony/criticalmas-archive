@@ -9,7 +9,19 @@ description: "Two posts ago I mentioned that I do not want to create disposable 
 commentCount: 10
 ---
 
-Two posts ago I mentioned that I do not want to create [disposable content](/2014/12/disposable-content/). One form of disposable content is financial forecasting. Years ago I did it. Sometimes I got things right and sometimes I got things wrong. In the end, the lesson I learned for myself is that although I was obsessed with finance for a few years, I no longer am. I discovered that I enjoy learning more about economics than the day-to-day market moves. That said, I promised I would provide my thoughts on the stock market and where things might be heading. But this will be my last post on finance. I'm more interested in economics. I currently have zero positions in the stock market. I did that for my sanity, as I spent too much time obsessing over things outside my control. I also don't feel comfortable with the idea that people might lose money following my investment advice. Although my investment philosophy is far more conservative than most. When times are good, I underperform. When times are bad, I do quite well. To do well when times are bad requires timing skills. These are skills I got right during the housing crisis and the stock market crash that followed. To think I will catch the next major move down and profit from it while focusing on other interests is not likely to happen. And since timing down legs comes with a cost of both time and money, I decided a few years ago to step away and pursue other hobbies. With that long disclaimer behind me, here is my last financial forecast post. ![wall-street](./img/wall-street.jpg) _[Photo](https://flic.kr/p/9Zisvi) by Alex Proimos_
+Two posts ago I mentioned that I do not want to create [disposable content](/2014/12/disposable-content/). One form of disposable content is financial forecasting. Years ago I did it. Sometimes I got things right and sometimes I got things wrong. In the end, the lesson I learned for myself is that although I was obsessed with finance for a few years, I no longer am. I discovered that I enjoy learning more about economics than the day-to-day market moves.
+
+That said, I promised I would provide my thoughts on the stock market and where things might be heading. But this will be my last post on finance. I'm more interested in economics.
+
+I currently have zero positions in the stock market. I did that for my sanity, as I spent too much time obsessing over things outside my control. I also don't feel comfortable with the idea that people might lose money following my investment advice. Although my investment philosophy is far more conservative than most. When times are good, I underperform. When times are bad, I do quite well.
+
+To do well when times are bad requires timing skills. These are skills I got right during the housing crisis and the stock market crash that followed. To think I will catch the next major move down and profit from it while focusing on other interests is not likely to happen. And since timing down legs comes with a cost of both time and money, I decided a few years ago to step away and pursue other hobbies.
+
+With that long disclaimer behind me, here is my last financial forecast post.
+
+![wall-street](./img/wall-street.jpg)
+
+_[Photo](https://flic.kr/p/9Zisvi) by Alex Proimos_
 
 
 ### Two Tidal Waves
@@ -21,18 +33,28 @@ When I think of what might happen in the next few years, I imagine two tidal wav
 #### Debt Wave
 
 
-Since the Great Recession, debt at every level has gone parabolic. Global debt is now over $100 Trillion. By suppressing interest rates, governments and central bankers have created an environment where lower financing costs, which could have been used to pay down debt, have instead been used to become even more indebted. Interest rates have been at rock bottom for years now and debt levels continue to climb. Even at a low-interest rate, financing costs to debt will eventually get to the levels where defaults are inevitable. Central bankers have tried and continue to try to inflate their way out of the debt. It hasn't been working. Explaining their failure would be a post in itself. The short version is the more money printed, the more debt in the system, and the more of that money is directed toward financing costs, malinvestment, and speculation. This decreases monetary velocity and the result instead of being inflationary becomes deflationary. If this topic is of interest, seek out Irving Fisher's Debt Deflation Theory. We are now past the point of getting benefits from lower interest rates. Now comes the currency wars. Japan and the European Union are working hard to devalue their currency against the US Dollar. OPEC is slashing the price of oil. The US Dollar is getting stronger. Besides cheaper gas, I see this having two major effects globally.
+Since the Great Recession, debt at every level has gone parabolic. Global debt is now over $100 Trillion. By suppressing interest rates, governments and central bankers have created an environment where lower financing costs, which could have been used to pay down debt, have instead been used to become even more indebted. Interest rates have been at rock bottom for years now and debt levels continue to climb. Even at a low-interest rate, financing costs to debt will eventually get to the levels where defaults are inevitable.
+
+Central bankers have tried and continue to try to inflate their way out of the debt. It hasn't been working. Explaining their failure would be a post in itself. The short version is the more money printed, the more debt in the system, and the more of that money is directed toward financing costs, malinvestment, and speculation. This decreases monetary velocity and the result instead of being inflationary becomes deflationary. If this topic is of interest, seek out Irving Fisher's Debt Deflation Theory.
+
+We are now past the point of getting benefits from lower interest rates. Now comes the currency wars. Japan and the European Union are working hard to devalue their currency against the US Dollar. OPEC is slashing the price of oil. The US Dollar is getting stronger. Besides cheaper gas, I see this having two major effects globally.
 
 1.  All those emerging markets that borrowed US Dollars at low-interest rates to fuel their expansion will now have to pay back those debts at a much higher rate since those debts are denominated in USD and the USD has gotten much stronger. This will be Japan's [carry trade](http://www.investopedia.com/terms/c/currencycarrytrade.asp) story playing out all over again. Defaults are coming.
 2.  Capital flight. Europe now has a negative interest rate. The misguided fools think this will encourage depositors to either spend or invest that money to spur the economy. Nope! What will happen is capital flight. Those deposits will start flowing towards higher and safer yields outside the continent.
 
-Predicting which way the market goes is a guess. If the rest of the world goes into recession, we are likely to start seeing sovereign debt defaults. Interest rates can't go lower. This could set off a global recession which would lead to our stock market going lower. However, investors around the globe looking to move their capital to a safe haven may decide to buy US equities. Not because they are a good value, but because of a belief that the global corporations on the NYSE are the safest investment on the planet. Even safer than US Treasuries. If that happens, the stock market could explode upwards, even as the world slips into recession. I need to mention there is a risk that currency wars could lead to shooting wars. That would be the most pessimistic case. I'm not saying that will happen, but there are numerous parallels between the 1930s and today.
+Predicting which way the market goes is a guess. If the rest of the world goes into recession, we are likely to start seeing sovereign debt defaults. Interest rates can't go lower. This could set off a global recession which would lead to our stock market going lower. However, investors around the globe looking to move their capital to a safe haven may decide to buy US equities. Not because they are a good value, but because of a belief that the global corporations on the NYSE are the safest investment on the planet. Even safer than US Treasuries. If that happens, the stock market could explode upwards, even as the world slips into recession.
+
+I need to mention there is a risk that currency wars could lead to shooting wars. That would be the most pessimistic case. I'm not saying that will happen, but there are numerous parallels between the 1930s and today.
 
 
 #### Technology Wave
 
 
-The second half of the equation is technology. It is making our lives richer and safer and doing so at an ever-increasing pace. I get lots of pushback about my optimism and frankly, I'm tired of debating it. The future is going to be awesome. The fact that we are humans and have never been able to imagine what that future will be never stops the fact that we are constantly _standing on the shoulders of giants_ and will continue to do so. We are progressing at an accelerated rate. That doesn't mean there won't be any problems. It means I am confident we will solve the problems of today with the technology of tomorrow. That is the way it has always been. Here are a few of the sources that have provided me with the conviction that technology has and will continue to improve our lives at an even faster pace.
+The second half of the equation is technology. It is making our lives richer and safer and doing so at an ever-increasing pace. I get lots of pushback about my optimism and frankly, I'm tired of debating it. The future is going to be awesome.
+
+The fact that we are humans and have never been able to imagine what that future will be never stops the fact that we are constantly _standing on the shoulders of giants_ and will continue to do so. We are progressing at an accelerated rate. That doesn't mean there won't be any problems. It means I am confident we will solve the problems of today with the technology of tomorrow. That is the way it has always been.
+
+Here are a few of the sources that have provided me with the conviction that technology has and will continue to improve our lives at an even faster pace.
 
 1.  _Abundance: The Future Is Better Than You Think by Peter H. Diamandis_
 2.  _The Rational Optimist: How Prosperity Evolves by Matt Ridley_
@@ -44,7 +66,9 @@ Back to finance. If the gains from technology accelerate faster or at the same p
 ### Last Words
 
 
-I see two tidal waves coming. I don't know the speed. If I had to guess, I would say the debt wave will hit first. It could hit as soon as next year. Whether that causes the stock market to go straight down or straight up is something I don't know. If it does go straight up, I don't see it as sustainable. The reason is that the debt defaults would be deflationary, which will cause asset prices to fall. If my financial prediction happens to come true, it is not because I am a visionary. It is because I guessed right. I have no money on the line. If the market explodes up during a global recession, I will short it when it looks like it is losing steam. If the market tanks, I will go long and catch a bounce at the bottom. If those two low-risk scenarios don't present themselves, then I'll continue to sit on the sidelines living a stress-free life not glued to stock tickers. Win. Win. Win.
+I see two tidal waves coming. I don't know the speed. If I had to guess, I would say the debt wave will hit first. It could hit as soon as next year. Whether that causes the stock market to go straight down or straight up is something I don't know. If it does go straight up, I don't see it as sustainable. The reason is that the debt defaults would be deflationary, which will cause asset prices to fall.
+
+If my financial prediction happens to come true, it is not because I am a visionary. It is because I guessed right. I have no money on the line. If the market explodes up during a global recession, I will short it when it looks like it is losing steam. If the market tanks, I will go long and catch a bounce at the bottom. If those two low-risk scenarios don't present themselves, then I'll continue to sit on the sidelines living a stress-free life not glued to stock tickers. Win. Win. Win.
 
 ---
 

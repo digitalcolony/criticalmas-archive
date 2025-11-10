@@ -15,4 +15,6 @@ Today I completed my second [Disloyalty Card](/2010/05/seattles-disloyalty-card/
 2.  **Urban Coffee Lounge** - I love this place. They pulled another amazing Single Origin espresso for me. Make the journey to Juanita. It is worth it.
 3.  **Aster Coffee Lounge** - Black Cat Espresso = Yummy!
 
-![](http://farm5.static.flickr.com/4076/4819263185_dbe4c12666.jpg "Trabant Coffee") Will I go for Round #3? Maybe. I'll save those thoughts for another post.
+![](http://farm5.static.flickr.com/4076/4819263185_dbe4c12666.jpg "Trabant Coffee")
+
+Will I go for Round #3? Maybe. I'll save those thoughts for another post.

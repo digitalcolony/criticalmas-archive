@@ -9,11 +9,21 @@ description: "In the comments of the post Muscular Potential and Reality, Skyler
 commentCount: 10
 ---
 
-In the comments of the post [Muscular Potential and Reality](/2014/05/muscular-potential-ideal-weight/), Skyler Tanner [mentioned](/2014/05/muscular-potential-ideal-weight/#comment-23006) that the Casey Butt book had a second formula for calculating the muscular potential for ectomorphs and hard gainers. Stephan at BioHacks went to work and created a [second online calculator](https://web.archive.org/web/20190911130155/http://biohacks.net:80/online-muscle-calculator-for-hard-gainers-ectomopr) to support that formula. Here is an updated table using my numbers for both formulas. \[table id=35 /\] In the previous post, I said this before explaining the work of Ellington Darden.
+In the comments of the post [Muscular Potential and Reality](/2014/05/muscular-potential-ideal-weight/), Skyler Tanner [mentioned](/2014/05/muscular-potential-ideal-weight/#comment-23006) that the Casey Butt book had a second formula for calculating the muscular potential for ectomorphs and hard gainers. Stephan at BioHacks went to work and created a [second online calculator](https://web.archive.org/web/20190911130155/http://biohacks.net:80/online-muscle-calculator-for-hard-gainers-ectomopr) to support that formula.
+
+Here is an updated table using my numbers for both formulas.
+
+\[table id=35 /\]
+
+In the previous post, I said this before explaining the work of Ellington Darden.
 
 > Today I weight 206. If my bodyfat percentage is 16%, then my lean mass is 173. Subtract that from 190 and according to the calculator I still have the potential to gain 17 more pounds of muscle. I’m highly skeptical. Not because I am a beast. I’m clearly not. I’m skeptical because the formula doesn’t capture enough data points.
 
-Using the ectomorph / hard gainer formula from Casey Butt, I am only shy of my muscular potential by 5.5 pounds. This seems closer to reality to me than 17 pounds. The reason I say that is because whenever I've pushed the mass as a primary goal, I tend to get fatter. This has held true ever since I captured the early gains from following the Pavel training protocol around 2003. ![Hardening a Muscle](./img/7192588208_9161e1883d_z.jpg) _Photo from Good Health (1906)_
+Using the ectomorph / hard gainer formula from Casey Butt, I am only shy of my muscular potential by 5.5 pounds. This seems closer to reality to me than 17 pounds. The reason I say that is because whenever I've pushed the mass as a primary goal, I tend to get fatter. This has held true ever since I captured the early gains from following the Pavel training protocol around 2003.
+
+![Hardening a Muscle](./img/7192588208_9161e1883d_z.jpg)
+
+_Photo from Good Health (1906)_
 
 
 ### Setting Realistic Goals

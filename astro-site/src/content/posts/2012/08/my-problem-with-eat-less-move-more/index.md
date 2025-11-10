@@ -9,25 +9,33 @@ description: "If you do a Google search on the phrase \"Eat Less Move More\", it
 commentCount: 12
 ---
 
-If you do a Google search on the phrase "_Eat Less Move More_", it will return over 9 million results. If you listen to most health care professionals and personal trainers they will say that the only way to lose weight is to eat less and move more. They repeat that it is simple logic and they can point to every successful case of fat loss as following those principles. Explaining how just 5-10% of dieters succeed is not a complete explanation for why 90-95% fail when they attempt the same principles. **The question we should be asking is not what makes a diet work, but what causes it to fail?** _Eat Less Move More_ does a great job explaining success, but that is just half of the equation. Before we can address failure, we first need to explore how we feel about obesity.
+If you do a Google search on the phrase "_Eat Less Move More_", it will return over 9 million results. If you listen to most health care professionals and personal trainers they will say that the only way to lose weight is to eat less and move more. They repeat that it is simple logic and they can point to every successful case of fat loss as following those principles.
+
+Explaining how just 5-10% of dieters succeed is not a complete explanation for why 90-95% fail when they attempt the same principles. **The question we should be asking is not what makes a diet work, but what causes it to fail?** _Eat Less Move More_ does a great job explaining success, but that is just half of the equation. Before we can address failure, we first need to explore how we feel about obesity.
 
 
 ### Is Obesity a Character Flaw?
 
 
-It is time for an open and frank discussion about how we view overweight people. When you see someone 50 or 100 pounds overweight, do you make a snap judgement about that person? What words would you use to describe their character? Lazy, undisciplined? We judge the obese because it is a commonly held belief that they choose to remain heavy. After all, if they only ate less and moved more they would be lean. Right? Obesity and the failure of diets has been framed as character flaw. If obesity wasn't such a worldwide and growing epidemic, I might agree with them. But every person who walks the planet today is the result of a highly resilient lineage. We are the successes. I also believe that most people do not consciously chose to be overweight and would prefer to be leaner. When overweight people are cast as being undisciplined, it does a great disservice to those individuals who are already struggling both physically and emotionally.
+It is time for an open and frank discussion about how we view overweight people. When you see someone 50 or 100 pounds overweight, do you make a snap judgement about that person? What words would you use to describe their character? Lazy, undisciplined? We judge the obese because it is a commonly held belief that they choose to remain heavy. After all, if they only ate less and moved more they would be lean. Right?
+
+Obesity and the failure of diets has been framed as character flaw. If obesity wasn't such a worldwide and growing epidemic, I might agree with them. But every person who walks the planet today is the result of a highly resilient lineage. We are the successes. I also believe that most people do not consciously chose to be overweight and would prefer to be leaner. When overweight people are cast as being undisciplined, it does a great disservice to those individuals who are already struggling both physically and emotionally.
 
 
 ### Failure is the Problem
 
 
-If _Eat Less, Move More_ were such as effective strategy, then the failure rate wouldn't be so high. Some people find it easy and some find it impossibly hard. I cringe every time I see a reference to some fat loss study that lasted weeks or a few months. Who hasn't lost weight in the short term only to regain it later? **The important question is not how the dieter lost the weight, but what caused it come back.** The answer is always implied. The dieter **lost the discipline** to eat less or **got too lazy** to keep up with an exercise plan. Failure is framed as a character flaw and not a flaw with the _Eat Less, Move More_ advice. If 90-95% of dieters fall and most or all of them attempted a variation on the _Eat Less, Move More_ principle, why such a high failure rate? Our so called health professionals blame the dieter, because they lack discipline. This enrages me. Can you imagine if LASIK eye surgery or any other health service had anywhere close to that failure rate? But because the individual ultimately controls what they eat and how much they move, the failure of a diet is always defined as the fault of the individual. We also stop looking for alternate causes of failure.  
+If _Eat Less, Move More_ were such as effective strategy, then the failure rate wouldn't be so high. Some people find it easy and some find it impossibly hard. I cringe every time I see a reference to some fat loss study that lasted weeks or a few months. Who hasn't lost weight in the short term only to regain it later? **The important question is not how the dieter lost the weight, but what caused it come back.** The answer is always implied. The dieter **lost the discipline** to eat less or **got too lazy** to keep up with an exercise plan. Failure is framed as a character flaw and not a flaw with the _Eat Less, Move More_ advice.
+
+If 90-95% of dieters fall and most or all of them attempted a variation on the _Eat Less, Move More_ principle, why such a high failure rate? Our so called health professionals blame the dieter, because they lack discipline. This enrages me. Can you imagine if LASIK eye surgery or any other health service had anywhere close to that failure rate? But because the individual ultimately controls what they eat and how much they move, the failure of a diet is always defined as the fault of the individual. We also stop looking for alternate causes of failure.
 
 
 ### Move More?
 
 
-I am on record as saying exercise is vastly over rated when it comes to fat loss. My position is that appetite will always rise to meet energy expenditure, but not necessarily in the short term. You can go weeks or a few months where [exercise appears to be an effective strategy](/2012/04/my-response-to-the-exercise-and-overeating-study/) for fat loss, but it's not. We get injured, we get sick, we travel and the body gets very good at predicting how much energy you'll burn through and adjusts appetite accordingly. Earlier this year, I did a five part series on _Exercise and Fat Loss_ where I detail not only why I consider it ineffective, but how it can actually make you fatter. The first three parts are relevant for this discussion.
+I am on record as saying exercise is vastly over rated when it comes to fat loss. My position is that appetite will always rise to meet energy expenditure, but not necessarily in the short term. You can go weeks or a few months where [exercise appears to be an effective strategy](/2012/04/my-response-to-the-exercise-and-overeating-study/) for fat loss, but it's not. We get injured, we get sick, we travel and the body gets very good at predicting how much energy you'll burn through and adjusts appetite accordingly.
+
+Earlier this year, I did a five part series on _Exercise and Fat Loss_ where I detail not only why I consider it ineffective, but how it can actually make you fatter. The first three parts are relevant for this discussion.
 
 1.  [Walking Didn't Lean Me Out](/2012/04/walking-didnt-lean-me-out/)
 2.  [How Exercise Indirectly Kept Me Fatter](/2012/04/how-exercise-indirectly-kept-me-fatter/)
@@ -39,7 +47,9 @@ Note that I am not anti-exercise. My concern is that an overweight individual wh
 ### Eat Less?
 
 
-In the end eating less is the solution, but again that doesn't explain why so many people fail. It is clear that some people lose weight easier than others. Are they more disciplined or is something else going on? From my research into nutrition, permanent fat loss is a lot easier when the body is healthy. An idea that Sean Croxton of [Underground Wellness](http://undergroundwellness.com/) puts forth is that **you don't lose weight to be healthy, you get healthy to lose weight**. What this means is that if you have nutrient deficiencies, inflammation and hormonal imbalances, your success rate at fat loss will increase if these are addressed before you start eating less. I like the analogy of the leaky row boat. You can certainly try to paddle that boat across the lake. It will be very hard and you may get there safely or your boat could fall apart before you arrive at your destination. Personal trainers will scoff at the failures as not wanting it bad enough or lacking willpower. **The reality is that unlimited willpower only exists in Nike and Gatorade commercials.** A better plan would be to patiently fix the boat first. Remove the rotted wood and repair the holes. Once the boat is seaworthy, the journey should be a lot easier. How do you do that?
+In the end eating less is the solution, but again that doesn't explain why so many people fail. It is clear that some people lose weight easier than others. Are they more disciplined or is something else going on? From my research into nutrition, permanent fat loss is a lot easier when the body is healthy. An idea that Sean Croxton of [Underground Wellness](http://undergroundwellness.com/) puts forth is that **you don't lose weight to be healthy, you get healthy to lose weight**. What this means is that if you have nutrient deficiencies, inflammation and hormonal imbalances, your success rate at fat loss will increase if these are addressed before you start eating less.
+
+I like the analogy of the leaky row boat. You can certainly try to paddle that boat across the lake. It will be very hard and you may get there safely or your boat could fall apart before you arrive at your destination. Personal trainers will scoff at the failures as not wanting it bad enough or lacking willpower. **The reality is that unlimited willpower only exists in Nike and Gatorade commercials.** A better plan would be to patiently fix the boat first. Remove the rotted wood and repair the holes. Once the boat is seaworthy, the journey should be a lot easier. How do you do that?
 
 1.  Fix your sleep.
 2.  Remove toxins known and suspected. (grains, veggie oils, soy, dairy for some, non-traditionally prepared legumes)
@@ -47,7 +57,9 @@ In the end eating less is the solution, but again that doesn't explain why so ma
 4.  Learn how to cook.
 5.  Exercise [minimally](/2012/07/exercise-update-summer-2012/), safely and efficiently.
 
-When I followed the list above, weight just started falling off. It was effortless. Besides fat loss, other signs that your body is healing are improved skin, better digestion and deeper sleep. When personal trainers and health professionals blindly repeat the phrase _Eat Less Move More_ they are indirectly blaming every dietary failure as a character flaw in the dieter. They point to the successes without trying to understand the failures. [My Problem With “Eat Less Move More” Part 2](/2012/08/my-problem-with-eat-less-move-more-part-2/)
+When I followed the list above, weight just started falling off. It was effortless. Besides fat loss, other signs that your body is healing are improved skin, better digestion and deeper sleep. When personal trainers and health professionals blindly repeat the phrase _Eat Less Move More_ they are indirectly blaming every dietary failure as a character flaw in the dieter. They point to the successes without trying to understand the failures.
+
+[My Problem With “Eat Less Move More” Part 2](/2012/08/my-problem-with-eat-less-move-more-part-2/)
 
 ---
 

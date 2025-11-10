@@ -9,7 +9,13 @@ description: "The dish I have been most obsessed with in the past few months has
 commentCount: 10
 ---
 
-The dish I have been most obsessed with in the past few months has been Vietnamese Chicken Congee (Cháo Gà). The combination of black pepper and fresh herbs over a rice porridge is simple yet has amazing flavor. Prior to getting a pressure cooker, I made the dish a few times using my rice cooker. It was good, but because the rice cooker works by steaming off the liquid, it wasn't soupy enough. Too clumpy. Plus it took forever. The pressure cooker solved everything. Not only could I dial in my liquid level prior to cooking, but it was now cooking much faster. ![pressure-cooker](./img/pressure-cooker.jpg) _I use the [Fagor 8 quart pressure cooker](/2014/09/pressure-cooker-game-changer/)._
+The dish I have been most obsessed with in the past few months has been Vietnamese Chicken Congee (Cháo Gà). The combination of black pepper and fresh herbs over a rice porridge is simple yet has amazing flavor.
+
+Prior to getting a pressure cooker, I made the dish a few times using my rice cooker. It was good, but because the rice cooker works by steaming off the liquid, it wasn't soupy enough. Too clumpy. Plus it took forever. The pressure cooker solved everything. Not only could I dial in my liquid level prior to cooking, but it was now cooking much faster.
+
+![pressure-cooker](./img/pressure-cooker.jpg)
+
+_I use the [Fagor 8 quart pressure cooker](/2014/09/pressure-cooker-game-changer/)._
 
 
 ### Not Authentic, But Just as Good
@@ -43,7 +49,9 @@ My congee is heavy on the chicken and ginger. Use less if you like. This is a lo
 ### Step 0 - Soak the Rice (optional)
 
 
-If you aren't ready to start cooking yet and you have some time, throw the rice in a bowl of water or the pressure cooker itself. This will help the rice break down more. If you are ready to cook, skip this step. Another option is to freeze the rice ahead of time. According to [The Woks of Life](https://thewoksoflife.com/20-minute-congee-recipe/):
+If you aren't ready to start cooking yet and you have some time, throw the rice in a bowl of water or the pressure cooker itself. This will help the rice break down more. If you are ready to cook, skip this step.
+
+Another option is to freeze the rice ahead of time. According to [The Woks of Life](https://thewoksoflife.com/20-minute-congee-recipe/):
 
 > ...the moisture in the rice freezes, expands, and breaks the rice kernel into tiny pieces to dramatically reduce necessary cooking time.
 
@@ -51,7 +59,9 @@ If you aren't ready to start cooking yet and you have some time, throw the rice 
 ### Step 1 - Start Cooking the Rice
 
 
-Put the rice in the pressure cooker, cover it with water. Turn the flame to high. The water level should cover the rice by 1-2 inches. You aren't using the pressure cooker as a pressure cooker yet. Leave the lid off and monitor. You don't want all the water to boil off. If you need to add more water, do so. While the rice is cooking, you'll be preparing the other ingredients.
+Put the rice in the pressure cooker, cover it with water. Turn the flame to high. The water level should cover the rice by 1-2 inches. You aren't using the pressure cooker as a pressure cooker yet. Leave the lid off and monitor. You don't want all the water to boil off. If you need to add more water, do so.
+
+While the rice is cooking, you'll be preparing the other ingredients.
 
 
 ### Step 2 - Prep Work
@@ -63,13 +73,21 @@ Peel and cut up the ginger. Slice up the chicken. Locate the chicken stock.
 ### Step 3 - Cook the Congee in the Pressure Cooker
 
 
-By this point, the rice should be boiling and cooking away. Add the ginger, chicken, and chicken stock. Look at the liquid level and decide if this is the consistency you want for your congee. You can add more water or chicken stock if you like. Close the pressure cooker and once pressurized, cook for 10 minutes on High. Turn off the pressure cooker. Grab and bowl and serve.
+By this point, the rice should be boiling and cooking away. Add the ginger, chicken, and chicken stock. Look at the liquid level and decide if this is the consistency you want for your congee. You can add more water or chicken stock if you like. Close the pressure cooker and once pressurized, cook for 10 minutes on High.
+
+Turn off the pressure cooker. Grab and bowl and serve.
 
 
 ### Step 4 - Serve and Garnish
 
 
-Add black pepper, fish sauce, and Thai basil. Enjoy! ![chicken congee ](./img/chicken-congee-2.jpg) _Vietnamese Chicken Congee. This bowl also has sliced scallions (green onions)._  Once you've had congee, with the flavor mix of ginger, black pepper, fish sauce, and Thai basil, I can't imagine ever eating something as boring as oatmeal ever again. Congee is my favorite breakfast food, although I've had it for dinner as well. 10 minutes of prep work and 10 minutes of pressure cooking is all it takes to make this classic dish.
+Add black pepper, fish sauce, and Thai basil. Enjoy!
+
+![chicken congee ](./img/chicken-congee-2.jpg)
+
+_Vietnamese Chicken Congee. This bowl also has sliced scallions (green onions)._ 
+
+Once you've had congee, with the flavor mix of ginger, black pepper, fish sauce, and Thai basil, I can't imagine ever eating something as boring as oatmeal ever again. Congee is my favorite breakfast food, although I've had it for dinner as well. 10 minutes of prep work and 10 minutes of pressure cooking is all it takes to make this classic dish.
 
 ---
 

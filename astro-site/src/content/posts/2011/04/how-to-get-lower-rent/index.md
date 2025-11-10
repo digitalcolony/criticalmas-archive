@@ -13,7 +13,9 @@ I ended the last post by stating:
 
 > **Not everyone will get lower rent.** Some people will be suckered into paying higher rent. Not me.
 
-I am going to tell you how to get lower rent. First, let me share my background on this topic. While still in San Diego, I negotiated $50 a month off a proposed rent increase. Then in 2009, I was able to get management at my Seattle apartment building to offer me a [5% reduction](/2009/04/move-called-off-staying-in-queen-anne/) after first presenting me with a 3.5% increase. Later I was able to get another 10% reduction, but I left for a better deal. I have also helped several friends get their rent lowered. Just this past month, I was advising a friend who was about to receive a monthly rent increase of $75. He was not in a position to move. He had too much stuff and not enough savings to put down a deposit on another apartment. I told him he had to bluff. The landlord needs to believe that you will move before they make a concession. My friend did exactly what I advised and was able to get his rent lowered by $25 a month. **He turned a $900-a-year increase into a $300-a-year reduction.** And he was bluffing. Had he really been able to move, I would have advised him to go for a greater reduction.
+I am going to tell you how to get lower rent. First, let me share my background on this topic. While still in San Diego, I negotiated $50 a month off a proposed rent increase. Then in 2009, I was able to get management at my Seattle apartment building to offer me a [5% reduction](/2009/04/move-called-off-staying-in-queen-anne/) after first presenting me with a 3.5% increase. Later I was able to get another 10% reduction, but I left for a better deal. I have also helped several friends get their rent lowered.
+
+Just this past month, I was advising a friend who was about to receive a monthly rent increase of $75. He was not in a position to move. He had too much stuff and not enough savings to put down a deposit on another apartment. I told him he had to bluff. The landlord needs to believe that you will move before they make a concession. My friend did exactly what I advised and was able to get his rent lowered by $25 a month. **He turned a $900-a-year increase into a $300-a-year reduction.** And he was bluffing. Had he really been able to move, I would have advised him to go for a greater reduction.
 
 
 ### How Do I Get Rent Reductions?
@@ -37,25 +39,33 @@ Although I have no problem bluffing during negotiations, it can make some people
 #### Step #1: Be Sweet - Get them on your side.
 
 
-Getting them on your side is something you'll be doing in every encounter with rental management. Always be polite. Never be confrontational. Be respectful. Remember names. This is something you will do on an ongoing basis. Don't engage in community gossip. I start negotiations by saying that I really like where I'm living and I don't want to be forced to move. Don't put rental management into a defensive position. Get them on your side.
+Getting them on your side is something you'll be doing in every encounter with rental management. Always be polite. Never be confrontational. Be respectful. Remember names. This is something you will do on an ongoing basis. Don't engage in community gossip.
+
+I start negotiations by saying that I really like where I'm living and I don't want to be forced to move. Don't put rental management into a defensive position. Get them on your side.
 
 
 #### Step #2: Be Smart - Provide reasons why the current rent or proposed rent increase will not work for you.
 
 
-I once came in armed with data on the rents for every building within 2 blocks and said the rent increase was not justified and in fact should be lowered. I got the reduction. Once I even found a Craigslist posting for a similar unit in the same building with a lower rent. It doesn't have to even be comparable rent. It could be you had your work hours cut. Maybe your "brother" has offered a place for you to stay. The important thing in this step is to let them know that you've got other options. I even tell them that I don't own much, so a move wouldn't take long.
+I once came in armed with data on the rents for every building within 2 blocks and said the rent increase was not justified and in fact should be lowered. I got the reduction. Once I even found a Craigslist posting for a similar unit in the same building with a lower rent.
+
+It doesn't have to even be comparable rent. It could be you had your work hours cut. Maybe your "brother" has offered a place for you to stay. The important thing in this step is to let them know that you've got other options. I even tell them that I don't own much, so a move wouldn't take long.
 
 
 #### Step #3: Be Tough - Ask them to reconsider the rental rate.
 
 
-Reiterate that you like living there, and you don't want to be forced to move, but the rent offer is not acceptable. Then ask them to reconsider the rent. Unless you are dealing directly with the landlord, this request will get passed on from rental management to the owner. This is why it is a good habit to _Be Sweet_ to the people in the rental office. The rental price is not the only point of negotiation. If you are month to month, a landlord may request you sign a one-year lease to get the rent reduction. This is a good thing. Negotiations have begun. Now you can negotiate the length of the lease. They may offer $75 off a month if you sign a one-year lease. You could counter by saying 9 months at the $75 reduction or how about a full year with $100 off?
+Reiterate that you like living there, and you don't want to be forced to move, but the rent offer is not acceptable. Then ask them to reconsider the rent. Unless you are dealing directly with the landlord, this request will get passed on from rental management to the owner. This is why it is a good habit to _Be Sweet_ to the people in the rental office.
+
+The rental price is not the only point of negotiation. If you are month to month, a landlord may request you sign a one-year lease to get the rent reduction. This is a good thing. Negotiations have begun. Now you can negotiate the length of the lease. They may offer $75 off a month if you sign a one-year lease. You could counter by saying 9 months at the $75 reduction or how about a full year with $100 off?
 
 
 ### Final Words
 
 
-Some landlords will not negotiate. It may be a foreign concept to them, but it never hurts to practice. Being ready to move is always the best defense against rent increases. Although this post was about rent specifically, the advice can be used to negotiate [gym memberships](/2009/01/sign-of-the-times-the-counter-offer/), [cell phone plans](/2009/07/secret-ways-to-save-money-with-att-and-vonage/), and other purchases. By the way, I think every good tenant should negotiate for lower rent, not just those in financial hardship. Commercial real estate leases are negotiated all the time. **Why not reduce your monthly expenses if all you have to do is ask?**
+Some landlords will not negotiate. It may be a foreign concept to them, but it never hurts to practice. Being ready to move is always the best defense against rent increases. Although this post was about rent specifically, the advice can be used to negotiate [gym memberships](/2009/01/sign-of-the-times-the-counter-offer/), [cell phone plans](/2009/07/secret-ways-to-save-money-with-att-and-vonage/), and other purchases.
+
+By the way, I think every good tenant should negotiate for lower rent, not just those in financial hardship. Commercial real estate leases are negotiated all the time. **Why not reduce your monthly expenses if all you have to do is ask?**
 
 ---
 

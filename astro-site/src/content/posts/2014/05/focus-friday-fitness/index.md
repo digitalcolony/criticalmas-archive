@@ -9,13 +9,31 @@ description: "I am so sick of what has become of the modern gym. Flat screen TVs
 commentCount: 12
 ---
 
-I am so sick of what has become of the modern gym. Flat screen TVs everywhere and not just in front of the treadmills, but everywhere, including the free weight room. The TVs show sports news, regular news, and tabloid news. Meanwhile the gym blasts high energy dance music at 7:30 AM, when everyone in the gym has at least one gray hair on their head. Why? Most the members have headphones on and are oblivious to their fellow patrons. Personal trainers have never been more inconsiderate. Monopolizing several pieces of equipment while their clipboard rests on a bench that no one can use now. Every year the gym becomes more and more distracting. It gets harder to focus. But this is what the people want. Many years I coined the term Glitter Gym. Everything is shiny, bright and loud. **Gyms have become raves with much better lighting.** I can't stand it anymore. I returned to my Glitter Gym to do [knee rehab](/2014/01/returning-glitter/), which appears not to be working. Before I leave my gym in a few weeks to return to an [outdoor Hillfit program](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/), I would like to propose a compromise to the fitness community. I call it Focus Friday Fitness. ![Glitter Gym](./img/glitter-gym.jpg) _[Photo](https://www.flickr.com/photos/unephotos/6497104445/) by Sport UNE gym_
+I am so sick of what has become of the modern gym.
+
+Flat screen TVs everywhere and not just in front of the treadmills, but everywhere, including the free weight room. The TVs show sports news, regular news, and tabloid news. Meanwhile the gym blasts high energy dance music at 7:30 AM, when everyone in the gym has at least one gray hair on their head. Why? Most the members have headphones on and are oblivious to their fellow patrons.
+
+Personal trainers have never been more inconsiderate. Monopolizing several pieces of equipment while their clipboard rests on a bench that no one can use now.
+
+Every year the gym becomes more and more distracting. It gets harder to focus. But this is what the people want. Many years I coined the term Glitter Gym. Everything is shiny, bright and loud. **Gyms have become raves with much better lighting.**
+
+I can't stand it anymore. I returned to my Glitter Gym to do [knee rehab](/2014/01/returning-glitter/), which appears not to be working. Before I leave my gym in a few weeks to return to an [outdoor Hillfit program](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/), I would like to propose a compromise to the fitness community. I call it Focus Friday Fitness.
+
+![Glitter Gym](./img/glitter-gym.jpg)
+
+_[Photo](https://www.flickr.com/photos/unephotos/6497104445/) by Sport UNE gym_
 
 
 ### Focus Friday Fitness
 
 
-Give us patrons that want to engage in a serious focused workout **just one day a week without distractions**. I chose Friday for alliteration, but anyday is fine. On FFF, every TV in the gym will be turned off. The music played will be non distracting and at a lower volume. Maybe experiment with [binaural beats](https://en.wikipedia.org/wiki/Binaural_beats)? Or just turn off music completely!  And of course, I must once again air my #1 grievance, which is the gym temperature is always too hot. On FFF, drop the temperature to 60F. Having a lower temperature will force members to focus on generating intensity to stay comfortable. Higher temperatures are distracting for those of us engaging in SuperSlow, static holds or other forms of HIT. Remember the concept of _working up_ a sweat? Modern Glitter Gyms are so warm, I work up a sweat signing in at the front door. My dream will likely never become a reality. People crave distraction all the time now.
+Give us patrons that want to engage in a serious focused workout **just one day a week without distractions**. I chose Friday for alliteration, but anyday is fine. On FFF, every TV in the gym will be turned off. The music played will be non distracting and at a lower volume. Maybe experiment with [binaural beats](https://en.wikipedia.org/wiki/Binaural_beats)? Or just turn off music completely! 
+
+And of course, I must once again air my #1 grievance, which is the gym temperature is always too hot. On FFF, drop the temperature to 60F. Having a lower temperature will force members to focus on generating intensity to stay comfortable. Higher temperatures are distracting for those of us engaging in SuperSlow, static holds or other forms of HIT.
+
+Remember the concept of _working up_ a sweat? Modern Glitter Gyms are so warm, I work up a sweat signing in at the front door.
+
+My dream will likely never become a reality. People crave distraction all the time now.
 
 ---
 

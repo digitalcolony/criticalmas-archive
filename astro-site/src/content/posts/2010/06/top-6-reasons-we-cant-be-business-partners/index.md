@@ -18,7 +18,11 @@ I get asked frequently to help others on business projects. In recent years, I h
 5.  **Always Busy** - I have found the people who most often say they are busy are extremely poor at time management. The truly busy don't sit around telling the world how busy they are. If you are frequently saying you are busy, we can't be partners.
 6.  **Social Networking Parasite** - I'll post further on this topic later, but I have found those that spend the most time social networking are empty suits. No substance. We can't be partners.
 
-One day I will figure out what a good business partner looks like. Until then, I am perfectly content doing things on my own. ![respect](./img/4878819302_be3a5dd262_z.jpg) _[Photo](https://flic.kr/p/8r8e1b) by Martin Abegglen_
+One day I will figure out what a good business partner looks like. Until then, I am perfectly content doing things on my own.
+
+![respect](./img/4878819302_be3a5dd262_z.jpg)
+
+_[Photo](https://flic.kr/p/8r8e1b) by Martin Abegglen_
 
 ---
 

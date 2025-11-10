@@ -9,7 +9,11 @@ description: "I just sampled my best fermentation to date. It took 3.5 weeks, bu
 commentCount: 18
 ---
 
-I just sampled my best fermentation to date. It took 3.5 weeks, but it was worth it. Inspired by [Firefly Kitchens](http://www.fireflykitchens.com/), I decided to make my own _Cortido Sauerkraut_. This is Latin American style sauerkraut. It has some heat, but not as much as [kimchi](/2011/03/kimchi-101/). The Mexican Oregano really brings out the flavor. If you have the patience, I highly recommend making this amazing sauerkraut. ![curtido](./img/curtido.jpg) _Cortido (also spelled Curtido) Sauerkraut_
+I just sampled my best fermentation to date. It took 3.5 weeks, but it was worth it. Inspired by [Firefly Kitchens](http://www.fireflykitchens.com/), I decided to make my own _Cortido Sauerkraut_. This is Latin American style sauerkraut. It has some heat, but not as much as [kimchi](/2011/03/kimchi-101/). The Mexican Oregano really brings out the flavor. If you have the patience, I highly recommend making this amazing sauerkraut.
+
+![curtido](./img/curtido.jpg)
+
+_Cortido (also spelled Curtido) Sauerkraut_
 
 
 ### Ingredients
@@ -42,7 +46,15 @@ If you are sensitive to heat, reduce the red pepper and jalapeno portions.
 ### The Fermentation
 
 
-When packing into the jar, make sure the veggies are below the liquid line. In order for the fermentation to work, all the veggies must be underwater. If you need more water, make a brine with a teaspoon of sea salt in a cup of water and top off. The Fermentation will take 2.5 to 4 weeks, depending a lot on ambient temperature and personal preference. A warmer environment will result in a faster ferment. During the fermentation, you will check to make sure the veggies are below the liquid line. You can use a weight or do what I do and just push the veggies down. During the first week, I will push the veggies down twice a day. Then once every 2 or 3 days. You will see bubbles rise to the surface. This is the fermentation at work. If you use glass jars, cover them with a towel or upside-down paper bag or [box](/2011/10/my-fermentation-station/) to block out light. Also, avoid keeping your ferment in a hot kitchen, as they do much better in cooler areas. When the fermentation is over, seal the jars and place them into the refrigerator. Enjoy! UPDATE November 2011: It is OK to increase the red pepper and jalapenos, however, don't increase the oregano portion. Too much oregano will impart a "soapy" and harsh taste.
+When packing into the jar, make sure the veggies are below the liquid line. In order for the fermentation to work, all the veggies must be underwater. If you need more water, make a brine with a teaspoon of sea salt in a cup of water and top off.
+
+The Fermentation will take 2.5 to 4 weeks, depending a lot on ambient temperature and personal preference. A warmer environment will result in a faster ferment. During the fermentation, you will check to make sure the veggies are below the liquid line. You can use a weight or do what I do and just push the veggies down. During the first week, I will push the veggies down twice a day. Then once every 2 or 3 days. You will see bubbles rise to the surface. This is the fermentation at work.
+
+If you use glass jars, cover them with a towel or upside-down paper bag or [box](/2011/10/my-fermentation-station/) to block out light. Also, avoid keeping your ferment in a hot kitchen, as they do much better in cooler areas.
+
+When the fermentation is over, seal the jars and place them into the refrigerator. Enjoy!
+
+UPDATE November 2011: It is OK to increase the red pepper and jalapenos, however, don't increase the oregano portion. Too much oregano will impart a "soapy" and harsh taste.
 
 ---
 

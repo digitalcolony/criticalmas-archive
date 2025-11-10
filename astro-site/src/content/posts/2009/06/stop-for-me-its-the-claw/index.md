@@ -9,7 +9,13 @@ description: "Be on the lookout for a man with a claw in Lower Queen Anne. !the-
 commentCount: 1
 ---
 
-Be on the lookout for a man with a claw in Lower Queen Anne. ![the-claw](./img/the-claw.jpg) And the one in Wallingford. ![claw-2](./img/claw-2.jpg)
+Be on the lookout for a man with a claw in Lower Queen Anne.
+
+![the-claw](./img/the-claw.jpg)
+
+And the one in Wallingford.
+
+![claw-2](./img/claw-2.jpg)
 
 ---
 

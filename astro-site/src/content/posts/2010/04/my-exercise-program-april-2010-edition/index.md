@@ -8,7 +8,11 @@ description: "Last month I shared my current diet program in the post What I Eat
 commentCount: 7
 ---
 
-Last month I shared my current diet program in the post [What I Eat and What I Don't Eat - March 2010 Edition](/2010/03/what-i-eat-and-what-i-dont-eat-march-2010-edition/). Now it is time to discuss the exercise part of the equation. Note that I don't consider exercise to be an equal part to diet. The effects of exercise are far smaller than diet on health. My current opinion is that body composition is 90% diet and 10% exercise. This means that if the exercise you chose to do increases your appetite to the point your diet starts to suffer then you are exercising too much or tooinefficiently. You are far better off spending extra time preparing healthy meals in the kitchen than jogging. My Current Weekly Exercise Program
+Last month I shared my current diet program in the post [What I Eat and What I Don't Eat - March 2010 Edition](/2010/03/what-i-eat-and-what-i-dont-eat-march-2010-edition/). Now it is time to discuss the exercise part of the equation. Note that I don't consider exercise to be an equal part to diet. The effects of exercise are far smaller than diet on health.
+
+My current opinion is that body composition is 90% diet and 10% exercise. This means that if the exercise you chose to do increases your appetite to the point your diet starts to suffer then you are exercising too much or tooinefficiently. You are far better off spending extra time preparing healthy meals in the kitchen than jogging.
+
+My Current Weekly Exercise Program
 
 -   One 30 minute session of low-rep, higher intensity weight training.
 -   A few walks around my city. Average walk this year is 4 miles, which is much lower than before.
@@ -23,7 +27,9 @@ My Top Gym Exercises
 -   Push up
 -   Low weight Squats/Dead Lifts (I'm injury prone, so no more heavy lifts)
 
-That is it. I never break a sweat or get winded. I do absolutely no cardio. It is simply not necessary. I'm leaner now than I was as a freshman in high school. There are lots of exercises that I like, that I just don't do. They are ones primarily with varied tempos, like tennis or basketball. I also like activities that promote a wide variety of movement such as yoga, not so much for the physical aspect, but for the psychological benefits.
+That is it. I never break a sweat or get winded. I do absolutely no cardio. It is simply not necessary. I'm leaner now than I was as a freshman in high school.
+
+There are lots of exercises that I like, that I just don't do. They are ones primarily with varied tempos, like tennis or basketball. I also like activities that promote a wide variety of movement such as yoga, not so much for the physical aspect, but for the psychological benefits.
 
 ---
 

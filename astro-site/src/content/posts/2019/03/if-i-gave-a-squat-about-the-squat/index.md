@@ -9,19 +9,27 @@ description: "Back in 2012, I posted what would end up being one of the most pop
 commentCount: 11
 ---
 
-Back in 2012, I posted what would end up being one of the most popular posts on this blog. It was titled [I No Longer Give a Squat About The Squat](/2012/06/i-no-longer-give-a-squat-about-the-squat/). It has been almost seven years and I still stand by every word of that article. Yet, I want to revisit the topic briefly from a different angle. What if I cared about the squat? How would I have approached it differently? Could I have had a better relationship with the exercise, instead of memories of pain and injuries? Perhaps. Here are some ideas that came to me recently.
+Back in 2012, I posted what would end up being one of the most popular posts on this blog. It was titled [I No Longer Give a Squat About The Squat](/2012/06/i-no-longer-give-a-squat-about-the-squat/). It has been almost seven years and I still stand by every word of that article. Yet, I want to revisit the topic briefly from a different angle.
+
+What if I cared about the squat? How would I have approached it differently? Could I have had a better relationship with the exercise, instead of memories of pain and injuries? Perhaps. Here are some ideas that came to me recently.
 
 
 ### #1 Get a Coach Early On
 
 
-The barbell back squat is a technical lift. Having an expert watch your form in real time and provide feedback on correcting that form is an excellent idea. I don't know how great my form was when I was squatting in my home gym. I think it was fine. But I'm certain it wasn't perfect. If I would have had a coach watching for signs of fatigue and guiding me that could only have helped me develop solid habits while the weight wasn't too heavy. Building strength on bad habits may not be an issue early on, but as the weight gets heavier, those minor mistakes could have consequences. If you don't have access to a coach, record video from at least 2 angles (facing and to the side) and then share the videos online in fitness forums. The feedback won't be real time, but at least you'll have some tips and a record of your progress.
+The barbell back squat is a technical lift. Having an expert watch your form in real time and provide feedback on correcting that form is an excellent idea. I don't know how great my form was when I was squatting in my home gym. I think it was fine. But I'm certain it wasn't perfect.
+
+If I would have had a coach watching for signs of fatigue and guiding me that could only have helped me develop solid habits while the weight wasn't too heavy. Building strength on bad habits may not be an issue early on, but as the weight gets heavier, those minor mistakes could have consequences.
+
+If you don't have access to a coach, record video from at least 2 angles (facing and to the side) and then share the videos online in fitness forums. The feedback won't be real time, but at least you'll have some tips and a record of your progress.
 
 
 ### #2 Do Single Leg Work
 
 
-I believe the root of many of my injuries has been a strength imbalance between my left and right side. If you never do single-leg work, you might not notice one leg outperforming the other until it is too late. Doing single-leg work also is great for getting the hip and glutes fully firing. When I started doing single leg presses recently, I was shocked at how weak my left glute/hip was compared to my right. Maybe that imbalance was there during my squat days and if it was, it probably resulted in a few less-than-perfect reps, especially at the end of a set.
+I believe the root of many of my injuries has been a strength imbalance between my left and right side. If you never do single-leg work, you might not notice one leg outperforming the other until it is too late.
+
+Doing single-leg work also is great for getting the hip and glutes fully firing. When I started doing single leg presses recently, I was shocked at how weak my left glute/hip was compared to my right. Maybe that imbalance was there during my squat days and if it was, it probably resulted in a few less-than-perfect reps, especially at the end of a set.
 
 
 ### #3 Stretch, Yoga, Etc
@@ -33,13 +41,23 @@ This is so obvious in hindsight, but back when I cared most about pushing iron, 
 ### #4 Reduce Spinal Loading Stress
 
 
-One of my concerns with the squat, which I touched on briefly in the 2012 article, is the spinal loading problem. I'd use lower weight and longer rest periods between sets. After a few sets, I'd cycle over to a trap-bar deadlift. It is not the same movement, but I suspect combining the two might be beneficial for leg development and provide a reduced risk of injury. This is speculation, but it makes sense to me. Then again, I am a much bigger fan of the trap-bar deadlift. With the trap-bar deadlift, there is no spinal loading and the movement is technically easier for taller folks like myself. **UPDATE:** I was wrong that the trap-bar has no spinal loading.
+One of my concerns with the squat, which I touched on briefly in the 2012 article, is the spinal loading problem. I'd use lower weight and longer rest periods between sets. After a few sets, I'd cycle over to a trap-bar deadlift. It is not the same movement, but I suspect combining the two might be beneficial for leg development and provide a reduced risk of injury.
+
+This is speculation, but it makes sense to me. Then again, I am a much bigger fan of the trap-bar deadlift. With the trap-bar deadlift, there is no spinal loading and the movement is technically easier for taller folks like myself.
+
+**UPDATE:** I was wrong that the trap-bar has no spinal loading.
 
 
 ### Last Words
 
 
-The squat can be a great tool. Use it while you are young. Do it intelligently, grab those initial gains, and then step away before the weight gets too heavy or you get too old. How heavy? How old? I don't have a firm answer for either of those questions. It would depend on your ability to recover. As the pounds increase and your recovery times take longer, start scaling back. These are all my opinions. I'm not a fitness professional. My bias is always going to be safety first. ![](./img/lift-weights.jpg) _Photo credit: US Navy_
+The squat can be a great tool. Use it while you are young. Do it intelligently, grab those initial gains, and then step away before the weight gets too heavy or you get too old. How heavy? How old? I don't have a firm answer for either of those questions. It would depend on your ability to recover. As the pounds increase and your recovery times take longer, start scaling back.
+
+These are all my opinions. I'm not a fitness professional. My bias is always going to be safety first.
+
+![](./img/lift-weights.jpg)
+
+_Photo credit: US Navy_
 
 ---
 

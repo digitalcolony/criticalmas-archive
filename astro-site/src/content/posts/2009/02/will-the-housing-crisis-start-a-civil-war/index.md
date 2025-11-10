@@ -9,13 +9,31 @@ description: "Catchy title, eh? I exaggerate, but there definitely is an undercu
 commentCount: 7
 ---
 
-Catchy title, eh? I exaggerate, but there definitely is an undercurrent of hostility between different parties in the housing crisis. When I posted [Mr. Microsoft vs Seattle Billy](/2009/02/mr-microsoft-vs-seattle-billy/), the comments exploded. Some of the commenters were justifiably irate with _Mr. Microsoft_ for deciding to walk away from his mortgage. Then President Obama announced his mortgage plan and the anger level went up. Whether or not this plan directly helps irresponsible home buyers is being debated all over the Internet. However, the perception is money will be taken from responsible tax payers and given to the irresponsible. Yesterday on CNBC, Rick Santelli went on a rant. Santelli is not a typical CNBC talking head. He is by far the smartest and most honest guy on the network. Rick Santelli is an outstanding journalist and the closest thing that network has to a _Regular Joe_. ![rick-cnbc-tax-revolt500](./img/rick-cnbc-tax-revolt500.jpg "rick-cnbc-tax-revolt500") Some quotes from the [Santelli Tax Revolt Rant](https://www.youtube.com/watch?v=zp-Jw-5Kx8k):
+Catchy title, eh? I exaggerate, but there definitely is an undercurrent of hostility between different parties in the housing crisis. When I posted [Mr. Microsoft vs Seattle Billy](/2009/02/mr-microsoft-vs-seattle-billy/), the comments exploded. Some of the commenters were justifiably irate with _Mr. Microsoft_ for deciding to walk away from his mortgage.
+
+Then President Obama announced his mortgage plan and the anger level went up.
+
+Whether or not this plan directly helps irresponsible home buyers is being debated all over the Internet. However, the perception is money will be taken from responsible tax payers and given to the irresponsible. Yesterday on CNBC, Rick Santelli went on a rant. Santelli is not a typical CNBC talking head. He is by far the smartest and most honest guy on the network. Rick Santelli is an outstanding journalist and the closest thing that network has to a _Regular Joe_.
+
+![rick-cnbc-tax-revolt500](./img/rick-cnbc-tax-revolt500.jpg "rick-cnbc-tax-revolt500")
+
+Some quotes from the [Santelli Tax Revolt Rant](https://www.youtube.com/watch?v=zp-Jw-5Kx8k):
 
 > The government is promoting bad behavior!
 
 > This is America! How many of you people want to pay for your neighbor's mortgage that has an extra bathroom and can't pay their bills?
 
-Rick Santelli even went as far to declare he would be organizing a _Tea Party in Chicago_. I read a few finance and investing web sites and there is a lot of support for this type of event. Someone has already started a blog to monitor [The Chicago Tea Party](http://chicagoteaparty.blogspot.com/). So far the battle is between those that pay their mortgage and those that aren't. But, there is a third group that should also be outraged. **Those people who decided NOT to buy a home during the bubble should be livid.** For years they were told they were missing out. Our society was drunk on rising home values. The renters that decided to be prudent were taunted. Look at this June 2005 cover from Time Magazine. ![Time Mag Home Sweet Home cover](./img/time-mag-homes.jpg "time-mag-homes") Why should they be livid now? Well for years they paid higher rents as rental property was being converted to homes for sale. Often this group had to keep moving while a higher percentage of their income was directed at housing. Now these people will be taxed to pay for those bought homes that they couldn't pay for. In other words, they will have to give their neighbor another housewarming gift. It gets worse. Treasury, The Federal Reserve and politicians are now doing everything they can to stabilize home prices. Stable home prices are good if you already have a home and see that home as an investment vehicle. **If you are in the market for a home, affordability is what you desire.** Wonder why John McCain is so adamant about propping up home prices? Could it be he is having [trouble selling his house](https://web.archive.org/web/20140329180424/http://blogs.phoenixnewtimes.com/valleyfever/2009/02/john_mccains_former_residence.php)? The end game is homes values will return to 3x income. Down payments will be closer to 20%. Housing inventory will eventually drop to historical averages of ~6 months. Unfortunately, this process is going to take years to play out.
+Rick Santelli even went as far to declare he would be organizing a _Tea Party in Chicago_. I read a few finance and investing web sites and there is a lot of support for this type of event. Someone has already started a blog to monitor [The Chicago Tea Party](http://chicagoteaparty.blogspot.com/).
+
+So far the battle is between those that pay their mortgage and those that aren't. But, there is a third group that should also be outraged. **Those people who decided NOT to buy a home during the bubble should be livid.** For years they were told they were missing out. Our society was drunk on rising home values. The renters that decided to be prudent were taunted. Look at this June 2005 cover from Time Magazine.
+
+![Time Mag Home Sweet Home cover](./img/time-mag-homes.jpg "time-mag-homes")
+
+Why should they be livid now? Well for years they paid higher rents as rental property was being converted to homes for sale. Often this group had to keep moving while a higher percentage of their income was directed at housing. Now these people will be taxed to pay for those bought homes that they couldn't pay for. In other words, they will have to give their neighbor another housewarming gift.
+
+It gets worse. Treasury, The Federal Reserve and politicians are now doing everything they can to stabilize home prices. Stable home prices are good if you already have a home and see that home as an investment vehicle. **If you are in the market for a home, affordability is what you desire.** Wonder why John McCain is so adamant about propping up home prices? Could it be he is having [trouble selling his house](https://web.archive.org/web/20140329180424/http://blogs.phoenixnewtimes.com/valleyfever/2009/02/john_mccains_former_residence.php)?
+
+The end game is homes values will return to 3x income. Down payments will be closer to 20%. Housing inventory will eventually drop to historical averages of ~6 months. Unfortunately, this process is going to take years to play out.
 
 ---
 

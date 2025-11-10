@@ -9,7 +9,15 @@ description: "I haven't posted about my night headaches since May. There are man
 commentCount: 9
 ---
 
-I haven't posted about my night headaches since May. There are many posts about [headaches](https://criticalmas.org/tag/headaches/) on this site. When I started the project in March 2011, I was confident that I could figure it out quickly. But I didn't. I tried many things and nothing seemed to help. Thousands of words have been written so far on this project, but all I've learned is what doesn't work. Well, that is until recently. In May I did a month test where I eliminated all fermented foods. The results were nothing. It had zero impact on my headaches. Then I decided to take a break from all tests to see if my stressing out about finding the answer was causing more headaches. So for a over a month, all I did was record 30 seconds of data each morning and not study patterns or run experiments. The result was still no change. Nothing was working. Then things got better. ![](http://farm3.staticflickr.com/2136/2237203916_368f1cbc74.jpg "headache") _[Headache](http://www.flickr.com/photos/demonbaby/2237203916/) by Rob Sheridan_
+I haven't posted about my night headaches since May. There are many posts about [headaches](https://criticalmas.org/tag/headaches/) on this site. When I started the project in March 2011, I was confident that I could figure it out quickly. But I didn't. I tried many things and nothing seemed to help. Thousands of words have been written so far on this project, but all I've learned is what doesn't work. Well, that is until recently.
+
+In May I did a month test where I eliminated all fermented foods. The results were nothing. It had zero impact on my headaches. Then I decided to take a break from all tests to see if my stressing out about finding the answer was causing more headaches. So for a over a month, all I did was record 30 seconds of data each morning and not study patterns or run experiments. The result was still no change. Nothing was working.
+
+Then things got better.
+
+![](http://farm3.staticflickr.com/2136/2237203916_368f1cbc74.jpg "headache")
+
+_[Headache](http://www.flickr.com/photos/demonbaby/2237203916/) by Rob Sheridan_
 
 
 ### Mouthguard
@@ -32,7 +40,9 @@ Although not as bad as wheat, I have learned that I have an issue with either so
 ### Gin
 
 
-I can't drink beer, wine or cider. They crush me. So taking the advice from one of those headache books I read earlier this year, I decided to experiment with gin. Gin and vodka are supposed to be the cleanest alcohols for people prone to headaches. I bought a bottle of a local award winning gin. Gin is distilled from wheat. My test involved having just 1/2 a shot around 6 PM with food. The data was clear. It showed an over 50% chance of getting a headache and usually they were intense. Since gluten doesn't make it into distilled liquor, I am now wondering if my issue is with wheat or was it the alcohol? Since then I've had rum twice, which is distilled from sugar cane and had no issues. Clearly not enough data, but something I will be testing further. In the meantime, no more wheat distilled alcohol.
+I can't drink beer, wine or cider. They crush me. So taking the advice from one of those headache books I read earlier this year, I decided to experiment with gin. Gin and vodka are supposed to be the cleanest alcohols for people prone to headaches. I bought a bottle of a local award winning gin. Gin is distilled from wheat. My test involved having just 1/2 a shot around 6 PM with food. The data was clear. It showed an over 50% chance of getting a headache and usually they were intense.
+
+Since gluten doesn't make it into distilled liquor, I am now wondering if my issue is with wheat or was it the alcohol? Since then I've had rum twice, which is distilled from sugar cane and had no issues. Clearly not enough data, but something I will be testing further. In the meantime, no more wheat distilled alcohol.
 
 
 ### Cleaner Ice Cream

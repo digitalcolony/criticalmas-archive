@@ -9,13 +9,27 @@ description: "Wow! Has it been 6 years since my last supplement post? Before I b
 commentCount: 15
 ---
 
-Wow! Has it been [6 years since my last supplement post](/2013/05/thinking-about-supplements-2013-edition/)? Before I begin with my updated views, let me say that when it comes to supplements the vast majority of us are just guessing. We are guessing what we are deficient in, we are guessing which supplements to take, we are guessing which brands are best, we are guessing how well they will be absorbed, and we are guessing if we think/feel/believe that we somehow benefited. But unless you are testing all these questions regularly, you don't know. You do your best and hope it works. My updated view on supplements is I don't believe in most. They are useless at best and potentially harmful. Do we know the effect of taking massive synthetic vitamins in doses never seen in nature for months or years on end? If we do, what about the combinations and ratios? I recently read Food Sanity, which has an entire chapter on the Vitamin industry. I was skeptical before. It was brutal. Listen to the author at 31:40 on [this podcast](https://overcast.fm/+I32IlV2sg).
+Wow! Has it been [6 years since my last supplement post](/2013/05/thinking-about-supplements-2013-edition/)?
+
+Before I begin with my updated views, let me say that when it comes to supplements the vast majority of us are just guessing. We are guessing what we are deficient in, we are guessing which supplements to take, we are guessing which brands are best, we are guessing how well they will be absorbed, and we are guessing if we think/feel/believe that we somehow benefited.
+
+But unless you are testing all these questions regularly, you don't know. You do your best and hope it works.
+
+My updated view on supplements is I don't believe in most. They are useless at best and potentially harmful. Do we know the effect of taking massive synthetic vitamins in doses never seen in nature for months or years on end? If we do, what about the combinations and ratios?
+
+I recently read Food Sanity, which has an entire chapter on the Vitamin industry. I was skeptical before. It was brutal. Listen to the author at 31:40 on [this podcast](https://overcast.fm/+I32IlV2sg).
 
 
 ### Vitamin D3, Magnesium, and Fish Oil
 
 
-I take NO Vitamins or Minerals. That includes Vitamin D3 and Magnesium. I also avoid Fish Oil. For Vitamin D3, I get sun in the summer and eat sardines and eggs in the winter. And if I don't get enough, I'm OK with that. Years ago, I found the article [Why I don’t take vitamin D supplements](https://gettingstronger.org/2012/11/why-i-dont-take-vitamin-d-supplements/) to be persuasive to me. Back in 2011, I posted on the [complexity of the Vitamin D3 molecule](/2011/04/think-you-know-vitamin-d/) and how I was skeptical that we might be getting it wrong.  Let's assume we can get Vit D3 right, now we are told to pair it with other Vitamins such as A and K2. How much? Which form? And remember that vitamin D is a hormone. I hope you get it right. I'll stick to sunshine and food. I've tried various forms of magnesium. They always give me the runs. I'll eat pumpkin and sunflower seeds. In 2013, I posted [Fish Oil is so 2010](/2013/08/fish-oil-2010/). It is the biggest scam going. Frontline did an expose that discovered that 75% of all fish oil on the market is rancid. So not only is it not helping most people, it is likely harming them. But what about all the positive studies? Read what [Suppversity said](http://suppversity.blogspot.com/2016/12/33-top-selling-us-fish-oils-exceed.html) on this topic last year:
+I take NO Vitamins or Minerals. That includes Vitamin D3 and Magnesium. I also avoid Fish Oil.
+
+For Vitamin D3, I get sun in the summer and eat sardines and eggs in the winter. And if I don't get enough, I'm OK with that. Years ago, I found the article [Why I don’t take vitamin D supplements](https://gettingstronger.org/2012/11/why-i-dont-take-vitamin-d-supplements/) to be persuasive to me. Back in 2011, I posted on the [complexity of the Vitamin D3 molecule](/2011/04/think-you-know-vitamin-d/) and how I was skeptical that we might be getting it wrong.  Let's assume we can get Vit D3 right, now we are told to pair it with other Vitamins such as A and K2. How much? Which form? And remember that vitamin D is a hormone. I hope you get it right. I'll stick to sunshine and food.
+
+I've tried various forms of magnesium. They always give me the runs. I'll eat pumpkin and sunflower seeds.
+
+In 2013, I posted [Fish Oil is so 2010](/2013/08/fish-oil-2010/). It is the biggest scam going. Frontline did an expose that discovered that 75% of all fish oil on the market is rancid. So not only is it not helping most people, it is likely harming them. But what about all the positive studies? Read what [Suppversity said](http://suppversity.blogspot.com/2016/12/33-top-selling-us-fish-oils-exceed.html) on this topic last year:
 
 > Your fish oil contains 4000% more oxidized fats than prescription fish oil! That's a huge problem, because many of the studies you're so fond of, because they seem to prove how healthy fish oil is, have been done with medicinal grade fish oils. Accordingly, the results of these studies have ZERO predictive power with respect to what your "machine oil" fish oil will do to your health.
 
@@ -25,13 +39,23 @@ In other words, spend your money on food and not fish oil. BTW, I recently added
 ### The Supplements I Do Take
 
 
-Creatine monohydrate. CM has the best resume of any athletic supplement and it may be neural protective. Protein powder. I add a scoop of whey or pea/hemp protein into my oatmeal most mornings. That is all. I suspect Essential Amino Acids taken during a strength workout would be beneficial, but I haven't tried them. Not sure if I will. My basic philosophy is [superfoods](/2008/03/150-superfoods-because-14-just-wasnt-enough/) are better than supplements. Supplements that are really packaged whole foods are worth looking into.
+Creatine monohydrate. CM has the best resume of any athletic supplement and it may be neural protective.
+
+Protein powder. I add a scoop of whey or pea/hemp protein into my oatmeal most mornings.
+
+That is all.
+
+I suspect Essential Amino Acids taken during a strength workout would be beneficial, but I haven't tried them. Not sure if I will.
+
+My basic philosophy is [superfoods](/2008/03/150-superfoods-because-14-just-wasnt-enough/) are better than supplements. Supplements that are really packaged whole foods are worth looking into.
 
 
 ### Future Supplements
 
 
-There are 2 areas of supplements that might have promise, but I'm going to let others go first. My strategy with supplements is to pay attention to which ones are gaining popularity over the years. So many supplements have a huge marketing splash and then disappear. The 2 areas are:
+There are 2 areas of supplements that might have promise, but I'm going to let others go first. My strategy with supplements is to pay attention to which ones are gaining popularity over the years. So many supplements have a huge marketing splash and then disappear.
+
+The 2 areas are:
 
 1.  Nootropics - supplements that measurably improve mental performance.
 2.  Peptides - Special chains of amino acids that can have amazing restorative benefits. The downside is most require injection and they are in a legal gray area right now. For a primer listen to this Energy Blueprint podcast. [The Amazing Benefits of Peptides For Anti-Aging, Fat Loss, Energy, Gut Healing, and More with Jean-François Tremblay (What Are Peptides? How Do Peptides Work?)](https://overcast.fm/+I32JhjbQk) Some people are diving into these, but I'm going to wait for now.
@@ -45,7 +69,13 @@ Just because I think most supplements are a waste of money, that doesn't mean I 
 1.  PABA - A reader of this blog told me how the cheap supplement PABA reversed his gray hair. I have some gray hair. Not much. I think my hair is fine. It is not important to me. But, I love experiments where you can get a visual and measurable result. After 3 months of taking PABA, I can say it did nothing for me. I'm at the same level of gray as before. It would have been cool if a $7 supplement could have reversed gray hair, but it didn't for me.
 2.  TRU-Niagen - This is an anti-aging supplement that in addition to helping you live longer (which you can't really A/B test), it is supposed to help with energy levels and recovery times. After 45 days, I can say that both my energy levels are higher and my recovery times are better. However, those benefits happened at the same time I was coming off a cold, and when I doubled my daily meditation minutes. So I don't know. When the bottle runs out, I'll cycle off the supplement to see what happens.
 
-What supplements do you believe in? ![vitamins](./img/amanda-jones-1224806-unsplash.jpg) _[Photo Credit](https://unsplash.com/@amandagraphc)_ 2020 Update: [I changed my view on Vitamin D3](/2020/05/doubling-my-vitamin-d-levels-in-2-months/).
+What supplements do you believe in?
+
+![vitamins](./img/amanda-jones-1224806-unsplash.jpg)
+
+_[Photo Credit](https://unsplash.com/@amandagraphc)_
+
+2020 Update: [I changed my view on Vitamin D3](/2020/05/doubling-my-vitamin-d-levels-in-2-months/).
 
 ---
 

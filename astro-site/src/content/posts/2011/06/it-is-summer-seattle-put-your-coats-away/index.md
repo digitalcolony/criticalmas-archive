@@ -9,7 +9,33 @@ description: "Today was another wonderful day in Seattle. I took some photos as 
 commentCount: 6
 ---
 
-Today was another wonderful day in Seattle. I took some photos as I urban hiked from Upper Queen Anne to Downtown. ![seattle-view](./img/seattle-view.jpg) _Upper Queen Anne looking west to Magnolia_ ![sculpture-park-tree](./img/sculpture-park-tree.jpg) _Sculpture Park. Looks a lot different when the sun isn't out._ ![train-tracks](./img/train-tracks.jpg) _Train tracks going underneath Sculpture Park_ ![seattle-waterfront](./img/seattle-waterfront.jpg) _Seattle Waterfront_ ![pike-place-market](./img/pike-place-market.jpg) _Behind Pike Place Market_ I think summer is finally here, although this couple might disagree. It was 70 degrees and sunny and they walked through Queen Anne wearing winter coats and wool caps. There were others too. [You know how I feel about that.](/2011/06/you-broke-your-own-metabolism/) ![seattle-70-degrees](./img/seattle-70-degrees.jpg) _Uggh!_
+Today was another wonderful day in Seattle. I took some photos as I urban hiked from Upper Queen Anne to Downtown.
+
+![seattle-view](./img/seattle-view.jpg)
+
+_Upper Queen Anne looking west to Magnolia_
+
+![sculpture-park-tree](./img/sculpture-park-tree.jpg)
+
+_Sculpture Park. Looks a lot different when the sun isn't out._
+
+![train-tracks](./img/train-tracks.jpg)
+
+_Train tracks going underneath Sculpture Park_
+
+![seattle-waterfront](./img/seattle-waterfront.jpg)
+
+_Seattle Waterfront_
+
+![pike-place-market](./img/pike-place-market.jpg)
+
+_Behind Pike Place Market_
+
+I think summer is finally here, although this couple might disagree. It was 70 degrees and sunny and they walked through Queen Anne wearing winter coats and wool caps. There were others too. [You know how I feel about that.](/2011/06/you-broke-your-own-metabolism/)
+
+![seattle-70-degrees](./img/seattle-70-degrees.jpg)
+
+_Uggh!_
 
 ---
 

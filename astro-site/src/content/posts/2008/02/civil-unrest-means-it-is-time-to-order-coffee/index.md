@@ -13,7 +13,9 @@ Seems our pals in Kenya have decided to start shooting up the place. One writer 
 
 > ...you see a Kenya that is about to remind us of 1994 Rwanda. The road blocks manned by men with rungus and pangas, the anger in their eyes, the wanton killing without remorse, the seeking of one's identity before being let through the road block, and the targeting of individuals that seem to be better off than them, teaches us one thing; that our leaders will continue to lead us where they want; even to death as long as they remain in power.
 
-This is not good. Kenya has my favorite coffee. If Kenya goes the way of Rwanda, then we can say goodbye to that coffee for a decade. I'm hoping it doesn't come to that. According to the Wikipedia page on the recent conflict:
+This is not good. Kenya has my favorite coffee. If Kenya goes the way of Rwanda, then we can say goodbye to that coffee for a decade. I'm hoping it doesn't come to that.
+
+According to the Wikipedia page on the recent conflict:
 
 > The violence in Kenya has had serious economic ramifications throughout East Africa, particularly for the landlocked countries of the Great Lakes region (Uganda, Rwanda, Burundi, and eastern parts of the Democratic Republic of Congo). \[1\] These countries depend upon Kenyan infrastructure links (particularly the port at Mombasa) for important imports as well as export routes.
 

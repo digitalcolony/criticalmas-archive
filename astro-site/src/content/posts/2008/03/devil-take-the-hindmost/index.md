@@ -9,7 +9,11 @@ description: "After reading this book, I'm convinced that humans are programmed 
 commentCount: 1
 ---
 
-After reading this book, I'm convinced that humans are programmed to not learn from history. ![Devil Take the Hindmost: A History of Financial Speculation](https://images-na.ssl-images-amazon.com/images/I/51920-dZzxL.jpg) _Devil Take the Hindmost: A History of Financial Speculation_ by Edward Chancellor covers financial speculation from Tulip Mania through the LTCM crisis of 1998. The book was published prior to the dot-com crash. Even though I found the early chapters a bit dry, the second half of the book provided an excellent overview to many of the financial disasters of the 20th century. The most interesting chapter was _Kamikaze Capitalism: The Japanese Bubble Economy of the 1980s_. Listen to these characteristics of the Japanese economy at the end of the 1980s.
+After reading this book, I'm convinced that humans are programmed to not learn from history.
+
+![Devil Take the Hindmost: A History of Financial Speculation](https://images-na.ssl-images-amazon.com/images/I/51920-dZzxL.jpg) _Devil Take the Hindmost: A History of Financial Speculation_ by Edward Chancellor covers financial speculation from Tulip Mania through the LTCM crisis of 1998. The book was published prior to the dot-com crash. Even though I found the early chapters a bit dry, the second half of the book provided an excellent overview to many of the financial disasters of the 20th century.
+
+The most interesting chapter was _Kamikaze Capitalism: The Japanese Bubble Economy of the 1980s_. Listen to these characteristics of the Japanese economy at the end of the 1980s.
 
 1.  Property values soared to records.
 2.  Homes purchased with exotic loans (100-year mortgages).
@@ -19,7 +23,9 @@ After reading this book, I'm convinced that humans are programmed to not learn f
 6.  People borrowed against the equity of their homes.
 7.  Consumer debt increased.
 
-That list reads as if it were the United States from 2002-2007. After the bubble burst in Japan, they started a long period of deflation. I use the term deflation to mean a contraction of the money supply, not falling prices, which are a symptom. What happened to Japan in 1990 looks like what is happening in America in 2008.
+That list reads as if it were the United States from 2002-2007. After the bubble burst in Japan, they started a long period of deflation. I use the term deflation to mean a contraction of the money supply, not falling prices, which are a symptom.
+
+What happened to Japan in 1990 looks like what is happening in America in 2008.
 
 1.  Falling stock and real estate prices.
 2.  Insolvent financial institutions.

@@ -9,13 +9,23 @@ description: "It was about a year ago that I stepped on the scale at the gym and
 commentCount: 17
 ---
 
-It was about a year ago that I stepped on the scale at the gym and saw I weighed just 183 (my height is 6 ft 2.5 inches or 189 cm). This wasn't good. I had been weight stable at 190 for a few years and now I was losing weight rapidly. My abs looked awesome, but my face was gaunt. I needed to gain weight, but my diet was so clean that I'd need to try something different. Simply eating more wasn't working. So I put on my thinking cap and went looking for the perfect food that would help me gain some weight. But I didn't want to eat any old junk food. I wanted to find the cleanest most anabolic food that I could eat past satiety. The food that perfectly fit the job requirement was ice cream. I did an entire post explaining [Why Ice Cream is Better Than Protein Powder](/2012/07/why-ice-cream-is-better-than-protein-powder/). Needless to say, when I went from eating super clean with very low sugar to pints of ice cream weekly, it freaked some people out.
+It was about a year ago that I stepped on the scale at the gym and saw I weighed just 183 (my height is 6 ft 2.5 inches or 189 cm). This wasn't good. I had been weight stable at 190 for a few years and now I was losing weight rapidly. My abs looked awesome, but my face was gaunt. I needed to gain weight, but my diet was so clean that I'd need to try something different. Simply eating more wasn't working.
+
+So I put on my thinking cap and went looking for the perfect food that would help me gain some weight. But I didn't want to eat any old junk food. I wanted to find the cleanest most anabolic food that I could eat past satiety. The food that perfectly fit the job requirement was ice cream. I did an entire post explaining [Why Ice Cream is Better Than Protein Powder](/2012/07/why-ice-cream-is-better-than-protein-powder/).
+
+Needless to say, when I went from eating super clean with very low sugar to pints of ice cream weekly, it freaked some people out.
 
 
 ### Paleo Scorn and Peat Praise
 
 
-Almost all nutritional camps demonize sugar. This is especially true with the Paleo crowd. By engaging in the ice cream experiment, I was openly embracing what I had previously listed as one of the big four toxins (the other 3 being gluten, veggie oils and unfermented soy). If the Paleo fear mongers were correct, I was at risk for gaining back the 20 pounds of fat I lost when I began eating a [cyclical lower carb Paleo diet](/2011/08/the-paleohit-cyclical-approach-to-fitness-and-nutrition/). The followers of Ray Peat hold the opposite opinion of sugar. They see sugar as getting a bad repetition and that sugar can be therapeutic. Sugar to them can boost metabolism and lower stress. In my ice cream post, I linked to _Sugar: Pure, White & Awesome_ by Danny Roddy. That is probably the best article I've read on the pro-sugar side. ![ice cream](http://farm1.staticflickr.com/8/10471771_da99b9fd03_z.jpg?zz=1) _[Photo](http://www.flickr.com/photos/roboppy/10471771/in/photostream/) by Robyn Lee. I approve of the vanilla, which is usually the cleanest ice cream, but not the cookie bits._ 
+Almost all nutritional camps demonize sugar. This is especially true with the Paleo crowd. By engaging in the ice cream experiment, I was openly embracing what I had previously listed as one of the big four toxins (the other 3 being gluten, veggie oils and unfermented soy). If the Paleo fear mongers were correct, I was at risk for gaining back the 20 pounds of fat I lost when I began eating a [cyclical lower carb Paleo diet](/2011/08/the-paleohit-cyclical-approach-to-fitness-and-nutrition/).
+
+The followers of Ray Peat hold the opposite opinion of sugar. They see sugar as getting a bad repetition and that sugar can be therapeutic. Sugar to them can boost metabolism and lower stress. In my ice cream post, I linked to _Sugar: Pure, White & Awesome_ by Danny Roddy. That is probably the best article I've read on the pro-sugar side.
+
+![ice cream](http://farm1.staticflickr.com/8/10471771_da99b9fd03_z.jpg?zz=1)
+
+_[Photo](http://www.flickr.com/photos/roboppy/10471771/in/photostream/) by Robyn Lee. I approve of the vanilla, which is usually the cleanest ice cream, but not the cookie bits._ 
 
 
 ### What Happened?
@@ -29,15 +39,33 @@ In September, I posted [Update on My Ice Cream Experiment](/2012/09/update-on-m
 > -   3 pints per week – Muscle gain and some fat gain. Some acne.
 > -   4 pints per week – More fat gain and worse acne.
 
-I solved the acne problem by sourcing only the cleanest ice cream. Once I became diligent about avoiding any corn syrup and carrageenan, my skin got better. So heading into October I had dialed in my sweet spot of optimal ice cream consumption. Then I started the hardest experiment of my life. I went an entire [month without coffee](https://ineedcoffee.com/a-month-without-coffee/) and went a full three weeks with absolutely no caffeine. This was the first time I did a real coffee or caffeine detox in my entire adult life. That is when my sugar consumption spiked again. Going without caffeine wrecked my mood and I also learned just how much of an appetite suppressant caffeine had been for me. Prior to the caffeine detox I was back rocking a perfect weight of 187. A month later I was 7 pounds heavier at 194. I posted about this in [Low Caffeine Weight Gain](/2012/11/low-caffeine-weight-gain/). A funny thing happened when I slowly started adding back the caffeine. I couldn't down regulate my sugar cravings that spiked during the month without coffee. I also started making kefir and I gained another 5 pounds. Now I am at 199. This is up 16 pounds. I'd guess it is half fat and half muscle. I'd like to get back to 190-193. I think that is the sweet spot.
+I solved the acne problem by sourcing only the cleanest ice cream. Once I became diligent about avoiding any corn syrup and carrageenan, my skin got better. So heading into October I had dialed in my sweet spot of optimal ice cream consumption. Then I started the hardest experiment of my life. I went an entire [month without coffee](https://ineedcoffee.com/a-month-without-coffee/) and went a full three weeks with absolutely no caffeine. This was the first time I did a real coffee or caffeine detox in my entire adult life. That is when my sugar consumption spiked again.
 
-> Super clean diet with no sugar = 183 (too lean) 183 + ice cream = 187 187 + ice cream - caffeine = 194 194 + ice cream + kefir + caffeine = 199 _199 - ice cream + kefir + caffeine = (Goal 190-193)_
+Going without caffeine wrecked my mood and I also learned just how much of an appetite suppressant caffeine had been for me. Prior to the caffeine detox I was back rocking a perfect weight of 187. A month later I was 7 pounds heavier at 194. I posted about this in [Low Caffeine Weight Gain](/2012/11/low-caffeine-weight-gain/).
+
+A funny thing happened when I slowly started adding back the caffeine. I couldn't down regulate my sugar cravings that spiked during the month without coffee. I also started making kefir and I gained another 5 pounds. Now I am at 199. This is up 16 pounds. I'd guess it is half fat and half muscle. I'd like to get back to 190-193. I think that is the sweet spot.
+
+> Super clean diet with no sugar = 183 (too lean)
+> 
+> 183 + ice cream = 187
+> 
+> 187 + ice cream - caffeine = 194
+> 
+> 194 + ice cream + kefir + caffeine = 199
+> 
+> _199 - ice cream + kefir + caffeine = (Goal 190-193)_
 
 
 ### Time to End the Experiment
 
 
-One of the things followers of Peat say about sugar is that is will increase metabolism. It will increase body temperature and your pulse. I did get an increase in pulse shortly after eating ice cream, but nothing sustainable. **Consuming massive amounts of sugar also did nothing to increase my body temperature**. And although I enjoyed the taste of ice cream, I didn't find my health or stress levels to be better than they were in the year prior when I consumed very little sugar. The muscle gain I experienced was from an excess of calories. The fat I gained was from an excess in calories. Sugar was not an evil toxin, nor was it magically helpful. In that sense I feel both the Paleo and Peat folks were wrong. It served its purpose, but the downside is I do believe sugar messes with appetite signals more than most foods. Which is fine if that is your stated goal, like it was for me. But now that I've pushed it too far, it is time to stop the ice cream experiment. I won't stop 100%. I'll still have it as a treat from time to time, but it won't be a daily or even weekly treat. For post workout calories, I will use my [homemade kefir](/2013/03/making-dairy-kefir-is-super-easy/). It is nutritionally close to ice cream, but I'm far less likely to consume to excess. It is also cheaper. If I start wasting away again, I can always return to ice cream. ;) My final advice is for lean ectomorph males wishing to gain muscle. Lift weights, but not too much and then eat ice cream. It works. And if it doesn't work, don't assume you aren't lifting enough. Assume you aren't eating enough ice cream.
+One of the things followers of Peat say about sugar is that is will increase metabolism. It will increase body temperature and your pulse. I did get an increase in pulse shortly after eating ice cream, but nothing sustainable. **Consuming massive amounts of sugar also did nothing to increase my body temperature**. And although I enjoyed the taste of ice cream, I didn't find my health or stress levels to be better than they were in the year prior when I consumed very little sugar.
+
+The muscle gain I experienced was from an excess of calories. The fat I gained was from an excess in calories. Sugar was not an evil toxin, nor was it magically helpful. In that sense I feel both the Paleo and Peat folks were wrong. It served its purpose, but the downside is I do believe sugar messes with appetite signals more than most foods. Which is fine if that is your stated goal, like it was for me. But now that I've pushed it too far, it is time to stop the ice cream experiment. I won't stop 100%. I'll still have it as a treat from time to time, but it won't be a daily or even weekly treat.
+
+For post workout calories, I will use my [homemade kefir](/2013/03/making-dairy-kefir-is-super-easy/). It is nutritionally close to ice cream, but I'm far less likely to consume to excess. It is also cheaper. If I start wasting away again, I can always return to ice cream. ;)
+
+My final advice is for lean ectomorph males wishing to gain muscle. Lift weights, but not too much and then eat ice cream. It works. And if it doesn't work, don't assume you aren't lifting enough. Assume you aren't eating enough ice cream.
 
 ---
 

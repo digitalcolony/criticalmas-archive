@@ -9,7 +9,23 @@ description: "I want to give a hat tip to Chuck, who in the comments of my last 
 commentCount: 3
 ---
 
-I want to give a hat tip to Chuck, who in the comments of my [last post](/2017/03/won-blood-donation/), asked me if my frequent blood donations have had an effect on my cold tolerance. That question rattled me, because I have noticed a gradual decline in my cold tolerance each winter - with this year being the worst since 2007-2008. The winter of 2007-2008 was my first winter in the Seattle area after living in San Diego since 2000. And boy did I feel cold. At the time I assumed 100% of the reason was because I became a temperature wimp in sunny SoCal. But there may have been a second reason. At that time I was still rarely eating red meat. My diet was probably low in iron. By the time the winter of 2008 arrived, I not only began [cold exposure training](https://criticalmas.org/best-of/cold-weather-training/), but I also fully embraced red meat as a regular component of my diet. I started throwing heat. I still believe the majority of the benefit I got was from teaching my body how to generate more heat via cold exposure, but now it seems there may have been a dietary component. A quick search on Iron and Cold Tolerance will pull up pages of results. They mostly state that **having a low iron level can increase cold intolerance and cause one to feel tired frequently**. The thyroid needs sufficient iron levels to do its job. Last winter felt colder to me than normal. This winter felt even colder. What else has changed beside my frequent blood donation? I've been eating a [Peasant Diet](/2016/11/designing-modern-peasant-diet/) which is much lower in red meat. Also as a result of feeling cold and tired more frequently, I've been drinking even more coffee. Coffee can reduce iron absorption by 50%. Interestingly, my body temperature remained up at 98.4-98.6. This contradiction made me seek out a doctor to test my thyroid. He told me my [TSH](https://en.wikipedia.org/wiki/Thyroid-stimulating_hormone) of 2.0 was fine and that I probably just had poor circulation. No other ideas were put forth. ![futurama-coffee-house](./img/futurama-coffee-house.jpg) So in my quest to donate blood to reduce my iron levels, it appears I overshot the target. As of today I am going to:
+I want to give a hat tip to Chuck, who in the comments of my [last post](/2017/03/won-blood-donation/), asked me if my frequent blood donations have had an effect on my cold tolerance. That question rattled me, because I have noticed a gradual decline in my cold tolerance each winter - with this year being the worst since 2007-2008.
+
+The winter of 2007-2008 was my first winter in the Seattle area after living in San Diego since 2000. And boy did I feel cold. At the time I assumed 100% of the reason was because I became a temperature wimp in sunny SoCal. But there may have been a second reason. At that time I was still rarely eating red meat. My diet was probably low in iron.
+
+By the time the winter of 2008 arrived, I not only began [cold exposure training](https://criticalmas.org/best-of/cold-weather-training/), but I also fully embraced red meat as a regular component of my diet. I started throwing heat. I still believe the majority of the benefit I got was from teaching my body how to generate more heat via cold exposure, but now it seems there may have been a dietary component.
+
+A quick search on Iron and Cold Tolerance will pull up pages of results. They mostly state that **having a low iron level can increase cold intolerance and cause one to feel tired frequently**. The thyroid needs sufficient iron levels to do its job.
+
+Last winter felt colder to me than normal. This winter felt even colder.
+
+What else has changed beside my frequent blood donation? I've been eating a [Peasant Diet](/2016/11/designing-modern-peasant-diet/) which is much lower in red meat. Also as a result of feeling cold and tired more frequently, I've been drinking even more coffee. Coffee can reduce iron absorption by 50%.
+
+Interestingly, my body temperature remained up at 98.4-98.6. This contradiction made me seek out a doctor to test my thyroid. He told me my [TSH](https://en.wikipedia.org/wiki/Thyroid-stimulating_hormone) of 2.0 was fine and that I probably just had poor circulation. No other ideas were put forth.
+
+![futurama-coffee-house](./img/futurama-coffee-house.jpg)
+
+So in my quest to donate blood to reduce my iron levels, it appears I overshot the target. As of today I am going to:
 
 1.  Stop donating blood for at least 6 months.
 2.  Increase red meat consumption.

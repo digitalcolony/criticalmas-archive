@@ -9,7 +9,13 @@ description: "I was poking around Amazon this morning and stumbled on this great
 commentCount: 2
 ---
 
-I was poking around Amazon this morning and stumbled on this great book cover. ![One Nation Under Fear: Scaredy Cats and Fear-Mongers in the Home of the Brave (And What You Can Do About It)](https://images-na.ssl-images-amazon.com/images/I/513f6y%2B0vSL.jpg) _One Nation Under Fear: Scaredy Cats and Fear-Mongers in the Home of the Brave (And What You Can Do About It) by Bob Cesca_. I have absolutely no desire to read a political book at this time, so I have no plans to read it. I think the cover speaks for itself. America was once a great fearless nation and now sometimes I think are scared of our own shadow. The rugged characters that built this nation would be sickened to see the fearful weak people who inherited its wealth. We watch the news to be informed, but all we get are stories to make us more fearful. Then we seek out the opinions of _experts_, because we are afraid to trust our instincts and make our own decisions. Then the _experts_ are wrong and we get more fearful, so we seek out new _experts_. What should you do about it? Ask yourself.
+I was poking around Amazon this morning and stumbled on this great book cover.
+
+![One Nation Under Fear: Scaredy Cats and Fear-Mongers in the Home of the Brave (And What You Can Do About It)](https://images-na.ssl-images-amazon.com/images/I/513f6y%2B0vSL.jpg) _One Nation Under Fear: Scaredy Cats and Fear-Mongers in the Home of the Brave (And What You Can Do About It) by Bob Cesca_. I have absolutely no desire to read a political book at this time, so I have no plans to read it. I think the cover speaks for itself.
+
+America was once a great fearless nation and now sometimes I think are scared of our own shadow. The rugged characters that built this nation would be sickened to see the fearful weak people who inherited its wealth. We watch the news to be informed, but all we get are stories to make us more fearful. Then we seek out the opinions of _experts_, because we are afraid to trust our instincts and make our own decisions. Then the _experts_ are wrong and we get more fearful, so we seek out new _experts_.
+
+What should you do about it? Ask yourself.
 
 ---
 

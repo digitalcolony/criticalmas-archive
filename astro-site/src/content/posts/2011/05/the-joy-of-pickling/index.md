@@ -9,7 +9,13 @@ description: "In the past year, I've read or skimmed numerous books from the lib
 commentCount: 7
 ---
 
-In the past year, I've read or skimmed numerous books from the library on fermentation. Most were OK. None of them seemed complete. Until now. ![The Joy of Pickling: 250 Flavor-Packed Recipes for Vegetables and More from Garden or Market (Revised Edition)](https://images-na.ssl-images-amazon.com/images/I/51pqB-ZLl0L.jpg) _The Joy of Pickling: 250 Flavor-Packed Recipes for Vegetables and More from Garden or Market (Revised Edition) by Linda Ziedrich_ is the best book I've seen on fermentation. It covers salt proportions better than _Wild Fermentation_. It goes into vinegar types, spices, storage, and supplies. The author even has a witty writing style. I made spicy fermented cauliflower using a recipe in the book. It took three weeks, but the results were worth it. It tasted slightly pickled with some heat, all while maintaining a little crunch. The recipes are clearly edited and the fermentation times are not wild ranges, but clear estimates. If you are interested in fermentation, this book belongs in your kitchen library. The last chapter covers pickled meat, fish, and eggs, which is something I hadn't even considered. Pickled beef tongue? See page 368.
+In the past year, I've read or skimmed numerous books from the library on fermentation. Most were OK. None of them seemed complete. Until now.
+
+![The Joy of Pickling: 250 Flavor-Packed Recipes for Vegetables and More from Garden or Market (Revised Edition)](https://images-na.ssl-images-amazon.com/images/I/51pqB-ZLl0L.jpg) _The Joy of Pickling: 250 Flavor-Packed Recipes for Vegetables and More from Garden or Market (Revised Edition) by Linda Ziedrich_ is the best book I've seen on fermentation. It covers salt proportions better than _Wild Fermentation_. It goes into vinegar types, spices, storage, and supplies. The author even has a witty writing style.
+
+I made spicy fermented cauliflower using a recipe in the book. It took three weeks, but the results were worth it. It tasted slightly pickled with some heat, all while maintaining a little crunch. The recipes are clearly edited and the fermentation times are not wild ranges, but clear estimates.
+
+If you are interested in fermentation, this book belongs in your kitchen library. The last chapter covers pickled meat, fish, and eggs, which is something I hadn't even considered. Pickled beef tongue? See page 368.
 
 ---
 

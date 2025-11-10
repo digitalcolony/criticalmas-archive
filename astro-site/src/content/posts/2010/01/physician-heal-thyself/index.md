@@ -9,11 +9,19 @@ description: "After Obama nominated a tax cheat to run the United States Treasur
 commentCount: 4
 ---
 
-After Obama nominated a [tax cheat](https://en.wikipedia.org/wiki/Timothy_Geithner#Tax_scandal) to run the United States Treasury, who could have imagined that we'd get a more ironic nomination. The new Surgeon General is Regina Benjamin and her prime health mission is tackling obesity. She is also 40 pounds overweight. You can't make this stuff up. [![](./img/Regina_Benjamin.jpg "Regina_Benjamin")](./img/Regina_Benjamin.jpg) Fitness writer [Paul Chek](/2008/10/another-fitness-nutrition-book/) states in his video that most of the people who teach health are unhealthy. Paul also states:
+After Obama nominated a [tax cheat](https://en.wikipedia.org/wiki/Timothy_Geithner#Tax_scandal) to run the United States Treasury, who could have imagined that we'd get a more ironic nomination. The new Surgeon General is Regina Benjamin and her prime health mission is tackling obesity. She is also 40 pounds overweight.
+
+You can't make this stuff up.
+
+[![](./img/Regina_Benjamin.jpg "Regina_Benjamin")](./img/Regina_Benjamin.jpg)
+
+Fitness writer [Paul Chek](/2008/10/another-fitness-nutrition-book/) states in his video that most of the people who teach health are unhealthy. Paul also states:
 
 > If you can't teach in your underwear, you shouldn't be talking about health.
 
-There is a lot of truth to that statement, but I am willing to give Regina Benjamin a pass if her new plan titled _**The Surgeon Generals Vision for a Healthy and Fit Nation 2010**_ can reduce obesity. The plan is 21 pages long. I read it and pulled out the core recommendations below. Even though the report lists these recommendations as general healthy choices, the focus is targeted at obesity. In other words, these ideas are not presented as just good healthy ideas, but methods for tackling obesity. So I will frame my opinion based on the belief this list will tackle obesity.
+There is a lot of truth to that statement, but I am willing to give Regina Benjamin a pass if her new plan titled _**The Surgeon Generals Vision for a Healthy and Fit Nation 2010**_ can reduce obesity. The plan is 21 pages long. I read it and pulled out the core recommendations below.
+
+Even though the report lists these recommendations as general healthy choices, the focus is targeted at obesity. In other words, these ideas are not presented as just good healthy ideas, but methods for tackling obesity. So I will frame my opinion based on the belief this list will tackle obesity.
 
 > Reducing consumption of sodas and juices with added sugars.
 
@@ -56,7 +64,11 @@ Being physically active is a good thing, but will do little to cure obesity. Inc
 
 > Breastfeeding exclusively to 6 months.
 
-Excellent idea. Anything to delay the ingestion of soy formulas is a good thing. There are other ideas in the report such as encouraging recess and physical activity in the schools. I think a better idea would be to **teach kids cooking skills**. Replacing trips to fast-food restaurants with home-cooked meals will do far more to cure obesity than exercise. Dr. Benjamin's policy paper is nothing new. It is the same old failed ideas we've been exposed to for the past thirty years. They aren't working.
+Excellent idea. Anything to delay the ingestion of soy formulas is a good thing.
+
+There are other ideas in the report such as encouraging recess and physical activity in the schools. I think a better idea would be to **teach kids cooking skills**. Replacing trips to fast-food restaurants with home-cooked meals will do far more to cure obesity than exercise.
+
+Dr. Benjamin's policy paper is nothing new. It is the same old failed ideas we've been exposed to for the past thirty years. They aren't working.
 
 ---
 

@@ -22,7 +22,11 @@ _Biohacks_ recently posted [Podcasts I listen to](https://web.archive.org/web/20
 9.  Underground Wellness (health)
 10.  Accidental Creative (productivity)
 
-All these are available on iTunes. ![](./img/oldradio.jpg "oldradio") I used to listen to more health podcasts, but once the content gets too repetitive, I move onto other shows. What are your some of your favorite podcasts?
+All these are available on iTunes.
+
+![](./img/oldradio.jpg "oldradio")
+
+I used to listen to more health podcasts, but once the content gets too repetitive, I move onto other shows. What are your some of your favorite podcasts?
 
 ---
 

@@ -9,7 +9,19 @@ description: "I wonder if anyone has ever combined Cajun spices with Icelandic s
 commentCount: 2
 ---
 
-I wonder if anyone has ever combined Cajun spices with [Icelandic sheep testicles](/2012/05/sheep-testicles-taste-wonderful/) before? :) Besides the fact they taste great, why would anyone eat animal testicles? They are [loaded with protein and high in cholesterol](http://www.diet-blog.com/11/the_nutrition_of_animal_testicles.php). Cholesterol has been demonized as being unhealthy and a cause of heart disease. That is a myth. Several books have been written on the topic. That is old news. The recent news is how dietary cholesterol can help build strong muscles. Check out _Research Update: Eating More Cholesterol Makes Muscles Stronger_ by Anthony Colpo if this topic is of interest. (FEB 2017 UPDATE: Colpo's article is now behind a paywall). ![sheep-testicles](./img/sheep-testicles.jpg) ![cajun-spices](./img/cajun-spices.jpg) ![cajun-testicles](./img/cajun-testicles.jpg) ![cajun-testicles2](./img/cajun-testicles2.jpg)
+I wonder if anyone has ever combined Cajun spices with [Icelandic sheep testicles](/2012/05/sheep-testicles-taste-wonderful/) before? :)
+
+Besides the fact they taste great, why would anyone eat animal testicles? They are [loaded with protein and high in cholesterol](http://www.diet-blog.com/11/the_nutrition_of_animal_testicles.php). Cholesterol has been demonized as being unhealthy and a cause of heart disease. That is a myth. Several books have been written on the topic. That is old news.
+
+The recent news is how dietary cholesterol can help build strong muscles. Check out _Research Update: Eating More Cholesterol Makes Muscles Stronger_ by Anthony Colpo if this topic is of interest. (FEB 2017 UPDATE: Colpo's article is now behind a paywall).
+
+![sheep-testicles](./img/sheep-testicles.jpg)
+
+![cajun-spices](./img/cajun-spices.jpg)
+
+![cajun-testicles](./img/cajun-testicles.jpg)
+
+![cajun-testicles2](./img/cajun-testicles2.jpg)
 
 ---
 

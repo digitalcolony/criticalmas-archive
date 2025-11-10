@@ -9,13 +9,53 @@ description: "Every so often in a conversation, I'll mention how one can get lea
 commentCount: 8
 ---
 
-Every so often in a conversation, I'll mention how one can get lean without feeling hunger by eating boiled potatoes. I'll get challenged on this point as most people are clueless to the fact that potatoes are not fattening when you don't fry them or slather butter or cheese on them. So, I'll mention to the other party how I used potatoes to drop 25 pounds and keep that weight off for more than a year. At this point, my debate opponent should pause and perhaps ask some follow up questions on what could be a learning experience. But they rarely do. That would destroy their nutritional worldview that potatoes and carbs are inherently fattening. So they fire back with any idea that comes to their head to explain how I dropped 25 pounds by eating on average 10-15 pounds of boiled potatoes a week. _You exercised more!_ Nope. My exercise levels have been consistent for years as well as the type of exercises I do. _It must be genetics!_ Then how was it my genetics allowed me to gain 25 pounds when I wasn't eating lots of potatoes? At this point, they try and shift the topic away from fat loss to something else. _But potatoes are nightshades and nightshades are horrible._ I feel great and I feel even better being 25 pounds lighter. _But the glycemic response will give you diabetes!_ Being a fat ass will give you diabetes. But if you want to lower the glycemic response, add a splash of red wine vinegar to the potatoes. _I would get fat eating that many potatoes._  No, you wouldn't. You couldn't possibly eat enough potatoes to make yourself fat. Figure out your daily calorie burn and divide by 350. That is how many pounds of potatoes you'd have to eat just to stay the same weight. You might stuff yourself once trying to hit that number, but after that, your brain will suppress hunger signals before you get close. Enter calorie deficit. Enter fat loss. I didn't just make this up. This nutritional trick is over 100 years old. **Cognitive Dissonance achieved.**  Then I tell them that now that I am lean, I cut back eating so many potatoes. This is when they get a glimmer of hope that I might be conceding them a point. Then I explain the real reason. I had to cut back on the potatoes because I was losing too much weight. I wanted to gain some muscle and my appetite was too low from the boiled potatoes, so I took a break from them for the time being.
+Every so often in a conversation, I'll mention how one can get lean without feeling hunger by eating boiled potatoes. I'll get challenged on this point as most people are clueless to the fact that potatoes are not fattening when you don't fry them or slather butter or cheese on them. So, I'll mention to the other party how I used potatoes to drop 25 pounds and keep that weight off for more than a year.
+
+At this point, my debate opponent should pause and perhaps ask some follow up questions on what could be a learning experience. But they rarely do. That would destroy their nutritional worldview that potatoes and carbs are inherently fattening.
+
+So they fire back with any idea that comes to their head to explain how I dropped 25 pounds by eating on average 10-15 pounds of boiled potatoes a week.
+
+_You exercised more!_
+
+Nope. My exercise levels have been consistent for years as well as the type of exercises I do.
+
+_It must be genetics!_
+
+Then how was it my genetics allowed me to gain 25 pounds when I wasn't eating lots of potatoes?
+
+At this point, they try and shift the topic away from fat loss to something else.
+
+_But potatoes are nightshades and nightshades are horrible._
+
+I feel great and I feel even better being 25 pounds lighter.
+
+_But the glycemic response will give you diabetes!_
+
+Being a fat ass will give you diabetes. But if you want to lower the glycemic response, add a splash of red wine vinegar to the potatoes.
+
+_I would get fat eating that many potatoes._ 
+
+No, you wouldn't. You couldn't possibly eat enough potatoes to make yourself fat. Figure out your daily calorie burn and divide by 350. That is how many pounds of potatoes you'd have to eat just to stay the same weight. You might stuff yourself once trying to hit that number, but after that, your brain will suppress hunger signals before you get close. Enter calorie deficit. Enter fat loss.
+
+I didn't just make this up. This nutritional trick is over 100 years old.
+
+**Cognitive Dissonance achieved.** 
+
+Then I tell them that now that I am lean, I cut back eating so many potatoes. This is when they get a glimmer of hope that I might be conceding them a point.
+
+Then I explain the real reason.
+
+I had to cut back on the potatoes because I was losing too much weight. I wanted to gain some muscle and my appetite was too low from the boiled potatoes, so I took a break from them for the time being.
 
 
 # 🤯
 
 
-Seriously, if you think eating boiled potatoes will make you fat, check out my [Potato Hack Diet](https://criticalmas.org/best-of/potato-hack-diet/) resource page. The potato has the highest satiety of any food on the planet. Potatoes are awesome! ![](./img/potatoes.jpg) _[Photo credit](https://flic.kr/p/fq91Fo)_
+Seriously, if you think eating boiled potatoes will make you fat, check out my [Potato Hack Diet](https://criticalmas.org/best-of/potato-hack-diet/) resource page. The potato has the highest satiety of any food on the planet. Potatoes are awesome!
+
+![](./img/potatoes.jpg)
+
+_[Photo credit](https://flic.kr/p/fq91Fo)_
 
 ---
 

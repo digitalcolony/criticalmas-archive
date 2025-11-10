@@ -9,11 +9,21 @@ description: "Last week I posted Caffeinated Delusions, which outlined my addict
 commentCount: 13
 ---
 
-Last week I posted [Caffeinated Delusions](/2012/09/caffeinated-delusions/), which outlined my addiction to caffeine and my desire to overcome that addiction. It also covered how my prior detox attempts were flawed or too short. Well I started down the path a week ago. Immediately I dropped my intake by 50% and then yesterday I dropped my levels again. Now I am down to a single espresso plus tea. It hasn't been easy. My thinking is fuzzy and my mood is much lower. I haven't had any caffeine withdrawal headaches, but my performance is way down. There have been a lot of posts on this blog about self experimentation. They can best be divided into two groups. Those that I believe that I'l have a high probability of success and those where I have far less faith. Those tests where I have higher confidence, I am more likely to post prior to the start of the test. Those were I am more filled with doubt, I keep to more to myself until the test is well under way. Of all the experiments I've done before, this is absolutely going to be the hardest. There is a raging debate on whether announcing goals make you more or less accountable. Well, I am about to find out. Here is my goal.
+Last week I posted [Caffeinated Delusions](/2012/09/caffeinated-delusions/), which outlined my addiction to caffeine and my desire to overcome that addiction. It also covered how my prior detox attempts were flawed or too short. Well I started down the path a week ago. Immediately I dropped my intake by 50% and then yesterday I dropped my levels again. Now I am down to a single espresso plus tea. It hasn't been easy. My thinking is fuzzy and my mood is much lower. I haven't had any caffeine withdrawal headaches, but my performance is way down.
+
+There have been a lot of posts on this blog about self experimentation. They can best be divided into two groups. Those that I believe that I'l have a high probability of success and those where I have far less faith. Those tests where I have higher confidence, I am more likely to post prior to the start of the test. Those were I am more filled with doubt, I keep to more to myself until the test is well under way. Of all the experiments I've done before, this is absolutely going to be the hardest.
+
+There is a raging debate on whether announcing goals make you more or less accountable. Well, I am about to find out. Here is my goal.
 
 > I will go the entire month of October without coffee. No decaf either. During this time I will drink tea, but eventually ween myself off tea until I am 100% caffeine free. I don't know how long that will take, but eventually I'd like to go at least 15 days with no caffeine. If I feel great after my goals have been met, I may extend the test longer.
 
-Today I am boxing up all my coffee equipment and storing it away. That includes my espresso machine, grinder, press pot and home coffee roaster. I will have 1 espresso with the Coffee Club of Seattle on Saturday and one on Sunday. The coffee I have already roasted up will be given away. Here we go. ![](http://farm4.staticflickr.com/3588/3575764895_52ba15da16_z.jpg "espresso") _See you November old friend._
+Today I am boxing up all my coffee equipment and storing it away. That includes my espresso machine, grinder, press pot and home coffee roaster. I will have 1 espresso with the Coffee Club of Seattle on Saturday and one on Sunday. The coffee I have already roasted up will be given away.
+
+Here we go.
+
+![](http://farm4.staticflickr.com/3588/3575764895_52ba15da16_z.jpg "espresso")
+
+_See you November old friend._
 
 ---
 

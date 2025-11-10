@@ -11,9 +11,19 @@ commentCount: 14
 
 Several people have sent me a link to the study that just came out that showed that less exercise resulted in greater fat loss. From [Study Suggests Less Is More for Exercise and Weight Loss](https://web.archive.org/web/20131112114206/http://www.wired.com/playbook/2012/08/less-is-more-for-exercise-and-weight-loss/):
 
-> If you’re looking to shape up, researchers at the University of Copenhagen say 30 minutes of rigorous exercise can be as effective as an hour when it comes to shedding weight. The team studied 60 heavy but healthy men between 20 and 40 years old who wanted to lose weight. Twenty-one were directed to get 30 minutes of aerobic exercise — running, cycling and rowing — daily. Twenty-one were told to get 60 minutes, and 18 were assigned to a control group that remained sedentary. The results showed that exercising for 30 minutes at a pace hard enough to break a sweat was sufficient to promote weight loss.
+> If you’re looking to shape up, researchers at the University of Copenhagen say 30 minutes of rigorous exercise can be as effective as an hour when it comes to shedding weight.
+> 
+> The team studied 60 heavy but healthy men between 20 and 40 years old who wanted to lose weight. Twenty-one were directed to get 30 minutes of aerobic exercise — running, cycling and rowing — daily. Twenty-one were told to get 60 minutes, and 18 were assigned to a control group that remained sedentary. The results showed that exercising for 30 minutes at a pace hard enough to break a sweat was sufficient to promote weight loss.
 
-Makes sense to me. The more you exercise, the stronger your appetite signal will be. Maybe not at first, but eventually appetite matches energy expenditure. The more time you waste running around the neighborhood or on the treadmill takes away from the time you could be spending preparing healthy food in the kitchen. You get lean in the kitchen, not in the gym. I've covered my thoughts on this topic in the April post [Fat Loss and the Case For Less Exercise](/2012/04/fat-loss-and-the-case-for-less-exercise/). ![](http://farm1.staticflickr.com/73/170324255_6e79d044e5.jpg "time") _[Photo](http://www.flickr.com/photos/zamboniandrea/170324255/) by Andrea Zamboni_ One thing I do want to say is that 30 minutes a day seems excessive to me. I'm down to [15 minutes a week](/2012/07/exercise-update-summer-2012/) and I'm as lean an collegiate volleyball player. And I haven't broken a sweat exercising in several years. The time I used to waste on exercise volume has been freed up so I can spend more time on food preparation. It is a simple economic decision. If 90% of body composition comes from diet, why would you waste so many hours exercising only to return home too exhausted or time crunched to make a nourishing meal?
+Makes sense to me. The more you exercise, the stronger your appetite signal will be. Maybe not at first, but eventually appetite matches energy expenditure. The more time you waste running around the neighborhood or on the treadmill takes away from the time you could be spending preparing healthy food in the kitchen. You get lean in the kitchen, not in the gym.
+
+I've covered my thoughts on this topic in the April post [Fat Loss and the Case For Less Exercise](/2012/04/fat-loss-and-the-case-for-less-exercise/).
+
+![](http://farm1.staticflickr.com/73/170324255_6e79d044e5.jpg "time")
+
+_[Photo](http://www.flickr.com/photos/zamboniandrea/170324255/) by Andrea Zamboni_
+
+One thing I do want to say is that 30 minutes a day seems excessive to me. I'm down to [15 minutes a week](/2012/07/exercise-update-summer-2012/) and I'm as lean an collegiate volleyball player. And I haven't broken a sweat exercising in several years. The time I used to waste on exercise volume has been freed up so I can spend more time on food preparation. It is a simple economic decision. If 90% of body composition comes from diet, why would you waste so many hours exercising only to return home too exhausted or time crunched to make a nourishing meal?
 
 ---
 

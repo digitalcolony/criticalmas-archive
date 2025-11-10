@@ -9,7 +9,11 @@ description: "I just finished reading Solving the Paleo Equation by Matt Stone a
 commentCount: 16
 ---
 
-I just finished reading _Solving the Paleo Equation_ by Matt Stone and Garrett Smith. With a minor exception, I really liked the book. The audience is not necessarily just those stuck on a Paleo diet, but any dieter that finds themselves stuck, especially those that exercise a lot. This book was an extension of some of the topics covered in Matt's book _12 Paleo Myths_. ![Solving the Paleo Equation: Stress, Nutrition, Exercise, Sleep](https://images-na.ssl-images-amazon.com/images/I/51OuYp4WETL.jpg) _Solving the Paleo Equation: Stress, Nutrition, Exercise, Sleep by Dr. Garrett Smith and Matt Stone_ The one piece of advice I had an issue with was the blanket statement in a chapter written by Dr. Smith that one shouldn't train to failure. For 99% of what people consider to be exercise, I agree that one shouldn't train to failure. Not for stress reasons primarily, but for increased risk of injury. However, for High-Intensity Training, it is fine to train to failure, provided it is done safely. In 2011, I did two posts exploring the debate of if one should train to failure.
+I just finished reading _Solving the Paleo Equation_ by Matt Stone and Garrett Smith. With a minor exception, I really liked the book. The audience is not necessarily just those stuck on a Paleo diet, but any dieter that finds themselves stuck, especially those that exercise a lot. This book was an extension of some of the topics covered in Matt's book _12 Paleo Myths_.
+
+![Solving the Paleo Equation: Stress, Nutrition, Exercise, Sleep](https://images-na.ssl-images-amazon.com/images/I/51OuYp4WETL.jpg) _Solving the Paleo Equation: Stress, Nutrition, Exercise, Sleep by Dr. Garrett Smith and Matt Stone_
+
+The one piece of advice I had an issue with was the blanket statement in a chapter written by Dr. Smith that one shouldn't train to failure. For 99% of what people consider to be exercise, I agree that one shouldn't train to failure. Not for stress reasons primarily, but for increased risk of injury. However, for High-Intensity Training, it is fine to train to failure, provided it is done safely. In 2011, I did two posts exploring the debate of if one should train to failure.
 
 -   [Training to Failure or Training to Quit](/2011/03/training-failure-training-quit/)
 -   [Training to Failure or Training to Quit Part 2](/2011/06/training-to-failure-or-training-to-quit-part-2/)
@@ -24,13 +28,19 @@ I consider Training to Failure to be a tool that I can use to meet my fitness go
 2.  Reduced training frequency. I can lift 2-3 times per week with normal intensity. If I train to failure I only need to lift once every 7-10 days. If I go to all-out negative failure at a true HIT gym (low temperatures), I could probably reduce by training to once every 2-3 weeks.
 3.  Cool temperature. This is something that affects me but may not apply to others. I discovered it is safer to go to failure when the temperature is lower. I am far less likely to get an exertion headache.
 
-The core message in the exercise section of the book is that many people exercise too much and that is stressful to the body. I agree 100% and that is why I embrace the principles of HIT and Training to Failure. It reduces the number of times I go to the gym and the time I spend exercising. I spend more time resting and recovering. And I don't get injured. What could be less stressful? If you are interested in learning how to safely exercise to failure, I highly recommend the books _Body By Science_ (gym-based) and [HillFit 2.0](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/) (bodyweight focus). An interesting side note is that on a page Matt Stone wrote in the same book, he recommends the book _Body By Science_ which discusses going to muscular failure 30 times!
+The core message in the exercise section of the book is that many people exercise too much and that is stressful to the body. I agree 100% and that is why I embrace the principles of HIT and Training to Failure. It reduces the number of times I go to the gym and the time I spend exercising. I spend more time resting and recovering. And I don't get injured. What could be less stressful?
+
+If you are interested in learning how to safely exercise to failure, I highly recommend the books _Body By Science_ (gym-based) and [HillFit 2.0](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/) (bodyweight focus). An interesting side note is that on a page Matt Stone wrote in the same book, he recommends the book _Body By Science_ which discusses going to muscular failure 30 times!
 
 
 ### Nose Breathing
 
 
-_Solving the Paleo Equation_ also makes the case that inhaling through the nose is the least stressful way to exercise. Although that advice might make sense for most exercises, it doesn't hold true for HIT. With High-Intensity Training, breathing will start slow and accelerate quickly as the set progresses. You do not want to do anything that will slow down your breathing. It is recommended that one uses a relaxed jaw. Skip to 2:30 in [this video](https://www.youtube.com/watch?v=FVhhbC51_3k). Watch and listen to Dr. McGuff perform a chest press. His jaw is relaxed and his breathing tempo accelerates as the set progresses. At 4:20 his trainer reminds him to relax his face. It would not be safe to nose breathe doing this workout. You'd get a painful exertion headache. **UPDATE:** Maybe I am wrong about nose breathing and HIT? See [The Nose Knows: A Case For Nasal Breathing During High Intensity Training](https://adamcap.com/2013/11/29/nose-knows-case-nasal-breathing-high-intensity-exercise/).
+_Solving the Paleo Equation_ also makes the case that inhaling through the nose is the least stressful way to exercise. Although that advice might make sense for most exercises, it doesn't hold true for HIT. With High-Intensity Training, breathing will start slow and accelerate quickly as the set progresses. You do not want to do anything that will slow down your breathing. It is recommended that one uses a relaxed jaw.
+
+Skip to 2:30 in [this video](https://www.youtube.com/watch?v=FVhhbC51_3k). Watch and listen to Dr. McGuff perform a chest press. His jaw is relaxed and his breathing tempo accelerates as the set progresses. At 4:20 his trainer reminds him to relax his face. It would not be safe to nose breathe doing this workout. You'd get a painful exertion headache.
+
+**UPDATE:** Maybe I am wrong about nose breathing and HIT? See [The Nose Knows: A Case For Nasal Breathing During High Intensity Training](https://adamcap.com/2013/11/29/nose-knows-case-nasal-breathing-high-intensity-exercise/).
 
 ---
 

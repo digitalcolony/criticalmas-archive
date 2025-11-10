@@ -9,13 +9,19 @@ description: "What reignited my passion for nutrition in June 2007 had nothing t
 commentCount: 5
 ---
 
-What reignited my passion for nutrition in June 2007 had nothing to do with fat loss or food intolerance. It all started with me getting sick. I was living in San Diego and I just came down with a brutal head cold. This happened a week or so after recovering from another cold. I took the premise that I could control my behavior in a way that could eliminate or greatly reduce the number of days I got sick in a given year. I'm glad I did because these days I no longer get sick. Through research and experimentation, I discovered many strategies to boost my immune system. In addition to figuring out what keeps sickness at bay, I've also been a student on what is making others sick. Thanks to social networking, I have been able to remotely learn what makes some people get sick on a more frequent basis than others. Here are the _Patterns of Sick People_.
+What reignited my passion for nutrition in June 2007 had nothing to do with fat loss or food intolerance. It all started with me getting sick. I was living in San Diego and I just came down with a brutal head cold. This happened a week or so after recovering from another cold.
+
+I took the premise that I could control my behavior in a way that could eliminate or greatly reduce the number of days I got sick in a given year. I'm glad I did because these days I no longer get sick. Through research and experimentation, I discovered many strategies to boost my immune system. In addition to figuring out what keeps sickness at bay, I've also been a student on what is making others sick. Thanks to social networking, I have been able to remotely learn what makes some people get sick on a more frequent basis than others.
+
+Here are the _Patterns of Sick People_.
 
 
 ### #1 Sleep Deprived
 
 
-I have noticed that the vast majority of those that frequently get sick are sleep deprived. They abuse caffeine and push themselves to do more with less time. Our society glamorizes the hard-charging coffee-fueled person staying up late studying or rising before dawn to go for a run. However, you can't create endless energy from stimulants and you can't out willpower required sleep. Your immune system will suffer. If you don't want to slow down on your own, _Mother Nature_ will do it for you. For more information on the importance of sleep, check out [Lights Out: Sleep, Sugar, and Survival](/2010/05/lights-out-sleep-sugar-and-survival/).
+I have noticed that the vast majority of those that frequently get sick are sleep deprived. They abuse caffeine and push themselves to do more with less time. Our society glamorizes the hard-charging coffee-fueled person staying up late studying or rising before dawn to go for a run. However, you can't create endless energy from stimulants and you can't out willpower required sleep. Your immune system will suffer. If you don't want to slow down on your own, _Mother Nature_ will do it for you.
+
+For more information on the importance of sleep, check out [Lights Out: Sleep, Sugar, and Survival](/2010/05/lights-out-sleep-sugar-and-survival/).
 
 
 ### #2 Alcohol
@@ -27,13 +33,17 @@ My observation is that those people who consume alcohol more frequently, get s
 ### #3 Cardio Junkies
 
 
-Brief high-intensity strength training or intervals supports the immune system. Long drawn-out cardio is energy foolish and stresses the immune system. Doing a 4 minute [Tabata](https://en.wikipedia.org/wiki/High-intensity_interval_training) is far better than spending an hour spinning or jogging. Chronic cardio is highly stressful and inflammatory. For more information, read [A Case Against Cardio (from a former mileage king)](https://web.archive.org/web/20231220065253/https://www.marksdailyapple.com/case-against-cardio/).
+Brief high-intensity strength training or intervals supports the immune system. Long drawn-out cardio is energy foolish and stresses the immune system. Doing a 4 minute [Tabata](https://en.wikipedia.org/wiki/High-intensity_interval_training) is far better than spending an hour spinning or jogging. Chronic cardio is highly stressful and inflammatory.
+
+For more information, read [A Case Against Cardio (from a former mileage king)](https://web.archive.org/web/20231220065253/https://www.marksdailyapple.com/case-against-cardio/).
 
 
 ### #4 Dead Food, Sanitizers
 
 
-Our world is not a sanitized place. We live in a microbial world. We have 50 trillion bacterial cells living inside us. That is ten times as many cells than make up our entire body. Eating dead food and wiping down every surface with chemicals does nothing to strengthen the bacteria inside us that need our support. I've noticed that those that get sick more frequently eat very little or no fermented foods. Parents run around with Lysol trying foolishly to defeat the invisible enemy. A better strategy would be to reduce the sugar (including grains) and add [fermented foods](https://criticalmas.org/best-of/fermentation/) to the family diet. Prior to refrigeration, fermentation was a common strategy for preserving food that harnessed the good bacteria for our benefit. I eat fermented veggies daily and never get sick.
+Our world is not a sanitized place. We live in a microbial world. We have 50 trillion bacterial cells living inside us. That is ten times as many cells than make up our entire body. Eating dead food and wiping down every surface with chemicals does nothing to strengthen the bacteria inside us that need our support.
+
+I've noticed that those that get sick more frequently eat very little or no fermented foods. Parents run around with Lysol trying foolishly to defeat the invisible enemy. A better strategy would be to reduce the sugar (including grains) and add [fermented foods](https://criticalmas.org/best-of/fermentation/) to the family diet. Prior to refrigeration, fermentation was a common strategy for preserving food that harnessed the good bacteria for our benefit. I eat fermented veggies daily and never get sick.
 
 
 ### #5 Impatient With Healing

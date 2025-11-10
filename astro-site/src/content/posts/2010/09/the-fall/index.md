@@ -8,7 +8,17 @@ description: "If you are wondering how I have been able to read so many books in
 commentCount: 6
 ---
 
-If you are wondering how I have been able to read so many books in the past month, it is because I injured myself three weeks ago. Laying on a heating pad recovering is perfect for reading. When coming down from the stairs, my brand new sock hit the slick wooden floor and I went airborne crashing down into the stairs. I hit my head and my left lower back. My head was fine. My back wasn't. Below is an artist rendering. ![](./img/stairs-1.gif "stairs-1") ![](./img/stairs-2.gif "stairs-2") ![](./img/stairs-3.gif "stairs-3") Even though I am feeling much better, I am still in some pain. Driving (left turns) and getting out of the car is where I feel the most pain. Thankfully, I have recovered enough that I can do pull-ups, push-ups and even walk for miles.
+If you are wondering how I have been able to read so many books in the past month, it is because I injured myself three weeks ago. Laying on a heating pad recovering is perfect for reading. When coming down from the stairs, my brand new sock hit the slick wooden floor and I went airborne crashing down into the stairs. I hit my head and my left lower back. My head was fine. My back wasn't.
+
+Below is an artist rendering.
+
+![](./img/stairs-1.gif "stairs-1")
+
+![](./img/stairs-2.gif "stairs-2")
+
+![](./img/stairs-3.gif "stairs-3")
+
+Even though I am feeling much better, I am still in some pain. Driving (left turns) and getting out of the car is where I feel the most pain. Thankfully, I have recovered enough that I can do pull-ups, push-ups and even walk for miles.
 
 ---
 

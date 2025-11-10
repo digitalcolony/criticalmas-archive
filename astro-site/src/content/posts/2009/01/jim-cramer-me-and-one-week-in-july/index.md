@@ -10,13 +10,23 @@ commentCount: 5
 
 On July 30th, CNBC's Jim Cramer told his viewers: **[Yes, The Market Has Bottomed](http://www.cnbc.com/id/25932873)**.
 
-> I am indeed sticking my neck out right here, right now, declaring emphatically that I believe the market will not revisit the panicked lows it hit on July 15. And I think anyone out there whos waiting for that low to be breached is in for a big disappointment, and \[theyre\] missing a great deal of upside. Stop waiting, buy the next dip because I think it might be the last big one.
+> I am indeed sticking my neck out right here, right now, declaring emphatically that I believe the market will not revisit the panicked lows it hit on July 15. And I think anyone out there whos waiting for that low to be breached is in for a big disappointment, and \[theyre\] missing a great deal of upside.
+> 
+> Stop waiting, buy the next dip because I think it might be the last big one.
 
-Cramer went on to recommend buying Lehman Brothers, Citigroup and Wachovia. ![cramer-head](./img/cramer-head.jpg "cramer-head") A week earlier on July 24th, I said **[Hope Your 401K is in Fixed Income](/2008/07/hope-your-401k-is-in-fixed-income/)**.
+Cramer went on to recommend buying Lehman Brothers, Citigroup and Wachovia.
+
+![cramer-head](./img/cramer-head.jpg "cramer-head")
+
+A week earlier on July 24th, I said **[Hope Your 401K is in Fixed Income](/2008/07/hope-your-401k-is-in-fixed-income/)**.
 
 > In a bear market **preservation of capital not appreciation of capital** is your number one goal.
 
-We know what happened next. The banks got smacked. Lehman Brothers went bust and the S&P 500 ended the year down 30% from that week in July. Cramer is a legendary stock picker from the last bull market. _Well, if you read his book, you know it was actually his wife._ The thing is we are in a secular bear market and his _mad money skillz_ don't seem to be working. Jim Cramer is not alone. An entire generation of financial professionals grew up working in the longest bull market in history and its all they know. Jim is a performer for a network that makes money from advertisers whose sole mission is to keep you fully invested in the stock market all the time. **Telling you to wait out the bear market in fixed income for a few years won't pay the bills at CNBC or Fortune magazine.** Stay tuned for my 2009 financial thoughts post. Guess what? It is far from safe to get back in the pool.
+We know what happened next. The banks got smacked. Lehman Brothers went bust and the S&P 500 ended the year down 30% from that week in July. Cramer is a legendary stock picker from the last bull market. _Well, if you read his book, you know it was actually his wife._ The thing is we are in a secular bear market and his _mad money skillz_ don't seem to be working.
+
+Jim Cramer is not alone. An entire generation of financial professionals grew up working in the longest bull market in history and its all they know. Jim is a performer for a network that makes money from advertisers whose sole mission is to keep you fully invested in the stock market all the time. **Telling you to wait out the bear market in fixed income for a few years won't pay the bills at CNBC or Fortune magazine.**
+
+Stay tuned for my 2009 financial thoughts post. Guess what? It is far from safe to get back in the pool.
 
 ---
 

@@ -26,7 +26,35 @@ As it heats up, the solid fat becomes liquid. Several hours later, the fat will 
 2.  Filter the liquid lard through a cheese cloth or coffee filter and into jars.
 3.  Place the jars into the refrigerator or freezer.
 
-My one tip would be to start this project in the morning. I foolishly started it in the afternoon and then woke up twice to monitor the progress. My 2 pounds of pork fat took about 12 hours. I may have been able to speed this up by cutting the cubes smaller. Learn your Crock Pot and adjust your start time accordingly. The 2 pounds of pork fat yielded me almost 2 full pint jars of lard. ![pork-fat](./img/pork-fat.jpg) _Pork Fat from the Farmers Market_ ![cut-pork-fat](./img/cut-pork-fat.jpg) _Cut pork fat into cubes._ ![cubed-pork-fat](./img/cubed-pork-fat.jpg) _Pork fat cubes make it into Crock Pot._ ![render-lard-crock-pot](./img/render-lard-crock-pot.jpg) _Rendering Lard_ ![rendered-lard](./img/rendered-lard.jpg) _Finished lard._ ![cooled-lard](./img/cooled-lard.jpg) _After cooling, the lard will look like this._ You can also use your Crock Pot to [render beef tallow](/2011/02/rendering-beef-tallow-in-a-crock-pot/).
+My one tip would be to start this project in the morning. I foolishly started it in the afternoon and then woke up twice to monitor the progress. My 2 pounds of pork fat took about 12 hours. I may have been able to speed this up by cutting the cubes smaller. Learn your Crock Pot and adjust your start time accordingly.
+
+The 2 pounds of pork fat yielded me almost 2 full pint jars of lard.
+
+![pork-fat](./img/pork-fat.jpg)
+
+_Pork Fat from the Farmers Market_
+
+![cut-pork-fat](./img/cut-pork-fat.jpg)
+
+_Cut pork fat into cubes._
+
+![cubed-pork-fat](./img/cubed-pork-fat.jpg)
+
+_Pork fat cubes make it into Crock Pot._
+
+![render-lard-crock-pot](./img/render-lard-crock-pot.jpg)
+
+_Rendering Lard_
+
+![rendered-lard](./img/rendered-lard.jpg)
+
+_Finished lard._
+
+![cooled-lard](./img/cooled-lard.jpg)
+
+_After cooling, the lard will look like this._
+
+You can also use your Crock Pot to [render beef tallow](/2011/02/rendering-beef-tallow-in-a-crock-pot/).
 
 ---
 

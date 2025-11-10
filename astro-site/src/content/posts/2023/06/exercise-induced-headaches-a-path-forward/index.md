@@ -8,13 +8,31 @@ description: "I found an interesting discussion between Doug McGuff and Drew Bay
 commentCount: 16
 ---
 
-I found an interesting discussion between Doug McGuff and Drew Baye on YouTube. One of the topics they covered was exercise-induced headaches. This is something I experienced regularly when I did High Intensity Training. It is also the reason that I traded that intensity for more volume at a lower intensity. [Doug McGuff MD Talks with Drew Baye About HIT, Cardio, and EIH](https://www.youtube.com/watch?v=ixhbTY3LyFU) Dr. McGuff explains what causes these headaches in technical terms around the 30-minute mark. The simple version is when the intensity gets high enough, the blood returning to the heart exceeds its capacity - the stretch in the heart. At that point, the blood will "jam up" and rise above the nipple line. And if that happens with enough pressure, it stretches part of the sinuses, which causes the headache. Something that was not discussed was the role that temperature plays in these headaches. Probably because they both keep their gyms at 61 F, which is about 10 degrees cooler than my gym. I fought for years to get my gym to lower the temperature, but they wouldn't. I learned that the gym temperature is set for the comfort of the staff and that I was the only one member complaining. So I stopped complaining and stopped exercising to failure. See my 2013 post: [Why I Traded Volume for Intensity at the Glitter Gym](/2013/08/why-i-traded-volume-for-intensity-at-the-glitter-gym/). Other gyms, which are less convenient for me, \*might\* be a few degrees cooler, but not enough to justify the higher cost and commute. ![](./img/headache-runner.jpg) _I made this on DALL-E._
+I found an interesting discussion between Doug McGuff and Drew Baye on YouTube. One of the topics they covered was exercise-induced headaches. This is something I experienced regularly when I did High Intensity Training. It is also the reason that I traded that intensity for more volume at a lower intensity.
+
+[Doug McGuff MD Talks with Drew Baye About HIT, Cardio, and EIH](https://www.youtube.com/watch?v=ixhbTY3LyFU)
+
+Dr. McGuff explains what causes these headaches in technical terms around the 30-minute mark. The simple version is when the intensity gets high enough, the blood returning to the heart exceeds its capacity - the stretch in the heart. At that point, the blood will "jam up" and rise above the nipple line. And if that happens with enough pressure, it stretches part of the sinuses, which causes the headache.
+
+Something that was not discussed was the role that temperature plays in these headaches. Probably because they both keep their gyms at 61 F, which is about 10 degrees cooler than my gym. I fought for years to get my gym to lower the temperature, but they wouldn't. I learned that the gym temperature is set for the comfort of the staff and that I was the only one member complaining.
+
+So I stopped complaining and stopped exercising to failure. See my 2013 post: [Why I Traded Volume for Intensity at the Glitter Gym](/2013/08/why-i-traded-volume-for-intensity-at-the-glitter-gym/). Other gyms, which are less convenient for me, \*might\* be a few degrees cooler, but not enough to justify the higher cost and commute.
+
+![](./img/headache-runner.jpg)
+
+_I made this on DALL-E._
 
 
 ### 2 Tips
 
 
-The McGuff + Baye discussion did have 2 tips. The first was to save the exercise that is most likely to trigger the headache for last. For me, that was always the leg press. This tip seems obvious in retrospect. If I can pre-fatigue with the other exercises, then even if I get a headache on the last exercise, I can still have a good workout. Plus that fatigue would have the benefit of reducing my intensity a bit. The second tip was new to me. McGuff explained in detail how increasing neck strength could help deal with the pressure as the blood goes to stretch the sinuses. I'm probably like most gym patrons, in that I never do strength work on my neck. I don't even think about it. My gym doesn't even have a neck machine. Do any modern gyms have one still? I'm now interested in seeing if building a stronger neck might give me a path back to some of the "go-to-failure" exercises that I had to abandon years ago. I'm heading over to YouTube now. If you have any tips - either on avoiding exercise-induced headaches or building neck strength (without a dedicated machine) drop a comment.
+The McGuff + Baye discussion did have 2 tips. The first was to save the exercise that is most likely to trigger the headache for last. For me, that was always the leg press. This tip seems obvious in retrospect. If I can pre-fatigue with the other exercises, then even if I get a headache on the last exercise, I can still have a good workout. Plus that fatigue would have the benefit of reducing my intensity a bit.
+
+The second tip was new to me. McGuff explained in detail how increasing neck strength could help deal with the pressure as the blood goes to stretch the sinuses.
+
+I'm probably like most gym patrons, in that I never do strength work on my neck. I don't even think about it. My gym doesn't even have a neck machine. Do any modern gyms have one still?
+
+I'm now interested in seeing if building a stronger neck might give me a path back to some of the "go-to-failure" exercises that I had to abandon years ago. I'm heading over to YouTube now. If you have any tips - either on avoiding exercise-induced headaches or building neck strength (without a dedicated machine) drop a comment.
 
 ---
 

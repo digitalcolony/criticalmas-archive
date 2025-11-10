@@ -9,25 +9,41 @@ description: "My previous post I No Longer Give a Squat About the Squat, I outli
 commentCount: 58
 ---
 
-My previous post [I No Longer Give a Squat About the Squat](/2012/06/i-no-longer-give-a-squat-about-the-squat/), I outlined why I no longer perform the barbell back squat. This post will list the exercises I've used to replace weight lifting's most sacred exercise. Before I begin, I want to clarify that I am not a personal trainer and the only client I've trained has been myself. I approach fitness in the same manner that I approach investing, which is a risk versus reward model. The squat, without a doubt, can provide huge rewards, but I believe the risk of injury increases over time. To have strong legs, I do not believe it is necessary to back squat.
+My previous post [I No Longer Give a Squat About the Squat](/2012/06/i-no-longer-give-a-squat-about-the-squat/), I outlined why I no longer perform the barbell back squat. This post will list the exercises I've used to replace weight lifting's most sacred exercise. Before I begin, I want to clarify that I am not a personal trainer and the only client I've trained has been myself. I approach fitness in the same manner that I approach investing, which is a risk versus reward model. The squat, without a doubt, can provide huge rewards, but I believe the risk of injury increases over time.
+
+To have strong legs, I do not believe it is necessary to back squat.
 
 
 ### A Humbling Lesson From Pete Egoscue That I Ignored
 
 
-During my squat heydays around 2001 - 2004, I was dealing with frequent back pain. It was during this time that I started reading Pete Egoscue. His books had a series of exercises used to correct alignment problems. One of the exercises in the book was an _Air Bench_. This is also called a _Wall Sit_ in the [Hillfit: Strength](/2012/01/hillfit-strength-is-not-just-for-hikers/) program and _Wall Squat_ elsewhere. What I learned very quickly is just how difficult this simple exercise can be. Even though I was squatting more than bodyweight for reps, my legs would burn more on a 60-second _Wall Squat_. At the time, I didn't understand why the _Wall Squat_ seemed to produce so much muscle fatigue. I was still in the [Pavel](/2011/03/power-people-10-years/) school then - which places greater importance on demonstrating strength without going to failure. But I was a good _comrade_, so I stopped doing the _Wall Squat_ to failure and returned to my free weights. The lesson I should have taken away from that was that the number of pounds lifted is a less important metric than intensity, which is more difficult to quantify. When I did _Wall Squats,_ my leg muscles felt more taxed. When I did the back squats, my entire body felt destroyed, including, at times, my back.
+During my squat heydays around 2001 - 2004, I was dealing with frequent back pain. It was during this time that I started reading Pete Egoscue. His books had a series of exercises used to correct alignment problems. One of the exercises in the book was an _Air Bench_. This is also called a _Wall Sit_ in the [Hillfit: Strength](/2012/01/hillfit-strength-is-not-just-for-hikers/) program and _Wall Squat_ elsewhere.
+
+What I learned very quickly is just how difficult this simple exercise can be. Even though I was squatting more than bodyweight for reps, my legs would burn more on a 60-second _Wall Squat_. At the time, I didn't understand why the _Wall Squat_ seemed to produce so much muscle fatigue. I was still in the [Pavel](/2011/03/power-people-10-years/) school then - which places greater importance on demonstrating strength without going to failure. But I was a good _comrade_, so I stopped doing the _Wall Squat_ to failure and returned to my free weights.
+
+The lesson I should have taken away from that was that the number of pounds lifted is a less important metric than intensity, which is more difficult to quantify. When I did _Wall Squats,_ my leg muscles felt more taxed. When I did the back squats, my entire body felt destroyed, including, at times, my back.
 
 
 ### Sequential Muscle Fiber Activation
 
 
-After I read the book _Body By Science by McGuff and Little_, I understood why the _Wall Squat_ produced such a deep level of fatigue rapidly. By placing the body into a static hold, at first, the slow-twitch muscle fibers are engaged. They are fatigue-resistant and recover quickly. These are the dominant fibers used in endurance sports. If the slow-twitch muscles become fatigued, then the more energy-expensive fast-twitch muscle fibers are engaged. They have a lot more power, but they fatigue much faster and take longer to recover. When you perform a Wall Squat, the first half of the exercise is designed to fatigue the slow-twitch muscle fibers without allowing them the ability to recover. The goal is to knock out the slow-twitch fibers so you can directly target the larger fast-twitch muscle fibers. This is where the exercise gets difficult. Trust me when I say that a single Wall Squat taken to total failure can produce as much muscular fatigue as a [20-mile hike](https://criticalmas.org/best-of/urban-hiking/). Not every person will want to train to failure. I covered this in the post [Training to Failure or Training to Quit Part 2](/2011/06/training-to-failure-or-training-to-quit-part-2/). Because I have the freedom to have down days post-workout, going to failure works for me. If you are an in-season athlete, law enforcement, or military and need to be near peak performance daily, then training to failure may not be wise. ![Body by Science](https://images-na.ssl-images-amazon.com/images/I/51DXynBp-CL.jpg) _Body by Science by Doug McGuff and John Little_
+After I read the book _Body By Science by McGuff and Little_, I understood why the _Wall Squat_ produced such a deep level of fatigue rapidly. By placing the body into a static hold, at first, the slow-twitch muscle fibers are engaged. They are fatigue-resistant and recover quickly. These are the dominant fibers used in endurance sports. If the slow-twitch muscles become fatigued, then the more energy-expensive fast-twitch muscle fibers are engaged. They have a lot more power, but they fatigue much faster and take longer to recover.
+
+When you perform a Wall Squat, the first half of the exercise is designed to fatigue the slow-twitch muscle fibers without allowing them the ability to recover. The goal is to knock out the slow-twitch fibers so you can directly target the larger fast-twitch muscle fibers. This is where the exercise gets difficult.
+
+Trust me when I say that a single Wall Squat taken to total failure can produce as much muscular fatigue as a [20-mile hike](https://criticalmas.org/best-of/urban-hiking/). Not every person will want to train to failure. I covered this in the post [Training to Failure or Training to Quit Part 2](/2011/06/training-to-failure-or-training-to-quit-part-2/). Because I have the freedom to have down days post-workout, going to failure works for me. If you are an in-season athlete, law enforcement, or military and need to be near peak performance daily, then training to failure may not be wise.
+
+![Body by Science](https://images-na.ssl-images-amazon.com/images/I/51DXynBp-CL.jpg)
+
+_Body by Science by Doug McGuff and John Little_
 
 
 ### Exercise Safety
 
 
-When I engage in an exercise, I want the ability to work to failure at ANY point during the repetition safely. Back to the _Wall Squat, t_he worst-case safety scenario for that movement is my legs completely give out and I'm forced to lower my body into a sitting position. Because I can safely hit failure without the risk of injury, I can focus entirely on generating more intensity. You can't do that with the Barbell Back Squat. When you begin a descent, you need to know you have enough strength left in the movement at any time to stand up and rack the weights. Exercising to failure is not an option with the squat. You'll hurt yourself. Because you can't safely exercise to failure with a barbell back squat, the intensity is replaced with an increase in volume. That might be great for your legs, but in my opinion, it is subjecting your back and spine to unnecessary stress.
+When I engage in an exercise, I want the ability to work to failure at ANY point during the repetition safely. Back to the _Wall Squat, t_he worst-case safety scenario for that movement is my legs completely give out and I'm forced to lower my body into a sitting position. Because I can safely hit failure without the risk of injury, I can focus entirely on generating more intensity.
+
+You can't do that with the Barbell Back Squat. When you begin a descent, you need to know you have enough strength left in the movement at any time to stand up and rack the weights. Exercising to failure is not an option with the squat. You'll hurt yourself. Because you can't safely exercise to failure with a barbell back squat, the intensity is replaced with an increase in volume. That might be great for your legs, but in my opinion, it is subjecting your back and spine to unnecessary stress.
 
 
 ### The Squat Replacement Exercises
@@ -41,7 +57,9 @@ Here are the exercises that I have used to replace the barbell back squat.
 4.  **Wall Squat / Wall Sit / Air Bench** - As discussed above. Check out the book [Hillfit: Strength](/2012/01/hillfit-strength-is-not-just-for-hikers/) if you wish to design an entire fitness plan around this exercise.
 5.  **Park Squat** - This is something I just named that was part of my [Outdoor HIT](/2011/11/escaping-the-glitter-taking-high-intensity-training-outdoors/) protocol. It starts as a bodyweight squat or bodyweight plus kettlebell (goblet style). Perform a few squats at a normal pace using a full range. As fatigue starts to set in slow the pace and reduce the range. When the movement gets too difficult drop the kettlebell (if you have one) and then freeze into a static hold. Hang on until you can't stand it anymore.
 
-The exercises I listed are based upon High-Intensity Training, but they can all still be done safely if you prefer to do a more standard volume approach. If you are new to High-Intensity Training, learning how to breathe is important. Go slack-jawed and don't hold your breath. You do not want jaw tension. Because I follow High-Intensity Training, I only do one set to failure once every 5-7 days. I have more leg strength now than when I was back squatting, and none of the pain.
+The exercises I listed are based upon High-Intensity Training, but they can all still be done safely if you prefer to do a more standard volume approach. If you are new to High-Intensity Training, learning how to breathe is important. Go slack-jawed and don't hold your breath. You do not want jaw tension.
+
+Because I follow High-Intensity Training, I only do one set to failure once every 5-7 days. I have more leg strength now than when I was back squatting, and none of the pain.
 
 ---
 

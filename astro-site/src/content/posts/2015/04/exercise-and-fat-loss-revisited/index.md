@@ -17,11 +17,21 @@ Followed by:
 
 > Then, when I stopped exercising so much at the end of the summer, I experienced a great deal of fatigue and rebound hunger, leading to a quick replenishment of my fat stores with usually 5-10 pounds of extra blubber compared to where I was at during the spring.
 
-In short, he got lean, then colder, then heavier. In 2012, I did a 5 part blog series on how exercise fails to work for fat loss because we aren't looking at a long enough time horizon to judge its effectiveness. In the post [How Exercise Indirectly Kept me Fatter](/2012/04/how-exercise-indirectly-kept-me-fatter/), I explained how my experience was similar to that of Matt.
+In short, he got lean, then colder, then heavier.
+
+In 2012, I did a 5 part blog series on how exercise fails to work for fat loss because we aren't looking at a long enough time horizon to judge its effectiveness. In the post [How Exercise Indirectly Kept me Fatter](/2012/04/how-exercise-indirectly-kept-me-fatter/), I explained how my experience was similar to that of Matt.
 
 > Although in the short term, it appeared at times that exercise helped me get leaner, when looked at over a longer time frame it didn’t. Exercise increased my appetite and as long as I kept exercising my weight was in check. However, whenever volume increased past my body’s ability to recover, I was sidelined. During the periods of being sidelined, my appetite always exceeded activity and fat gain occurred.
 
-I wonder if my body temperature was lower. Almost wish I could go back in time and find out, but I did have other signs of reduced metabolic rate, so I suspect it might have been. Many top fitness professionals disagree with the premise that exercising more can lead to weight gain. I think it all comes down to recoverability. If you can increase activity and calories and still recover fully in time for the next exercise sessions, then all is well. However, if you can't, exercising more is likely to create problems down the road. ![15k-run](./img/15k-run.jpg) _I believe that higher volumes of exercise increased my appetite and reduced metabolism, which lead to weight gain later._ From my post [Fat Loss and the Case For Less Exercise](/2012/04/fat-loss-and-the-case-for-less-exercise/):
+I wonder if my body temperature was lower. Almost wish I could go back in time and find out, but I did have other signs of reduced metabolic rate, so I suspect it might have been.
+
+Many top fitness professionals disagree with the premise that exercising more can lead to weight gain. I think it all comes down to recoverability. If you can increase activity and calories and still recover fully in time for the next exercise sessions, then all is well. However, if you can't, exercising more is likely to create problems down the road.
+
+![15k-run](./img/15k-run.jpg)
+
+_I believe that higher volumes of exercise increased my appetite and reduced metabolism, which lead to weight gain later._
+
+From my post [Fat Loss and the Case For Less Exercise](/2012/04/fat-loss-and-the-case-for-less-exercise/):
 
 > 1\. The limiting factor in exercise is not desire, it is recoverability and results. Without sufficient time for recovery, results will be limited and risk of injury will increase. 2. Some people have amazing recoverability skills. Modelling your workout with the gifted is a mistake. 3. During periods of injury recovery, appetite does not fall to baseline. 4. The #1 way to maximize results is don’t get injured. 5. Injuries are most likely to happen when volume is too high and recoverability time is too short. The importance of quality sleep can not be overstated. Never sacrifice sleep for exercise.
 

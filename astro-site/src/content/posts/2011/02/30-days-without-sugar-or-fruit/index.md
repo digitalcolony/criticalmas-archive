@@ -9,7 +9,17 @@ description: "I love a good experiment and I'm about to start a new one. I've do
 commentCount: 7
 ---
 
-I love a good experiment and I'm about to start a new one. I've done 30 days without sugar and 30 days without fruit, but not at the same time. Yesterday I realized that if I really want to test the effects of removing fructose from my diet, then I need to remove both for 30 days. I may have drawn false conclusions from [my previous test](/2010/06/after-30-days-without-sugar/). Although I had intended to [cut my sugar and fruit intake over winter to near zero](/2010/12/winter-strategies-for-nutrition-and-fitness/), I haven't been successful. The [daily 16 hour fasts](/2010/02/intermittent-fasting-improving-your-success-rate-a-new-strategy/) have had both positive and negative effects. One of the negative effects is my sweet tooth, which was dormant for so long, seems stronger than before. Note that my idea of a "sweet tooth" is not the same as your average food court customer. It is much lower, but it is still double my normal low levels. This winter I've had more headaches than I've had since [giving up gluten](/2010/08/life-without-gluten/) over a year ago. The headaches come on while I am sleeping (around 3 AM to 4 AM) and are sinus in nature. I don't think it is a fructose issue, but I'm not 100% sure, which is why I am doing this 30-day test. Tomorrow is March 1st. It begins then. ![dark-chocolate](./img/dark-chocolate.jpg) _See you April Mr. Chocolate?_
+I love a good experiment and I'm about to start a new one. I've done 30 days without sugar and 30 days without fruit, but not at the same time. Yesterday I realized that if I really want to test the effects of removing fructose from my diet, then I need to remove both for 30 days. I may have drawn false conclusions from [my previous test](/2010/06/after-30-days-without-sugar/).
+
+Although I had intended to [cut my sugar and fruit intake over winter to near zero](/2010/12/winter-strategies-for-nutrition-and-fitness/), I haven't been successful. The [daily 16 hour fasts](/2010/02/intermittent-fasting-improving-your-success-rate-a-new-strategy/) have had both positive and negative effects. One of the negative effects is my sweet tooth, which was dormant for so long, seems stronger than before. Note that my idea of a "sweet tooth" is not the same as your average food court customer. It is much lower, but it is still double my normal low levels.
+
+This winter I've had more headaches than I've had since [giving up gluten](/2010/08/life-without-gluten/) over a year ago. The headaches come on while I am sleeping (around 3 AM to 4 AM) and are sinus in nature. I don't think it is a fructose issue, but I'm not 100% sure, which is why I am doing this 30-day test.
+
+Tomorrow is March 1st. It begins then.
+
+![dark-chocolate](./img/dark-chocolate.jpg)
+
+_See you April Mr. Chocolate?_
 
 ---
 

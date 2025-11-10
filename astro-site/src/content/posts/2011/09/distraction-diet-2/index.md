@@ -13,13 +13,21 @@ Last year I announced that I was going on a [Distraction Diet](/2010/08/going-on
 
 > For the month of August, I am going to stay off Facebook and Twitter\*, as I believe those are the two sites that are doing the most damage to my thinking. The design, whether conscious or not, exploits our primitive neural pathways to value current data above all else. Anyone that has spent anytime on these sites knows that the latest status update or Tweet is what our brains crave, but are almost always worthless bits of information. Instead of recognizing this, we keep pressing links and buttons like mice in a laboratory.
 
-How did my Distraction Diet work out? [I failed](/2010/08/facebook-won-i-surrender/). I can give up bread for two years, but I couldn't make it a full week away from the social networks. I still have the same concerns about the distracting nature of social networking and email, so I've decided to take a more realistic approach to this problem. Shunning social networking for weeks or a month doesn't solve the problem. It just pushes it to the future. I decided to frame this problem like I did when I made the transition from 5-6 meals a day to embracing [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/). In early 2008, I would eat my first meal at 6 AM and my last snack close to 10 PM. My eating window was 18 hours. These days my eating window is usually between 8 and 12 hours. The result is food is no longer on my mind all the time. Now to apply that strategy to online behavior.
+How did my Distraction Diet work out? [I failed](/2010/08/facebook-won-i-surrender/).
+
+I can give up bread for two years, but I couldn't make it a full week away from the social networks. I still have the same concerns about the distracting nature of social networking and email, so I've decided to take a more realistic approach to this problem. Shunning social networking for weeks or a month doesn't solve the problem. It just pushes it to the future.
+
+I decided to frame this problem like I did when I made the transition from 5-6 meals a day to embracing [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/). In early 2008, I would eat my first meal at 6 AM and my last snack close to 10 PM. My eating window was 18 hours. These days my eating window is usually between 8 and 12 hours. The result is food is no longer on my mind all the time. Now to apply that strategy to online behavior.
 
 
 ### Early Morning Reading
 
 
-For a few years now, when I wake up I do not turn on my computer. Instead I take time to read a book, usually about 60 to 90 minutes. Back when I was really into finance, I would jump out of bed, pop on the computer and read financial news and blogs before the opening bell (6:30 AM PT). Slamming coffee and consuming massive amounts of financial news before the sun rose eventually became too stressful. ![](./img/bernanke-tim.jpg "bernanke-tim") _Reading a book is a more peaceful way to start my morning than following the exploits about these two clowns. Photo by [The IMF](http://www.flickr.com/photos/imfphoto/5622721320/in/photostream/)._ I also realized that once the computer was on, it was too difficult to read books. Pixels had a stronger pull than print. So I front-loaded my reading to take place before I even turned on my PC. This technique has been phenomenally successful for me. I've read more books in the past 3 years than the rest of my life combined.
+For a few years now, when I wake up I do not turn on my computer. Instead I take time to read a book, usually about 60 to 90 minutes. Back when I was really into finance, I would jump out of bed, pop on the computer and read financial news and blogs before the opening bell (6:30 AM PT). Slamming coffee and consuming massive amounts of financial news before the sun rose eventually became too stressful.
+
+![](./img/bernanke-tim.jpg "bernanke-tim") _Reading a book is a more peaceful way to start my morning than following the exploits about these two clowns. Photo by [The IMF](http://www.flickr.com/photos/imfphoto/5622721320/in/photostream/)._
+
+I also realized that once the computer was on, it was too difficult to read books. Pixels had a stronger pull than print. So I front-loaded my reading to take place before I even turned on my PC. This technique has been phenomenally successful for me. I've read more books in the past 3 years than the rest of my life combined.
 
 
 ### No Stock Quotes During Trading Hours
@@ -31,13 +39,17 @@ I'm about 75% cured of my addiction to financial news. Unless you are actively t
 ### 2 Desktops
 
 
-Several months ago I installed a freeware program for my PC called VirtuaWin. With it I am able to create 2 desktops, although you could create more. For me, Desktop 1 is my FUN desktop. It is where my email, Netflix, Facebook and regular surfing take place. The wallpaper is a Seattle background. Desktop 2 has a desert background. It is my WORK desktop. Here is where I use SQL Server, Visual Studio and graphics programs. After I catch up on my email and social networking on my FUN Desktop, I'll "_go to work_" by switching over to my WORK desktop. Two different worlds. Even though I am just a hotkey away from the FUN desktop, it has worked. This program provides a mental separation that is helping me minimize distractions. I'm getting far more work done using this tool.
+Several months ago I installed a freeware program for my PC called VirtuaWin. With it I am able to create 2 desktops, although you could create more. For me, Desktop 1 is my FUN desktop. It is where my email, Netflix, Facebook and regular surfing take place. The wallpaper is a Seattle background. Desktop 2 has a desert background. It is my WORK desktop. Here is where I use SQL Server, Visual Studio and graphics programs.
+
+After I catch up on my email and social networking on my FUN Desktop, I'll "_go to work_" by switching over to my WORK desktop. Two different worlds. Even though I am just a hotkey away from the FUN desktop, it has worked. This program provides a mental separation that is helping me minimize distractions. I'm getting far more work done using this tool.
 
 
 ### Evening Disconnect
 
 
-Using the above strategies I would do fine until around 6 PM. Then I'd be mentally vulnerable to the distracting nature of email and social networking. Like a bug to the light, I'd keep peeking around for an update of some kind. The updates were rarely valuable, but occasionally I'd get drawn into responding to stressful email or discussion thread. Two weeks ago, I had a terrible night sleep because I got riled up over an email that I received minutes before heading to sleep. The new strategy that I am now testing is that I turn off my email and disconnect from all social networking and discussion forums before 7 PM. Checking email right up until bedtime was making me too anxious. The last two weeks have been calm evenings and I am fighting the urge to check something, but it is working so far.
+Using the above strategies I would do fine until around 6 PM. Then I'd be mentally vulnerable to the distracting nature of email and social networking. Like a bug to the light, I'd keep peeking around for an update of some kind. The updates were rarely valuable, but occasionally I'd get drawn into responding to stressful email or discussion thread. Two weeks ago, I had a terrible night sleep because I got riled up over an email that I received minutes before heading to sleep.
+
+The new strategy that I am now testing is that I turn off my email and disconnect from all social networking and discussion forums before 7 PM. Checking email right up until bedtime was making me too anxious. The last two weeks have been calm evenings and I am fighting the urge to check something, but it is working so far.
 
 
 ### Other Ideas?

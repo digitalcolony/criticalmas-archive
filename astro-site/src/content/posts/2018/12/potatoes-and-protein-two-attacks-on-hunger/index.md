@@ -8,12 +8,22 @@ description: "I have an observation that I want to share about my Potatoes and P
 commentCount: 3
 ---
 
-I have an observation that I want to share about my [Potatoes and Protein Diet](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/). This may just be my experience, so I'd like your feedback if you are experiencing the same thing. There are two waves of hunger:
+I have an observation that I want to share about my [Potatoes and Protein Diet](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/). This may just be my experience, so I'd like your feedback if you are experiencing the same thing.
+
+There are two waves of hunger:
 
 1.  At the meal
 2.  Between meals
 
-What I have discovered is that boiled potatoes are king when it comes to crushing appetite while eating. Better than protein. However, high protein increases the time I feel full longer. It is a better tool for tackling mid-meal hunger. Potatoes are the artillery. Protein is the ground forces. I don't know if there is science to support my experience, but on those meals where my protein is higher and my potatoes are lower, I walk away less full in that moment, but a greater sense of fullness kicks in later. To test this idea yourself, if you feel you need more food to quiet hunger while you are eating, increase the potatoes. If you feel you get hungry too soon after a meal, increase the protein. If both, find your balance with experimentation. ![protein-or-potatoes](./img/protein-or-potatoes.jpg)
+What I have discovered is that boiled potatoes are king when it comes to crushing appetite while eating. Better than protein. However, high protein increases the time I feel full longer. It is a better tool for tackling mid-meal hunger.
+
+Potatoes are the artillery. Protein is the ground forces.
+
+I don't know if there is science to support my experience, but on those meals where my protein is higher and my potatoes are lower, I walk away less full in that moment, but a greater sense of fullness kicks in later.
+
+To test this idea yourself, if you feel you need more food to quiet hunger while you are eating, increase the potatoes. If you feel you get hungry too soon after a meal, increase the protein. If both, find your balance with experimentation.
+
+![protein-or-potatoes](./img/protein-or-potatoes.jpg)
 
 ---
 

@@ -9,17 +9,23 @@ description: "More than a decade ago, I saw the Paleo movement get hijacked by t
 commentCount: 7
 ---
 
-More than a decade ago, I saw the Paleo movement get hijacked by the low-carb zealots. Initially, I fell for some of the lies about carbs, but well before keto and later carnivore came around, I had already dismissed them. Carbs are awesome. I could easily do an [entire post on why I dislike the keto and carnivore diets](/2023/11/keto-and-carnivore-diets-were-always-a-no-for-me/) if there is interest. But for this post, I'm going to check in with a few of those influencers who made both diets so popular.
+More than a decade ago, I saw the Paleo movement get hijacked by the low-carb zealots. Initially, I fell for some of the lies about carbs, but well before keto and later carnivore came around, I had already dismissed them. Carbs are awesome.
+
+I could easily do an [entire post on why I dislike the keto and carnivore diets](/2023/11/keto-and-carnivore-diets-were-always-a-no-for-me/) if there is interest. But for this post, I'm going to check in with a few of those influencers who made both diets so popular.
 
 
 ### Peter Attia and Gary Taubes
 
 
-Remember how Attia and Taubes teamed up to form NuSI which was going to show the world that carbs were the bad guys? From the Wired article _The Struggles of a $40 Million Nutrition Science Crusade_:
+Remember how Attia and Taubes teamed up to form NuSI which was going to show the world that carbs were the bad guys?
+
+From the Wired article _The Struggles of a $40 Million Nutrition Science Crusade_:
 
 > At the heart of their mission was the decades-old question of whether all calories are, in fact, created equal. The mainstream view is that it’s simply an excess of calories that makes people fat—no matter whether those calories come from a bagel or a steak or a bowl of broccoli. Taubes and Attia subscribe to a growing minority stance, dubbed the carbohydrate/insulin or C/I hypothesis, that contends obesity is caused by an excess of insulin driving energy into fat stores. In other words, _carbs_ make people fat.
 
-How did that work out? NuSI failed to prove its thesis and the organization dissolved. Attia shifted his nutritional advice to protein and stopped talking about carbs. It's all about energy balance now. Taubes is still pimping the low-carb gospel and was never able (or willing) to keep the NuSI site online after [I called them out on Twitter](/2022/01/blogging-was-doomed-to-fail/).
+How did that work out? NuSI failed to prove its thesis and the organization dissolved. Attia shifted his nutritional advice to protein and stopped talking about carbs. It's all about energy balance now.
+
+Taubes is still pimping the low-carb gospel and was never able (or willing) to keep the NuSI site online after [I called them out on Twitter](/2022/01/blogging-was-doomed-to-fail/).
 
 
 ### Dr. Mercola
@@ -31,7 +37,9 @@ Mercola went from writing books and doing podcasts supporting the keto diet to c
 ### Jimmy Moore
 
 
-Jimmy Moore has been well-known in the Paleo and low-carb communities for over a decade. Through books and podcasts, Jimmy reached many people with keto propaganda. What is _Living La Vida Low Carb_ Jimmy doing these days? 20 years in prison for the sexual abuse of a 13-year-old girl. I doubt he is still keto.
+Jimmy Moore has been well-known in the Paleo and low-carb communities for over a decade. Through books and podcasts, Jimmy reached many people with keto propaganda.
+
+What is _Living La Vida Low Carb_ Jimmy doing these days? 20 years in prison for the sexual abuse of a 13-year-old girl. I doubt he is still keto.
 
 
 ### Paul Saladino
@@ -41,13 +49,19 @@ The Carnivore MD says he was wrong about carbs. Check out his interview [5 Thing
 
 > Paul Saladino discusses how his views on carbohydrates and insulin have changed since his carnivore diet days. He admits that he used to believe insulin and carbohydrates were all bad all the time, but now recognizes the importance of carbohydrates for various aspects of health, such as hormone production, brain function, glutathione production, and mineral absorption. He also highlights the role of carbohydrates in improving athletic performance, testosterone levels, recovery, and sleep.
 
-If you are keto, carb-phobic, and open-minded, check out the first half of that interview when he discusses carbs, insulin, and fasting. ![](./img/potatoes-several.jpg) _Potatoes by [Lars Blankers](https://unsplash.com/@lmablankers?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)_
+If you are keto, carb-phobic, and open-minded, check out the first half of that interview when he discusses carbs, insulin, and fasting.
+
+![](./img/potatoes-several.jpg)
+
+_Potatoes by [Lars Blankers](https://unsplash.com/@lmablankers?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)_
 
 
 ### Last Words
 
 
-There are more examples of health influencers abandoning keto and carnivore, but this post is long enough. The trend is towards healthy carbs. I called it more than a decade ago. It was always nonsense to demonize carbs when there are examples of lean healthy indigenous populations that thrived on starchy tubers, legumes, fruits, and vegetables. For the upset low-carber, this post is not anti-keto. This post is pro-carbs.
+There are more examples of health influencers abandoning keto and carnivore, but this post is long enough. The trend is towards healthy carbs. I called it more than a decade ago. It was always nonsense to demonize carbs when there are examples of lean healthy indigenous populations that thrived on starchy tubers, legumes, fruits, and vegetables.
+
+For the upset low-carber, this post is not anti-keto. This post is pro-carbs.
 
 ---
 

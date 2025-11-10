@@ -9,7 +9,15 @@ description: "For the past two years, I have done numerous posts on nutritional 
 commentCount: 11
 ---
 
-For the past two years, I have done numerous posts on nutritional topics. I've documented and shared the huge improvements in my health that I've had once I adopted a lower-carbohydrate and more paleo diet. During the real estate and stock market bubble, I witnessed how conventional financial wisdom was wrong. _Real estate doesn't always go up and it is not always a great time to invest in the stock market._ As bad as Americans are being lied to on the financial markets, the nutritional lies are far worse. Several of my friends and readers of this site have been inspired by my nutritional journey and have made positive changes to their diet. **I have 3 friends that have lost more than 60 pounds and many more that are 20-30 pounds lighter.** I'm not the only one that has figured out that the paleo diet works. There is now a widespread low-carb/paleo blogger community. ![beef-short-ribs](./img/beef-short-ribs.jpg) _100% grass-fed - Beef short ribs_ The message that conventional nutritional wisdom is wrong and that a pre-agricultural diet is superior for optimal health is growing. However, I have noticed a clear pattern of who is listening to the message and who is ignoring it.
+For the past two years, I have done numerous posts on nutritional topics. I've documented and shared the huge improvements in my health that I've had once I adopted a lower-carbohydrate and more paleo diet. During the real estate and stock market bubble, I witnessed how conventional financial wisdom was wrong. _Real estate doesn't always go up and it is not always a great time to invest in the stock market._ As bad as Americans are being lied to on the financial markets, the nutritional lies are far worse.
+
+Several of my friends and readers of this site have been inspired by my nutritional journey and have made positive changes to their diet. **I have 3 friends that have lost more than 60 pounds and many more that are 20-30 pounds lighter.** I'm not the only one that has figured out that the paleo diet works. There is now a widespread low-carb/paleo blogger community.
+
+![beef-short-ribs](./img/beef-short-ribs.jpg)
+
+_100% grass-fed - Beef short ribs_
+
+The message that conventional nutritional wisdom is wrong and that a pre-agricultural diet is superior for optimal health is growing. However, I have noticed a clear pattern of who is listening to the message and who is ignoring it.
 
 
 ### People Who Are Most Receptive to the Paleo Message
@@ -31,7 +39,11 @@ For the past two years, I have done numerous posts on nutritional topics. I've d
 -   Vegetarians (of course)
 -   Cardio junkies - runners, bikers, and other sugar addicts.
 
-Now there are exceptions to the lists above. They are generalizations, but the pattern is clear. **The paleo message for whatever reason is failing with the people who need to hear it the most.** Older adults and women make up a high percentage of the obesity problem. Women also tend to make food purchases for their children. And we all are aware of the childhood obesity problem. It is probably just a matter of time before paleo eating becomes more widespread, but part of me thinks the failing message is the fault of the paleo blogging community. What started as a simple message of returning to a diet from our evolutionary past has become an industry. Books, seminars, DVDs, and even conventions. What is next? Paleo [certification](/2013/02/primal-certification-are-you-kidding/). :roll: Blog posts that used to be simple and straightforward now read like medical journals. Now don't get me wrong, I enjoy those posts, but I already know the message and I am a nutrition geek. **I do know that people without a science or engineering background are not going to be receptive to chest-beating cavemen linking to PubMed abstracts.** What to do? For me, it is all about communicating self-empowerment and making gradual positive permanent changes. People need to learn to trust themselves and feel in control. Replacing one expert with another does not build this skill. **The paleo message at its core is quite simple.** I hope I am wrong, but I don't see the paleo message getting to the people who need to hear it the most.
+Now there are exceptions to the lists above. They are generalizations, but the pattern is clear. **The paleo message for whatever reason is failing with the people who need to hear it the most.** Older adults and women make up a high percentage of the obesity problem. Women also tend to make food purchases for their children. And we all are aware of the childhood obesity problem.
+
+It is probably just a matter of time before paleo eating becomes more widespread, but part of me thinks the failing message is the fault of the paleo blogging community. What started as a simple message of returning to a diet from our evolutionary past has become an industry. Books, seminars, DVDs, and even conventions. What is next? Paleo [certification](/2013/02/primal-certification-are-you-kidding/). :roll: Blog posts that used to be simple and straightforward now read like medical journals. Now don't get me wrong, I enjoy those posts, but I already know the message and I am a nutrition geek. **I do know that people without a science or engineering background are not going to be receptive to chest-beating cavemen linking to PubMed abstracts.**
+
+What to do? For me, it is all about communicating self-empowerment and making gradual positive permanent changes. People need to learn to trust themselves and feel in control. Replacing one expert with another does not build this skill. **The paleo message at its core is quite simple.** I hope I am wrong, but I don't see the paleo message getting to the people who need to hear it the most.
 
 ---
 

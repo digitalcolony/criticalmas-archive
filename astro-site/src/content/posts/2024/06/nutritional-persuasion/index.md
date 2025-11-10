@@ -9,7 +9,9 @@ description: "For years, I’ve thought about a topic: How do our beliefs about 
 commentCount: 15
 ---
 
-For years, I’ve thought about a topic: How do our beliefs about nutrition take shape, particularly in a field rife with conflicting viewpoints? Over time, I’ve fallen for various nutritional ideas—perhaps I still am. How can we discover the truth when even the experts disagree? In 2015, I posted [Irresponsible Health Blogging](/2015/09/irresponsible-health-blogging/).
+For years, I’ve thought about a topic: How do our beliefs about nutrition take shape, particularly in a field rife with conflicting viewpoints? Over time, I’ve fallen for various nutritional ideas—perhaps I still am. How can we discover the truth when even the experts disagree?
+
+In 2015, I posted [Irresponsible Health Blogging](/2015/09/irresponsible-health-blogging/).
 
 > In recent years, I’ve taken a different approach. Instead of taking sides, I acknowledge that I don’t know and do my best to cover the various sides of the argument. Then I will put forth my current view on how it applies to me. Like the investor who thinks he has a good basket of stocks but knows he could be wrong.
 
@@ -22,7 +24,13 @@ I concluded with the framework I used to get closer to the truth.
 1.  I collect smart people that can explain studies that are not on a team.
 2.  Seek out the counterargument even when a persuasive voice says what we want to believe.
 
-This is a better approach, but it can still be improved upon. When I hear two people smarter on a topic than me who disagree, how do I know who is correct? How does the family dog know which member of the family is smartest? It's probably the one that feeds him the most treats. ![](./img/nutritional-puzzle.jpg) _Nutrition puzzle_
+This is a better approach, but it can still be improved upon.
+
+When I hear two people smarter on a topic than me who disagree, how do I know who is correct? How does the family dog know which member of the family is smartest? It's probably the one that feeds him the most treats.
+
+![](./img/nutritional-puzzle.jpg)
+
+_Nutrition puzzle_
 
 
 ### Ranking Credibility version 1.0
@@ -53,7 +61,13 @@ There are many voices in the nutritional space that I once found credible, but n
 ### Thoughts?
 
 
-I didn't name names or cite examples of disagreement in this post. I want to establish a framework that nutritional enthusiasts can use. Am I on the right path? How do you resolve differences when both sides of the debate are super smart and have studies to support their argument? This blog has nutritional posts going back to 2006. My views have changed over the last 18 years and continue to evolve. I want to revisit several topics but hopefully, do so from a wiser position. I'm not going to claim I know the answer. I'll provide my opinion on the views I find more credible, which changes as I learn more. **UPDATE July 1** I forgot to add "Directional accuracy" as a tool for finding credibility. Good ideas will gain strength and evidence over time. Bad ideas will often fade away. Following this metric, I will "wait out" claims that are out of line with conventional thinking until they are validated by others.
+I didn't name names or cite examples of disagreement in this post. I want to establish a framework that nutritional enthusiasts can use. Am I on the right path? How do you resolve differences when both sides of the debate are super smart and have studies to support their argument?
+
+This blog has nutritional posts going back to 2006. My views have changed over the last 18 years and continue to evolve. I want to revisit several topics but hopefully, do so from a wiser position. I'm not going to claim I know the answer. I'll provide my opinion on the views I find more credible, which changes as I learn more.
+
+**UPDATE July 1**
+
+I forgot to add "Directional accuracy" as a tool for finding credibility. Good ideas will gain strength and evidence over time. Bad ideas will often fade away. Following this metric, I will "wait out" claims that are out of line with conventional thinking until they are validated by others.
 
 ---
 

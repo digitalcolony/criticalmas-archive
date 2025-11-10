@@ -9,7 +9,15 @@ description: "Guess what common \"American as apple pie\" name is now on the gov
 commentCount: 5
 ---
 
-Guess what common "American as apple pie" name is now on the governments watch list? Mine. American Airlines has confirmed that my name is on the naughty list. Why did my parents have to slap me with the most common baby name for 43 consecutive years on top of my surname a Smith? If my name were Spike, I'm pretty sure I could get through airports faster. Being on the "watch list" means I can never do web check in. I am no longer permitted to do curb side check in. Even if I don't have a single bag, I have to stand in line at the ticketing counter every time I fly. Once I get to the counter, I must spend another 5-10 minutes standing there smiling while the agent gives me the sniff test. _Lordy Lordy, please don't detain me!_ ![mas-bike](./img/mas-bike.jpg) _Look at me. I'm harmless._ Airlines state that they appreciate our business, because we "have a choice" in who we fly with. But airlines are basically utilities. If any airline would like to earn me as a lifetime customer, here is how you do it. Get me off the list. You know I'm a good guy. You work directly with the government every single day. Fast track me off the list and call me when it is done. Are you listening American Airlines?
+Guess what common "American as apple pie" name is now on the governments watch list? Mine. American Airlines has confirmed that my name is on the naughty list. Why did my parents have to slap me with the most common baby name for 43 consecutive years on top of my surname a Smith? If my name were Spike, I'm pretty sure I could get through airports faster.
+
+Being on the "watch list" means I can never do web check in. I am no longer permitted to do curb side check in. Even if I don't have a single bag, I have to stand in line at the ticketing counter every time I fly. Once I get to the counter, I must spend another 5-10 minutes standing there smiling while the agent gives me the sniff test. _Lordy Lordy, please don't detain me!_
+
+![mas-bike](./img/mas-bike.jpg)
+
+_Look at me. I'm harmless._
+
+Airlines state that they appreciate our business, because we "have a choice" in who we fly with. But airlines are basically utilities. If any airline would like to earn me as a lifetime customer, here is how you do it. Get me off the list. You know I'm a good guy. You work directly with the government every single day. Fast track me off the list and call me when it is done. Are you listening American Airlines?
 
 ---
 

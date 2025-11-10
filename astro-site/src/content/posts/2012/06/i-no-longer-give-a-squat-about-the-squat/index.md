@@ -9,25 +9,43 @@ description: "Last year I said my goodbyes to the classic weight lifting exercis
 commentCount: 50
 ---
 
-Last year I said my goodbyes to the classic weight lifting exercise the bench press in the post [My Bench Press Sucks and I Don’t Care](/2011/11/my-bench-press-sucks-and-i-dont-care/). In that post, I listed 5 reasons why I no longer do the bench press. In this post, I will say my official goodbye to the most sacred exercise of them all: the squat. I actually stopped doing squats years ago. The benefits I received in the early years of squatting were eventually replaced with injuries and back pain. Over time I stopped squatting as a pain avoidance strategy. When I did squat, I lowered the weight and did fewer reps and sets. I often felt guilty about feeling too broken to squat. Anthony Dream Johnson just posted an outstanding blog post titled [Barbell Squat: the Worst Exercise in Existence?](https://web.archive.org/web/20120605015736/http://www.thedreamlounge.net/barbell-squat-worst-exercise/) I highly recommend reading it and watching the accompanying video. Anthony goes into the biomechanics and risks of spinal loading using ideas from the works of Bill DeSimone. It is all great information. ![Congruent Exercise: How To Make Weight Training Easier On Your Joints](https://images-na.ssl-images-amazon.com/images/I/41Qh8m2TJrL.jpg) Congruent Exercise: How To Make Weight Training Easier On Your Joints by Bill DeSimone Now I am going to explain how I arrived at the same conclusion.
+Last year I said my goodbyes to the classic weight lifting exercise the bench press in the post [My Bench Press Sucks and I Don’t Care](/2011/11/my-bench-press-sucks-and-i-dont-care/). In that post, I listed 5 reasons why I no longer do the bench press. In this post, I will say my official goodbye to the most sacred exercise of them all: the squat. I actually stopped doing squats years ago.
+
+The benefits I received in the early years of squatting were eventually replaced with injuries and back pain. Over time I stopped squatting as a pain avoidance strategy. When I did squat, I lowered the weight and did fewer reps and sets. I often felt guilty about feeling too broken to squat.
+
+Anthony Dream Johnson just posted an outstanding blog post titled [Barbell Squat: the Worst Exercise in Existence?](https://web.archive.org/web/20120605015736/http://www.thedreamlounge.net/barbell-squat-worst-exercise/) I highly recommend reading it and watching the accompanying video. Anthony goes into the biomechanics and risks of spinal loading using ideas from the works of Bill DeSimone. It is all great information.
+
+![Congruent Exercise: How To Make Weight Training Easier On Your Joints](https://images-na.ssl-images-amazon.com/images/I/41Qh8m2TJrL.jpg) Congruent Exercise: How To Make Weight Training Easier On Your Joints by Bill DeSimone
+
+Now I am going to explain how I arrived at the same conclusion.
 
 
 ### Why Did We Start Squatting?
 
 
-When we first start a weight lifting program our primary motivation is to build muscle. We then quickly learn that the squat is the most anabolic exercise one can perform in the free weight room. This is likely true. Books have been written on the squat, so there is clearly something to this exercise, especially for the untrained beginner. Not only will it make your legs stronger, but all your muscles will grow. The problem with the squat was stated clearly in Anthony's video. The muscles in the legs will get stronger at a much faster rate than the muscles supporting the spinal column that is being compressed during a squat motion. This is exactly what I experienced. When my squat went from 115 pounds to 275 pounds, I felt great. My legs got much stronger and I gained muscle. Then came the injuries. The result was years of back pain and scaling back on the squat in frequency, weight, and volume. ![home-gym](./img/home-gym.jpg) _My old home gym back in my squat days._ 
+When we first start a weight lifting program our primary motivation is to build muscle. We then quickly learn that the squat is the most anabolic exercise one can perform in the free weight room. This is likely true. Books have been written on the squat, so there is clearly something to this exercise, especially for the untrained beginner. Not only will it make your legs stronger, but all your muscles will grow.
+
+The problem with the squat was stated clearly in Anthony's video. The muscles in the legs will get stronger at a much faster rate than the muscles supporting the spinal column that is being compressed during a squat motion. This is exactly what I experienced. When my squat went from 115 pounds to 275 pounds, I felt great. My legs got much stronger and I gained muscle. Then came the injuries. The result was years of back pain and scaling back on the squat in frequency, weight, and volume.
+
+![home-gym](./img/home-gym.jpg)
+
+_My old home gym back in my squat days._ 
 
 
 ### The Myth of the Perfect Rep
 
 
-I can already hear the critics that say that if one chooses a safe weight and your form is perfect then injuries are unlikely. The CrossFit crowd says the same thing. "If only" we choose a safe weight. "If only" we pick the exact number of repetitions or sets. "If only" our form is perfect every time. But not every rep is perfect - even in elite Olympic athletes. We get emotional. We add too much weight, do one too many reps, or rush back to the gym before we've fully recovered from a prior workout. We get injured. We age. Compound movements that use high amounts of weight and demand perfect form put the individual at greater risk of injury when that form is compromised. And fatigue is a factor in compromised form. The stakes are low when we first start squatting because the weight usually isn't significant. As we get stronger and the weight gets heavier, the risks begin to exceed the benefits. That is my opinion. As a 6 foot 3 inch ectomorph, the risks exceeded the benefits as I approached 300 pounds. For a short young endomorph, that number might be higher.
+I can already hear the critics that say that if one chooses a safe weight and your form is perfect then injuries are unlikely. The CrossFit crowd says the same thing. "If only" we choose a safe weight. "If only" we pick the exact number of repetitions or sets. "If only" our form is perfect every time. But not every rep is perfect - even in elite Olympic athletes. We get emotional. We add too much weight, do one too many reps, or rush back to the gym before we've fully recovered from a prior workout. We get injured. We age.
+
+Compound movements that use high amounts of weight and demand perfect form put the individual at greater risk of injury when that form is compromised. And fatigue is a factor in compromised form. The stakes are low when we first start squatting because the weight usually isn't significant. As we get stronger and the weight gets heavier, the risks begin to exceed the benefits. That is my opinion. As a 6 foot 3 inch ectomorph, the risks exceeded the benefits as I approached 300 pounds. For a short young endomorph, that number might be higher.
 
 
 ### Gym Survivorship
 
 
-I'm going to go back to a point that I often make on this blog: [survivorship bias](/2010/06/rambling-thoughts-about-gym-survivorship/). I started lifting weights in 1994. Since then I've lifted in many gyms across 5 states. Every single one of them had guys squatting serious weights. I would estimate that 98-99% of all the lifters that I've seen squatting more than bodyweight are under 35 years old. This ratio has held true every year since I began lifting weights. I suspect it will continue to be true. Where have all the old squatters gone? Those 30-year-old guys who were squatting double their body weight 10 or 15 years ago are gone. They've been replaced with another generation of young lifters. **People do not voluntarily en masse quit activities that they demonstrate excellence in performing.** No matter how busy life gets, someone who has worked up to a double bodyweight squat doesn't just walk away from the iron game without a reason. I believe that reason is pain and injuries. They've been removed from the pool so we don't see those failures.
+I'm going to go back to a point that I often make on this blog: [survivorship bias](/2010/06/rambling-thoughts-about-gym-survivorship/). I started lifting weights in 1994. Since then I've lifted in many gyms across 5 states. Every single one of them had guys squatting serious weights. I would estimate that 98-99% of all the lifters that I've seen squatting more than bodyweight are under 35 years old. This ratio has held true every year since I began lifting weights. I suspect it will continue to be true.
+
+Where have all the old squatters gone? Those 30-year-old guys who were squatting double their body weight 10 or 15 years ago are gone. They've been replaced with another generation of young lifters. **People do not voluntarily en masse quit activities that they demonstrate excellence in performing.** No matter how busy life gets, someone who has worked up to a double bodyweight squat doesn't just walk away from the iron game without a reason. I believe that reason is pain and injuries. They've been removed from the pool so we don't see those failures.
 
 
 ### The Squat Axiom
@@ -35,7 +53,9 @@ I'm going to go back to a point that I often make on this blog: [survivorship bi
 
 I know I will receive some negative feedback for this post. The critics will point to the successful ones and then try to extrapolate back to justify the squat. My finance background forces me to look at the problem differently.
 
-> \[A\] A high percentage of muscular and healthy individuals at the gym built their physique using squats. \[B\] A high percentage of individuals at the gym that regularly performed squats are muscular and healthy.
+> \[A\] A high percentage of muscular and healthy individuals at the gym built their physique using squats.
+> 
+> \[B\] A high percentage of individuals at the gym that regularly performed squats are muscular and healthy.
 
 I believe A is true and B is false. Humans are blinded by successful outcomes and we ignore the failures. We shouldn't be looking for the exercise that produces the most successful outcomes without examining the downside risks. We should be seeking the exercise that produces the most positive results with the lowest failure rate.
 
@@ -43,7 +63,9 @@ I believe A is true and B is false. Humans are blinded by successful outcomes a
 ### A Better Way Forward
 
 
-What is the point of being brawny at 30 and broken at 40? For me, fitness is not a point in time and I don't need to impress the bros at the gym with my squat numbers. My goal is to increase strength while doing everything in my power to reduce the risk of injury. That will be the topic of my [next post](/2012/06/lower-risk-alternatives-to-the-barbell-back-squat/). I will outline a few exercises I've used to transition away from the barbell back squat. My back has been thanking me ever since. UPDATE 2019: [If I Gave a Squat About the Squat](/2019/03/if-i-gave-a-squat-about-the-squat/)
+What is the point of being brawny at 30 and broken at 40? For me, fitness is not a point in time and I don't need to impress the bros at the gym with my squat numbers. My goal is to increase strength while doing everything in my power to reduce the risk of injury. That will be the topic of my [next post](/2012/06/lower-risk-alternatives-to-the-barbell-back-squat/). I will outline a few exercises I've used to transition away from the barbell back squat. My back has been thanking me ever since.
+
+UPDATE 2019: [If I Gave a Squat About the Squat](/2019/03/if-i-gave-a-squat-about-the-squat/)
 
 ---
 

@@ -9,13 +9,21 @@ description: "Just a month ago I dusted off my old Tales From the Glitter Gym se
 commentCount: 4
 ---
 
-Just a month ago I dusted off my old Tales From the Glitter Gym series after a 13-year hiatus. I followed it up by [explaining the term "Glitter Gym"](/2024/03/whats-a-glitter-gym/). Then something happened. My mini-gym Fitness 19 closed. They transferred all the member's accounts to the big box LA Fitness. _Thankfully, without any price increase._ I estimate that I've been at Fitness 19 for about 9 of the 13 years they were open. Except for the [SilverSneakers incident](/2014/04/silversneakers-young-trainers-teaching-old-timers-bad-lifting-form/), I didn't see any of the crazy things I witnessed when I went to 24 Hour Fitness. ![](./img/gym-modern.jpg)
+Just a month ago I dusted off my old Tales From the Glitter Gym series after a 13-year hiatus. I followed it up by [explaining the term "Glitter Gym"](/2024/03/whats-a-glitter-gym/). Then something happened.
+
+My mini-gym Fitness 19 closed. They transferred all the member's accounts to the big box LA Fitness. _Thankfully, without any price increase._ I estimate that I've been at Fitness 19 for about 9 of the 13 years they were open. Except for the [SilverSneakers incident](/2014/04/silversneakers-young-trainers-teaching-old-timers-bad-lifting-form/), I didn't see any of the crazy things I witnessed when I went to 24 Hour Fitness.
+
+![](./img/gym-modern.jpg)
 
 
 ### No More Glitter?
 
 
-I've been at LA Fitness for 2 weeks now, and the gym culture has changed. The guys who would have gone to hard-core gyms a generation ago are here. They behave well. Weights are now racked correctly. People are using the equipment properly. I don't see any of the nonsense that I used to see. They set the standard for proper gym etiquette. It's only been 2 weeks and I am going in the 5 am hour, so maybe things are different later in the day. But I am pleased with what I see. Jacked guys who would have been at hard-core "rust" gyms in the past are showing newbies by example how a shared exercise environment is supposed to work. If you attend a big box "Glitter" gym, have you noticed an improvement in behavior as the hard-core gyms have closed and absorbed their members?
+I've been at LA Fitness for 2 weeks now, and the gym culture has changed. The guys who would have gone to hard-core gyms a generation ago are here. They behave well. Weights are now racked correctly. People are using the equipment properly. I don't see any of the nonsense that I used to see. They set the standard for proper gym etiquette.
+
+It's only been 2 weeks and I am going in the 5 am hour, so maybe things are different later in the day. But I am pleased with what I see. Jacked guys who would have been at hard-core "rust" gyms in the past are showing newbies by example how a shared exercise environment is supposed to work.
+
+If you attend a big box "Glitter" gym, have you noticed an improvement in behavior as the hard-core gyms have closed and absorbed their members?
 
 ---
 

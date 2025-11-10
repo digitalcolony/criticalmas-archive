@@ -9,7 +9,15 @@ description: "A foodie friend of mine recently asked me a great question. What w
 commentCount: 8
 ---
 
-A foodie friend of mine recently asked me a great question. _What would you want for your last meal?_ I've thought about this for a while and I decided that if I died immediately after the meal, I would choose a Minnesota-style pizza, a few bottles of Saison Dupont, and a pint of Haagen Dazs 5 coffee ice cream. Even though I've never been to Minnesota, my hometown of Columbus, Ohio had Donatos Pizza, which I now understand is considered Minnesota style. I learned that fact from Zayda Buddy, which is a Minnesota-style pizza place in my Seattle neighborhood of Ballard. The pizza is a thin crust with a focus on the toppings. It is cut into squares. Unlike the gross California-style pizza, the crust keeps its composure when you bite into it. This also means it can hold more toppings. Sorry New York and Chicago, I prefer a crispier pizza. As for toppings, I'd probably get everything. It's all good. ![](http://farm5.staticflickr.com/4098/4816522849_9524005bb0.jpg "saison dupont") _[Photo](http://www.flickr.com/photos/washingtonydc/4816522849/in/photostream/) by tony_  The reason I picked this for my last meal is that once all that gluten and alcohol hit my system, I will wish that I were dead. :) How about you? What would you pick for your last meal?
+A foodie friend of mine recently asked me a great question. _What would you want for your last meal?_ I've thought about this for a while and I decided that if I died immediately after the meal, I would choose a Minnesota-style pizza, a few bottles of Saison Dupont, and a pint of Haagen Dazs 5 coffee ice cream.
+
+Even though I've never been to Minnesota, my hometown of Columbus, Ohio had Donatos Pizza, which I now understand is considered Minnesota style. I learned that fact from Zayda Buddy, which is a Minnesota-style pizza place in my Seattle neighborhood of Ballard. The pizza is a thin crust with a focus on the toppings. It is cut into squares. Unlike the gross California-style pizza, the crust keeps its composure when you bite into it. This also means it can hold more toppings. Sorry New York and Chicago, I prefer a crispier pizza. As for toppings, I'd probably get everything. It's all good.
+
+![](http://farm5.staticflickr.com/4098/4816522849_9524005bb0.jpg "saison dupont")
+
+_[Photo](http://www.flickr.com/photos/washingtonydc/4816522849/in/photostream/) by tony_ 
+
+The reason I picked this for my last meal is that once all that gluten and alcohol hit my system, I will wish that I were dead. :) How about you? What would you pick for your last meal?
 
 ---
 

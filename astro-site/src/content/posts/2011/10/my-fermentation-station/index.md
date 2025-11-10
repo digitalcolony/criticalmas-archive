@@ -15,31 +15,55 @@ A few weeks ago I came to the obvious conclusion that [making fermented vegetabl
 ### Bring On The Buckets!
 
 
-When I toured [Firefly Kitchens](http://www.fireflykitchens.com/), I learned they used food grade plastic buckets to prepare their ferments. Doing this allows you to make far greater quantities than standard kitchen bowls. So I went to Home Depot and purchased two buckets. You want to use the 2 gallon white buckets that are in the paint section (not the orange Homer buckets). They are made by _Argee Corp_ out of Santee, CA. I contacted the company and confirmed with them that these buckets are food grade quality. Unless you have a problem with flies, you do not need to buy separate lids. These buckets are for preparation and not the ferment itself. ![fermentation-buckets](./img/fermentation-buckets.jpg) _Ghost Sauerkraut Reboot and Killer Kimchi (yeah, I'm tweaking the recipes again!)_
+When I toured [Firefly Kitchens](http://www.fireflykitchens.com/), I learned they used food grade plastic buckets to prepare their ferments. Doing this allows you to make far greater quantities than standard kitchen bowls. So I went to Home Depot and purchased two buckets.
+
+You want to use the 2 gallon white buckets that are in the paint section (not the orange Homer buckets). They are made by _Argee Corp_ out of Santee, CA. I contacted the company and confirmed with them that these buckets are food grade quality. Unless you have a problem with flies, you do not need to buy separate lids. These buckets are for preparation and not the ferment itself.
+
+![fermentation-buckets](./img/fermentation-buckets.jpg)
+
+_Ghost Sauerkraut Reboot and Killer Kimchi (yeah, I'm tweaking the recipes again!)_
 
 
 ### Boxes Are Better Than Towels
 
 
-I started this hobby by covering up jars with kitchen towels. More ferments meant more towels. Pretty soon I was using half my kitchen towels. Then I switched to using paper bags turned upside down. That was better, but I figured out that turning over an empty box worked better. With a single box, I could cover multiple ferments. ![fermentation-box](./img/fermentation-box.jpg) _10 pounds of ferments under a single box._
+I started this hobby by covering up jars with kitchen towels. More ferments meant more towels. Pretty soon I was using half my kitchen towels. Then I switched to using paper bags turned upside down. That was better, but I figured out that turning over an empty box worked better. With a single box, I could cover multiple ferments.
+
+![fermentation-box](./img/fermentation-box.jpg)
+
+_10 pounds of ferments under a single box._
 
 
 ### Scheduling Multiple Ferments
 
 
-When I was doing a single kimchi ferment, I would just remember the date. Since sauerkrauts take longer, that date could get forgotten. Then I started doing multiple ferments with staggered start dates. At first I used little slips of paper, but they tended to get lost or would fall off the table. What I needed was a single fermentation schedule that wouldn't get blown off the table whenever I opened a window. A quick search online for "printable calendars" got me exactly what I needed. I printed out the current month and the following month. Both calendars were taped to the top of the box. Now at a moments notice I can see when each ferment started and its current age. ![fermentation-calendar](./img/fermentation-calendar.jpg) _CS=Cortido Sauerkraut, KM=kimchi, GP=Ghost Pepper Sauerkraut, DS=Dill Sauerkraut_
+When I was doing a single kimchi ferment, I would just remember the date. Since sauerkrauts take longer, that date could get forgotten. Then I started doing multiple ferments with staggered start dates. At first I used little slips of paper, but they tended to get lost or would fall off the table.
+
+What I needed was a single fermentation schedule that wouldn't get blown off the table whenever I opened a window. A quick search online for "printable calendars" got me exactly what I needed. I printed out the current month and the following month. Both calendars were taped to the top of the box. Now at a moments notice I can see when each ferment started and its current age.
+
+![fermentation-calendar](./img/fermentation-calendar.jpg)
+
+_CS=Cortido Sauerkraut, KM=kimchi, GP=Ghost Pepper Sauerkraut, DS=Dill Sauerkraut_
 
 
 ### Potato Masher To the Rescue!
 
 
-It is common to use wooden blocks to crush vegetables down for easy packing. I looked around my kitchen for something similar. Turns out the potato masher was perfect. I use the masher in the buckets right before I pack the veggies into the jars for fermentation. ![fermentation-masher](./img/fermentation-masher.jpg) _Potato Mashing the Kimchi!_
+It is common to use wooden blocks to crush vegetables down for easy packing. I looked around my kitchen for something similar. Turns out the potato masher was perfect. I use the masher in the buckets right before I pack the veggies into the jars for fermentation.
+
+![fermentation-masher](./img/fermentation-masher.jpg)
+
+_Potato Mashing the Kimchi!_
 
 
 ### Ghetto Crocks
 
 
-A good fermentation crock can run over $100. I needed something a little more _budget_. Around ten years ago, I acquired a set of ceramic coffee storage canisters. As my coffee consumption dropped, I used fewer and fewer of the containers, until eventually all but one was in storage. A new hobby means a new function for these canisters. ![fermentation-ghetto-crock](./img/fermentation-ghetto-crock.jpg) _Each "ghetto crock" can hold over 3 pounds of packed veggies._
+A good fermentation crock can run over $100. I needed something a little more _budget_. Around ten years ago, I acquired a set of ceramic coffee storage canisters. As my coffee consumption dropped, I used fewer and fewer of the containers, until eventually all but one was in storage. A new hobby means a new function for these canisters.
+
+![fermentation-ghetto-crock](./img/fermentation-ghetto-crock.jpg)
+
+_Each "ghetto crock" can hold over 3 pounds of packed veggies._
 
 
 ### Conclusion

@@ -11,13 +11,21 @@ commentCount: 8
 
 In July of this year, I got a very odd email. Someone working with Dave Asprey of the Bulletproof Exec requested permission to use my testimonial for his book.
 
-> Thank you for your recent testimonial of the wonderful things being Bulletproof has brought you! We’d like to know if we can utilize your testimonial in the upcoming Bulletproof Diet Book, published by Rodale, and due out later this year. If you’d like to grant us permission, please simply sign and return the attached release form as soon as possible! Thank you again for your kind words and continued support of Bulletproof and we look forward to hearing from you!
+> Thank you for your recent testimonial of the wonderful things being Bulletproof has brought you! We’d like to know if we can utilize your testimonial in the upcoming Bulletproof Diet Book, published by Rodale, and due out later this year. If you’d like to grant us permission, please simply sign and return the attached release form as soon as possible!
+> 
+> Thank you again for your kind words and continued support of Bulletproof and we look forward to hearing from you!
 
-I challenged the person who sent the email to point to me where I ever endorsed or said anything positive about the Bulletproof Diet. They couldn't. To save face, they said that the email was sent to me by accident and was meant for someone else. Right! I had no plans to post about this interaction, but now that the Bulletproof Diet Book is out a few people have asked me if I read it or plan to. The answer is no. I'll admit when I first was exposed to Dave and his podcast I found it interesting. I was doing [Quantified Self](https://criticalmas.org/best-of/quantified-self/) at the time and there was enough cross-over in dietary principles that I supported for me to listen. But over time my suspicions grew. The Bulletproof Diet is not a diet of [resiliency](/2012/05/healthy-vs-resilient/). It is a diet of fragility. Walling ourselves off from all threats, both real and imaginary, does not make us "bulletproof". It makes us weaker. I could go into much greater detail, but my short testimonial is:
+I challenged the person who sent the email to point to me where I ever endorsed or said anything positive about the Bulletproof Diet. They couldn't. To save face, they said that the email was sent to me by accident and was meant for someone else. Right!
+
+I had no plans to post about this interaction, but now that the Bulletproof Diet Book is out a few people have asked me if I read it or plan to. The answer is no. I'll admit when I first was exposed to Dave and his podcast I found it interesting. I was doing [Quantified Self](https://criticalmas.org/best-of/quantified-self/) at the time and there was enough cross-over in dietary principles that I supported for me to listen. But over time my suspicions grew.
+
+The Bulletproof Diet is not a diet of [resiliency](/2012/05/healthy-vs-resilient/). It is a diet of fragility. Walling ourselves off from all threats, both real and imaginary, does not make us "bulletproof". It makes us weaker. I could go into much greater detail, but my short testimonial is:
 
 > The Bulletproof Diet is yet another overly restrictive low carb diet with slick packaging.
 
-![krusty-clown](./img/krusty-clown.jpg) _Props to Antonio Valladares of Evil Sugar Sugar for referring to Dave Asprey as the Krusty the Clown of Paleo._
+![krusty-clown](./img/krusty-clown.jpg)
+
+_Props to Antonio Valladares of Evil Sugar Sugar for referring to Dave Asprey as the Krusty the Clown of Paleo._
 
 ---
 

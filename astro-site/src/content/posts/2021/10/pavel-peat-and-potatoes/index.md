@@ -9,29 +9,57 @@ description: "Because I use the 3rd party search tool by Algolia, I get a report
 commentCount: 15
 ---
 
-Because I use the 3rd party search tool by Algolia, I get a report on what the readers of this blog are searching for. The top 3 topics consistently have been Pavel Tsatsouline, the Ray Peat Diet, and [Potato Hacking](https://criticalmas.org/best-of/potato-hack-diet/). Since many of those posts are years old, I thought I'd present my 2021 views on these 3 topics.
+Because I use the 3rd party search tool by Algolia, I get a report on what the readers of this blog are searching for. The top 3 topics consistently have been Pavel Tsatsouline, the Ray Peat Diet, and [Potato Hacking](https://criticalmas.org/best-of/potato-hack-diet/).
+
+Since many of those posts are years old, I thought I'd present my 2021 views on these 3 topics.
 
 
 ### Pavel Tsatsouline
 
 
-Pavel has been an amazing fitness role model for me. Some of his books spoke to me more than others. [Power to People](/2011/03/power-people-10-years/) and his stretching books were my favorites. In hindsight, I now believe the most important lesson we can learn from Pavel is to increase the rest period between sets. For those of us that aim to be time-efficient in the gym, this can be difficult advice to follow. However, if one does extend the rest time between sets, between workout soreness greatly decreases and recovery improves. I touch on this point more in the post [Pavel’s Quick & Dead vs HIT](/2020/02/pavels-quick-dead-vs-hit/).
+Pavel has been an amazing fitness role model for me. Some of his books spoke to me more than others. [Power to People](/2011/03/power-people-10-years/) and his stretching books were my favorites.
+
+In hindsight, I now believe the most important lesson we can learn from Pavel is to increase the rest period between sets. For those of us that aim to be time-efficient in the gym, this can be difficult advice to follow. However, if one does extend the rest time between sets, between workout soreness greatly decreases and recovery improves.
+
+I touch on this point more in the post [Pavel’s Quick & Dead vs HIT](/2020/02/pavels-quick-dead-vs-hit/).
 
 
 ### Ray Peat Diet
 
 
-I have mixed feelings about the lessons I learned from Ray Peat and his followers. I agree with the foundational argument that one should eliminate as much PUFA from their diet as possible to support metabolism. The primary sources being Omega-6 industrial seed oils. I took that advice and [increased my body temperature](/2015/07/how-i-raised-my-body-temperature/). I also agree with a diet that is pro-carbs. However, Peat is anti-starch and pro-sugar, whereas I'm the opposite. From Peat's article [Glycemia, starch, and sugar in context](http://raypeat.com/articles/articles/glycemia.shtml):
+I have mixed feelings about the lessons I learned from Ray Peat and his followers. I agree with the foundational argument that one should eliminate as much PUFA from their diet as possible to support metabolism. The primary sources being Omega-6 industrial seed oils.
+
+I took that advice and [increased my body temperature](/2015/07/how-i-raised-my-body-temperature/).
+
+I also agree with a diet that is pro-carbs. However, Peat is anti-starch and pro-sugar, whereas I'm the opposite. From Peat's article [Glycemia, starch, and sugar in context](http://raypeat.com/articles/articles/glycemia.shtml):
 
 > Eating “complex carbohydrates,” rather than sugars, is a reasonable way to promote obesity. Eating starch, by increasing insulin and lowering the blood sugar, stimulates the appetite, causing a person to eat more, so the effect on fat production becomes much larger than when equal amounts of sugar and starch are eaten.
 
-When I followed that advice of embracing sugar, I like many others [gained weight](/2013/09/weight-gain-ray-peat-diet/). When I took the opposite advice and consumed lots of starch, mostly potatoes, and non-gluten grains and rice, I effortlessly lost weight and maintained that weight loss with ease. Foods with high volume REDUCE appetite. Just looking at the insulin response doesn't tell the full story. Plus there are tricks to reduce the insulin spike of potatoes such as cooling and/or adding a splash of red wine or malt vinegar. Peat is also anti-fasting and I am aware of both sides to this argument. For me, I often follow which ideas are gaining or losing traction. The health benefits of fasting and time-restricted eating keep [gaining traction](https://hubermanlab.com/effects-of-fasting-and-time-restricted-eating-on-fat-loss-and-health/). I feel a lot better when I keep an eating window of 6-8 hours. I got attacked by the Peat people the last time I gave even a slight defense to fasting. Sorry. You do you. The Peat forums are full of people that not only can't lose weight but continue gaining more weight. That is no surprise to me. My weight jumped to 220 on a Peat-like diet and I was hungry all the time. _(Read the [comment below by Keturah](/2021/10/pavel-peat-and-potatoes/#comment-27598) for another example.)_ I weigh 180 on my pro-starch, low-sugar diet. My body temperature is still 98.3 F. I suspect that 90% of the value of the Peat diet is dropping the seed oil. It can take a year or more to see the benefits. So be patient.
+When I followed that advice of embracing sugar, I like many others [gained weight](/2013/09/weight-gain-ray-peat-diet/). When I took the opposite advice and consumed lots of starch, mostly potatoes, and non-gluten grains and rice, I effortlessly lost weight and maintained that weight loss with ease.
+
+Foods with high volume REDUCE appetite. Just looking at the insulin response doesn't tell the full story. Plus there are tricks to reduce the insulin spike of potatoes such as cooling and/or adding a splash of red wine or malt vinegar.
+
+Peat is also anti-fasting and I am aware of both sides to this argument. For me, I often follow which ideas are gaining or losing traction. The health benefits of fasting and time-restricted eating keep [gaining traction](https://hubermanlab.com/effects-of-fasting-and-time-restricted-eating-on-fat-loss-and-health/). I feel a lot better when I keep an eating window of 6-8 hours. I got attacked by the Peat people the last time I gave even a slight defense to fasting. Sorry. You do you.
+
+The Peat forums are full of people that not only can't lose weight but continue gaining more weight. That is no surprise to me. My weight jumped to 220 on a Peat-like diet and I was hungry all the time. _(Read the [comment below by Keturah](/2021/10/pavel-peat-and-potatoes/#comment-27598) for another example.)_
+
+I weigh 180 on my pro-starch, low-sugar diet. My body temperature is still 98.3 F.
+
+I suspect that 90% of the value of the Peat diet is dropping the seed oil. It can take a year or more to see the benefits. So be patient.
 
 
 ### Potatoes
 
 
-This summer I switched from boiling potatoes to using an Instant Pot. SO MUCH BETTER! Each bite is evenly cooked from the peel to the center. I chop the potatoes into equal-sized pieces and then pressure cook on high for 3 or 4 minutes depending upon the size. More time for larger pieces. Everyone asks about using sweet potatoes. They don't work as well for weight loss but are valid for maintenance. I actually prefer the purple yams and purple sweet potatoes for non-nightshade options. I often find them more firm than sweet potatoes and I've discovered they suppress appetite almost as well as potatoes. The article [Resistant Starch and the Sweet Potato](https://www.lsuagcenter.com/portals/communications/publications/agmag/archive/2009/spring/resistant-starch-and-the-sweet-potato) says that the white-fleshed sweet potatoes, which would include many purple varietals, have more resistant starch than the classic orange sweet potatoes. I don't have any weight left to lose, but if you do, and would like to test out a Potato Hack using purple sweet potatoes and yams, give it a go and report back. ![Purple Sweet Potatoes](./img/purple-sweet-potatoes.jpg) _Organic Purple Sweet Potatoes_
+This summer I switched from boiling potatoes to using an Instant Pot. SO MUCH BETTER! Each bite is evenly cooked from the peel to the center. I chop the potatoes into equal-sized pieces and then pressure cook on high for 3 or 4 minutes depending upon the size. More time for larger pieces.
+
+Everyone asks about using sweet potatoes. They don't work as well for weight loss but are valid for maintenance. I actually prefer the purple yams and purple sweet potatoes for non-nightshade options. I often find them more firm than sweet potatoes and I've discovered they suppress appetite almost as well as potatoes. The article [Resistant Starch and the Sweet Potato](https://www.lsuagcenter.com/portals/communications/publications/agmag/archive/2009/spring/resistant-starch-and-the-sweet-potato) says that the white-fleshed sweet potatoes, which would include many purple varietals, have more resistant starch than the classic orange sweet potatoes.
+
+I don't have any weight left to lose, but if you do, and would like to test out a Potato Hack using purple sweet potatoes and yams, give it a go and report back.
+
+![Purple Sweet Potatoes](./img/purple-sweet-potatoes.jpg)
+
+_Organic Purple Sweet Potatoes_
 
 ---
 

@@ -9,7 +9,11 @@ description: "I'm back in Seattle and I've got a list of many things I need to d
 commentCount: 4
 ---
 
-I'm back in Seattle and I've got a list of many things I need to do. However, I ended up going on a 7 mile urban hike when I saw the sky color this morning. ![ballard-locks-orange-sky2](./img/ballard-locks-orange-sky2.jpg) ![ballard-locks-orange-sky](./img/ballard-locks-orange-sky.jpg)
+I'm back in Seattle and I've got a list of many things I need to do. However, I ended up going on a 7 mile urban hike when I saw the sky color this morning.
+
+![ballard-locks-orange-sky2](./img/ballard-locks-orange-sky2.jpg)
+
+![ballard-locks-orange-sky](./img/ballard-locks-orange-sky.jpg)
 
 ---
 

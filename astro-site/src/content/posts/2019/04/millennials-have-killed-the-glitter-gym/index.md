@@ -8,11 +8,29 @@ description: "About twenty years ago, I coined the term \"Glitter Gym\" as a bro
 commentCount: 12
 ---
 
-About twenty years ago, I coined the term "Glitter Gym" as a broad term to describe the growing big-box bright-light corporate gyms you see everywhere. In my 2006 post [Glitter and Rust](/2006/02/glitter-and-rust/), I said this:
+About twenty years ago, I coined the term "Glitter Gym" as a broad term to describe the growing big-box bright-light corporate gyms you see everywhere.
+
+In my 2006 post [Glitter and Rust](/2006/02/glitter-and-rust/), I said this:
 
 > A majority of men and almost all women are only familiar with Glitter gyms. Glitter gyms are workout facilities with bright lights, mirrors, treadmills, and TVs (Ballys, 24 Hour, etc).
 
-At that time I didn't consider myself a fan of Glitter Gyms, but after I learned [how to use machines correctly](/2013/12/building-muscle/) from the High Intensity Training (HIT) people, I became a fan. Note that most people use the machines incorrectly. The movement is too fast (using momentum) and they pause at the endpoints. If you think machines suck, try slowing down the reps and not pausing at all at the top and bottom of the rep. Today I belong to two Glitter Gyms. Fitness 19 and LA Fitness. _(I quit LA recently, so that will end on May 11th)._ In the last year, the use of smartphones in the gym has skyrocketed. Not just the cardio area, but everywhere. People are staring at their phones between exercises. Between sets. Sometimes during the set itself. They are looking at their screens as they walk through the gym. They are taking their $800 smartphones into the saunas. And at LA Fitness, they are engaging with the phone as they walk up and down the stairs. I once saw a guy in the stretching area with an iPad propped up on some gym equipment so he could watch a program while he stretched. I peeked at the screen to confirm it wasn't someone demonstrating how to exercise. Unbelievable. In the title, I blamed Millenials not smartphones. That is because the vast majority of offenders are of that generation. I'm sure all of us Gen X and Baby Boomers have smartphones, but we aren't glued to them during our workouts. Although I do have a concern that this new behavior will continue to spread and become the new norm for all patrons. For the record, I only play a podcast when I'm on the elliptical. Once I step off, my phone and headphones return to my pocket for the remainder of the workout. I don't check anything during my workout. The world can wait. The downside to all these patrons staring at their screen is nobody is paying attention to their surroundings. Our shared environment becomes less shared and less safe. People take longer and at times when the gym is most crowded, workouts can grind to a halt. It's been 9 years since I retired [Tales From the Glitter Gym](https://criticalmas.org/best-of/tales-from-the-glitter-gym/). Maybe it is time to bring it back? ![gym](./img/gym.jpg)
+At that time I didn't consider myself a fan of Glitter Gyms, but after I learned [how to use machines correctly](/2013/12/building-muscle/) from the High Intensity Training (HIT) people, I became a fan. Note that most people use the machines incorrectly. The movement is too fast (using momentum) and they pause at the endpoints. If you think machines suck, try slowing down the reps and not pausing at all at the top and bottom of the rep.
+
+Today I belong to two Glitter Gyms. Fitness 19 and LA Fitness. _(I quit LA recently, so that will end on May 11th)._ In the last year, the use of smartphones in the gym has skyrocketed. Not just the cardio area, but everywhere.
+
+People are staring at their phones between exercises. Between sets. Sometimes during the set itself. They are looking at their screens as they walk through the gym. They are taking their $800 smartphones into the saunas. And at LA Fitness, they are engaging with the phone as they walk up and down the stairs.
+
+I once saw a guy in the stretching area with an iPad propped up on some gym equipment so he could watch a program while he stretched. I peeked at the screen to confirm it wasn't someone demonstrating how to exercise. Unbelievable.
+
+In the title, I blamed Millenials not smartphones. That is because the vast majority of offenders are of that generation. I'm sure all of us Gen X and Baby Boomers have smartphones, but we aren't glued to them during our workouts. Although I do have a concern that this new behavior will continue to spread and become the new norm for all patrons.
+
+For the record, I only play a podcast when I'm on the elliptical. Once I step off, my phone and headphones return to my pocket for the remainder of the workout. I don't check anything during my workout. The world can wait.
+
+The downside to all these patrons staring at their screen is nobody is paying attention to their surroundings. Our shared environment becomes less shared and less safe. People take longer and at times when the gym is most crowded, workouts can grind to a halt.
+
+It's been 9 years since I retired [Tales From the Glitter Gym](https://criticalmas.org/best-of/tales-from-the-glitter-gym/). Maybe it is time to bring it back?
+
+![gym](./img/gym.jpg)
 
 ---
 

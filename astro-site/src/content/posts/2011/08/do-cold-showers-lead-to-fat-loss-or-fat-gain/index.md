@@ -9,13 +9,21 @@ description: "There are some contradictory opinions on whether cold temperature 
 commentCount: 4
 ---
 
-There are some contradictory opinions on whether cold temperature exposure leads to fat loss or fat gain. Before I share my thoughts, I want to say that regardless of fat loss, I find cold weather training to be highly beneficial for the reasons I listed in the post [My Cold Weather Challenge To You](/2009/10/my-cold-weather-challenge-to-you/). Read that post for the full list, but the two primary reasons are to expand your comfort zone and to build resiliency against minor stressors. ![ice ](./img/74316267_62f7764b83_z.jpg) _[Ice close up](http://www.flickr.com/photos/lucid_nightmare/74316267/in/photostream/) by Lucid Nightmare_
+There are some contradictory opinions on whether cold temperature exposure leads to fat loss or fat gain. Before I share my thoughts, I want to say that regardless of fat loss, I find cold weather training to be highly beneficial for the reasons I listed in the post [My Cold Weather Challenge To You](/2009/10/my-cold-weather-challenge-to-you/). Read that post for the full list, but the two primary reasons are to expand your comfort zone and to build resiliency against minor stressors.
+
+![ice ](./img/74316267_62f7764b83_z.jpg)
+
+_[Ice close up](http://www.flickr.com/photos/lucid_nightmare/74316267/in/photostream/) by Lucid Nightmare_
 
 
 ### Mixed Opinions
 
 
-Richard Nikoley spoke briefly about his positive fat loss results with cold exposure during his _Ancestral Health_ speech [Self-experimentation: the best science](https://vimeo.com/27798705). In the audience was Seth Roberts, author of the [Shangri-La Diet](/2011/08/flavor-signaling-and-the-shangri-la-diet/) and a leader in the self-experimentation field. Seth mentioned that he gained weight doing cold showers and then lost it once he stopped. That was interesting to me, so I located his blog post [Cold Shower Report (2)](https://web.archive.org/web/20110531003107/http://blog.sethroberts.net/2010/12/21/cold-shower-report-2/). In this post, Seth mentions that his weight gain was 2 pounds and that his shower time was 4-5 minutes. He also mentioned a study showing female swimmers lost less weight than those that exercised on land, presumably because the water was cold. Finally, I have to mention the _Ice Age_ chapter in [The 4 Hour Body](/2011/02/the-4-hour-body/) by Tim Ferriss. That chapter details a cold exposure protocol that helped his case study client lose 28.6 pounds of fat in 6 weeks. Like other things Tim has written, it isn't the instructions I have an issue with, it is the expectation. Also, Ferriss lost a lot of trust with his _From Geek to Freak_ chapter, which I cover in the post [How Tim Ferriss REALLY Gained 34 pounds of Muscle in 28 Days](/2011/01/how-tim-ferriss-really-gained-34-pounds-of-muscle-in-28-days/).
+Richard Nikoley spoke briefly about his positive fat loss results with cold exposure during his _Ancestral Health_ speech [Self-experimentation: the best science](https://vimeo.com/27798705). In the audience was Seth Roberts, author of the [Shangri-La Diet](/2011/08/flavor-signaling-and-the-shangri-la-diet/) and a leader in the self-experimentation field. Seth mentioned that he gained weight doing cold showers and then lost it once he stopped.
+
+That was interesting to me, so I located his blog post [Cold Shower Report (2)](https://web.archive.org/web/20110531003107/http://blog.sethroberts.net/2010/12/21/cold-shower-report-2/). In this post, Seth mentions that his weight gain was 2 pounds and that his shower time was 4-5 minutes. He also mentioned a study showing female swimmers lost less weight than those that exercised on land, presumably because the water was cold.
+
+Finally, I have to mention the _Ice Age_ chapter in [The 4 Hour Body](/2011/02/the-4-hour-body/) by Tim Ferriss. That chapter details a cold exposure protocol that helped his case study client lose 28.6 pounds of fat in 6 weeks. Like other things Tim has written, it isn't the instructions I have an issue with, it is the expectation. Also, Ferriss lost a lot of trust with his _From Geek to Freak_ chapter, which I cover in the post [How Tim Ferriss REALLY Gained 34 pounds of Muscle in 28 Days](/2011/01/how-tim-ferriss-really-gained-34-pounds-of-muscle-in-28-days/).
 
 
 ### My Experience
@@ -33,7 +41,9 @@ I think I can resolve all the differences or at least I am going to try. Cold ex
 ### 2 Different Strategies
 
 
-If you are overweight, I don't think you have anything to lose by attempting some cold temperature exposure protocol. You could use cold showers, not wear a jacket, or place an ice pack between the shoulder blades. Monitor your progress and adjust accordingly. If you are already lean, you still want the benefits of cold exposure, but you don't want to risk fat gain. Earlier this year, I came up with a protocol to deal with this challenge, which I outlined in the post [A High Intensity Approach to Cold Weather Training](/2011/05/a-high-intensity-approach-to-cold-weather-training/).
+If you are overweight, I don't think you have anything to lose by attempting some cold temperature exposure protocol. You could use cold showers, not wear a jacket, or place an ice pack between the shoulder blades. Monitor your progress and adjust accordingly.
+
+If you are already lean, you still want the benefits of cold exposure, but you don't want to risk fat gain. Earlier this year, I came up with a protocol to deal with this challenge, which I outlined in the post [A High Intensity Approach to Cold Weather Training](/2011/05/a-high-intensity-approach-to-cold-weather-training/).
 
 > While studying the [High Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) approach to weight lifting, I wondered if those concepts could be applied to cold temperature exposure. HIT workouts are extremely intense, very brief and highly effective. The goal is to trigger certain physiological and hormonal responses and then allow the body to respond.
 
@@ -41,7 +51,9 @@ I also described my Cold HIT protocol.
 
 > At the end of your daily shower, turn the water to _as friggin cold as you can handle without having a heart attack_. Do deep slow breathing and relax. Aim the cold water directly between your neck and shoulder blades. Hold this for 30 seconds. End the shower. That is it.
 
-The shoulder blades are the region with the highest concentration of Brown Adipose Tissue. None of the cold water is aimed at my core. My temperature tolerance is just as strong as it was when I did extended cold temperature exposure. And I have been able to stay lean. Note that I am just a dude with a blog and not a health professional. This is all speculation. Your results may vary.
+The shoulder blades are the region with the highest concentration of Brown Adipose Tissue. None of the cold water is aimed at my core. My temperature tolerance is just as strong as it was when I did extended cold temperature exposure. And I have been able to stay lean.
+
+Note that I am just a dude with a blog and not a health professional. This is all speculation. Your results may vary.
 
 ---
 

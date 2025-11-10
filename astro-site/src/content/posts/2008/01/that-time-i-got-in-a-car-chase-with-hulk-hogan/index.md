@@ -9,7 +9,9 @@ description: "It must have been July or August of 1994. I had just moved to Tamp
 commentCount: 1
 ---
 
-It must have been July or August of 1994. I had just moved to Tampa Bay from Columbus in June. For a few days I had two friends down from Ohio. Being the host the of a new town, I took them for a drive of the area. Ryan was in the front seat and his friend Mike was in the back seat. Ryan and I were talking as we drove away from Clearwater Beach towards downtown Clearwater. From the backseat, Mike interrupted.
+It must have been July or August of 1994. I had just moved to Tampa Bay from Columbus in June. For a few days I had two friends down from Ohio. Being the host the of a new town, I took them for a drive of the area. Ryan was in the front seat and his friend Mike was in the back seat.
+
+Ryan and I were talking as we drove away from Clearwater Beach towards downtown Clearwater. From the backseat, Mike interrupted.
 
 > I think I saw Hulk Hogan. That car up there. The black Mercedes. I think it's Hulk Hogan.
 
@@ -17,7 +19,13 @@ Even though I had been in the Tampa Bay area for less than two months, I knew th
 
 > There is only one way to find out. Hang on!
 
-For the next few blocks my Honda Civic hatchback jumped from lane to lane chasing down a black Mercedes. All the while Ryan and Mike cheered me on. I knew once we got past downtown the odds of me keeping up with the sports car would be slim. Then I got the break I was looking for. The light turned red. The black Mercedes was stopped in the left lane. I did an aggressive pass and got into the right lane and pulled up even with Mercedes. And at that moment all three of our heads turned in unison and we looked into the other car. The driver noticed and turned his head towards us. It was Hulk Hogan! Then in a classic move I'll never forget, he put his hand up and gave us a salute wave. The light changed and he tore off. [![](./img/hulk343.jpg "Hulk Hogan")](./img/hulk343.jpg) We cheered him as his car got drove away. And that is the story of the time I got in a car chase with Hulk Hogan.
+For the next few blocks my Honda Civic hatchback jumped from lane to lane chasing down a black Mercedes. All the while Ryan and Mike cheered me on. I knew once we got past downtown the odds of me keeping up with the sports car would be slim.
+
+Then I got the break I was looking for. The light turned red. The black Mercedes was stopped in the left lane. I did an aggressive pass and got into the right lane and pulled up even with Mercedes. And at that moment all three of our heads turned in unison and we looked into the other car. The driver noticed and turned his head towards us. It was Hulk Hogan! Then in a classic move I'll never forget, he put his hand up and gave us a salute wave. The light changed and he tore off.
+
+[![](./img/hulk343.jpg "Hulk Hogan")](./img/hulk343.jpg)
+
+We cheered him as his car got drove away. And that is the story of the time I got in a car chase with Hulk Hogan.
 
 ---
 

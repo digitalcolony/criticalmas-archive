@@ -9,7 +9,23 @@ description: "I haven't been blogging as much this year and I wasn't sure why un
 commentCount: 13
 ---
 
-I haven't been blogging as much this year and I wasn't sure why until recently. I wrapped up last year by stating that I was likely done posting on some topics. One was [getting stronger](/2014/12/won-fitness/) in the gym and [responding to the fitards](/2014/11/knock-bro/) that dismiss injury risk. I also said goodbye to [financial forecasting](/2014/12/last-financial-forecasting-post/) and [disposable content](/2014/12/disposable-content/). I noticed a pattern on this blog. Learn, Share, Convince. First I would find a topic that was of interest to me and dive head first into learning more about it. During this learning phase, I would share my views on those ideas. Comments would pour in helping me learn more. After a while when my knowledge reached a deeper understanding, I'd take a more definitive position and write to convince the readers of what I knew. Convincing was an important driving force motivating me to blog more. This year I got tired of convincing others or even myself that my view is correct. Health debates are tiresome. I just don't care anymore. We get buried in simple narratives to explain our health history and how something is or isn't healthy. We aren't machines, but we speak of our bodies as if they were. My understanding of economics has made me rethink almost everything about nutrition and fitness. Actions and behavior have both intended and unintended consequences. Some of which you can measure. Some you can't. What looks great in the short run can be harmful on a longer timeline (extreme diets, extreme exercise). Without the desire to Convince, I'm finding myself less motivated to Share and therefore have been blogging less. The downside to spending too much time convincing is it takes away from time one can spend learning. I noticed that as this site grew, I was spending a fair amount of time responding to comments on posts clarifying or defending a position of mine. Instead of thinking about something new, I was thinking about an older post. And with the exception of a few posts, I am hesitant to turn off comments on older content. ![share](./img/share.jpg) _[Photo](https://flic.kr/p/8SrUTz) by Carlos Maya_ I will continue blogging, but if I do it with less frequency, you now know why.
+I haven't been blogging as much this year and I wasn't sure why until recently. I wrapped up last year by stating that I was likely done posting on some topics. One was [getting stronger](/2014/12/won-fitness/) in the gym and [responding to the fitards](/2014/11/knock-bro/) that dismiss injury risk. I also said goodbye to [financial forecasting](/2014/12/last-financial-forecasting-post/) and [disposable content](/2014/12/disposable-content/).
+
+I noticed a pattern on this blog. Learn, Share, Convince. First I would find a topic that was of interest to me and dive head first into learning more about it. During this learning phase, I would share my views on those ideas. Comments would pour in helping me learn more. After a while when my knowledge reached a deeper understanding, I'd take a more definitive position and write to convince the readers of what I knew. Convincing was an important driving force motivating me to blog more.
+
+This year I got tired of convincing others or even myself that my view is correct.
+
+Health debates are tiresome. I just don't care anymore. We get buried in simple narratives to explain our health history and how something is or isn't healthy. We aren't machines, but we speak of our bodies as if they were. My understanding of economics has made me rethink almost everything about nutrition and fitness. Actions and behavior have both intended and unintended consequences. Some of which you can measure. Some you can't. What looks great in the short run can be harmful on a longer timeline (extreme diets, extreme exercise).
+
+Without the desire to Convince, I'm finding myself less motivated to Share and therefore have been blogging less.
+
+The downside to spending too much time convincing is it takes away from time one can spend learning. I noticed that as this site grew, I was spending a fair amount of time responding to comments on posts clarifying or defending a position of mine. Instead of thinking about something new, I was thinking about an older post. And with the exception of a few posts, I am hesitant to turn off comments on older content.
+
+![share](./img/share.jpg)
+
+_[Photo](https://flic.kr/p/8SrUTz) by Carlos Maya_
+
+I will continue blogging, but if I do it with less frequency, you now know why.
 
 ---
 

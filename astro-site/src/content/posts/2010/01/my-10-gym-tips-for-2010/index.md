@@ -9,7 +9,9 @@ description: "It just pains me to see well intentioned people enter the gym just
 commentCount: 5
 ---
 
-It just pains me to see well intentioned people enter the gym just after the New Year and make the same mistakes year after year. Some last a month or two. Most will fail and sadly, most will blame themselves for not pushing themselves hard enough. Below are my 10 Gym Tips for 2010. I am not a personal trainer. What I am is a motivated researcher that has been lifting weights consistently since 1994. This list is primarily for those returning to the gym.
+It just pains me to see well intentioned people enter the gym just after the New Year and make the same mistakes year after year. Some last a month or two. Most will fail and sadly, most will blame themselves for not pushing themselves hard enough.
+
+Below are my 10 Gym Tips for 2010. I am not a personal trainer. What I am is a motivated researcher that has been lifting weights consistently since 1994. This list is primarily for those returning to the gym.
 
 1.  **Don't Get Injured** - Use good form. Take your time learning any new exercise. Wear [flat shoes](/2009/08/learning-how-to-walk-again/) or no shoes. Running shoes have no place in the free weight room. You want to build your strength from a grounded and stable position. Think twice before you do bicep curls while standing 1-legged on a _Bosu Ball_.
 2.  **Don't Get Sick** - The gym is loaded with germs. Many of the people in a gym are cardio junkies and have compromised immune systems. The solution is NEVER touch your face. Got sweat dripping by your eye? Use a towel. When you get home, wash your hands like a surgeon.

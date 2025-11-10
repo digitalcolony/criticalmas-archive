@@ -9,7 +9,29 @@ description: "This post isn't for my regular readers. It is for those that leav
 commentCount: 8
 ---
 
-_This post isn't for my regular readers. It is for those that leave hostile comments challenging my views on fitness. Instead of repeating myself over and over in the comments, I've created this post._  Dear Bro, You've been directed to this post because I am too tired to respond directly to your comment. For a few years now I have tried to explain my motivation in several posts and numerous comments. Sometimes I've succeeded, but the most of the time I haven't. To be brief, my primary motivation in fitness to [get strong without getting hurt](/2013/05/never-forget-that-size-is-the-prize/). It sounds so simple and we all want that result, but so few people think through exactly what that means. ![leg press](./img/leg-press.jpg) _Photo by [Elias Rovielo](https://www.flickr.com/photos/eliasroviello)_ You think that machines are inferior to free weights. I disagree. When the reps are slow and controlled, the machines are awesome. You think that it is possible to always load the correct amount of weight and use a perfect form for every rep of every [squat](/2012/06/i-no-longer-give-a-squat-about-the-squat/), [bench press](/2011/11/my-bench-press-sucks-and-i-dont-care/), and deadlift. I disagree. I call this **the myth of the perfect rep**. Some people can, but they are a rarity or are young enough to recover quickly from their mistakes. You think I don't lift enough. I think you don't rest enough. You model your workouts [based on outliers](/2013/09/fitness-blogging-disclosures/) that would have succeeded regardless of whatever exercise protocol they chose. I model my workout by avoiding the movements that are most likely to cause injury. When I look into a gym and see the big guys lifting heavy and the smaller people using machines, I see that as selection bias. You see it as an affirmation you are correct. When I look into a gym and see a huge age distribution drop-off in the guys who lift serious weight around age 35, I get alarmed. You probably don't even notice it or make reasons why the guy who was badass 5 or 10 years ago doesn't come to the gym anymore. I suspect he is in pain. You probably think he lacks willpower. Warren Buffet said this quote about investing.
+_This post isn't for my regular readers. It is for those that leave hostile comments challenging my views on fitness. Instead of repeating myself over and over in the comments, I've created this post._ 
+
+Dear Bro,
+
+You've been directed to this post because I am too tired to respond directly to your comment. For a few years now I have tried to explain my motivation in several posts and numerous comments. Sometimes I've succeeded, but the most of the time I haven't. To be brief, my primary motivation in fitness to [get strong without getting hurt](/2013/05/never-forget-that-size-is-the-prize/). It sounds so simple and we all want that result, but so few people think through exactly what that means.
+
+![leg press](./img/leg-press.jpg)
+
+_Photo by [Elias Rovielo](https://www.flickr.com/photos/eliasroviello)_
+
+You think that machines are inferior to free weights. I disagree. When the reps are slow and controlled, the machines are awesome.
+
+You think that it is possible to always load the correct amount of weight and use a perfect form for every rep of every [squat](/2012/06/i-no-longer-give-a-squat-about-the-squat/), [bench press](/2011/11/my-bench-press-sucks-and-i-dont-care/), and deadlift. I disagree. I call this **the myth of the perfect rep**. Some people can, but they are a rarity or are young enough to recover quickly from their mistakes.
+
+You think I don't lift enough. I think you don't rest enough.
+
+You model your workouts [based on outliers](/2013/09/fitness-blogging-disclosures/) that would have succeeded regardless of whatever exercise protocol they chose. I model my workout by avoiding the movements that are most likely to cause injury.
+
+When I look into a gym and see the big guys lifting heavy and the smaller people using machines, I see that as selection bias. You see it as an affirmation you are correct.
+
+When I look into a gym and see a huge age distribution drop-off in the guys who lift serious weight around age 35, I get alarmed. You probably don't even notice it or make reasons why the guy who was badass 5 or 10 years ago doesn't come to the gym anymore. I suspect he is in pain. You probably think he lacks willpower.
+
+Warren Buffet said this quote about investing.
 
 > Rule No.1: Never lose money. Rule No.2: Never forget rule No.1.
 
@@ -17,7 +39,13 @@ For Buffet investing was not about reaching for the highest returns. It was firs
 
 > Rule No. 1: Never get hurt. Rule No 2: Never forget rule No.1.
 
-If you believe in No Pain, No Gain, all I can say is enjoy your pain. When you step up to a crosswalk, you are probably the guy who keeps hitting the button thinking that it will make the light change faster. You aren't going to convince me and I am not going to convince you. Knock yourself out, Bro!
+If you believe in No Pain, No Gain, all I can say is enjoy your pain.
+
+When you step up to a crosswalk, you are probably the guy who keeps hitting the button thinking that it will make the light change faster.
+
+You aren't going to convince me and I am not going to convince you.
+
+Knock yourself out, Bro!
 
 ---
 

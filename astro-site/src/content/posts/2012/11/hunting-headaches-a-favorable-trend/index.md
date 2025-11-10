@@ -9,7 +9,15 @@ description: "In the last installment of Hunting Headaches, I reported that I fi
 commentCount: 13
 ---
 
-In the [last installment](/2012/10/hunting-headaches-progress/) of Hunting Headaches, I reported that I finally appeared to be making some progress on solving my [night headaches](https://criticalmas.org/tag/headaches/). By wearing a mouth guard, I was able to reduce my headache intensity by 45%. For those new to the site, I use spreadsheets to track health metrics. This allows me to figure what experiments work for me and which don't. During the month I went without coffee, my headache intensity dropped again to just 0.58. Even though my [sleep quality was actually worse](/2012/10/odd-caffeine-free-side-effect/), it was my best month ever. To the data! ![](./img/ha-chart.png "Headache Chart") _Headache Intensity is measured from 0 to 5._ My headache intensity using a mouth guard with normal caffeine was 0.82. This covered August and September. Since adding a little caffeine back, my sleep has started to improve a little without an uptick in headache intensity. But I'll need more data to confirm that. My average headache intensity for my lower caffeine period of October and November is just 0.57. That is another 32% decrease. **I now suspect that excessive caffeine is a factor in my headaches.** I hope I'm on the right path. I should know in another month or two.
+In the [last installment](/2012/10/hunting-headaches-progress/) of Hunting Headaches, I reported that I finally appeared to be making some progress on solving my [night headaches](https://criticalmas.org/tag/headaches/). By wearing a mouth guard, I was able to reduce my headache intensity by 45%. For those new to the site, I use spreadsheets to track health metrics. This allows me to figure what experiments work for me and which don't.
+
+During the month I went without coffee, my headache intensity dropped again to just 0.58. Even though my [sleep quality was actually worse](/2012/10/odd-caffeine-free-side-effect/), it was my best month ever. To the data!
+
+![](./img/ha-chart.png "Headache Chart")
+
+_Headache Intensity is measured from 0 to 5._
+
+My headache intensity using a mouth guard with normal caffeine was 0.82. This covered August and September. Since adding a little caffeine back, my sleep has started to improve a little without an uptick in headache intensity. But I'll need more data to confirm that. My average headache intensity for my lower caffeine period of October and November is just 0.57. That is another 32% decrease. **I now suspect that excessive caffeine is a factor in my headaches.** I hope I'm on the right path. I should know in another month or two.
 
 ---
 

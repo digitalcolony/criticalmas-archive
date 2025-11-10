@@ -9,7 +9,21 @@ description: "Last week I ended my topical coconut oil experiment and started a 
 commentCount: 6
 ---
 
-Last week I ended my [topical coconut oil experiment](/2012/02/the-topical-coconut-oil-experiment/) and started a new skin experiment. A month ago I was poking around the _Underground Wellness_ site when I found a post about [shower filters](https://web.archive.org/web/20210116144058/http://undergroundwellness.com/how-to-filter-your-shower-water/). My first thought was skepticism. I understood why you filter drinking water, but was doubtful there were risks to city water hitting your skin in the shower. Then I researched it further and became convinced that showering in chlorinated water presented a potential health danger that was very inexpensive to eliminate. So I bought a shower filter. One of the numbers I saw in several places was that taking a 10-15 minute shower with unfiltered water was like drinking 8 cups of chlorinated water. I'm not sure about any of this. What I do know is that since moving to Ballard I can smell the chlorine in my shower. Getting a shower filter is cheap insurance. ![](./img/shower-filter.jpg "shower-filter") I bought a basic GE Shower filter. This is before I knew about the Vitamin C Shower Filters mentioned in Chris Kresser's article. Amazon sells both. I was able to install it myself without any problem and no one has ever confused me with being a handyman. GE GXSM01HWW Shower Filter System VITASHOWER SF-1 (Vitamin C Shower Filter) Since my showers are already very short, I'll probably be fine with the GE model for now. The chlorine smell is gone, so I assume it is working fine. In a month or two, I'll report back if there is a change in my skin health.
+Last week I ended my [topical coconut oil experiment](/2012/02/the-topical-coconut-oil-experiment/) and started a new skin experiment.
+
+A month ago I was poking around the _Underground Wellness_ site when I found a post about [shower filters](https://web.archive.org/web/20210116144058/http://undergroundwellness.com/how-to-filter-your-shower-water/). My first thought was skepticism. I understood why you filter drinking water, but was doubtful there were risks to city water hitting your skin in the shower. Then I researched it further and became convinced that showering in chlorinated water presented a potential health danger that was very inexpensive to eliminate. So I bought a shower filter.
+
+One of the numbers I saw in several places was that taking a 10-15 minute shower with unfiltered water was like drinking 8 cups of chlorinated water. I'm not sure about any of this. What I do know is that since moving to Ballard I can smell the chlorine in my shower. Getting a shower filter is cheap insurance.
+
+![](./img/shower-filter.jpg "shower-filter")
+
+I bought a basic GE Shower filter. This is before I knew about the Vitamin C Shower Filters mentioned in Chris Kresser's article. Amazon sells both. I was able to install it myself without any problem and no one has ever confused me with being a handyman.
+
+GE GXSM01HWW Shower Filter System
+
+VITASHOWER SF-1 (Vitamin C Shower Filter)
+
+Since my showers are already very short, I'll probably be fine with the GE model for now. The chlorine smell is gone, so I assume it is working fine. In a month or two, I'll report back if there is a change in my skin health.
 
 ---
 

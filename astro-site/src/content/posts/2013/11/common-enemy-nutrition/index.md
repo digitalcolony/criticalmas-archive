@@ -9,13 +9,31 @@ description: "There are so many conflicting opinions on nutrition. What one camp
 commentCount: 13
 ---
 
-There are so many conflicting opinions on nutrition. What one camp finds healthy is considered unhealthy by others. The low carbers fight the high carbers. Paleo and vegetarians attack each other. Everywhere you go there is rampant disagreement. Every side has their [PubMed Warriors](/2012/11/not-a-pubmed-warrior/) ready to drop links to prove someone else is wrong. If you are a hobbyist or a regular person just wishing to improve your health, it can be frustrating. It was frustrating for me until I noticed there was **a single point of agreement that spanned the different nutritional philosophies**. The common enemy in nutrition is excess PUFA (polyunsaturated fats), specifically Omega-6 fats. The most common source is industrial seed oils.
+There are so many conflicting opinions on nutrition. What one camp finds healthy is considered unhealthy by others. The low carbers fight the high carbers. Paleo and vegetarians attack each other. Everywhere you go there is rampant disagreement. Every side has their [PubMed Warriors](/2012/11/not-a-pubmed-warrior/) ready to drop links to prove someone else is wrong.
+
+If you are a hobbyist or a regular person just wishing to improve your health, it can be frustrating. It was frustrating for me until I noticed there was **a single point of agreement that spanned the different nutritional philosophies**. The common enemy in nutrition is excess PUFA (polyunsaturated fats), specifically Omega-6 fats. The most common source is industrial seed oils.
 
 
 ### Agreement Across the Board
 
 
-One of the core principles of Paleo is to lower excess n-6 consumption by replacing vegetable oil with saturated fats. [The Primal Blueprint](/2009/06/the-primal-blueprint-10-old-school-laws-for-nutrition-and-fitness/) by Mark Sisson does a good job alerting aspiring Paleo dieters about the dangers of excess n-6 in veggie oils. The WAPF group supports traditional food and traditional food preparation, and that meant using saturated animal fat and [avoiding seed oils](http://www.westonaprice.org/know-your-fats/precious-yet-perilous). [The Perfect Health Diet](https://perfecthealthdiet.com/the-diet/) lays out a strong case for restricting excess n-6. So does [Deep Nutrition](/2012/06/deep-nutrition-perfect-health-diet-and-the-end-of-overeating/) and [Primal Body, Primal Mind](/2010/07/primal-body-primal-mind/). The most anti-PUFA camp is probably those that follow Ray Peat. Matt Stone, who works a lot with diet recovery and [raising body temperature,](/2013/03/diet-recovery-2-and-the-turn-up-the-heat-experiment/) also warns against excess PUFA. Even some top vegetarian doctors are now advising against vegetable oils. See the slides from Denise Minger's AHS talk on [How to Argue with a Vegetarian](http://www.slideshare.net/ancestralhealth/ahs-slidesdenise-minger). Dean Ornish, Caldwell Esselstyn, John McDougall, and Neal Barnard are all listed as either forbidding veggie oils or greatly restricting their use. I don't know of a single respected health writer or teacher that has defended high n-6 intake. ![Veggie oil](http://farm3.staticflickr.com/2277/2086069873_da2b9432f1_z.jpg?zz=1) _[Photo](http://www.flickr.com/photos/jonstarbuck/2086069873/) by Jon Starbuck. Vegetable oil is good for diesel engines, not for humans._ 
+One of the core principles of Paleo is to lower excess n-6 consumption by replacing vegetable oil with saturated fats. [The Primal Blueprint](/2009/06/the-primal-blueprint-10-old-school-laws-for-nutrition-and-fitness/) by Mark Sisson does a good job alerting aspiring Paleo dieters about the dangers of excess n-6 in veggie oils.
+
+The WAPF group supports traditional food and traditional food preparation, and that meant using saturated animal fat and [avoiding seed oils](http://www.westonaprice.org/know-your-fats/precious-yet-perilous).
+
+[The Perfect Health Diet](https://perfecthealthdiet.com/the-diet/) lays out a strong case for restricting excess n-6. So does [Deep Nutrition](/2012/06/deep-nutrition-perfect-health-diet-and-the-end-of-overeating/) and [Primal Body, Primal Mind](/2010/07/primal-body-primal-mind/).
+
+The most anti-PUFA camp is probably those that follow Ray Peat.
+
+Matt Stone, who works a lot with diet recovery and [raising body temperature,](/2013/03/diet-recovery-2-and-the-turn-up-the-heat-experiment/) also warns against excess PUFA.
+
+Even some top vegetarian doctors are now advising against vegetable oils. See the slides from Denise Minger's AHS talk on [How to Argue with a Vegetarian](http://www.slideshare.net/ancestralhealth/ahs-slidesdenise-minger). Dean Ornish, Caldwell Esselstyn, John McDougall, and Neal Barnard are all listed as either forbidding veggie oils or greatly restricting their use.
+
+I don't know of a single respected health writer or teacher that has defended high n-6 intake.
+
+![Veggie oil](http://farm3.staticflickr.com/2277/2086069873_da2b9432f1_z.jpg?zz=1)
+
+_[Photo](http://www.flickr.com/photos/jonstarbuck/2086069873/) by Jon Starbuck. Vegetable oil is good for diesel engines, not for humans._ 
 
 
 ### Different Paths to Excellent Health
@@ -38,7 +56,9 @@ Here is a collection of ideas that most of my readers probably already know abou
 7.  Toss the [fish oil in the trash](/2013/08/fish-oil-2010/). The people who seem to get the most benefit from this supplement are athletes that engage in highly inflammatory sports such as mixed martial arts. For the rest of us, there are other ways to reduce inflammation, one being lowering PUFAs.
 8.  More carbs, less fat. This is not me stepping into the [carb wars](/2011/07/carb-wars-in-the-blogosphere/) arena, but really a mathematical observation. If one is following a low-carb version of either the Paleo or WAPF diets, then their total fat intake will be much higher. A percentage of that fat will be PUFA. This may or may not be a concern, but if one's goal is to sharply lower PUFA then this needs to be mentioned.
 
-I've wondered how much of a role reducing PUFA has in bringing one closer to optimal health. Meaning that if you did nothing else out of the ordinary in your diet, how much benefit would you get from just this one habit? I suspect it would be a lot. Part 2: [The Problem with PUFA](/2013/11/problem-pufa/)
+I've wondered how much of a role reducing PUFA has in bringing one closer to optimal health. Meaning that if you did nothing else out of the ordinary in your diet, how much benefit would you get from just this one habit? I suspect it would be a lot.
+
+Part 2: [The Problem with PUFA](/2013/11/problem-pufa/)
 
 ---
 

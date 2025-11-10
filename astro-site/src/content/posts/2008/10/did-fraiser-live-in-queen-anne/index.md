@@ -9,11 +9,23 @@ description: "Recently I learned that the TV show Fraiser not only took place in
 commentCount: 12
 ---
 
-Recently I learned that the TV show Fraiser not only took place in Seattle but in my neighborhood of Queen Anne. Based upon the view Fraiser sees it would place his condo just a few blocks from where I live. I've only seen maybe five episodes of the show, so I can't recall seeing the view on the show. ![Frasier - The Complete Tenth Season](https://images-na.ssl-images-amazon.com/images/I/51cs3c51v3L._SL500_.jpg) I went looking for a photo of Fraiser's view to add to this blog, but turned up nothing. Ideally, I would show his view from the show and then try to replicate it with a photo I've taken. Then I stumbled onto the location controversy. From IMDB's page on "Fraiser" (1993) Goofs:
+Recently I learned that the TV show Fraiser not only took place in Seattle but in my neighborhood of Queen Anne. Based upon the view Fraiser sees it would place his condo just a few blocks from where I live. I've only seen maybe five episodes of the show, so I can't recall seeing the view on the show.
+
+![Frasier - The Complete Tenth Season](https://images-na.ssl-images-amazon.com/images/I/51cs3c51v3L._SL500_.jpg)
+
+I went looking for a photo of Fraiser's view to add to this blog, but turned up nothing. Ideally, I would show his view from the show and then try to replicate it with a photo I've taken. Then I stumbled onto the location controversy.
+
+From IMDB's page on "Fraiser" (1993) Goofs:
 
 > The view of the Seattle skyline from Frasier's high-rise condo is an impossible view. The angle of the view, with the Space Needle in foreground and the skyscrapers in the background, is from north of downtown Seattle looking south. There are no high-rise condos north of the Space Needle, just one very massive hill, Queen Anne Hill. In order to get the view that he has, Frasier would need to have a ground-level house about halfway up the side of Queen Anne Hill.
 
-Again, I haven't seen the view, but there is at least one high-rise building on the south hill of Queen Anne facing the Space Needle. The Space Needle is southeast of Kerry Park. Below is a photo that was taken from Kerry Park. ![](./img/queen-anne-view.jpg) _Photo Kerry Park: Memorial Day in Seattle by FLICKR user jeffwilcox_ User _OneHappyHusky_ on the site MovieMistakes.com states that Fraiser did not live in Queen Anne, but instead was located on the east side of Lake Union. From [Fraiser TV corrections](http://www.moviemistakes.com/tv3267/corrections):
+Again, I haven't seen the view, but there is at least one high-rise building on the south hill of Queen Anne facing the Space Needle. The Space Needle is southeast of Kerry Park. Below is a photo that was taken from Kerry Park.
+
+![](./img/queen-anne-view.jpg)
+
+_Photo Kerry Park: Memorial Day in Seattle by FLICKR user jeffwilcox_
+
+User _OneHappyHusky_ on the site MovieMistakes.com states that Fraiser did not live in Queen Anne, but instead was located on the east side of Lake Union. From [Fraiser TV corrections](http://www.moviemistakes.com/tv3267/corrections):
 
 > The sweeping view of Seattle that Frasier has from his living room window would only be possible if he lived atop one of the transmission towers on nearby Queen Anne Hill. _\[Not True. The physical citi-scape of Seattle proves this wrong, look at any map! The view from "Frasier" is clearly looking westward (note position of Space Needle to the city). Further, the top of Queen Anne Hill is listed (check Wikipedia or Google) at 500 feet above sea level, and the Space Needle is listed at 502'. to add a transmission tower would create an image looking DOWN on the Space Needle. Truthfully, the image of Frasier is looking WEST across Lake Union and not at ALL related to the Queen Anne Hill area at all._
 

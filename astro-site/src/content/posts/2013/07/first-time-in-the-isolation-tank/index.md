@@ -9,7 +9,17 @@ description: "Last Friday I did an hour in an isolation tank at Float Seattle. I
 commentCount: 8
 ---
 
-Last Friday I did an hour in an isolation tank at Float Seattle. I heard Joe Rogan raving how powerful the experience of being in a sensory deprived chamber, so when I learned there was a place just a few miles away from me where I could try it, I went. In this clip Joe Rogan explains how the tank works and why he likes them.  According to Rogan you need to do the isolation tank several times before you can begin to experience the true benefit. I'll take his word for it, because my experience was rather unremarkable. It didn't relax me or energize me. It was a big nothing for me. The day after the tank experience I was suppose to report to a friend my thoughts. Even though I spend over an hour with my friend on both Saturday and Sunday, I didn't bring it up. I had completely forgot about the experience. I almost forgot to do this blog post, but had written a note down so I wouldn't. To trust that Rogan is correct, would require a big time and money commitment. With round trip drive and parking, each session works out to two hours. Although the price for the first float is a fair $39 plus tax, the price goes up to $69, but they do have a monthly membership plan for $49. Compare this to my recent 8 days of sauna and steam room visits. The sauna was immediately calming and my sleep quality was amazing. I could be wrong, but if I'm going to spend $50 a month to relax, I am more likely to pick the sauna gym over the isolation tank membership.
+Last Friday I did an hour in an isolation tank at Float Seattle. I heard Joe Rogan raving how powerful the experience of being in a sensory deprived chamber, so when I learned there was a place just a few miles away from me where I could try it, I went.
+
+In this clip Joe Rogan explains how the tank works and why he likes them.
+
+According to Rogan you need to do the isolation tank several times before you can begin to experience the true benefit. I'll take his word for it, because my experience was rather unremarkable. It didn't relax me or energize me. It was a big nothing for me.
+
+The day after the tank experience I was suppose to report to a friend my thoughts. Even though I spend over an hour with my friend on both Saturday and Sunday, I didn't bring it up. I had completely forgot about the experience. I almost forgot to do this blog post, but had written a note down so I wouldn't.
+
+To trust that Rogan is correct, would require a big time and money commitment. With round trip drive and parking, each session works out to two hours. Although the price for the first float is a fair $39 plus tax, the price goes up to $69, but they do have a monthly membership plan for $49.
+
+Compare this to my recent 8 days of sauna and steam room visits. The sauna was immediately calming and my sleep quality was amazing. I could be wrong, but if I'm going to spend $50 a month to relax, I am more likely to pick the sauna gym over the isolation tank membership.
 
 ---
 

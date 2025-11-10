@@ -9,7 +9,11 @@ description: "This weekend, I read Dr. James DiNicolantonio's book The Salt Fix:
 commentCount: 14
 ---
 
-This weekend, I read Dr. James DiNicolantonio's book The Salt Fix: Why the Experts Got it All Wrong—and How Eating More Might Save Your Life. I wasn't sure I would get much value from the book since I've known for a decade now that the science behind the salt restriction recommendations is weak. But I did learn a lot. Before I get to the summary, my quick review is that the author made a solid case that most of us do not need to restrict salt, and, in fact, some could benefit from a higher salt intake. _(He did mention three cases where reduced salt intake might be appropriate: Hyperaldosteronism, Cushing's disease, and Liddle syndrome.)_ The part of the book I didn't care for was his demonization of sugar as THE driver of obesity and other health ailments. Sugar likely plays a role in obesity and diabetes, but it is not the sole driver. See the charts on [Carbohydrate, Sugar, and Obesity in America](http://wholehealthsource.blogspot.com/2015/11/carbohydrate-sugar-and-obesity-in.html) and then try to explain that sugar is THE cause of obesity and diabetes. Doesn't work so well. Which means it is either something else or a combination of factors.
+This weekend, I read Dr. James DiNicolantonio's book The Salt Fix: Why the Experts Got it All Wrong—and How Eating More Might Save Your Life. I wasn't sure I would get much value from the book since I've known for a decade now that the science behind the salt restriction recommendations is weak. But I did learn a lot.
+
+Before I get to the summary, my quick review is that the author made a solid case that most of us do not need to restrict salt, and, in fact, some could benefit from a higher salt intake. _(He did mention three cases where reduced salt intake might be appropriate: Hyperaldosteronism, Cushing's disease, and Liddle syndrome.)_
+
+The part of the book I didn't care for was his demonization of sugar as THE driver of obesity and other health ailments. Sugar likely plays a role in obesity and diabetes, but it is not the sole driver. See the charts on [Carbohydrate, Sugar, and Obesity in America](http://wholehealthsource.blogspot.com/2015/11/carbohydrate-sugar-and-obesity-in.html) and then try to explain that sugar is THE cause of obesity and diabetes. Doesn't work so well. Which means it is either something else or a combination of factors.
 
 
 ### Notes for The Salt Fix
@@ -36,11 +40,19 @@ This weekend, I read Dr. James DiNicolantonio's book The Salt Fix: Why the Exper
 -   Higher salt is good for the skin when it is sweated out. It can fight off bacterial infections.
 -   The end of the book covers the pros and cons of different salts. The author likes Redmond Sea Salt the best.
 
-Although it is not mentioned in the book, Dr. DiNicolantonio covered how salt might be preventive in tooth decay in the article [This Surprising Mineral Can Counteract The Effects Of Sugar](https://web.archive.org/web/20250116131919/https://www.mindbodygreen.com/articles/how-to-counteract-the-effects-of-sugar). Another interesting tidbit from that article:
+Although it is not mentioned in the book, Dr. DiNicolantonio covered how salt might be preventive in tooth decay in the article [This Surprising Mineral Can Counteract The Effects Of Sugar](https://web.archive.org/web/20250116131919/https://www.mindbodygreen.com/articles/how-to-counteract-the-effects-of-sugar).
+
+Another interesting tidbit from that article:
 
 > Salt also helps with digestion. Indeed, salt is made up of two essential minerals: sodium and chloride. Chloride is needed in the production of stomach acid, helping with digestion of food and absorbing nutrients
 
-Although I have not been avoiding salt, I think I could increase my intake a little. Normally, I wake up and drink a few glasses of water, then drink coffee, and then go to the gym. What I'll experiment with is consuming 3-5 grams of salt with water before my coffee and exercise. ![salt fix book](./img/salt-fix.jpg) _The Salt Fix: Why the Experts Got It All Wrong--and How Eating More Might Save Your Life by James DiNicolantonio_ UPDATE JUNE 2021: Check out [Fact-checking The Salt Fix](https://rebelthoughts.org/fact-checking-the-salt-fix/) for a deeper dive into the claims made in the book.
+Although I have not been avoiding salt, I think I could increase my intake a little. Normally, I wake up and drink a few glasses of water, then drink coffee, and then go to the gym. What I'll experiment with is consuming 3-5 grams of salt with water before my coffee and exercise.
+
+![salt fix book](./img/salt-fix.jpg)
+
+_The Salt Fix: Why the Experts Got It All Wrong--and How Eating More Might Save Your Life by James DiNicolantonio_
+
+UPDATE JUNE 2021: Check out [Fact-checking The Salt Fix](https://rebelthoughts.org/fact-checking-the-salt-fix/) for a deeper dive into the claims made in the book.
 
 ---
 

@@ -9,7 +9,9 @@ description: "Early in my 4 week trip to Asia, I discovered that slow upload spe
 commentCount: 0
 ---
 
-Early in my 4 week trip to Asia, I discovered that slow upload speeds would prevent me from posting my travel blogs in a sequential timeline. Now that I have all my posts finished (finally), I can assemble them in order with links. I **bolded** the more important posts. At the end of the post, I list some of my trip favorites. Seattle, USA
+Early in my 4 week trip to Asia, I discovered that slow upload speeds would prevent me from posting my travel blogs in a sequential timeline. Now that I have all my posts finished (finally), I can assemble them in order with links. I **bolded** the more important posts. At the end of the post, I list some of my trip favorites.
+
+Seattle, USA
 
 -   [Off to Thailand](/2009/11/off-to-thailand/)
 
@@ -85,4 +87,6 @@ Trip Highlights.
 -   **Favorite Airport:** Kuala Lumpur, Malaysia
 -   **Favorite Meal:** Baby chicks on a stick in Ko Samui, Thailand for under $1 USD. (on right in photo below)
 
-![stick-meat-thailand](./img/stick-meat-thailand.jpg) Will I return? Maybe, but probably not. I'm the type of traveler that would rather seek out a new destination than return to a place that I've already visited. With that said, I would not turn down a chance to return to Bangkok or Chiang Mai.
+![stick-meat-thailand](./img/stick-meat-thailand.jpg)
+
+Will I return? Maybe, but probably not. I'm the type of traveler that would rather seek out a new destination than return to a place that I've already visited. With that said, I would not turn down a chance to return to Bangkok or Chiang Mai.

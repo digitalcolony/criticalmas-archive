@@ -8,7 +8,13 @@ description: "Today, I made my 40th whole blood donation for the state of Washin
 commentCount: 5
 ---
 
-Today, I made my 40th whole blood donation for the state of Washington. 40 pints works out to 5 gallons! ![5 gallons blood ](./img/5-gallons.jpg) If an average-sized male has 12 pints of blood in their body, that means I've completely replaced mine 3 times in the last 9+ years. I didn't even count the 2 donations I did in California in 2014-2015. My blood is toddler fresh! Will I get my 10-gallon pin by 2030? We will see.
+Today, I made my 40th whole blood donation for the state of Washington. 40 pints works out to 5 gallons!
+
+![5 gallons blood ](./img/5-gallons.jpg)
+
+If an average-sized male has 12 pints of blood in their body, that means I've completely replaced mine 3 times in the last 9+ years. I didn't even count the 2 donations I did in California in 2014-2015. My blood is toddler fresh!
+
+Will I get my 10-gallon pin by 2030? We will see.
 
 ---
 

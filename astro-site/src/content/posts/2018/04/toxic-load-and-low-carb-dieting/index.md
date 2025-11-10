@@ -9,7 +9,15 @@ description: "This post is a continuation of the discussion of Detoxification N
 commentCount: 16
 ---
 
-_This post is a continuation of the discussion of_ [_Detoxifica_tion Notes (Science Not Woo-Woo)](/2018/04/detoxification-notes-science-not-woo-woo/). Correct me if I am wrong on this part, but I see a real problem with chronic low-carb diets if one is concerned with detoxification. As Dr. Walsh explained, toxins are found everywhere and with everyone. They are in our fat. Which means they are in the fat of the animals we eat. They share the same air we do. They too are exposed to heavy metals and environmental toxins. Couldn't ingesting anything but the leanest cuts of meat be an issue? One of the concerns with low-carb diets is the negative impact on the thyroid. What if a partial explanation is both the intake and release of these toxins on a constant basis? Are toxins associated with the "low-carb flu" symptoms? What if the heavy exposure and release of toxins is a contributing factor to those plateauing on low-carb? Especially if they are not consuming enough of the higher fiber foods needed to help remove those toxins.
+_This post is a continuation of the discussion of_ [_Detoxifica_tion Notes (Science Not Woo-Woo)](/2018/04/detoxification-notes-science-not-woo-woo/).
+
+Correct me if I am wrong on this part, but I see a real problem with chronic low-carb diets if one is concerned with detoxification. As Dr. Walsh explained, toxins are found everywhere and with everyone. They are in our fat. Which means they are in the fat of the animals we eat. They share the same air we do. They too are exposed to heavy metals and environmental toxins.
+
+Couldn't ingesting anything but the leanest cuts of meat be an issue?
+
+One of the concerns with low-carb diets is the negative impact on the thyroid. What if a partial explanation is both the intake and release of these toxins on a constant basis? Are toxins associated with the "low-carb flu" symptoms?
+
+What if the heavy exposure and release of toxins is a contributing factor to those plateauing on low-carb? Especially if they are not consuming enough of the higher fiber foods needed to help remove those toxins.
 
 
 ### The Research
@@ -21,9 +29,13 @@ After putting the first draft of this post together, I found this article.
 #### [How to remove environmental pollutants from raw meat](https://www.sciencedaily.com/releases/2016/05/160506100202.htm)
 
 
-The headline is not interesting, except to say that cooking lowers the toxin load, but by how much and which toxins were questions the article did not answer directly, except to say that cooking in a manner that removes the fat is ideal for lowering toxin exposure. I did find these interesting quotes.
+The headline is not interesting, except to say that cooking lowers the toxin load, but by how much and which toxins were questions the article did not answer directly, except to say that cooking in a manner that removes the fat is ideal for lowering toxin exposure.
 
-> The potential environmental toxins include inorganic elements such as arsenic, cadmium, mercury, lead, PAHs, PFAs, dioxins, pesticides and other persistent organic pollutants (POPs), such as polychlorinated biphenyls (PCBs), industrial chemicals which are viewed as one of the twelve most harmful pollutants produced by humans, according to the United Nations Environment Programme. Most of these substances are fat-soluble, so any food with high fat contents accumulates higher levels of micropollutants than plant matter. "PCBs and other POPs accumulate in the fatty parts of meat because they are fat soluble. Reduced consumption of meat fats will reduce the intake of PCBs. On the other hand, eating meat with a high fat content can result in a significant exposure to PCBs," the scientist explained.
+I did find these interesting quotes.
+
+> The potential environmental toxins include inorganic elements such as arsenic, cadmium, mercury, lead, PAHs, PFAs, dioxins, pesticides and other persistent organic pollutants (POPs), such as polychlorinated biphenyls (PCBs), industrial chemicals which are viewed as one of the twelve most harmful pollutants produced by humans, according to the United Nations Environment Programme.
+> 
+> Most of these substances are fat-soluble, so any food with high fat contents accumulates higher levels of micropollutants than plant matter. "PCBs and other POPs accumulate in the fatty parts of meat because they are fat soluble. Reduced consumption of meat fats will reduce the intake of PCBs. On the other hand, eating meat with a high fat content can result in a significant exposure to PCBs," the scientist explained.
 
 Also:
 
@@ -35,7 +47,13 @@ The entire article is worth reading. However, the article misses the obvious met
 ### My Takeaway
 
 
-Low-carb diets also have two other potential issues. They aren't as nutrient-dense or have as much fiber as higher-carb diets. Of course, there will be exceptions, but I'd stack my Peasant Diet, which is full of legumes and potatoes, up against any ketogenic or all-carnivore diet to measure which is more detoxifying. Am I wrong? ![cattle](./img/feliphe-schiarolli-501977-cattle.jpg) _Photo by [Feliphe Schiarolli](https://unsplash.com/@flpschi)_
+Low-carb diets also have two other potential issues. They aren't as nutrient-dense or have as much fiber as higher-carb diets. Of course, there will be exceptions, but I'd stack my Peasant Diet, which is full of legumes and potatoes, up against any ketogenic or all-carnivore diet to measure which is more detoxifying.
+
+Am I wrong?
+
+![cattle](./img/feliphe-schiarolli-501977-cattle.jpg)
+
+_Photo by [Feliphe Schiarolli](https://unsplash.com/@flpschi)_
 
 ---
 

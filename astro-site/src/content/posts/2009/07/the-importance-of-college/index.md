@@ -11,9 +11,13 @@ commentCount: 8
 
 I was digging through my old blog and came across this post from June 2004.
 
-> **10 Years Ago Today** - On 6/10/1994, I graduated from The Ohio State University. Although I'm proud of my school and degree, I will say that not once in my decade long working career did any employer ever check my old transcripts. And I will further say that nothing I learned in either the Business college or the Computer Science department assisted me in the workplace. EVERYTHING I do now to earn a paycheck, comes from skills I taught myself from books widely available at Barnes and Noble. No tutition or professor required. For all you bright self-starters coming out of high-school, who are still not sure if you want to go to college, there is a message here.
+> **10 Years Ago Today** - On 6/10/1994, I graduated from The Ohio State University. Although I'm proud of my school and degree, I will say that not once in my decade long working career did any employer ever check my old transcripts. And I will further say that nothing I learned in either the Business college or the Computer Science department assisted me in the workplace. EVERYTHING I do now to earn a paycheck, comes from skills I taught myself from books widely available at Barnes and Noble. No tutition or professor required.
+> 
+> For all you bright self-starters coming out of high-school, who are still not sure if you want to go to college, there is a message here.
 
-With the recession well underway, I see a lot of people racing back to college. This makes perfect sense if your profession requires licensing. However, the biggest takeaway lesson of this decade should be that DEBT is to be avoided. Piling up more student loans is no longer the ticket to a high-paying job. Access to knowledge is no longer being held hostage by the Universities. The internet has set it free. This is just my opinion, but I believe being debt-free during a deflationary credit collapse is more valuable than most degrees. I wonder what percent of college graduates would _give back_ their degrees in exchange for having their student loan debt absolved?
+With the recession well underway, I see a lot of people racing back to college. This makes perfect sense if your profession requires licensing. However, the biggest takeaway lesson of this decade should be that DEBT is to be avoided. Piling up more student loans is no longer the ticket to a high-paying job. Access to knowledge is no longer being held hostage by the Universities. The internet has set it free.
+
+This is just my opinion, but I believe being debt-free during a deflationary credit collapse is more valuable than most degrees. I wonder what percent of college graduates would _give back_ their degrees in exchange for having their student loan debt absolved?
 
 ---
 

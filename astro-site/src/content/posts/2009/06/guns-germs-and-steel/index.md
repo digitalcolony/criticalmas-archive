@@ -9,7 +9,11 @@ description: "I think my head is full. So much information was delivered across 
 commentCount: 4
 ---
 
-I think my head is full. So much information was delivered across 500+ pages. If I retain 10% of the information, I'll be happy. ![Guns, Germs, and Steel: The Fates of Human Societies](https://images-na.ssl-images-amazon.com/images/I/516H1W1ASTL.jpg) Guns, Germs, and Steel: The Fates of Human Societies by Jared Diamond is a monumental book. It is basically the history of humankind through the eyes of an evolutionary biologist. It covers the spread of populations, agriculture, languages, governments, germs and guns. A simple review won't do this book justice. It is an amazing book.
+I think my head is full. So much information was delivered across 500+ pages. If I retain 10% of the information, I'll be happy.
+
+![Guns, Germs, and Steel: The Fates of Human Societies](https://images-na.ssl-images-amazon.com/images/I/516H1W1ASTL.jpg) Guns, Germs, and Steel: The Fates of Human Societies by Jared Diamond is a monumental book. It is basically the history of humankind through the eyes of an evolutionary biologist. It covers the spread of populations, agriculture, languages, governments, germs and guns. A simple review won't do this book justice.
+
+It is an amazing book.
 
 ---
 

@@ -8,11 +8,17 @@ description: "Back in college, I worked as a grocery store cashier, so I could s
 commentCount: 23
 ---
 
-Back in college, I worked as a grocery store cashier, so I could see all the magazines that were in the checkout lane. Each month, they would add a new Cosmopolitan. It didn't take long to see a pattern in the titles. They were rewriting the same content over and over. We can laugh at the Cosmo ladies, but we guys are no different. We read the same ponderous articles on the same fitness topics over and over again. The only thing that changes is the title and maybe the name of the new study with 12 untrained college-aged males that confirmed the last 100 studies using 12 untrained college-aged males.
+Back in college, I worked as a grocery store cashier, so I could see all the magazines that were in the checkout lane. Each month, they would add a new Cosmopolitan. It didn't take long to see a pattern in the titles. They were rewriting the same content over and over.
 
-> Everything's been said before There's nothing left to say, anymore When it's all the same You can ask for it by name Marilyn Manson - This is the new shit
+We can laugh at the Cosmo ladies, but we guys are no different. We read the same ponderous articles on the same fitness topics over and over again. The only thing that changes is the title and maybe the name of the new study with 12 untrained college-aged males that confirmed the last 100 studies using 12 untrained college-aged males.
 
-I'm going to list a few of the fitness articles and video topics that I never want to be exposed to again. Then I'll rewrite the article in as few words as possible with common sense. I may forget a few, so add them in the comments. ![](./img/stressed-treadmill.jpg)
+> Everything's been said before There's nothing left to say, anymore When it's all the same You can ask for it by name
+> 
+> Marilyn Manson - This is the new shit
+
+I'm going to list a few of the fitness articles and video topics that I never want to be exposed to again. Then I'll rewrite the article in as few words as possible with common sense. I may forget a few, so add them in the comments.
+
+![](./img/stressed-treadmill.jpg)
 
 
 ### When is the best time of the day to exercise?
@@ -24,7 +30,13 @@ Whatever works best for your schedule. If multiple times of the day work for you
 ### What is the best number of reps or sets to gain strength or hypertrophy?
 
 
-Experiment. If you do higher reps, try lower, or vice-versa. Cycle quarterly, weekly, or even mid-set. Men have successfully gained muscle and strength using every combination of reps and sets. All these articles are nearly worthless because they used a fixed rep cadence which they maintain throughout each rep, set, and workout. How mechanical. There are a trillion combinations to try that will never be tested. Nor do they need to be. Do whatever gets you results, holds your interest, and keeps you coming back to the gym. I'm not even going to get into the skill aspect that rarely gets mentioned when measuring strength. [Been there, done that.](/2014/11/measuring-strength-hating-hit/)
+Experiment. If you do higher reps, try lower, or vice-versa. Cycle quarterly, weekly, or even mid-set. Men have successfully gained muscle and strength using every combination of reps and sets.
+
+All these articles are nearly worthless because they used a fixed rep cadence which they maintain throughout each rep, set, and workout. How mechanical.
+
+There are a trillion combinations to try that will never be tested. Nor do they need to be. Do whatever gets you results, holds your interest, and keeps you coming back to the gym.
+
+I'm not even going to get into the skill aspect that rarely gets mentioned when measuring strength. [Been there, done that.](/2014/11/measuring-strength-hating-hit/)
 
 
 ### Is 10,000 steps a day correct?

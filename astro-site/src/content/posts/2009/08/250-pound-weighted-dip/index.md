@@ -9,7 +9,9 @@ description: "For the past month, I haven't done a single weighted dip or pull-u
 commentCount: 0
 ---
 
-For the past month, I haven't done a single weighted dip or pull-up. Instead, I've been focusing on volume. I've lowered the weight and greatly increased the number of sets. The reps ALWAYS stay in the same 3-6 range. I believe in low-rep training more than Al Gore believes in Global Warming. Today I decided I'd do a few weighted dips. The volume training really made the weight seem lighter, so I decided to seek a new personal record.
+For the past month, I haven't done a single weighted dip or pull-up. Instead, I've been focusing on volume. I've lowered the weight and greatly increased the number of sets. The reps ALWAYS stay in the same 3-6 range. I believe in low-rep training more than Al Gore believes in Global Warming.
+
+Today I decided I'd do a few weighted dips. The volume training really made the weight seem lighter, so I decided to seek a new personal record.
 
 -   I did a 35x5 pound dip effortlessly.
 -   Then I did 45x5 pound dip like weight wasn't even there.

@@ -9,7 +9,33 @@ description: "A few weeks ago, I was searching for a podcast on Overcast and I s
 commentCount: 5
 ---
 
-A few weeks ago, I was searching for a podcast on Overcast and I stumbled across a title that I wasn't looking for but it grabbed my attention instantly. It was called the [Internet History Podcast](http://www.internethistorypodcast.com/).  After listening to a few of the initial episodes, I knew I had to get the book that was written by the host. ![how-the-internet-happened](./img/how-the-internet-happened.jpg) _How the Internet Happened: From Netscape to the iPhone by Brian McCullough_ I'm a fan of history, finance, and web development. I've been pushing content onto the web since at least [1996](/2010/07/my-first-dated-blog-post-was-from-july-1996/). I was there at the dawn of browsers with my dial-up modem. This book was for me. Have you ever told a story from years ago that sounds so incredible you start to doubt your own memory of the event? The lunacy of the dot-com days was one of those periods. This book not only reminded me that my memories were not exaggerated, but it was even wilder than I recalled. The numbers on some of those deals were insane. So much money was being plowed into even the shakiest of ideas. The late 1990s were a period of unbridled optimism about the future and what would be possible on the internet. Business plans and profits weren't important. Exponential growth was the key. Build it first, get big, and get rich. Imagine telling a 20-year old today that the former Surgeon General had a medical website in 1999 (DrKoop.com) that raised $85 million on an IPO for a site that had only earned lifetime revenues of $43,000. And this is far from the craziest story. Blue Mountain Arts was a website where all you did was send digital greeting cards. It was sold for $740 million. Insane! The book covers the early browser wars, the dot-com boom, the crash, blogging, the solid businesses that survived, Napster, how the first social networks started, and the early days of Facebook. The book concludes with the rise of mobile and the history behind the first iPhone. In many ways, this book made me nostalgic for the early days. Yes, the browsers and network speeds sucked. So did development tools, but we didn't know better. The story of the internet was still in the early innings. Back then those of us with even a minor amount of technical skills were pioneers. I started using the handle **_digitalcolony_** on the web back in 1998 because it felt like we were colonizing a barren digital landscape. ![](./img/digital-colony.gif) _The logo from my site from 1999._ Today, that feeling is gone. The internet feels like it needs to be disrupted from the walled-gardens of Facebook, Twitter, etc. It has gotten too static, predictable, and monopolistic. A handful of massively powerful companies now control the attention of almost all users on the Internet. In my opinion and maybe those that recall the early days, things have become boring. We are long overdue for the next major disruption. If you are interested in learning about the 1993-2007 era of the Internet and how we got to where we are now, read _How the Internet Happened._  Highly recommended.
+A few weeks ago, I was searching for a podcast on Overcast and I stumbled across a title that I wasn't looking for but it grabbed my attention instantly. It was called the [Internet History Podcast](http://www.internethistorypodcast.com/).  After listening to a few of the initial episodes, I knew I had to get the book that was written by the host.
+
+![how-the-internet-happened](./img/how-the-internet-happened.jpg)
+
+_How the Internet Happened: From Netscape to the iPhone by Brian McCullough_
+
+I'm a fan of history, finance, and web development. I've been pushing content onto the web since at least [1996](/2010/07/my-first-dated-blog-post-was-from-july-1996/). I was there at the dawn of browsers with my dial-up modem. This book was for me.
+
+Have you ever told a story from years ago that sounds so incredible you start to doubt your own memory of the event? The lunacy of the dot-com days was one of those periods. This book not only reminded me that my memories were not exaggerated, but it was even wilder than I recalled.
+
+The numbers on some of those deals were insane. So much money was being plowed into even the shakiest of ideas. The late 1990s were a period of unbridled optimism about the future and what would be possible on the internet. Business plans and profits weren't important. Exponential growth was the key. Build it first, get big, and get rich.
+
+Imagine telling a 20-year old today that the former Surgeon General had a medical website in 1999 (DrKoop.com) that raised $85 million on an IPO for a site that had only earned lifetime revenues of $43,000. And this is far from the craziest story.
+
+Blue Mountain Arts was a website where all you did was send digital greeting cards. It was sold for $740 million. Insane!
+
+The book covers the early browser wars, the dot-com boom, the crash, blogging, the solid businesses that survived, Napster, how the first social networks started, and the early days of Facebook. The book concludes with the rise of mobile and the history behind the first iPhone.
+
+In many ways, this book made me nostalgic for the early days. Yes, the browsers and network speeds sucked. So did development tools, but we didn't know better. The story of the internet was still in the early innings. Back then those of us with even a minor amount of technical skills were pioneers. I started using the handle **_digitalcolony_** on the web back in 1998 because it felt like we were colonizing a barren digital landscape.
+
+![](./img/digital-colony.gif)
+
+_The logo from my site from 1999._
+
+Today, that feeling is gone. The internet feels like it needs to be disrupted from the walled-gardens of Facebook, Twitter, etc. It has gotten too static, predictable, and monopolistic. A handful of massively powerful companies now control the attention of almost all users on the Internet. In my opinion and maybe those that recall the early days, things have become boring. We are long overdue for the next major disruption.
+
+If you are interested in learning about the 1993-2007 era of the Internet and how we got to where we are now, read _How the Internet Happened._  Highly recommended.
 
 ---
 

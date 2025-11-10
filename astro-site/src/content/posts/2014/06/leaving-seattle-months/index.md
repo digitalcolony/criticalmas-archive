@@ -9,7 +9,21 @@ description: "Last fall I mentioned that I would be forced to move in mid 2014 d
 commentCount: 12
 ---
 
-Last fall I mentioned that I would be forced to move in mid 2014 due to the [evictions](/2013/10/evicted/). Well that time has arrived. The builders will start work on my apartment building on Tuesday. This means it is time for me to leave. The problem with moving now is that rents in Seattle are sky high due to strong demand and lagging supply. In the next six months, 7,000 new rental units will hit the market in the most desirable neighborhoods of Seattle. And they are still building like mad. Low interest rates are like crack to builders. I expect at minimum they will build enough to match current demand, but more likely, if history is any guidance, they will overbuild and the upward trend of rents will correct and reverse. I cover my thoughts in the post [Ballard Rents - Don't Believe the Hype!](/2014/03/ballard-rents-dont-believe-hype/) Because of all this, I think this is a good time to get out of town for a while. While I was researching my next move, I got an offer to stay with friends in Silicon Valley for free. They have an extra room for 6 months and they know and trust me. They both have stressful jobs with high time commitments. Having someone to help out with household tasks is a plus for them and a sweet deal for me. Since I am a digital nomad, it doesn't matter where I reside as long as I have a broadband connection. I've been in Seattle since August 2007. It will be nice to explore the San Francisco area. Besides the great food, the Bay Area has one of the fastest growing specialty coffee scenes in America now. While away I will maintain a Seattle address. After 6 months my plan is to return to Seattle in full negotiator mode to score a lease at a fair price. ![Ritual Coffee](./img/3985864835_2110d487d3_z.jpg) [Photo](https://www.flickr.com/photos/mojosaurus/3985864835/) by Ishwar
+Last fall I mentioned that I would be forced to move in mid 2014 due to the [evictions](/2013/10/evicted/). Well that time has arrived. The builders will start work on my apartment building on Tuesday. This means it is time for me to leave. The problem with moving now is that rents in Seattle are sky high due to strong demand and lagging supply.
+
+In the next six months, 7,000 new rental units will hit the market in the most desirable neighborhoods of Seattle. And they are still building like mad. Low interest rates are like crack to builders. I expect at minimum they will build enough to match current demand, but more likely, if history is any guidance, they will overbuild and the upward trend of rents will correct and reverse. I cover my thoughts in the post [Ballard Rents - Don't Believe the Hype!](/2014/03/ballard-rents-dont-believe-hype/)
+
+Because of all this, I think this is a good time to get out of town for a while.
+
+While I was researching my next move, I got an offer to stay with friends in Silicon Valley for free. They have an extra room for 6 months and they know and trust me. They both have stressful jobs with high time commitments. Having someone to help out with household tasks is a plus for them and a sweet deal for me. Since I am a digital nomad, it doesn't matter where I reside as long as I have a broadband connection.
+
+I've been in Seattle since August 2007. It will be nice to explore the San Francisco area. Besides the great food, the Bay Area has one of the fastest growing specialty coffee scenes in America now. While away I will maintain a Seattle address.
+
+After 6 months my plan is to return to Seattle in full negotiator mode to score a lease at a fair price.
+
+![Ritual Coffee](./img/3985864835_2110d487d3_z.jpg)
+
+[Photo](https://www.flickr.com/photos/mojosaurus/3985864835/) by Ishwar
 
 ---
 

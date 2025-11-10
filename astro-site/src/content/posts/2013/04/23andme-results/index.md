@@ -9,13 +9,27 @@ description: "A few weeks ago I received my genetic test results from 23andMe
 commentCount: 34
 ---
 
-A few weeks ago I received my genetic test results from _23andMe_. After [deliberating](/2013/01/genetic-knowledge-dilemma/) on if it was a good thing to know, I decided to get the $100 test. What made me get the test was when I imagined myself with different chronic illnesses and how different my life would be depending upon which illness was more likely. Plus I just love data. :) So am I genetic gold or genetic junk? The fact you are seeing this post should tell you that it is mostly gold. Had something bad surfaced on the report, I would have kept that secret.
+A few weeks ago I received my genetic test results from _23andMe_. After [deliberating](/2013/01/genetic-knowledge-dilemma/) on if it was a good thing to know, I decided to get the $100 test. What made me get the test was when I imagined myself with different chronic illnesses and how different my life would be depending upon which illness was more likely. Plus I just love data. :)
+
+So am I genetic gold or genetic junk? The fact you are seeing this post should tell you that it is mostly gold. Had something bad surfaced on the report, I would have kept that secret.
 
 
 ### Risk Factors
 
 
-From the screenshot below, I learned that I have **decreased risk** for several of the most pressing health conditions. Those include heart disease, diabetes, Alzheimer's and MS. ![23-decreased](./img/23-decreased.png) _Note: I reduced the image size so it would fit better on this post. The font size is larger and more readable online._  In the Typical Risk section, a few different forms of cancer, obesity and Parkinson's show up. ![23-typical](./img/23-typical.png) I only had a few items that showed up as Elevated Risk. One was kidney disease, which is something I had never heard of before. Clicking into the report on kidney disease tells me that **only 27-33% is attributable to genetics**. The rest is environmental and the recommendation is to not smoke, eat healthily and exercise. Done, done and done. ![23-elevated](./img/23-elevated.png)
+From the screenshot below, I learned that I have **decreased risk** for several of the most pressing health conditions. Those include heart disease, diabetes, Alzheimer's and MS.
+
+![23-decreased](./img/23-decreased.png)
+
+_Note: I reduced the image size so it would fit better on this post. The font size is larger and more readable online._ 
+
+In the Typical Risk section, a few different forms of cancer, obesity and Parkinson's show up.
+
+![23-typical](./img/23-typical.png)
+
+I only had a few items that showed up as Elevated Risk. One was kidney disease, which is something I had never heard of before. Clicking into the report on kidney disease tells me that **only 27-33% is attributable to genetics**. The rest is environmental and the recommendation is to not smoke, eat healthily and exercise. Done, done and done.
+
+![23-elevated](./img/23-elevated.png)
 
 
 ### Drug Responses
@@ -31,19 +45,27 @@ I learned that I have a reduced response to a drug class called _Clopidogrel_, w
 ### Inherited Conditions and Traits
 
 
-There are entire reports for inherited conditions and traits. The one thing that stood out on my inherited conditions was that I have an _Alpha-1 Antitrypsin_ deficiency, which is a protein that primarily protects the lungs. Their advice is I definitively shouldn't start smoking because my lungs would have less protection than someone with two copies of the M (normal) form of the SERPINA1 gene. I found the Traits section more interesting. From my saliva sample, they were able to say that my eyes were likely blue and that I am likely lactose tolerant. True and true. However, the report stated I do not have an alcohol flush reaction, which is false. And in the more good news category, I discovered that I am **norovirus resistant**. This is the "stomach flu" outbreak that sometimes hit cruise ships.
+There are entire reports for inherited conditions and traits. The one thing that stood out on my inherited conditions was that I have an _Alpha-1 Antitrypsin_ deficiency, which is a protein that primarily protects the lungs. Their advice is I definitively shouldn't start smoking because my lungs would have less protection than someone with two copies of the M (normal) form of the SERPINA1 gene.
+
+I found the Traits section more interesting. From my saliva sample, they were able to say that my eyes were likely blue and that I am likely lactose tolerant. True and true. However, the report stated I do not have an alcohol flush reaction, which is false. And in the more good news category, I discovered that I am **norovirus resistant**. This is the "stomach flu" outbreak that sometimes hit cruise ships.
 
 
 ### Muscle Talk
 
 
-The Muscle Performance report really surprised me. Before I share my data, I want to refer back to a post I did in August 2012 called [Is High-Intensity Training Best for Ectomorphs?](/2012/08/is-high-intensity-training-best-for-ectomorphs/) The book Body By Science talks about the alpha-actinin-3 gene and how those trainers who lack that marker could be _modest intensity_ responders. Meaning that high intensity might not be best for them. They tend to be built for endurance. And unless I misread everything, they tend to be ectomorphs. Since last August, I assumed I was in this camp and have reduced my intensity. Well, maybe it is time to turn back up the intensity because I have one copy of the alpha-actinin-3 gene! Did not see that one coming. ![23-muscle](./img/23-muscle.png)
+The Muscle Performance report really surprised me. Before I share my data, I want to refer back to a post I did in August 2012 called [Is High-Intensity Training Best for Ectomorphs?](/2012/08/is-high-intensity-training-best-for-ectomorphs/) The book Body By Science talks about the alpha-actinin-3 gene and how those trainers who lack that marker could be _modest intensity_ responders. Meaning that high intensity might not be best for them. They tend to be built for endurance. And unless I misread everything, they tend to be ectomorphs.
+
+Since last August, I assumed I was in this camp and have reduced my intensity. Well, maybe it is time to turn back up the intensity because I have one copy of the alpha-actinin-3 gene! Did not see that one coming.
+
+![23-muscle](./img/23-muscle.png)
 
 
 ### Family and Friends
 
 
-There is an entire ancestry component to the _23andME_ that I've just begun to look at. They have already genetically connected me with 989 3rd to 6th cousins. I've learned that I'm 99.5% European - and I thought I was Korean. ;) How much caveman am I?  2.9%. ![23-neader](./img/23-neader.png)
+There is an entire ancestry component to the _23andME_ that I've just begun to look at. They have already genetically connected me with 989 3rd to 6th cousins. I've learned that I'm 99.5% European - and I thought I was Korean. ;) How much caveman am I?  2.9%.
+
+![23-neader](./img/23-neader.png)
 
 
 ### Highly Recommended

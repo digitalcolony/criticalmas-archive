@@ -9,7 +9,13 @@ description: "History, statistics, psychology and a little bit of biology. Of co
 commentCount: 1
 ---
 
-History, statistics, psychology and a little bit of biology. Of course I'm going to like this book. ![The Science of Fear: Why We Fear the Things We Shouldn't--and Put Ourselves in Greater Danger](https://images-na.ssl-images-amazon.com/images/I/41O9MaRhZsL._SL500_.jpg) _The Science of Fear: Why We Fear the Things We Shouldn't--and Put Ourselves in Greater Danger by Daniel Gardner_ started off a little slow for me. Many of the studies cited I had read about in other books. Just when I was about to bail on the book, the author got his voice and the book finished strong. _The Science of Fear_ is about how we humans have two systems to deal with processing information: The Head and The Gut. The Gut looks for examples and doesn't understand probabilities in the modern world. The Head can overcome The Gut with logic but often doesn't - because thinking is hard. The book covers how we never lived in safer times, yet are bombarded with messages of fear from the media, advertisers, and our own government. This is a really good book, which I highly recommend.
+History, statistics, psychology and a little bit of biology. Of course I'm going to like this book.
+
+![The Science of Fear: Why We Fear the Things We Shouldn't--and Put Ourselves in Greater Danger](https://images-na.ssl-images-amazon.com/images/I/41O9MaRhZsL._SL500_.jpg) _The Science of Fear: Why We Fear the Things We Shouldn't--and Put Ourselves in Greater Danger by Daniel Gardner_ started off a little slow for me. Many of the studies cited I had read about in other books. Just when I was about to bail on the book, the author got his voice and the book finished strong.
+
+_The Science of Fear_ is about how we humans have two systems to deal with processing information: The Head and The Gut. The Gut looks for examples and doesn't understand probabilities in the modern world. The Head can overcome The Gut with logic but often doesn't - because thinking is hard. The book covers how we never lived in safer times, yet are bombarded with messages of fear from the media, advertisers, and our own government.
+
+This is a really good book, which I highly recommend.
 
 ---
 

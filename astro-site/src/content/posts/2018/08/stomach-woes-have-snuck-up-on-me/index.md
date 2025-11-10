@@ -8,7 +8,21 @@ description: "In the last year, I have had increasing issues with stomach pain. 
 commentCount: 17
 ---
 
-In the last year, I have had increasing issues with stomach pain. Nothing too bad. Yet with increasing frequency. At first, I thought that the increased fiber from a peasant diet was the culprit. I also thought it might be legumes (still properly prepared). So I reduced both and then I had issues with two meat-based meals at restaurants. Another suspect was the high amount of resistant starch I was getting via chilled potatoes. To address that I started re-heating potatoes. I'd feel better for a few days. Then worse. I could not find a pattern, other than the frequency has been increasing. Then a week ago, I may have discovered the trigger. After 25 years of drinking black coffee on an empty stomach with zero issues, I don't think I can anymore. I'm not 100% certain. More like 60% now. But what happens is my stomach starts gurgling loudly when I drink black coffee first thing in the morning without food. My initial tests have been trying to find the least amount of food I can still consume at 5:30 AM so I can drink coffee. Those tests are not going well. I really do not want to start my eating window this early. An eating window of more than 12 hours almost always leads to weight gain. Plus I am not hungry that early. I just want glorious coffee. I started adding half & half to that first coffee and it seems to help. I am also feeling fuller for much longer after eating. It feels like my digestion is slower. I am at the initial stages of trying to solve this riddle. If you have any experience you can share or tips, please leave a comment. I lost 4 pounds in the last week and I was trying to gain muscle. Not good. ![](./img/drink-more-coffee.jpg)
+In the last year, I have had increasing issues with stomach pain. Nothing too bad. Yet with increasing frequency.
+
+At first, I thought that the increased fiber from a peasant diet was the culprit. I also thought it might be legumes (still properly prepared). So I reduced both and then I had issues with two meat-based meals at restaurants. Another suspect was the high amount of resistant starch I was getting via chilled potatoes. To address that I started re-heating potatoes.
+
+I'd feel better for a few days. Then worse. I could not find a pattern, other than the frequency has been increasing.
+
+Then a week ago, I may have discovered the trigger. After 25 years of drinking black coffee on an empty stomach with zero issues, I don't think I can anymore. I'm not 100% certain. More like 60% now. But what happens is my stomach starts gurgling loudly when I drink black coffee first thing in the morning without food.
+
+My initial tests have been trying to find the least amount of food I can still consume at 5:30 AM so I can drink coffee. Those tests are not going well. I really do not want to start my eating window this early. An eating window of more than 12 hours almost always leads to weight gain. Plus I am not hungry that early. I just want glorious coffee. I started adding half & half to that first coffee and it seems to help.
+
+I am also feeling fuller for much longer after eating. It feels like my digestion is slower.
+
+I am at the initial stages of trying to solve this riddle. If you have any experience you can share or tips, please leave a comment. I lost 4 pounds in the last week and I was trying to gain muscle. Not good.
+
+![](./img/drink-more-coffee.jpg)
 
 ---
 

@@ -9,7 +9,13 @@ description: "One of the jobs I had in college was loading trucks for UPS. It wa
 commentCount: 9
 ---
 
-One of the jobs I had in college was [loading trucks for UPS](/2009/04/autophagy-and-loading-trucks-for-ups/). It was the most exhausting job I've ever had. It made [Army Basic Training](/2008/04/military-mas/) seem like working at a library. One night I came home so worn out that I couldn't even turn to my side to go to sleep. After an entire childhood as a side sleeper, I became a back sleeper. And until recently I remained a back sleeper. ![](./img/baby-mas-sleep.jpg "baby-mas-sleep") _Me as side sleeper (2 days old)_ On the night of January 23rd I woke up with a severe headache and discovered I was having trouble breathing. I was alarmed enough to spend a few hours researching sleep apnea. I had always assumed that because I am lean and do not snore that sleep apnea wasn't possible. Turns out that was a false assumption. One of the things I learned was that **you can increase oxygen flow by sleeping on your side**. From the Wikipedia page on [sleep apnea](https://en.wikipedia.org/wiki/Sleep_apnea#Treatment):
+One of the jobs I had in college was [loading trucks for UPS](/2009/04/autophagy-and-loading-trucks-for-ups/). It was the most exhausting job I've ever had. It made [Army Basic Training](/2008/04/military-mas/) seem like working at a library. One night I came home so worn out that I couldn't even turn to my side to go to sleep. After an entire childhood as a side sleeper, I became a back sleeper. And until recently I remained a back sleeper.
+
+![](./img/baby-mas-sleep.jpg "baby-mas-sleep")
+
+_Me as side sleeper (2 days old)_
+
+On the night of January 23rd I woke up with a severe headache and discovered I was having trouble breathing. I was alarmed enough to spend a few hours researching sleep apnea. I had always assumed that because I am lean and do not snore that sleep apnea wasn't possible. Turns out that was a false assumption. One of the things I learned was that **you can increase oxygen flow by sleeping on your side**. From the Wikipedia page on [sleep apnea](https://en.wikipedia.org/wiki/Sleep_apnea#Treatment):
 
 > For mild cases of sleep apnea, physicians often recommend sleeping on one's side, which can prevent the tongue and palate from falling backwards in the throat and blocking the airway.
 
@@ -19,13 +25,21 @@ I wasn't even sure I had even a minor case of sleep apnea, but this was worth tr
 ### Measuring Sleep Quality
 
 
-Starting last August 21st, I began tracking sleep quality independently from headaches. Although they are correlated, that correlation is not 100%. Sleep quality can be improved by improving a response to a headache of a given severity. A poor response results in poor sleep quality. A good response results in an improved Sleep Quality score even at the same severity. **Side sleep - so far - seems to be having a positive impact on Sleep Quality.** To the data! **\[table id=15 /\]** _\* The Side Sleep numbers uses 5 days worth of March 2012 data. AVG=average, HA=Headache, Headaches are scored on a scale of 5, with 0 representing no headache and 5 being the most intense. Sleep Quality is also ranked on a scale of 5, with 5 being perfect sleep._  Looking at the data, it appears that there was some improvement when I went from being a back sleeper to a side sleeper. I hesitate to get excited, because I may just not have enough data to draw a true conclusion. **My hunch tells me that sleeping on my side is increasing my sleep quality by delaying the headache until later in the night. And _maybe_ by delaying the headache, it surfaces with a lower intensity.**
+Starting last August 21st, I began tracking sleep quality independently from headaches. Although they are correlated, that correlation is not 100%. Sleep quality can be improved by improving a response to a headache of a given severity. A poor response results in poor sleep quality. A good response results in an improved Sleep Quality score even at the same severity. **Side sleep - so far - seems to be having a positive impact on Sleep Quality.** To the data!
+
+**\[table id=15 /\]**
+
+_\* The Side Sleep numbers uses 5 days worth of March 2012 data. AVG=average, HA=Headache, Headaches are scored on a scale of 5, with 0 representing no headache and 5 being the most intense. Sleep Quality is also ranked on a scale of 5, with 5 being perfect sleep._ 
+
+Looking at the data, it appears that there was some improvement when I went from being a back sleeper to a side sleeper. I hesitate to get excited, because I may just not have enough data to draw a true conclusion. **My hunch tells me that sleeping on my side is increasing my sleep quality by delaying the headache until later in the night. And _maybe_ by delaying the headache, it surfaces with a lower intensity.**
 
 
 ### Trading One Problem For Another?
 
 
-Since I started side sleep, I have noticed many mornings that I wake up with pressure in my right ear. Almost like the first few times I flew in an airplane. It isn't painful, but it is annoying. I'll happily take a few hours of ear pressure over a sinus headache any day, as I don't feel it until after I wake up. This might even be a clue to the root causes of the headache? I'll continue sleeping on my side and collecting more data. The hunt continues.
+Since I started side sleep, I have noticed many mornings that I wake up with pressure in my right ear. Almost like the first few times I flew in an airplane. It isn't painful, but it is annoying. I'll happily take a few hours of ear pressure over a sinus headache any day, as I don't feel it until after I wake up. This might even be a clue to the root causes of the headache?
+
+I'll continue sleeping on my side and collecting more data. The hunt continues.
 
 ---
 

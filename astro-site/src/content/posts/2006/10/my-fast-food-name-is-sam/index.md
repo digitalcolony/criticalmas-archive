@@ -29,6 +29,10 @@ Back in college, I had a pal of mine that used the name JESUS when ordering. Tha
 
 > _Jesus. The Jesus with the fish taco. The Jesus with the fish taco and the Diet Coke._
 
-For a while, I experimented with names of competing businesses. When I went to Baja Fresh, my name was RUBIO. When I was at Starbucks, I was PEET. After a while, I felt like a spy with too many aliases. Then you forget your cash and suddenly you're using Michael's Mastercard. Oops. I still had the issue that they couldn't spell my name. My last attempt was to tell the cashier my name was whatever their name was. Just read back their name tag. The Baja Fresh on Mira Mesa got a hoot out of this. For over a year my name was JEAN KARLO (pronounced John Carlo). They even hooked me up with free drinks. Sadly this technique failed elsewhere. Most cashiers are female and giving a woman name just causes confusion and slows the line down. This leads me to finally pick and stick with a single fast food name. My name is Sam. It's my initials backward. Nobody has misspelled it. Nobody has mispronounced it. And I've never bumped elbows with another guy named Sam who thinks it might be his order. That's something that often happened when I was MICHAEL.
+For a while, I experimented with names of competing businesses. When I went to Baja Fresh, my name was RUBIO. When I was at Starbucks, I was PEET. After a while, I felt like a spy with too many aliases. Then you forget your cash and suddenly you're using Michael's Mastercard. Oops.
+
+I still had the issue that they couldn't spell my name. My last attempt was to tell the cashier my name was whatever their name was. Just read back their name tag. The Baja Fresh on Mira Mesa got a hoot out of this. For over a year my name was JEAN KARLO (pronounced John Carlo). They even hooked me up with free drinks. Sadly this technique failed elsewhere. Most cashiers are female and giving a woman name just causes confusion and slows the line down.
+
+This leads me to finally pick and stick with a single fast food name. My name is Sam. It's my initials backward. Nobody has misspelled it. Nobody has mispronounced it. And I've never bumped elbows with another guy named Sam who thinks it might be his order. That's something that often happened when I was MICHAEL.
 
 > _Sam your order is up._

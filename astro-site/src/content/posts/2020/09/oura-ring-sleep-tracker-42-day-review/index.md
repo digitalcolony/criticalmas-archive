@@ -9,12 +9,18 @@ description: "This summer I went looking for my next health challenge. After rea
 commentCount: 10
 ---
 
-This summer I went looking for my next health challenge. After reading Super Human by Dave Asprey and listening to Peter Attia's Drive podcast, I decided to tackle improving my sleep quality. They both like the Oura Ring as a way to track and measure sleep. Before I bought the ring, I considered my sleep to be good. Not great, but good. I have made tremendous improvements in the past 7 years or so. But, I wanted to go from good to great. If I could learn to hack my sleep as well as I've hacked my weight and blood tests, then why not? In addition to sleep tracking, the Oura ring also provides activity tracking. Since I have an iPhone and an  Apple Watch, I had no need for those features. I purchased the Oura Ring for two features.
+This summer I went looking for my next health challenge. After reading Super Human by Dave Asprey and listening to Peter Attia's Drive podcast, I decided to tackle improving my sleep quality. They both like the Oura Ring as a way to track and measure sleep.
+
+Before I bought the ring, I considered my sleep to be good. Not great, but good. I have made tremendous improvements in the past 7 years or so. But, I wanted to go from good to great. If I could learn to hack my sleep as well as I've hacked my weight and blood tests, then why not?
+
+In addition to sleep tracking, the Oura ring also provides activity tracking. Since I have an iPhone and an  Apple Watch, I had no need for those features. I purchased the Oura Ring for two features.
 
 1.  Detecting and measuring the stages of my sleep (Light, REM, and Deep).
 2.  Measuring HRV (Heart Rate Variability)
 
-Although I have mixed feelings with the sleep measurements, I am disappointed that the Oura Ring only tracks HRV during sleep and when you use their meditation/breathing app called "Take a Moment". I really want to know my HRV throughout the day. Knowing when it drops would give me feedback to make adjustments. I have an  Apple Watch Series 1, which only tracks my HRV when I do the Breath app. I believe the newer  Apple Watch models track it all the time. 🤷🏼‍♂️ I think this means I'll need to get another wearable device to get 24/7 HRV. I'll revisit this point later in the post.
+Although I have mixed feelings with the sleep measurements, I am disappointed that the Oura Ring only tracks HRV during sleep and when you use their meditation/breathing app called "Take a Moment". I really want to know my HRV throughout the day. Knowing when it drops would give me feedback to make adjustments. I have an  Apple Watch Series 1, which only tracks my HRV when I do the Breath app. I believe the newer  Apple Watch models track it all the time. 🤷🏼‍♂️
+
+I think this means I'll need to get another wearable device to get 24/7 HRV. I'll revisit this point later in the post.
 
 
 ### Current Sleep Habits
@@ -39,27 +45,59 @@ Before I dive into the data, I want to share my current sleep habits. I have bee
 ### How's My Sleep?
 
 
-I would have predicted that my sleep would average 85 out of 100 before getting the ring. I was close. It was 79.69. But that number is low because there were two nights that had data gaps. Data gaps can happen when the battery is low or if your hand goes numb or if the sensor is dirty. I question the quality of the Oura sleep data that I'm getting. There have been several mornings that I think my score will be excellent and it isn't. The highest score I've been able to achieve was 92. The lowest was 63. My plan was to establish a predictable baseline based upon my current habits which are very consistent. But I couldn't. I felt I was close at times, but I don't know how much I trust the data. It feels mostly accurate, but there are mornings when the data doesn't match how I feel. I'm not alone in questioning the data. Here is a [Reddit thread](https://www.reddit.com/r/ouraring/comments/iwlzdv/dr_rhonda_patrick_says_the_oura_ring_likely/) on that very topic including an audio clip by Dr. Rhonda Patrick and her experience. And this writer had a ring replacement and saw the [scores change significantly](https://theunconventionalroute.com/oura-ring-review/) with the replaced ring.
+I would have predicted that my sleep would average 85 out of 100 before getting the ring. I was close. It was 79.69. But that number is low because there were two nights that had data gaps. Data gaps can happen when the battery is low or if your hand goes numb or if the sensor is dirty.
 
-> My average deep sleep scores with my new ring have jumped up by 37% and my REM scores have decreased by 30%. I didn’t make any changes that I know of to my sleeping habits, so I suspect that somehow a difference between the rings is causing these different scores. This indicates that the deep sleep and REM scores are completely unreliable.
+I question the quality of the Oura sleep data that I'm getting. There have been several mornings that I think my score will be excellent and it isn't. The highest score I've been able to achieve was 92. The lowest was 63.
+
+My plan was to establish a predictable baseline based upon my current habits which are very consistent. But I couldn't. I felt I was close at times, but I don't know how much I trust the data. It feels mostly accurate, but there are mornings when the data doesn't match how I feel.
+
+I'm not alone in questioning the data. Here is a [Reddit thread](https://www.reddit.com/r/ouraring/comments/iwlzdv/dr_rhonda_patrick_says_the_oura_ring_likely/) on that very topic including an audio clip by Dr. Rhonda Patrick and her experience. And this writer had a ring replacement and saw the [scores change significantly](https://theunconventionalroute.com/oura-ring-review/) with the replaced ring.
+
+> My average deep sleep scores with my new ring have jumped up by 37% and my REM scores have decreased by 30%.
+> 
+> I didn’t make any changes that I know of to my sleeping habits, so I suspect that somehow a difference between the rings is causing these different scores.
+> 
+> This indicates that the deep sleep and REM scores are completely unreliable.
 
 
 ### Initial Tests
 
 
-I wanted to see if I could move my sleep score with minor adjustments. The first thing I tested was alcohol. At 4 PM one day, I had just a few ounces of a hard cider. My sleep score tanked to 70. That is very good to know. Moving my meal or last coffee up an hour or 90 minutes had no predictive effect on my sleep. I do know from previous experiments that having coffee after 3 PM was bad for my sleep. 12:30 PM - 2 PM seems to be the sweet spot for me. ![oura ring 83](./img/oura-83.jpg) _A typical night for me. Oura penalizes you if fall asleep too fast. And although it says I was awake multiple times before 4 am, I have no recollection that was true. I recall sleeping straight to 4 am uninterrupted._
+I wanted to see if I could move my sleep score with minor adjustments. The first thing I tested was alcohol. At 4 PM one day, I had just a few ounces of a hard cider. My sleep score tanked to 70. That is very good to know.
+
+Moving my meal or last coffee up an hour or 90 minutes had no predictive effect on my sleep. I do know from previous experiments that having coffee after 3 PM was bad for my sleep. 12:30 PM - 2 PM seems to be the sweet spot for me.
+
+![oura ring 83](./img/oura-83.jpg)
+
+_A typical night for me. Oura penalizes you if fall asleep too fast. And although it says I was awake multiple times before 4 am, I have no recollection that was true. I recall sleeping straight to 4 am uninterrupted._
 
 
 ### Now What?
 
 
-I found the recommendations by Oura to be worthless. There is no guidance beyond little paternal - _you can do better -_ messages. Considering the audience for the Oura are health geeks that know the basics, I'd like to see some more actionable feedback. The charting software on the web version seems clumsy and not well designed for the task of finding patterns. The iOS version has prettier charts, but the same issue. How many clicks do I need to do to discover some sort of pattern that I can take action on? The obvious thing for me to do would be to run multiple week tests alongside my Oura data. It would be nice if I could feed Oura additional data such as caffeine intake or meal timing or room temperature or whatever metric. There is not that option. I would need to download the CSV files or connect to their API and then construct my own additional dataset and then run my own analysis. Do I need to learn ML (machine learning) to do that? And if I did, how predictive would the recommendations be given my concerns already with the data quality. Ideally, I would want recommendations not just based on my dataset, but datasets from all users that are like me. The problem with the Oura data is it just giving us the results without knowing (other than the time we went to bed and got up) any other inputs. I paid $300 for the ring hoping it would do more.
+I found the recommendations by Oura to be worthless. There is no guidance beyond little paternal - _you can do better -_ messages. Considering the audience for the Oura are health geeks that know the basics, I'd like to see some more actionable feedback.
+
+The charting software on the web version seems clumsy and not well designed for the task of finding patterns. The iOS version has prettier charts, but the same issue. How many clicks do I need to do to discover some sort of pattern that I can take action on?
+
+The obvious thing for me to do would be to run multiple week tests alongside my Oura data. It would be nice if I could feed Oura additional data such as caffeine intake or meal timing or room temperature or whatever metric.
+
+There is not that option. I would need to download the CSV files or connect to their API and then construct my own additional dataset and then run my own analysis. Do I need to learn ML (machine learning) to do that? And if I did, how predictive would the recommendations be given my concerns already with the data quality. Ideally, I would want recommendations not just based on my dataset, but datasets from all users that are like me.
+
+The problem with the Oura data is it just giving us the results without knowing (other than the time we went to bed and got up) any other inputs.
+
+I paid $300 for the ring hoping it would do more.
 
 
 ### 42 Day Review
 
 
-I'm still undecided on the Oura Ring for myself. I'm going to keep collecting data for myself, but I don't think I would recommend it for others unless they had the cash to drop and wanted something now. There are other products that will be competing with Oura soon. Amazon Halo comes to mind. Currently, I am shopping for my next health tracker. I want to be able to track and train my HRV in realtime. [Heart Math](https://store.heartmath.com/tech/#most-popular-products-section) looks interesting, but I don't like the idea of clipping the sensor to my ear, but if that is what it takes to get accurate data, it is an option. Updating my Apple Watch to the newest version is also an option. It would track the HRV 24/7, but unless I'm missing something it wouldn't provide the tools to train in realtime. And could it provide alerts should my HRV drop too low? The [Muse 2](https://www.alexfergus.com/blog/muse-2-review) looks interesting. Instead of measuring HRV, it measures brain waves in real-time. That ultimately might be the best path for indirectly training HRV. 🤷🏼‍♂️
+I'm still undecided on the Oura Ring for myself. I'm going to keep collecting data for myself, but I don't think I would recommend it for others unless they had the cash to drop and wanted something now. There are other products that will be competing with Oura soon. Amazon Halo comes to mind.
+
+Currently, I am shopping for my next health tracker. I want to be able to track and train my HRV in realtime. [Heart Math](https://store.heartmath.com/tech/#most-popular-products-section) looks interesting, but I don't like the idea of clipping the sensor to my ear, but if that is what it takes to get accurate data, it is an option.
+
+Updating my Apple Watch to the newest version is also an option. It would track the HRV 24/7, but unless I'm missing something it wouldn't provide the tools to train in realtime. And could it provide alerts should my HRV drop too low?
+
+The [Muse 2](https://www.alexfergus.com/blog/muse-2-review) looks interesting. Instead of measuring HRV, it measures brain waves in real-time. That ultimately might be the best path for indirectly training HRV. 🤷🏼‍♂️
 
 
 ### How About You?

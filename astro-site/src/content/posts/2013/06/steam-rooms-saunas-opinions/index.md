@@ -9,7 +9,13 @@ description: "Recently, I was having a chat with a friend when I mentioned with 
 commentCount: 11
 ---
 
-Recently, I was having a chat with a friend when I mentioned with pride how I never break a sweat exercising. I do no cardio and only lift weights. Between exercises, if I start to get hot, I will step outside the gym to cool down and then resume my workout. Doing this, I have found allows me to work out with greater intensity. Well, my friend was concerned that not sweating was unhealthy and toxic. Seattle weather rarely gets hot. I think the last time I really broke a sweat was the month I spent in [Southeast Asia in 2009](/2010/01/planes-trains-and-elephants-my-2009-asia-trip-overview/) and even that wasn't too much. So when I got a free week pass to a gym that has a sauna and a steam room, I decided to go break a sweat. That week started today. Before I went, I did a little online research. Seems the idea of [sweating out toxins is a myth](https://web.archive.org/web/20181103085155/http://articles.latimes.com:80/2008/jan/28/health/he-skeptic28). Since I seem to get the best ideas from the commenters on this blog, I figured I ask if anyone has regularly used either steam rooms or saunas and what they thought. What benefits? Any drawbacks? Best time to use them? How long do you spend in them? This is all new to me. I have 6 more days on my free pass.
+Recently, I was having a chat with a friend when I mentioned with pride how I never break a sweat exercising. I do no cardio and only lift weights. Between exercises, if I start to get hot, I will step outside the gym to cool down and then resume my workout. Doing this, I have found allows me to work out with greater intensity.
+
+Well, my friend was concerned that not sweating was unhealthy and toxic. Seattle weather rarely gets hot. I think the last time I really broke a sweat was the month I spent in [Southeast Asia in 2009](/2010/01/planes-trains-and-elephants-my-2009-asia-trip-overview/) and even that wasn't too much.
+
+So when I got a free week pass to a gym that has a sauna and a steam room, I decided to go break a sweat. That week started today. Before I went, I did a little online research. Seems the idea of [sweating out toxins is a myth](https://web.archive.org/web/20181103085155/http://articles.latimes.com:80/2008/jan/28/health/he-skeptic28).
+
+Since I seem to get the best ideas from the commenters on this blog, I figured I ask if anyone has regularly used either steam rooms or saunas and what they thought. What benefits? Any drawbacks? Best time to use them? How long do you spend in them? This is all new to me. I have 6 more days on my free pass.
 
 ---
 

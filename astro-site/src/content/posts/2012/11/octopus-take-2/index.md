@@ -13,7 +13,11 @@ Back in August I had my [first attempt cooking octopus](/2012/08/my-first-octopu
 
 > I followed this advice for the first few octopus and 3 minutes was too much. Way too chewy. The remaining ones took about half that time. The chewiness was far less, but still not absent. Even though my marinade was 6 hours, it seemed the flavors never soaked in to the octopus. The Korean spices tasted like more like a topping.
 
-I got a few comments suggesting that the 6 hour marinade wasn't enough. I would also need to massage the little guys. How much? 40-50 minutes. Well, there was never a chance that was going to happen. So a friend of mine and my cooking mentor told me about a Chinese hack. Add baking soda to the marinade. I used about half a teaspoon of baking soda and reduced the marinade time down to 3 hours. The result was my dish wasn't chewy. Still not awesome, but much better. ![Korean-Octopus](./img/Korean-Octopus.jpg) _Korean Octopus_
+I got a few comments suggesting that the 6 hour marinade wasn't enough. I would also need to massage the little guys. How much? 40-50 minutes. Well, there was never a chance that was going to happen. So a friend of mine and my cooking mentor told me about a Chinese hack. Add baking soda to the marinade. I used about half a teaspoon of baking soda and reduced the marinade time down to 3 hours. The result was my dish wasn't chewy. Still not awesome, but much better.
+
+![Korean-Octopus](./img/Korean-Octopus.jpg)
+
+_Korean Octopus_
 
 ---
 

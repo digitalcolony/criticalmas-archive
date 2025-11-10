@@ -9,7 +9,13 @@ description: "Three of my favorite authors are publishing brand new books this m
 commentCount: 7
 ---
 
-Three of my favorite authors are publishing brand new books this month. Good times. ![Antifragile: Things That Gain from Disorder](https://images-na.ssl-images-amazon.com/images/I/41sIRSbBZTL.jpg) Antifragile: Things That Gain from Disorder by Nassim Nicholas Taleb ![Mastery](https://images-na.ssl-images-amazon.com/images/I/417wbas-AKL.jpg) Mastery by Robert Greene ![The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life](https://images-na.ssl-images-amazon.com/images/I/41imHr56cHL.jpg) The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life by Timothy Ferriss
+Three of my favorite authors are publishing brand new books this month. Good times.
+
+![Antifragile: Things That Gain from Disorder](https://images-na.ssl-images-amazon.com/images/I/41sIRSbBZTL.jpg) Antifragile: Things That Gain from Disorder by Nassim Nicholas Taleb
+
+![Mastery](https://images-na.ssl-images-amazon.com/images/I/417wbas-AKL.jpg) Mastery by Robert Greene
+
+![The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life](https://images-na.ssl-images-amazon.com/images/I/41imHr56cHL.jpg) The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life by Timothy Ferriss
 
 ---
 

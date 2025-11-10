@@ -9,7 +9,9 @@ description: "As I embark on my latest strategy to eliminate my headaches, the o
 commentCount: 6
 ---
 
-As I embark on my latest strategy to [eliminate my headaches](/2011/07/hunting-headaches-take-2/), the one thing I see repeated over and over is that liver is to be avoided, because it contains high levels of tyramine. Tyramine is a known trigger for migraines. After searching for several hours on this one point, I believe the recommendation to avoid all liver is based on a bad assumption. I don't have access to the full study, but I did find this statement in an abstract for [Dietary tyramine and other pressor amines in MAOI regimens: a review](http://www.ncbi.nlm.nih.gov/pubmed/3525654). J Am Diet Assoc. 1986 Aug;86(8):1059-64.
+As I embark on my latest strategy to [eliminate my headaches](/2011/07/hunting-headaches-take-2/), the one thing I see repeated over and over is that liver is to be avoided, because it contains high levels of tyramine. Tyramine is a known trigger for migraines. After searching for several hours on this one point, I believe the recommendation to avoid all liver is based on a bad assumption.
+
+I don't have access to the full study, but I did find this statement in an abstract for [Dietary tyramine and other pressor amines in MAOI regimens: a review](http://www.ncbi.nlm.nih.gov/pubmed/3525654). J Am Diet Assoc. 1986 Aug;86(8):1059-64.
 
 > Any food rich in aromatic amino acids can become high in tyramine if aging, contamination, prolonged storage, or spoilage occurs.
 
@@ -30,7 +32,11 @@ What is the difference in tyramine content between fresh and "aged" liver? Here 
 
 > It is estimated that the tyramine content of beef liver may vary as much as 50-fold, depending on the method and period of storage...
 
-A 50-fold difference! It appears from my amateur sleuthing that liver has gotten a bad name because a worst-case scenario number has been used as a baseline for recommendations. I get my beef liver frozen from the farmers' market. I set it down in the refrigerator to thaw and then cook it the next day. I'm thinking I should be fine. I'll be keeping track of my tyramine intake in my headache journal. If tyramine is indeed the guilty party, which may or may not be true, then I'll be able to measure outcomes with and without fresh liver. Please add to the comments if I got something wrong in this post. I'm just interested in the truth. I'd hate to discard the most healthy food on the planet because we are using a spoiled meat metric.
+A 50-fold difference! It appears from my amateur sleuthing that liver has gotten a bad name because a worst-case scenario number has been used as a baseline for recommendations. I get my beef liver frozen from the farmers' market. I set it down in the refrigerator to thaw and then cook it the next day. I'm thinking I should be fine.
+
+I'll be keeping track of my tyramine intake in my headache journal. If tyramine is indeed the guilty party, which may or may not be true, then I'll be able to measure outcomes with and without fresh liver.
+
+Please add to the comments if I got something wrong in this post. I'm just interested in the truth. I'd hate to discard the most healthy food on the planet because we are using a spoiled meat metric.
 
 ---
 

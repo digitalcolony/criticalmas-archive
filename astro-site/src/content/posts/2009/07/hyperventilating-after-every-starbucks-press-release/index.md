@@ -9,7 +9,15 @@ description: "Is anyone else tired of how the coffee blogosphere hyperventilates
 commentCount: 2
 ---
 
-Is anyone else tired of how the coffee blogosphere hyperventilates after every Starbucks press release? Coffee sites that claim to dislike Starbucks are all too eager to spread everything Howard Schultz says. Because I've run [INeedCoffee](https://ineedcoffee.com) since 1999, I get asked about different things Starbucks does frequently. My answer is I really don't care. To me, Starbucks represents the past. They are an important chapter in coffee history and I thank them for their contribution, but I've moved on. I know how to roast my own coffee. I have a great espresso machine. I live in Seattle, which although home to Starbucks, has much better options. Cities like Portland, Vancouver, and San Francisco are leading in what coffee people refer to as the _Third Wave_. ![charbucks](./img/charbucks-tshirt.jpg) Don't get me wrong, I am not anti-Starbucks. If I'm stuck at an airport or someplace where the espresso culture hasn't evolved (like [New Orleans](/2012/02/locating-a-decent-coffee-in-new-orleans/)), I will line up for espresso. However, when I travel now, I usually bring quality tea with me. It is easier and more portable than bringing coffee. My challenge to the other coffee blogs: **The next time Starbucks releases a press statement - ignore it.** Maybe even do a post about an independent coffee retailer that doesn't have a marketing budget.
+Is anyone else tired of how the coffee blogosphere hyperventilates after every Starbucks press release? Coffee sites that claim to dislike Starbucks are all too eager to spread everything Howard Schultz says. Because I've run [INeedCoffee](https://ineedcoffee.com) since 1999, I get asked about different things Starbucks does frequently. My answer is I really don't care.
+
+To me, Starbucks represents the past. They are an important chapter in coffee history and I thank them for their contribution, but I've moved on. I know how to roast my own coffee. I have a great espresso machine. I live in Seattle, which although home to Starbucks, has much better options. Cities like Portland, Vancouver, and San Francisco are leading in what coffee people refer to as the _Third Wave_.
+
+![charbucks](./img/charbucks-tshirt.jpg)
+
+Don't get me wrong, I am not anti-Starbucks. If I'm stuck at an airport or someplace where the espresso culture hasn't evolved (like [New Orleans](/2012/02/locating-a-decent-coffee-in-new-orleans/)), I will line up for espresso. However, when I travel now, I usually bring quality tea with me. It is easier and more portable than bringing coffee.
+
+My challenge to the other coffee blogs: **The next time Starbucks releases a press statement - ignore it.** Maybe even do a post about an independent coffee retailer that doesn't have a marketing budget.
 
 ---
 

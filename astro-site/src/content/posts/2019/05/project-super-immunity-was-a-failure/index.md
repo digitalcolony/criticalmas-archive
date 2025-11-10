@@ -8,7 +8,11 @@ description: "This winter I decided to go all out on an effort to boost my immun
 commentCount: 16
 ---
 
-This winter I decided to go all out on an effort to boost my immunity so I would not get sick. It failed miserably. I had more sick days this winter than any year in the past decade with the exception of 2015. In March I caught a cold. Then I caught a meaner version of the same cold about 3-4 weeks after fully recovering from that last one. Here is a list of items and actions I took to boost my immunity. A few ideas I got from the comments in an [earlier post](/2019/03/ginger-and-the-common-cold-my-experiment/).
+This winter I decided to go all out on an effort to boost my immunity so I would not get sick. It failed miserably. I had more sick days this winter than any year in the past decade with the exception of 2015.
+
+In March I caught a cold. Then I caught a meaner version of the same cold about 3-4 weeks after fully recovering from that last one.
+
+Here is a list of items and actions I took to boost my immunity. A few ideas I got from the comments in an [earlier post](/2019/03/ginger-and-the-common-cold-my-experiment/).
 
 -   Ginger supplement
 -   Garlic (some fresh, some cooked)
@@ -22,7 +26,11 @@ This winter I decided to go all out on an effort to boost my immunity so I would
 -   no drugs (including prescriptions), no alcohol, no smoking
 -   a clean diet rich in fruits, veggies, tubers, whole grains, and lean protein. Low sugar as well.
 
-My gym recovery times have been poor as well. I'm stumped. Boosting my immune system to prevent colds was the very question I began researching back in 2007 that sent this blog into a health direction. Twelve years later and I still don't have the answer. ![sick](./img/sick.jpg) _[Photo credit](https://flic.kr/p/iXrXc3)_
+My gym recovery times have been poor as well. I'm stumped. Boosting my immune system to prevent colds was the very question I began researching back in 2007 that sent this blog into a health direction. Twelve years later and I still don't have the answer.
+
+![sick](./img/sick.jpg)
+
+_[Photo credit](https://flic.kr/p/iXrXc3)_
 
 ---
 

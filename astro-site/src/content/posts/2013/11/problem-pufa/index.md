@@ -9,7 +9,9 @@ description: "In my last post, The Common Enemy in Nutrition, I discussed how di
 commentCount: 7
 ---
 
-In my last post, [The Common Enemy in Nutrition](/2013/11/common-enemy-nutrition/), I discussed how different nutritional camps that can't seem to agree on much, agree that the average diet is too high in polyunsaturated fats and we'd have better health outcomes if we reduced those levels. In this post, I am going to list the problems associated with high PUFA consumption. I am not a health professional, so I will be linking to all my sources. If I get something wrong, please leave a comment.
+In my last post, [The Common Enemy in Nutrition](/2013/11/common-enemy-nutrition/), I discussed how different nutritional camps that can't seem to agree on much, agree that the average diet is too high in polyunsaturated fats and we'd have better health outcomes if we reduced those levels. In this post, I am going to list the problems associated with high PUFA consumption.
+
+I am not a health professional, so I will be linking to all my sources. If I get something wrong, please leave a comment.
 
 
 ### Immunosuppressive
@@ -17,7 +19,9 @@ In my last post, [The Common Enemy in Nutrition](/2013/11/common-enemy-nutrition
 
 The article [Polyunsaturated Oils Increase Cancer Risk](http://www.second-opinions.co.uk/fats_and_cancer.html) by Dr. Barry Groves goes into not only the history of vegetable oils but how they suppress the immune system and are likely to promote cancer growth.
 
-> “Many laboratories have shown that diets high in polyunsaturated fatty acids promote tumours. Cancer promotion is not the same as cancer causing. The subject is complex; suffice to say here that promoters are substances that help to speed up reproduction of existing cancer cells.” “'Vegetable oils (eg Corn oil and sunflower oil) which are rich in linoleic acid are potent promoters of tumour growth.”
+> “Many laboratories have shown that diets high in polyunsaturated fatty acids promote tumours. Cancer promotion is not the same as cancer causing. The subject is complex; suffice to say here that promoters are substances that help to speed up reproduction of existing cancer cells.”
+> 
+> “'Vegetable oils (eg Corn oil and sunflower oil) which are rich in linoleic acid are potent promoters of tumour growth.”
 
 
 ### The Big List
@@ -57,7 +61,11 @@ But how? For that part of the puzzle, I found this explanation in a [post by Tom
 > 2.  Polyunsaturated fats block the transport of thyroid hormone to your cells within your bloodstream.
 > 3.  Polyunsaturated fats block your cells from properly utilizing the thyroid hormone that is available.
 
-Peat's article also goes into how PUFA increases estrogen levels which can lower body temperature. The site Functional Performance Systems has a page on that [very topic](https://www.functionalps.com/blog/2012/02/22/pufa-increases-estrogen/). ![Corn Oil Margarine](./img/corn-oil-trim.jpg) _[Photo](http://www.flickr.com/photos/28761247@N04/8285213173/) by 1950sUnlimited. Full image on Flickr._ 
+Peat's article also goes into how PUFA increases estrogen levels which can lower body temperature. The site Functional Performance Systems has a page on that [very topic](https://www.functionalps.com/blog/2012/02/22/pufa-increases-estrogen/).
+
+![Corn Oil Margarine](./img/corn-oil-trim.jpg)
+
+_[Photo](http://www.flickr.com/photos/28761247@N04/8285213173/) by 1950sUnlimited. Full image on Flickr._ 
 
 
 ### Animal Obesity...What About Humans?
@@ -67,7 +75,9 @@ I found another Ray Peat article to be very interesting. [Suitable Fats, Unsuita
 
 > “The **highly unsaturated seed oils had the opposite effect, of producing a rapid fattening of the animal, while decreasing feed consumption**, so by 1950 corn and soybeans were widely considered to be optimal feeds for maximizing profits in the production of meat animals. It was at this time that the industry found that it could market the liquid oils directly to consumers, as health-promoting foods, without bothering to turn them into solid shortening or margarine. Somehow, few physiologists continued to think about the implications of metabolic slowing, obesity, and the related degenerative diseases.”
 
-I bring this up as a possible problem with PUFA that might extend to humans. If the seed oils fattened farm animals on less feed then that demonstrates a metabolic lowering effect that could affect other mammals, including humans.  Again, I am not an expert, but this information combined with the previous section on thyroid and metabolism could explain a connection between high PUFA intake and obesity. Beth at _Weight Maven_ has a post titled [Our Western diet: Prescription for Disaster?](https://web.archive.org/web/20180916183422/https://weightmaven.org/2011/04/21/our-western-diet-prescription-for-disaster/) that connects how foods high in Linoleic Acid (LA) such as vegetable oils when combined with high insulin foods could increase appetite and lead to overeating.
+I bring this up as a possible problem with PUFA that might extend to humans. If the seed oils fattened farm animals on less feed then that demonstrates a metabolic lowering effect that could affect other mammals, including humans.  Again, I am not an expert, but this information combined with the previous section on thyroid and metabolism could explain a connection between high PUFA intake and obesity.
+
+Beth at _Weight Maven_ has a post titled [Our Western diet: Prescription for Disaster?](https://web.archive.org/web/20180916183422/https://weightmaven.org/2011/04/21/our-western-diet-prescription-for-disaster/) that connects how foods high in Linoleic Acid (LA) such as vegetable oils when combined with high insulin foods could increase appetite and lead to overeating.
 
 
 ### Edema
@@ -89,7 +99,9 @@ This one appears to have some disagreement. Ray Peat believes PUFA is [23 times 
 ### Excess PUFA is Bad News
 
 
-There are a lot of bad things that can happen to your body when your o-6 levels get too high. So far I've just used the terms "excess" and "too high" when describing PUFA levels. In the next post, I am going to quantify both the levels in food as well as what many leading experts recommend. Part 3: [Quantifying PUFA, Expert Opinion, and My Conclusion](/2013/12/quantifying-pufa-expert-opinion/)
+There are a lot of bad things that can happen to your body when your o-6 levels get too high. So far I've just used the terms "excess" and "too high" when describing PUFA levels. In the next post, I am going to quantify both the levels in food as well as what many leading experts recommend.
+
+Part 3: [Quantifying PUFA, Expert Opinion, and My Conclusion](/2013/12/quantifying-pufa-expert-opinion/)
 
 ---
 

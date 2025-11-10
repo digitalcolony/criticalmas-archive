@@ -9,7 +9,13 @@ description: "For the past year I've been trying to figure out the mystery on wh
 commentCount: 10
 ---
 
-For the past year I've been trying to figure out the mystery on why some of the glass canning jars I put in the freezer shatter and others don't. At first I thought I overfilled the jars with too much stock. So I lowered the liquid line, yet the breaks continued. Then I thought the plastic lid was the problem, so I used the metal ones. Still more breaks. Then I tried pre-cooling in the refrigerator first. That didn't fix the problem. Then I tried different areas of the freezer and even tried it lidless. Again they shattered. ![Freeze Canning Jar Broken](./img/frozen-canning-jar.jpg "Freeze Canning Jar Broken") _Another shattered canning jar in my freezer._ At this point, I thought the case of jars I got was defective was so I reached out to Jarden Home Brands, the makers of Kerr jars, to see if they solve this riddle. Their advice was so valuable that I thought I'd share it with anyone that has the same issue that stumbles upon this page. Here is what I learned:
+For the past year I've been trying to figure out the mystery on why some of the glass canning jars I put in the freezer shatter and others don't. At first I thought I overfilled the jars with too much stock. So I lowered the liquid line, yet the breaks continued. Then I thought the plastic lid was the problem, so I used the metal ones. Still more breaks. Then I tried pre-cooling in the refrigerator first. That didn't fix the problem. Then I tried different areas of the freezer and even tried it lidless. Again they shattered.
+
+![Freeze Canning Jar Broken](./img/frozen-canning-jar.jpg "Freeze Canning Jar Broken")
+
+_Another shattered canning jar in my freezer._
+
+At this point, I thought the case of jars I got was defective was so I reached out to Jarden Home Brands, the makers of Kerr jars, to see if they solve this riddle. Their advice was so valuable that I thought I'd share it with anyone that has the same issue that stumbles upon this page. Here is what I learned:
 
 1.  **You should only use straight jars and not those with rounded shoulders.** _"Jars with rounded shoulders inhibit the expansion of the food, allowing the food to take on the shape of the jar in the freezing process. Foods freezing and taking on the shape of the jar places undo stress on the rounded shoulders and can cause breakage."_
 2.  Not every canning jar is ready for the freezer. _"Only use Ball Can-or-Freeze regular half-pint and wide-mouth pint jars, Ball and Kerr Quilted Crystal Jelly Jars in 4, 8, and 12 ounce sizes, Kerr regular and wide-mouth half pint, and wide-mouth pint jars._ Why? _"These jars are designed for freezer use since they are wider at the top than at the bottom and have tapered sides. This shape allows food to expand straight upward as it freezes."_

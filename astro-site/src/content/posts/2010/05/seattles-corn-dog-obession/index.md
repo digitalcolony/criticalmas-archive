@@ -9,7 +9,9 @@ description: "Last week I spotted a sign for corn dogs. Now everywhere I look, I
 commentCount: 1
 ---
 
-Last week I spotted a sign for corn dogs. Now everywhere I look, I see them. Then Friday, I walked past this corn dog and Lenin sign in Capitol Hill. Corn dogs, really? ![corn-dogs](./img/corn-dogs.jpg)
+Last week I spotted a sign for corn dogs. Now everywhere I look, I see them. Then Friday, I walked past this corn dog and Lenin sign in Capitol Hill. Corn dogs, really?
+
+![corn-dogs](./img/corn-dogs.jpg)
 
 ---
 

@@ -9,13 +9,27 @@ description: "In the past three years, I've solved a lot of health riddles. I've
 commentCount: 18
 ---
 
-In the past three years, I've solved a lot of health riddles. I've gotten [leaner](/2011/04/the-downside-to-life-without-bread/), [cured my rosacea](/2011/04/be-your-own-dermatologist/), discovered the root causes of my [back pain](/2011/01/back-pain-and-learned-helplessness/) and I almost never get [colds](/2011/01/how-i-fought-off-a-potential-cold/) anymore. However, one huge mystery remains and it has me stumped. For over 15 years, I will often wake up around 3 AM with a sinus headache. Not every day, but in patterns. Because the patterns seemed to be erratic, it has been impossible for me to tell if a change that I initiate helps, doesn't help, or partially helps. About 100 days ago, I started a headache journal. I was hoping that this exercise would shine a light on the guilty party to my headaches, but it has left me more confused. [http://tinyurl.com/my-headaches](http://tinyurl.com/my-headaches) I do not see a correlation between weather, pressure, pollen, coffee intake, chocolate, Neti pot use, or even the use of a few supplements. Note that this is not a Seattle thing. I had these headaches when I lived in San Diego, Northern Virginia, and Tampa Bay. My sister has them in Columbus. I've tried different pillows and different beds. I've eliminated wheat, alcohol, and most sugar. The headaches persist. ![headache](https://farm3.static.flickr.com/2630/4238294087_090bbc010c.jpg "headache") _Photo by [URBAN ARTefakte](http://www.flickr.com/photos/steffireichert/4238294087/in/photostream/)_
+In the past three years, I've solved a lot of health riddles. I've gotten [leaner](/2011/04/the-downside-to-life-without-bread/), [cured my rosacea](/2011/04/be-your-own-dermatologist/), discovered the root causes of my [back pain](/2011/01/back-pain-and-learned-helplessness/) and I almost never get [colds](/2011/01/how-i-fought-off-a-potential-cold/) anymore. However, one huge mystery remains and it has me stumped. For over 15 years, I will often wake up around 3 AM with a sinus headache. Not every day, but in patterns.
+
+Because the patterns seemed to be erratic, it has been impossible for me to tell if a change that I initiate helps, doesn't help, or partially helps. About 100 days ago, I started a headache journal. I was hoping that this exercise would shine a light on the guilty party to my headaches, but it has left me more confused.
+
+[http://tinyurl.com/my-headaches](http://tinyurl.com/my-headaches)
+
+I do not see a correlation between weather, pressure, pollen, coffee intake, chocolate, Neti pot use, or even the use of a few supplements. Note that this is not a Seattle thing. I had these headaches when I lived in San Diego, Northern Virginia, and Tampa Bay. My sister has them in Columbus. I've tried different pillows and different beds. I've eliminated wheat, alcohol, and most sugar. The headaches persist.
+
+![headache](https://farm3.static.flickr.com/2630/4238294087_090bbc010c.jpg "headache")
+
+_Photo by [URBAN ARTefakte](http://www.flickr.com/photos/steffireichert/4238294087/in/photostream/)_
 
 
 ### Headache Characteristics
 
 
-My headaches wake me up at night. I have pressure around my eyes and nose. Whenever I lift my head off the pillow, the pressure decreases and my headache intensity declines. Caffeine helps. As a result, there have been many mornings in the past decade where I am sitting up drinking coffee or tea at 4 AM. It kills the headache, but then I'm unable to return to sleep. Coffee and tea work so does patience and just having my head upright. Over-the-counter medication is pretty much worthless. I've had minor success with Mucinex-D, but then only for a limited amount of time and I can't say for certain if it was the reason or something else. Note that these feel nothing like the pain I feel when I cut way back on caffeine. These are completely different. A headache from caffeine withdrawal feels the same whether I am lying down or standing up. The headaches I am trying to prevent are far more intense when lying down.
+My headaches wake me up at night. I have pressure around my eyes and nose. Whenever I lift my head off the pillow, the pressure decreases and my headache intensity declines. Caffeine helps. As a result, there have been many mornings in the past decade where I am sitting up drinking coffee or tea at 4 AM. It kills the headache, but then I'm unable to return to sleep.
+
+Coffee and tea work so does patience and just having my head upright. Over-the-counter medication is pretty much worthless. I've had minor success with Mucinex-D, but then only for a limited amount of time and I can't say for certain if it was the reason or something else.
+
+Note that these feel nothing like the pain I feel when I cut way back on caffeine. These are completely different. A headache from caffeine withdrawal feels the same whether I am lying down or standing up. The headaches I am trying to prevent are far more intense when lying down.
 
 
 ### Sinus Headache?
@@ -75,7 +89,11 @@ From my headache journal, you can see that these waking headaches occurred 40 ti
 ### Now What?
 
 
-I have no clue what type of headache I have. For all I know, there may be another type of headache that fits my condition. My current health insurance only protects me for catastrophic events, so seeking specialists is not an option. My headaches aren't any worse today than they were 5 years ago. I am motivated by my success in solving other health riddles so that maybe I can figure out the root cause and solution for these headaches. I am hoping to discover a non-pharmaceutical solution. I prefer to work from the premise that I am not broken, but may need to tweak something in my diet or environment. I'm going to cut my caffeine intake by 50% for a month to see if it has any effect. If you have any insights or ideas, please leave them in the comments. Thanks. _Follow-up: [Hunting Headaches Take 2](/2011/07/hunting-headaches-take-2/)_
+I have no clue what type of headache I have. For all I know, there may be another type of headache that fits my condition. My current health insurance only protects me for catastrophic events, so seeking specialists is not an option. My headaches aren't any worse today than they were 5 years ago. I am motivated by my success in solving other health riddles so that maybe I can figure out the root cause and solution for these headaches.
+
+I am hoping to discover a non-pharmaceutical solution. I prefer to work from the premise that I am not broken, but may need to tweak something in my diet or environment. I'm going to cut my caffeine intake by 50% for a month to see if it has any effect. If you have any insights or ideas, please leave them in the comments. Thanks.
+
+_Follow-up: [Hunting Headaches Take 2](/2011/07/hunting-headaches-take-2/)_
 
 ---
 

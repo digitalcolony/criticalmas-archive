@@ -9,7 +9,9 @@ description: "This was originally written in 2004. It has been moved to this sit
 commentCount: 11
 ---
 
-_This was originally written in 2004. It has been moved to this site for archival purposes. If you are easily offended, please [read the disclaimer](https://criticalmas.org/best-of/tales-from-the-glitter-gym/) first._ I'm still working out at a glitter gym thanks to a finger injury that doesn't want to heal. Anyway people always seem to display odd behavior in glitter gyms, this one is no exception. We've all heard my tales of pixie bitches that use 5 pieces of equipment at one time and the guy who used the squat rack as a coat hanger. Here are some new tales:
+_This was originally written in 2004. It has been moved to this site for archival purposes. If you are easily offended, please [read the disclaimer](https://criticalmas.org/best-of/tales-from-the-glitter-gym/) first._
+
+I'm still working out at a glitter gym thanks to a finger injury that doesn't want to heal. Anyway people always seem to display odd behavior in glitter gyms, this one is no exception. We've all heard my tales of pixie bitches that use 5 pieces of equipment at one time and the guy who used the squat rack as a coat hanger. Here are some new tales:
 
 
 ### A Bally's Trainer Teaches the Deadlift
@@ -21,7 +23,9 @@ I watched a Bally's trainer teach some poor guy the Bally's way to perform a saf
 ### May December Love
 
 
-There is this odd couple that works out together. The girl is probably 25, maybe half Hispanic, a little overweight, and very plain looking. Now with some strength training and a smile this girl could be smoking hot in just a few months. Her man is this creepy looking guy who must be 50. He looks to be wearing some sort of fake hair. Now I'm not one to question Cupid, but a few weeks ago I thought he was assisting her with a crunch situp. Upon closer look they were doing isometric tongue exercises. Well today I discovered why these 2 people are so happy to paw each other at the gym. They each came in separate cars. Hmm. Perhaps this is an illicit affair and the only place they can meet is Bally's. Cheaper than a motel!
+There is this odd couple that works out together. The girl is probably 25, maybe half Hispanic, a little overweight, and very plain looking. Now with some strength training and a smile this girl could be smoking hot in just a few months. Her man is this creepy looking guy who must be 50. He looks to be wearing some sort of fake hair. Now I'm not one to question Cupid, but a few weeks ago I thought he was assisting her with a crunch situp. Upon closer look they were doing isometric tongue exercises.
+
+Well today I discovered why these 2 people are so happy to paw each other at the gym. They each came in separate cars. Hmm. Perhaps this is an illicit affair and the only place they can meet is Bally's. Cheaper than a motel!
 
 
 ### Meathead MacGyver

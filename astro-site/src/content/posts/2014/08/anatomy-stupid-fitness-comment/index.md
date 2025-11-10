@@ -9,7 +9,17 @@ description: "Most of the 10,000 comments this blog has received since December 
 commentCount: 10
 ---
 
-_Most of the 10,000 comments this blog has received since December 2005 are respectable and informative. This post is about one comment that was neither. Comments like this represent less than 1% of the total comments received._  On a few fitness posts, I have started closing comments. I usually wait a few years, which is more than enough time for everyone to provide feedback. Comments that pop up two or more years after the post was published are rarely insightful. They are often written by some blowhard, usually with a fake name, on how he is great and how I am wrong. Rarely does the final commenter bring new facts to the table. Here is the FINAL comment on my [How Tim Ferriss REALLY Gained 34 pounds of Muscle in 28 Days](/2011/01/how-tim-ferriss-really-gained-34-pounds-of-muscle-in-28-days/) post. A post that was published on January 20, 2011. ![](./img/big-guy-comment.png) My critic uses a fake name, calling himself _Big Guy_. If you are going to use a fake name, at least use one that we can at least take seriously. Do you think anyone at the gym is saying "I learned something useful from _Big Guy_ today."? Now let me pick apart his comment.
+_Most of the 10,000 comments this blog has received since December 2005 are respectable and informative. This post is about one comment that was neither. Comments like this represent less than 1% of the total comments received._ 
+
+On a few fitness posts, I have started closing comments. I usually wait a few years, which is more than enough time for everyone to provide feedback. Comments that pop up two or more years after the post was published are rarely insightful. They are often written by some blowhard, usually with a fake name, on how he is great and how I am wrong. Rarely does the final commenter bring new facts to the table.
+
+Here is the FINAL comment on my [How Tim Ferriss REALLY Gained 34 pounds of Muscle in 28 Days](/2011/01/how-tim-ferriss-really-gained-34-pounds-of-muscle-in-28-days/) post. A post that was published on January 20, 2011.
+
+![](./img/big-guy-comment.png)
+
+My critic uses a fake name, calling himself _Big Guy_. If you are going to use a fake name, at least use one that we can at least take seriously. Do you think anyone at the gym is saying "I learned something useful from _Big Guy_ today."?
+
+Now let me pick apart his comment.
 
 > BG: You obviously have never used the program.
 
@@ -25,7 +35,9 @@ So I defended Tim's training protocol twice. Big Guy must have missed that. He c
 
 > BG: And don’t know what the hell you are talking about.
 
-Point out to me one thing I got wrong in that post. Pull out The 4-Hour Body (4HB) and then pull out The 4-Hour Workweek (4HWW). Read Tim's own account of his weight. Line up the dates for yourself. Then read the chapter in the 4HWW where he details how he was able to manipulate his weight while competing in Japan. If you just read the 4HB, you are getting the filtered version. I was fortunate to have read and recalled that info in 4HWW prior to reading the 4HB. Big Guy continues:
+Point out to me one thing I got wrong in that post. Pull out The 4-Hour Body (4HB) and then pull out The 4-Hour Workweek (4HWW). Read Tim's own account of his weight. Line up the dates for yourself. Then read the chapter in the 4HWW where he details how he was able to manipulate his weight while competing in Japan. If you just read the 4HB, you are getting the filtered version. I was fortunate to have read and recalled that info in 4HWW prior to reading the 4HB.
+
+Big Guy continues:
 
 > BG: Not only have gained 30 pounds of lean muscle using this program I have also helped several others gain between 10 and 30 pounds of NEW lean muscle in thirty days.
 
@@ -33,7 +45,17 @@ The difference between 10 and 30 is staggering. Here is what I said about 10 pou
 
 > MAS: Ten pounds is commendable and it is more realistic for an untrained lifter who is working out hard and eating like crazy.
 
-Thirty pounds of new muscle in a month is not realistic. It might be possible, but it is nowhere near realistic. Give me a malnourished teenager from Samoa and I might have a chance to get 30 pounds on him in a month. But for 99.99% of lifters, it isn't going to happen. Finally, if you were able to help several others gain so much muscle in a month, how do you find time to comment on posts from 2011? I would think you'd have clients lined up around the block throwing money at you. In fact, your name would be known in the fitness community. You wouldn't need to use fake names on blog comments. And your client base would be proof that you were correct. You wouldn't need to waste your time trying to correct me. _Geek to Freak_ is still a hoax. Do you know how I know? The book has been out since December 2010. It was a bestseller. Between the book and the supporting blog post, I wouldn't be surprised if it had an audience of 1 million. Most of them are young healthy males seeking to gain more muscle. Yet almost nobody is still talking about this chapter. It came and went. If it were realistic, there would be A LOT MORE success stories and we would still be talking about it. ![Troll](./img/troll-650.jpg) _The Fremont Troll_ My patience for disrespectful fitness comments is wearing thin. I don't get paid for this. The fitness posts I do are mostly how I would speak to a younger version of myself, with the basic message of **don't believe nonsense** and **don't get hurt**. If you want to believe fitness fairy tales of muscle gain, [knock yourself out bro](/2014/11/knock-bro/).
+Thirty pounds of new muscle in a month is not realistic. It might be possible, but it is nowhere near realistic. Give me a malnourished teenager from Samoa and I might have a chance to get 30 pounds on him in a month. But for 99.99% of lifters, it isn't going to happen.
+
+Finally, if you were able to help several others gain so much muscle in a month, how do you find time to comment on posts from 2011? I would think you'd have clients lined up around the block throwing money at you. In fact, your name would be known in the fitness community. You wouldn't need to use fake names on blog comments. And your client base would be proof that you were correct. You wouldn't need to waste your time trying to correct me.
+
+_Geek to Freak_ is still a hoax. Do you know how I know? The book has been out since December 2010. It was a bestseller. Between the book and the supporting blog post, I wouldn't be surprised if it had an audience of 1 million. Most of them are young healthy males seeking to gain more muscle. Yet almost nobody is still talking about this chapter. It came and went. If it were realistic, there would be A LOT MORE success stories and we would still be talking about it.
+
+![Troll](./img/troll-650.jpg)
+
+_The Fremont Troll_
+
+My patience for disrespectful fitness comments is wearing thin. I don't get paid for this. The fitness posts I do are mostly how I would speak to a younger version of myself, with the basic message of **don't believe nonsense** and **don't get hurt**. If you want to believe fitness fairy tales of muscle gain, [knock yourself out bro](/2014/11/knock-bro/).
 
 ---
 

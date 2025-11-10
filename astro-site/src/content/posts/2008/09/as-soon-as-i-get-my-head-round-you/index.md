@@ -9,17 +9,27 @@ description: "All day long I've reading, researching, and thinking about Paulson
 commentCount: 8
 ---
 
-All day long I've reading, researching, and thinking about Paulson's _No Banker Left Behind Plan_ and what is going to happen to the economy. This post isn't about the guilty parties that got us into this bailout mess or why this plan is going to be a [disaster](http://globaleconomicanalysis.blogspot.com/2008/09/700-billion-bailout-proposal.html). Instead, I want to try and guess how this all ends. As a student of economic history, I think we may be fast approaching a pivotal moment. I see three possible outcomes:
+All day long I've reading, researching, and thinking about Paulson's _No Banker Left Behind Plan_ and what is going to happen to the economy. This post isn't about the guilty parties that got us into this bailout mess or why this plan is going to be a [disaster](http://globaleconomicanalysis.blogspot.com/2008/09/700-billion-bailout-proposal.html). Instead, I want to try and guess how this all ends. As a student of economic history, I think we may be fast approaching a pivotal moment.
+
+I see three possible outcomes:
 
 1.  Paulson and Bernanke will succeed and the market and economy will be put right back on track.
 2.  Deflation. (Cash is king, Debt is slavery)
 3.  Hyper-Inflation. (Cash is trash, Debt becomes -relatively- cheaper)
 
-Outcome one is a fairy tale. If you are long in equities now, you are betting against history. Up until the bailout, I've been firmly in the deflation camp. Deflation is not declining prices, but a decline in the money supply caused by the destruction of credit. Loans go bad, banks collapse and lending tightens. This causes a restriction of the money supply and thus deflation. Despite Bernanke and Paulson's tough inflation talk over the past year, it is now clear by their actions that they fear an all-out deflationary collapse. Is the bailout going to be inflationary? Are they going to print their way out of this mess? Throw around enough cash to make devalued assets worth elevated prices by devaluing the currency. This option would punish those with savings to alleviate the pain felt by those with debt. I have a tough time believing bankers would shoot themselves, but anything is possible. Also, it may be easy to inflate asset prices such as homes, but in a global economy, how can one inflate all salaries to pay for those assets? I don't think you can. Maybe Thomas Jefferson's banking warning holds the answer?
+Outcome one is a fairy tale. If you are long in equities now, you are betting against history.
+
+Up until the bailout, I've been firmly in the deflation camp. Deflation is not declining prices, but a decline in the money supply caused by the destruction of credit. Loans go bad, banks collapse and lending tightens. This causes a restriction of the money supply and thus deflation. Despite Bernanke and Paulson's tough inflation talk over the past year, it is now clear by their actions that they fear an all-out deflationary collapse.
+
+Is the bailout going to be inflationary? Are they going to print their way out of this mess? Throw around enough cash to make devalued assets worth elevated prices by devaluing the currency. This option would punish those with savings to alleviate the pain felt by those with debt. I have a tough time believing bankers would shoot themselves, but anything is possible. Also, it may be easy to inflate asset prices such as homes, but in a global economy, how can one inflate all salaries to pay for those assets? I don't think you can.
+
+Maybe Thomas Jefferson's banking warning holds the answer?
 
 > I believe that banking institutions are more dangerous to our liberties than standing armies. If the American people ever allow private banks to control the issue of their currency, first by inflation, then by deflation, the banks and corporations that will grow up around \[the banks\] will deprive the people of all property until their children wake-up homeless on the continent their fathers conquered.
 
-I'm still in the deflation camp but as someone with zero debt and savings that could be my wishful thinking and bias. I'm going to keep reading and thinking about this. A possible deflationary collapse mixed with a stock market that put in shorting bans is a volatile recipe for a stock market crash. ![tom-jefferson](./img/tom-jefferson.jpg)
+I'm still in the deflation camp but as someone with zero debt and savings that could be my wishful thinking and bias. I'm going to keep reading and thinking about this. A possible deflationary collapse mixed with a stock market that put in shorting bans is a volatile recipe for a stock market crash.
+
+![tom-jefferson](./img/tom-jefferson.jpg)
 
 ---
 

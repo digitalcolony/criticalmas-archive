@@ -9,7 +9,13 @@ description: "I love celery, but it annoys me how quickly it loses it crunch and
 commentCount: 8
 ---
 
-I love celery, but it annoys me how quickly it loses it crunch and goes limp. The trick to bringing celery back from the dead is to soak the stalks in cold water. For a while I was doing 30 minute ice baths for the celery in a flat tray. Then a few days ago I got a better idea. I cleaned and chopped the celery. Then I stuffed the stalks into a wide mouth quart jar. At that point, I filled the jar about 1/3 full of water and placed into the refrigerator. After about 30 minutes, my near dead celery was a crunchy as if it were just pulled from the Earth. Having it in a jar on the top shelf instead of buried in the crisper also means I'll be snacking on more celery. ![celery-water](./img/celery-water.jpg) _Celery Resurrection!_
+I love celery, but it annoys me how quickly it loses it crunch and goes limp. The trick to bringing celery back from the dead is to soak the stalks in cold water. For a while I was doing 30 minute ice baths for the celery in a flat tray. Then a few days ago I got a better idea. I cleaned and chopped the celery. Then I stuffed the stalks into a wide mouth quart jar. At that point, I filled the jar about 1/3 full of water and placed into the refrigerator.
+
+After about 30 minutes, my near dead celery was a crunchy as if it were just pulled from the Earth. Having it in a jar on the top shelf instead of buried in the crisper also means I'll be snacking on more celery.
+
+![celery-water](./img/celery-water.jpg)
+
+_Celery Resurrection!_
 
 ---
 

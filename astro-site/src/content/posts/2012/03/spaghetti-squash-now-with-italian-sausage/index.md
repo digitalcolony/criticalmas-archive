@@ -9,7 +9,13 @@ description: "I've long since given up regular spaghetti. These days I use the s
 commentCount: 4
 ---
 
-I've long since given up regular spaghetti. These days I use the spaghetti squash. I detailed my pasta journey in the post [Spaghetti Evolution The Road to Paleolithic Pasta](/2010/11/spaghetti-evolution-the-road-to-paleolitic-pasta/). This week I was inspired by a recipe online to swap out the ground beef for Italian Sausage. It turned out great, both as dinner and for leftovers the next day. ![spaghetti-squash](./img/spaghetti-squash.jpg) _Spaghetti Squash and Italian Sausage_ The only variation I did with the recipe is I now cut the spaghetti squash and scoop out the inner guts prior to baking. I found you can reduce the oven time down from an hour to 35-40 minutes. The downside to the fast method is I think it makes the result a little more watery. I'll keep experimenting.
+I've long since given up regular spaghetti. These days I use the spaghetti squash. I detailed my pasta journey in the post [Spaghetti Evolution The Road to Paleolithic Pasta](/2010/11/spaghetti-evolution-the-road-to-paleolitic-pasta/). This week I was inspired by a recipe online to swap out the ground beef for Italian Sausage. It turned out great, both as dinner and for leftovers the next day.
+
+![spaghetti-squash](./img/spaghetti-squash.jpg)
+
+_Spaghetti Squash and Italian Sausage_
+
+The only variation I did with the recipe is I now cut the spaghetti squash and scoop out the inner guts prior to baking. I found you can reduce the oven time down from an hour to 35-40 minutes. The downside to the fast method is I think it makes the result a little more watery. I'll keep experimenting.
 
 ---
 

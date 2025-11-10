@@ -8,7 +8,9 @@ description: "Food prices are spiking and people are complaining. I'm not. The P
 commentCount: 17
 ---
 
-Food prices are spiking and people are complaining. I'm not. [The Peasant Diet](/2016/11/designing-modern-peasant-diet/) that I designed back in 2016 not only will lean you out, you'll also save a lot of money on food. I wanted to post this earlier, but first I needed to do my defense of [Low Fat Dieting](/2022/02/in-defense-of-low-fat-dieting/). The Peasant Diet is based primarily on cheap unprocessed carbohydrates.
+Food prices are spiking and people are complaining. I'm not. [The Peasant Diet](/2016/11/designing-modern-peasant-diet/) that I designed back in 2016 not only will lean you out, you'll also save a lot of money on food.
+
+I wanted to post this earlier, but first I needed to do my defense of [Low Fat Dieting](/2022/02/in-defense-of-low-fat-dieting/). The Peasant Diet is based primarily on cheap unprocessed carbohydrates.
 
 -   [potatoes](https://potatohack.com/)
 -   sweet potatoes and yams
@@ -26,13 +28,33 @@ Then add in some cheap protein sources such as eggs, sardines, and possibly chic
 ### Think Buddha Bowls
 
 
-Now that I have years of experience with the Peasant Diet and its sequel diet [Potatoes & Protein](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/), I found making single bowl dishes to be highly effective. The bottom of the bowl will be a tuber or a grain. Then top that with either legumes, sardines, or eggs. Add additional veggies or sprouts. Stir in some salsa or hot sauce and you are done. Be careful not to add a calorie-dense topping. ![brocolli sprouts](./img/sprouts.jpg) _Every week for 2 years now, I grow a batch of broccoli sprouts. I use seeds from the Rainbow Heirloom Seed Co. It takes about 5 days to go from seed to sprout. These are perfect toppings for Budda Bowls._ You now have a heavy, nutrient-dense, unprocessed meal that was dirt cheap. And because the carbs are unprocessed, you will reach satiety quickly. I got to a point last summer where I had to add additional calories because I was losing too much weight on the Peasant Diet. If this happens to you, add a little extra virgin olive oil to the bowl. When cooking, I make larger portions and then have leftovers ready for multiple meals. Although recently I favor having my lentils and grains shipped to me, in the past, I've gotten great deals buying them in larger quantities at restaurant supply stores that don't have a membership fee requirement.
+Now that I have years of experience with the Peasant Diet and its sequel diet [Potatoes & Protein](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/), I found making single bowl dishes to be highly effective. The bottom of the bowl will be a tuber or a grain. Then top that with either legumes, sardines, or eggs. Add additional veggies or sprouts. Stir in some salsa or hot sauce and you are done. Be careful not to add a calorie-dense topping.
+
+![brocolli sprouts](./img/sprouts.jpg)
+
+_Every week for 2 years now, I grow a batch of broccoli sprouts. I use seeds from the Rainbow Heirloom Seed Co. It takes about 5 days to go from seed to sprout. These are perfect toppings for Budda Bowls._
+
+You now have a heavy, nutrient-dense, unprocessed meal that was dirt cheap. And because the carbs are unprocessed, you will reach satiety quickly.
+
+I got to a point last summer where I had to add additional calories because I was losing too much weight on the Peasant Diet. If this happens to you, add a little extra virgin olive oil to the bowl.
+
+When cooking, I make larger portions and then have leftovers ready for multiple meals. Although recently I favor having my lentils and grains shipped to me, in the past, I've gotten great deals buying them in larger quantities at restaurant supply stores that don't have a membership fee requirement.
 
 
 ### Last Words
 
 
-Unless you are a carb-phobic carnivore, food inflation in an obese world isn't the worst problem to have. As a society, we have been spending too much on food for decades. Not because the price was high, but because we were buying calories well beyond our caloric needs. At my peak, I was 222 pounds. Today I'm 40 pounds lighter. By supporting my ideal weight, I'm spending less on food every day. But you don't need to be overweight to adopt a Peasant Diet and you don't need to make every meal Peasant. Yesterday for lunch I mixed lentils with quinoa and added some broth. Then I chopped some veggies and mushrooms up and tossed them into the mix. I set the Instant Pot to 5 minutes at high pressure. Then I added some sprouts, spices, and hot sauce. I had enough for 4 meals. My estimate is that each meal was about $2. ![](./img/quinoa-lentil.jpg) _My lentil+quinoa leftovers. I also added garlic, onions, red peppers, corn, and mushroom powder. Before serving this I'll add some hot sauce and sprouts._ Do you have a favorite meal that is nutritious and cheap?
+Unless you are a carb-phobic carnivore, food inflation in an obese world isn't the worst problem to have. As a society, we have been spending too much on food for decades. Not because the price was high, but because we were buying calories well beyond our caloric needs.
+
+At my peak, I was 222 pounds. Today I'm 40 pounds lighter. By supporting my ideal weight, I'm spending less on food every day. But you don't need to be overweight to adopt a Peasant Diet and you don't need to make every meal Peasant.
+
+Yesterday for lunch I mixed lentils with quinoa and added some broth. Then I chopped some veggies and mushrooms up and tossed them into the mix. I set the Instant Pot to 5 minutes at high pressure. Then I added some sprouts, spices, and hot sauce. I had enough for 4 meals. My estimate is that each meal was about $2.
+
+![](./img/quinoa-lentil.jpg)
+
+_My lentil+quinoa leftovers. I also added garlic, onions, red peppers, corn, and mushroom powder. Before serving this I'll add some hot sauce and sprouts._
+
+Do you have a favorite meal that is nutritious and cheap?
 
 ---
 

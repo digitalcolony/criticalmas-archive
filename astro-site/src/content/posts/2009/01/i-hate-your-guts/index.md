@@ -9,7 +9,11 @@ description: "Not you! It is the title of a book I just finished reading. !I Hat
 commentCount: 5
 ---
 
-Not you! It is the title of a book I just finished reading. ![I Hate Your Guts](https://images-na.ssl-images-amazon.com/images/I/51nPcEwEyDL.jpg) _I Hate Your Guts is by Jim Norton_. Jim is the 3rd microphone on the _Opie and Anthony Show_. If you know that show, then you know Jimmy Norton's style of humor. He is fast and brutal. I heard a show a few months ago where he tore into Jesse Ventura and his 9/11 conspiracy nonsense with an attack that left the former Navy Seal looking like a complete dolt. I liked this book. Maybe not as much as [his first book](/2007/09/stories-by-ed-jim-and-danny/), but the chapters where he goes after Al Roker and Keith Olbermann for their phony outrage over the Don Imus joke are brilliant. If mean-spirited humor makes you uncomfortable, do not read this book. If however, you think [Joe Queenan](http://www.guardian.co.uk/film/2008/mar/21/1) is too nice, give it a read.
+Not you! It is the title of a book I just finished reading.
+
+![I Hate Your Guts](https://images-na.ssl-images-amazon.com/images/I/51nPcEwEyDL.jpg) _I Hate Your Guts is by Jim Norton_. Jim is the 3rd microphone on the _Opie and Anthony Show_. If you know that show, then you know Jimmy Norton's style of humor. He is fast and brutal. I heard a show a few months ago where he tore into Jesse Ventura and his 9/11 conspiracy nonsense with an attack that left the former Navy Seal looking like a complete dolt.
+
+I liked this book. Maybe not as much as [his first book](/2007/09/stories-by-ed-jim-and-danny/), but the chapters where he goes after Al Roker and Keith Olbermann for their phony outrage over the Don Imus joke are brilliant. If mean-spirited humor makes you uncomfortable, do not read this book. If however, you think [Joe Queenan](http://www.guardian.co.uk/film/2008/mar/21/1) is too nice, give it a read.
 
 ---
 

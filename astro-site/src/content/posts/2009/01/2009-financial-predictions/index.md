@@ -14,7 +14,27 @@ Here are my 2009 Financial Predictions. My general thesis is:
 -   **Cash is King**
 -   **If You're Long You're Wrong**.
 
-**S&P 500** - By the end of 2009 it will hit **633**. This estimate is based solely off earnings ($42.26 x PE of 15). That is a conservative number. If you use a 12 PE, the number drops to 507. If Bernanke loses control of the long bond, this number will go below 500. The S&P 500 is at 931 now. The upside is very limited, where as the downside is serious. **Dow** - I don't invest in or against the DOW. Earnings in these global corporations are highly influenced by currency events. No prediction. **Recovery, Recession or Depression in 2009?** - **Depression**. Until mark to market accounting is restored and the bailouts stop, monetary velocity will continue to plummet. The new Treasury Secretary appears to be another Hank Paulson and we are stuck with Bernanke until at least 2010. **Real Estate** - Prices will continue to **decline** and decline at an INCREASING pace. As this happens bank lending will get tighter as their risk increases. Higher down payment requirements will force prices much lower. Those on the sidelines will continue to see home prices fall faster than they can save. There are $1Trillon in ALT-A resets. A massive wave of foreclosures is coming. The stigma of walking away from an underwater mortgage is going away as America becomes Bailout Nation. **No recovery in 2009**. If you must buy, the best deals will be new construction sold directly by distressed builders. **Oil** - I [nailed it](/2008/11/oil-hits-55/) last year. Now with every central banker racing to devalue their currency this is going to difficult to predict. My wild guess is it goes down to **$25/bbl** before heading back up slowly. **Unemployment** - U3 unemployment will hit **9%**. U6 unemployment will hit 16%. [Definitions here](https://en.wikipedia.org/wiki/Unemployment#United_States_Bureau_of_Labor_Statistics). **Deflation, Inflation or Hyperinflation?** - **Deflation**. Asset prices will continue to fall as the leverage comes out of the system. **Gold** - All the experts seem to think it is going up. I'm a contrarian. I'm thinking deflation will be a more powerful force than every central banker devaluing their currencies. Gold drops to **$600/oz**. **30-Year Bond** - This is the most important number. If it ramps America is hosed. Bernanke is using [Quantitative Easing](https://en.wikipedia.org/wiki/Quantitative_easing) to push this number down. It is working for now. If it fails, look out below. I plan to have a post on this topic soon. I'm going to bet against the grossly incompetent Bernanke and go with **4%**. **An Investing Strategy For 2009** Note that I am not a [certified financial planner](/2008/11/not-a-certified-financial-planner/) and you should do your own research. The advice below is what I would say to a close friend. There are no shortage of investing tips for 2009 on the Internet. Here goes another one.
+**S&P 500** - By the end of 2009 it will hit **633**. This estimate is based solely off earnings ($42.26 x PE of 15). That is a conservative number. If you use a 12 PE, the number drops to 507. If Bernanke loses control of the long bond, this number will go below 500. The S&P 500 is at 931 now. The upside is very limited, where as the downside is serious.
+
+**Dow** - I don't invest in or against the DOW. Earnings in these global corporations are highly influenced by currency events. No prediction.
+
+**Recovery, Recession or Depression in 2009?** - **Depression**. Until mark to market accounting is restored and the bailouts stop, monetary velocity will continue to plummet. The new Treasury Secretary appears to be another Hank Paulson and we are stuck with Bernanke until at least 2010.
+
+**Real Estate** - Prices will continue to **decline** and decline at an INCREASING pace. As this happens bank lending will get tighter as their risk increases. Higher down payment requirements will force prices much lower. Those on the sidelines will continue to see home prices fall faster than they can save. There are $1Trillon in ALT-A resets. A massive wave of foreclosures is coming. The stigma of walking away from an underwater mortgage is going away as America becomes Bailout Nation. **No recovery in 2009**. If you must buy, the best deals will be new construction sold directly by distressed builders.
+
+**Oil** - I [nailed it](/2008/11/oil-hits-55/) last year. Now with every central banker racing to devalue their currency this is going to difficult to predict. My wild guess is it goes down to **$25/bbl** before heading back up slowly.
+
+**Unemployment** - U3 unemployment will hit **9%**. U6 unemployment will hit 16%. [Definitions here](https://en.wikipedia.org/wiki/Unemployment#United_States_Bureau_of_Labor_Statistics).
+
+**Deflation, Inflation or Hyperinflation?** - **Deflation**. Asset prices will continue to fall as the leverage comes out of the system.
+
+**Gold** - All the experts seem to think it is going up. I'm a contrarian. I'm thinking deflation will be a more powerful force than every central banker devaluing their currencies. Gold drops to **$600/oz**.
+
+**30-Year Bond** - This is the most important number. If it ramps America is hosed. Bernanke is using [Quantitative Easing](https://en.wikipedia.org/wiki/Quantitative_easing) to push this number down. It is working for now. If it fails, look out below. I plan to have a post on this topic soon. I'm going to bet against the grossly incompetent Bernanke and go with **4%**.
+
+**An Investing Strategy For 2009**
+
+Note that I am not a [certified financial planner](/2008/11/not-a-certified-financial-planner/) and you should do your own research. The advice below is what I would say to a close friend. There are no shortage of investing tips for 2009 on the Internet. Here goes another one.
 
 1.  If you have debt, pay it off. Stop consuming.
 2.  Exit all long positions in the stock market until [trust is restored](/2008/12/the-lack-of-trust-in-the-new-world-economy/).
@@ -22,7 +42,11 @@ Here are my 2009 Financial Predictions. My general thesis is:
 4.  Prudent Bear and Grizzly Short are two mutual funds that make money in a bear market. These funds will make money as long as stock prices are falling. As soon as a recovery starts, you need to be out of these. If you don't follow the market at all, then I would stay away from these.
 5.  Bet against Bernanke with [TBT](http://finance.google.com/finance?q=TBT). This is a high risk ETF that I will most likely be acquiring soon. There are a lot of banks, hedge funds and foreign governments holding US Treasuries. Our Federal Reserve has been leveraging up its balance sheet buying these to force interest rates down. If at some point any of these parties either stop buying Treasuries or if they try and dump them, interest rates will spike. TBT is a leveraged ETF that will double that spike for you. But if interest rates drop, you can lose. For me this is ETF is less about an investing thesis and more about insurance against Bernanke stupidity.
 
-_Disclosure: I own shares in both Prudent Bear and Grizzly Short. I also plan to buy TBT._ What are your 2009 Financial Predictions? **UPDATE (1/4/09):** I realized after I published that there are 2 points I wish to make more clear.
+_Disclosure: I own shares in both Prudent Bear and Grizzly Short. I also plan to buy TBT._
+
+What are your 2009 Financial Predictions?
+
+**UPDATE (1/4/09):** I realized after I published that there are 2 points I wish to make more clear.
 
 1.  If you plan on buying new construction from distressed builders, make sure that if there is an HOA, that is solvent. That sweet deal you got on condo may backfire if you are the only paying into the HOA. Buildings require money from the HOA for parking garages, security, elevators and a host of other fees.
 2.  My picks for Gold and Oil are pure guesses and not true predictions. We are in uncharted economic territory now. Currencies are being devalued everywhere and at different rates. Everything else listed is a prediction.

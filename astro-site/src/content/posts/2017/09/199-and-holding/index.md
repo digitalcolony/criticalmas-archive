@@ -9,13 +9,27 @@ description: "I wanted to provide an update on my current diet. I'm stuck at 199
 commentCount: 16
 ---
 
-I wanted to provide an update on my current diet. I'm stuck at 199. For reasons I explained in [this post](/2017/03/stepping-aside-nutritional-blogging/), I think it is important that I share not only when things are going well, but when they aren't. Using a high volume peasant diet with lots of potatoes, I was able to go from 222 to 199 without experiencing hunger. I go into detail on this approach in the post [How I Used the Peasant Diet to Lean Out](/2017/09/used-peasant-diet-lean/). Then a month ago, I posted [High Volume or High Protein Foods For Fat Loss](/2017/08/high-volume-high-protein-foods-fat-loss/) and [More Thoughts on High Volume or High Protein For Fat Loss](/2017/08/thoughts-high-volume-high-protein-fat-loss/). The short version is I explained why at this stage in my diet I felt I needed to shift to a higher protein diet and focus less on high volume. So far it hasn't worked.
+I wanted to provide an update on my current diet. I'm stuck at 199. For reasons I explained in [this post](/2017/03/stepping-aside-nutritional-blogging/), I think it is important that I share not only when things are going well, but when they aren't.
+
+Using a high volume peasant diet with lots of potatoes, I was able to go from 222 to 199 without experiencing hunger. I go into detail on this approach in the post [How I Used the Peasant Diet to Lean Out](/2017/09/used-peasant-diet-lean/). Then a month ago, I posted [High Volume or High Protein Foods For Fat Loss](/2017/08/high-volume-high-protein-foods-fat-loss/) and [More Thoughts on High Volume or High Protein For Fat Loss](/2017/08/thoughts-high-volume-high-protein-fat-loss/). The short version is I explained why at this stage in my diet I felt I needed to shift to a higher protein diet and focus less on high volume.
+
+So far it hasn't worked.
 
 
 ### Ideal Weight
 
 
-I suspect that my ideal weight range is somewhere between 185 and 200 (my height is 6' 2.5). I want to get leaner now to discover what weight is best for me. Abs are great, but once you get over 40 your face can become gaunt at low body fat levels. I want to find the best balance. Some people do not understand the massive differences a small amount of weight loss has as you get close to hitting your ideal weight. I found an excellent example on Instagram. _UPDATE Jan 2021: The photo has been removed from Instagram. I wish I had taken a screenshot._ Jeffrey is my height (6 ' 2). It is amazing that there is only 7 pounds difference between the first photo and the 2nd. My guess is he also regained lost muscle as he got back in shape. Regardless, this is an excellent and motivating transformation. I wish his facial expression in the first photo was the same as the other two, but you can see his face looks _slightly_ better in the middle photo, whereas his abs look best in the third photo. If he were 10 or 20 years old, I suspect the difference in the face at the two lower body fat levels would be more pronounced. I'm close to photo 2, but not quite there yet.
+I suspect that my ideal weight range is somewhere between 185 and 200 (my height is 6' 2.5). I want to get leaner now to discover what weight is best for me. Abs are great, but once you get over 40 your face can become gaunt at low body fat levels. I want to find the best balance.
+
+Some people do not understand the massive differences a small amount of weight loss has as you get close to hitting your ideal weight. I found an excellent example on Instagram.
+
+_UPDATE Jan 2021: The photo has been removed from Instagram. I wish I had taken a screenshot._
+
+Jeffrey is my height (6 ' 2). It is amazing that there is only 7 pounds difference between the first photo and the 2nd. My guess is he also regained lost muscle as he got back in shape. Regardless, this is an excellent and motivating transformation.
+
+I wish his facial expression in the first photo was the same as the other two, but you can see his face looks _slightly_ better in the middle photo, whereas his abs look best in the third photo. If he were 10 or 20 years old, I suspect the difference in the face at the two lower body fat levels would be more pronounced.
+
+I'm close to photo 2, but not quite there yet.
 
 
 ### My Troubles With High Protein
@@ -26,7 +40,15 @@ I'll start with the good news. The good news is that even though I switched up m
 -   I get more hungry earlier in the day.
 -   I crave ice cream and other calorie-dense foods much more. (roasted almonds is one example)
 
-Is this common? If I eat a huge bowl of cold boiled potatoes, I'm done. If I eat an equally caloric amount of lean chicken, I want dessert. ![](./img/ice-cream-truck.jpg) _[Photo](https://flic.kr/p/cw4UiE) by State Library Victoria_ I am just going to assume that eating a higher protein diet consistently is something that just takes practice and I'll get better at it. My new plan is to focus on protein earlier in the day and then finish with volume. That might control the sweet cravings. If you have any wisdom, drop a comment below.
+Is this common? If I eat a huge bowl of cold boiled potatoes, I'm done. If I eat an equally caloric amount of lean chicken, I want dessert.
+
+![](./img/ice-cream-truck.jpg)
+
+_[Photo](https://flic.kr/p/cw4UiE) by State Library Victoria_
+
+I am just going to assume that eating a higher protein diet consistently is something that just takes practice and I'll get better at it. My new plan is to focus on protein earlier in the day and then finish with volume. That might control the sweet cravings.
+
+If you have any wisdom, drop a comment below.
 
 ---
 

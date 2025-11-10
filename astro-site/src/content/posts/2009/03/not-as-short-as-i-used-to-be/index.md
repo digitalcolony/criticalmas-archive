@@ -9,7 +9,11 @@ description: "At the beginning of the year I listed 633 as my 2009 target for th
 commentCount: 5
 ---
 
-At the beginning of the year I listed 633 as my [2009 target](/2009/01/2009-financial-predictions/) for the S &P 500. We came close to that last week. My plan all along has been to lighten up on my short positions as I get close to that target. On Friday, I reduced my short exposure from 90.1% to 68.2%. The _pessimism bandwagon_ was starting to get too crowded. ![MAS at 2](./img/13.jpg "MAS at 2") The latest S & P 500 earnings estimate has dropped from 42.26 to 32.41. With a conservative PE of 15 that puts the index at 486. I still think the stock market will continue to fall, but nothing moves in a straight line, so I decided to take some chips off the table. And if the market has a brief rally, I can always fully reload on the shorts.
+At the beginning of the year I listed 633 as my [2009 target](/2009/01/2009-financial-predictions/) for the S &P 500. We came close to that last week. My plan all along has been to lighten up on my short positions as I get close to that target. On Friday, I reduced my short exposure from 90.1% to 68.2%. The _pessimism bandwagon_ was starting to get too crowded.
+
+![MAS at 2](./img/13.jpg "MAS at 2")
+
+The latest S & P 500 earnings estimate has dropped from 42.26 to 32.41. With a conservative PE of 15 that puts the index at 486. I still think the stock market will continue to fall, but nothing moves in a straight line, so I decided to take some chips off the table. And if the market has a brief rally, I can always fully reload on the shorts.
 
 ---
 

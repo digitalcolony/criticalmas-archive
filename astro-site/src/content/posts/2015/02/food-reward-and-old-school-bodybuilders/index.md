@@ -13,21 +13,47 @@ The outstanding book [The Low-Carb Myth](/2015/02/tell-me-low-carb-lies/) makes 
 
 > The food reward hypothesis of obesity states that the reward and palatability value of food influence body fatness, and excess reward/palatability can promote body fat accumulation.
 
-What this means to me is that at equal calories some foods provide greater flavor reward and these tend to be the foods we over-consume. When this is done regularly, we find ourselves in a caloric surplus and we gain weight. A simple example to explain food reward would be the potato. A plain baked potato has less food reward than potato chips. The potato chip has been engineered to provide a taste combination that hits our reward center stronger than the baked potato and provides less satiety. Which is more filling? 1 medium baked potato + 1 tablespoon of butter or 1.3 oz of potato chips. They both have ~210 calories. I say the potato. The book _The End of Overeating_ convinced me that food engineers were capable of creating foods so rewarding that limiting our intake of these foods can be challenging. How much a factor this plays is up for debate and likely varies from individual to individual. Enough background into food reward. I was thinking this week about how in the Internet age there is a near-endless supply of information on what causes weight gain and what reverses it. Blogs, YouTube videos, thousands of books on Amazon, and forums. Yet despite all this information, there seems little agreement. Everything is so polarized. This left me with a question, which was: _How did we get lean before the Internet?_
+What this means to me is that at equal calories some foods provide greater flavor reward and these tend to be the foods we over-consume. When this is done regularly, we find ourselves in a caloric surplus and we gain weight. A simple example to explain food reward would be the potato. A plain baked potato has less food reward than potato chips. The potato chip has been engineered to provide a taste combination that hits our reward center stronger than the baked potato and provides less satiety.
+
+Which is more filling? 1 medium baked potato + 1 tablespoon of butter or 1.3 oz of potato chips. They both have ~210 calories. I say the potato.
+
+The book _The End of Overeating_ convinced me that food engineers were capable of creating foods so rewarding that limiting our intake of these foods can be challenging. How much a factor this plays is up for debate and likely varies from individual to individual.
+
+Enough background into food reward. I was thinking this week about how in the Internet age there is a near-endless supply of information on what causes weight gain and what reverses it. Blogs, YouTube videos, thousands of books on Amazon, and forums. Yet despite all this information, there seems little agreement. Everything is so polarized.
+
+This left me with a question, which was: _How did we get lean before the Internet?_
 
 
 ### Old School Bodybuilders
 
 
-Now I am the last person to seek individual outliers and then extrapolate back what works, but I do think if we look at the early years of bodybuilding culture it can be instructive, especially in the context of food reward. I don't recall where I heard it or read it, but I learned from a fitness professional that many athletes who keep and maintain low body fat levels eat the same basic foods over and over. Their diet has a lower variety and they get a large percentage of their calories by eating the same staples. And those staples tended to be rather bland. I decided to research and discover what the diet old-school bodybuilders used to achieve low body fat levels. I am aware there was steroid usage back then, but it was far less than the levels used today. Ric Drasen posted a typical day of food intake in his article [Eating For The Bodybuilding Physique of the 70s](http://www.muscleandfitness.com/nutrition/gain-mass/eating-bodybuilding-physique-70s).
+Now I am the last person to seek individual outliers and then extrapolate back what works, but I do think if we look at the early years of bodybuilding culture it can be instructive, especially in the context of food reward.
 
-> Breakfast - Beef patty and 3 eggs, cottage cheese and vitamins. Lunch - Chicken or Fish, or Beef patty, small salad, option eggs and cottage cheese. Or Tuna. Mid afternoon snack – Can of Tuna or chicken breasts or protein drink. Dinner -Steak, or Chicken with small salad, cottage cheese and sugar free jello and vegetables. Bedtime – Cheese omelet
+I don't recall where I heard it or read it, but I learned from a fitness professional that many athletes who keep and maintain low body fat levels eat the same basic foods over and over. Their diet has a lower variety and they get a large percentage of their calories by eating the same staples. And those staples tended to be rather bland.
+
+I decided to research and discover what the diet old-school bodybuilders used to achieve low body fat levels. I am aware there was steroid usage back then, but it was far less than the levels used today.
+
+Ric Drasen posted a typical day of food intake in his article [Eating For The Bodybuilding Physique of the 70s](http://www.muscleandfitness.com/nutrition/gain-mass/eating-bodybuilding-physique-70s).
+
+> Breakfast - Beef patty and 3 eggs, cottage cheese and vitamins.
+> 
+> Lunch - Chicken or Fish, or Beef patty, small salad, option eggs and cottage cheese. Or Tuna.
+> 
+> Mid afternoon snack – Can of Tuna or chicken breasts or protein drink.
+> 
+> Dinner -Steak, or Chicken with small salad, cottage cheese and sugar free jello and vegetables.
+> 
+> Bedtime – Cheese omelet
 
 He states the 1970s bodybuilding diet was high in protein and low in carbs. Another article titled [Old-school Bodybuilding: Carbs Make a Comeback](https://web.archive.org/web/20220517164627/https://www.musculardevelopment.com/articles/nutrition/2635-old-school-bodybuilding-carbs-make-a-comeback.html) by Dan Gwartney, M.D. disagrees with when the low-carb trend in bodybuilding began but agrees that the diets consisted of eating the same basic boring foods. Low food reward.
 
 > ...it is pretty simple to write down the circa 1980 bodybuilding diet: breakfast— oatmeal, eggs, and skim milk; lunch— two turkey and swiss cheese sandwiches on whole-wheat bread with mustard; pre-workout— applesauce and two chicken breasts; dinner— steamed rice, two cans of tuna packed in water, and a can of vegetables mixed in a bowl; pre-bedtime— one chicken breast and celery with peanut butter.
 
-![ed-fury](./img/ed-fury.jpg) _Ed Fury 1953 (photo from UCLA, link no longer active)_ The article [Old Time Strongman Diets](https://web.archive.org/web/20180805043102/http://physicalculturist.ca:80/old-time-strongman-diets/) by Matthew Chan has some more support for low food reward diets.
+![ed-fury](./img/ed-fury.jpg)
+
+_Ed Fury 1953 (photo from UCLA, link no longer active)_
+
+The article [Old Time Strongman Diets](https://web.archive.org/web/20180805043102/http://physicalculturist.ca:80/old-time-strongman-diets/) by Matthew Chan has some more support for low food reward diets.
 
 > Hackenschmidt did not believe in seasoning his food, and recommended avoiding sour dishes and sugar, unless from a natural source like fruit.
 
@@ -39,7 +65,11 @@ He states the 1970s bodybuilding diet was high in protein and low in carbs. Anot
 ### Take Away Lesson
 
 
-Long before the Internet, old-school bodybuilders figured out how to get lean. They ate basic staples. In the 1970s and before there was a bias towards more carbs. In the 1980s, the shift went towards lower carbs with a cheat day. In both cases, you had diets that would be considered low food reward. Just like with every other theory of obesity, the food reward hypothesis has its critics. To me, it has so much overlap with other schools of thought that I think it has validity. Although I can speculate that the weight I lost a few years ago was due to lower food reward, I don't know for certain. I do know when I was underweight, I used the food reward of ice cream to stimulate my appetite to gain weight. I also used a version of [flavor deconditioning](https://ineedcoffee.com/a-month-without-coffee/) before going an entire month without coffee. And then there was my [almond vs almond butter](/2012/04/food-reward-test-almonds-vs-almond-butter/) test. I will be testing food reward theory for myself. More on that in a future post. Have you experimented with food reward theory in your diet?
+Long before the Internet, old-school bodybuilders figured out how to get lean. They ate basic staples. In the 1970s and before there was a bias towards more carbs. In the 1980s, the shift went towards lower carbs with a cheat day. In both cases, you had diets that would be considered low food reward.
+
+Just like with every other theory of obesity, the food reward hypothesis has its critics. To me, it has so much overlap with other schools of thought that I think it has validity. Although I can speculate that the weight I lost a few years ago was due to lower food reward, I don't know for certain. I do know when I was underweight, I used the food reward of ice cream to stimulate my appetite to gain weight. I also used a version of [flavor deconditioning](https://ineedcoffee.com/a-month-without-coffee/) before going an entire month without coffee. And then there was my [almond vs almond butter](/2012/04/food-reward-test-almonds-vs-almond-butter/) test.
+
+I will be testing food reward theory for myself. More on that in a future post. Have you experimented with food reward theory in your diet?
 
 ---
 

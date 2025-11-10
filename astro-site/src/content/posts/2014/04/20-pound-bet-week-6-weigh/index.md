@@ -9,7 +9,19 @@ description: "For a background to this post see How I Plan to Lose 20 Pounds an
 commentCount: 14
 ---
 
-_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._ Week #6 Weigh-In: **+1**. Total Loss: **\-6**. The bad new is this was the first week where I gained weight. The good news is I lost another 1/2 inch off the waist. My pants are getting a little loose. Am I gaining or regaining muscle? Possibly. Now that I am in the gym 5 times a week for knee rehab, I am lifting more volume. My intensity is of course lower, but when you have a knee injury and work out in a gym that is too hot, something must give. 6 week, 6 pounds, 1 inch off waist. That kind of fat loss would make me a boring contestant on The Biggest Loser. But it is working for me. If I don't lose weight in Week 7, I will return to the food journals. ![tuna](./img/tuna-cans.jpg) Notes:
+_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._
+
+Week #6 Weigh-In: **+1**. Total Loss: **\-6**.
+
+The bad new is this was the first week where I gained weight. The good news is I lost another 1/2 inch off the waist. My pants are getting a little loose. Am I gaining or regaining muscle? Possibly. Now that I am in the gym 5 times a week for knee rehab, I am lifting more volume. My intensity is of course lower, but when you have a knee injury and work out in a gym that is too hot, something must give.
+
+6 week, 6 pounds, 1 inch off waist. That kind of fat loss would make me a boring contestant on The Biggest Loser. But it is working for me.
+
+If I don't lose weight in Week 7, I will return to the food journals.
+
+![tuna](./img/tuna-cans.jpg)
+
+Notes:
 
 1.  I pigged out on Sunday. Can I call this a refeed? I blame poor sleep. Bad sleep leads to bad food choices. Whenever I talk to people with serious weight issues they ALWAYS have trouble getting good sleep.
 2.  I ran out of tuna and didn't replace my stash until Friday. Protein suppresses appetite. Tuna is a quick hit of protein. When I was eating tuna in the AM, I was dropping weight. When I ran out, I started to gain. This week I will have plenty of tuna.

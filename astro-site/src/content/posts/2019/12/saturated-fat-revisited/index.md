@@ -9,13 +9,39 @@ description: "I want to start this post by saying that I am not a health expert.
 commentCount: 9
 ---
 
-I want to start this post by saying that I am not a health expert. I am a software developer with an interest in health. I read a lot. I do my best to find the truth and filter out the nonsense. But I know there have been times I have gotten it wrong. Fortunately for me, I am also comfortable with changing my mind. Unlike many health bloggers, I don't have a financial incentive to keep my beliefs constant as I learn more. With that disclosure behind me, I decided months ago to revisit the few remaining arguments that I learned from the Paleo crowd to see if an older wiser version of myself would still find them persuasive. Today I'll tackle saturated fat. Back in 2008, I was first exposed to the idea that the link between saturated fat and heart disease was made up. During the 2006-2008 time period, I was pounding the drum that the housing market and stock market were [going to going to crash](/2008/07/shooting-the-messenger/). Yet at the time, this was a crackpot position to hold. Most financial experts got it wrong. So I was primed to accept health arguments that claimed the health experts got it wrong. Paleo stepped forward to fill that role initially. Then came the Weston A. Price crowd, followed by the Ray Peat dieters. Book after book was put out claiming the experts were wrong about saturated fat and that it was heart-healthy. Then the mainstream media started putting out stories that implied the link between saturated fat and heart disease that was once solid was now inconclusive. As the years went by, I didn't revisit this topic. Then several months ago, I wanted to know if the estrogen in dairy that I was consuming in high quantities was affecting my hormone levels. I found convincing arguments both saying it was a concern and that it wasn't. I wasn't qualified to decide where the truth was, so I decided to cut my dairy intake by 90% to see if I felt any different. I don't have any blood work, but I don't think it made me feel any different. While poking around on the dairy estrogen topic, YouTube decided to recommend some saturated fat videos. I fired them up and after watching a few, I decided this issue was not settled. There is still much disagreement on the topic. And most importantly, the critics of saturated fat make a persuasive argument.
+I want to start this post by saying that I am not a health expert. I am a software developer with an interest in health. I read a lot. I do my best to find the truth and filter out the nonsense. But I know there have been times I have gotten it wrong. Fortunately for me, I am also comfortable with changing my mind. Unlike many health bloggers, I don't have a financial incentive to keep my beliefs constant as I learn more.
+
+With that disclosure behind me, I decided months ago to revisit the few remaining arguments that I learned from the Paleo crowd to see if an older wiser version of myself would still find them persuasive.
+
+Today I'll tackle saturated fat.
+
+Back in 2008, I was first exposed to the idea that the link between saturated fat and heart disease was made up. During the 2006-2008 time period, I was pounding the drum that the housing market and stock market were [going to going to crash](/2008/07/shooting-the-messenger/). Yet at the time, this was a crackpot position to hold. Most financial experts got it wrong. So I was primed to accept health arguments that claimed the health experts got it wrong.
+
+Paleo stepped forward to fill that role initially. Then came the Weston A. Price crowd, followed by the Ray Peat dieters. Book after book was put out claiming the experts were wrong about saturated fat and that it was heart-healthy. Then the mainstream media started putting out stories that implied the link between saturated fat and heart disease that was once solid was now inconclusive.
+
+As the years went by, I didn't revisit this topic.
+
+Then several months ago, I wanted to know if the estrogen in dairy that I was consuming in high quantities was affecting my hormone levels. I found convincing arguments both saying it was a concern and that it wasn't. I wasn't qualified to decide where the truth was, so I decided to cut my dairy intake by 90% to see if I felt any different. I don't have any blood work, but I don't think it made me feel any different.
+
+While poking around on the dairy estrogen topic, YouTube decided to recommend some saturated fat videos. I fired them up and after watching a few, I decided this issue was not settled. There is still much disagreement on the topic. And most importantly, the critics of saturated fat make a persuasive argument.
 
 
 ### You Do You
 
 
-This is the point in the post where I would normally declare a winner and then state with confidence who I feel is correct. I'm not going to do that. I will say that I am now 80% persuaded by the anti-SF argument, whereas a year ago I was 100% persuaded by the pro-SF case. When there is a decision I need to make and both sides are smart and make solid points, instead of trying to figure who is right, I flip it and ask if either side is wrong, what are the consequences? If the anti-SF group is wrong and I replace those calories with lentils and tubers, then I'll miss out on some tasty dairy and meat-based meals. If the pro-SF group is wrong, then I might die sooner from the [#1 cause of mortality](https://en.wikipedia.org/wiki/List_of_causes_of_death_by_rate) (heart disease). As a risk-averse person that is no longer driven by food cravings (thank you [Peasant Diet](/2016/11/designing-modern-peasant-diet/)), I'm going to proceed as if saturated fat is directly linked to heart disease. I am not saying it is true or saying what you should do. That is for you to decide. The reason for this post is to address a decade of health posts on this site where I confidently stated saturated fat was healthy. I don't know that to be true anymore. It is likely to be false. I am also not going to defend my position. I believe I am making my decision from incomplete knowledge. I am not trying to get it right. I am trying to not get it too wrong. ![](./img/heart-espresso-machine.jpg)
+This is the point in the post where I would normally declare a winner and then state with confidence who I feel is correct. I'm not going to do that. I will say that I am now 80% persuaded by the anti-SF argument, whereas a year ago I was 100% persuaded by the pro-SF case.
+
+When there is a decision I need to make and both sides are smart and make solid points, instead of trying to figure who is right, I flip it and ask if either side is wrong, what are the consequences?
+
+If the anti-SF group is wrong and I replace those calories with lentils and tubers, then I'll miss out on some tasty dairy and meat-based meals. If the pro-SF group is wrong, then I might die sooner from the [#1 cause of mortality](https://en.wikipedia.org/wiki/List_of_causes_of_death_by_rate) (heart disease).
+
+As a risk-averse person that is no longer driven by food cravings (thank you [Peasant Diet](/2016/11/designing-modern-peasant-diet/)), I'm going to proceed as if saturated fat is directly linked to heart disease.
+
+I am not saying it is true or saying what you should do. That is for you to decide. The reason for this post is to address a decade of health posts on this site where I confidently stated saturated fat was healthy. I don't know that to be true anymore. It is likely to be false.
+
+I am also not going to defend my position. I believe I am making my decision from incomplete knowledge. I am not trying to get it right. I am trying to not get it too wrong.
+
+![](./img/heart-espresso-machine.jpg)
 
 ---
 

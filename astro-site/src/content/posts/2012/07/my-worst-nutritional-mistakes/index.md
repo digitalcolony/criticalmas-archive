@@ -9,19 +9,29 @@ description: "About a year ago I had an idea for a post. I'd list and rank my wo
 commentCount: 7
 ---
 
-About a year ago I had an idea for a post. I'd list and rank my worst nutritional mistakes. There would be the usual suspects, such as the [vegetarian phase](/2008/07/im-not-a-vegetarian/) and [The Zone Diet](/2012/06/my-experience-with-the-zone-diet/). Then I started thinking about the years when I would eat protein bars and I even went through a phase where I was buying Egg Beaters from Costco. _Cases of soy milk!_ I was so wrong. Oh and then I had my George Foreman grill phase, where I'd destroy good salmon by squeezing every molecule of fat into the run-off tray. I never wrote the post because I got this feeling the premise for the post was faulty. At several points in my nutritional journey, I got overly confident. I felt that I had figured things out only to see my progress stall and eventually reverse. When I followed _The Zone Diet_, I looked down on my vegetarian period as a stupid mistake. Today I view _The Zone Diet_ as a mistake. Although I'd like to think that my current nutritional path is optimal, my experiences have told me not to get too confident. The gains I have achieved with a Paleo/WAPF diet have lasted longer and been easier to maintain than any other nutritional plan I've followed, but I still refuse to declare victory. ![](http://farm3.staticflickr.com/2759/4448688868_165d81ecc0.jpg " elycefeliz") _[Photo](http://www.flickr.com/photos/elycefeliz/4448688868/in/photostream/) by elycefeliz_
+About a year ago I had an idea for a post. I'd list and rank my worst nutritional mistakes. There would be the usual suspects, such as the [vegetarian phase](/2008/07/im-not-a-vegetarian/) and [The Zone Diet](/2012/06/my-experience-with-the-zone-diet/). Then I started thinking about the years when I would eat protein bars and I even went through a phase where I was buying Egg Beaters from Costco. _Cases of soy milk!_ I was so wrong. Oh and then I had my George Foreman grill phase, where I'd destroy good salmon by squeezing every molecule of fat into the run-off tray.
+
+I never wrote the post because I got this feeling the premise for the post was faulty. At several points in my nutritional journey, I got overly confident. I felt that I had figured things out only to see my progress stall and eventually reverse. When I followed _The Zone Diet_, I looked down on my vegetarian period as a stupid mistake. Today I view _The Zone Diet_ as a mistake. Although I'd like to think that my current nutritional path is optimal, my experiences have told me not to get too confident. The gains I have achieved with a Paleo/WAPF diet have lasted longer and been easier to maintain than any other nutritional plan I've followed, but I still refuse to declare victory.
+
+![](http://farm3.staticflickr.com/2759/4448688868_165d81ecc0.jpg " elycefeliz")
+
+_[Photo](http://www.flickr.com/photos/elycefeliz/4448688868/in/photostream/) by elycefeliz_
 
 
 ### Were My Dietary Mistakes Really Mistakes?
 
 
-Even though I would love to go back in time and smack my 20-year-old self for following a vegetarian diet, I did learn a lot about food during that period. I read the labels and menus closely. I explored many cuisines such as Indian, Ethiopian, and regional Asian that I did not eat prior to becoming vegetarian. I also began cooking more of my own meals and became more comfortable in the kitchen. The same was true with _The Zone Diet_. During this period I embraced more foods with healthy fats and ate a wide variety of seafood, which was easier to do living on the Gulf Coast of Florida than in Central Ohio. What I learned about food as a vegetarian became the foundation I built when following _The Zone Diet_. And then when I eventually went Paleo, I had developed enough knowledge and discipline regarding food choices to make that transition work with relative ease.
+Even though I would love to go back in time and smack my 20-year-old self for following a vegetarian diet, I did learn a lot about food during that period. I read the labels and menus closely. I explored many cuisines such as Indian, Ethiopian, and regional Asian that I did not eat prior to becoming vegetarian. I also began cooking more of my own meals and became more comfortable in the kitchen.
+
+The same was true with _The Zone Diet_. During this period I embraced more foods with healthy fats and ate a wide variety of seafood, which was easier to do living on the Gulf Coast of Florida than in Central Ohio. What I learned about food as a vegetarian became the foundation I built when following _The Zone Diet_. And then when I eventually went Paleo, I had developed enough knowledge and discipline regarding food choices to make that transition work with relative ease.
 
 
 ### My Worst Nutritional Mistake?
 
 
-Exploring new diets, even when they turned out to be poor choices, weren't mistakes. The mistakes for me were always about staying loyal to diets that had stopped working or no longer lined up with my health goals. This isn't just my mistake, it is extremely common. We treat our diets like religion. Low carb, raw food, Paleo, it doesn't matter. If the diet stops working, we refuse to change course, because the diet was so effective for us in the beginning. We've changed, but our loyalty hasn't. We blame ourselves and refuse to admit we were wrong. So my worst nutritional mistakes were staying loyal to diets that had stopped working for me and believing that I was following the optimal diet. I hope that I've learned my lesson.
+Exploring new diets, even when they turned out to be poor choices, weren't mistakes. The mistakes for me were always about staying loyal to diets that had stopped working or no longer lined up with my health goals. This isn't just my mistake, it is extremely common. We treat our diets like religion. Low carb, raw food, Paleo, it doesn't matter. If the diet stops working, we refuse to change course, because the diet was so effective for us in the beginning. We've changed, but our loyalty hasn't. We blame ourselves and refuse to admit we were wrong.
+
+So my worst nutritional mistakes were staying loyal to diets that had stopped working for me and believing that I was following the optimal diet. I hope that I've learned my lesson.
 
 ---
 

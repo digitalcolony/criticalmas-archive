@@ -27,7 +27,15 @@ Poached eggs, eh? I had never made a poached egg, so I found a video on Youtube.
 4.  Turn off heat
 5.  Pull eggs out in 10 minutes
 
-That is it. I found I could do 3 eggs nicely using a WOK. When I did less than 10 minutes, the eggs were too runny for my tastes. At 10 minutes the egg white firms up a bit and the yolk is medium cooked. ![poached-1](./img/poached-1.jpg) ![poached-2](./img/poached-2.jpg) I was so thrilled to have nailed poached eggs on my first attempt that I carried my plate back to my computer a little too fast. Poached eggs are slippery. One of the eggs decided to make a break for it and went airborne. It landed and broke up on (into) my keyboard. I spent a good 15 minutes scrapping the egg out. Thankfully the yolk held together. Now I'm hooked on poached eggs. They taste great and have none of that nasty oxidized cholesterol. Just be sure to walk slowly with your plate, especially around keyboards.
+That is it. I found I could do 3 eggs nicely using a WOK. When I did less than 10 minutes, the eggs were too runny for my tastes. At 10 minutes the egg white firms up a bit and the yolk is medium cooked.
+
+![poached-1](./img/poached-1.jpg)
+
+![poached-2](./img/poached-2.jpg)
+
+I was so thrilled to have nailed poached eggs on my first attempt that I carried my plate back to my computer a little too fast. Poached eggs are slippery. One of the eggs decided to make a break for it and went airborne. It landed and broke up on (into) my keyboard. I spent a good 15 minutes scrapping the egg out. Thankfully the yolk held together.
+
+Now I'm hooked on poached eggs. They taste great and have none of that nasty oxidized cholesterol. Just be sure to walk slowly with your plate, especially around keyboards.
 
 ---
 

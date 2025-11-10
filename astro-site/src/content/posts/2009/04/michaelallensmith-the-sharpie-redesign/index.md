@@ -9,7 +9,15 @@ description: "Today I got the silly idea to hand draw a web page using a marker.
 commentCount: 8
 ---
 
-Today I got the silly idea to hand draw a web page using a marker. So I took out a piece of paper, grabbed a Sharpie and scribbled out a redesign for [MichaelAllenSmith.com](https://michaelallensmith.com/). Then I scanned the ditto, chopped it up and added _mouseover_ images with just a splash of color. I give you The Sharpie Redesign. ![michael-allen-smith-SS](./img/michael-allen-smith-SS.jpg) Believe it or not, it validates to [XHTML 1.0 Transitional](http://validator.w3.org/). UPDATE (4/16/2009): It now validates XHTML 1.0 Strict thanks to Joe at [ArtLung.com](https://artlung.com/).
+Today I got the silly idea to hand draw a web page using a marker. So I took out a piece of paper, grabbed a Sharpie and scribbled out a redesign for [MichaelAllenSmith.com](https://michaelallensmith.com/). Then I scanned the ditto, chopped it up and added _mouseover_ images with just a splash of color.
+
+I give you The Sharpie Redesign.
+
+![michael-allen-smith-SS](./img/michael-allen-smith-SS.jpg)
+
+Believe it or not, it validates to [XHTML 1.0 Transitional](http://validator.w3.org/).
+
+UPDATE (4/16/2009): It now validates XHTML 1.0 Strict thanks to Joe at [ArtLung.com](https://artlung.com/).
 
 ---
 

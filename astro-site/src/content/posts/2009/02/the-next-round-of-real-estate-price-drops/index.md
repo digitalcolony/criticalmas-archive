@@ -9,15 +9,27 @@ description: "Last September in the post Another Reason Real Estate Prices Will 
 commentCount: 14
 ---
 
-Last September in the post [Another Reason Real Estate Prices Will Drop Further](/2008/09/another-reason-real-estate-prices-will-drop-further/), I outlined how the banks that got burned by easy lending would be forced to tighten their lending. At the time of the post, Fannie and Freddie were moving to a 10% down payment requirement. It has only been a few months since then and the new guidelines have gotten tougher. Much tougher. From the SF Gate article Home buyers to be dinged with new fees:
+Last September in the post [Another Reason Real Estate Prices Will Drop Further](/2008/09/another-reason-real-estate-prices-will-drop-further/), I outlined how the banks that got burned by easy lending would be forced to tighten their lending. At the time of the post, Fannie and Freddie were moving to a 10% down payment requirement.
 
-> Under Fannie's and Freddie's new guidelines, even applicants who assumed their FICO scores would get them favorable rates will be charged more **unless they can come up with down payments of 30 percent or higher**. For example, a buyer with a 699 FICO score who can make a down payment of 25 percent will now get hit with a 1.5 percent "delivery" fee at closing under the new guidelines. A buyer with a Fair Isaac Corp. FICO score between 700 and 720 will pay an extra three-quarters of a point. Even someone with a 739 FICO will get dinged with a quarter-point add-on.
+It has only been a few months since then and the new guidelines have gotten tougher. Much tougher. From the SF Gate article Home buyers to be dinged with new fees:
 
-30% down payment! I knew lending would move back to the 20% down model. Never did I think it would overshoot to 30% down. The point of a down payment is to protect the lender should the borrower walk away. A 20% down payment assures the lender feels some pain if they stop making payments. With a 20% down payment, the lender has enough insurance that should they be forced to foreclose and resell the property they don't lose money. The only reason to go beyond 20% is because the lender feels the underlying asset (the home) will drop in value as much or almost as much as the down payment. The new guidelines tell us that Fannie and Freddie are projecting a large housing price decline. The article continues:
+> Under Fannie's and Freddie's new guidelines, even applicants who assumed their FICO scores would get them favorable rates will be charged more **unless they can come up with down payments of 30 percent or higher**. For example, a buyer with a 699 FICO score who can make a down payment of 25 percent will now get hit with a 1.5 percent "delivery" fee at closing under the new guidelines.
+> 
+> A buyer with a Fair Isaac Corp. FICO score between 700 and 720 will pay an extra three-quarters of a point. Even someone with a 739 FICO will get dinged with a quarter-point add-on.
+
+30% down payment! I knew lending would move back to the 20% down model. Never did I think it would overshoot to 30% down. The point of a down payment is to protect the lender should the borrower walk away. A 20% down payment assures the lender feels some pain if they stop making payments.
+
+With a 20% down payment, the lender has enough insurance that should they be forced to foreclose and resell the property they don't lose money. The only reason to go beyond 20% is because the lender feels the underlying asset (the home) will drop in value as much or almost as much as the down payment.
+
+The new guidelines tell us that Fannie and Freddie are projecting a large housing price decline.
+
+The article continues:
 
 > Applicants who seek to buy a **condominium** and cannot come up with a **25 percent down payment** will be hit with a three-quarter point add-on penalty, **no matter how high their credit score** - simply because they are not purchasing a traditional detached, stand-alone home.
 
-First-time home buyers often purchase condos. How will they come up with a 25% down payment to avoid the penalty? Prices have to fall. Even if they assume the 3/4 point penalty, the seller will take that hit in the form of further price cuts. This will put even more condos underwater and cause more owners to [walk away](/2009/02/mr-microsoft-vs-seattle-billy/). This is going to crush the Downtown Miami. What percent of home buyers will be affected by these fees? I tried to find updated FICO averages, but couldn't. An average of sites that cited scores from 2006-2007, stated that 42% are below 700 and only 18% are above 800. In other words, the new guidelines aren't targeted at deadbeats. They target the majority of potential home buyers. It is Fannie and Freddie's response to lending while housing prices are in free fall.
+First-time home buyers often purchase condos. How will they come up with a 25% down payment to avoid the penalty? Prices have to fall. Even if they assume the 3/4 point penalty, the seller will take that hit in the form of further price cuts. This will put even more condos underwater and cause more owners to [walk away](/2009/02/mr-microsoft-vs-seattle-billy/). This is going to crush the Downtown Miami.
+
+What percent of home buyers will be affected by these fees? I tried to find updated FICO averages, but couldn't. An average of sites that cited scores from 2006-2007, stated that 42% are below 700 and only 18% are above 800. In other words, the new guidelines aren't targeted at deadbeats. They target the majority of potential home buyers. It is Fannie and Freddie's response to lending while housing prices are in free fall.
 
 ---
 

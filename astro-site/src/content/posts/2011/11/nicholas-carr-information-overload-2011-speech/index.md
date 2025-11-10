@@ -9,7 +9,9 @@ description: "If you haven't read The Shallows by Nicholas Carr and have concern
 commentCount: 4
 ---
 
-If you haven't read _[The Shallows](/2010/08/the-shallows-what-the-internet-is-doing-to-our-brains/)_ by Nicholas Carr and have concerns about the distracting nature of data overload, I highly recommend watching this 15-minute video. The presentation is titled _The dark side of the information revolution_ and took place in June 2011 for _The Economist_. UPDATE AUGUST 2022: The video is no longer online.
+If you haven't read _[The Shallows](/2010/08/the-shallows-what-the-internet-is-doing-to-our-brains/)_ by Nicholas Carr and have concerns about the distracting nature of data overload, I highly recommend watching this 15-minute video. The presentation is titled _The dark side of the information revolution_ and took place in June 2011 for _The Economist_.
+
+UPDATE AUGUST 2022: The video is no longer online.
 
 ---
 

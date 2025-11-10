@@ -9,7 +9,9 @@ description: "I get my oil changed at Jiffy Lube. I probably could learn how to
 commentCount: 4
 ---
 
-I get my oil changed at Jiffy Lube. I probably could learn how to do it myself, but I'd rather pay them to do it. It is what they do best. Today, I spent a good amount of time in the lobby and got a few ideas on how the people waiting with me could have saved money.
+I get my oil changed at Jiffy Lube. I probably could learn how to do it myself, but I'd rather pay them to do it. It is what they do best.
+
+Today, I spent a good amount of time in the lobby and got a few ideas on how the people waiting with me could have saved money.
 
 
 ### #1 Online Coupon
@@ -21,7 +23,9 @@ Pull out your smartphone and go to Jiffy Lube's website. Find the coupon. That i
 ### #2 Watch 1 YouTube Video Before You Go
 
 
-If you don't know how to change your cabin air filter, head over to YouTube and find a video demonstrating how to do it for your car model. In many cars, this is one of the easiest things you can do yourself. Filters on Amazon are around $10. Jiffy Lube will take care of it for about $30. I've replaced my own cabin air filter twice now.
+If you don't know how to change your cabin air filter, head over to YouTube and find a video demonstrating how to do it for your car model. In many cars, this is one of the easiest things you can do yourself. Filters on Amazon are around $10. Jiffy Lube will take care of it for about $30.
+
+I've replaced my own cabin air filter twice now.
 
 
 ### #3 Get Your Oil Changed Less Often
@@ -33,7 +37,9 @@ For years, I fell for every 5,000-mile rule. Turns out that is way too much. For
 ### In the Lobby
 
 
-I always share tip #1 with the people in the lobby. I recall one time there was a $20 coupon online. That fellow customer was happy to get the savings. So if you find yourself in the Jiffy Lube lobby, let others know about the coupon. ![lose money?](./img/6679444993_6bdd4d9bcb_o.jpg)
+I always share tip #1 with the people in the lobby. I recall one time there was a $20 coupon online. That fellow customer was happy to get the savings. So if you find yourself in the Jiffy Lube lobby, let others know about the coupon.
+
+![lose money?](./img/6679444993_6bdd4d9bcb_o.jpg)
 
 ---
 

@@ -9,13 +9,23 @@ description: "A while back someone asked me for my weight and diet history. I re
 commentCount: 22
 ---
 
-A while back someone asked me for my weight and diet history. I responded with the short version but needed to post the longer version. What diets have I tried and how did they work for me? This post will be my nutritional origin story. _(For context on the weights listed below, my height is 6’2.5)_ 
+A while back someone asked me for my weight and diet history. I responded with the short version but needed to post the longer version. What diets have I tried and how did they work for me?
+
+This post will be my nutritional origin story.
+
+_(For context on the weights listed below, my height is 6’2.5)_ 
 
 
 ### 1991-1994: Vegetarian
 
 
-At the end of college, I developed an interest in nutrition and was persuaded to try a vegetarian diet. This was a pre-Internet decision. I don't recall why I switched to this diet, but I'll speculate. I had run 2 marathons and was interested in using nutrition to improve my running times. During this era, I consumed too many breads and cheese. But I was young and had just started learning how to cook. Staples: Brown rice, bread, dairy, veggies, eggs My weight was probably 175 or so.
+At the end of college, I developed an interest in nutrition and was persuaded to try a vegetarian diet. This was a pre-Internet decision. I don't recall why I switched to this diet, but I'll speculate. I had run 2 marathons and was interested in using nutrition to improve my running times.
+
+During this era, I consumed too many breads and cheese. But I was young and had just started learning how to cook.
+
+Staples: Brown rice, bread, dairy, veggies, eggs
+
+My weight was probably 175 or so.
 
 
 ### 1995-2007: Pesco-Vegetarian Zone
@@ -23,25 +33,65 @@ At the end of college, I developed an interest in nutrition and was persuaded to
 
 I moved to Florida after graduating. This is when I started lifting weights. I added seafood to my diet. The Zone Diet book was the rage then. It sounded cool and the author seemed persuasive, so I tried it. In 2012, I shared [My Experience With The Zone Diet](/2012/06/my-experience-with-the-zone-diet/).
 
-> The diet that fooled me the longest was _The Zone Diet._ _The Zone Diet_ says to eat small meals every few waking hours. ...Soon you’ll find yourself hungry all the time. I responded to that hunger by eating more.
+> The diet that fooled me the longest was _The Zone Diet._
+> 
+> _The Zone Diet_ says to eat small meals every few waking hours. ...Soon you’ll find yourself hungry all the time. I responded to that hunger by eating more.
 
-I was weightlifting during this period. Even as late as 2007, my goal was to [get to 225 like Evander Holyfield](/2007/03/fitness-role-models/). The plan was to get swole first and then lean out later. I now know it was a [ridiculous goal](/2022/12/body-weight-wisdom-i-heard-20-years-ago/). I never had the genetics. But I kept eating every few hours. Lots of driving and hours sitting at a desk resulted in poor posture and gym injuries. When recovering from injuries, my appetite never decreased. During my San Diego period, I was mostly weight stable around 210. I didn't see that I was carrying too much weight for my ectomorph frame. I [feared getting below 200 pounds](/2008/08/i-dont-want-to-ride-a-donkey-down-the-grand-canyon/). Staples: Fish tacos, shrimp burritos, rice, eggs, veggies, salmon, dairy. I also added the occasional ostrich or buffalo towards the end of this period. My weight increased from 175 to 215. Some of it was muscle. Years later, I would discover a lot of it was fat.
+I was weightlifting during this period. Even as late as 2007, my goal was to [get to 225 like Evander Holyfield](/2007/03/fitness-role-models/). The plan was to get swole first and then lean out later. I now know it was a [ridiculous goal](/2022/12/body-weight-wisdom-i-heard-20-years-ago/). I never had the genetics. But I kept eating every few hours. Lots of driving and hours sitting at a desk resulted in poor posture and gym injuries. When recovering from injuries, my appetite never decreased.
+
+During my San Diego period, I was mostly weight stable around 210. I didn't see that I was carrying too much weight for my ectomorph frame. I [feared getting below 200 pounds](/2008/08/i-dont-want-to-ride-a-donkey-down-the-grand-canyon/).
+
+Staples: Fish tacos, shrimp burritos, rice, eggs, veggies, salmon, dairy. I also added the occasional ostrich or buffalo towards the end of this period.
+
+My weight increased from 175 to 215. Some of it was muscle. Years later, I would discover a lot of it was fat.
 
 
 ### 2008-2015: Paleo, Weston Price, Ray Peat
 
 
-At a Christmas Eve party in 2007, a friend pointed me to an article that changed everything. It was [Evolutionary Fitness An Interview with Art De Vany, PhD](https://docs.google.com/document/d/1Q6Oe0UZJU4pldnmEEdmN-lqaGwc-qr9lDWEhWEgCMZ4/edit?usp=sharing). Up until this point, I wasn't even paying attention to nutrition. I was on autopilot from decisions I made more than a decade ago that I never challenged. At that time, this blog was focused on finance. Reading about fitness and nutrition from a 70-year-old superfit economist was new to me and highly persuasive. There were so many gems in that interview. De Vany said, "I'm never sick". At that time, I was starting to read about superfoods with the goal of not getting sick. He also explained why multiple meals a day is a bad idea. This was also my first exposure to the idea of fasting for athletes. I was hooked. Soon Paleo took off in popularity with Mark Sisson and Robb Wolf. There were so many blogs back then. I was part of a Meetup group for Paleo here in Seattle. I stopped eating bread and started cooking my meals at home. My [skin cleared up](/2011/04/be-your-own-dermatologist/) and I started losing weight. I dropped down to 190. I was also training smarter in the gym (Body By Science HIT). I wasn't getting injured. The result was I looked and felt great. I was preaching the Paleo gospel. Paleo attached itself to low carb about the same time that Good Calories, Bad Calories was published. Paleo began with a solid message of avoiding processed foods, but it gradually got more restrictive and carb-phobic. From Paleo, it was a short jump to Weston Price, which I outlined in [Paleo vs Weston Price](/2011/02/paleo-vs-weston-price/).
+At a Christmas Eve party in 2007, a friend pointed me to an article that changed everything. It was [Evolutionary Fitness An Interview with Art De Vany, PhD](https://docs.google.com/document/d/1Q6Oe0UZJU4pldnmEEdmN-lqaGwc-qr9lDWEhWEgCMZ4/edit?usp=sharing). Up until this point, I wasn't even paying attention to nutrition. I was on autopilot from decisions I made more than a decade ago that I never challenged.
 
-> I still think the paleo diet is an excellent foundation. However, I think we can learn a lot about food from traditional cultures. I see the paleo diet as primarily about food choices, whereas the Weston A Price group focuses on food preparation. I think they complement each other nicely.
+At that time, this blog was focused on finance. Reading about fitness and nutrition from a 70-year-old superfit economist was new to me and highly persuasive.
 
-My diet was heavier in meats (nose-to-tail eating). No processed foods. It was during this period that I became the most proficient in cooking. Then I was exposed to the ideas of Ray Peat, which I outlined in 2012. From [The Peat-atarian Diet For Those Of Us With Average IQs](/2012/11/the-peatarian-diet-for-those-of-us-with-average-iqs/). I avoided seed oils and ate a lot of ice cream. My body temperature went up but so did my weight. During the 2008-2015 era, my weight started at around 215 and dropped initially to the high 180s/ low 190s before rising back to 215 and eventually 222. My biggest regret during this era was not doing a better job of recording my weight (pounds and inches) into a spreadsheet. I have data from January 2003 to May 2008, but not this period. Had I faced the data each morning, I would have made course corrections earlier. My second biggest regret was not getting blood work, but at that time I was unaware of how to pull my bloodwork outside of the healthcare systems with companies like UltaLabs. ![](./img/caveman-weighing-scale.jpg)
+There were so many gems in that interview.
+
+De Vany said, "I'm never sick". At that time, I was starting to read about superfoods with the goal of not getting sick. He also explained why multiple meals a day is a bad idea. This was also my first exposure to the idea of fasting for athletes. I was hooked.
+
+Soon Paleo took off in popularity with Mark Sisson and Robb Wolf. There were so many blogs back then. I was part of a Meetup group for Paleo here in Seattle.
+
+I stopped eating bread and started cooking my meals at home. My [skin cleared up](/2011/04/be-your-own-dermatologist/) and I started losing weight. I dropped down to 190. I was also training smarter in the gym (Body By Science HIT). I wasn't getting injured. The result was I looked and felt great. I was preaching the Paleo gospel.
+
+Paleo attached itself to low carb about the same time that Good Calories, Bad Calories was published. Paleo began with a solid message of avoiding processed foods, but it gradually got more restrictive and carb-phobic.
+
+From Paleo, it was a short jump to Weston Price, which I outlined in [Paleo vs Weston Price](/2011/02/paleo-vs-weston-price/).
+
+> I still think the paleo diet is an excellent foundation. However, I think we can learn a lot about food from traditional cultures.
+> 
+> I see the paleo diet as primarily about food choices, whereas the Weston A Price group focuses on food preparation. I think they complement each other nicely.
+
+My diet was heavier in meats (nose-to-tail eating). No processed foods. It was during this period that I became the most proficient in cooking.
+
+Then I was exposed to the ideas of Ray Peat, which I outlined in 2012. From [The Peat-atarian Diet For Those Of Us With Average IQs](/2012/11/the-peatarian-diet-for-those-of-us-with-average-iqs/). I avoided seed oils and ate a lot of ice cream. My body temperature went up but so did my weight.
+
+During the 2008-2015 era, my weight started at around 215 and dropped initially to the high 180s/ low 190s before rising back to 215 and eventually 222.
+
+My biggest regret during this era was not doing a better job of recording my weight (pounds and inches) into a spreadsheet. I have data from January 2003 to May 2008, but not this period. Had I faced the data each morning, I would have made course corrections earlier.
+
+My second biggest regret was not getting blood work, but at that time I was unaware of how to pull my bloodwork outside of the healthcare systems with companies like UltaLabs.
+
+![](./img/caveman-weighing-scale.jpg)
 
 
 ### 2016 - 2021: Potato Hack, Peasant Diet, Potatoes and Protein
 
 
-During my year in the Bay Area, I didn't track my weight. I gradually drifted up to 222. Up to this point, I hadn't questioned a lot of what I had come to believe regarding calories and metabolism. Like most people, I researched enough to find the answer that I was looking for and once I got there, I stopped researching. It was at this point that I figured out what most dieters fail to grasp. Most people who lose weight will gain it all back (or more) within 4-5 years. Maybe they know this fact, but optimistically charge forward confident that they will figure that out later. Considering that I had a few periods of weight loss followed by weight regain, I decided to approach whatever diet I chose with this in mind. Most of my readers know my history with the [potato hack](https://potatohack.com/) and [peasant diet](/2017/09/used-peasant-diet-lean/). I went from 222 to 182. I learned how to use volume, protein, and lower-flavor whole unprocessed foods to get full on fewer calories. I learned how to lock in the exact weight desired without experiencing hunger. I've maintained my weight for over 4 years now. Staples: potatoes, legumes, buckwheat groats, quinoa, sardines, fat-free Greek yogurt, chicken breasts, ground turkey.
+During my year in the Bay Area, I didn't track my weight. I gradually drifted up to 222. Up to this point, I hadn't questioned a lot of what I had come to believe regarding calories and metabolism. Like most people, I researched enough to find the answer that I was looking for and once I got there, I stopped researching.
+
+It was at this point that I figured out what most dieters fail to grasp. Most people who lose weight will gain it all back (or more) within 4-5 years. Maybe they know this fact, but optimistically charge forward confident that they will figure that out later. Considering that I had a few periods of weight loss followed by weight regain, I decided to approach whatever diet I chose with this in mind.
+
+Most of my readers know my history with the [potato hack](https://potatohack.com/) and [peasant diet](/2017/09/used-peasant-diet-lean/). I went from 222 to 182. I learned how to use volume, protein, and lower-flavor whole unprocessed foods to get full on fewer calories. I learned how to lock in the exact weight desired without experiencing hunger. I've maintained my weight for over 4 years now.
+
+Staples: potatoes, legumes, buckwheat groats, quinoa, sardines, fat-free Greek yogurt, chicken breasts, ground turkey.
 
 
 ### 2022 - Present:  More Plant-Based
@@ -49,9 +99,13 @@ During my year in the Bay Area, I didn't track my weight. I gradually drifted up
 
 The last few years have been an extension of the previous era with a gradual reduction in meat. Now that I am lean, I think the best thing I can do for my health is reduce my exposure to environmental toxins. I explained my reasoning in [Vegans vs Weston Price](/2024/03/vegans-vs-weston-price/).
 
-> We also live in a modern world full of [environmental toxins](/2023/11/keto-and-carnivore-diets-were-always-a-no-for-me/). These toxins and microplastics did not exist in traditional cultures. Eating a small amount of animal fat in a clean world that is calorie-scarce would be healthier than consuming a lot of meat in a calorie-abundant polluted world. A mostly vegan diet solves these issues. You can get nutrient-dense food with fewer calories and fewer toxins. I still use the soaking, sprouting, and fermentation knowledge that I gained more than a decade ago. However, I consume far less animal fat. My blood work looks great and I’m leaner too.
+> We also live in a modern world full of [environmental toxins](/2023/11/keto-and-carnivore-diets-were-always-a-no-for-me/). These toxins and microplastics did not exist in traditional cultures. Eating a small amount of animal fat in a clean world that is calorie-scarce would be healthier than consuming a lot of meat in a calorie-abundant polluted world.
+> 
+> A mostly vegan diet solves these issues. You can get nutrient-dense food with fewer calories and fewer toxins. I still use the soaking, sprouting, and fermentation knowledge that I gained more than a decade ago. However, I consume far less animal fat. My blood work looks great and I’m leaner too.
 
-Staples: legumes, tempeh, tofu, non-gluten whole grains, potatoes, see [my pantry.](/2024/03/whats-inside-my-pantry-and-fridge/) Weight: 182
+Staples: legumes, tempeh, tofu, non-gluten whole grains, potatoes, see [my pantry.](/2024/03/whats-inside-my-pantry-and-fridge/)
+
+Weight: 182
 
 
 ### Last Words

@@ -9,7 +9,15 @@ description: "There a few schools of thought when it comes to making vegetable f
 commentCount: 6
 ---
 
-There a few schools of thought when it comes to making vegetable ferments. One is to create an anaerobic environment using stronger seals or airlocks. Someday I plan to experiment with those, but for now, I don't do that. The fermentation is taking place below the waterline. The worst thing that could happen is some surface mold, which I scrape away without concern. The reason I don't use a tight seal is that I want to taste my kimchi and sauerkraut throughout the ferment. The evolution of flavor will vary from ferment to ferment. This is a lesson I learned from [Sandor Katz's Fermentation Workshop DVD](/2011/10/the-fermentation-workshop-dvd-is-outstanding/). I want to experience that transition and stop the ferment when I believe the flavor has peaked. Those using tight seal systems don't get that experience and have to guess when the flavor is optimal. Either that or they are continually breaking the seal. You will get much better much faster at fermentation if you taste as you go. That includes trying the ferment in its raw state before jarring, especially when trying a new recipe. The saltiness will mellow a little during the ferment, but you can get a good idea if you need to make a change before you jar. ![cucumber-kimchi](./img/cucumber-kimchi.jpg) _Recently I made cucumber kimchi for the first time. By tasting it daily, I learned a lot about how the taste evolved. It turned out good. The next time I expect it to be even better._
+There a few schools of thought when it comes to making vegetable ferments. One is to create an anaerobic environment using stronger seals or airlocks. Someday I plan to experiment with those, but for now, I don't do that. The fermentation is taking place below the waterline. The worst thing that could happen is some surface mold, which I scrape away without concern.
+
+The reason I don't use a tight seal is that I want to taste my kimchi and sauerkraut throughout the ferment. The evolution of flavor will vary from ferment to ferment. This is a lesson I learned from [Sandor Katz's Fermentation Workshop DVD](/2011/10/the-fermentation-workshop-dvd-is-outstanding/). I want to experience that transition and stop the ferment when I believe the flavor has peaked. Those using tight seal systems don't get that experience and have to guess when the flavor is optimal. Either that or they are continually breaking the seal.
+
+You will get much better much faster at fermentation if you taste as you go. That includes trying the ferment in its raw state before jarring, especially when trying a new recipe. The saltiness will mellow a little during the ferment, but you can get a good idea if you need to make a change before you jar.
+
+![cucumber-kimchi](./img/cucumber-kimchi.jpg)
+
+_Recently I made cucumber kimchi for the first time. By tasting it daily, I learned a lot about how the taste evolved. It turned out good. The next time I expect it to be even better._
 
 ---
 

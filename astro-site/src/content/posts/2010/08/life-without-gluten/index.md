@@ -9,7 +9,19 @@ description: "I am a fan of doing experiments on nutrition and fitness. And alth
 commentCount: 17
 ---
 
-I am a fan of doing experiments on nutrition and fitness. And although I understand most people do not share my enthusiasm, **if I were to pick a single 30 day experiment for mankind it would be to go gluten free**. Go 30 days without bread, pasta, beer and cereals. Then after the 30 days, eat a meal with gluten and then monitor your health for a few days. This will let you know how sensitive you are to gluten. Grains are not healthy, so going 30 days without grains will not be bad for your health. How are grains unhealthy? I could repeat the reasons, instead I invite you to read [Why Grains Are Unhealthy](https://web.archive.org/web/20231220075717/https://www.marksdailyapple.com/why-grains-are-unhealthy/) over on Mark's Daily Apple. That is a comprehensive post on the topic. When I gave up gluten, I did as part of an overall lower carbohydrate approach to eating. I wasn't going directly after the gluten at first. By September of 2009 I was 100% gluten free. Since then I have done two tests to see if I really have a problem with gluten. I do. Some people get intestinal issues and skin problems are also common. For me it was massive headaches and some skin flare ups. ![cake](./img/cake_wish-M.jpg) _Cake time? Not anymore._  There is no nutritional reason to eat gluten containing products. If you absolutely must have grains, look into the time consuming practice of soaking and sprouting grains practiced by traditional cultures. Personally, I do not miss bread at all. I'm leaner, have less headaches and my skin is better. If you are overweight, have skin problems, IBS or headaches, I encourage you to go 30 Days Without Gluten. Even if you don't have an issue, at least you'll know. You may even lose a few pounds.
+I am a fan of doing experiments on nutrition and fitness. And although I understand most people do not share my enthusiasm, **if I were to pick a single 30 day experiment for mankind it would be to go gluten free**. Go 30 days without bread, pasta, beer and cereals. Then after the 30 days, eat a meal with gluten and then monitor your health for a few days. This will let you know how sensitive you are to gluten.
+
+Grains are not healthy, so going 30 days without grains will not be bad for your health. How are grains unhealthy? I could repeat the reasons, instead I invite you to read [Why Grains Are Unhealthy](https://web.archive.org/web/20231220075717/https://www.marksdailyapple.com/why-grains-are-unhealthy/) over on Mark's Daily Apple. That is a comprehensive post on the topic.
+
+When I gave up gluten, I did as part of an overall lower carbohydrate approach to eating. I wasn't going directly after the gluten at first. By September of 2009 I was 100% gluten free. Since then I have done two tests to see if I really have a problem with gluten. I do. Some people get intestinal issues and skin problems are also common. For me it was massive headaches and some skin flare ups.
+
+![cake](./img/cake_wish-M.jpg)
+
+_Cake time? Not anymore._ 
+
+There is no nutritional reason to eat gluten containing products. If you absolutely must have grains, look into the time consuming practice of soaking and sprouting grains practiced by traditional cultures. Personally, I do not miss bread at all. I'm leaner, have less headaches and my skin is better.
+
+If you are overweight, have skin problems, IBS or headaches, I encourage you to go 30 Days Without Gluten. Even if you don't have an issue, at least you'll know. You may even lose a few pounds.
 
 ---
 

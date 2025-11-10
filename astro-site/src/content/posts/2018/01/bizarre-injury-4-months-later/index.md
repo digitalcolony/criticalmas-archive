@@ -21,7 +21,17 @@ For two months now, I have been going to physical therapy and the short version 
 4.  My right knee, which I thought was healed, now has a slight strain.
 5.  I'm beyond bummed.
 
-I'm doing all the exercises assigned to me. And in those movements, I'm getting stronger. But unlike the last time, I'm not getting better. I even reduced my daily steps significantly from 10,000+ to 5,000. I began taking collagen peptides, curcumin and increased my calories per the advice from the [Lyle McDonald Injury book](/2017/11/nutrition-for-injuries/). I do believe I know the root cause of the problem. My right leg has noticeably more muscle than my leg. Since 2013 I have been favoring the right leg as a way to take pressure off the left knee. Even during my "healed" phase of 2016-2017, my left leg never caught up to my right, even though I was doing leg presses and hack squats twice a week. Plus all those steps. ![](./img/homer-simpson-bicep-arm-muscle.jpg) _Homer after lifting with only his right arm._ I'm stumped. Not only do I not know how to get my knees and hamstring better, but if I did, how would I be able to restore my left leg to the strength level of my right without causing yet another injury? The only good news is my knee is much stronger and has more mobility than it during the 2013-2016 era.
+I'm doing all the exercises assigned to me. And in those movements, I'm getting stronger. But unlike the last time, I'm not getting better.
+
+I even reduced my daily steps significantly from 10,000+ to 5,000. I began taking collagen peptides, curcumin and increased my calories per the advice from the [Lyle McDonald Injury book](/2017/11/nutrition-for-injuries/).
+
+I do believe I know the root cause of the problem. My right leg has noticeably more muscle than my leg. Since 2013 I have been favoring the right leg as a way to take pressure off the left knee. Even during my "healed" phase of 2016-2017, my left leg never caught up to my right, even though I was doing leg presses and hack squats twice a week. Plus all those steps.
+
+![](./img/homer-simpson-bicep-arm-muscle.jpg)
+
+_Homer after lifting with only his right arm._
+
+I'm stumped. Not only do I not know how to get my knees and hamstring better, but if I did, how would I be able to restore my left leg to the strength level of my right without causing yet another injury? The only good news is my knee is much stronger and has more mobility than it during the 2013-2016 era.
 
 ---
 

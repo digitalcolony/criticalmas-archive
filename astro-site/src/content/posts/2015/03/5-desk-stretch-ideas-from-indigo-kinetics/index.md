@@ -9,7 +9,9 @@ description: "I just returned from a two-week visit to Seattle, where I met up w
 commentCount: 1
 ---
 
-I just returned from a two-week visit to Seattle, where I met up with Nikki Naab-Levy of [Indigo Kinetics](https://naablevy.com/) and Healthy Photographers. I've known Nikki since 2008. In addition to Pilates and massage, she focuses on movement. In 2013, she helped me solve the [riddle of my tight neck](/2014/02/experiments-update-sleep-gray-hair-tight-neck/) muscles. Since most of us these days are spending more and more time at a desk staring at a monitor, I wanted to find a set of general fixes that one could benefit from and perform on their own at their desk. Nikki was happy to help with this post. Below are 5 desk stretch exercises we can do throughout the day. I'll am calling this routine the IK5.
+I just returned from a two-week visit to Seattle, where I met up with Nikki Naab-Levy of [Indigo Kinetics](https://naablevy.com/) and Healthy Photographers. I've known Nikki since 2008. In addition to Pilates and massage, she focuses on movement. In 2013, she helped me solve the [riddle of my tight neck](/2014/02/experiments-update-sleep-gray-hair-tight-neck/) muscles.
+
+Since most of us these days are spending more and more time at a desk staring at a monitor, I wanted to find a set of general fixes that one could benefit from and perform on their own at their desk. Nikki was happy to help with this post. Below are 5 desk stretch exercises we can do throughout the day. I'll am calling this routine the IK5.
 
 
 ### #1 Neck Stretch
@@ -60,7 +62,11 @@ I just returned from a two-week visit to Seattle, where I met up with Nikki Naab
 2.  Keeping the right foot flexed and the spine long, slowly lean over your legs. Stop when you feel a tug in the back of your right hip. Hold position for 20-30 seconds.
 3.  Repeat second side.
 
- ****![glute-stretch](./img/glute-stretch.jpg)**** I will be setting up a link to this post in my calendar and doing these exercises twice a day. Thank you Nikki! If you are in the Seattle area and are interested in fixing movement problems, visit her at [Indigo Kinetics](https://naablevy.com/).
+ ****![glute-stretch](./img/glute-stretch.jpg)****
+
+I will be setting up a link to this post in my calendar and doing these exercises twice a day.
+
+Thank you Nikki! If you are in the Seattle area and are interested in fixing movement problems, visit her at [Indigo Kinetics](https://naablevy.com/).
 
 ---
 

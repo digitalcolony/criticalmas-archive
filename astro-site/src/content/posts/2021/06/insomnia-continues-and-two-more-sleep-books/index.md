@@ -8,13 +8,17 @@ description: "Back in January, I posted some notes from the book Say Goodnight t
 commentCount: 15
 ---
 
-Back in January, I posted some notes from the book [Say Goodnight to Insomnia](/2021/01/say-goodnight-to-insomnia-notes/). I initially made progress with those techniques, but have had continued trouble sleeping this year. I'll do well for a few weeks and then insomnia returns. Here are two more sleep books I read and the points I found important.
+Back in January, I posted some notes from the book [Say Goodnight to Insomnia](/2021/01/say-goodnight-to-insomnia-notes/). I initially made progress with those techniques, but have had continued trouble sleeping this year. I'll do well for a few weeks and then insomnia returns.
+
+Here are two more sleep books I read and the points I found important.
 
 
 ### Buddha's Book of Sleep by Joseph Emet
 
 
-I didn't get much value from this book, although someone without a background in mindfulness and meditation might like it more. Keep your eyes open when you can't sleep.
+I didn't get much value from this book, although someone without a background in mindfulness and meditation might like it more.
+
+Keep your eyes open when you can't sleep.
 
 > ...by keeping your eyes open when you go to bed, instead of closing them in anticipation of sleep. Let sleep close your eyes, rather than your anticipation.
 
@@ -24,7 +28,9 @@ This is what babies do.
 
 On controlling sleep:
 
-> We do not control sleep. We can control only our mental and physical readiness for sleep. The paradox is that, with a goal such as sleep, it is better to forget about the goal, and just get into enjoying the relaxation of being in bed... We can be open to sleep, and give up all striving. That is what we can do. Any kind of effort or trying to force sleep can be counterproductive. It can keep us awake.
+> We do not control sleep. We can control only our mental and physical readiness for sleep. The paradox is that, with a goal such as sleep, it is better to forget about the goal, and just get into enjoying the relaxation of being in bed...
+> 
+> We can be open to sleep, and give up all striving. That is what we can do. Any kind of effort or trying to force sleep can be counterproductive. It can keep us awake.
 
 
 ### The Sleep Book by Dr. Guy Meadows
@@ -38,7 +44,13 @@ This means that some of the standard advice of doing things to correct insomnia 
 
 > Any attempts to fight, avoid, change or get rid of experiencing your insomnia tell your brain that you are being threatened, triggering your innate survival response. In this moment you become mentally and physically alert as your brain prepares you to stand and fight or withdraw in flight. Your mind begins to race with thoughts, your mood darkens, your muscles tense, your body shrinks, and you become wide away. How you choose to respond towards your insomnia therefore determines your insomnia, and only by learning to welcome it can you retrain your brain to sleep soundly once more.
 
-![](./img/sleep-book-guy-e1624196838666.jpg) Say Goodnight to Insomnia says to get out of bed after 30 minutes of not sleeping and go to another room until you get sleepy and then try again. The Sleep Book implies this is an avoidance strategy and one should sit with insomnia in acceptance. The Sleep Book states clearly that sleep will probably get worse at first. Which method is better? I still don't know. I'm trying both. Last night was another awful night. I slept for 2 hours (9:45 pm - 11:45 pm) and then woke up and was unable to return to sleep all night long despite being very tired. I am working on improving my response to the situation. And although I have made progress there, my sleep continues to get worse. I gave up caffeine 11 days ago. So far it hasn't helped my sleep at all.
+![](./img/sleep-book-guy-e1624196838666.jpg)
+
+Say Goodnight to Insomnia says to get out of bed after 30 minutes of not sleeping and go to another room until you get sleepy and then try again. The Sleep Book implies this is an avoidance strategy and one should sit with insomnia in acceptance. The Sleep Book states clearly that sleep will probably get worse at first.
+
+Which method is better? I still don't know. I'm trying both. Last night was another awful night. I slept for 2 hours (9:45 pm - 11:45 pm) and then woke up and was unable to return to sleep all night long despite being very tired. I am working on improving my response to the situation. And although I have made progress there, my sleep continues to get worse.
+
+I gave up caffeine 11 days ago. So far it hasn't helped my sleep at all.
 
 ---
 

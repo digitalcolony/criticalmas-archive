@@ -9,31 +9,53 @@ description: "A month ago I posted June 2013 Experiments. Using a few strategies
 commentCount: 27
 ---
 
-A month ago I posted [June 2013 Experiments](/2013/06/june-2013-experiments/). Using a few strategies my plan was to reduce headache frequency/intensity and lose 5-7 pounds. Well I succeeded on the first goal and failed on the second and I'm clueless to explain either outcome. This month has completely stumped me. Maybe you can help me make sense out of it?
+A month ago I posted [June 2013 Experiments](/2013/06/june-2013-experiments/). Using a few strategies my plan was to reduce headache frequency/intensity and lose 5-7 pounds. Well I succeeded on the first goal and failed on the second and I'm clueless to explain either outcome.
+
+This month has completely stumped me. Maybe you can help me make sense out of it?
 
 
 ### Headaches Down, Sleep Quality Up
 
 
-I've been tracking headaches on a spreadsheet since March 2011. I added Sleep Quality later. Along the way I've tracked coffee and other variables. Heading into June I was certain that caffeine was a major trigger for headaches. More coffee equals more headaches. Now I am less certain. My plan was to reduce caffeine levels, but actually they went up. I've been playing with my [Clever Coffee Dripper](https://ineedcoffee.com/clever-coffee-dripper-review/) too much. My average intake was 2.73, up from 2.13. The other goal was to minimize AM coffee. There I was good. On most days I restricted myself to a single coffee before lunch. Before I get into the coffee data, I wanted to say the only grains I consumed in June were white rice and corn. No sorghum, millet and definitely not any wheat. This may have helped a little, as it did in September 2012. **Pushing my last coffee back to later in the afternoon seems to be helping.** It is counter intuitive as many people would have trouble getting to sleep when they drink coffee in late afternoon, but I never have a problem falling asleep. My challenge is staying asleep. I'm a morning person. If I wake up at 4 AM, it is often tough for me to return to sleep. Interestingly, I did this test in 2011 and came to a [similar conclusion](https://ineedcoffee.com/the-quantified-coffee-drinker/). Average headache intensity was 0.70, which is tied for the second best month ever. Each night I assign a headache score of 0 to 5. Zero meaning no headache and 1-5 measuring intensity should one occur.
+I've been tracking headaches on a spreadsheet since March 2011. I added Sleep Quality later. Along the way I've tracked coffee and other variables. Heading into June I was certain that caffeine was a major trigger for headaches. More coffee equals more headaches. Now I am less certain.
+
+My plan was to reduce caffeine levels, but actually they went up. I've been playing with my [Clever Coffee Dripper](https://ineedcoffee.com/clever-coffee-dripper-review/) too much. My average intake was 2.73, up from 2.13. The other goal was to minimize AM coffee. There I was good. On most days I restricted myself to a single coffee before lunch.
+
+Before I get into the coffee data, I wanted to say the only grains I consumed in June were white rice and corn. No sorghum, millet and definitely not any wheat. This may have helped a little, as it did in September 2012.
+
+**Pushing my last coffee back to later in the afternoon seems to be helping.** It is counter intuitive as many people would have trouble getting to sleep when they drink coffee in late afternoon, but I never have a problem falling asleep. My challenge is staying asleep. I'm a morning person. If I wake up at 4 AM, it is often tough for me to return to sleep. Interestingly, I did this test in 2011 and came to a [similar conclusion](https://ineedcoffee.com/the-quantified-coffee-drinker/).
+
+Average headache intensity was 0.70, which is tied for the second best month ever. Each night I assign a headache score of 0 to 5. Zero meaning no headache and 1-5 measuring intensity should one occur.
 
 -   Oct 2012: 0.58 (no coffee the entire month)
 -   Nov 2012: 0.70 (1.13 average coffee per day)
 -   Jun 2013: 0.70 (2.73 average coffee per day)
 
-I also only had 2 bad headaches, which was the lowest ever. **Average sleep quality was 4.23 (out of 5). This was the best month ever!** And I typically have worse sleep quality during the longer summer days. My sleep quality for June 2012 was 3.57. One factor I need to mention was I did daily [sauna and steam room visits](/2013/06/steam-rooms-saunas-opinions/) the first 8 days of the month. My sleep quality was 4.75 those days and 4.11 the 8 days that followed. Probably not enough data to draw a conclusion, but I thought I'd mention it. What happened? Is the key to drink coffee later in the afternoon? The only other change is I switched from unfiltered coffee (French press) to filtered coffee (Clever). Maybe it was just a string of good luck and the data isn't statistically significant?
+I also only had 2 bad headaches, which was the lowest ever.
+
+**Average sleep quality was 4.23 (out of 5). This was the best month ever!** And I typically have worse sleep quality during the longer summer days. My sleep quality for June 2012 was 3.57. One factor I need to mention was I did daily [sauna and steam room visits](/2013/06/steam-rooms-saunas-opinions/) the first 8 days of the month. My sleep quality was 4.75 those days and 4.11 the 8 days that followed. Probably not enough data to draw a conclusion, but I thought I'd mention it.
+
+What happened? Is the key to drink coffee later in the afternoon? The only other change is I switched from unfiltered coffee (French press) to filtered coffee (Clever). Maybe it was just a string of good luck and the data isn't statistically significant?
 
 
 ### Less Sugar + More IF = Weight Gain?
 
 
-As stumped as I am about the headache data, I'm really puzzled about my weight. I thought by returning to Intermittent Fasting and reducing my sugar intake that I'd lose 5 pounds. Nope. I gained 5 more. Interestingly, I actually look 5 pounds leaner in the mirror. Maybe that was from getting a little tanner? ![dailyIF](./img/dailyIF.png) My average IF was a little on the low side (13.9 hour average), but it was still higher than the previous months. Maybe I needed to add an additional hour? Exercise levels were constant. I didn't introduce any new foods and I would estimate my sugar consumption was 50% less than the prior month. I'm now all the way back to 210, which is where I was in early 2008 when I began my recent nutritional journey. The difference is I look a lot better now. Then I was puffy and inflamed, not anymore. Although I am happy with the way I look, I'd still like to be leaner as I feel my mobility was better at a slightly lower weight.
+As stumped as I am about the headache data, I'm really puzzled about my weight. I thought by returning to Intermittent Fasting and reducing my sugar intake that I'd lose 5 pounds. Nope. I gained 5 more. Interestingly, I actually look 5 pounds leaner in the mirror. Maybe that was from getting a little tanner?
+
+![dailyIF](./img/dailyIF.png)
+
+My average IF was a little on the low side (13.9 hour average), but it was still higher than the previous months. Maybe I needed to add an additional hour? Exercise levels were constant. I didn't introduce any new foods and I would estimate my sugar consumption was 50% less than the prior month.
+
+I'm now all the way back to 210, which is where I was in early 2008 when I began my recent nutritional journey. The difference is I look a lot better now. Then I was puffy and inflamed, not anymore. Although I am happy with the way I look, I'd still like to be leaner as I feel my mobility was better at a slightly lower weight.
 
 
 ### Now What?
 
 
-I'm hoping to have out my July Experiments post later today or early tomorrow. If you have any theories on my June experiment results or tips for July, please leave a comment. **UPDATE:** I've decided to keep the same experiment and goals for July 2013.
+I'm hoping to have out my July Experiments post later today or early tomorrow. If you have any theories on my June experiment results or tips for July, please leave a comment.
+
+**UPDATE:** I've decided to keep the same experiment and goals for July 2013.
 
 ---
 

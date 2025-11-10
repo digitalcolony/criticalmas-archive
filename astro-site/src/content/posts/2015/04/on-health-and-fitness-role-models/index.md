@@ -9,25 +9,45 @@ description: "I have been thinking about the different types of health and fitne
 commentCount: 10
 ---
 
-I have been thinking about the different types of health and fitness role models. These are the people who we look to for education and inspiration when we decide to improve our health. Before I started digging deep into health and fitness, I only had two role models, which I picked based off their height and physique. Boxer Evander Holyfield and surfer Laird Hamilton were in great shape and the same height as me, so I hung their photos in my home gym. ![laird](./img/laird.jpg) _Laird Hamilton_ Now I can recognize 4 types of health and fitness role models. We can get into trouble when we expect one role model to have all the answers and of course when we listen to the wrong people.
+I have been thinking about the different types of health and fitness role models. These are the people who we look to for education and inspiration when we decide to improve our health. Before I started digging deep into health and fitness, I only had two role models, which I picked based off their height and physique. Boxer Evander Holyfield and surfer Laird Hamilton were in great shape and the same height as me, so I hung their photos in my home gym.
+
+![laird](./img/laird.jpg)
+
+_Laird Hamilton_
+
+Now I can recognize 4 types of health and fitness role models. We can get into trouble when we expect one role model to have all the answers and of course when we listen to the wrong people.
 
 
 ### #1 Your Ideal Physique
 
 
-Holyfield and Hamilton weren't selling me a fitness program, they were just great athletes in the shape they needed to be to excel at their sports. Today we have no shortage of ripped and buff fitness professionals selling different programs. This is a powerful way to sell program, but I've become numb to this type of role model for a few reasons. If someone is ripped, I don't know if they got that way using the program or diet they are promoting or if they've always been athletic. Paleo loves to promote Mark Sisson and Art De Vany as role models, but both were professional athletes long before they put down the bread. Sisson finished 4th in the Ironman back in his pre-Paleo days and De Vany played minor league baseball. Neither ever got out of shape. Now it possible the health of these men would have collapsed had they not adopted their Paleo diet. My hunch is both men would thrive on a variety of diets. Almost all fitness role models have either never been out of shape or are young.
+Holyfield and Hamilton weren't selling me a fitness program, they were just great athletes in the shape they needed to be to excel at their sports. Today we have no shortage of ripped and buff fitness professionals selling different programs. This is a powerful way to sell program, but I've become numb to this type of role model for a few reasons.
+
+If someone is ripped, I don't know if they got that way using the program or diet they are promoting or if they've always been athletic. Paleo loves to promote Mark Sisson and Art De Vany as role models, but both were professional athletes long before they put down the bread. Sisson finished 4th in the Ironman back in his pre-Paleo days and De Vany played minor league baseball. Neither ever got out of shape.
+
+Now it possible the health of these men would have collapsed had they not adopted their Paleo diet. My hunch is both men would thrive on a variety of diets.
+
+Almost all fitness role models have either never been out of shape or are young.
 
 
 ### #2 Successful Client List
 
 
-A better, but still flawed, metric is if that health professional has a full client list. The reason it is flawed is because many in the elite training camp are using selection bias and [survivorship bias](/2013/09/fitness-blogging-disclosures/) in their favor. If you are working with sports teams, the military and law enforcement, then you have the deck stacked in your favor. The fact Pavel or [Mark Lauren](/2012/03/blinded-by-successful-outcomes/) train elite military units doesn't impress me. These guys are already some of the most physically fit and mentally tough people on the planet. When looking at client list, I am more impressed with those who are getting results with more difficult cases. Getting a 25 year male in shape doesn't impress me. Getting a 50 year old office worker to drop 50 pounds and keep it off is far more impressive.
+A better, but still flawed, metric is if that health professional has a full client list. The reason it is flawed is because many in the elite training camp are using selection bias and [survivorship bias](/2013/09/fitness-blogging-disclosures/) in their favor. If you are working with sports teams, the military and law enforcement, then you have the deck stacked in your favor. The fact Pavel or [Mark Lauren](/2012/03/blinded-by-successful-outcomes/) train elite military units doesn't impress me. These guys are already some of the most physically fit and mentally tough people on the planet.
+
+When looking at client list, I am more impressed with those who are getting results with more difficult cases. Getting a 25 year male in shape doesn't impress me. Getting a 50 year old office worker to drop 50 pounds and keep it off is far more impressive.
 
 
 ### #3 Great Researcher
 
 
-Some people are best when they are digging through the research. They might be in great shape themselves or have clients or maybe not. They write books or blogs. I wish I had the secret to picking who was telling the truth and who wasn't. I've learned not to be too invested in any single thesis. I'm also free to abandon ideas that are wrong. One thing I have noticed when researchers attack each other is to pay attention to the tone of the conversation. I may not understand the details of a health study, but when I see someone respond to a professional critique with a personal attack, I know their argument is likely weaker. If you want to witness this, follow @CarbSane on Twitter. She points out errors to the authors of many nutritional books. Most either ignore her, ask for her credentials or attack her motives. Few respond to the actual point raised. If the science is on your side, there is no need to attack your critic with anything other than the research itself. https://mobile.twitter.com/DanTaber47/status/574294775584555008 _Nina Teicholz author of Big Fat Surprise doesn't like having her errors pointed out._ 
+Some people are best when they are digging through the research. They might be in great shape themselves or have clients or maybe not. They write books or blogs. I wish I had the secret to picking who was telling the truth and who wasn't. I've learned not to be too invested in any single thesis. I'm also free to abandon ideas that are wrong.
+
+One thing I have noticed when researchers attack each other is to pay attention to the tone of the conversation. I may not understand the details of a health study, but when I see someone respond to a professional critique with a personal attack, I know their argument is likely weaker. If you want to witness this, follow @CarbSane on Twitter. She points out errors to the authors of many nutritional books. Most either ignore her, ask for her credentials or attack her motives. Few respond to the actual point raised. If the science is on your side, there is no need to attack your critic with anything other than the research itself.
+
+https://mobile.twitter.com/DanTaber47/status/574294775584555008
+
+_Nina Teicholz author of Big Fat Surprise doesn't like having her errors pointed out._ 
 
 
 ### #4 Average Person on a Journey

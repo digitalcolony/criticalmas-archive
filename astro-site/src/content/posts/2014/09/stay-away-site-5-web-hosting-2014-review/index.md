@@ -13,15 +13,37 @@ Yesterday I moved this blog off Site 5. My page draws were fast, the server was 
 
 > Unlimited disk space. Unlimited bandwidth. Unlimited websites.
 
-On one hand they promise Unlimited, but if you dig around you will see that isn't true. I understand why web hosts do this. You don't want someone using their account as a media server abusing the bandwidth. My issue with Site 5 is this blog never abused their resources. What they consider excessive is far from it. I'll repost my traffic here. [![site stats](./img/criticalmas-august-2014.jpg)](./img/criticalmas-august-2014.jpg) As I mentioned [yesterday](/2014/09/always-run/), the traffic to this site is not tremendous nor is it trivial. It is in that middle ground that makes finding decent hosting at a fair price a challenge. This is not a high traffic site. It does not deliver audio or video files. I've been hosting this blog since March 2000 using numerous hosting companies. Not a single one ever had an issue with the resources I was using.
+On one hand they promise Unlimited, but if you dig around you will see that isn't true. I understand why web hosts do this. You don't want someone using their account as a media server abusing the bandwidth. My issue with Site 5 is this blog never abused their resources. What they consider excessive is far from it.
+
+I'll repost my traffic here.
+
+[![site stats](./img/criticalmas-august-2014.jpg)](./img/criticalmas-august-2014.jpg)
+
+As I mentioned [yesterday](/2014/09/always-run/), the traffic to this site is not tremendous nor is it trivial. It is in that middle ground that makes finding decent hosting at a fair price a challenge.
+
+This is not a high traffic site. It does not deliver audio or video files. I've been hosting this blog since March 2000 using numerous hosting companies. Not a single one ever had an issue with the resources I was using.
 
 
 ### Reaching Out to Site 5
 
 
-Back in May I was poking around on the Control Panel and I saw the Resource Usage link. When I looked at the page, I discovered I was in violation and had been everyday since joining. Not just by a hair, but by quite a bit. I read every page they had on the Resource Usage and still saw no reason why my site would even be close to being in violation. I also did not know why they hadn't contacted me. After contacting support, I was still confused. I knew I was in violation and I knew they weren't saying anything about it. The conclusion I reached is that whatever Resource Usage metric they created was done a long time ago before processing power and bandwidth costs were much higher and that it hadn't been updated. ![resource point usage](./img/resource-point-usage.jpg) Site 5 has known since February that I've been in violation of their Resource Limits. I learned in May. I brought it to their attention so we could resolve the issue. Other than sharing links to resources I had already read, they offered me no guidance. Then a few days ago, they decided to enforce their metric. This means getting my Resource Usage down or the site will get moved to their a $100 a month VPS server or I get suspended. My response to them:
+Back in May I was poking around on the Control Panel and I saw the Resource Usage link. When I looked at the page, I discovered I was in violation and had been everyday since joining. Not just by a hair, but by quite a bit. I read every page they had on the Resource Usage and still saw no reason why my site would even be close to being in violation. I also did not know why they hadn't contacted me.
 
-> I need help explaining to me why my site is exceeding resource points. - I serve no audio or video. - I only get ~1,500 visitors a day, which get cached Wordpress pages. Most pages have just 1-2 images. On Backstage if I look at AWS, I can see my site is using 35 GB bandwidth a month. Is this the number that is a problem? If so, then why do you sell "unlimited", when you could just say "30" or whatever the limit really is. If it is a different metric, where can I see and monitor it? Is there something else going on? I've implemented the tips on the WP optimization page.
+After contacting support, I was still confused. I knew I was in violation and I knew they weren't saying anything about it. The conclusion I reached is that whatever Resource Usage metric they created was done a long time ago before processing power and bandwidth costs were much higher and that it hadn't been updated.
+
+![resource point usage](./img/resource-point-usage.jpg)
+
+Site 5 has known since February that I've been in violation of their Resource Limits. I learned in May. I brought it to their attention so we could resolve the issue. Other than sharing links to resources I had already read, they offered me no guidance. Then a few days ago, they decided to enforce their metric. This means getting my Resource Usage down or the site will get moved to their a $100 a month VPS server or I get suspended.
+
+My response to them:
+
+> I need help explaining to me why my site is exceeding resource points.
+> 
+> \- I serve no audio or video. - I only get ~1,500 visitors a day, which get cached Wordpress pages. Most pages have just 1-2 images.
+> 
+> On Backstage if I look at AWS, I can see my site is using 35 GB bandwidth a month. Is this the number that is a problem? If so, then why do you sell "unlimited", when you could just say "30" or whatever the limit really is. If it is a different metric, where can I see and monitor it?
+> 
+> Is there something else going on? I've implemented the tips on the WP optimization page.
 
 More than a day went by and I got no response. So I contacted them again. I finally got a response, which basically said "due to the nature of dynamic scripts" they can't tell me why the usage is high. And am I suppose to diagnose which dynamic script is draining resource limits, which is a number I can't calculate? They also said it could be bots or malicious scripts hitting my website. How is that my problem? My site is on their network. I pay them to host it. They have the power to defend their network against external threats. I don't.
 
@@ -41,7 +63,9 @@ Initially I thought I could still recommend Site 5 for lower traffic sites. Thei
 ### My First Date with SiteGround
 
 
-My research for a new host led me to SiteGround. If you go to their hosting page, you will see that they guide you into a plan based upon monthly visitors. **Wow, an actual metric I can look up!** They have plans for 10K, 25K, and 100K monthly visitors. Before signing up for the 100K plan, I contacted their support. I shared my blog link, all my site statistics, and disk space usage both today and estimates going forward. They were super cool and said hosting my site at the GoGeek level (100K) would not be a problem. Our relationship is off to a good start. Page draws are super fast. Based on my tests, twice as fast as Site 5 or even my beloved WinHost, which hosts [INeedCoffee](https://ineedcoffee.com). In fact, they are the fastest page draws I've ever seen on a WordPress site.
+My research for a new host led me to SiteGround. If you go to their hosting page, you will see that they guide you into a plan based upon monthly visitors. **Wow, an actual metric I can look up!** They have plans for 10K, 25K, and 100K monthly visitors. Before signing up for the 100K plan, I contacted their support. I shared my blog link, all my site statistics, and disk space usage both today and estimates going forward. They were super cool and said hosting my site at the GoGeek level (100K) would not be a problem.
+
+Our relationship is off to a good start. Page draws are super fast. Based on my tests, twice as fast as Site 5 or even my beloved WinHost, which hosts [INeedCoffee](https://ineedcoffee.com). In fact, they are the fastest page draws I've ever seen on a WordPress site.
 
 ---
 

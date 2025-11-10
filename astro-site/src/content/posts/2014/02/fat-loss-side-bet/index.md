@@ -13,7 +13,15 @@ There seems to be some disagreement on if the terms of the [Fat Loss Bet](/2014/
 
 > If you can lose 20 pounds by June 22nd, I will drink one espresso a day for a week from Starbucks, but if I've already lost my 20 pounds by then the side bet is off.
 
-The people who know me in Seattle are already laughing right now. I am the organizer of [The Coffee Club of Seattle](https://www.meetup.com/seattle-coffee-club/), whose primary mission to get people out of Starbucks to support local independent coffee. This would be like forcing a Democrat to hold up a Republican sign at a rally or vice versa. ![charbucks](./img/charbucks-tshirt.jpg) _This is how I view Starbucks Coffee._ The timeline also adds more motivation on both sides. I think she can lose 20 pounds by June 22nd, but she will need to be committed. The thought of me walking into Starbucks for a week is super motivating for her. But my out is if I can get the 20-pound loss first, the side bet is off. ![shit got real](./img/got-real.gif)
+The people who know me in Seattle are already laughing right now. I am the organizer of [The Coffee Club of Seattle](https://www.meetup.com/seattle-coffee-club/), whose primary mission to get people out of Starbucks to support local independent coffee. This would be like forcing a Democrat to hold up a Republican sign at a rally or vice versa.
+
+![charbucks](./img/charbucks-tshirt.jpg)
+
+_This is how I view Starbucks Coffee._
+
+The timeline also adds more motivation on both sides. I think she can lose 20 pounds by June 22nd, but she will need to be committed. The thought of me walking into Starbucks for a week is super motivating for her. But my out is if I can get the 20-pound loss first, the side bet is off.
+
+![shit got real](./img/got-real.gif)
 
 ---
 

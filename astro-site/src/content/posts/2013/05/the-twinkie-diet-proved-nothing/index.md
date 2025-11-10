@@ -9,11 +9,21 @@ description: "I wrote this post two years ago but never hit publish. It got lost
 commentCount: 8
 ---
 
-_I wrote this post two years ago but never hit publish. It got lost in the drafts. Consider this a "lost episode"._ In 2010, [Escape the Herd](http://escapetheherdblog.blogspot.com/2010/11/twinkie-diet.html) alerted me to the story of a professor who _proved_ that fat loss was all about calories and not about nutritional quality. I still read people who cite this study as proof that it is all about calories and if you just cut the calories you'd lose the fat. For those unfamiliar with the diet, read Twinkie Diet Helps Nutrition Professor Lose 27 pounds (link dead 2019):
+_I wrote this post two years ago but never hit publish. It got lost in the drafts. Consider this a "lost episode"._
+
+In 2010, [Escape the Herd](http://escapetheherdblog.blogspot.com/2010/11/twinkie-diet.html) alerted me to the story of a professor who _proved_ that fat loss was all about calories and not about nutritional quality. I still read people who cite this study as proof that it is all about calories and if you just cut the calories you'd lose the fat. For those unfamiliar with the diet, read Twinkie Diet Helps Nutrition Professor Lose 27 pounds (link dead 2019):
 
 > His premise: That in weight loss, pure calorie counting is what matters most -- not the nutritional value of the food. The premise held up: On his "convenience store diet," he shed 27 pounds in two months.
 
-In my opinion, his study proved very little. The only thing this study showed is that in the short term, a single healthy male of 41 years old with University resources can eat a mostly poor diet and lose fat. How does this further our knowledge of obesity? It doesn't. There are many examples of prisoners of war or concentration camps where those detained consumed nutrient-poor and calorie-restrictive diets. And they lost weight. When we discuss fat loss, we should be striving for long-term and sustainability. I suspect that one of the reasons people overeat is because they are undernourished. Putting out press releases saying you can lose fat eating Twinkies isn't helping those who struggle with dieting and may have real health issues in addition to being overweight. ![](./img/twinkes.jpg) _Close enough AI._ 😂
+In my opinion, his study proved very little.
+
+The only thing this study showed is that in the short term, a single healthy male of 41 years old with University resources can eat a mostly poor diet and lose fat. How does this further our knowledge of obesity? It doesn't. There are many examples of prisoners of war or concentration camps where those detained consumed nutrient-poor and calorie-restrictive diets. And they lost weight.
+
+When we discuss fat loss, we should be striving for long-term and sustainability. I suspect that one of the reasons people overeat is because they are undernourished. Putting out press releases saying you can lose fat eating Twinkies isn't helping those who struggle with dieting and may have real health issues in addition to being overweight.
+
+![](./img/twinkes.jpg)
+
+_Close enough AI._ 😂
 
 
 ### Hostess vs High-Velocity Super Warrior

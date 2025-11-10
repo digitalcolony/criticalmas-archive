@@ -9,4 +9,6 @@ description: "This past weekend I got to meet and spend time with Stephan from B
 commentCount: 0
 ---
 
-This past weekend I got to meet and spend time with Stephan from Biohacks.net. We are both fans of each others blogs, so I was honored to be interviewed for his site. [Interview with CriticalMAS](https://web.archive.org/web/20160315221609/http://biohacks.net/interview-with-criticalmas/)
+This past weekend I got to meet and spend time with Stephan from Biohacks.net. We are both fans of each others blogs, so I was honored to be interviewed for his site.
+
+[Interview with CriticalMAS](https://web.archive.org/web/20160315221609/http://biohacks.net/interview-with-criticalmas/)

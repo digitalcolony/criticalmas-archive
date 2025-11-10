@@ -8,7 +8,29 @@ description: "Another December, another cold. The genesis of this blog ever disc
 commentCount: 9
 ---
 
-Another December, another cold. The genesis of this blog ever discussing health-related topics goes back to June of 2007. I was still in San Diego and I had 2 brutal colds back to back. I wanted to solve the riddle. I was sick of getting sick every year. At times I felt I had solved the riddle. There are a few posts where I declared victory. But in recent years, I've been humbled. I took the superfood route, the supplement route, and even the heavy use of the sauna. I stopped donating blood in the winter months to keep my white blood cell count higher. So far none of these strategies has been consistently effective. And here we are in December 2019, over 12 years since I started this journey, sick again. But this time is different. I now have a fresh lead on something new to try. A brand new path. It won't help me today, but it could very well in the future. About two weeks ago, I was listening to the London Real podcast with [Patrick McKeown](https://www.youtube.com/watch?v=CZtJmBPDf8I). The show was all about breathing techniques. A portion of the show covered people that sleep with their mouth open at night. They tend to get very poor quality sleep. He advises taping the mouth shut at night. This is something Carl, the host of Super Human Radio, does and has helped him a lot. My sleep is great, so I didn't focus on that part of the show. I figured that was a tip for kids and big guys. Then I had a night or two where I was thirsty and had to wake up to drink water a few times. I felt a little sinus congestion. I knew from the show that was probably a sign that I was mouth breathing those nights. Sure enough, the cold symptoms appeared immediately afterward. A sore throat followed by sneezing. Had I taped my mouth, would I have been exposed to the cold virus? Forcing the air through the nose warms and purifies the air. I'm ready to try taping my mouth shut during sleep once this cold is over because right now I have too much congestion. I'm confident I can learn this skill on the nights when I don't have a cold or sinus pressure, but I might need some guidance on those nights I do. These days, the most alcohol I consume is 2-4 ounces of a hard cider, maybe once a month at most. Any more than this and I feel sinus pressure. That restricts my nasal breathing, which I'm sure now negatively affects my sleep. And if the cold virus happens to be around, then my odds of becoming sick increases. All the ginger and garlic isn't going to save me then. If you have any advice, tips, or wisdom on this topic, please leave a comment. Is this a good lead in my war against the common cold? ![sick](./img/sick.jpg) _photo by [Tanja Djordjevic](https://www.flickr.com/photos/fotokiosk/7138860333/)_
+Another December, another cold.
+
+The genesis of this blog ever discussing health-related topics goes back to June of 2007. I was still in San Diego and I had 2 brutal colds back to back. I wanted to solve the riddle. I was sick of getting sick every year. At times I felt I had solved the riddle. There are a few posts where I declared victory. But in recent years, I've been humbled.
+
+I took the superfood route, the supplement route, and even the heavy use of the sauna. I stopped donating blood in the winter months to keep my white blood cell count higher. So far none of these strategies has been consistently effective. And here we are in December 2019, over 12 years since I started this journey, sick again.
+
+But this time is different. I now have a fresh lead on something new to try. A brand new path. It won't help me today, but it could very well in the future.
+
+About two weeks ago, I was listening to the London Real podcast with [Patrick McKeown](https://www.youtube.com/watch?v=CZtJmBPDf8I). The show was all about breathing techniques. A portion of the show covered people that sleep with their mouth open at night. They tend to get very poor quality sleep. He advises taping the mouth shut at night. This is something Carl, the host of Super Human Radio, does and has helped him a lot.
+
+My sleep is great, so I didn't focus on that part of the show. I figured that was a tip for kids and big guys. Then I had a night or two where I was thirsty and had to wake up to drink water a few times. I felt a little sinus congestion. I knew from the show that was probably a sign that I was mouth breathing those nights.
+
+Sure enough, the cold symptoms appeared immediately afterward. A sore throat followed by sneezing.
+
+Had I taped my mouth, would I have been exposed to the cold virus? Forcing the air through the nose warms and purifies the air. I'm ready to try taping my mouth shut during sleep once this cold is over because right now I have too much congestion. I'm confident I can learn this skill on the nights when I don't have a cold or sinus pressure, but I might need some guidance on those nights I do.
+
+These days, the most alcohol I consume is 2-4 ounces of a hard cider, maybe once a month at most. Any more than this and I feel sinus pressure. That restricts my nasal breathing, which I'm sure now negatively affects my sleep. And if the cold virus happens to be around, then my odds of becoming sick increases. All the ginger and garlic isn't going to save me then.
+
+If you have any advice, tips, or wisdom on this topic, please leave a comment. Is this a good lead in my war against the common cold?
+
+![sick](./img/sick.jpg)
+
+_photo by [Tanja Djordjevic](https://www.flickr.com/photos/fotokiosk/7138860333/)_
 
 ---
 

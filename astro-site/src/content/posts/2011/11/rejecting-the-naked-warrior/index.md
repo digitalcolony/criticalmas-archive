@@ -9,19 +9,33 @@ description: "In this post, I will review a book I bought almost 8 years ago. At
 commentCount: 51
 ---
 
-In this post, I will review a book I bought almost 8 years ago. At the time I thought this book was excellent. Not anymore. ![naked-warrior](./img/naked-warrior.jpg) The Naked Warrior by Pavel Tsatsouline is a book that focuses on body weight exercises. It promises _secret_ knowledge to help you get _super strong_ without using weights. When I got the book in January 2004, I was already injured from doing the Russian Bear protocol from Pavel's other book [Power to the People](/2011/03/power-people-10-years/). My wrist could not handle the massive number of sets. Because my wrist hurt all the time, it was impossible to safely work out in my home gym. I had worked up to nearly a 300-pound squat, which I could have continued doing, but racking the plates wasn't letting my wrist recover. I had full confidence that Pavel's _Naked Warrior_ book would teach me how to build leg strength without having to rack weights.
+In this post, I will review a book I bought almost 8 years ago. At the time I thought this book was excellent. Not anymore.
+
+![naked-warrior](./img/naked-warrior.jpg)
+
+The Naked Warrior by Pavel Tsatsouline is a book that focuses on body weight exercises. It promises _secret_ knowledge to help you get _super strong_ without using weights.
+
+When I got the book in January 2004, I was already injured from doing the Russian Bear protocol from Pavel's other book [Power to the People](/2011/03/power-people-10-years/). My wrist could not handle the massive number of sets. Because my wrist hurt all the time, it was impossible to safely work out in my home gym. I had worked up to nearly a 300-pound squat, which I could have continued doing, but racking the plates wasn't letting my wrist recover. I had full confidence that Pavel's _Naked Warrior_ book would teach me how to build leg strength without having to rack weights.
 
 
 ### Enter The Pistol
 
 
-How does one get super strong legs without squatting? Pavel describes in great detail The Pistol. It is a single-leg squat, where the opposite leg is held in a straight position to the front. The video below shows an athlete doing a Pistol Squat while holding a kettlebell for extra resistance. _[Pistol Squat w 40 lb. Kettlebell](http://www.youtube.com/watch?v=Iy0J5Z4LWgE) by alkavadlo_ Looks pretty badass, doesn't it? The math of this exercise also makes perfect sense. If one does a bodyweight squat with both feet on the ground, they can instantly double their resistance by using a single leg. Actually, it is more than double the resistance, because the working leg has to lift the full weight of the other leg off the ground. But it still doesn't work out to a lot of weight for athletes that have years of squat experience. Pavel introduces the Pistol, which places the airborne leg forward, which makes the exercise far more difficult. And as you see in the video above, once that gets too easy, carry some additional weight during the repetition.
+How does one get super strong legs without squatting? Pavel describes in great detail The Pistol. It is a single-leg squat, where the opposite leg is held in a straight position to the front. The video below shows an athlete doing a Pistol Squat while holding a kettlebell for extra resistance.
+
+_[Pistol Squat w 40 lb. Kettlebell](http://www.youtube.com/watch?v=Iy0J5Z4LWgE) by alkavadlo_
+
+Looks pretty badass, doesn't it? The math of this exercise also makes perfect sense.
+
+If one does a bodyweight squat with both feet on the ground, they can instantly double their resistance by using a single leg. Actually, it is more than double the resistance, because the working leg has to lift the full weight of the other leg off the ground. But it still doesn't work out to a lot of weight for athletes that have years of squat experience. Pavel introduces the Pistol, which places the airborne leg forward, which makes the exercise far more difficult. And as you see in the video above, once that gets too easy, carry some additional weight during the repetition.
 
 
 ### The Problem With the Pistol
 
 
-Even though I could squat 1.5x my body weight for 5 reps, I was never able to do a single Pistol. I spent months working on the technique. Using chairs for support, I tried vigilantly to master one solid repetition. The most I ever was able to pull off were the occasional jerky sloppy momentum-filled reps. Nothing fluid like in the video above. My ankle hurt and so did my knee. Instead of making my legs super strong, I wasted months trying to balance a solid repetition without falling over. The Pistol sucks for us tall folk. From the article [Breaking Down the One Legged Squat](http://www.dieselsc.com/breaking-down-the-one-leg-squat/) by Ben Bruno:
+Even though I could squat 1.5x my body weight for 5 reps, I was never able to do a single Pistol. I spent months working on the technique. Using chairs for support, I tried vigilantly to master one solid repetition. The most I ever was able to pull off were the occasional jerky sloppy momentum-filled reps. Nothing fluid like in the video above.
+
+My ankle hurt and so did my knee. Instead of making my legs super strong, I wasted months trying to balance a solid repetition without falling over. The Pistol sucks for us tall folk. From the article [Breaking Down the One Legged Squat](http://www.dieselsc.com/breaking-down-the-one-leg-squat/) by Ben Bruno:
 
 > Taller athletes may also find it uncomfortable to do full pistols because their legs are too long and it causes cramping in the hip flexor of the inactive leg. I personally use both methods, but for anyone with knee issues or for taller athletes, I would just stick to a parallel one leg squat to a box.
 
@@ -31,13 +45,25 @@ Is there a safer more effective way to build leg strength without weights that d
 ### One-Armed Pushups
 
 
-Push-ups are easy. Push-ups are so easy they bore the average weight lifter. Pavel addresses this in detail in _The Naked Warrior_. If a standard push-up is too easy then using one arm will make it much tougher. The downside is you've taken an exercise with very little risk of injury and replaced it with a highly technical demonstration of strength that can really put a strain on your shoulder. I could do regular and elevated push-ups with ease but struggled to do a single one-armed push-up. In the end, I never gained any _super strength_ using the Pistol or the 1-armed push-up, because they were both too technical to perform. At least for my 6 foot 3-inch body. ![mas-Pavel](./img/mas-Pavel.jpg) _I met Pavel in early 2004_
+Push-ups are easy. Push-ups are so easy they bore the average weight lifter. Pavel addresses this in detail in _The Naked Warrior_.
+
+If a standard push-up is too easy then using one arm will make it much tougher. The downside is you've taken an exercise with very little risk of injury and replaced it with a highly technical demonstration of strength that can really put a strain on your shoulder. I could do regular and elevated push-ups with ease but struggled to do a single one-armed push-up.
+
+In the end, I never gained any _super strength_ using the Pistol or the 1-armed push-up, because they were both too technical to perform. At least for my 6 foot 3-inch body.
+
+![mas-Pavel](./img/mas-Pavel.jpg)
+
+_I met Pavel in early 2004_
 
 
 ### Bring on the High Reps? Not So Fast!
 
 
-Not only have I rejected Pavel's _Naked Warrior_ single limb exercises, but I also fully reject the high repetition bodyweight exercises. Doing 50 or 100 or 300 body weight (aka Hindu) squats will certainly make you sore, but I believe the [focus on repetitions](https://web.archive.org/web/20151225094259/http://www.mattfurey.com/hindu_squats.html) as a metric of success is misplaced. My goal is to build muscle by fatiguing my muscle fibers as safely and efficiently as possible and then allowing time for recovery. Doing ridiculous amounts of reps will make you very good at doing a ridiculous amount of reps, but is the least efficient method for targeting fast twitch muscle fibers. Minimizing momentum and keeping tension on the targeted muscle is far more important than knocking out additional reps. Don't believe me? Do two push-ups and two bodyweight squats. For the first rep of both exercises do it at a normal 1-second up, 1-second down tempo. For the second rep, slow it down to 3 seconds up and 3 seconds down. Humbled? The weight was identical and yet the 2nd rep was far more difficult. High repetition training may be useful if you are trying to develop a skill, but highly inefficient when it comes to building strength.
+Not only have I rejected Pavel's _Naked Warrior_ single limb exercises, but I also fully reject the high repetition bodyweight exercises. Doing 50 or 100 or 300 body weight (aka Hindu) squats will certainly make you sore, but I believe the [focus on repetitions](https://web.archive.org/web/20151225094259/http://www.mattfurey.com/hindu_squats.html) as a metric of success is misplaced. My goal is to build muscle by fatiguing my muscle fibers as safely and efficiently as possible and then allowing time for recovery.
+
+Doing ridiculous amounts of reps will make you very good at doing a ridiculous amount of reps, but is the least efficient method for targeting fast twitch muscle fibers. Minimizing momentum and keeping tension on the targeted muscle is far more important than knocking out additional reps. Don't believe me?
+
+Do two push-ups and two bodyweight squats. For the first rep of both exercises do it at a normal 1-second up, 1-second down tempo. For the second rep, slow it down to 3 seconds up and 3 seconds down. Humbled? The weight was identical and yet the 2nd rep was far more difficult. High repetition training may be useful if you are trying to develop a skill, but highly inefficient when it comes to building strength.
 
 
 ### The Intelligent Body Weight Exercise Approach

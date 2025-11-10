@@ -9,7 +9,11 @@ description: "My quest to tackle Indian food continues. Since my 5 Spices, 50 Di
 commentCount: 8
 ---
 
-My quest to tackle Indian food continues. Since my [5 Spices, 50 Dishes](/2012/04/5-spices-50-dishes/) review, I've made two vindaloo dishes in my slow cooker. I read several recipes online and used the spice guidelines in the _5 Spices_ book to come up with this recipe. The first one used pork shoulder and then second used lamb. The recipe below works equally well for both. Both were outstanding. Easily restaurant quality. The approach to spices came from _5 Spices, 50 Dishes_. My selection of spices was inspired by what I had available to me when I started cooking. :) **Summary**: _An Indian curry recipe using a slow cooker._
+My quest to tackle Indian food continues. Since my [5 Spices, 50 Dishes](/2012/04/5-spices-50-dishes/) review, I've made two vindaloo dishes in my slow cooker. I read several recipes online and used the spice guidelines in the _5 Spices_ book to come up with this recipe. The first one used pork shoulder and then second used lamb. The recipe below works equally well for both. Both were outstanding. Easily restaurant quality.
+
+The approach to spices came from _5 Spices, 50 Dishes_. My selection of spices was inspired by what I had available to me when I started cooking. :)
+
+**Summary**: _An Indian curry recipe using a slow cooker._
 
 
 #### Ingredients
@@ -47,13 +51,25 @@ My quest to tackle Indian food continues. Since my [5 Spices, 50 Dishes](/2012/0
 10.  Turn crock pot on high for 30 minutes and then drop to low for 3-4 hours. Or just keep it on low for 4-4.5 hours.
 11.  Serve.
 
-![vindaloo-mix](./img/vindaloo-mix.jpg) _Step #6 - Make a paste with the ground spices and chopped tomato._  ![vindaloo](./img/vindaloo.jpg) _Serving the Vindaloo._ 
+![vindaloo-mix](./img/vindaloo-mix.jpg)
+
+_Step #6 - Make a paste with the ground spices and chopped tomato._ 
+
+![vindaloo](./img/vindaloo.jpg)
+
+_Serving the Vindaloo._ 
 
 
 #### Variations
 
 
-There are many spice variations on vindaloo. Some use ground cardamon or curry powder. Use what you have. Preparation time: 30 minute(s) Cooking time: 4 hour(s) Culinary tradition: Indian (Southern) UPDATE: Shortly after posting I got a helpful hint from my friend Rishad that has made this dish many more times than me. He states that in order to be a "_true vindaloo_" it requires vinegar. The name "vindaloo" itself comes from Portuguese for vinegar. I also learned that potatoes are optional for the dish and that traditional Portuguese / Goan recipes don't have any potatoes at all.
+There are many spice variations on vindaloo. Some use ground cardamon or curry powder. Use what you have.
+
+Preparation time: 30 minute(s)
+
+Cooking time: 4 hour(s) Culinary tradition: Indian (Southern)
+
+UPDATE: Shortly after posting I got a helpful hint from my friend Rishad that has made this dish many more times than me. He states that in order to be a "_true vindaloo_" it requires vinegar. The name "vindaloo" itself comes from Portuguese for vinegar. I also learned that potatoes are optional for the dish and that traditional Portuguese / Goan recipes don't have any potatoes at all.
 
 ---
 

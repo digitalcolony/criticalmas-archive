@@ -15,7 +15,9 @@ Last December I did a 3 part series on PUFA (polyunsaturated fats).
 2.  [The Problem with PUFA](/2013/11/problem-pufa/)
 3.  [Quantifying PUFA, Expert Opinion, and My Conclusion](/2013/12/quantifying-pufa-expert-opinion/)
 
-My very brief summary of those posts was that ALL nutritional camps seem to agree that **excess PUFA is bad for health**. Finding across-the-board consensus in nutrition is rare. Excess PUFA can cause a host of health problems, which are listed in the second post. The most interesting one to me is reduced metabolism. The third post is where I make the case that one doesn't just need to lower PUFA going forward, but because our fat tissues are likely to store high levels of PUFA from modern living and they can reside there for years, we need to drastically lower our PUFA levels. At least initially. My personal strategy to remove excess PUFA from my body was to:
+My very brief summary of those posts was that ALL nutritional camps seem to agree that **excess PUFA is bad for health**. Finding across-the-board consensus in nutrition is rare. Excess PUFA can cause a host of health problems, which are listed in the second post. The most interesting one to me is reduced metabolism. The third post is where I make the case that one doesn't just need to lower PUFA going forward, but because our fat tissues are likely to store high levels of PUFA from modern living and they can reside there for years, we need to drastically lower our PUFA levels. At least initially.
+
+My personal strategy to remove excess PUFA from my body was to:
 
 1.  Minimize or eliminate vegetable oil use. Easy at home. Tougher when eating out. Favor high-temperature saturated fats, such as coconut oil.
 2.  Eat more seafood, dairy, and red meat. Reduce pork and chicken.
@@ -25,17 +27,25 @@ I may have been wrong about nuts. Yes, nuts have high levels of PUFA, but they a
 
 > One possibly crucial protective effect of vitamin E against the polyunsaturated fatty acids that hasn't been explored is the direct destruction of linolenic and linoleic acid. It is known that  **bacterial vitamin E is involved in the saturation of unsaturated fatty acids, and it is also known that intestinal bacteria turn linoleic and linolenic acids into the fully saturated stearic acid.**
 
-The article also explains how our Vitamin E needs rise and fall based on our intake of PUFA. More PUFA, more Vitamin E. Less PUFA, less Vitamin E. If this is accurate then simply adding up the amount of linolenic acid in our food without accounting for Vitamin E will overstate the PUFA risks in nuts. By how much? I have no clue. Another factor is heat and light destroys Vitamin E, putting processed seed oils at a further disadvantage to nuts. One exception might be cold-pressed high oleic sunflower oil. ![almonds](./img/almonds.jpg)
+The article also explains how our Vitamin E needs rise and fall based on our intake of PUFA. More PUFA, more Vitamin E. Less PUFA, less Vitamin E. If this is accurate then simply adding up the amount of linolenic acid in our food without accounting for Vitamin E will overstate the PUFA risks in nuts. By how much? I have no clue.
+
+Another factor is heat and light destroys Vitamin E, putting processed seed oils at a further disadvantage to nuts. One exception might be cold-pressed high oleic sunflower oil.
+
+![almonds](./img/almonds.jpg)
 
 
 ### Natural PUFA vs Processed PUFA
 
 
-Almonds are rich in both Vitamin E and PUFA. One ounce of almonds has 3377 mg of linoleic acid and 7.3 mg of Vitamin E. I suspect this means almonds aren't good, but less bad. There are some good comments on the 2011 post [Ray Peat - Epilepsy](https://web.archive.org/web/20210423072356/https://180degreehealth.com/ray-peat-%E2%80%93-epilepsy/) by Matt Stone regarding PUFA and Vitamin E. Jannis said:
+Almonds are rich in both Vitamin E and PUFA. One ounce of almonds has 3377 mg of linoleic acid and 7.3 mg of Vitamin E. I suspect this means almonds aren't good, but less bad. There are some good comments on the 2011 post [Ray Peat - Epilepsy](https://web.archive.org/web/20210423072356/https://180degreehealth.com/ray-peat-%E2%80%93-epilepsy/) by Matt Stone regarding PUFA and Vitamin E.
+
+Jannis said:
 
 > Eating nuts because of the vitamin E is like drinking snake poison together with the antidote.
 
-(making the point there are better ways to get Vitamin E) AS said:
+(making the point there are better ways to get Vitamin E)
+
+AS said:
 
 > It seems to me, that the existence of the naturally occurring Vitamin E, along with the naturally occurring PUFA, in a natural whole food, is \*a\* key. That perhaps the two occurring naturally together (among other nutrients, etc.) in a natural whole food means something. That perhaps PUFA, in the context of whole foods, acts very differently in the human body, than unnatural sources of PUFA does.
 
@@ -43,13 +53,19 @@ Matt Stone stepped in and summarized:
 
 > I think Ray Peat would say… Vegetable oils with no vitamin E or supplementation…. WORST Vegetable oils with vitamin E and aspirin supplementation…. BAD Whole food PUFA consumption… BETTER Low total PUFA consumption… BEST
 
-What Matt didn't include in his comment, is the combination of whole food PUFA consumption plus a Vitamin E supplement. My guess is this might fall somewhere between BETTER and BEST. But that is just a guess based on the fact nuts still have a high amount of PUFA. Earlier this year, there were reports of higher risks of prostate cancer who took high doses of Vitamin E daily (400 mg). The rates of cancer were higher when the men had very low or very high levels of selenium. That doesn't concern me, as the goal for most days would be to consume minimal PUFA and just take Vitamin E as insurance for the days you can't avoid PUFA. And there is also the possibility - as Jannis alluded to -  that it is more than just Vitamin E that exists in natural sources of PUFA that provides protective benefits.
+What Matt didn't include in his comment, is the combination of whole food PUFA consumption plus a Vitamin E supplement. My guess is this might fall somewhere between BETTER and BEST. But that is just a guess based on the fact nuts still have a high amount of PUFA.
+
+Earlier this year, there were reports of higher risks of prostate cancer who took high doses of Vitamin E daily (400 mg). The rates of cancer were higher when the men had very low or very high levels of selenium. That doesn't concern me, as the goal for most days would be to consume minimal PUFA and just take Vitamin E as insurance for the days you can't avoid PUFA.
+
+And there is also the possibility - as Jannis alluded to -  that it is more than just Vitamin E that exists in natural sources of PUFA that provides protective benefits.
 
 
 ### Bring on the Almonds?
 
 
-I love almonds, but I haven't bought any in over a year. Raw or soaked almonds suppress my appetite more than ANY other food. Also, my approach to nutrition is to be expansive. The neurotic restrictive diets aren't for me. If I can add back almonds, take a Vitamin E supplement, maintain a high metabolism and lose a few pounds, then that is something I want to do. And if I don't even need the Vitamin E supplement, even better. Your thoughts?
+I love almonds, but I haven't bought any in over a year. Raw or soaked almonds suppress my appetite more than ANY other food. Also, my approach to nutrition is to be expansive. The neurotic restrictive diets aren't for me. If I can add back almonds, take a Vitamin E supplement, maintain a high metabolism and lose a few pounds, then that is something I want to do. And if I don't even need the Vitamin E supplement, even better.
+
+Your thoughts?
 
 ---
 

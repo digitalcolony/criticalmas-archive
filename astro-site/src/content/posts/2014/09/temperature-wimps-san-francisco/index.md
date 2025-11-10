@@ -9,7 +9,17 @@ description: "I don't get it. I will never understand why men will step out of t
 commentCount: 11
 ---
 
-I don't get it. I will never understand why men will step out of their houses wearing a jacket or coat when the temperature is in the mid 60s, when they know it will be sunny and 70 F in an hour or two. They trade a slight increase in comfort for increased discomfort later when the sun is beating down on them. Homeless people wear coats all the time, because they have no home to put their coat inside. The rest of us have no excuse. ![telegraph hill](./img/6780918220_8b83f4a9a5_z.jpg) _[Photo](https://flic.kr/p/bkcYK7) by Sam Agnew. Do you really need a jacket to walk this terrain in the summer?_ If it sounds like I've written this post before, it is because I have.
+I don't get it.
+
+I will never understand why men will step out of their houses wearing a jacket or coat when the temperature is in the mid 60s, when they know it will be sunny and 70 F in an hour or two. They trade a slight increase in comfort for increased discomfort later when the sun is beating down on them.
+
+Homeless people wear coats all the time, because they have no home to put their coat inside. The rest of us have no excuse.
+
+![telegraph hill](./img/6780918220_8b83f4a9a5_z.jpg)
+
+_[Photo](https://flic.kr/p/bkcYK7) by Sam Agnew. Do you really need a jacket to walk this terrain in the summer?_
+
+If it sounds like I've written this post before, it is because I have.
 
 -   (2009) [A Chilly 84 Degrees?](/2009/09/a-chilly-84-degrees/)
 -   (2011) [You Broke Your Own Metabolism](/2011/06/you-broke-your-own-metabolism/)
@@ -18,7 +28,9 @@ Here is what I said in 2011:
 
 > Your body is fully capable of adapting to a wide range of temperatures. It wants to be challenged. Always living in 100% comfort does not provide the body with an opportunity to overcome a minor risk free stress. When baby your metabolism, you lose the resiliency that is your birthright. If you are always reaching for jacket and fear the cool breeze on your skin, how will you react when life throws you a major stressor?
 
-I thought Seattle was bad in late spring and early summer. Seattle is hardened lumberjacks compared to San Francisco. Most weekends I arrive in the city early in the morning and explore. Of course I wear shorts. It has never been lower than 60 F when I arrive. Even if it were 50 F, I'd still wear shorts, as I will be walking a city with hills and both my body temperature and the outdoor temperature will rise. The last thing I want to do is lug a jacket around. It is not just the tourists. I am everywhere. In fact, the tourists are less likely to wear a jacket.
+I thought Seattle was bad in late spring and early summer. Seattle is hardened lumberjacks compared to San Francisco. Most weekends I arrive in the city early in the morning and explore. Of course I wear shorts. It has never been lower than 60 F when I arrive. Even if it were 50 F, I'd still wear shorts, as I will be walking a city with hills and both my body temperature and the outdoor temperature will rise. The last thing I want to do is lug a jacket around.
+
+It is not just the tourists. I am everywhere. In fact, the tourists are less likely to wear a jacket.
 
 > The coldest winter I ever spent was a summer in San Francisco.
 
@@ -28,7 +40,9 @@ We've all heard that quote. It is false and absurd. The coldest it gets in SF du
 ### You Don't Need a Jacket
 
 
-Not only is it not cold, but your body is fully capable of adapting to a wider range of temperatures, providing you allow it to happen. Like I said in my 2011 post. You aren't just wearing a jacket because you are cold, you are cold because you are always wearing a jacket. Remove the jacket and let your metabolism do its job. You'll be warm soon enough. And you won't need to lug around that coat all day. To quote myself:
+Not only is it not cold, but your body is fully capable of adapting to a wider range of temperatures, providing you allow it to happen. Like I said in my 2011 post. You aren't just wearing a jacket because you are cold, you are cold because you are always wearing a jacket. Remove the jacket and let your metabolism do its job. You'll be warm soon enough. And you won't need to lug around that coat all day.
+
+To quote myself:
 
 > When the body is exposed to colder temperatures, it learns to generate heat, provided you don’t interrupt that lesson.
 

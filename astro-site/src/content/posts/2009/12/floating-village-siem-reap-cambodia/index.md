@@ -9,7 +9,23 @@ description: "While in Siem Reap, we had our driver take us out to the Floating 
 commentCount: 3
 ---
 
-While in Siem Reap, we had our driver take us out to the Floating Village. Unlike our [Bangkok experience](/2009/11/missing-circuit-city-at-the-floating-market/), this was not a tourist trap. It was the real deal. The Floating Village was a community of mostly fishermen living on the water. Many fled Vietnam during the war and were never allowed to return home. The floating village is a working community. These people live, work and raise their kids on the water. Young kids know how to fish and navigate boats. Neighbors hang out with each other. They don't have any of the creature comforts of the modern world, but they seemed content. This trip redefined extreme working poverty for me. One of the themes I'll go back to a different post is how Americans live in a culture of fear. We have every advantage, but spend our days fearing that will lose our _stuff_ or health or job. These people have nothing but each other and they seemed fine. Despite the brutally low standard of living, it was inspiring. ![floating-village-4](./img/floating-village-4.jpg) ![floating-village-3](./img/floating-village-3.jpg) ![floating-village-2](./img/floating-village-2.jpg) ![floating-village-1](./img/floating-village-1.jpg) [Photo Gallery for Floating Village - Siem Reap, Cambodia](https://www.flickr.com/photos/129592470@N02/sets/72157650132863352/) Although I am very pleased with my photos, my camera battery was near dead during this portion of my trip, so I didn't get near the number of pictures I would have liked to.
+While in Siem Reap, we had our driver take us out to the Floating Village. Unlike our [Bangkok experience](/2009/11/missing-circuit-city-at-the-floating-market/), this was not a tourist trap. It was the real deal. The Floating Village was a community of mostly fishermen living on the water. Many fled Vietnam during the war and were never allowed to return home.
+
+The floating village is a working community. These people live, work and raise their kids on the water. Young kids know how to fish and navigate boats. Neighbors hang out with each other. They don't have any of the creature comforts of the modern world, but they seemed content. This trip redefined extreme working poverty for me.
+
+One of the themes I'll go back to a different post is how Americans live in a culture of fear. We have every advantage, but spend our days fearing that will lose our _stuff_ or health or job. These people have nothing but each other and they seemed fine. Despite the brutally low standard of living, it was inspiring.
+
+![floating-village-4](./img/floating-village-4.jpg)
+
+![floating-village-3](./img/floating-village-3.jpg)
+
+![floating-village-2](./img/floating-village-2.jpg)
+
+![floating-village-1](./img/floating-village-1.jpg)
+
+[Photo Gallery for Floating Village - Siem Reap, Cambodia](https://www.flickr.com/photos/129592470@N02/sets/72157650132863352/)
+
+Although I am very pleased with my photos, my camera battery was near dead during this portion of my trip, so I didn't get near the number of pictures I would have liked to.
 
 ---
 

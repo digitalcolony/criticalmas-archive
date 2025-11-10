@@ -9,7 +9,27 @@ description: "When we talk about fitness and nutrition, we label activities and 
 commentCount: 4
 ---
 
-When we talk about fitness and nutrition, we label activities and food as differing degrees of healthy and unhealthy. It doesn't explain everything though. I have seen people who eat poorly or do little to no exercise that seem super healthy. More commonly I have seen people who force themselves to exercise ridiculous amounts and count calories, yet they continue to have health problems. I think there is another axis to what is healthy. I'm calling it the Fear/Love axis. ![](./img/healthy-axis500.jpg "healthy-axis500") If you study the business of fitness and nutrition, you will see that **the profit lies in promoting fear and helplessness**. There is an entire industry that makes billions by exploiting your fears of getting cancer, obesity or not having ripped abs. Once they have exploited that fear, they present themselves as an expert and if you buy their potion, DVD, seminar or whatever, you can be saved. I listen to fitness podcasts where people in the top 1% of health ask panicky questions about the most minute detail of their diet or fitness regiment. Meanwhile some trucker is laughing with fellow drivers while he is enjoying the cheeseburger he has been thinking about for 500 miles. In society we applaud the neurotic fitness junkie and scorn the fast food customer. There are 4 quadrants in the lovely chart above. **\[A\] Fear / Healthy** - This is what the fitness industry wants. They can scare you into paying for products and services or you'll get fat / cancer / whatever. Trained helplessness. **\[B\] Love / Healthy** - You embrace healthy food and activities because you enjoy them. Perfect! **\[C\] Fear / Unhealthy** - The worst group. They know they are living an unhealthy life and are stressed about it. They are targets of both healthy and unhealthy marketers. They will buy a pizza and a gym membership on the same day and then curse both decisions. **\[D\] Love / Unhealthy** - A disappearing group. They get bombarded with messages that they are doing everything wrong and will certainly become sick and die. Yet they shrug it off and enjoy their smokes, beer and pasta. They like who they are are on the inside. I can respect that. We punish ourselves for not getting up at 5 AM to exercise or because we ate a cookie. Becoming more healthy is not simply removing the unhealthy. We must add the healthy food and activities that we love. What if you haven't found those foods or activities? Become an explorer. There are [foods](/2010/03/what-i-eat-and-what-i-dont-eat-march-2010-edition/) out there that taste great and will lean you out. Same is true with exercise.
+When we talk about fitness and nutrition, we label activities and food as differing degrees of healthy and unhealthy. It doesn't explain everything though. I have seen people who eat poorly or do little to no exercise that seem super healthy. More commonly I have seen people who force themselves to exercise ridiculous amounts and count calories, yet they continue to have health problems.
+
+I think there is another axis to what is healthy. I'm calling it the Fear/Love axis.
+
+![](./img/healthy-axis500.jpg "healthy-axis500")
+
+If you study the business of fitness and nutrition, you will see that **the profit lies in promoting fear and helplessness**. There is an entire industry that makes billions by exploiting your fears of getting cancer, obesity or not having ripped abs. Once they have exploited that fear, they present themselves as an expert and if you buy their potion, DVD, seminar or whatever, you can be saved.
+
+I listen to fitness podcasts where people in the top 1% of health ask panicky questions about the most minute detail of their diet or fitness regiment. Meanwhile some trucker is laughing with fellow drivers while he is enjoying the cheeseburger he has been thinking about for 500 miles. In society we applaud the neurotic fitness junkie and scorn the fast food customer.
+
+There are 4 quadrants in the lovely chart above.
+
+**\[A\] Fear / Healthy** - This is what the fitness industry wants. They can scare you into paying for products and services or you'll get fat / cancer / whatever. Trained helplessness.
+
+**\[B\] Love / Healthy** - You embrace healthy food and activities because you enjoy them. Perfect!
+
+**\[C\] Fear / Unhealthy** - The worst group. They know they are living an unhealthy life and are stressed about it. They are targets of both healthy and unhealthy marketers. They will buy a pizza and a gym membership on the same day and then curse both decisions.
+
+**\[D\] Love / Unhealthy** - A disappearing group. They get bombarded with messages that they are doing everything wrong and will certainly become sick and die. Yet they shrug it off and enjoy their smokes, beer and pasta. They like who they are are on the inside. I can respect that.
+
+We punish ourselves for not getting up at 5 AM to exercise or because we ate a cookie. Becoming more healthy is not simply removing the unhealthy. We must add the healthy food and activities that we love. What if you haven't found those foods or activities? Become an explorer. There are [foods](/2010/03/what-i-eat-and-what-i-dont-eat-march-2010-edition/) out there that taste great and will lean you out. Same is true with exercise.
 
 ---
 

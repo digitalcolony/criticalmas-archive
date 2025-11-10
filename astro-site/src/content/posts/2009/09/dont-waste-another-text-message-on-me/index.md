@@ -14,7 +14,11 @@ I just setup a text message block on my phone. As a cell phone customer, I have 
 1.  Buy an unlimited text plan, for which I'll never use.
 2.  Pay 20 cents to send and 20 cents to receive each text message.
 
-The unlimited option is a total waste of money for me, which leaves option 2. I have no problem with paying 20 cents to send a text. My issue is that I have to pay to receive texts. For 20 cents, I can buy a banana. So every time I get an idiotic text, it is like someone reaching into my kitchen window and stealing a banana. Yeah I know, I'm an old man. I don't IM either. I am not a fan of short burst communication. It is almost all noise with very little [signal](/2008/12/signal-vs-noise-consume-vs-create/). Feel free to call me, email me or even write me a letter. I pick and choose the technologies that benefit and enrich my life. Texting is not one of them. ![stop-texting](./img/stop-texting.jpg)
+The unlimited option is a total waste of money for me, which leaves option 2. I have no problem with paying 20 cents to send a text. My issue is that I have to pay to receive texts. For 20 cents, I can buy a banana. So every time I get an idiotic text, it is like someone reaching into my kitchen window and stealing a banana.
+
+Yeah I know, I'm an old man. I don't IM either. I am not a fan of short burst communication. It is almost all noise with very little [signal](/2008/12/signal-vs-noise-consume-vs-create/). Feel free to call me, email me or even write me a letter. I pick and choose the technologies that benefit and enrich my life. Texting is not one of them.
+
+![stop-texting](./img/stop-texting.jpg)
 
 ---
 

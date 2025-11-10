@@ -9,7 +9,9 @@ description: "I love RSS. It is the best technology for reading content on the w
 commentCount: 14
 ---
 
-I love RSS. It is the best technology for reading content on the web. For those who do not know what RSS is, check out this [1 minute video](https://youtu.be/WzcHDvWb0mQ). According to my research, RSS popularity began to decline in 2006. Today, many people use Facebook, Twitter, and newsletters to connect with their reading content. I've tried all those methods for reading content, and RSS is the most effective. Let me rattle off a few reasons.
+I love RSS. It is the best technology for reading content on the web. For those who do not know what RSS is, check out this [1 minute video](https://youtu.be/WzcHDvWb0mQ). According to my research, RSS popularity began to decline in 2006. Today, many people use Facebook, Twitter, and newsletters to connect with their reading content.
+
+I've tried all those methods for reading content, and RSS is the most effective. Let me rattle off a few reasons.
 
 -   Facebook hides posts. You may have LIKED a page, but that is no guarantee you are going to see all new content posts. Facebook charges content providers to display posts to their members. The more you pay, the more they will show your content. I cover this in the post [Shutting Down the CriticalMAS Facebook Page](/2013/11/shutting-down-the-criticalmas-facebook-page/). With RSS 100% of posts are displayed to 100% of subscribers at no cost.
 -   Twitter is mostly a blast of short messages, but buried in the stream are links to articles you would like to read. But the stream over time becomes a tidal wave. There is no easy way to save and revisit content links. With RSS, they are saved and waiting for you. Try going back a week or even a few days on Twitter, looking for something. Awful.
@@ -23,19 +25,33 @@ I could go on and on listing reasons why RSS is superior, but I think you get th
 ### Add a Newsletter Reader Feature
 
 
-We are getting bombarded with requests to sign up for newsletters. There are some that I would sign up for, but either I don't trust the site, or just the thought of my Inbox getting slammed turns me off. But what if Feedly (my RSS Reader) provided me with a unique email address that I could use for newsletters? And they managed the subscribe and unsubscribe process from the reader itself. All those newsletters could be directed into folders on my RSS Reader for me to read at my leisure. My Inbox doesn't get assaulted. And the content providers don't have my direct email account. Do you know those annoying [newsletter pop-up windows](/2014/09/need-browser-extension-block-newsletter-pop-ups/)? What if a browser extension provided by the RSS Reader detected it and offered to either complete the signup or block the window forever? That would be awesome. ![RSS Robot](./img/6002000807_62f4801412_z.jpg) _[RSS Robot](https://flic.kr/p/a9nPJx) by Rob McDonald_
+We are getting bombarded with requests to sign up for newsletters. There are some that I would sign up for, but either I don't trust the site, or just the thought of my Inbox getting slammed turns me off.
+
+But what if Feedly (my RSS Reader) provided me with a unique email address that I could use for newsletters? And they managed the subscribe and unsubscribe process from the reader itself. All those newsletters could be directed into folders on my RSS Reader for me to read at my leisure. My Inbox doesn't get assaulted. And the content providers don't have my direct email account.
+
+Do you know those annoying [newsletter pop-up windows](/2014/09/need-browser-extension-block-newsletter-pop-ups/)? What if a browser extension provided by the RSS Reader detected it and offered to either complete the signup or block the window forever? That would be awesome.
+
+![RSS Robot](./img/6002000807_62f4801412_z.jpg)
+
+_[RSS Robot](https://flic.kr/p/a9nPJx) by Rob McDonald_
 
 
 ### Add a Customized Twitter Feed Subscribe
 
 
-There are many different types of Tweets. Quick messages, responses, retweets, quoted retweets, links to one's own content, or links to outside content. The content can be new or old. If you only care about specific types of tweets, it can be challenging to find the signal in the noise. Now start following 300 or 3,000 people, and it becomes impossible. If the RSS Reader managed the different types of Tweets and allowed the user to customize which ones they wanted to see and then handled all the duplicates, that would be valuable. This feature might even be as simple as using the Twitter address to look up the site URL and locate the RSS feed. A much easier signup. Maybe the same could be done with Facebook, Pinterest, and Google+?
+There are many different types of Tweets. Quick messages, responses, retweets, quoted retweets, links to one's own content, or links to outside content. The content can be new or old. If you only care about specific types of tweets, it can be challenging to find the signal in the noise. Now start following 300 or 3,000 people, and it becomes impossible.
+
+If the RSS Reader managed the different types of Tweets and allowed the user to customize which ones they wanted to see and then handled all the duplicates, that would be valuable.
+
+This feature might even be as simple as using the Twitter address to look up the site URL and locate the RSS feed. A much easier signup. Maybe the same could be done with Facebook, Pinterest, and Google+?
 
 
 ### Filters
 
 
-Many years ago, Yahoo! created something called [Pipes](/2008/04/creating-filtered-rss-feed-using-yahoo-pipes/). It was a drag-and-drop method for customizing RSS feeds. It no longer exists, but the idea is still solid. I have some feeds that publish way too much, so I end up not reading those feeds. But I still want to read the important posts. Having a set of filters I can use, such as author, category, or keyword, would be helpful. Imagine being able to subscribe to this site, but only wanting to see Fitness posts and not crazy talk about a future RSS Reader. :)
+Many years ago, Yahoo! created something called [Pipes](/2008/04/creating-filtered-rss-feed-using-yahoo-pipes/). It was a drag-and-drop method for customizing RSS feeds. It no longer exists, but the idea is still solid. I have some feeds that publish way too much, so I end up not reading those feeds. But I still want to read the important posts.
+
+Having a set of filters I can use, such as author, category, or keyword, would be helpful. Imagine being able to subscribe to this site, but only wanting to see Fitness posts and not crazy talk about a future RSS Reader. :)
 
 
 ### Do It!

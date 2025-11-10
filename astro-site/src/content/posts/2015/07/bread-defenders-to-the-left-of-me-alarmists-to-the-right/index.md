@@ -9,7 +9,17 @@ description: "The debate on bread/gluten in the nutritional blogosphere is rathe
 commentCount: 22
 ---
 
-The debate on bread/gluten in the nutritional blogosphere is rather sad. On one side you have alarmists who use weak evidence to make the case that bread is toxic and on the other side you have nutritional "experts" who tear apart that weak evidence and then jump to the conclusion that there is no problem with bread. One side preaches fear. The other side fails to understand risk. Without repeating myself, head over to the post [10 Awful Nutritional Myths Gets One Half Wrong](/2014/10/10-awful-nutritional-myths-gets-one-wrong/). Thankfully not everyone is in the alarmist or denialist camps. In this post, I want to list some ideas on why a large number of people feel awful when they eat bread and why they feel better when they stop. **This is far from settled science. This post is about extending the discussion.** My opinion is based on my own experience, the experience of people I know, and everything I've read. Also, I now prefer to say bread over gluten or wheat. Where the problem resides is something I do not know, but I do believe there is a problem. ![bread-sign](./img/bread-sign.jpg) _[Photo](https://flic.kr/p/bnXMqi) by Thomas Hawk_
+The debate on bread/gluten in the nutritional blogosphere is rather sad. On one side you have alarmists who use weak evidence to make the case that bread is toxic and on the other side you have nutritional "experts" who tear apart that weak evidence and then jump to the conclusion that there is no problem with bread.
+
+One side preaches fear. The other side fails to understand risk. Without repeating myself, head over to the post [10 Awful Nutritional Myths Gets One Half Wrong](/2014/10/10-awful-nutritional-myths-gets-one-wrong/).
+
+Thankfully not everyone is in the alarmist or denialist camps. In this post, I want to list some ideas on why a large number of people feel awful when they eat bread and why they feel better when they stop. **This is far from settled science. This post is about extending the discussion.** My opinion is based on my own experience, the experience of people I know, and everything I've read.
+
+Also, I now prefer to say bread over gluten or wheat. Where the problem resides is something I do not know, but I do believe there is a problem.
+
+![bread-sign](./img/bread-sign.jpg)
+
+_[Photo](https://flic.kr/p/bnXMqi) by Thomas Hawk_
 
 
 ### #1 Hygiene Hypothesis
@@ -21,19 +31,25 @@ I covered the [hygiene hypothesis](/2013/09/wrong-gluten/) back in 2013. The bri
 ### #2 The Dose
 
 
-Maybe it is the dose that makes the poison? Bread is viewed by many to be a poor source of nutrients. Eating a lot of calories with little nutrition can displace the number of calories we eat from more nutrient-dense food. When I dumped the bread, I added a lot of different foods to my diet. My nutrient diversity went up. So when health improves is it because nutrient density increased or because of something in the bread?
+Maybe it is the dose that makes the poison? Bread is viewed by many to be a poor source of nutrients. Eating a lot of calories with little nutrition can displace the number of calories we eat from more nutrient-dense food.
+
+When I dumped the bread, I added a lot of different foods to my diet. My nutrient diversity went up. So when health improves is it because nutrient density increased or because of something in the bread?
 
 
 ### #3 Iron Overload
 
 
-Thankfully I'm not alone in seeking an explanation for the bread problem. Duck Dodgers and Richard Nikoley recently put out easily the most interesting nutrition post I've read in a very long time. Please read [Iron, Food Enrichment and The Theory of Everything](https://web.archive.org/web/20150701021727/https://www.freetheanimal.com/2015/06/enrichment-theory-everything.html). The short version is that many health problems started with the iron fortification of flour. And since WW2, the amount of iron in our diet has increased a lot. In the article, you will learn how iron disrupts gut flora and can lead to metabolic issues. I really encourage you to read the entire thing.
+Thankfully I'm not alone in seeking an explanation for the bread problem. Duck Dodgers and Richard Nikoley recently put out easily the most interesting nutrition post I've read in a very long time. Please read [Iron, Food Enrichment and The Theory of Everything](https://web.archive.org/web/20150701021727/https://www.freetheanimal.com/2015/06/enrichment-theory-everything.html).
+
+The short version is that many health problems started with the iron fortification of flour. And since WW2, the amount of iron in our diet has increased a lot. In the article, you will learn how iron disrupts gut flora and can lead to metabolic issues. I really encourage you to read the entire thing.
 
 
 ### #4 Metabolism
 
 
-The premise here is that there is a connection between metabolism and food intolerance. Lowering metabolism reduces the body's ability to respond to foods that are more likely to cause problems. Restrictive eating which seems like the logical path, could further reduce metabolism and make problems worse. From a 2012 interview with Matt Stone on Our Nourishing Roots (now offline):
+The premise here is that there is a connection between metabolism and food intolerance. Lowering metabolism reduces the body's ability to respond to foods that are more likely to cause problems. Restrictive eating which seems like the logical path, could further reduce metabolism and make problems worse.
+
+From a 2012 interview with Matt Stone on Our Nourishing Roots (now offline):
 
 > I treat dietary restriction as a last resort, not a first line of defense. And as metabolism improves, the inflammatory response often regulates itself in such a way that former triggers of allergic and inflammatory reactions no longer elicit such a reaction.
 
@@ -41,7 +57,9 @@ The premise here is that there is a connection between metabolism and food intol
 ### #5 Bread is a Processed Food Today
 
 
-I have to bring this up again. The denialists who are so quick to attack those who avoid bread as being neurotic, fearful, and orthorexic are quick to dispense the nutritional advice to avoid processed foods. Yet almost all bread is processed to some degree. It baffles me how they fail to see this inconsistency. How we make bread today is a lot different than how traditional cultures made bread. See the article [Be Kind to Your Grains…And Your Grains Will Be Kind To You](http://www.westonaprice.org/health-topics/be-kind-to-your-grains-and-your-grains-will-be-kind-to-you/). Many people, especially those in the WAPF camp, believe the problem with bread lies in modern processing, and that using traditional methods of preparation is a healthier option.
+I have to bring this up again. The denialists who are so quick to attack those who avoid bread as being neurotic, fearful, and orthorexic are quick to dispense the nutritional advice to avoid processed foods. Yet almost all bread is processed to some degree. It baffles me how they fail to see this inconsistency.
+
+How we make bread today is a lot different than how traditional cultures made bread. See the article [Be Kind to Your Grains…And Your Grains Will Be Kind To You](http://www.westonaprice.org/health-topics/be-kind-to-your-grains-and-your-grains-will-be-kind-to-you/). Many people, especially those in the WAPF camp, believe the problem with bread lies in modern processing, and that using traditional methods of preparation is a healthier option.
 
 
 ### I'm Better Now
@@ -62,7 +80,11 @@ Before I rattle off my list, I want to say that unlike the alarmists and the den
 5.  I am a big believer that resiliency should be our goal. In the post [Wheat Resiliency](/2015/02/wheat-resiliency/), I cover how I use trace exposure to teach my body how to process wheat. If the dose is the problem, then minimizing the dose would be an effective strategy.
 6.  Increased my metabolism as measured my morning waking temperature from 97.0 to 98.4. In tech terms, I have a faster processor now. For ideas on increasing metabolism, read the book _Diet Recovery 2: Restoring Mind and Metabolism from Dieting, Weight Loss, Exercise, and Healthy Food by Matt Stone_.
 
-![blood donor](./img/2562431372_90e471dfe4_z.jpg) _[Thank you, anonymous donor](https://flic.kr/p/4Ur8zf) by Brian. I donate blood every 8 weeks. Lowers my iron level and helps someone in need._  To sum up, I believe there is a problem with bread, but we don't fully understand it. The alarmists lack evidence and the denialists confuse the lack of evidence as a lack of risk. I've taken the middle ground and doing so has served me well.
+![blood donor](./img/2562431372_90e471dfe4_z.jpg)
+
+_[Thank you, anonymous donor](https://flic.kr/p/4Ur8zf) by Brian. I donate blood every 8 weeks. Lowers my iron level and helps someone in need._ 
+
+To sum up, I believe there is a problem with bread, but we don't fully understand it. The alarmists lack evidence and the denialists confuse the lack of evidence as a lack of risk. I've taken the middle ground and doing so has served me well.
 
 ---
 

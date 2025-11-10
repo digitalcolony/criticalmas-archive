@@ -19,7 +19,15 @@ Paleo diets are very much anti-legume. From the article _Foods to Avoid on The P
 
 > Legumes have a similar story to grains; they weren’t consumed by the paleo hunter-gatherer because they needed to be cooked in order to be edible. Legumes also have similar traits to grains in their make-up; they contain phytates which inhibit nutrient absorption and cause inflammation. They also contain lectins and play with healthy hormonal functions.
 
-I don't disagree with the above statement, however the WAPF (Weston A Price Foundation) focuses more on food preparation. They have learned how traditional cultures prepared legumes to deal with those problems. Our ancestors used soaking, sprouting and fermenting to lower the anti-nutrient properties of legumes. Soaking and sprouting also reduces the cooking time, which would have been important to traditional cultures without supplies of easily accessible energy. ![soak-sprout-lentil](./img/soak-sprout-lentil.jpg) _Sprout those lentils!_ When I went to make dal, like so many other Indian recipes I found an endless and often contradictory advice. But I summoned my [David Lynch wisdom](/2012/05/internet-cooking-and-david-lynch-movies/) and created this wonderful soup. Don't let a missing ingredient (other than the lentils) stop you from making this soup. Dial up the heat with spices or the creaminess with coconut milk. It all works. **Summary**: _A soaked and sprouted lentil dal recipe._
+I don't disagree with the above statement, however the WAPF (Weston A Price Foundation) focuses more on food preparation. They have learned how traditional cultures prepared legumes to deal with those problems. Our ancestors used soaking, sprouting and fermenting to lower the anti-nutrient properties of legumes. Soaking and sprouting also reduces the cooking time, which would have been important to traditional cultures without supplies of easily accessible energy.
+
+![soak-sprout-lentil](./img/soak-sprout-lentil.jpg)
+
+_Sprout those lentils!_
+
+When I went to make dal, like so many other Indian recipes I found an endless and often contradictory advice. But I summoned my [David Lynch wisdom](/2012/05/internet-cooking-and-david-lynch-movies/) and created this wonderful soup. Don't let a missing ingredient (other than the lentils) stop you from making this soup. Dial up the heat with spices or the creaminess with coconut milk. It all works.
+
+**Summary**: _A soaked and sprouted lentil dal recipe._
 
 
 #### Ingredients
@@ -55,7 +63,15 @@ I don't disagree with the above statement, however the WAPF (Weston A Price Foun
 11.  (optional) Add chopped cilantro to top.
 12.  Serve.
 
-![lentil-dal](./img/lentil-dal.jpg) _Lentil dal soup._ Preparation time: 10 minute(s) (plus sprouting time for the lentils) Cooking time: 20 minute(s) Culinary tradition: Indian (Northern)
+![lentil-dal](./img/lentil-dal.jpg)
+
+_Lentil dal soup._
+
+Preparation time: 10 minute(s) (plus sprouting time for the lentils)
+
+Cooking time: 20 minute(s)
+
+Culinary tradition: Indian (Northern)
 
 ---
 

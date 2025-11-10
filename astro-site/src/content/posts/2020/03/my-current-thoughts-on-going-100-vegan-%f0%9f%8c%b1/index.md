@@ -13,7 +13,29 @@ In the post [Lipid Levels After Going 90% Pesco-Vegan](/2020/03/lipids-levels-af
 
 > I’m debating whether or not to go completely plant-based or keep some fish in. What are your thoughts on going sans animal products?
 
-This is a good question. For now, I am sticking with the 90% number for a few reasons. Here are my random thoughts on how I landed at 90%. Although the WFPB (whole-food plant-based) crowd makes very strong cases for many of their views, I feel their least persuasive arguments are against fish and non-fat dairy. That doesn't make them wrong. Just less persuasive to me. I also want to have a diverse diet. I want to be flexible enough to eat 10% of my calories however I need to without getting stuck to honoring a label. I've watched enough people do enough diets over the years to see that they normally see most of the benefits early on and they get most of the benefits from eliminating the prior ways of eating that were unhealthy. The new diet will often get more credit than it deserves. I need to be careful of that effect myself. Continuing on the last point. I do see people get into trouble when they go stricter. Being restrictive and not developing any nutritional imbalances takes skill, practice, and probably some testing. Vegetarian leads to vegan which leads to raw vegan and so on. For an extreme example of this, see my post [Death By Orthorexia](/2019/01/death-by-orthorexia/). There are numerous videos on YouTube where someone had great early on success with a vegan diet and then things got worse. Other channels then play "Monday morning quarterback" on how they did something wrong. Perhaps they are correct, but the fact so many people get the diet wrong shouldn't be dismissed. For me that 10% represents a hedging strategy to get the nutrients that failed vegans are most likely to miss. By limiting myself to about 10% of my calories from non-seafood animal products, I will make those calories count more. They won't come from conventional lean-ground beef or the chicken thighs that went on sale. That was [peasant diet thinking](/2018/02/using-price-knowledge-lean-peasant-diet/). It was fine for the time, but now the focus is on optimal health, not an optimal weight. I am a frequent blood donor. I've learned through experience that I need to [supplement with Beef Liver and Organ capsules](/2019/08/spiking-iron-levels-quickly-with-beef-organ-capsules/) before and after donating to support a healthy iron level. Legumes don't provide enough bioavailable iron for me. One of the benefits of fish and non-fat Greek yogurt have is that they don't have fiber. But fiber is good, right? Yes, up to a point. Too much fiber can speed up things a little too much. Between buckwheat, quinoa, legumes, and other plants, I'm getting more than enough fiber. Sometimes the animal option is the most healthy choice when at restaurants or traveling. I need to have the freedom to make the best choice for the situation. Those are my views now in March 2020. Perhaps in a year or two, I'll revisit this post with a more updated opinion. ![beans](./img/milada-vigerova-beans.jpg)
+This is a good question. For now, I am sticking with the 90% number for a few reasons. Here are my random thoughts on how I landed at 90%.
+
+Although the WFPB (whole-food plant-based) crowd makes very strong cases for many of their views, I feel their least persuasive arguments are against fish and non-fat dairy. That doesn't make them wrong. Just less persuasive to me.
+
+I also want to have a diverse diet. I want to be flexible enough to eat 10% of my calories however I need to without getting stuck to honoring a label.
+
+I've watched enough people do enough diets over the years to see that they normally see most of the benefits early on and they get most of the benefits from eliminating the prior ways of eating that were unhealthy. The new diet will often get more credit than it deserves. I need to be careful of that effect myself.
+
+Continuing on the last point. I do see people get into trouble when they go stricter. Being restrictive and not developing any nutritional imbalances takes skill, practice, and probably some testing. Vegetarian leads to vegan which leads to raw vegan and so on. For an extreme example of this, see my post [Death By Orthorexia](/2019/01/death-by-orthorexia/).
+
+There are numerous videos on YouTube where someone had great early on success with a vegan diet and then things got worse. Other channels then play "Monday morning quarterback" on how they did something wrong. Perhaps they are correct, but the fact so many people get the diet wrong shouldn't be dismissed. For me that 10% represents a hedging strategy to get the nutrients that failed vegans are most likely to miss.
+
+By limiting myself to about 10% of my calories from non-seafood animal products, I will make those calories count more. They won't come from conventional lean-ground beef or the chicken thighs that went on sale. That was [peasant diet thinking](/2018/02/using-price-knowledge-lean-peasant-diet/). It was fine for the time, but now the focus is on optimal health, not an optimal weight.
+
+I am a frequent blood donor. I've learned through experience that I need to [supplement with Beef Liver and Organ capsules](/2019/08/spiking-iron-levels-quickly-with-beef-organ-capsules/) before and after donating to support a healthy iron level. Legumes don't provide enough bioavailable iron for me.
+
+One of the benefits of fish and non-fat Greek yogurt have is that they don't have fiber. But fiber is good, right? Yes, up to a point. Too much fiber can speed up things a little too much. Between buckwheat, quinoa, legumes, and other plants, I'm getting more than enough fiber.
+
+Sometimes the animal option is the most healthy choice when at restaurants or traveling. I need to have the freedom to make the best choice for the situation.
+
+Those are my views now in March 2020. Perhaps in a year or two, I'll revisit this post with a more updated opinion.
+
+![beans](./img/milada-vigerova-beans.jpg)
 
 _Photo by Milada Vigerova_
 

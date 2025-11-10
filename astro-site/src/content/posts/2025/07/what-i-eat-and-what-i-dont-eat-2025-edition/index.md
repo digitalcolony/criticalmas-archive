@@ -9,7 +9,11 @@ description: "It's been two years since the last edition of this post. I also ha
 commentCount: 14
 ---
 
-It's been [two years](/2023/09/what-i-eat-and-what-i-dont-eat-2023-edition/) since the last edition of this post. I also have editions from [2010](/2010/03/what-i-eat-and-what-i-dont-eat-march-2010-edition/), [2012](/2012/05/what-i-eat-and-what-i-dont-eat-may-2012-edition/), [2014](/2014/09/eat-dont-eat-2014-edition/), [2017](/2017/01/eat-dont-eat-2017-edition/), and [2020](/2020/02/what-i-eat-and-what-i-dont-eat-2020-edition/). I still weigh 182 pounds and am 6'2 tall. I’ve now maintained a 40-pound weight loss for 6 years. [Low-fat diets work](/2022/02/in-defense-of-low-fat-dieting/), provided you consume high-quality carbs and avoid consuming calories in liquid form. There have been some minor changes since the last edition.
+It's been [two years](/2023/09/what-i-eat-and-what-i-dont-eat-2023-edition/) since the last edition of this post. I also have editions from [2010](/2010/03/what-i-eat-and-what-i-dont-eat-march-2010-edition/), [2012](/2012/05/what-i-eat-and-what-i-dont-eat-may-2012-edition/), [2014](/2014/09/eat-dont-eat-2014-edition/), [2017](/2017/01/eat-dont-eat-2017-edition/), and [2020](/2020/02/what-i-eat-and-what-i-dont-eat-2020-edition/).
+
+I still weigh 182 pounds and am 6'2 tall. I’ve now maintained a 40-pound weight loss for 6 years. [Low-fat diets work](/2022/02/in-defense-of-low-fat-dieting/), provided you consume high-quality carbs and avoid consuming calories in liquid form.
+
+There have been some minor changes since the last edition.
 
 -   My diet is more plant-based. I haven't had beef or pork since 2023. I had chicken twice last year. I still consume fish, albeit not as much as I used to. Although I restrict my fish intake to SMASH (salmon, mackerel, anchovies, sardines, and herring) and donate blood regularly, I want to minimize my exposure to environmental toxins.
 -   In 2023, my experimentation was with higher protein. I no longer consume protein shakes or chicken breasts. The protein hype is getting ridiculous. Most people consume significantly more protein than they need. If I were trying to get shredded or were recovering from a surgery, I'd bump up my intake, but I easily get 100+ grams a day from my diet.
@@ -88,7 +92,13 @@ Kimchi, natto, yogurt, kefir, sauerkraut (fermented foods)
 ### Almost Vegan Experiment
 
 
-I wanted to see what would happen if I went even more plant-based. I swapped my fat-free Greek yogurt for plant-based ones and silken tofu. That lasted a few months. Plant-based yogurts have less satiety and are more expensive. Silken tofu was bland. I stopped eating sardines and herring for a few months. Then I started craving fish again, so I added the fish back, but at a much lower level. My [Omega-3 ratios are optimal](/2025/02/optimal-omega-3-levels-no-fish-oil-needed/), so this isn't a priority. Because I reversed course on the yogurt and fish, I never considered replacing my Korean kimchi, which has a small amount of anchovy and krill. I could make my own. [Been there, done that](https://criticalmas.org/best-of/fermentation/). Considering I consume more than a gallon of kimchi each month, this was the lowest priority. My diet will likely stay around 90% plant-based. If I occasionally eat a gluten-free cookie with dairy, that is fine. I doubt I will benefit much from being stricter.
+I wanted to see what would happen if I went even more plant-based. I swapped my fat-free Greek yogurt for plant-based ones and silken tofu. That lasted a few months. Plant-based yogurts have less satiety and are more expensive. Silken tofu was bland.
+
+I stopped eating sardines and herring for a few months. Then I started craving fish again, so I added the fish back, but at a much lower level. My [Omega-3 ratios are optimal](/2025/02/optimal-omega-3-levels-no-fish-oil-needed/), so this isn't a priority.
+
+Because I reversed course on the yogurt and fish, I never considered replacing my Korean kimchi, which has a small amount of anchovy and krill. I could make my own. [Been there, done that](https://criticalmas.org/best-of/fermentation/). Considering I consume more than a gallon of kimchi each month, this was the lowest priority.
+
+My diet will likely stay around 90% plant-based. If I occasionally eat a gluten-free cookie with dairy, that is fine. I doubt I will benefit much from being stricter.
 
 ---
 

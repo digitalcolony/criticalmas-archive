@@ -8,11 +8,21 @@ description: "I completed another 30 Day experiment. This time I went 30 days wi
 commentCount: 12
 ---
 
-I completed another **30 Day experiment**. This time I went 30 days without any aged cheese. This restricted me to just cottage cheese and cream cheese. All other types of cheese were eliminated during this period. I was motivated to see if this would have an impact the the frequency and intensity of my headaches. ![](http://farm1.static.flickr.com/208/460032282_128b5363ea.jpg "swiss cheese") _[Mouse Cheese](http://www.flickr.com/photos/19779889@N00/460032282/in/photostream/) by arbyreed_ In the post [Hunting Headaches Take 2](/2011/07/hunting-headaches-take-2/), I decided to see if tyramine was a culprit in my headaches.
+I completed another **30 Day experiment**. This time I went 30 days without any aged cheese. This restricted me to just cottage cheese and cream cheese. All other types of cheese were eliminated during this period. I was motivated to see if this would have an impact the the frequency and intensity of my headaches.
+
+![](http://farm1.static.flickr.com/208/460032282_128b5363ea.jpg "swiss cheese")
+
+_[Mouse Cheese](http://www.flickr.com/photos/19779889@N00/460032282/in/photostream/) by arbyreed_
+
+In the post [Hunting Headaches Take 2](/2011/07/hunting-headaches-take-2/), I decided to see if tyramine was a culprit in my headaches.
 
 > The good news is I may not need to give up dairy. After Marians comment, I went back and took a deeper look at dairy. It seems **aged cheese has something called tyramine**, which is a trigger for migraines. Now, I am still not certain that my headaches are migraine in nature, but Im willing to give this a try.
 
-Well if you have been following [my headache journal](http://tinyurl.com/my-headaches), you can see that my headaches didn't decline last month. In fact, they got worse. So cheese is innocent, therefore **tyramine is not a problem for me.** Although it is discouraging that I still haven't solved my headache problem, it is good news that I've eliminated another suspect. And a delicious suspect at that. :) The Internet provides endless amounts of information and opinion on what you should or shouldn't eat. The best person to listen to is yourself. **Doing 30 Day tests are a phenomenal tool for taking control of your own health destiny.** Eliminate a food for 30 days, keep everything else the same and then monitor. At the end of 30 Days, reintroduce the food and monitor for 4 more days. Did things get better, worse or stay the same? You have your answer. No doctor or blood work required. As for my headaches, the quest continues. I've got a book on the topic, which is something I should have picked up months ago. I'm also testing two new supplements. I'll figure this out.
+Well if you have been following [my headache journal](http://tinyurl.com/my-headaches), you can see that my headaches didn't decline last month. In fact, they got worse. So cheese is innocent, therefore **tyramine is not a problem for me.** Although it is discouraging that I still haven't solved my headache problem, it is good news that I've eliminated another suspect. And a delicious suspect at that. :)
+
+The Internet provides endless amounts of information and opinion on what you should or shouldn't eat. The best person to listen to is yourself. **Doing 30 Day tests are a phenomenal tool for taking control of your own health destiny.** Eliminate a food for 30 days, keep everything else the same and then monitor. At the end of 30 Days, reintroduce the food and monitor for 4 more days. Did things get better, worse or stay the same? You have your answer. No doctor or blood work required.
+
+As for my headaches, the quest continues. I've got a book on the topic, which is something I should have picked up months ago. I'm also testing two new supplements. I'll figure this out.
 
 ---
 

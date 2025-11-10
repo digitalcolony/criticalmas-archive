@@ -9,7 +9,9 @@ description: "Another year, another list. I love podcasts. I love them more than
 commentCount: 4
 ---
 
-Another year, another list. I love podcasts. I love them more than I have hours in the day to listen to them. And because new shows or recommendations are coming at me faster than I can keep up, I have to keep pruning my list. For those interested, here were my top 10 podcasts in [2012](/2012/11/podcasts-i-listen-to-2012/) and [2013](/2013/10/podcasts-listen-2013/). Here are my top podcasts for 2014.
+Another year, another list. I love podcasts. I love them more than I have hours in the day to listen to them. And because new shows or recommendations are coming at me faster than I can keep up, I have to keep pruning my list. For those interested, here were my top 10 podcasts in [2012](/2012/11/podcasts-i-listen-to-2012/) and [2013](/2013/10/podcasts-listen-2013/).
+
+Here are my top podcasts for 2014.
 
 1.  EconTalk (economics)  **#1 for 3 years in a row!**
 2.  RadioLab from WNYC (stories, reporting)
@@ -22,7 +24,15 @@ Another year, another list. I love podcasts. I love them more than I have hours 
 9.  House of Reggae (music)
 10.  Revolution Health Radio with Chris Kresser (health)
 
-I still love [EconTalk](http://www.econtalk.org/). When I am not listening to new shows, I am digging through the archives going back to 2006. Some of the shows I've listened to multiple times. In the past few months, I've read three books by guests on the show. In each case, the interview was better than the book. I stopped listening to Freakonomics. Too much filler and too many logical errors.You get more info in a single EconTalk than a year of Freakonomics. My newest find is the James Altucher Show. I couldn't stand this guy when he was the perma-bull on CNBC, but I gave his show a chance and I'm really digging it. [MAS Better](http://masbetter.wordpress.com/) tipped me off to Radio Lab, which is awesome. And my friend Dave is doing a great job with Podcast of Doom. ![podcasting](./img/90928249_665a187e80_z.jpg) _[Photo](https://flic.kr/p/932Nr) by Kin Mun Lee_
+I still love [EconTalk](http://www.econtalk.org/). When I am not listening to new shows, I am digging through the archives going back to 2006. Some of the shows I've listened to multiple times. In the past few months, I've read three books by guests on the show. In each case, the interview was better than the book.
+
+I stopped listening to Freakonomics. Too much filler and too many logical errors.You get more info in a single EconTalk than a year of Freakonomics.
+
+My newest find is the James Altucher Show. I couldn't stand this guy when he was the perma-bull on CNBC, but I gave his show a chance and I'm really digging it. [MAS Better](http://masbetter.wordpress.com/) tipped me off to Radio Lab, which is awesome. And my friend Dave is doing a great job with Podcast of Doom.
+
+![podcasting](./img/90928249_665a187e80_z.jpg)
+
+_[Photo](https://flic.kr/p/932Nr) by Kin Mun Lee_
 
 ---
 

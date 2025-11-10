@@ -9,13 +9,21 @@ description: "In my last post, I mentioned that I was approached by a company to
 commentCount: 3
 ---
 
-In my last post, I mentioned that I was approached by a company to buy the domain that has hosted my personal website since March 2000. That domain was CriticalMAS.com. The offer I received was generous enough to me to make it worth my time and effort to move to a new domain and change my email. I was going to move this blog to MichaelAllenSmith.com, but I got an email from my pal [Joe](https://artlung.com/) in San Diego, who suggested a clean move to CriticalMAS.org. At first, it didn't click with me, but the more I thought about it, the more it made sense. The blog is titled Critical MAS. By moving to the .ORG, I maintain that title.
+In my last post, I mentioned that I was approached by a company to buy the domain that has hosted my personal website since March 2000. That domain was CriticalMAS.com. The offer I received was generous enough to me to make it worth my time and effort to move to a new domain and change my email.
+
+I was going to move this blog to MichaelAllenSmith.com, but I got an email from my pal [Joe](https://artlung.com/) in San Diego, who suggested a clean move to CriticalMAS.org. At first, it didn't click with me, but the more I thought about it, the more it made sense. The blog is titled Critical MAS. By moving to the .ORG, I maintain that title.
 
 
 ### The RSS Feed and Newsletter
 
 
-The sale was finalized this morning, so I'm sure there are still little things I need to do, but I do believe the RSS Feed is working fine and if you subscribe directly to Feedburner, you won't need to change anything. I'll be sending out one last newsletter with MailChimp. After that, I'll be shutting that down and using the Feedburner newsletter exclusively. I was terrible at maintaining that newsletter, not just for this site, but for two other sites I manage. I'm old school. I'd rather write a new post than craft a catchy newsletter hoping it gets a decent click-thru rate. _[Subscribe to Critical MAS](https://criticalmas.org/subscribe/)_ Maybe one day, I'll post about my dislike of newsletters with actual numbers, if there is interest.
+The sale was finalized this morning, so I'm sure there are still little things I need to do, but I do believe the RSS Feed is working fine and if you subscribe directly to Feedburner, you won't need to change anything.
+
+I'll be sending out one last newsletter with MailChimp. After that, I'll be shutting that down and using the Feedburner newsletter exclusively. I was terrible at maintaining that newsletter, not just for this site, but for two other sites I manage. I'm old school. I'd rather write a new post than craft a catchy newsletter hoping it gets a decent click-thru rate.
+
+_[Subscribe to Critical MAS](https://criticalmas.org/subscribe/)_
+
+Maybe one day, I'll post about my dislike of newsletters with actual numbers, if there is interest.
 
 
 ### Now For the Favor
@@ -31,7 +39,15 @@ OLD: https://criticalmas**.com**/2018/04/dieting-and-detoxification/
 
 NEW: https://criticalmas**.org**/2018/04/dieting-and-detoxification/
 
-If you use WordPress, there are Search and Replace plugins to help you. ![search and replace plugin](./img/search-and-replace.jpg) _[Search and Replace Plugin](https://wordpress.org/plugins/search-and-replace/) - Look for the posts and comments table. Either wp\_posts or whatever prefix you use followed by \_posts. Same for comments. Look for wp\_comments or whatever prefix you use followed by \_comments. Uncheck Dry Run and then choose "Save changes to Database"._   Another option is to install a Broken Link Checker plugin and then after it completes, swap out the ".com" for the ".org". Thank you!!!
+If you use WordPress, there are Search and Replace plugins to help you.
+
+![search and replace plugin](./img/search-and-replace.jpg)
+
+_[Search and Replace Plugin](https://wordpress.org/plugins/search-and-replace/) - Look for the posts and comments table. Either wp\_posts or whatever prefix you use followed by \_posts. Same for comments. Look for wp\_comments or whatever prefix you use followed by \_comments. Uncheck Dry Run and then choose "Save changes to Database"._  
+
+Another option is to install a Broken Link Checker plugin and then after it completes, swap out the ".com" for the ".org".
+
+Thank you!!!
 
 ---
 

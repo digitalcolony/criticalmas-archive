@@ -17,7 +17,13 @@ Years ago I attempted to make risotto and it didn't turn out that well. I don't 
 -   Used less Parmesan cheese, but added a splash of cream.
 -   At the end, I threw in some shrimp.
 
-My guess is the key to making great risotto is gradually adding the stock to the Arborio rice and cooking it slowly. What veggies or protein you use or don't use is probably less important. The creamy texture can come from butter, cheese, cream or some combination. The next risotto I make will be loaded with mushrooms. ![Shrimp Risotto](./img/IMG_1750.jpg "Shrimp Risotto") _Shrimp Risotto_
+My guess is the key to making great risotto is gradually adding the stock to the Arborio rice and cooking it slowly. What veggies or protein you use or don't use is probably less important. The creamy texture can come from butter, cheese, cream or some combination.
+
+The next risotto I make will be loaded with mushrooms.
+
+![Shrimp Risotto](./img/IMG_1750.jpg "Shrimp Risotto")
+
+_Shrimp Risotto_
 
 ---
 

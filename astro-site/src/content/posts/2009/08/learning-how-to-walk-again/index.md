@@ -13,13 +13,17 @@ It has been a while since I've done a [long urban hike](/2009/02/urban-hike-seat
 
 > Natural gait is biomechanically impossible for any shoe-wearing person, wrote Dr. William A. Rossi in a 1999 article in Podiatry Management. It took 4 million years to develop our unique human foot and our consequent distinctive form of gait, a remarkable feat of bioengineering. Yet, in only a few thousand years, and with one carelessly designed instrument, our shoes, we have warped the pure anatomical form of human gait, obstructing its engineering efficiency, afflicting it with strains and stresses and denying it its natural grace of form and ease of movement head to foot. In other words: Feet good. Shoes bad.
 
-I've railed against wearing [running shoes](/2009/02/flashbacks-on-a-dead-lift-gone-wrong/) in the free weight room. It seems the human heel has many nerve endings that send signals to the brain to help it with balance and posture. The thicker we make the cushioning of the shoes we wear, the harder we strike our heel to the ground. That act changes the way we walk. Our feet get weaker and our knees and backs start hurting. [Page 4](https://web.archive.org/web/20180617112514/http://nymag.com:80/health/features/46213/index4.html) of the above article has an image showing how our strides change with shoes. The importance differences are:
+I've railed against wearing [running shoes](/2009/02/flashbacks-on-a-dead-lift-gone-wrong/) in the free weight room. It seems the human heel has many nerve endings that send signals to the brain to help it with balance and posture. The thicker we make the cushioning of the shoes we wear, the harder we strike our heel to the ground. That act changes the way we walk. Our feet get weaker and our knees and backs start hurting.
+
+[Page 4](https://web.archive.org/web/20180617112514/http://nymag.com:80/health/features/46213/index4.html) of the above article has an image showing how our strides change with shoes. The importance differences are:
 
 1.  Softer heel land.
 2.  Complete "roll through" each step. Shoe soles prevent this.
 3.  Push off comes from the toes. Shoes force the legs to do all the lifting of the foot.
 
-Well, you can't exactly walk around in a city without shoes. There are options. One is the [Vibram 5- Finger Shoe](http://www.fourhourworkweek.com/blog/2009/05/07/vibram-five-fingers-shoes/). These look too weird for me to try. A middle ground option is the Nike Free 3.0 series. I have a pair of Diesel shoes with super thin soles that work best for me. There is almost no heel cushion. That is a good thing. Going from running shoes to super thin shoes means I now walk slower and cover less distance. This feels more natural. I think the most I have urban hiked in my Diesel shoes has been 10 miles. **Unlike past urban hikes, I felt no lower back pain.** My feet had mild soreness, which is to be expected since they are finally doing some of the work when it comes to walking. By winter I expect my feet to be strong enough to handle 20 mile hikes.
+Well, you can't exactly walk around in a city without shoes. There are options. One is the [Vibram 5- Finger Shoe](http://www.fourhourworkweek.com/blog/2009/05/07/vibram-five-fingers-shoes/). These look too weird for me to try. A middle ground option is the Nike Free 3.0 series. I have a pair of Diesel shoes with super thin soles that work best for me. There is almost no heel cushion. That is a good thing.
+
+Going from running shoes to super thin shoes means I now walk slower and cover less distance. This feels more natural. I think the most I have urban hiked in my Diesel shoes has been 10 miles. **Unlike past urban hikes, I felt no lower back pain.** My feet had mild soreness, which is to be expected since they are finally doing some of the work when it comes to walking. By winter I expect my feet to be strong enough to handle 20 mile hikes.
 
 ---
 

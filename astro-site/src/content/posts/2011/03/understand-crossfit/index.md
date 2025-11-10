@@ -9,14 +9,24 @@ description: "Am I the only paleo blogger that isn't embracing the extreme \"fun
 commentCount: 47
 ---
 
-Am I the only paleo blogger that isn't embracing the extreme "_functional_" workout program known as _CrossFit_? I've read articles from their journals, watched videos, and talked to members. To me, _CrossFit_ seems like another lunatic over-training program. However, I accept the premise that I am still uninformed, so I am keeping an open mind. My concerns about _CrossFit_:
+Am I the only paleo blogger that isn't embracing the extreme "_functional_" workout program known as _CrossFit_? I've read articles from their journals, watched videos, and talked to members. To me, _CrossFit_ seems like another lunatic over-training program. However, I accept the premise that I am still uninformed, so I am keeping an open mind.
+
+My concerns about _CrossFit_:
 
 1.  **Injury-prone** - Highly technical moves, climbing ropes to the ceiling, and other extreme exercises seem like highly inefficient ways to target muscles. When I watch the promo videos for _CrossFit_, all I can think about is _survivorship bias_. The ones that succeed are those that didn't injure themselves or those with superior recovery skills.
 2.  **Momentum is Not Strength** - Doing something fast may feel great and provide a wonderful sense of accomplishment, but when you flip weights or hold things in a lockout position, you are taking tension off the targeted muscle. **Your joints take the beating. But you'll be 20 forever, so who cares?**
 3.  **Beat Your Body Into Shape Mentality** - I know this exists everywhere, be it _CrossFit_, spin, or _Zumba_. This idea that we need to run ourselves to complete exhaustion via extreme volume or extreme movements to become more fit is dead wrong. It would be best if you worked with your body, not against it. Do what it takes to trigger results and no more. Dr. Doug McGuff uses the elevator button analogy. Once you've hit the button, wait for the elevator. Don't keep pressing the button. That body you beat up in your 20s and 30s is the same body you'll have when you get older. Treat it well.
 4.  **The Commercialization of Extreme** - This is the main thing that most turns me off about _CrossFit_. Every few years another extreme fitness program surfaces. _P90X anyone?_ The promise of turning your lumpy weak body into an Olympic athlete with some extreme program sure sounds appealing. Sadly, they all have high failure rates. Some people will succeed in doing any program and then falsely credit whatever program they did instead of superior genetics, youth, or a good diet.
 
-![crossfit-box-jump](./img/crossfit-box-jump.jpg) _[Photo](https://flic.kr/p/egyhDj) by adrian valenzuela_ Look I understand the appeal of _CrossFit_. It looks like fun and it has a great sense of community. The people who do stick with it and don't get injured tend to be in awesome shape. I think they would be in awesome shape following most workout plans and that _CrossFit_ offers nothing superior. Almost ten years ago when I had my home gym, I went to Home Depot and bought a thick rope. With it, I constructed a setup where I could do rope pull-ups. I felt like a badass doing that exercise. That is until I lost my grip and tore a muscle in my ring finger. I was sidelined for months while it healed. During that time I couldn't close my left hand. I lost far more strength during my recovery than I ever gained doing that silly exercise. I would love for someone to explain what _CrossFit_ offers that can't be achieved in a safer, more efficient manner. Frankly, I just don't understand it.
+![crossfit-box-jump](./img/crossfit-box-jump.jpg)
+
+_[Photo](https://flic.kr/p/egyhDj) by adrian valenzuela_
+
+Look I understand the appeal of _CrossFit_. It looks like fun and it has a great sense of community. The people who do stick with it and don't get injured tend to be in awesome shape. I think they would be in awesome shape following most workout plans and that _CrossFit_ offers nothing superior.
+
+Almost ten years ago when I had my home gym, I went to Home Depot and bought a thick rope. With it, I constructed a setup where I could do rope pull-ups. I felt like a badass doing that exercise. That is until I lost my grip and tore a muscle in my ring finger. I was sidelined for months while it healed. During that time I couldn't close my left hand. I lost far more strength during my recovery than I ever gained doing that silly exercise.
+
+I would love for someone to explain what _CrossFit_ offers that can't be achieved in a safer, more efficient manner. Frankly, I just don't understand it.
 
 ---
 

@@ -9,17 +9,39 @@ description: "A year and a half ago I posted on the idea that the amino acid L-T
 commentCount: 36
 ---
 
-A year and a half ago I posted on the idea that the amino acid L-Tyrosine might be able to [reverse or delay gray hair](/2012/02/reversing-gray-hair/). L-tyrosine is used to make melanin, which gives your hair its natural color. What prompted the post was a guest article Jimmy Moore had about an upcoming podcast guest. After listening to the podcast, I sort of lost faith that the doctor knew what he was talking about. He came off as yet another carb-phobic voice reciting the same old tired script. In addition to L-Tyrosine, the other leading suspect in reversing or delaying gray hair was copper. Considering I was most likely copper deficient in 2008 and have been getting plenty of copper via both supplementation and beef liver, I started to suspect copper was the key. ![Source Naturals L-Tyrosine 500mg, 100 Tablets (Pack of 3)](https://images-na.ssl-images-amazon.com/images/I/41b-rVfOe3L.jpg) _Source Naturals L-Tyrosine 500mg, 100 Tablets (Pack of 3) (Amazon USA)_ Later in 2012, I learned from Dan Kalish that if you take L-Tyrosine daily it should be paired with 5-HTP. I covered this in detail in the post [Safe Use of 5-HTP and L-Tyrosine](/2012/07/safe-use-of-5-htp-and-l-tyrosine/). As good as L-Tyrosine made me feel, 5-HTP was a mixed bag. It started OK, but my [sleep got worse](/2013/05/thinking-about-supplements-2013-edition/) with it. I started to get concerned, so I stopped taking both supplements. That was early 2013. This summer I noticed the gray hair returning. Like it looked in 2008. Now throughout the past year, I've had copper daily either in supplements or offal. I also take selenium daily. I was starting to suspect that copper wasn't the key player. Maybe it was L-Tyrosine after all? Yesterday I got [this comment](/2012/02/reversing-gray-hair/#comment-20293) from Daniel, which confirmed my suspicion.
+A year and a half ago I posted on the idea that the amino acid L-Tyrosine might be able to [reverse or delay gray hair](/2012/02/reversing-gray-hair/). L-tyrosine is used to make melanin, which gives your hair its natural color.
+
+What prompted the post was a guest article Jimmy Moore had about an upcoming podcast guest. After listening to the podcast, I sort of lost faith that the doctor knew what he was talking about. He came off as yet another carb-phobic voice reciting the same old tired script.
+
+In addition to L-Tyrosine, the other leading suspect in reversing or delaying gray hair was copper. Considering I was most likely copper deficient in 2008 and have been getting plenty of copper via both supplementation and beef liver, I started to suspect copper was the key.
+
+![Source Naturals L-Tyrosine 500mg, 100 Tablets (Pack of 3)](https://images-na.ssl-images-amazon.com/images/I/41b-rVfOe3L.jpg) _Source Naturals L-Tyrosine 500mg, 100 Tablets (Pack of 3) (Amazon USA)_
+
+Later in 2012, I learned from Dan Kalish that if you take L-Tyrosine daily it should be paired with 5-HTP. I covered this in detail in the post [Safe Use of 5-HTP and L-Tyrosine](/2012/07/safe-use-of-5-htp-and-l-tyrosine/). As good as L-Tyrosine made me feel, 5-HTP was a mixed bag. It started OK, but my [sleep got worse](/2013/05/thinking-about-supplements-2013-edition/) with it. I started to get concerned, so I stopped taking both supplements. That was early 2013.
+
+This summer I noticed the gray hair returning. Like it looked in 2008. Now throughout the past year, I've had copper daily either in supplements or offal. I also take selenium daily. I was starting to suspect that copper wasn't the key player. Maybe it was L-Tyrosine after all?
+
+Yesterday I got [this comment](/2012/02/reversing-gray-hair/#comment-20293) from Daniel, which confirmed my suspicion.
 
 > Tyrosine is the key element in reversing gray hair. An accidental finding in imatinib receivers proved this. Imatinib is an anticancer drug, working through tyrosine kinase inhibiting. They noticed that patients on this drug regained their hair color after 6-7 months. Some of these patients were over 60! So I think that increasing tyrosine itself may also have the similar effect. By the way, spinach is a good source of tyrosine for vegs and those who dislike animal-drived proteins.
 
-Daniel goes on to say he is working professionally in hair health with reversing gray hair as one of his goals. He also recommends supplementing with selenium and zinc. ![george-clooney-gray-hair](./img/george-clooney-gray-hair.jpg) _[Photo](https://flic.kr/p/6XKRnN) by Josh Jensen_
+Daniel goes on to say he is working professionally in hair health with reversing gray hair as one of his goals. He also recommends supplementing with selenium and zinc.
+
+![george-clooney-gray-hair](./img/george-clooney-gray-hair.jpg)
+
+_[Photo](https://flic.kr/p/6XKRnN) by Josh Jensen_
 
 
 ### Now What?
 
 
-I don't care if and when my hair turns gray. Maybe consuming a nutrient-dense diet can reverse gray hair or maybe it can delay or slow down the process. Beats me. Regardless of if you care about having gray hair, being well-nourished is still a good goal. From everything I've read, minerals like selenium, zinc, and copper are probably about the safest supplements one can take. I am concerned that taking high doses of L-tyrosine daily might not be a wise idea. See the [safety post](/2012/07/safe-use-of-5-htp-and-l-tyrosine/) and watch the video for more details. If Dan Kalish is correct then messing with L-Tyrosine without 5-HTP in high doses or for extended periods might cause problems. I'd rather have gray hair than get the supplementation wrong. I already know I don't like 5-HTP, so I'll resume taking L-Tyrosine in small doses (500 mg) daily, but I'll also take every other month off. Of course, this post is not medical advice. I'm just a health hobbyist interested in learning if one amino acid can reverse gray hair. If you have your own nutritional story about graying hair, please leave a comment. UPDATE October 2015: From Danny Roddy's Facebook page: Spontaneous re-pigmentation of scalp hairs in an older gentleman.
+I don't care if and when my hair turns gray. Maybe consuming a nutrient-dense diet can reverse gray hair or maybe it can delay or slow down the process. Beats me. Regardless of if you care about having gray hair, being well-nourished is still a good goal.
+
+From everything I've read, minerals like selenium, zinc, and copper are probably about the safest supplements one can take. I am concerned that taking high doses of L-tyrosine daily might not be a wise idea. See the [safety post](/2012/07/safe-use-of-5-htp-and-l-tyrosine/) and watch the video for more details. If Dan Kalish is correct then messing with L-Tyrosine without 5-HTP in high doses or for extended periods might cause problems.
+
+I'd rather have gray hair than get the supplementation wrong. I already know I don't like 5-HTP, so I'll resume taking L-Tyrosine in small doses (500 mg) daily, but I'll also take every other month off. Of course, this post is not medical advice. I'm just a health hobbyist interested in learning if one amino acid can reverse gray hair. If you have your own nutritional story about graying hair, please leave a comment.
+
+UPDATE October 2015: From Danny Roddy's Facebook page: Spontaneous re-pigmentation of scalp hairs in an older gentleman.
 
 > Thyroid hormone and bromocriptine (an anti-prolactin drug) are two other therapies known to produce re-pigmentation in scalp hair.
 

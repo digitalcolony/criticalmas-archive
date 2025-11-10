@@ -9,7 +9,17 @@ description: "If you live in Seattle or plan on coming here for vacation, I high
 commentCount: 2
 ---
 
-If you live in Seattle or plan on coming here for vacation, I highly recommend taking the [Seattle Underground Tour](http://www.undergroundtour.com/). It is 90 minutes long and full of fun history on how the city got started. Most of my photos did not turn out, so I found some better ones from Flickr. The tour is in the Pioneer Square district. ![](http://farm1.static.flickr.com/95/239909029_76335681c1.jpg "Seattle Underground Tour VII") _Photo Seattle Underground Tour VII by Crashworks_ ![](http://farm4.static.flickr.com/3233/2890596775_391ed86bb9.jpg "tour") _Photo Bill Speidel's Underground Tour by cliff1066_ For more photos check out the [Seattle Underground gallery](http://www.flickr.com/photos/49375811@N03/galleries/72157623940745255).
+If you live in Seattle or plan on coming here for vacation, I highly recommend taking the [Seattle Underground Tour](http://www.undergroundtour.com/). It is 90 minutes long and full of fun history on how the city got started. Most of my photos did not turn out, so I found some better ones from Flickr. The tour is in the Pioneer Square district.
+
+![](http://farm1.static.flickr.com/95/239909029_76335681c1.jpg "Seattle Underground Tour VII")
+
+_Photo Seattle Underground Tour VII by Crashworks_
+
+![](http://farm4.static.flickr.com/3233/2890596775_391ed86bb9.jpg "tour")
+
+_Photo Bill Speidel's Underground Tour by cliff1066_
+
+For more photos check out the [Seattle Underground gallery](http://www.flickr.com/photos/49375811@N03/galleries/72157623940745255).
 
 ---
 

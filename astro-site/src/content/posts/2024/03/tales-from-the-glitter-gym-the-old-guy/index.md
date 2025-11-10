@@ -9,7 +9,23 @@ description: "It has been 13 years since I retired my Tales From the Glitter Gym
 commentCount: 22
 ---
 
-It has been [13 years](/2011/01/tales-from-the-glitter-gym-the-end/) since I retired my Tales From the Glitter Gym series. I wasn't planning on adding any future editions, but I need to add at least one more. Let's meet The Old Guy. There is this old guy that comes to my gym in the 5 AM hour. No matter what the weather is, he comes in wearing shorts with a thin tank top. It could be below freezing. It doesn't matter. No coat, jacket, or hoodie. The employee that opens our gym in the morning, goes directly into an office and goes to sleep. To not disturb himself, he turns the music down so low that one can barely hear it. It is quieter in my gym at this hour than a library. This doesn't bother the old guy. He doesn't even wear headphones. He lifts in silence. Between sets, he never checks his phone. He may not even have a phone. The old guy is fit. He might be one of the leanest guys in the gym, but he isn't jacked. He doesn't lift much weight. Lots of machines with slower reps. He doesn't stay long either. Maybe 20 minutes. I don't think he even breaks a sweat. If you haven't guessed it yet. I am the old guy. I survived. I traded bro-lifting for safer exercises. I didn't need to feed my ego with more personal bests. I'm the last Gen-Xer left in the free-weight room. Now the elder Millenials are gone. All those guys who got jacked slamming heavy squats, deadlifts, and bench presses went missing after they turned 40. I wonder where they went. ![](./img/dumbbells.jpg)
+It has been [13 years](/2011/01/tales-from-the-glitter-gym-the-end/) since I retired my Tales From the Glitter Gym series. I wasn't planning on adding any future editions, but I need to add at least one more.
+
+Let's meet The Old Guy.
+
+There is this old guy that comes to my gym in the 5 AM hour. No matter what the weather is, he comes in wearing shorts with a thin tank top. It could be below freezing. It doesn't matter. No coat, jacket, or hoodie.
+
+The employee that opens our gym in the morning, goes directly into an office and goes to sleep. To not disturb himself, he turns the music down so low that one can barely hear it. It is quieter in my gym at this hour than a library. This doesn't bother the old guy. He doesn't even wear headphones. He lifts in silence.
+
+Between sets, he never checks his phone. He may not even have a phone.
+
+The old guy is fit. He might be one of the leanest guys in the gym, but he isn't jacked. He doesn't lift much weight. Lots of machines with slower reps. He doesn't stay long either. Maybe 20 minutes. I don't think he even breaks a sweat.
+
+If you haven't guessed it yet. I am the old guy. I survived. I traded bro-lifting for safer exercises. I didn't need to feed my ego with more personal bests. I'm the last Gen-Xer left in the free-weight room. Now the elder Millenials are gone. All those guys who got jacked slamming heavy squats, deadlifts, and bench presses went missing after they turned 40.
+
+I wonder where they went.
+
+![](./img/dumbbells.jpg)
 
 ---
 

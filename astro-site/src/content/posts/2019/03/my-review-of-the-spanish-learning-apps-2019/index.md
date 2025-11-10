@@ -20,24 +20,32 @@ Duolingo is where you start. It is fun and easy to get started. The app has cont
 -   Duolingo has streaks.
 -   Duolingo lets you build clubs and the person with the most points in your club wins the week.
 
-I win most of the weeks in my Spanish Club and my current streak is at 1205 days. I use the FREE version of the app. ![](./img/duolingo.jpg)
+I win most of the weeks in my Spanish Club and my current streak is at 1205 days. I use the FREE version of the app.
+
+![](./img/duolingo.jpg)
 
 
 ### ✅ Memrise
 
 
-Memrise is the king when it comes to vocabulary. I have learned so many words thanks to Memrise. I started using Memrise shortly after I found Duolingo. For one year, I had the PRO paid version, but I went back to the FREE version after their support staff ignored a few bug reports I made. _Side note: When a software developer sends you a detailed bug report, cherish it. Thank them. Don't ignore them. Especially if they are a paying customer._ 
+Memrise is the king when it comes to vocabulary. I have learned so many words thanks to Memrise. I started using Memrise shortly after I found Duolingo. For one year, I had the PRO paid version, but I went back to the FREE version after their support staff ignored a few bug reports I made.
+
+_Side note: When a software developer sends you a detailed bug report, cherish it. Thank them. Don't ignore them. Especially if they are a paying customer._ 
 
 -   Memrise has streaks, but the streaks are based on the course and not the app. So once you complete a course and start a new one, you lose your streak. On the web site (PRO) you can see a heatmap of your last 365 days, which doesn't help me since I estimate my streak is somewhere between 1300 and 1400 days.
 -   You can also add friends on Memrise and compete. However, unlike Duolingo, Memrise doesn't tell you who won a week or a month. You have to be there at the exact moment the week or month rolls over taking a screenshot.
 
-Despite my issues, I highly recommend getting the FREE version of Memrise for building your vocabulary. If you have a suggestion or bug report, keep it to yourself. They do not care. Memrise is better than Tinycards, which is Duolingo's flashcard vocabulary building app. Tinycards might be a good program for children, but you won't learn near the volume of words that you will with Memrise.
+Despite my issues, I highly recommend getting the FREE version of Memrise for building your vocabulary. If you have a suggestion or bug report, keep it to yourself. They do not care.
+
+Memrise is better than Tinycards, which is Duolingo's flashcard vocabulary building app. Tinycards might be a good program for children, but you won't learn near the volume of words that you will with Memrise.
 
 
 ### ✅ SpanishDict
 
 
-I use the SpanishDict app every day. This dictionary is a paid app. Totally worth it. You learn the meanings of a word with examples and pronunciation. If the word is a verb, the conjugation is included. Irregular verbs have the irregular portion of the stems in a red font. ![spanish Dict](./img/spanishDict.jpg)
+I use the SpanishDict app every day. This dictionary is a paid app. Totally worth it. You learn the meanings of a word with examples and pronunciation. If the word is a verb, the conjugation is included. Irregular verbs have the irregular portion of the stems in a red font.
+
+![spanish Dict](./img/spanishDict.jpg)
 
 
 ### ✅ Clozemaster
@@ -48,7 +56,9 @@ This is an outstanding program. They take a sentence and remove a word. You ente
 -   They have streaks. I'm at 274. I haven't missed a day since I installed it.
 -   You can follow friends and other people to see the weekly and all-time scores.
 
-I don't think Clozemaster is ideal for beginners. Once you have learned enough of the basics on Duolingo and Memrise, install it. ![clozemaster](./img/clozemaster.jpg)
+I don't think Clozemaster is ideal for beginners. Once you have learned enough of the basics on Duolingo and Memrise, install it.
+
+![clozemaster](./img/clozemaster.jpg)
 
 
 ### ✅ Google Translate
@@ -66,7 +76,9 @@ If you need to focus on verb conjugation, look to Conjuu - Spanish Conjugation. 
 ### 🤷‍♂️ Other Apps?
 
 
-I've tried a lot of other Spanish apps. Most failed to make an impression with me. I won't name names. What I dislike might be the perfect app for someone else. Plus, many of these apps are improving all the time, so what didn't click with me before, might be better now. **UPDATE:** I forgot to include BBC Mundo. It is the Spanish version of the BBC News site. This will help you improve your Spanish reading skill. There is a section for Health, Technology, and Economics, which are my interests.
+I've tried a lot of other Spanish apps. Most failed to make an impression with me. I won't name names. What I dislike might be the perfect app for someone else. Plus, many of these apps are improving all the time, so what didn't click with me before, might be better now.
+
+**UPDATE:** I forgot to include BBC Mundo. It is the Spanish version of the BBC News site. This will help you improve your Spanish reading skill. There is a section for Health, Technology, and Economics, which are my interests.
 
 ---
 

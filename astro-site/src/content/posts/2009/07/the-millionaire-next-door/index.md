@@ -9,9 +9,17 @@ description: "I was going through posts on my old blog and uncovered this financ
 commentCount: 1
 ---
 
-I was going through posts on my old blog and uncovered this financial book review. It was written in October 2004, which was a time when using leverage to flip condos was cool, and saving money was boring. Boy have times changed. ![The Millionaire Next Door](https://images-na.ssl-images-amazon.com/images/I/51DcXZueQGL.jpg) _The Millionaire Next Door is by Thomas J. Stanley._ From October 2004:
+I was going through posts on my old blog and uncovered this financial book review. It was written in October 2004, which was a time when using leverage to flip condos was cool, and saving money was boring. Boy have times changed.
 
-> I just finished reading the book _The Millionaire Next Door_. The core lesson is to be frugal. This is the classic case of preaching to the choir. I'm so frugal that I didn't buy this book when it was first released in 1996. Instead I waited until the used price dropped to the $3 range. Waiting 8 years to save $17 -- that's frugal! For the most part I think it's a little long-winded, but it's got some valuable lessons. **The primary one is wealth comes from saving money and being frugal. Often those that live the** _**rich lifestyle**_ **don't save money and have lower net worths.** Who should read this book? If you are in a profession with a high income (over 100K), such a doctor, you should read this book. The other group that should read this book is wealthy couples with children. The book provides advice on how to be a good high-income parent and mistakes often made by wealthy families when raising children.
+![The Millionaire Next Door](https://images-na.ssl-images-amazon.com/images/I/51DcXZueQGL.jpg) _The Millionaire Next Door is by Thomas J. Stanley._
+
+From October 2004:
+
+> I just finished reading the book _The Millionaire Next Door_. The core lesson is to be frugal. This is the classic case of preaching to the choir. I'm so frugal that I didn't buy this book when it was first released in 1996. Instead I waited until the used price dropped to the $3 range. Waiting 8 years to save $17 -- that's frugal!
+> 
+> For the most part I think it's a little long-winded, but it's got some valuable lessons. **The primary one is wealth comes from saving money and being frugal. Often those that live the** _**rich lifestyle**_ **don't save money and have lower net worths.**
+> 
+> Who should read this book? If you are in a profession with a high income (over 100K), such a doctor, you should read this book. The other group that should read this book is wealthy couples with children. The book provides advice on how to be a good high-income parent and mistakes often made by wealthy families when raising children.
 
 We now are learning that the _rich lifestyle_ was fake. It was all demand pulled forward with massive amounts of debt. Now the bill is due. I'm glad I read this book back in 2004.
 

@@ -15,7 +15,15 @@ Readers of this site already know that I dislike the bench press. After benching
 ### The Bench Press is a Skill Movement
 
 
-In the [Fat Burning Man podcast episode with James Clear](http://www.fatburningman.com/james-clear-intermittent-fasting/), host Abel James dissed machine-based weight training. He explained that when he returned to the bench press he found he couldn't lift as much weight. He came to the false conclusion that Nautilus was therefore ineffective for building strength. No. Nautilus is perfectly fine for developing strength. What it is not good for is developing the skill of bench pressing. The bench press is a highly skilled movement. Yes, there is a strength component, but doing a perfect bench press repetition takes practice. **When you stop bench pressing, you stop training that skill. When you return to the bench press, your numbers will be lower.** That doesn't necessarily mean you've lost strength. It just means the skill portion of that lift is rusty. Usually, your numbers return quickly if you continue to practice. His guest James Clear used a single exercise protocol to do just that. To demonstrate just how much skill is a factor, I'll provide an example of the opposite. After a decade of bench pressing, I was able to increase my bench by 30 pounds in a single week. Did I gain 30 pounds of strength? No. I read a well-written article about elbow position for tall lifters. After reading the article, I went to the gym and tested it out. **My SKILL in the bench press went up by 30 pounds. My strength was the same.**  The beauty of Nautilus or other machine-based equipment is they remove the need to learn a skill to perform a safe repetition. The user can focus 100% on building strength. Machines get a bad repetition for two reasons. First, people move the weight too fast. This is what [Arthur Jones](https://en.wikipedia.org/wiki/Arthur_Jones_\(inventor\)) called "throwing weights". Second, lifters equate the machine movement with the free weight exercise and because the machine is easier at the same weight, it is perceived as being less effective. The reality is they are different exercises and should be treated as such. Since giving up the bench press over two years ago, my chest strength is greater, but if I tried to perform a bench press today that number would likely be lower. Two separate things. I no longer need to hold onto a number to quantify my strength. It is quite liberating.
+In the [Fat Burning Man podcast episode with James Clear](http://www.fatburningman.com/james-clear-intermittent-fasting/), host Abel James dissed machine-based weight training. He explained that when he returned to the bench press he found he couldn't lift as much weight. He came to the false conclusion that Nautilus was therefore ineffective for building strength. No. Nautilus is perfectly fine for developing strength. What it is not good for is developing the skill of bench pressing.
+
+The bench press is a highly skilled movement. Yes, there is a strength component, but doing a perfect bench press repetition takes practice. **When you stop bench pressing, you stop training that skill. When you return to the bench press, your numbers will be lower.** That doesn't necessarily mean you've lost strength. It just means the skill portion of that lift is rusty. Usually, your numbers return quickly if you continue to practice. His guest James Clear used a single exercise protocol to do just that.
+
+To demonstrate just how much skill is a factor, I'll provide an example of the opposite. After a decade of bench pressing, I was able to increase my bench by 30 pounds in a single week. Did I gain 30 pounds of strength? No. I read a well-written article about elbow position for tall lifters. After reading the article, I went to the gym and tested it out. **My SKILL in the bench press went up by 30 pounds. My strength was the same.** 
+
+The beauty of Nautilus or other machine-based equipment is they remove the need to learn a skill to perform a safe repetition. The user can focus 100% on building strength. Machines get a bad repetition for two reasons. First, people move the weight too fast. This is what [Arthur Jones](https://en.wikipedia.org/wiki/Arthur_Jones_\(inventor\)) called "throwing weights". Second, lifters equate the machine movement with the free weight exercise and because the machine is easier at the same weight, it is perceived as being less effective. The reality is they are different exercises and should be treated as such.
+
+Since giving up the bench press over two years ago, my chest strength is greater, but if I tried to perform a bench press today that number would likely be lower. Two separate things. I no longer need to hold onto a number to quantify my strength. It is quite liberating.
 
 
 ### ![](./img/bench-press.jpg)
@@ -27,7 +35,11 @@ In the [Fat Burning Man podcast episode with James Clear](http://www.fatburning
 
 I just received [this comment](/2011/11/my-bench-press-sucks-and-i-dont-care/#comment-18498) on my Bench post from Mike.
 
-> No risk… no big reward. Use the machine or don’t do bench… then you’ll never see your true potential. The bench has risks yes. Don’t do it if it scares you. I've benched for 30 years and I love it. I've also had many injuries and even shoulder surgeries. I’ll never stop until I can’t do it. It the same with squats and other exercises. Life is adventure live it up… or stay safe.
+> No risk… no big reward. Use the machine or don’t do bench… then you’ll never see your true potential.
+> 
+> The bench has risks yes. Don’t do it if it scares you. I've benched for 30 years and I love it. I've also had many injuries and even shoulder surgeries. I’ll never stop until I can’t do it. It the same with squats and other exercises.
+> 
+> Life is adventure live it up… or stay safe.
 
 This is the kind of bravado nonsense that causes so many injuries in the gym. Mike isn't alone. There are a lot of successful lifters who feel the same way he does. Let me dissect this pro-bench argument point by point.
 
@@ -39,7 +51,9 @@ This is the kind of bravado nonsense that causes so many injuries in the gym. Mi
 
 I'd like to end this post with two of my favorite quotes.
 
-> I've learned more by not following bad examples than by following good examples. – Paulo Coelho You study other men and you find out what makes them weak and then you don’t do that. - Jay Leno
+> I've learned more by not following bad examples than by following good examples. – Paulo Coelho
+> 
+> You study other men and you find out what makes them weak and then you don’t do that. - Jay Leno
 
 The way to win in the gym is to not lose. Don't confuse skill with strength and respect risk. By the way, this article was about the bench press but it applies to the [squat](/2012/06/i-no-longer-give-a-squat-about-the-squat/) and deadlift as well.
 

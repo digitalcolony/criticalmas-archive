@@ -9,7 +9,9 @@ description: "I took this photo today at the Seattle's Olympic Sculpture Park. T
 commentCount: 1
 ---
 
-I took this photo today at the Seattle's Olympic Sculpture Park. The art piece is a stainless steel tree called _Split_. ![metal-tree-sculpture-park](./img/metal-tree-sculpture-park.jpg)
+I took this photo today at the Seattle's Olympic Sculpture Park. The art piece is a stainless steel tree called _Split_.
+
+![metal-tree-sculpture-park](./img/metal-tree-sculpture-park.jpg)
 
 ---
 

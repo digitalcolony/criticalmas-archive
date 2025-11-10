@@ -9,7 +9,17 @@ description: "Going from a regular diet to paleo in one move is going to be hard
 commentCount: 4
 ---
 
-Going from a regular diet to paleo in one move is going to be hard for most people. Especially those without a track record of dietary success. If you've been reluctant to embrace a paleo diet because it looks too hard or seems too weird, I'm going to let you in on a secret. **Most of the benefit of the paleo diet comes from removing sugar and grains.** And that may be enough for most dieters. People understand that sugar is to be avoided, but can't imagine life without grains. In the post [Where the Paleo Message is Failing](/2010/08/where-the-paleo-message-is-failing/), I divided up which groups are receptive to the paleo diet and which aren't. My experience is that most people are turned off by the diet. Even I have my doubts about some elements of the diet. However, I am convinced of the power of removing grains and drastically cutting down the sugar. The hardest step for most people will be removing grains, primarily gluten. In my opinion, changing cooking oils, sourcing grass pastured meat or altering an exercise program are all irrelevant if the person still embraces grain. ![pocket-quiche](./img/pocket-quiche.jpg) _Slowly and systematically removing grains from each meal. Photo: Crust-free pocket quiche._ The majority of paleo experts I've read take a cold turkey approach to removing grains. They say it is more successful with their clients. Maybe it is, but there are other paths to success. I gradually removed bread and pasta over the course of a year. I've now gone over one year without any gluten. I lost 20 pounds and kept it all off. I've never had to give up dairy and I don't wear Vibram shoes
+Going from a regular diet to paleo in one move is going to be hard for most people. Especially those without a track record of dietary success. If you've been reluctant to embrace a paleo diet because it looks too hard or seems too weird, I'm going to let you in on a secret. **Most of the benefit of the paleo diet comes from removing sugar and grains.** And that may be enough for most dieters. People understand that sugar is to be avoided, but can't imagine life without grains.
+
+In the post [Where the Paleo Message is Failing](/2010/08/where-the-paleo-message-is-failing/), I divided up which groups are receptive to the paleo diet and which aren't. My experience is that most people are turned off by the diet. Even I have my doubts about some elements of the diet. However, I am convinced of the power of removing grains and drastically cutting down the sugar.
+
+The hardest step for most people will be removing grains, primarily gluten. In my opinion, changing cooking oils, sourcing grass pastured meat or altering an exercise program are all irrelevant if the person still embraces grain.
+
+![pocket-quiche](./img/pocket-quiche.jpg)
+
+_Slowly and systematically removing grains from each meal. Photo: Crust-free pocket quiche._
+
+The majority of paleo experts I've read take a cold turkey approach to removing grains. They say it is more successful with their clients. Maybe it is, but there are other paths to success. I gradually removed bread and pasta over the course of a year. I've now gone over one year without any gluten. I lost 20 pounds and kept it all off. I've never had to give up dairy and I don't wear Vibram shoes
 
 ---
 

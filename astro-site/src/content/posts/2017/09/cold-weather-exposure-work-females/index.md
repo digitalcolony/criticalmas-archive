@@ -9,12 +9,24 @@ description: "I have a question for my readers that I can't answer. As many of y
 commentCount: 2
 ---
 
-I have a question for my readers that I can't answer. As many of you know, I have several articles on the topic of cold exposure. This is something I began experimenting with almost a decade ago. I wanted to widen my comfort zone, which after living in San Diego for 7 years had become quite narrow. You can go through my [Cold Weather Exposure](https://criticalmas.org/best-of/cold-weather-training/) articles to see my journey. The steps I took to toughen up against colder temperatures absolutely worked for me, but I'm less certain the advice will work for women. Although women on average have more body fat, they also have less muscle. And if my understanding on this topic is correct, it is muscle that generates the most heat. This [article](http://abcnews.go.com/GMA/story?id=8245772&page=1) on ABC News lists a few more ideas:
+I have a question for my readers that I can't answer. As many of you know, I have several articles on the topic of cold exposure. This is something I began experimenting with almost a decade ago. I wanted to widen my comfort zone, which after living in San Diego for 7 years had become quite narrow.
+
+You can go through my [Cold Weather Exposure](https://criticalmas.org/best-of/cold-weather-training/) articles to see my journey. The steps I took to toughen up against colder temperatures absolutely worked for me, but I'm less certain the advice will work for women.
+
+Although women on average have more body fat, they also have less muscle. And if my understanding on this topic is correct, it is muscle that generates the most heat.
+
+This [article](http://abcnews.go.com/GMA/story?id=8245772&page=1) on ABC News lists a few more ideas:
 
 -   Women have blood vessels closer to the skin, which makes their body temperature cooler than men.
 -   Women are more likely to have low blood pressure. Reduced circulation can result in feeling chilly.
 
-If you are a woman or know a woman that has tried to expand their cold temperature comfort zone, please leave a comment. I'd love to know how successful the experiment went. Include approx age and body type as well. I'd hate to recommend my protocol to women if there is little chance it will work for them. ![ice cold](./img/dion-tavenier-640.jpg) _Photo by_ _Dion Tavenier_
+If you are a woman or know a woman that has tried to expand their cold temperature comfort zone, please leave a comment. I'd love to know how successful the experiment went. Include approx age and body type as well.
+
+I'd hate to recommend my protocol to women if there is little chance it will work for them.
+
+![ice cold](./img/dion-tavenier-640.jpg)
+
+_Photo by_ _Dion Tavenier_
 
 ---
 

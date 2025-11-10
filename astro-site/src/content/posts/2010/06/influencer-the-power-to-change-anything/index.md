@@ -9,7 +9,9 @@ description: "I was interested in learning more about influence. This title jump
 commentCount: 3
 ---
 
-I was interested in learning more about influence. This title jumped out at me. ![Influencer : The Power to Change Anything](https://images-na.ssl-images-amazon.com/images/I/41nTYDX7XFL.jpg) Influencer : The Power to Change Anything by Kerry Patterson and 4 other authors is full of stories on how groups and organizations can influence change. They break down their strategies into six sources of influence.
+I was interested in learning more about influence. This title jumped out at me.
+
+![Influencer : The Power to Change Anything](https://images-na.ssl-images-amazon.com/images/I/41nTYDX7XFL.jpg) Influencer : The Power to Change Anything by Kerry Patterson and 4 other authors is full of stories on how groups and organizations can influence change. They break down their strategies into six sources of influence.
 
 1.  Make the Undesirable Desirable - Personal Motivation
 2.  Surpass Your Limits - Personal Ability
@@ -18,7 +20,9 @@ I was interested in learning more about influence. This title jumped out at me. 
 5.  Design Rewards and Demand Accountability - Structural Motivation
 6.  Change the Environment - Structural Ability
 
-Most of the book was interesting, but not that applicable to my life. If I were a manager, director or higher in a company, I think I'd appreciate this book more. The one lesson I took away from this book was the importance of stories. Combining lessons and values into stories have a more powerful effect on influence than telling people what they should do. If you really dig stories on when influence works and doesn't work, check out _Influencer_. If you are more like me, just read Chapter 3.
+Most of the book was interesting, but not that applicable to my life. If I were a manager, director or higher in a company, I think I'd appreciate this book more. The one lesson I took away from this book was the importance of stories. Combining lessons and values into stories have a more powerful effect on influence than telling people what they should do.
+
+If you really dig stories on when influence works and doesn't work, check out _Influencer_. If you are more like me, just read Chapter 3.
 
 ---
 

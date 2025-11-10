@@ -9,7 +9,15 @@ description: "I recently saw a thread on a Paleo forum that was discussing my 20
 commentCount: 11
 ---
 
-I recently saw a thread on a Paleo forum that was discussing my 2012 post [Why Ice Cream is Better Than Protein Powder](/2012/07/why-ice-cream-is-better-than-protein-powder/). I won't link to it, because the parent site uses pop-up newsletter forms on every page. I'm getting real tired of sites that are hell-bent on building their email lists and could care less about annoying their readers, many of which probably have already signed up for their damn newsletter. Back to the ice cream discussion. My case for ice cream was convincing to the Primal forum. Good! But the thread was less convinced that protein powder could thwart their goal of gaining muscle. The consensus was to have both ice cream and protein powder. I disagree with their conclusion. In almost every discussion regarding nutrition and building muscle, there is this blind assumption that one must eat high levels of protein to gain muscle. This is not true. Read [Matt Stone](https://web.archive.org/web/20210128091453/https://180degreehealth.com/how-much-protein-do-you-need-to-build-muscle/). Read Brad Pilon. This is the message the sports supplement sellers have been hammering away for decades telling us. You are being punked. ![your-protein-is-too-damn-high](./img/your-protein-is-too-damn-high.jpg) Protein lowers appetite. This is great for dieting, but if you are trying to gain muscle weight, what you want more than anything is calories. The reason for ice cream is it is a high-calorie nutritious food that you can easily eat past satiety. All the protein powder is going to do is reduce appetite. The last thing you want is for the ice cream to displace other sources of nutrition. You want to eat your normal healthy diet plus ice cream for the needed calories to be caloric surplus.
+I recently saw a thread on a Paleo forum that was discussing my 2012 post [Why Ice Cream is Better Than Protein Powder](/2012/07/why-ice-cream-is-better-than-protein-powder/). I won't link to it, because the parent site uses pop-up newsletter forms on every page. I'm getting real tired of sites that are hell-bent on building their email lists and could care less about annoying their readers, many of which probably have already signed up for their damn newsletter.
+
+Back to the ice cream discussion. My case for ice cream was convincing to the Primal forum. Good! But the thread was less convinced that protein powder could thwart their goal of gaining muscle. The consensus was to have both ice cream and protein powder. I disagree with their conclusion.
+
+In almost every discussion regarding nutrition and building muscle, there is this blind assumption that one must eat high levels of protein to gain muscle. This is not true. Read [Matt Stone](https://web.archive.org/web/20210128091453/https://180degreehealth.com/how-much-protein-do-you-need-to-build-muscle/). Read Brad Pilon. This is the message the sports supplement sellers have been hammering away for decades telling us. You are being punked.
+
+![your-protein-is-too-damn-high](./img/your-protein-is-too-damn-high.jpg)
+
+Protein lowers appetite. This is great for dieting, but if you are trying to gain muscle weight, what you want more than anything is calories. The reason for ice cream is it is a high-calorie nutritious food that you can easily eat past satiety. All the protein powder is going to do is reduce appetite. The last thing you want is for the ice cream to displace other sources of nutrition. You want to eat your normal healthy diet plus ice cream for the needed calories to be caloric surplus.
 
 
 ### Wasted Money
@@ -25,7 +33,13 @@ With that kind of money, I could have bought a lot of cool kitchen gear, which w
 ### Dirty Ice Cream
 
 
-The other angle people get hung up on is the cleanliness of ice cream. Those eating a squeaky clean diet that breaks into a cold sweat reading the ingredient list for many ice creams have two choices. Buy a basic vanilla as they tend to have the fewest ingredients. Your second choice is to make your ice cream and source your own ingredients. This summer I made some coffee ice cream with a $50 Cuisinart and shared that tutorial on INeedCoffee. See [Homemade Coffee Ice Cream – A Delicious and Healthy Alternative to the Store](https://ineedcoffee.com/homemade-coffee-ice-cream-recipe/). ![ice-cream-truck](./img/ice-cream-truck.jpg) _[Photo](https://flic.kr/p/cw4UiE) by State Library of Victoria. Look at the side of the truck. Ice Cream is "The Health food of a Nation!"_ 
+The other angle people get hung up on is the cleanliness of ice cream. Those eating a squeaky clean diet that breaks into a cold sweat reading the ingredient list for many ice creams have two choices. Buy a basic vanilla as they tend to have the fewest ingredients.
+
+Your second choice is to make your ice cream and source your own ingredients. This summer I made some coffee ice cream with a $50 Cuisinart and shared that tutorial on INeedCoffee. See [Homemade Coffee Ice Cream – A Delicious and Healthy Alternative to the Store](https://ineedcoffee.com/homemade-coffee-ice-cream-recipe/).
+
+![ice-cream-truck](./img/ice-cream-truck.jpg)
+
+_[Photo](https://flic.kr/p/cw4UiE) by State Library of Victoria. Look at the side of the truck. Ice Cream is "The Health food of a Nation!"_ 
 
 
 ### Not For Everyone
@@ -35,7 +49,9 @@ Finally, the critics that say they would get fat eating ice cream must not have 
 
 > I want to define the audience for this post. It is for male ectomorphs that are already lean wishing to gain additional muscle. Younger males and those with less training experience will benefit even more. It is also not for ectomorphs with a gut.
 
-Even if we aren't this person, we all know someone like this person. Super lean, exercising all the time, and can't make gains. My advice is to put down the protein powder and pick up the ice cream. Give it a try. If it doesn't work, at least you know. I know this post will be misread by many. So let me summarize. Calories are more important than grams of protein when it comes to building muscle. Many lanky men have trouble eating enough calories to gain muscle. Protein powders are not helping them. Ice cream is a better tool.
+Even if we aren't this person, we all know someone like this person. Super lean, exercising all the time, and can't make gains. My advice is to put down the protein powder and pick up the ice cream. Give it a try. If it doesn't work, at least you know.
+
+I know this post will be misread by many. So let me summarize. Calories are more important than grams of protein when it comes to building muscle. Many lanky men have trouble eating enough calories to gain muscle. Protein powders are not helping them. Ice cream is a better tool.
 
 ---
 

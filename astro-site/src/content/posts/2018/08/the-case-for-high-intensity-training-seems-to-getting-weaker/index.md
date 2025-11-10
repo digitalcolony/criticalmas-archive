@@ -9,7 +9,13 @@ description: "This post is what I hope to be the start of a conversation. I have
 commentCount: 18
 ---
 
-_This post is what I hope to be the start of a conversation. I haven't made up my mind on this topic yet._ Before I share some things I've learned recently, I'll give a little background on the topic. I first experienced true High-Intensity Training in February 2011 at Ideal Exercise here in Seattle. You can read [that post](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) if you want to know how HIT differs from other forms of strength training. I quickly became a convert to this style of lifting. You can see that from the numerous posts and comments I have on this blog. For me, HIT offered a path to strength that greatly reduced the risk of injury. There are many ways to get strong, but up until this point, the standard advice was to just use proper form and you won't get injured. I knew this advice was nonsense as form suffers under fatigue. Also, we as humans can use less than perfect judgment when we lift. My love for HIT wasn't that it was superior to other forms of training on a week-to-week basis, but that on a long time horizon (years and decades), other forms of training that were less safe would "thin the herd" via injuries. Those injuries would become more pronounced as the weight got heavier and the lifter got older.
+_This post is what I hope to be the start of a conversation. I haven't made up my mind on this topic yet._
+
+Before I share some things I've learned recently, I'll give a little background on the topic. I first experienced true High-Intensity Training in February 2011 at Ideal Exercise here in Seattle. You can read [that post](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) if you want to know how HIT differs from other forms of strength training.
+
+I quickly became a convert to this style of lifting. You can see that from the numerous posts and comments I have on this blog. For me, HIT offered a path to strength that greatly reduced the risk of injury. There are many ways to get strong, but up until this point, the standard advice was to just use proper form and you won't get injured. I knew this advice was nonsense as form suffers under fatigue. Also, we as humans can use less than perfect judgment when we lift.
+
+My love for HIT wasn't that it was superior to other forms of training on a week-to-week basis, but that on a long time horizon (years and decades), other forms of training that were less safe would "thin the herd" via injuries. Those injuries would become more pronounced as the weight got heavier and the lifter got older.
 
 
 ### My Understanding of HIT Principles
@@ -28,25 +34,49 @@ Those four principles help guide the design of a HIT workout.
 ### I Drifted Away From HIT By Accident
 
 
-When I worked out at Ideal Exercise in 2011, the gym was a crisp 61 F. This is the same temperature that Doug McGuff, author of Body By Science, keeps his gym at. My guess is Ellington Darden does as well. The reason for this crisp temperature is the body can direct all its energy onto the intensity of the lift and not to cool the body. For an understanding of this topic, think about city marathons. Most cities schedule their marathon when they think the weather will be in the 50s F. At this temperature, the elite runners don't need to slow their pace to avoid overheating. The goal of the city is not to hold the race for the comfort of the spectators or the middle-of-the-pack runners, but to increase the probability that a speed record is set on the course. Well, weightlifting generates heat also. I stopped going to failure, not because I didn't believe in the principle, but because the commercial gyms (aka Glitter Gyms) I go to keep temperature too high for me. Around 68-70 F. I get exertion headaches and then have to leave the gym. That sucks. So I backed off the intensity and increased the volume. So instead of 1 set to failure done every  5-7 days, I opted for 2 sets not taken to failure done every 3 days, but still using the controlled movements that I learned from HIT.
+When I worked out at Ideal Exercise in 2011, the gym was a crisp 61 F. This is the same temperature that Doug McGuff, author of Body By Science, keeps his gym at. My guess is Ellington Darden does as well. The reason for this crisp temperature is the body can direct all its energy onto the intensity of the lift and not to cool the body.
+
+For an understanding of this topic, think about city marathons. Most cities schedule their marathon when they think the weather will be in the 50s F. At this temperature, the elite runners don't need to slow their pace to avoid overheating. The goal of the city is not to hold the race for the comfort of the spectators or the middle-of-the-pack runners, but to increase the probability that a speed record is set on the course.
+
+Well, weightlifting generates heat also. I stopped going to failure, not because I didn't believe in the principle, but because the commercial gyms (aka Glitter Gyms) I go to keep temperature too high for me. Around 68-70 F. I get exertion headaches and then have to leave the gym. That sucks.
+
+So I backed off the intensity and increased the volume. So instead of 1 set to failure done every  5-7 days, I opted for 2 sets not taken to failure done every 3 days, but still using the controlled movements that I learned from HIT.
 
 
 ### Is Muscle Damage Needed For Hypertrophy?
 
 
-Since Day 1 of lifting, we are taught the lesson that muscle grows bigger as a response to the damage incurred during lifting. It is an assumption we all carry. And it may not be true. In fact, after listening to this podcast, I don't believe it is necessary. [SNR #239: Carl Juneau, PhD – Does Muscle Damage Actually Cause Hypertrophy?](http://sigmanutrition.com/episode239/) The show discusses the article [Training for Hypertrophy: The Case Against Muscle Damage](https://www.strongerbyscience.com/muscle-damage/). It is a fascinating topic for anyone that lifts weights. Listen to the show and read the article. The short version is mechanical tension and metabolic stress are likely more important than muscle damage for hypertrophy. If this is true, the HIT case for going to failure just got a lot weaker.
+Since Day 1 of lifting, we are taught the lesson that muscle grows bigger as a response to the damage incurred during lifting. It is an assumption we all carry. And it may not be true. In fact, after listening to this podcast, I don't believe it is necessary.
+
+[SNR #239: Carl Juneau, PhD – Does Muscle Damage Actually Cause Hypertrophy?](http://sigmanutrition.com/episode239/)
+
+The show discusses the article [Training for Hypertrophy: The Case Against Muscle Damage](https://www.strongerbyscience.com/muscle-damage/). It is a fascinating topic for anyone that lifts weights. Listen to the show and read the article. The short version is mechanical tension and metabolic stress are likely more important than muscle damage for hypertrophy.
+
+If this is true, the HIT case for going to failure just got a lot weaker.
 
 
 ### Is Volume the Key?
 
 
-Another great show that I listened to recently pairs nicely with this topic was James Krieger on Super Human Radio. [Super Human Radio 2222 The Exertion Load Theory](https://overcast.fm/+Jo9bsaDWw) My take away from this hour is that if I want to gain more muscle, 1-2 sets isn't optimal. I need more. Granted a HIT set can't really be measured the same as a traditional set, because the movements are more controlled and tension remains focused on the muscle. Still, I have already started adding sets slowly, as I ease into a more volume approach.
+Another great show that I listened to recently pairs nicely with this topic was James Krieger on Super Human Radio.
+
+[Super Human Radio 2222 The Exertion Load Theory](https://overcast.fm/+Jo9bsaDWw)
+
+My take away from this hour is that if I want to gain more muscle, 1-2 sets isn't optimal. I need more. Granted a HIT set can't really be measured the same as a traditional set, because the movements are more controlled and tension remains focused on the muscle. Still, I have already started adding sets slowly, as I ease into a more volume approach.
 
 
 ### Merging HIT Lessons With Recent Science
 
 
-If we go back to the 4 principles I outlined above, I still see tremendous value in picking exercises that have a lower skill component where movement can be controlled in a slower manner. However, if I know I'm going to be doing more volume, I can reduce the weight of some free-weight moves and perform them at a normal tempo. Although for safety reasons, I'm still not interested in barbell back squats or doing any max lifts. I am doing benches with medium light dumbbells and trap-bar deadlifts with a more-than-safe weight. I can use a slower movement for the dumbbells to increase tension and more reps for that deadlift to shoot for volume. Your thoughts? ![leg press](./img/leg-press.jpg)
+If we go back to the 4 principles I outlined above, I still see tremendous value in picking exercises that have a lower skill component where movement can be controlled in a slower manner.
+
+However, if I know I'm going to be doing more volume, I can reduce the weight of some free-weight moves and perform them at a normal tempo. Although for safety reasons, I'm still not interested in barbell back squats or doing any max lifts.
+
+I am doing benches with medium light dumbbells and trap-bar deadlifts with a more-than-safe weight. I can use a slower movement for the dumbbells to increase tension and more reps for that deadlift to shoot for volume.
+
+Your thoughts?
+
+![leg press](./img/leg-press.jpg)
 
 ---
 

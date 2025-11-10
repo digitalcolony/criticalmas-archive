@@ -72,13 +72,19 @@ Every number trended in a positive health direction. 😎
 -   July 2020: **4.9%**
 -   **Looking good!** 😃
 
-This was my first A1c test, which is a test normally given to those suspected of having high blood sugar. I didn't think I was at risk, but why not find out if all those POTATOES and CARBS I've been eating are leading me to a diabetic future. Nope. I couldn't find good information on if there is an optimal number, but it looks like 4.9% is deep within the normal healthy range.
+This was my first A1c test, which is a test normally given to those suspected of having high blood sugar. I didn't think I was at risk, but why not find out if all those POTATOES and CARBS I've been eating are leading me to a diabetic future. Nope.
+
+I couldn't find good information on if there is an optimal number, but it looks like 4.9% is deep within the normal healthy range.
 
 
 ### 🏆 What Gets the Credit?
 
 
-Are the improving numbers just a continuation of the dietary changes I made last year? Or is it the time-restricted eating window? Both? I also [started taking a garlic supplement](/2020/03/doctor-weil-on-the-coronavirus/) once COV-19 news broke, which could have helped. Exercise is still about 10,000 steps a day. Weights have been replaced with push-ups and bodyweight squats. My weight is likely the same. I don't have access to a scale due to my gym being closed, but my waist tape measure has stayed almost the same. I might be down 1/4 of an inch. Nothing drastic.
+Are the improving numbers just a continuation of the dietary changes I made last year? Or is it the time-restricted eating window? Both? I also [started taking a garlic supplement](/2020/03/doctor-weil-on-the-coronavirus/) once COV-19 news broke, which could have helped.
+
+Exercise is still about 10,000 steps a day. Weights have been replaced with push-ups and bodyweight squats.
+
+My weight is likely the same. I don't have access to a scale due to my gym being closed, but my waist tape measure has stayed almost the same. I might be down 1/4 of an inch. Nothing drastic.
 
 
 ### 🩸 My Statin-Free Program for Optimal Lipids
@@ -94,7 +100,13 @@ This is not medical advice, but wink-wink, these are the main foods I consume re
 -   Sardines - Olive oil or water, never in Soybean oil
 -   Fruit and Veggies - including kimchi
 
-A typical meal might be a big bowl of steamed buckwheat topped with a can of black beans. Then I'll mix in a sliced red pepper and green onion. Finish with some chili paste and you have a perfect meal. For dessert, I might have a frozen banana and some almonds. ![blood test](./img/national-cancer-institute-blood-test.jpg) _Now that I won blood lipids and [Vitamin-D](/2020/05/doubling-my-vitamin-d-levels-in-2-months/), what test should I get next? 🤔_
+A typical meal might be a big bowl of steamed buckwheat topped with a can of black beans. Then I'll mix in a sliced red pepper and green onion. Finish with some chili paste and you have a perfect meal.
+
+For dessert, I might have a frozen banana and some almonds.
+
+![blood test](./img/national-cancer-institute-blood-test.jpg)
+
+_Now that I won blood lipids and [Vitamin-D](/2020/05/doubling-my-vitamin-d-levels-in-2-months/), what test should I get next? 🤔_
 
 ---
 

@@ -9,7 +9,13 @@ description: "Are you ready for a sauerkraut with some heat? If you fear spicy, 
 commentCount: 2
 ---
 
-Are you ready for a sauerkraut with some heat? If you fear spicy, you can stop reading now. The Bhut Jolokia chili pepper is also called Ghost Pepper. How hot is it? According to the [Wikipedia](https://en.wikipedia.org/wiki/Bhut_Jolokia_chili_pepper), it is 401.5 times hotter than Tabasco sauce. It is so hot that India announced plans to use this pepper in non-lethal hand grenades to deal with terrorists. In the words of Paris Hilton, "That's hot". ![ghost-pepper](./img/ghost-pepper.jpg) It was pure curiosity that possessed me to try to use it in a fermentation. I'm glad I did, because it turned out great. **It has a strong heat on the front end with a fruity finish.** Although it is hot, the heat doesn't linger like a habanero pepper. It hits, quits and then ends with a sweet finish. Below is a recipe for this sauerkraut. Pay attention to the safety issues regarding handling hot peppers.
+Are you ready for a sauerkraut with some heat? If you fear spicy, you can stop reading now. The Bhut Jolokia chili pepper is also called Ghost Pepper. How hot is it? According to the [Wikipedia](https://en.wikipedia.org/wiki/Bhut_Jolokia_chili_pepper), it is 401.5 times hotter than Tabasco sauce. It is so hot that India announced plans to use this pepper in non-lethal hand grenades to deal with terrorists. In the words of Paris Hilton, "That's hot".
+
+![ghost-pepper](./img/ghost-pepper.jpg)
+
+It was pure curiosity that possessed me to try to use it in a fermentation. I'm glad I did, because it turned out great. **It has a strong heat on the front end with a fruity finish.** Although it is hot, the heat doesn't linger like a habanero pepper. It hits, quits and then ends with a sweet finish.
+
+Below is a recipe for this sauerkraut. Pay attention to the safety issues regarding handling hot peppers.
 
 
 ### Ingredients
@@ -31,7 +37,9 @@ Are you ready for a sauerkraut with some heat? If you fear spicy, you can stop r
 ### Prepare the Ghost Pepper
 
 
-Before we start, it is important that you not touch the ghost pepper with your hands. Use plastic gloves. It isn't that the pepper will burn your hands. It is to protect you, should you accidentally rub your eye or mouth after handling the pepper. ![ghost-pepper-water](./img/ghost-pepper-water.jpg)
+Before we start, it is important that you not touch the ghost pepper with your hands. Use plastic gloves. It isn't that the pepper will burn your hands. It is to protect you, should you accidentally rub your eye or mouth after handling the pepper.
+
+![ghost-pepper-water](./img/ghost-pepper-water.jpg)
 
 1.  The pepper is dried and will need to be reconstituted. Place the pepper in a bowl and pour warm water over it. In the photo above, I am holding the pepper under the water using a spoon.
 2.  While wearing your gloves, cut off the stem. Slice open the pepper and remove the seeds.
@@ -48,7 +56,15 @@ Now we allow time for the cabbage to release its water. This takes about an hour
 ### Fermentation
 
 
-This fermentation took about 3 weeks during the summer. It most likely will take an additional week or two during the winter. During the ferment, either use a weight to keep the veggies submerged or do like I do. Every day, I remove the loosely fitted lid on the jar and push down on the veggies. Bubbles will rise, mostly in the first week. This is a good thing, as it means the ferment is working. To judge when the ferment is done, just taste it. It shouldn't be too crunchy. Once it gets as soft as you like it, then seal up the jar and place into the refrigerator to end the fermentation. ![ghost-pepper-sauerkraut](./img/ghost-pepper-sauerkraut.jpg) _This is 2 days into my latest batch of Ghost Pepper Sauerkraut._ Hope you enjoy the ghost pepper sauerkraut as much as I did.
+This fermentation took about 3 weeks during the summer. It most likely will take an additional week or two during the winter. During the ferment, either use a weight to keep the veggies submerged or do like I do. Every day, I remove the loosely fitted lid on the jar and push down on the veggies. Bubbles will rise, mostly in the first week. This is a good thing, as it means the ferment is working.
+
+To judge when the ferment is done, just taste it. It shouldn't be too crunchy. Once it gets as soft as you like it, then seal up the jar and place into the refrigerator to end the fermentation.
+
+![ghost-pepper-sauerkraut](./img/ghost-pepper-sauerkraut.jpg)
+
+_This is 2 days into my latest batch of Ghost Pepper Sauerkraut._
+
+Hope you enjoy the ghost pepper sauerkraut as much as I did.
 
 ---
 

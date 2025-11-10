@@ -9,7 +9,29 @@ description: "In 2010, I posted The Selfish Case For Donating Blood. In that pos
 commentCount: 10
 ---
 
-In 2010, I posted [The Selfish Case For Donating Blood](/2010/06/the-selfish-case-for-donating-blood/). In that post I mention the health benefits one gets from reducing the iron level in your blood. So beginning in December 2010 - a full year after returning from my trip to Cambodia - I began to donate blood regularly. Every 8 weeks. Like clockwork. Only during my 13 months in California was there any interruptions. And while I was there I donated double red blood cells twice. So for all practical purposes, for 6 years I was a regular donor. Each time purging my blood of iron. During those years I read some great articles on the health benefits of reducing Iron levels by Anthony Colpo. I'd love to link to those articles now, but they are now only available for paid members. _(Side note: I went to see how much a Membership would be and the sign up page is empty. His server is also not secure. Goodbye!)_  Last December I was ready to hit a milestone. I was one donation away from receiving my 4 Gallon Pin. But I was turned away, because **my Iron levels were too low.** That had never happened before. Not unhealthy low, but too low to donate. They assured me I was still in a healthy range. I was on the edge. I returned a few days later to try again. I really wanted that pin. And although I bumped my Iron level up a little, I was still just outside the range. Turned away again. For 2 weeks I ate sunflower seeds and lamb and beef. Then I returned and my Iron level was finally high enough to donate. I collected my 4 Gallon Pin and this time instead of scheduling an appointment for 8 weeks, I pushed it out to 11 weeks. ![](./img/31814891686_a577276e10_z.jpg) Today was my first donation since collecting my 4 Gallon Pin and guess what? My Iron levels are too low to donate. Still in a healthy range, but just a little too low for their needs. Being turned away 3 out of the last 4 times was a bummer at first, but really it is a good thing. I did exactly what I intended. **I purged my blood of the oxidative stress. My blood is baby fresh and clean.** And if I did my research correctly, I extended my lifespan by a few years. Oh yeah and I probably helped a few people along the way. I won. I won at blood donation. Now I will go into a maintenance donation schedule. Maybe twice a year. If you are a non-vegan male, donating blood is a no-brainer way to improve your health and the health of whoever gets your blood.
+In 2010, I posted [The Selfish Case For Donating Blood](/2010/06/the-selfish-case-for-donating-blood/). In that post I mention the health benefits one gets from reducing the iron level in your blood. So beginning in December 2010 - a full year after returning from my trip to Cambodia - I began to donate blood regularly.
+
+Every 8 weeks. Like clockwork.
+
+Only during my 13 months in California was there any interruptions. And while I was there I donated double red blood cells twice. So for all practical purposes, for 6 years I was a regular donor. Each time purging my blood of iron.
+
+During those years I read some great articles on the health benefits of reducing Iron levels by Anthony Colpo. I'd love to link to those articles now, but they are now only available for paid members. _(Side note: I went to see how much a Membership would be and the sign up page is empty. His server is also not secure. Goodbye!)_ 
+
+Last December I was ready to hit a milestone. I was one donation away from receiving my 4 Gallon Pin. But I was turned away, because **my Iron levels were too low.** That had never happened before. Not unhealthy low, but too low to donate. They assured me I was still in a healthy range. I was on the edge.
+
+I returned a few days later to try again. I really wanted that pin. And although I bumped my Iron level up a little, I was still just outside the range. Turned away again.
+
+For 2 weeks I ate sunflower seeds and lamb and beef. Then I returned and my Iron level was finally high enough to donate. I collected my 4 Gallon Pin and this time instead of scheduling an appointment for 8 weeks, I pushed it out to 11 weeks.
+
+![](./img/31814891686_a577276e10_z.jpg)
+
+Today was my first donation since collecting my 4 Gallon Pin and guess what? My Iron levels are too low to donate. Still in a healthy range, but just a little too low for their needs.
+
+Being turned away 3 out of the last 4 times was a bummer at first, but really it is a good thing. I did exactly what I intended. **I purged my blood of the oxidative stress. My blood is baby fresh and clean.** And if I did my research correctly, I extended my lifespan by a few years. Oh yeah and I probably helped a few people along the way.
+
+I won. I won at blood donation. Now I will go into a maintenance donation schedule. Maybe twice a year.
+
+If you are a non-vegan male, donating blood is a no-brainer way to improve your health and the health of whoever gets your blood.
 
 ---
 

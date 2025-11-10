@@ -9,7 +9,17 @@ description: "Almost a month ago I started a new 30 Day experiment of going a mo
 commentCount: 14
 ---
 
-Almost a month ago I started a new 30 Day experiment of going a month [without any sugar or fruit](/2011/02/30-days-without-sugar-or-fruit/). My goal was to once and forever determine if there was a link between sugar and my frequent headaches. I didn't think there was, but I wanted to run an additional test to confirm. On day 4, I accidentally consumed a few grams of sugar in a BBQ sauce. Then mid-month I learned that Sriracha sauce has trace amounts of sugar, so there was another gram. All in all, I was doing pretty well. However, the headaches didn't go away. In fact, they started to increase in frequency. So last Saturday, I ended my 30 Day experiment a few days short. Giving up sugar was easy for me. Giving up sugar while sleep-deprived from headaches not caused by sugar just started to seem pointless. ![](https://farm1.static.flickr.com/102/257551906_078d2bf90d.jpg "blueberries") _[Photo](http://www.flickr.com/photos/atul666/257551906/in/photostream/) by brx0_ The good news is I can eliminate sugar from the guilty suspects causing my headaches. I don't consume much and I do think going almost a month without sugar reset my sweet cravings that spiked during the 2nd month of 16 hour daily fasts. Now I am back to normal. I'll resume eating blueberries and dark chocolate. Last week I did get a good lead on the cause of my headaches. It is way too soon to discuss, as I only have 5 days of data. When I know more, I'll share the details. But for now, I'm going to get some chocolate. :)
+Almost a month ago I started a new 30 Day experiment of going a month [without any sugar or fruit](/2011/02/30-days-without-sugar-or-fruit/). My goal was to once and forever determine if there was a link between sugar and my frequent headaches. I didn't think there was, but I wanted to run an additional test to confirm.
+
+On day 4, I accidentally consumed a few grams of sugar in a BBQ sauce. Then mid-month I learned that Sriracha sauce has trace amounts of sugar, so there was another gram. All in all, I was doing pretty well. However, the headaches didn't go away. In fact, they started to increase in frequency. So last Saturday, I ended my 30 Day experiment a few days short. Giving up sugar was easy for me. Giving up sugar while sleep-deprived from headaches not caused by sugar just started to seem pointless.
+
+![](https://farm1.static.flickr.com/102/257551906_078d2bf90d.jpg "blueberries")
+
+_[Photo](http://www.flickr.com/photos/atul666/257551906/in/photostream/) by brx0_
+
+The good news is I can eliminate sugar from the guilty suspects causing my headaches. I don't consume much and I do think going almost a month without sugar reset my sweet cravings that spiked during the 2nd month of 16 hour daily fasts. Now I am back to normal. I'll resume eating blueberries and dark chocolate.
+
+Last week I did get a good lead on the cause of my headaches. It is way too soon to discuss, as I only have 5 days of data. When I know more, I'll share the details. But for now, I'm going to get some chocolate. :)
 
 ---
 

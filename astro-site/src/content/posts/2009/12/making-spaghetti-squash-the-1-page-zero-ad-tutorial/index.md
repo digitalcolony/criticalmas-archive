@@ -21,7 +21,13 @@ I just made spaghetti squash for the first time. It was super easy and delicious
 8.  Add your sauce and meatballs.
 9.  Eat.
 
-![spagetti-squash-1](./img/spagetti-squash-1.jpg) ![spagetti-squash-2](./img/spagetti-squash-2.jpg) ![spagetti-squash-3](./img/spagetti-squash-3.jpg) ![spagetti-squash-4](./img/spagetti-squash-4.jpg)
+![spagetti-squash-1](./img/spagetti-squash-1.jpg)
+
+![spagetti-squash-2](./img/spagetti-squash-2.jpg)
+
+![spagetti-squash-3](./img/spagetti-squash-3.jpg)
+
+![spagetti-squash-4](./img/spagetti-squash-4.jpg)
 
 ---
 

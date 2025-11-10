@@ -9,7 +9,17 @@ description: "I stopped buying fish oil in 2010. I was already becoming highly s
 commentCount: 18
 ---
 
-I stopped buying fish oil in 2010. I was already becoming highly skeptical that it was the miracle supplement it was supposed to be. Whenever I hear claims that we need it to fight inflammation, I'd think about what was causing the inflammation and whether we shouldn't we be minimizing it, rather than _fighting_ it. A lot of the early logic behind supplementing with fish oil, which is rich in Omega-3 was to improve our Omega-6 to Omega-3 ratio. The higher the ratio, the worse your health outcome. There are two ways to lower that ratio. Either work at reducing Omega-6 or increase Omega-3. There is no profit motive in the first suggestion and plenty in the second. An industry was born and fish oil was their product. There were a few problems, though. Simply increasing Omega-3 doesn't address the excess Omega 6, which is likely the actual problem. In other words, this is a numerator problem, not a denominator one. The second issue we all learned is that fish oil can go rancid sitting on the shelf because they are [chemically fragile](https://perfecthealthdiet.com/2010/06/fish-not-fish-oil-capsules/). The solution we are told is to only buy the best brands. But we have no way of knowing if even the best brands are fine or if they have been sitting in the back of a hot truck for weeks. ![](./img/fish-oil-capsules.jpg) I've seen supplements come into and out of fashion and it appears the popularity of fish oil has already peaked and is likely in descent. I have no need for it. I wouldn't take it if it were free. I'll have salmon a few times a year, but I suspect the real health benefits are from greatly reducing Omega 6 consumption, not from dosing on Omega-3. Now I see some people pimping Krill Oil as a new and improved fish oil. Here we go again. Not me.
+I stopped buying fish oil in 2010. I was already becoming highly skeptical that it was the miracle supplement it was supposed to be. Whenever I hear claims that we need it to fight inflammation, I'd think about what was causing the inflammation and whether we shouldn't we be minimizing it, rather than _fighting_ it.
+
+A lot of the early logic behind supplementing with fish oil, which is rich in Omega-3 was to improve our Omega-6 to Omega-3 ratio. The higher the ratio, the worse your health outcome. There are two ways to lower that ratio. Either work at reducing Omega-6 or increase Omega-3. There is no profit motive in the first suggestion and plenty in the second. An industry was born and fish oil was their product.
+
+There were a few problems, though. Simply increasing Omega-3 doesn't address the excess Omega 6, which is likely the actual problem. In other words, this is a numerator problem, not a denominator one.
+
+The second issue we all learned is that fish oil can go rancid sitting on the shelf because they are [chemically fragile](https://perfecthealthdiet.com/2010/06/fish-not-fish-oil-capsules/). The solution we are told is to only buy the best brands. But we have no way of knowing if even the best brands are fine or if they have been sitting in the back of a hot truck for weeks.
+
+![](./img/fish-oil-capsules.jpg)
+
+I've seen supplements come into and out of fashion and it appears the popularity of fish oil has already peaked and is likely in descent. I have no need for it. I wouldn't take it if it were free. I'll have salmon a few times a year, but I suspect the real health benefits are from greatly reducing Omega 6 consumption, not from dosing on Omega-3. Now I see some people pimping Krill Oil as a new and improved fish oil. Here we go again. Not me.
 
 ---
 

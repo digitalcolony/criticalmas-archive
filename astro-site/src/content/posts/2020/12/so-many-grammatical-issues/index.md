@@ -8,11 +8,25 @@ description: "I haven't posted anything new in almost two months, but behind the
 commentCount: 6
 ---
 
-I haven't posted anything new in almost two months, but behind the scenes, I have been working a lot on improving this blog. In 2017, I set up the Grammarly plugin. It is a godsend. It catches so many mistakes I make in my writing. Spelling errors, punctuation, and grammatical suggestions. It isn't always 100% accurate, but that is fine. Since 2017, the quality and number of suggestions I received have greatly improved. This of course is wonderful for new posts, but what about my archives? In the process of removing some broken links, I discovered numerous grammatical errors on older posts. Each time I saw what Grammarly caught, I cringed and then fixed it immediately. I've gone through almost 200 older posts. Counting this post, I have 1,590 posts. This could take a while. Back in 2012, I became inspired (obsessed) with removing double-spaces following periods and question marks after reading a persuasive article on Slate. You can read that story here: [Spacing Out on Extra Spaces](/2012/05/spacing-out-on-extra-spaces/)  Note that in 2012 this blog had 1700 posts and 1590 today. I did a huge purge in 2017 of posts that I deemed worthless. Back then I said:
+I haven't posted anything new in almost two months, but behind the scenes, I have been working a lot on improving this blog.
+
+In 2017, I set up the Grammarly plugin. It is a godsend. It catches so many mistakes I make in my writing. Spelling errors, punctuation, and grammatical suggestions. It isn't always 100% accurate, but that is fine. Since 2017, the quality and number of suggestions I received have greatly improved. This of course is wonderful for new posts, but what about my archives?
+
+In the process of removing some broken links, I discovered numerous grammatical errors on older posts. Each time I saw what Grammarly caught, I cringed and then fixed it immediately. I've gone through almost 200 older posts. Counting this post, I have 1,590 posts. This could take a while.
+
+Back in 2012, I became inspired (obsessed) with removing double-spaces following periods and question marks after reading a persuasive article on Slate. You can read that story here: [Spacing Out on Extra Spaces](/2012/05/spacing-out-on-extra-spaces/)  Note that in 2012 this blog had 1700 posts and 1590 today. I did a huge purge in 2017 of posts that I deemed worthless.
+
+Back then I said:
 
 > Whenever I went back into the blog archives to collect a link, I’d cringe a little seeing all those extra spaces.
 
-I have that same feeling again. I'm also updating the grammar for articles on [INeedCoffee](https://ineedcoffee.com), some of which are more than twenty years old. I use the free Grammarly plugin, which is perfect for my needs. I highly recommend it. If you tried a long time ago and didn't care for it, I encourage you to give it another try. ![typewriter](./img/markus-winkler-cxoR55-bels-unsplash.jpg) _Photo by_ [_Markus Winkler_](https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+I have that same feeling again. I'm also updating the grammar for articles on [INeedCoffee](https://ineedcoffee.com), some of which are more than twenty years old.
+
+I use the free Grammarly plugin, which is perfect for my needs. I highly recommend it. If you tried a long time ago and didn't care for it, I encourage you to give it another try.
+
+![typewriter](./img/markus-winkler-cxoR55-bels-unsplash.jpg)
+
+_Photo by_ [_Markus Winkler_](https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ---
 

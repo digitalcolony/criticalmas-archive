@@ -15,23 +15,39 @@ I've got three health items on my mind today.
 ### Is Dairy Kefir Anabolic?
 
 
-About a month ago I started making dairy kefir again. I stopped making kefir a year ago when I started getting a reaction to water kefir. Then I learned about the high level of histamines, which may have been triggering some of my headaches. I started [The Low Histamine Diet](/2012/05/the-low-histamine-diet/) last May and did it for over a month. Seems I didn't post a follow-up. The results were that greatly reducing histamine levels did not help with my headaches. I forgot all about kefir. Then a friend of mine started making kefir. He offered grains to me. My initial thought was the headaches I got from kefir, but that was water kefir. I never had an issue with dairy kefir, so I started making the dairy ferment once again. And I am loving it. My kefir tastes great and I'm even mixing in a little half-and-half to get a thicker texture. The interesting thing I've noticed in the last month is that I may have gained some muscle. This was unexpected, as my workouts have not been that intense recently. I've often read how milk is anabolic, but I haven't really drunk much since I was a child. Kefir should be equally anabolic. Who knows? I'll keep drinking it. ![](./img/milk-kefir.jpg "milk-kefir")
+About a month ago I started making dairy kefir again. I stopped making kefir a year ago when I started getting a reaction to water kefir. Then I learned about the high level of histamines, which may have been triggering some of my headaches. I started [The Low Histamine Diet](/2012/05/the-low-histamine-diet/) last May and did it for over a month. Seems I didn't post a follow-up. The results were that greatly reducing histamine levels did not help with my headaches. I forgot all about kefir.
+
+Then a friend of mine started making kefir. He offered grains to me. My initial thought was the headaches I got from kefir, but that was water kefir. I never had an issue with dairy kefir, so I started making the dairy ferment once again. And I am loving it. My kefir tastes great and I'm even mixing in a little half-and-half to get a thicker texture.
+
+The interesting thing I've noticed in the last month is that I may have gained some muscle. This was unexpected, as my workouts have not been that intense recently. I've often read how milk is anabolic, but I haven't really drunk much since I was a child. Kefir should be equally anabolic. Who knows? I'll keep drinking it.
+
+![](./img/milk-kefir.jpg "milk-kefir")
 
 
 ### Caffeine Might Be Making Me Jittery
 
 
-It appears I am going to have to really cut back on caffeine again. My plan was to survive on a lower level until spring and then do a longer detox. Even though I'm consuming half the caffeine I did prior to my [October 2012 detox](https://ineedcoffee.com/a-month-without-coffee/), I am finding myself feeling jittery. I've never felt jittery on caffeine before. The good news is cutting back on caffeine should be much easier than the last time.
+It appears I am going to have to really cut back on caffeine again. My plan was to survive on a lower level until spring and then do a longer detox. Even though I'm consuming half the caffeine I did prior to my [October 2012 detox](https://ineedcoffee.com/a-month-without-coffee/), I am finding myself feeling jittery. I've never felt jittery on caffeine before.
+
+The good news is cutting back on caffeine should be much easier than the last time.
 
 
 ### Unsure about Trigger Point Therapy
 
 
-In the post [Help Me Fix My Neck and Shoulders](/2012/12/help-me-fix-my-neck-and-shoulders/), one of the ideas in the comments was Trigger Point Therapy. I am new to this topic, so I got a few books from the library. The books showed me where I could apply pressure to relieve tightness in my neck and shoulders. Although my neck and shoulders weren't in terrible shape, I had been interested in loosening up that area to provide more free movement. ![The Trigger Point Therapy Workbook: Your Self-Treatment Guide for Pain Relief, Second Edition](https://images-na.ssl-images-amazon.com/images/I/51-zNr9f7mL.jpg) _The Trigger Point Therapy Workbook: Your Self-Treatment Guide for Pain Relief, Second Edition by Clair Davies_ Using the books, I was able to locate the points, apply pressure, and feel what felt like knots loosening up. So at first, it appears this stuff was working. The problem I experienced was the tightness kept returning and it felt like it was getting worse. The more time I spent doing Trigger Point Therapy, the better I felt in the short term, but the tighter I felt later. This is when I thought about Dr. John Sarno and my battle with back pain. I posted on Dr. Sarno in [The Psychology of Back Pain](/2011/02/the-psychology-of-back-pain/).
+In the post [Help Me Fix My Neck and Shoulders](/2012/12/help-me-fix-my-neck-and-shoulders/), one of the ideas in the comments was Trigger Point Therapy. I am new to this topic, so I got a few books from the library. The books showed me where I could apply pressure to relieve tightness in my neck and shoulders. Although my neck and shoulders weren't in terrible shape, I had been interested in loosening up that area to provide more free movement.
+
+![The Trigger Point Therapy Workbook: Your Self-Treatment Guide for Pain Relief, Second Edition](https://images-na.ssl-images-amazon.com/images/I/51-zNr9f7mL.jpg) _The Trigger Point Therapy Workbook: Your Self-Treatment Guide for Pain Relief, Second Edition by Clair Davies_
+
+Using the books, I was able to locate the points, apply pressure, and feel what felt like knots loosening up. So at first, it appears this stuff was working. The problem I experienced was the tightness kept returning and it felt like it was getting worse. The more time I spent doing Trigger Point Therapy, the better I felt in the short term, but the tighter I felt later. This is when I thought about Dr. John Sarno and my battle with back pain.
+
+I posted on Dr. Sarno in [The Psychology of Back Pain](/2011/02/the-psychology-of-back-pain/).
 
 > Dr. John Sarno specializes in patients that deal with chronic back pain. He believes that stress is the major cause of back pain. When we go through periods of chronic stress, the brain uses a diversion tactic to protect us emotionally. That diversion is to manifest REAL PHYSICAL pain, often in the lower back region. **The pain is real. It is not in our head. The roots however are psychological.**
 
-One of the recommendations Dr. Sarno tells his patients is to stop all forms of treatment because that treatment is validating the physical manifestation of the pain. It does nothing to address its roots. When I began to suspect that Trigger Point Therapy was making my neck worse in the same manner, I stopped it. Within a few days, my neck felt better on its own. Not perfect, but back where I started. I can see where Trigger Point Therapy might help with injuries.
+One of the recommendations Dr. Sarno tells his patients is to stop all forms of treatment because that treatment is validating the physical manifestation of the pain. It does nothing to address its roots. When I began to suspect that Trigger Point Therapy was making my neck worse in the same manner, I stopped it. Within a few days, my neck felt better on its own. Not perfect, but back where I started.
+
+I can see where Trigger Point Therapy might help with injuries.
 
 
 ### Last Words

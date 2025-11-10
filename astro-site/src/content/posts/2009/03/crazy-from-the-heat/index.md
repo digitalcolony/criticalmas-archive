@@ -9,7 +9,11 @@ description: "I rarely read the same book twice, but for Diamond Dave, I made an
 commentCount: 5
 ---
 
-I rarely read the same book twice, but for Diamond Dave, I made an exception. ![Crazy from the Heat](https://images-na.ssl-images-amazon.com/images/I/5161XRGCXCL.jpg) I first read _Crazy from the Heat by David Lee Roth_ over ten years ago. From my humble roots in Ohio, I grew up with the music and videos of Van Halen and David Lee Roth. He was unlike anyone I had ever seen before. His cadence and energy have always fascinated me. While the rest of Van Halen was busy getting fat and becoming alcoholics, DLR was traveling through the Amazon and attempting a climb of Mount Everest. He wasn't just a rock star, he was a superhero. Whenever someone asks me what celebrity I'd most like to meet, I always say David Lee Roth. I don't even listen to his music anymore. It doesn't matter. Diamond Dave is everything I wish I could be. Sadly, I'm only about 1% of the personality of DLR. This is what DLR says about himself in the last chapter.
+I rarely read the same book twice, but for Diamond Dave, I made an exception.
+
+![Crazy from the Heat](https://images-na.ssl-images-amazon.com/images/I/5161XRGCXCL.jpg) I first read _Crazy from the Heat by David Lee Roth_ over ten years ago. From my humble roots in Ohio, I grew up with the music and videos of Van Halen and David Lee Roth. He was unlike anyone I had ever seen before. His cadence and energy have always fascinated me. While the rest of Van Halen was busy getting fat and becoming alcoholics, DLR was traveling through the Amazon and attempting a climb of Mount Everest. He wasn't just a rock star, he was a superhero.
+
+Whenever someone asks me what celebrity I'd most like to meet, I always say David Lee Roth. I don't even listen to his music anymore. It doesn't matter. Diamond Dave is everything I wish I could be. Sadly, I'm only about 1% of the personality of DLR. This is what DLR says about himself in the last chapter.
 
 > Everything with me has to be dramatic. Everything with me has to be full of emotion and drive and tragedy and catastrophe, valor and victory. Not to the extent of feeling a deathly sense of loss because somebody butted in front of me in the movie line, but in the spirit of living large. Every day I rejoice about something and I'm totally delighted and I'm the most fortunate guy on earth.
 

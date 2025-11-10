@@ -9,13 +9,27 @@ description: "Yesterday I gave my Glitter Gym notice I was leaving. For those ne
 commentCount: 13
 ---
 
-Yesterday I gave my Glitter Gym notice I was leaving. For those new to the site, I use the term "Glitter Gym" to refer to the modern gym which is full of cardio equipment, mirrors and often loud dance music. When I coined the term over a decade ago. I use it as an umbrella term to describe places like 24 Hour Fitness, Bally's, LA Fitness and Fitness 19. Since I moved away from traditional weight lifting to [HIT (High Intensity Training)](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/), I no longer use the term in a derogatory manner. I use it out of habit. My decision to leave the gym has been a long time coming. As I explained in my August post [Why I Traded Volume for Intensity at the Glitter Gym](/2013/08/why-i-traded-volume-for-intensity-at-the-glitter-gym/), the temperature at Fitness 19 Ballard is too damn high. It is often 70 degrees in the gym. The grocery store next door is more comfortable. Limiting my intensity to avoid headaches was fine for a while, but I've grown increasingly bored at the gym. It isn't fun anymore. For over a year I complained about the temperature and my request was ignored. I was the only one complaining. It is my belief that the temperature of the gym was set for the comfort of the inactive staff and not for patrons. And I understand that. Replacing me is much easier than replacing the 20-year-old girl huddled by a space heater working the front desk. The other patrons and most of the staff falsely believe that their breaking a sweat is an indicator of the quality of their workout. The reality is one could break a sweat tying their shoe at that gym. In today's Glitter Gym one no longer needs to _work up a sweat_ - it is done for them. And that is why I left. ![](./img/park-gym.jpg)
+Yesterday I gave my Glitter Gym notice I was leaving.
+
+For those new to the site, I use the term "Glitter Gym" to refer to the modern gym which is full of cardio equipment, mirrors and often loud dance music. When I coined the term over a decade ago. I use it as an umbrella term to describe places like 24 Hour Fitness, Bally's, LA Fitness and Fitness 19. Since I moved away from traditional weight lifting to [HIT (High Intensity Training)](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/), I no longer use the term in a derogatory manner. I use it out of habit.
+
+My decision to leave the gym has been a long time coming. As I explained in my August post [Why I Traded Volume for Intensity at the Glitter Gym](/2013/08/why-i-traded-volume-for-intensity-at-the-glitter-gym/), the temperature at Fitness 19 Ballard is too damn high. It is often 70 degrees in the gym. The grocery store next door is more comfortable. Limiting my intensity to avoid headaches was fine for a while, but I've grown increasingly bored at the gym. It isn't fun anymore.
+
+For over a year I complained about the temperature and my request was ignored. I was the only one complaining. It is my belief that the temperature of the gym was set for the comfort of the inactive staff and not for patrons. And I understand that. Replacing me is much easier than replacing the 20-year-old girl huddled by a space heater working the front desk.
+
+The other patrons and most of the staff falsely believe that their breaking a sweat is an indicator of the quality of their workout. The reality is one could break a sweat tying their shoe at that gym. In today's Glitter Gym one no longer needs to _work up a sweat_ - it is done for them. And that is why I left.
+
+![](./img/park-gym.jpg)
 
 
 ### Returning to HillFit
 
 
-I'm going back to the body weight fitness program described in the ebook [Hillfit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/). Jokingly, I told someone that I would do the HillFit routine in the grocery store next to the gym for a superior workout. Who wants to join me for a QFC workout? We'll meet by the ice cream case - so it will be easy to grab our post-workout meal. Seriously, I'll be doing the workout outside, much like I did the [last time](/2011/11/escaping-the-glitter-taking-high-intensity-training-outdoors/) I left the Glitter Gym in 2011. A lower temperature for me results in a much higher intensity workout, which means I'll be doing fewer workouts and spending more days in recovery. At some point, I'm sure I'll get bored and return to another Glitter Gym, but you can bet it will have to be cooler than Fitness 19 Ballard. My last day for Glitter will be December 15th.
+I'm going back to the body weight fitness program described in the ebook [Hillfit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/). Jokingly, I told someone that I would do the HillFit routine in the grocery store next to the gym for a superior workout. Who wants to join me for a QFC workout? We'll meet by the ice cream case - so it will be easy to grab our post-workout meal.
+
+Seriously, I'll be doing the workout outside, much like I did the [last time](/2011/11/escaping-the-glitter-taking-high-intensity-training-outdoors/) I left the Glitter Gym in 2011. A lower temperature for me results in a much higher intensity workout, which means I'll be doing fewer workouts and spending more days in recovery.
+
+At some point, I'm sure I'll get bored and return to another Glitter Gym, but you can bet it will have to be cooler than Fitness 19 Ballard. My last day for Glitter will be December 15th.
 
 ---
 

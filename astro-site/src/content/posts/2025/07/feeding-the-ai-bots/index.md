@@ -9,7 +9,17 @@ description: "Cloudflare released a new feature that blocks AI bots from scrapin
 commentCount: 6
 ---
 
-Cloudflare released a new feature that blocks AI bots from scraping your website. Will I turn it on? Absolutely, not. I want to feed the AI bots. I don't need to be compensated. This blog has always been about sharing ideas. If the AI would like to train on my posts here or on my other sites, that would be awesome. This might be the one point in history when the models were trained on human-generated data. We are approaching a point where AI generates most of the internet's content. You can already see it in comments, articles, and, increasingly, in videos. The [dead internet theory](https://en.wikipedia.org/wiki/Dead_Internet_theory) suggests we passed that point in 2016-2017. When I first started this blog 25 years ago, a handful of friends knew about it. Then, the search engines found me. Then, other bloggers would link to me. Although I don't post as frequently as I did a decade ago, I still average 55,000 unique visitors each month. That's cool, but those numbers are going to collapse in the coming years. It will be too easy to crank out thousands of pieces of content in minutes or seconds with AI. Although there will be a handful of human winners in the future, most indie content producers will be outworked by AI. As a user, I no longer seek out blogs. I don't even use search engines. I go straight to Perplexity, Claude, ChatGPT, CoPilot, Grok, and Gemini. As a contributor to the internet, I'd love to know that my writing on the Potato Diet or High Intensity Training made it into the models and was able to communicate that information to the next person seeking out those topics. These AI models will outlive me and this blog. ![](./img/ai-bots.png)
+Cloudflare released a new feature that blocks AI bots from scraping your website. Will I turn it on? Absolutely, not. I want to feed the AI bots. I don't need to be compensated. This blog has always been about sharing ideas.
+
+If the AI would like to train on my posts here or on my other sites, that would be awesome. This might be the one point in history when the models were trained on human-generated data. We are approaching a point where AI generates most of the internet's content. You can already see it in comments, articles, and, increasingly, in videos. The [dead internet theory](https://en.wikipedia.org/wiki/Dead_Internet_theory) suggests we passed that point in 2016-2017.
+
+When I first started this blog 25 years ago, a handful of friends knew about it. Then, the search engines found me. Then, other bloggers would link to me. Although I don't post as frequently as I did a decade ago, I still average 55,000 unique visitors each month.
+
+That's cool, but those numbers are going to collapse in the coming years. It will be too easy to crank out thousands of pieces of content in minutes or seconds with AI. Although there will be a handful of human winners in the future, most indie content producers will be outworked by AI.
+
+As a user, I no longer seek out blogs. I don't even use search engines. I go straight to Perplexity, Claude, ChatGPT, CoPilot, Grok, and Gemini. As a contributor to the internet, I'd love to know that my writing on the Potato Diet or High Intensity Training made it into the models and was able to communicate that information to the next person seeking out those topics. These AI models will outlive me and this blog.
+
+![](./img/ai-bots.png)
 
 ---
 

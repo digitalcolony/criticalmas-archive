@@ -9,11 +9,19 @@ description: "A pal of mine recently told me that I should read the 1922 investi
 commentCount: 3
 ---
 
-A pal of mine recently told me that I should read the 1922 investing classic: _Reminiscences of a Stock Operator_. ![Reminiscences of a Stock Operator (Wiley Investment Classics)](https://images-na.ssl-images-amazon.com/images/I/51OyuSeMwPL.jpg) _Reminiscences of a Stock Operator (Wiley Investment Classics) by Edwin Lefevre_ is as relevant today as it was in the 1920s. The book is a collection of interviews with the fictitious Lawrence Livingston, which later was to be revealed as early Wall Street legend Jesse Livermore. The interviews, which appeared as a series of articles in the _Saturday Evening Post_, take you through the life of a trader and all his successes and failures. This book is a one-man narrative of many of the concepts covered in other investing books and articles including John Mauldin's _Bull's Eye Investing_ and Barry's Ritholtz's Apprenticed Investor series over on TheStreet.com. In addition to the stock trading discussion, the book had some rich history on early Wall Street. Here is a gem from a discussion on speculative prejudices.
+A pal of mine recently told me that I should read the 1922 investing classic: _Reminiscences of a Stock Operator_.
+
+![Reminiscences of a Stock Operator (Wiley Investment Classics)](https://images-na.ssl-images-amazon.com/images/I/51OyuSeMwPL.jpg) _Reminiscences of a Stock Operator (Wiley Investment Classics) by Edwin Lefevre_ is as relevant today as it was in the 1920s. The book is a collection of interviews with the fictitious Lawrence Livingston, which later was to be revealed as early Wall Street legend Jesse Livermore. The interviews, which appeared as a series of articles in the _Saturday Evening Post_, take you through the life of a trader and all his successes and failures.
+
+This book is a one-man narrative of many of the concepts covered in other investing books and articles including John Mauldin's _Bull's Eye Investing_ and Barry's Ritholtz's Apprenticed Investor series over on TheStreet.com. In addition to the stock trading discussion, the book had some rich history on early Wall Street.
+
+Here is a gem from a discussion on speculative prejudices.
 
 > When I am long of stocks it is because my reading of conditions has made me bullish. But you find many people, reputed to be intelligent, who are bullish because they have stocks. I do not allow my possessions -- or my prepossessions either -- to do any thinking for me. That is why I told you that I never argue with the tape. To be angry at the market because it unexpectedly or even illogically goes against you is like getting mad at your lungs because you have pneumonia.
 
-One important piece of wisdom that is shared several times is that one can **not** beat the stock market. You can beat a given stock for a given period of time, but you can not beat the stock market. The final chapter is a long list of trading legends that didn't walk away on top. They all kept at the speculation until they died poor. That final chapter had special meaning. The trading Jesse Livermore who was a Wall Street legend at the time of the articles, ended his Wall Street career by suicide. He [killed himself](https://en.wikipedia.org/wiki/Jesse_Lauriston_Livermore#Suicide) in 1940 after losing his confidence as a stock trader.
+One important piece of wisdom that is shared several times is that one can **not** beat the stock market. You can beat a given stock for a given period of time, but you can not beat the stock market. The final chapter is a long list of trading legends that didn't walk away on top. They all kept at the speculation until they died poor.
+
+That final chapter had special meaning. The trading Jesse Livermore who was a Wall Street legend at the time of the articles, ended his Wall Street career by suicide. He [killed himself](https://en.wikipedia.org/wiki/Jesse_Lauriston_Livermore#Suicide) in 1940 after losing his confidence as a stock trader.
 
 ---
 

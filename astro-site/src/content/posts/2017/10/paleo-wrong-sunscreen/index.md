@@ -9,25 +9,45 @@ description: "I've been actively following the direction of the disagreements Pa
 commentCount: 15
 ---
 
-I've been actively following the direction of the disagreements Paleo has with the standard mainstream advice for almost a decade now. Sometimes the Paleo position moves closer to the mainstream and someones the mainstream moves closer to Paleo. One example is how saturated fat has become less demonized in popular media and how Paleo is less fearful of carbs. I will often use [directional accuracy](/2017/08/directionally-accurate-metabolic-unicorns/) as a way to get closer to the truth. One topic where I see little movement on either side is the use of sunscreens to prevent skin cancer and to reduce the aging effect of sun damage. Paleo is still anti-sunscreen. Conventional is still pro-sunscreen. And I can't tell who is right. Without spending a lot of time block quoting several sources, I'll summarize the two sides briefly.
+I've been actively following the direction of the disagreements Paleo has with the standard mainstream advice for almost a decade now. Sometimes the Paleo position moves closer to the mainstream and someones the mainstream moves closer to Paleo. One example is how saturated fat has become less demonized in popular media and how Paleo is less fearful of carbs.
+
+I will often use [directional accuracy](/2017/08/directionally-accurate-metabolic-unicorns/) as a way to get closer to the truth.
+
+One topic where I see little movement on either side is the use of sunscreens to prevent skin cancer and to reduce the aging effect of sun damage. Paleo is still anti-sunscreen. Conventional is still pro-sunscreen. And I can't tell who is right.
+
+Without spending a lot of time block quoting several sources, I'll summarize the two sides briefly.
 
 
 ### Paleo View of Sunscreen
 
 
-The body needs the sun to get Vitamin D. Most of us are deficient in Vitamin D because we are indoors so much. Paleo people were outside getting sunshine and Vitamin D. They didn't need sunscreen. Sunscreen reduces Vitamin D absorption and is full of chemicals, which might cause cancer. Avoid sunscreen. Gradually build up exposure to the sun to prevent burning. Don't worry about skin cancer. Be concerned with not getting enough sun exposure.
+The body needs the sun to get Vitamin D. Most of us are deficient in Vitamin D because we are indoors so much. Paleo people were outside getting sunshine and Vitamin D. They didn't need sunscreen. Sunscreen reduces Vitamin D absorption and is full of chemicals, which might cause cancer.
+
+Avoid sunscreen. Gradually build up exposure to the sun to prevent burning. Don't worry about skin cancer. Be concerned with not getting enough sun exposure.
 
 
 ### Mainstream View of Sunscreen
 
 
-Always wear sunscreen to protect yourself against the harmful effects of sun exposure, which can be aging of the skin or even skin cancer. ![girl catches sun](./img/sunshine-olivier-fahrni-337130.jpg) _Photo by Olivier Fahrni_
+Always wear sunscreen to protect yourself against the harmful effects of sun exposure, which can be aging of the skin or even skin cancer.
+
+![girl catches sun](./img/sunshine-olivier-fahrni-337130.jpg)
+
+_Photo by Olivier Fahrni_
 
 
 ### Finding a Middle Ground
 
 
-For this discussion, let us throw out the outliers on both sides. We can all imagine a sickly porcelain skinned person that is scared of the sun that lathers up the SPF 50 sunscreen all the time. We can also all imagine the guy that owns a boat in Florida with the leather skin that makes him and his wife look like they are 15 years older than their true age. Let us assume some sun exposure. Perhaps enough to get in our 10,000 steps a day, but not like we laboring in the fields all day. We will also assume that we gradually increase our exposure to the sun in a way that we never get sunburnt. Also, let us assume we wear hats on days when the sun in the most intense. For me, I mostly do not wear sunscreen. I do wear a visor which keeps the sun mostly off my face. On the more intense days, I wear sunscreen on my cheeks and nose and sometimes neck and top of my ears. But my strategy is a middle ground guess. It may be "good enough". I want to know what is best for reducing skin damage. If our sun exposure is done in brief increments - say 20 or 30 minutes at a time, what should be our position on sunscreen? What does the science say? How do you handle the sun? [Part 2](/2017/10/paleo-wrong-sunscreen-part-2/)
+For this discussion, let us throw out the outliers on both sides. We can all imagine a sickly porcelain skinned person that is scared of the sun that lathers up the SPF 50 sunscreen all the time. We can also all imagine the guy that owns a boat in Florida with the leather skin that makes him and his wife look like they are 15 years older than their true age.
+
+Let us assume some sun exposure. Perhaps enough to get in our 10,000 steps a day, but not like we laboring in the fields all day. We will also assume that we gradually increase our exposure to the sun in a way that we never get sunburnt. Also, let us assume we wear hats on days when the sun in the most intense.
+
+For me, I mostly do not wear sunscreen. I do wear a visor which keeps the sun mostly off my face. On the more intense days, I wear sunscreen on my cheeks and nose and sometimes neck and top of my ears. But my strategy is a middle ground guess. It may be "good enough". I want to know what is best for reducing skin damage.
+
+If our sun exposure is done in brief increments - say 20 or 30 minutes at a time, what should be our position on sunscreen? What does the science say? How do you handle the sun?
+
+[Part 2](/2017/10/paleo-wrong-sunscreen-part-2/)
 
 ---
 

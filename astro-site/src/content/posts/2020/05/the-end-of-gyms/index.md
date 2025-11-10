@@ -15,35 +15,73 @@ We are all trying to guess what life will be like when society reopens from the 
 ### Is the Business Model Now Broken?
 
 
-I fear that a large percent of gyms are going to fail in the next year. And those that do survive are likely to be more expensive. I HOPE I AM WRONG. Golds Gym has filed for bankruptcy this month, just weeks after they announced their plan for opening safely. From a [6-foot spacing and half-empty studios: Gold's Gym CEO shares what locations will look like when they finally reopen](https://www.businessinsider.com/what-gyms-will-look-like-after-coronavirus-reopening-golds-gym-2020-4):
+I fear that a large percent of gyms are going to fail in the next year. And those that do survive are likely to be more expensive. I HOPE I AM WRONG.
+
+Golds Gym has filed for bankruptcy this month, just weeks after they announced their plan for opening safely. From a [6-foot spacing and half-empty studios: Gold's Gym CEO shares what locations will look like when they finally reopen](https://www.businessinsider.com/what-gyms-will-look-like-after-coronavirus-reopening-golds-gym-2020-4):
 
 > ...the company is currently printing branded markers to place on the floor to indicate where members should stand in order to be six feet apart from one another. Gold's is also updating its code of conduct to ask members to agree to follow social distancing and wipe down machines after they are done using them.
 
-How can any gym be profitable with members 6-feet apart? As for trusting that patrons will sufficiently wipe down the equipment is wishful thinking. It is hard enough to stay focused on a workout in a shared environment. Now we need to fear that a rogue sweat droplet is going to infect someone in the gym. That's a lot of pressure to put on paying members of a gym. And what gym could afford to hire an army of cleaners on staff every hour? As for spacing, what about personal training? Gyms make money selling personal training packages. How can a trainer teach proper form from 6-feet away? I know someone that had to close her pilates studio permanently, not only because many of the customers no longer felt safe, but because she felt she couldn't safely teach the movements while practicing social distancing.
+How can any gym be profitable with members 6-feet apart?
+
+As for trusting that patrons will sufficiently wipe down the equipment is wishful thinking. It is hard enough to stay focused on a workout in a shared environment. Now we need to fear that a rogue sweat droplet is going to infect someone in the gym. That's a lot of pressure to put on paying members of a gym. And what gym could afford to hire an army of cleaners on staff every hour?
+
+As for spacing, what about personal training? Gyms make money selling personal training packages. How can a trainer teach proper form from 6-feet away? I know someone that had to close her pilates studio permanently, not only because many of the customers no longer felt safe, but because she felt she couldn't safely teach the movements while practicing social distancing.
 
 
 ### Fitness, Fear, and Friction
 
 
-Going to the gym has always been about tackling friction. The more friction one has, the less likely they will go to the gym. You could be tired, hungry, or hungover. The gym might be too far away. Your friend isn't going. The class you wanted to attend was canceled. Parking might be a challenge. There are hundreds of points of friction to keep you at home. Yet despite all this friction, many of us still go on a consistent basis. We value health, so we show up, even when we don't always feel like going. Now we will be wondering if our presence at the gym will lead to being infected or if we will unknowingly infect someone else. That's serious friction. We may overcome this mindset with time. Will that be months or years? And can gyms survive that long in the meantime? We might have to start scheduling when we attend the gym. More friction. What [little socializing](/2019/04/millennials-have-killed-the-glitter-gym/) that was left in the gym is likely going to be gone now. One less reason to show up. I don't go to group fitness classes, but I can't imagine these recovering for years - if ever. A closed room with lots of heavy breathing, sweat, and movement. How are gyms with these classes going to make their members feel safe? 6-feet apart on a beach I understand. In a closed room? Even if you were able to pull it off, how do the economics work with staffing and scheduling? There will be waves of canceled memberships. ![Fitness Class](./img/bruce-mars-fitness-class.jpg) _Photo by [bruce mars](https://unsplash.com/@brucemars?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_ Remember saunas, steam rooms, and hot tubs? I can't see them coming back for a long time. There goes another wave of cancelations. Hot yoga? Probably gone too. Older members and those in high-risk groups are going to cancel in massive numbers. Sadly, exercise is what many of these people need to improve their health and reduce their risk status.
+Going to the gym has always been about tackling friction. The more friction one has, the less likely they will go to the gym. You could be tired, hungry, or hungover. The gym might be too far away. Your friend isn't going. The class you wanted to attend was canceled. Parking might be a challenge. There are hundreds of points of friction to keep you at home.
+
+Yet despite all this friction, many of us still go on a consistent basis. We value health, so we show up, even when we don't always feel like going.
+
+Now we will be wondering if our presence at the gym will lead to being infected or if we will unknowingly infect someone else. That's serious friction. We may overcome this mindset with time. Will that be months or years? And can gyms survive that long in the meantime?
+
+We might have to start scheduling when we attend the gym. More friction. What [little socializing](/2019/04/millennials-have-killed-the-glitter-gym/) that was left in the gym is likely going to be gone now. One less reason to show up.
+
+I don't go to group fitness classes, but I can't imagine these recovering for years - if ever. A closed room with lots of heavy breathing, sweat, and movement. How are gyms with these classes going to make their members feel safe? 6-feet apart on a beach I understand. In a closed room? Even if you were able to pull it off, how do the economics work with staffing and scheduling? There will be waves of canceled memberships.
+
+![Fitness Class](./img/bruce-mars-fitness-class.jpg)
+
+_Photo by [bruce mars](https://unsplash.com/@brucemars?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+
+Remember saunas, steam rooms, and hot tubs? I can't see them coming back for a long time. There goes another wave of cancelations. Hot yoga? Probably gone too.
+
+Older members and those in high-risk groups are going to cancel in massive numbers. Sadly, exercise is what many of these people need to improve their health and reduce their risk status.
 
 
 ### The Gym of the Future
 
 
-Watch this 1-minute video for a preview of what gyms might look like in the near future. [Gyms Reopen With New Coronavirus Rules in Hong Kong](https://www.youtube.com/watch?v=bbhXrrR6cNI) If you follow the link to YouTube, be sure to read the comments. Right or wrong, people have become germophobes. I'd like to think those leaving comments don't represent gym customers, but this is a health story on Bloomberg. People that care about health and consume financial news are the most likely to appreciate risk.
+Watch this 1-minute video for a preview of what gyms might look like in the near future.
+
+[Gyms Reopen With New Coronavirus Rules in Hong Kong](https://www.youtube.com/watch?v=bbhXrrR6cNI)
+
+If you follow the link to YouTube, be sure to read the comments. Right or wrong, people have become germophobes. I'd like to think those leaving comments don't represent gym customers, but this is a health story on Bloomberg. People that care about health and consume financial news are the most likely to appreciate risk.
 
 
 ### New Habits
 
 
-The biggest threat to gyms is likely going to be that we've all had a few months to figure out how to exercise at home. People are building home gyms and learning how to do bodyweight exercises. Peloton bikes are selling extremely well. People have discovered that YouTube has tons of fitness instruction including classes. And it is free. The most loyal fitness gym attenders haven't been sitting on the couch during the lockdown. They have been developing new habits. Why keep paying for a membership to the germ gym when you have a home gym now? More cancelations.
+The biggest threat to gyms is likely going to be that we've all had a few months to figure out how to exercise at home. People are building home gyms and learning how to do bodyweight exercises. Peloton bikes are selling extremely well. People have discovered that YouTube has tons of fitness instruction including classes. And it is free.
+
+The most loyal fitness gym attenders haven't been sitting on the couch during the lockdown. They have been developing new habits. Why keep paying for a membership to the germ gym when you have a home gym now? More cancelations.
 
 
 ### Last Call?
 
 
-The more I think about the situation, the grimmer it looks for gyms. A massive loss in revenue from canceled memberships combined with higher costs from increased staffing and supply needs. If they raise membership prices to handle lost revenue and increased costs, how many of the budget members will then cancel? 40 million US workers have lost their jobs already and perhaps [42% of those jobs are not coming back](https://news.uchicago.edu/story/will-coronavirus-related-job-losses-eventually-return). Those people will be less likely to renew their gym memberships. Finally, what happens to a gym when a member gets sick or passes away from the virus? How many members cancel when they get the call they need to be tested? Will this friction prove to be too much? And if there is a 2nd wave, the industry is likely toast. What are your thoughts? Am I being too concerned? Leave your prediction in the comments. In Part 2, I will explore this topic some more as well as making my own decision on if I will be canceling my own gym membership. _The gyms I am referring to in this article are primarily the Glitter Gyms (LA Fitness, 24 Hour Fitness, Planet Fitness, etc). True High Intensity (Body By Science and Super Slow) will likely do well (see the 1st and 3rd comments below). I'll go deeper on this point in Part 2._
+The more I think about the situation, the grimmer it looks for gyms. A massive loss in revenue from canceled memberships combined with higher costs from increased staffing and supply needs. If they raise membership prices to handle lost revenue and increased costs, how many of the budget members will then cancel?
+
+40 million US workers have lost their jobs already and perhaps [42% of those jobs are not coming back](https://news.uchicago.edu/story/will-coronavirus-related-job-losses-eventually-return). Those people will be less likely to renew their gym memberships.
+
+Finally, what happens to a gym when a member gets sick or passes away from the virus? How many members cancel when they get the call they need to be tested? Will this friction prove to be too much? And if there is a 2nd wave, the industry is likely toast.
+
+What are your thoughts? Am I being too concerned? Leave your prediction in the comments.
+
+In Part 2, I will explore this topic some more as well as making my own decision on if I will be canceling my own gym membership.
+
+_The gyms I am referring to in this article are primarily the Glitter Gyms (LA Fitness, 24 Hour Fitness, Planet Fitness, etc). True High Intensity (Body By Science and Super Slow) will likely do well (see the 1st and 3rd comments below). I'll go deeper on this point in Part 2._
 
 ---
 

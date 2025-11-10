@@ -9,7 +9,9 @@ description: "This week my plan was to cook up beef liver with a side of asparag
 commentCount: 8
 ---
 
-This week my plan was to cook up beef liver with a side of asparagus, but I realized I was short on pans. So I decided to cook everything together. It totally worked and I had one less dish to wash. **Summary**: _A simple way to prepare beef liver._
+This week my plan was to cook up beef liver with a side of asparagus, but I realized I was short on pans. So I decided to cook everything together. It totally worked and I had one less dish to wash.
+
+**Summary**: _A simple way to prepare beef liver._
 
 
 #### Ingredients
@@ -50,7 +52,11 @@ I used tallow, but after reading the [comment left by garymor](/2012/02/reversin
 #### Variations
 
 
-I think adding mushrooms would make this dish even better. Preparation time: 20 minute(s) Cooking time: 15 minute(s)
+I think adding mushrooms would make this dish even better.
+
+Preparation time: 20 minute(s)
+
+Cooking time: 15 minute(s)
 
 ---
 

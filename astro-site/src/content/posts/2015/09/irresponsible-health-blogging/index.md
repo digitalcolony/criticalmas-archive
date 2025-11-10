@@ -9,7 +9,25 @@ description: "I need some feedback. Something has been bothering me for a while 
 commentCount: 31
 ---
 
-I need some feedback. Something has been bothering me for a while now. It has to do with blogging about health and nutrition. When hobbyists like myself learn new information, change our views, and come to the realization that some of our older posts are incomplete or flat-out wrong, what should we do? The way I blog about health topics has changed. I've gone from being confident that I had the answers to having confidence that the people I was reading at the time had the answers. And I've been wrong on both accounts many times. In recent years, I've taken a different approach. Instead of taking sides, I acknowledge that I don't know and do my best to cover the various sides of the argument. Then I will put forth my current view on how it applies to me. Like the investor who thinks he has a good basket of stocks but knows he could be wrong. ![robot](./img/2378205727_0f41181560_o.gif) _[Photo](https://flic.kr/p/4C9VH2) by Heather Krisman_ Every month I receive comments, mostly to older posts from people who are hurting. They get on a search engine, type in their concerns, and land on one of my posts. A small fraction of those people will leave a comment asking me to help them. This is not earth-shattering news that people seek out information on sites with no credibility. On search engines, my site often outranks real scientists, not because my content is better, but because I have a 15-year-old domain, a fast server, and the site is mobile-friendly. Over on [my coffee site](https://ineedcoffee.com/), I continue to go back and improve older articles. New photos and better instructions. But even if I didn't, the stakes a reader takes by following my article are low. The coffee might be too weak or too bitter. Unpleasant, but no big loss. If however, someone follows incorrect or incomplete information here they could end up in worse health. This is concerning. There is a date in the URL of each post telling the reader those were my views on that day. I use that piece of information when judging content. I don't think everyone does. I believe that sites that don't do that with health or financial information are less trustworthy. See [Blogging and Permalinks](/2014/06/blogging-permalinks/). Some thoughts.
+I need some feedback. Something has been bothering me for a while now. It has to do with blogging about health and nutrition. When hobbyists like myself learn new information, change our views, and come to the realization that some of our older posts are incomplete or flat-out wrong, what should we do?
+
+The way I blog about health topics has changed. I've gone from being confident that I had the answers to having confidence that the people I was reading at the time had the answers. And I've been wrong on both accounts many times.
+
+In recent years, I've taken a different approach. Instead of taking sides, I acknowledge that I don't know and do my best to cover the various sides of the argument. Then I will put forth my current view on how it applies to me. Like the investor who thinks he has a good basket of stocks but knows he could be wrong.
+
+![robot](./img/2378205727_0f41181560_o.gif)
+
+_[Photo](https://flic.kr/p/4C9VH2) by Heather Krisman_
+
+Every month I receive comments, mostly to older posts from people who are hurting. They get on a search engine, type in their concerns, and land on one of my posts. A small fraction of those people will leave a comment asking me to help them.
+
+This is not earth-shattering news that people seek out information on sites with no credibility. On search engines, my site often outranks real scientists, not because my content is better, but because I have a 15-year-old domain, a fast server, and the site is mobile-friendly.
+
+Over on [my coffee site](https://ineedcoffee.com/), I continue to go back and improve older articles. New photos and better instructions. But even if I didn't, the stakes a reader takes by following my article are low. The coffee might be too weak or too bitter. Unpleasant, but no big loss. If however, someone follows incorrect or incomplete information here they could end up in worse health. This is concerning.
+
+There is a date in the URL of each post telling the reader those were my views on that day. I use that piece of information when judging content. I don't think everyone does. I believe that sites that don't do that with health or financial information are less trustworthy. See [Blogging and Permalinks](/2014/06/blogging-permalinks/).
+
+Some thoughts.
 
 1.  Go back and remove and/or redirect older posts. This would be a ton of work. Also, it assumes that I now know the information on those posts is wrong, which itself could be wrong. In other words, I could be wrong that I got it wrong.
 2.  Leave the posts as they are. This shows the journey of how I changed as I encountered new information. This path assumes the reader is going to play catch up, which most won't.

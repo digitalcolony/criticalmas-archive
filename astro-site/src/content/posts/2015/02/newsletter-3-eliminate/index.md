@@ -9,13 +9,19 @@ description: "Yesterday I sent out my 3rd newsletter, which I called Eliminate. 
 commentCount: 4
 ---
 
-Yesterday I sent out my 3rd newsletter, which I called Eliminate. For those that aren't signed up, here is a direct link to Newsletter #3:
+Yesterday I sent out my 3rd newsletter, which I called Eliminate.
+
+For those that aren't signed up, here is a direct link to Newsletter #3:
 
 
 ### [http://eepurl.com/bdt0cL](http://eepurl.com/bdt0cL)
 
 
-After I sent the newsletter, I noticed an extra word in the first sentence. Unlike a webpage, there is no way for me to go back in time and eliminate that word. Doesn't appear to be a way to fix the archived copy either. That error will live on. Probably a lesson there. If you have any others comments regarding the newsletter, leave them below. ![snow-smile](./img/snow-smile.jpg)
+After I sent the newsletter, I noticed an extra word in the first sentence. Unlike a webpage, there is no way for me to go back in time and eliminate that word. Doesn't appear to be a way to fix the archived copy either. That error will live on. Probably a lesson there.
+
+If you have any others comments regarding the newsletter, leave them below.
+
+![snow-smile](./img/snow-smile.jpg)
 
 ---
 

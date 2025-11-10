@@ -9,11 +9,21 @@ description: "After posting Carbohydrate Observations From Malaysia, I returned 
 commentCount: 2
 ---
 
-After posting [Carbohydrate Observations From Malaysia](/2009/12/carbohydrate-observations-from-malaysia/), I returned to the streets of Kuala Lumpur to look for more patterns to support or refute by observations. The first thing I want to clarify is that Malaysian women are overweight, not necessarily obese. This is not New Orleans. However, these women are clearly heavier than those in Thailand and Cambodia. They also have worse skin. I believe my religion hypothesis has merit. The women in Muslim or Hindu dress are heavier than those that aren't. Restricting meat means restricting fat. Less fat means more carbs. So far I have just mentioned the women as being heavy. The men were not nearly as overweight. Why? A large number of men in Kuala Lumpur smoke cigarettes. Nicotine is a powerful drug that increases fat mobilization. According to Good Calories, Bad Calories by Gary Taubes:
+After posting [Carbohydrate Observations From Malaysia](/2009/12/carbohydrate-observations-from-malaysia/), I returned to the streets of Kuala Lumpur to look for more patterns to support or refute by observations.
+
+The first thing I want to clarify is that Malaysian women are overweight, not necessarily obese. This is not New Orleans. However, these women are clearly heavier than those in Thailand and Cambodia. They also have worse skin.
+
+I believe my religion hypothesis has merit. The women in Muslim or Hindu dress are heavier than those that aren't. Restricting meat means restricting fat. Less fat means more carbs.
+
+So far I have just mentioned the women as being heavy. The men were not nearly as overweight. Why? A large number of men in Kuala Lumpur smoke cigarettes. Nicotine is a powerful drug that increases fat mobilization. According to Good Calories, Bad Calories by Gary Taubes:
 
 > ...nicotine appears to induce weight loss and fat loss not by suppressing appetite but by freeing up fatty acids from the fat cells and directing them to muscle cells, where they're taken up and oxidized, providing the body with excess energy in the process.
 
-I rarely saw Thai men smoking. Nicotine may be keeping Malaysian men 6-10 pounds lighter than they would be if they didn't smoke. If I were counseling overweight Malaysians with strong religious beliefs on meat consumption, I'd advise them to cut their rice and noodle intake and increase their intake of coconut cream until they are no longer hungry. Coconut cream (or coconut milk) should be a staple in any meat restrictive diet. It is loaded with healthy fat and will not spike your insulin levels. When insulin levels are low, the body favors fat mobilization over fat storage. Oh yeah, stop drinking those sugar-loaded coffee drinks. They've porked out an entire generation of American women. No need to make the same mistake.
+I rarely saw Thai men smoking. Nicotine may be keeping Malaysian men 6-10 pounds lighter than they would be if they didn't smoke.
+
+If I were counseling overweight Malaysians with strong religious beliefs on meat consumption, I'd advise them to cut their rice and noodle intake and increase their intake of coconut cream until they are no longer hungry. Coconut cream (or coconut milk) should be a staple in any meat restrictive diet. It is loaded with healthy fat and will not spike your insulin levels. When insulin levels are low, the body favors fat mobilization over fat storage.
+
+Oh yeah, stop drinking those sugar-loaded coffee drinks. They've porked out an entire generation of American women. No need to make the same mistake.
 
 ---
 

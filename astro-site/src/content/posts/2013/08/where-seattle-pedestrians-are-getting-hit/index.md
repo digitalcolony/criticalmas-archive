@@ -9,7 +9,13 @@ description: "In June, the Seattle PI put out the article \"Where Seattle Walke
 commentCount: 3
 ---
 
-In June, the Seattle PI put out the article "Where Seattle Walkers Get Hit". It pulled data across 3 years to show which were the most dangerous intersections. As someone who has been [hit by a car](/2011/11/getting-hit-by-a-car/) in Seattle, this article was of interest to me. However, the data was in a horrible format. Instead of having a single map, our local newspaper spread the dataset across 34 pages to drive up pageviews. _It's not like people are getting killed..oh yeah they are._ Last week, I met some developers working for the [Code For Seattle](http://www.meetup.com/openseattle/) project. One of the members told me about a mapping solution call MapBox. Tonight, I rebuilt the Seattle PI article as a single map, which shows the most dangerous intersections in red, followed by orange and yellow. UPDATE 2015: MapBox stopped working for embeds. Direct links to the map only work if you are logged in using my account. So sorry this map is no longer available. This is the price of FREE. I won't be using them ever again.
+In June, the Seattle PI put out the article "Where Seattle Walkers Get Hit". It pulled data across 3 years to show which were the most dangerous intersections. As someone who has been [hit by a car](/2011/11/getting-hit-by-a-car/) in Seattle, this article was of interest to me. However, the data was in a horrible format. Instead of having a single map, our local newspaper spread the dataset across 34 pages to drive up pageviews.
+
+_It's not like people are getting killed..oh yeah they are._
+
+Last week, I met some developers working for the [Code For Seattle](http://www.meetup.com/openseattle/) project. One of the members told me about a mapping solution call MapBox. Tonight, I rebuilt the Seattle PI article as a single map, which shows the most dangerous intersections in red, followed by orange and yellow.
+
+UPDATE 2015: MapBox stopped working for embeds. Direct links to the map only work if you are logged in using my account. So sorry this map is no longer available. This is the price of FREE. I won't be using them ever again.
 
 ---
 

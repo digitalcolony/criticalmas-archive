@@ -9,7 +9,17 @@ description: "One of the criticisms I got regarding The Potato Hack was that onc
 commentCount: 12
 ---
 
-One of the criticisms I got regarding [The Potato Hack](/2016/11/potato-diet-calorie-savings-account/) was that once the hack ended and normal eating resumed that I'd regain the weight I lost. My critic claimed it was a lot of effort for unsustainable results. Was my critic correct? Nope. Not only did I keep off the weight that I lost during both 4-day Potato Hacks this summer (early June and mid-August), but I continued to lose fat afterward. I believe the primary reason is that the hack helps turn down your cravings for highly flavored foods, which tend to be high in calories. Foods that normally just taste good now taste better. Also, repeatedly interrupting the need to reach for high-calorie foods builds a habit that carries forward after the diet ends. However, I did notice something odd. Based on the number of calories I was cutting both during and just after the hack, I thought I would lose more weight. What happened just after each Hack was that I stalled for a week or so. Then when I didn't expect it, my skin would tighten up and the tape measure and scale would indicate I had lost more weight. One thing I've noticed when losing fat is that the fat doesn't go from "now it's here" to "now it's gone". There is this middle stage where the fat seems softer. The term that came to mind was squishy. When I searched on "squishy fat", I found this article by the always inciteful Lyle McDonald. [Of Whooshes and Squishy Fat](https://bodyrecomposition.com/fat-loss/of-whooshes-and-squishy-fat) From the article:
+One of the criticisms I got regarding [The Potato Hack](/2016/11/potato-diet-calorie-savings-account/) was that once the hack ended and normal eating resumed that I'd regain the weight I lost. My critic claimed it was a lot of effort for unsustainable results. Was my critic correct? Nope.
+
+Not only did I keep off the weight that I lost during both 4-day Potato Hacks this summer (early June and mid-August), but I continued to lose fat afterward. I believe the primary reason is that the hack helps turn down your cravings for highly flavored foods, which tend to be high in calories. Foods that normally just taste good now taste better. Also, repeatedly interrupting the need to reach for high-calorie foods builds a habit that carries forward after the diet ends.
+
+However, I did notice something odd. Based on the number of calories I was cutting both during and just after the hack, I thought I would lose more weight. What happened just after each Hack was that I stalled for a week or so. Then when I didn't expect it, my skin would tighten up and the tape measure and scale would indicate I had lost more weight.
+
+One thing I've noticed when losing fat is that the fat doesn't go from "now it's here" to "now it's gone". There is this middle stage where the fat seems softer. The term that came to mind was squishy. When I searched on "squishy fat", I found this article by the always inciteful Lyle McDonald.
+
+[Of Whooshes and Squishy Fat](https://bodyrecomposition.com/fat-loss/of-whooshes-and-squishy-fat)
+
+From the article:
 
 > Many people have noted that fat loss is often discontinuous, that is it often happens in stops and starts. So you’ll be dieting and dieting and doing everything correctly with nothing to show for it. Then, boom, almost overnight, you drop 4 pounds and look leaner.
 
@@ -17,7 +27,13 @@ The article continues:
 
 > What’s going on? Back during my college days, one of my professors threw out the idea that after fat cells had been emptied of stored triglyceride, they would temporarily refill with water (glycerol attracts water, which might be part of the mechanism). So there would be no immediate change in size, body weight or appearance. Then, after some time frame, the water would get dropped, the fat cells would shrink. A weird way of looking at it might be that the fat loss suddenly becomes ‘apparent’. That is, the fat was emptied and burned off days or weeks ago but until the water is dropped, nothing appears to have happened.
 
-That is exactly my experience just after a Potato Hack. Because my fat felt "squishy", I didn't get the visual affirmation until a week or more after the hack ended. Therein lies a lesson. Although the Potato Hack is about placing all your effort into a short period of time, your reward may not come right away. But don't fear and don't get frustrated. Think of this like a job where they hold your first paycheck. You are still getting paid. Be patient. ![calendar](./img/calendar.jpg) _Photo by [Eric Rothermel](https://unsplash.com/@erothermel)_
+That is exactly my experience just after a Potato Hack. Because my fat felt "squishy", I didn't get the visual affirmation until a week or more after the hack ended.
+
+Therein lies a lesson. Although the Potato Hack is about placing all your effort into a short period of time, your reward may not come right away. But don't fear and don't get frustrated. Think of this like a job where they hold your first paycheck. You are still getting paid. Be patient.
+
+![calendar](./img/calendar.jpg)
+
+_Photo by [Eric Rothermel](https://unsplash.com/@erothermel)_
 
 ---
 

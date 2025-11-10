@@ -9,7 +9,25 @@ description: "When I was young I read a profile on Ted Turner. Sure he was a sel
 commentCount: 4
 ---
 
-When I was young I read a profile on Ted Turner. Sure he was a self-made multi-millionaire that founded CNN and owned a baseball team. However, the thing I recall the most about Ted Turner was that despite all his millions, he cut his own hair. Now I was just a kid when I read this story, but I filed away that tidbit as important information. ![](./img/turner-hair.jpg "turner-hair") I really don't like getting haircuts. I don't like waiting and most places over charge. The great thing about living in San Diego was it was a military town, so you had military barbers. Cheap and fast. The closest thing Seattle has to the military is the Girl Scouts. This means no military barber. While living in Bellevue, I found a Vietnamese place that was a 2 block walk from my apartment. It was cheap and fast. This is the place I accidentally gave [the big tip](/2008/06/the-big-tipper/). Now I get the Sinatra treatment, so even though I now live on the Seattle side of the bridge, I time my haircuts whenever I need to run errands on the Eastside. Yesterday I needed a haircut. Yesterday it was pouring rain. Yesterday I remembered that Ted Turner cut his own hair. Yesterday I drew blood. A lot of blood. Now did Ted Turner cut his own hair because he funneled every extra dollar into his media empire? Or did he cut his own hair because he was a crazy redneck and everybody had awful looking hair in the early 1980s?
+When I was young I read a profile on Ted Turner. Sure he was a self-made multi-millionaire that founded CNN and owned a baseball team. However, the thing I recall the most about Ted Turner was that despite all his millions, he cut his own hair. Now I was just a kid when I read this story, but I filed away that tidbit as important information.
+
+![](./img/turner-hair.jpg "turner-hair")
+
+I really don't like getting haircuts. I don't like waiting and most places over charge. The great thing about living in San Diego was it was a military town, so you had military barbers. Cheap and fast. The closest thing Seattle has to the military is the Girl Scouts. This means no military barber.
+
+While living in Bellevue, I found a Vietnamese place that was a 2 block walk from my apartment. It was cheap and fast. This is the place I accidentally gave [the big tip](/2008/06/the-big-tipper/). Now I get the Sinatra treatment, so even though I now live on the Seattle side of the bridge, I time my haircuts whenever I need to run errands on the Eastside.
+
+Yesterday I needed a haircut.
+
+Yesterday it was pouring rain.
+
+Yesterday I remembered that Ted Turner cut his own hair.
+
+Yesterday I drew blood.
+
+A lot of blood.
+
+Now did Ted Turner cut his own hair because he funneled every extra dollar into his media empire? Or did he cut his own hair because he was a crazy redneck and everybody had awful looking hair in the early 1980s?
 
 ---
 

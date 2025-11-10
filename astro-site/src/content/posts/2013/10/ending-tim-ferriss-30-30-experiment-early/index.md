@@ -9,7 +9,15 @@ description: "On Friday September 20th I began each morning by consuming 30 gram
 commentCount: 27
 ---
 
-On Friday September 20th I began each morning by consuming [30 grams of protein within 30 minutes of waking](/2013/09/30-30-experiment/). This is a fat loss strategy Tim Ferriss explained in his book _The 4 Hour Body_. Less than 3 weeks after starting, I've decided to end this experiment. It not only isn't working, but I've actually gained 4 more pounds. It has been a disaster. My hunger levels are higher than before. I now think about eating all day long. ![The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman](https://images-na.ssl-images-amazon.com/images/I/41DeCVMleRL.jpg) _The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman by Timothy Ferriss_ When I mentioned the experiment, I was concerned that it might not work as well for ectomorphs or those of us within 10 (now 14 ) pounds of our ideal weight. Some of the comments I received mirrored my experience. From [JM](/2013/09/30-30-experiment/#comment-20426):
+On Friday September 20th I began each morning by consuming [30 grams of protein within 30 minutes of waking](/2013/09/30-30-experiment/). This is a fat loss strategy Tim Ferriss explained in his book _The 4 Hour Body_. Less than 3 weeks after starting, I've decided to end this experiment.
+
+It not only isn't working, but I've actually gained 4 more pounds. It has been a disaster. My hunger levels are higher than before. I now think about eating all day long.
+
+![The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman](https://images-na.ssl-images-amazon.com/images/I/41DeCVMleRL.jpg) _The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman by Timothy Ferriss_
+
+When I mentioned the experiment, I was concerned that it might not work as well for ectomorphs or those of us within 10 (now 14 ) pounds of our ideal weight. Some of the comments I received mirrored my experience.
+
+From [JM](/2013/09/30-30-experiment/#comment-20426):
 
 > I tried that experiment 2 separate times. Each time, I put on weight. I rotated between canned fish, beef patties or chicken breast. It did not suppress my appetite and the additional calories added up over the month.
 

@@ -9,7 +9,15 @@ description: "Yesterday was a great day to visit Vashon Island. Here are a few p
 commentCount: 3
 ---
 
-Yesterday was a great day to visit Vashon Island. Here are a few photos. ![vashon-island-3](./img/vashon-island-3.jpg) ![vashon-island-2](./img/vashon-island-2.jpg) ![vashon-island-1](./img/vashon-island-1.jpg) I did visit an interesting historical coffee site. Look for a post later this week on that.
+Yesterday was a great day to visit Vashon Island. Here are a few photos.
+
+![vashon-island-3](./img/vashon-island-3.jpg)
+
+![vashon-island-2](./img/vashon-island-2.jpg)
+
+![vashon-island-1](./img/vashon-island-1.jpg)
+
+I did visit an interesting historical coffee site. Look for a post later this week on that.
 
 ---
 

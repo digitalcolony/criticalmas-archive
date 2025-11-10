@@ -9,7 +9,11 @@ description: "My thoughts on nutrition have changed quite a bit in last few year
 commentCount: 8
 ---
 
-My thoughts on nutrition have changed quite a bit in last few years. I was just going through the archives and I came across the post I did after my December 2011 trip to Ohio. In the post [Paleo in Ohio](/2011/12/paleo-in-ohio-adventures-in-inflammation/), I declared there were **4 toxins** when it came to diet. They were: Gluten, Veggie Oils, Sugar, and Legumes (except long fermented soy). My analysis at the time:
+My thoughts on nutrition have changed quite a bit in last few years. I was just going through the archives and I came across the post I did after my December 2011 trip to Ohio. In the post [Paleo in Ohio](/2011/12/paleo-in-ohio-adventures-in-inflammation/), I declared there were **4 toxins** when it came to diet.
+
+They were: Gluten, Veggie Oils, Sugar, and Legumes (except long fermented soy).
+
+My analysis at the time:
 
 > For me gluten is the worst toxin. I get splitting headaches and skin inflammation. And once you read up on the dangers of veggie oils, you will do everything in your power to remove them. However, they are everywhere and they can take 2 years to get out of your system. Sugar has never been a problem with me, nor has legumes. Plus they are the easiest to spot and avoid.
 
@@ -21,25 +25,51 @@ My thoughts on nutrition have changed quite a bit in last few years. I was just 
 ### Legumes
 
 
-I was dead wrong on legumes, because I listened to Paleo. The reality is legumes are healthy when they are prepared properly. This is something the [WAPF](/2011/02/paleo-vs-weston-price/) people get correct. Beans are nutritious and a staple in many cultures. There are recipes that go back hundreds if not thousands of years that use legumes. The trick with beans is to soak and sprout. This is how traditional cultures prepared beans and if there were any evidence that the legumes were harming them, I'm guessing they would have ceased cooking with them a long time ago. When it comes to soy, I stick to miso soup and [natto](/2013/12/natto/). I still don't trust tofu, but if it happens to land in my Korean stew I'll eat it. ![soak-sprout-lentil](./img/soak-sprout-lentil.jpg) _I soak and sprout lentils when I make [Dal](/2012/05/making-lentil-dal/)._
+I was dead wrong on legumes, because I listened to Paleo.
+
+The reality is legumes are healthy when they are prepared properly. This is something the [WAPF](/2011/02/paleo-vs-weston-price/) people get correct. Beans are nutritious and a staple in many cultures. There are recipes that go back hundreds if not thousands of years that use legumes. The trick with beans is to soak and sprout. This is how traditional cultures prepared beans and if there were any evidence that the legumes were harming them, I'm guessing they would have ceased cooking with them a long time ago.
+
+When it comes to soy, I stick to miso soup and [natto](/2013/12/natto/). I still don't trust tofu, but if it happens to land in my Korean stew I'll eat it.
+
+![soak-sprout-lentil](./img/soak-sprout-lentil.jpg)
+
+_I soak and sprout lentils when I make [Dal](/2012/05/making-lentil-dal/)._
 
 
 ### Sugar
 
 
-Boy has my opinion changed on sugar. It is not toxic. It has become the whipping boy of almost every nutritional camp. Sugar is fine and potentially beneficial in limited quantities. Sugar is an anti-stress food. You can use it to [build muscle](/2012/07/why-ice-cream-is-better-than-protein-powder/) or [improve your sleep](/2014/01/amazing-back-sleep-hack/). Defending sugar is a tough sell. If you have an open mind that sugar might have gotten a bad reputation, listen to Evil Sugar Radio Episode 2: The Truth About Carbs & Sugar. Sugar does have a lot of bad friends though. It is often found in foods that have been heavily processed or [engineered to encourage overconsumption](/2012/06/deep-nutrition-perfect-health-diet-and-the-end-of-overeating/). We still want to avoid or minimize those processed foods. ![coffee-ice-cream](./img/coffee-ice-cream.jpg) _Ice cream is a healthy food with sugar. Oreo cookies are an unhealthy food with sugar. Sugar isn't bad, but it often hangs out with bad ingredients._
+Boy has my opinion changed on sugar. It is not toxic. It has become the whipping boy of almost every nutritional camp. Sugar is fine and potentially beneficial in limited quantities. Sugar is an anti-stress food. You can use it to [build muscle](/2012/07/why-ice-cream-is-better-than-protein-powder/) or [improve your sleep](/2014/01/amazing-back-sleep-hack/).
+
+Defending sugar is a tough sell. If you have an open mind that sugar might have gotten a bad reputation, listen to Evil Sugar Radio Episode 2: The Truth About Carbs & Sugar.
+
+Sugar does have a lot of bad friends though. It is often found in foods that have been heavily processed or [engineered to encourage overconsumption](/2012/06/deep-nutrition-perfect-health-diet-and-the-end-of-overeating/). We still want to avoid or minimize those processed foods.
+
+![coffee-ice-cream](./img/coffee-ice-cream.jpg)
+
+_Ice cream is a healthy food with sugar. Oreo cookies are an unhealthy food with sugar. Sugar isn't bad, but it often hangs out with bad ingredients._
 
 
 ### Veggie **Oils**
 
 
-My opinion that vegetable oils are toxic is even stronger today than before. Last December I did a 3 part series on the problem with PUFA: [The Common Enemy in Nutrition](/2013/11/common-enemy-nutrition/), [The Problem with PUFA](/2013/11/problem-pufa/) and [Quantifying PUFA, Expert Opinion and My Conclusion](/2013/12/quantifying-pufa-expert-opinion/). Even though I am fully aware that veggie oils are bad news, I also know they can't be avoided if you go out to eat. So I refuse to stress about it. I will pick foods that I believe use none or minimal fats during cooking when I am out. [Pho](/2012/07/pho-photos/) is good, fries are awful.
+My opinion that vegetable oils are toxic is even stronger today than before. Last December I did a 3 part series on the problem with PUFA: [The Common Enemy in Nutrition](/2013/11/common-enemy-nutrition/), [The Problem with PUFA](/2013/11/problem-pufa/) and [Quantifying PUFA, Expert Opinion and My Conclusion](/2013/12/quantifying-pufa-expert-opinion/).
+
+Even though I am fully aware that veggie oils are bad news, I also know they can't be avoided if you go out to eat. So I refuse to stress about it. I will pick foods that I believe use none or minimal fats during cooking when I am out. [Pho](/2012/07/pho-photos/) is good, fries are awful.
 
 
 ### Gluten 
 
 
-I still think gluten is a big problem for society and myself. We may not understand why, but the fact it is unexplained doesn't mean the problem doesn't exist. There is an entire wave of gluten defenders that are peddling the message that abstaining from wheat is orthorexic. They state that 90-91% of the population is fine with wheat, so not eating wheat is based upon fear. I think their logic is flawed. When I see 10% of the population getting sick from a single food in increasing numbers, I want to know why. I cover the "It's Only 10%" argument in the post [Was I Wrong About Gluten? Part 2](/2013/09/wrong-gluten-part-2/). The one thing I have changed my mind about when it comes to gluten/wheat is I now believe it is possible and even desirable to cure your intolerance. Not because wheat is nutritious, but because it makes sense to be resilient. Walling yourself off from the world may help reduce symptoms, but it doesn't address the underlying cause of why certain foods cause you to feel awful. I haven't been able to cure my intolerance, but I can handle trace exposure now (soy sauce, 2-3 oz of beer). [![rice-flakes](./img/rice-flakes.jpg)](./img/rice-flakes.jpg) _I use rice flakes to make [gluten free lasagna](/2012/08/gluten-free-lasagna/). I don't miss wheat at all._ 
+I still think gluten is a big problem for society and myself. We may not understand why, but the fact it is unexplained doesn't mean the problem doesn't exist. There is an entire wave of gluten defenders that are peddling the message that abstaining from wheat is orthorexic. They state that 90-91% of the population is fine with wheat, so not eating wheat is based upon fear. I think their logic is flawed. When I see 10% of the population getting sick from a single food in increasing numbers, I want to know why.
+
+I cover the "It's Only 10%" argument in the post [Was I Wrong About Gluten? Part 2](/2013/09/wrong-gluten-part-2/).
+
+The one thing I have changed my mind about when it comes to gluten/wheat is I now believe it is possible and even desirable to cure your intolerance. Not because wheat is nutritious, but because it makes sense to be resilient. Walling yourself off from the world may help reduce symptoms, but it doesn't address the underlying cause of why certain foods cause you to feel awful. I haven't been able to cure my intolerance, but I can handle trace exposure now (soy sauce, 2-3 oz of beer).
+
+[![rice-flakes](./img/rice-flakes.jpg)](./img/rice-flakes.jpg)
+
+_I use rice flakes to make [gluten free lasagna](/2012/08/gluten-free-lasagna/). I don't miss wheat at all._ 
 
 
 ### New Toxins?

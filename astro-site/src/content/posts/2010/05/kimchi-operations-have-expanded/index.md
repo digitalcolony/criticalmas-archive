@@ -9,4 +9,6 @@ description: "Why make 2 pounds of kimchi, when you can make 6? ![](./img/kimchi
 commentCount: 0
 ---
 
-Why make 2 pounds of [kimchi](/2010/04/bok-choy-kimchi-recipe/), when you can make 6? ![](./img/kimchi-making-1024x766.jpg "kimchi-making")
+Why make 2 pounds of [kimchi](/2010/04/bok-choy-kimchi-recipe/), when you can make 6?
+
+![](./img/kimchi-making-1024x766.jpg "kimchi-making")

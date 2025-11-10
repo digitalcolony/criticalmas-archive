@@ -9,7 +9,13 @@ description: "I just finished reading the book Now, Discover Your Strengths by M
 commentCount: 0
 ---
 
-I just finished reading the book Now, Discover Your Strengths by Marcus Buckingham and Donald O. Clifton. It's a book and an online test. The authors have isolated and defined 34 distinct strengths or themes common with people. Their thesis is that we all have a top five that best matches us. And that in order to excel in life, we should NOT work on weaknesses, but instead focus even more on those top five strengths. Each book comes with one key to take an online test, so if taking the test is important to you then I suggest buying a new copy of the book. If you are like me and are able to self assess, then you can save a few bucks by getting a used copy. Here are my top 5 Strengths and a snippet of the definition from the book. 1-Achiever
+I just finished reading the book Now, Discover Your Strengths by Marcus Buckingham and Donald O. Clifton. It's a book and an online test. The authors have isolated and defined 34 distinct strengths or themes common with people. Their thesis is that we all have a top five that best matches us. And that in order to excel in life, we should NOT work on weaknesses, but instead focus even more on those top five strengths.
+
+Each book comes with one key to take an online test, so if taking the test is important to you then I suggest buying a new copy of the book. If you are like me and are able to self assess, then you can save a few bucks by getting a used copy.
+
+Here are my top 5 Strengths and a snippet of the definition from the book.
+
+1-Achiever
 
 > Achiever describes a constant need for achievement. You feel as if every day starts at zero. By the end of the day you must achieve something tangible in order to feel good about yourself. And by "every day" you mean every single day -- workdays, weekdays, vacations.
 

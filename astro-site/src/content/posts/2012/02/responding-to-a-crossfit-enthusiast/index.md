@@ -11,19 +11,31 @@ commentCount: 23
 
 In the post [Help Me Understand CrossFit](/2011/03/understand-crossfit/), I got a great [comment from Jay](/2011/03/understand-crossfit/#comment-11165) about competitive CrossFit athletes.
 
-> Speaking to the point that several of you have made regarding CrossFit's level of danger/lack of safety.What most of you are saying is CrossFit provides the same level of results or strength or fitness as other, much safer means of training My response: bullsh$t. Either you are not as strong and fit as you think you are, or you are hugely underestimating the level of fitness a competitive CrossFit athlete has.
+> Speaking to the point that several of you have made regarding CrossFit's level of danger/lack of safety.What most of you are saying is CrossFit provides the same level of results or strength or fitness as other, much safer means of training
+> 
+> My response: bullsh$t. Either you are not as strong and fit as you think you are, or you are hugely underestimating the level of fitness a competitive CrossFit athlete has.
 
 And...
 
 > We can do everything you do, just as good as you. You cant do anything we do.
 
-My response is that in a narrow sense, Jay is absolutely correct. _Competitive_ CrossFit athletes of today are in better shape than I ever will be. However, it is too easy to draw false conclusions by looking at the extremely successful, especially when your definition of success is different than mine. I am not a fitness professional. I'm just a fitness enthusiast with a background in finance. How I approach the goal of getting stronger is based on risk versus reward. I think many of the extreme fitness protocols of today, including CrossFit, understate the risk and overstate the reward. Discounting or minimizing the risk of injury doesn't make it go away.
+My response is that in a narrow sense, Jay is absolutely correct. _Competitive_ CrossFit athletes of today are in better shape than I ever will be. However, it is too easy to draw false conclusions by looking at the extremely successful, especially when your definition of success is different than mine.
+
+I am not a fitness professional. I'm just a fitness enthusiast with a background in finance. How I approach the goal of getting stronger is based on risk versus reward. I think many of the extreme fitness protocols of today, including CrossFit, understate the risk and overstate the reward. Discounting or minimizing the risk of injury doesn't make it go away.
 
 
 ### Survivorship Bias
 
 
-CrossFit is a sport and like any sport, certain people will rise to the top. Besides drive, they also tend to have good genetics and excellent recoverability skills. They also tend to be younger. As long as the business of CrossFit can keep adding survivors as the business expands, it will continue to attract new members. That is not proof of its efficacy. It is just proof of marketing. The fitness industry thrives on making us feel insecure about ourselves by pointing to extreme examples of success as evidence that with enough ambition, we too can be super athletes. In finance, countless value investors believe that with enough time and discipline, they can be the next Warren Buffet. In a competitive environment, some people will win. That victory may or may not happen from things within our control. What is the fair comparison when measuring strength protocols? Do you measure just the most successful or everyone? I believe you should count everyone, not just the young and genetically gifted. That includes everyone who quit or got sidelined with injuries. Also, fitness isn't just a moment in time. How I treat my body today will impact the body I have when I get older. We tend to only imagine the benefits and not the costs. A benefit might be increased muscle mass. A cost might be a torn pectoral muscle from pushing yourself to do one too many reps. ![kettlebell](./img/4458533582_79bc0117d5_z.jpg) _[Photo](https://flic.kr/p/7MZ9GE) by Lóránt Dankaházi_
+CrossFit is a sport and like any sport, certain people will rise to the top. Besides drive, they also tend to have good genetics and excellent recoverability skills. They also tend to be younger. As long as the business of CrossFit can keep adding survivors as the business expands, it will continue to attract new members. That is not proof of its efficacy. It is just proof of marketing.
+
+The fitness industry thrives on making us feel insecure about ourselves by pointing to extreme examples of success as evidence that with enough ambition, we too can be super athletes. In finance, countless value investors believe that with enough time and discipline, they can be the next Warren Buffet. In a competitive environment, some people will win. That victory may or may not happen from things within our control.
+
+What is the fair comparison when measuring strength protocols? Do you measure just the most successful or everyone? I believe you should count everyone, not just the young and genetically gifted. That includes everyone who quit or got sidelined with injuries. Also, fitness isn't just a moment in time. How I treat my body today will impact the body I have when I get older. We tend to only imagine the benefits and not the costs. A benefit might be increased muscle mass. A cost might be a torn pectoral muscle from pushing yourself to do one too many reps.
+
+![kettlebell](./img/4458533582_79bc0117d5_z.jpg)
+
+_[Photo](https://flic.kr/p/7MZ9GE) by Lóránt Dankaházi_
 
 
 ### Seeking Alpha

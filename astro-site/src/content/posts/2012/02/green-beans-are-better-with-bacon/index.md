@@ -9,7 +9,9 @@ description: "Green beans with onions, garlic, red pepper flakes and bacon with 
 commentCount: 2
 ---
 
-Green beans with onions, garlic, red pepper flakes and bacon with a side of baked sweet potato. ![green-bean-bacon](./img/green-bean-bacon.jpg)
+Green beans with onions, garlic, red pepper flakes and bacon with a side of baked sweet potato.
+
+![green-bean-bacon](./img/green-bean-bacon.jpg)
 
 ---
 

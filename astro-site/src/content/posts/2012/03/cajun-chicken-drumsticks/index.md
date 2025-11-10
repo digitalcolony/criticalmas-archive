@@ -9,7 +9,9 @@ description: "Trader Joe's sells packages of organic chicken drumsticks for abou
 commentCount: 7
 ---
 
-_Trader Joe's_ sells packages of organic chicken drumsticks for about $3.30. That yields two meals. This week I made the absolutely best chicken drumsticks I've ever had using a Cajun Seasoning spice sent to me by Aviva, who lives in the New Orleans area. This Cajun Seasoning spice blend includes salt, garlic, red pepper, paprika and green onion. This meal is silly simple and at $1.65 per portion, it is also very affordable. And I used organic chicken. If you decide to use conventional chicken you can make this dish for under a $1.
+_Trader Joe's_ sells packages of organic chicken drumsticks for about $3.30. That yields two meals. This week I made the absolutely best chicken drumsticks I've ever had using a Cajun Seasoning spice sent to me by Aviva, who lives in the New Orleans area. This Cajun Seasoning spice blend includes salt, garlic, red pepper, paprika and green onion.
+
+This meal is silly simple and at $1.65 per portion, it is also very affordable. And I used organic chicken. If you decide to use conventional chicken you can make this dish for under a $1.
 
 1.  Preheat oven to 375F.
 2.  Pour some olive oil or melted butter on thawed chicken.
@@ -18,7 +20,11 @@ _Trader Joe's_ sells packages of organic chicken drumsticks for about $3.30. Tha
 5.  My oven takes about 30 minutes before the internal temperature of the chicken hits 160 degrees.
 6.  Remove from oven. Let it cool for a few minutes and then serve.
 
-My side dish was steamed broccoli with a little butter. ![cajun-chicken-drumsticks](./img/cajun-chicken-drumsticks.jpg) _Cajun Chicken Drumsticks_
+My side dish was steamed broccoli with a little butter.
+
+![cajun-chicken-drumsticks](./img/cajun-chicken-drumsticks.jpg)
+
+_Cajun Chicken Drumsticks_
 
 ---
 

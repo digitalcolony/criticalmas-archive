@@ -9,7 +9,11 @@ description: "Let me start by saying that I loved the new book by Nassim Nichola
 commentCount: 18
 ---
 
-Let me start by saying that I loved the new book by Nassim Nicholas Taleb, however, there was one point I believe Taleb fell for the survivorship bias he warned us about in Fooled By Randomness. ![Antifragile: Things That Gain from Disorder](https://images-na.ssl-images-amazon.com/images/I/41F8iht8SoL.jpg) _Antifragile: Things That Gain from Disorder by Nassim Nicholas Taleb_ If he only mentioned this once in the book, I would have let it slide, but I think it was repeated three times. Taleb disses machine-based weight training as being less effective than single-rep max lifting. There are a lot of poor assumptions here.
+Let me start by saying that I loved the new book by Nassim Nicholas Taleb, however, there was one point I believe Taleb fell for the survivorship bias he warned us about in Fooled By Randomness.
+
+![Antifragile: Things That Gain from Disorder](https://images-na.ssl-images-amazon.com/images/I/41F8iht8SoL.jpg) _Antifragile: Things That Gain from Disorder by Nassim Nicholas Taleb_
+
+If he only mentioned this once in the book, I would have let it slide, but I think it was repeated three times. Taleb disses machine-based weight training as being less effective than single-rep max lifting. There are a lot of poor assumptions here.
 
 1.  The fact that it appears that those using machines are less muscular than those using weights doesn't mean that machines are less effective. It could be the application of the use of those machines, nutrition, rest, or some other issue.
 2.  Taleb critiques machines because they lack the randomness of a "functional" movement such as the deadlift. But biomechanics aren't random. Our muscles move in certain paths. When you violate those paths with heavy loads, you risk injury. Now, if your skill requires those movements, then, by all means, train them. However, Taleb's motivation, like mine, is to just be strong and build muscle. What Taleb isn't seeing are all the single-rep max lifters that hurt themselves and are no longer working out.

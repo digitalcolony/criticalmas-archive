@@ -9,19 +9,39 @@ description: "I read a lot of nutritional blogs and it seems a growing topic is 
 commentCount: 11
 ---
 
-I read a lot of nutritional blogs and it seems a growing topic is the disagreement on the role of carbohydrates in the diet. Some are adamant about low-carb and others are equally adamant against low-carb diets. It is the calories vs insulin argument. Both sides of the debate are represented by some smart people who know their science, yet each side accuses the other of cherry-picking data to support their arguments. Nutrition in many ways is no different than finance. You turn on CNBC and you see 2 (or 10) _experts_ armed with data vehemently disagreeing with each other. I see the same thing happening across the Paleo blogosphere. Both sides of the carb wars are trying to recruit Paleo bloggers to their side. At first the Paleo bloggers were lining up strongly in the low-carb camp, but now it appears to be evening out. ![CNBC 10 ](./img/cnbc-10-heads.jpg "CNBC 10") _This CNBC Blah-Blah-Blah session reminds me of the Carb Wars._ I'm just a regular guy without a science background that happens to find nutrition interesting. I am not a [_PubMed Warrior_](/2012/11/not-a-pubmed-warrior/), but I have had success leaning out. Since I have zero interest in these silly controversies, I'm not picking a side. Instead, I am going to take the middle ground. All these battles do is discourage those that need the help the most. They walk away feeling overwhelmed and not knowing what to believe. Each side has a few cocky _know-it-alls_ and they each accuse the other of being wrong. I'm going to take the assumption that there is some truth in the arguments of both sides, but that neither side is 100% right all the time. In finance, this is called a [hedging strategy](/2013/04/approaching-nutrition-from-an-investors-mindset/). I've observed 4 areas where they are talking past each other.
+I read a lot of nutritional blogs and it seems a growing topic is the disagreement on the role of carbohydrates in the diet. Some are adamant about low-carb and others are equally adamant against low-carb diets. It is the calories vs insulin argument. Both sides of the debate are represented by some smart people who know their science, yet each side accuses the other of cherry-picking data to support their arguments.
+
+Nutrition in many ways is no different than finance. You turn on CNBC and you see 2 (or 10) _experts_ armed with data vehemently disagreeing with each other. I see the same thing happening across the Paleo blogosphere. Both sides of the carb wars are trying to recruit Paleo bloggers to their side. At first the Paleo bloggers were lining up strongly in the low-carb camp, but now it appears to be evening out.
+
+![CNBC 10 ](./img/cnbc-10-heads.jpg "CNBC 10")
+
+_This CNBC Blah-Blah-Blah session reminds me of the Carb Wars._
+
+I'm just a regular guy without a science background that happens to find nutrition interesting. I am not a [_PubMed Warrior_](/2012/11/not-a-pubmed-warrior/), but I have had success leaning out. Since I have zero interest in these silly controversies, I'm not picking a side. Instead, I am going to take the middle ground. All these battles do is discourage those that need the help the most. They walk away feeling overwhelmed and not knowing what to believe.
+
+Each side has a few cocky _know-it-alls_ and they each accuse the other of being wrong. I'm going to take the assumption that there is some truth in the arguments of both sides, but that neither side is 100% right all the time. In finance, this is called a [hedging strategy](/2013/04/approaching-nutrition-from-an-investors-mindset/).
+
+I've observed 4 areas where they are talking past each other.
 
 
 ### Target Audience
 
 
-One of the assumptions I see the carb wars is that they are speaking to the same target audience. At one end of the spectrum, you have a morbidly obese person and at the other end you have someone trying to strip off the last few ounces of body-fat. Doctors tend to focus on the obese trying to be healthy. Trainers tend to focus on the healthy trying to become optimal. Since no nutritional strategy has a 100% success rate, each group uses what works best for their audience. Each are trying to minimize their failure rate, but both have a selection bias. It is not a leap to suggest that those in worse shape have already had a strong bias towards excessive carbs and that going through a period of restriction would benefit them. It is also not a leap to say that those with healthy metabolisms that are at or near ideal weight can do better with higher levels of carbs. From personal observation, I fell that I can handle more carbs today than I could three years ago.
+One of the assumptions I see the carb wars is that they are speaking to the same target audience. At one end of the spectrum, you have a morbidly obese person and at the other end you have someone trying to strip off the last few ounces of body-fat.
+
+Doctors tend to focus on the obese trying to be healthy. Trainers tend to focus on the healthy trying to become optimal. Since no nutritional strategy has a 100% success rate, each group uses what works best for their audience. Each are trying to minimize their failure rate, but both have a selection bias.
+
+It is not a leap to suggest that those in worse shape have already had a strong bias towards excessive carbs and that going through a period of restriction would benefit them. It is also not a leap to say that those with healthy metabolisms that are at or near ideal weight can do better with higher levels of carbs. From personal observation, I fell that I can handle more carbs today than I could three years ago.
 
 
 ### What Is Low Carb?
 
 
-Low carb can mean different things to different people. Is it 50 grams or 100 grams a day? I'd argue that for the average overweight person following a Standard American Diet that the goal should be **lower carbs**. Strip out the sugar, bread and booze and you'll be consuming fewer carbs and most likely losing weight. How many grams is optimal? Why complicate things with measuring? Counting carbs and calories is so un-Paleo. Eat real food, eliminate the worst carbs (wheat, sugar, booze), relax and be patient. _Side note: Before you rush to the defense of alcohol, let me just say that people make poor eating decisions when they drink and they tend to have worse sleep. Get lean first, then add back the red wine or not._ What about starchy veggies and fruit? You can either spend hours combing through articles, books and podcasts seeking a unified answer (which doesn't exist) or you can just conduct a self experiment. I did. Strip out fruit or potatoes or whatever for 30 days, then add it back and see how your body responds. How your body responds is all that matter. Stay away from the _PubMed_ fights and take control of your own health.
+Low carb can mean different things to different people. Is it 50 grams or 100 grams a day? I'd argue that for the average overweight person following a Standard American Diet that the goal should be **lower carbs**. Strip out the sugar, bread and booze and you'll be consuming fewer carbs and most likely losing weight. How many grams is optimal? Why complicate things with measuring? Counting carbs and calories is so un-Paleo. Eat real food, eliminate the worst carbs (wheat, sugar, booze), relax and be patient.
+
+_Side note: Before you rush to the defense of alcohol, let me just say that people make poor eating decisions when they drink and they tend to have worse sleep. Get lean first, then add back the red wine or not._
+
+What about starchy veggies and fruit? You can either spend hours combing through articles, books and podcasts seeking a unified answer (which doesn't exist) or you can just conduct a self experiment. I did. Strip out fruit or potatoes or whatever for 30 days, then add it back and see how your body responds. How your body responds is all that matter. Stay away from the _PubMed_ fights and take control of your own health.
 
 
 ### Activity Assumptions
@@ -33,13 +53,17 @@ This is another area of confusion. Many in the very low carb camp assume their a
 ### Interval Assumptions
 
 
-Whenever you read about carb recommendations, it is always phrased in terms of "per day". Daily requirements are how we've been trained to think about nutrition. However, one of the things I've learned from studying Paleolithic diets is to embrace randomness. Nature is random. We have seasons. Trying to regiment a specific range of carbs on a daily basis doesn't seem Paleo to me. Paleo man experienced feast to famine and all points in between. I'll go into greater detail on this in a [future post](/2011/08/the-paleohit-cyclical-approach-to-fitness-and-nutrition/), but I alter my carb levels on a daily basis. Some days I spike my carb levels with starchy carbs. Some days I'll do [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/), low-carb and go into ketosis. If I were a hunter gather, I could see moving away from an area with low carbohydrates toward an area richer in carbs.
+Whenever you read about carb recommendations, it is always phrased in terms of "per day". Daily requirements are how we've been trained to think about nutrition. However, one of the things I've learned from studying Paleolithic diets is to embrace randomness. Nature is random. We have seasons. Trying to regiment a specific range of carbs on a daily basis doesn't seem Paleo to me. Paleo man experienced feast to famine and all points in between.
+
+I'll go into greater detail on this in a [future post](/2011/08/the-paleohit-cyclical-approach-to-fitness-and-nutrition/), but I alter my carb levels on a daily basis. Some days I spike my carb levels with starchy carbs. Some days I'll do [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/), low-carb and go into ketosis. If I were a hunter gather, I could see moving away from an area with low carbohydrates toward an area richer in carbs.
 
 
 ### Final Thoughts
 
 
-I have no seminar, e-book or supplements to sell to you. I don't need to invent some controversy to get you on my side. My side assumes incomplete knowledge and flexibility. The human body is a complex system and it is arrogant whenever one of these nutritional _gurus_ starts beating their chest on how they are right and everyone else is wrong. My observational thoughts on carbs are:
+I have no seminar, e-book or supplements to sell to you. I don't need to invent some controversy to get you on my side. My side assumes incomplete knowledge and flexibility. The human body is a complex system and it is arrogant whenever one of these nutritional _gurus_ starts beating their chest on how they are right and everyone else is wrong.
+
+My observational thoughts on carbs are:
 
 1.  If you wish to lean out, cut down or eliminate sugar, booze and bread.
 2.  Some carb sensitive people may need to reduce or eliminate starchy veggies and fruit. Do you own experiments.

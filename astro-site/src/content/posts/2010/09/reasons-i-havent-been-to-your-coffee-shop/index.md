@@ -18,7 +18,11 @@ Believe it or not, I haven't been to every coffee shop in Seattle. Nor do I plan
 5.  **Trying to Sell Franchises at the Cafe** - There is one upstart coffee shop in Seattle that is doing this. I refuse to name them or try them. They seem sleazy.
 6.  **Give Me Time, Let Me Know or Invite Me** - It may just be a matter of time before I get to a coffee shop. I may not know about the place. You can always invite me. Last year [Caffe D'Arte invited](/2009/06/an-espresso-journey-through-italy-caffe-darte/) me down and shared their different coffees.
 
-How about you? Do you have any rules or red flags when it comes to trying out a new coffee shop? ![](./img/bad-coffee-roaster.jpg) _This place violates rules #1 and #3 and thus I haven't been there._
+How about you? Do you have any rules or red flags when it comes to trying out a new coffee shop?
+
+![](./img/bad-coffee-roaster.jpg)
+
+_This place violates rules #1 and #3 and thus I haven't been there._
 
 ---
 

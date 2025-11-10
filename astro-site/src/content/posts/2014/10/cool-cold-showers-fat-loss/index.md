@@ -8,7 +8,9 @@ description: "I got a really interesting comment yesterday on my 2011 post A Hig
 commentCount: 18
 ---
 
-I got a really interesting comment yesterday on my 2011 post [A High Intensity Approach to Cold Weather Training](/2011/05/a-high-intensity-approach-to-cold-weather-training/). From Rick D:
+I got a really interesting comment yesterday on my 2011 post [A High Intensity Approach to Cold Weather Training](/2011/05/a-high-intensity-approach-to-cold-weather-training/).
+
+From Rick D:
 
 > My first exposure to thermogenics was from a french physician who wrote a book in the early 80’s about his pioneering work using cool temperatures to lose weight. He advocated cool 25 degree C showers once or twice a day and also living 2-3 degrees below your thermal neutrality point. His methods were very successful with his patients. He discovered that once the excess fat was lost, the body would be balanced and no more fat would be lost.
 
@@ -16,11 +18,29 @@ Before going into the comment, I want to highlight that this is the opposite met
 
 > At the end of your daily shower, turn the water to _as friggin cold as you can handle without having a heart attack_. Do deep slow breathing and relax. Aim the cold water directly between your neck and shoulder blades. Hold this for 30 seconds. End the shower. That is it. If you want you can do a quick rinse on your legs, but that is optional.
 
-Which way is better? Brief exposure to very cold or longer exposure to cool? Initially I thought brief cold was, but I now I suspect longer cool is superior. There are a few reasons. Being temperature resilient and losing fat are two distinct goals. If a temperature reduction is the path to fat loss, then choosing the method that provides the greatest heat sink would be superior. 30 seconds at ice cold is likely less of a heat sink than a normal shower with 100% cool water. I read a statistic that said the average shower length is 8.5 minutes. That is long for me, but it sounds right. In the comment above he cites 25° C as the shower temperature, which is 77° F. For me that wouldn't be too cool, so I would instead personalize this recommendation a little lower. My take away is you should drop the temperature from warm to cool, but nothing cold enough to elicit a stress response. If you find yourself speeding through the shower based on discomfort, the temperature is probably too low. If you are already taking full showers at cold temperatures, this post probably isn't going to be of value. But for the majority of us that dislike the idea of always taking cold showers, I think this method makes sense and is more sustainable for fat loss. ![cold shower](./img/8737391515_517e978c6d_z.jpg) _[Doccia fredda (Cold Shower)](https://flic.kr/p/ej6q6i) by Sergio Pani_ I believe the key to benefiting from cold temperature stress is the ability to quickly warm up. You want to end the stress and not prolong it at a lower level. If you easily get cold or your home isn't warm, then stepping out of a cold shower isn't the end of the stressor. In 2012 when I did the experiment _Freeze the Animal_, where I would swim in the cold Puget Sound for a few minutes daily, I discovered the benefit was more closely tied to temperature of the environment once I ended the exposure, not how cold the water temperature was. From [Rejecting the Seasonal Approach to Nutrition](/2014/02/rejecting-seasonal-approach-nutrition/):
+Which way is better? Brief exposure to very cold or longer exposure to cool? Initially I thought brief cold was, but I now I suspect longer cool is superior. There are a few reasons.
+
+Being temperature resilient and losing fat are two distinct goals. If a temperature reduction is the path to fat loss, then choosing the method that provides the greatest heat sink would be superior. 30 seconds at ice cold is likely less of a heat sink than a normal shower with 100% cool water. I read a statistic that said the average shower length is 8.5 minutes. That is long for me, but it sounds right.
+
+In the comment above he cites 25° C as the shower temperature, which is 77° F. For me that wouldn't be too cool, so I would instead personalize this recommendation a little lower. My take away is you should drop the temperature from warm to cool, but nothing cold enough to elicit a stress response. If you find yourself speeding through the shower based on discomfort, the temperature is probably too low.
+
+If you are already taking full showers at cold temperatures, this post probably isn't going to be of value. But for the majority of us that dislike the idea of always taking cold showers, I think this method makes sense and is more sustainable for fat loss.
+
+![cold shower](./img/8737391515_517e978c6d_z.jpg)
+
+_[Doccia fredda (Cold Shower)](https://flic.kr/p/ej6q6i) by Sergio Pani_
+
+I believe the key to benefiting from cold temperature stress is the ability to quickly warm up. You want to end the stress and not prolong it at a lower level. If you easily get cold or your home isn't warm, then stepping out of a cold shower isn't the end of the stressor. In 2012 when I did the experiment _Freeze the Animal_, where I would swim in the cold Puget Sound for a few minutes daily, I discovered the benefit was more closely tied to temperature of the environment once I ended the exposure, not how cold the water temperature was.
+
+From [Rejecting the Seasonal Approach to Nutrition](/2014/02/rejecting-seasonal-approach-nutrition/):
 
 > What I learned is that cold exposure is fine and even has a positive mood effect, but the key to locking in those benefits came from how quickly I could warm up. When I stepped out of the Puget Sound when it was windy and 50 F, it took an hour sometimes to warm back up. It was miserable. When it was sunny and 70 F, I could warm up in minutes. Very enjoyable.
 
-Warming up is much easier from a cool than cold. It is less stressful. For the last year I have done fewer and fewer cold water blasts at the end of my shower. As my primary health focus went towards increasing body temperature and reducing stress levels, I didn't see as much benefit in the cold shower finishes. I still walk around in cooler temperatures without a jacket. As long as I am moving, I find it invigorating and not a bit stressful. Which develops greater cold exposure resiliency, time or temperature? I think this might vary from person to person and it will depend on their environment. But for me, I have started the 100% cool shower method. It is not stressful and I believe it will increase my temperature resiliency, albeit maybe not as much as cold showers, but it will more sustainable for me. And if I drop a few pounds, win-win! Have you had any experience with cool showers? Did you lose fat or widen your temperature comfort zone?
+Warming up is much easier from a cool than cold. It is less stressful. For the last year I have done fewer and fewer cold water blasts at the end of my shower. As my primary health focus went towards increasing body temperature and reducing stress levels, I didn't see as much benefit in the cold shower finishes. I still walk around in cooler temperatures without a jacket. As long as I am moving, I find it invigorating and not a bit stressful.
+
+Which develops greater cold exposure resiliency, time or temperature? I think this might vary from person to person and it will depend on their environment. But for me, I have started the 100% cool shower method. It is not stressful and I believe it will increase my temperature resiliency, albeit maybe not as much as cold showers, but it will more sustainable for me. And if I drop a few pounds, win-win!
+
+Have you had any experience with cool showers? Did you lose fat or widen your temperature comfort zone?
 
 ---
 

@@ -9,7 +9,11 @@ description: "Matt Stone just released a new book titled Food for Mood: Dietary 
 commentCount: 8
 ---
 
-Matt Stone just released a new book titled _Food for Mood: Dietary and Lifestyle Interventions for Anxiety, Depression, and Other Mood Disorders_. Like his other books, it is an extension of the metabolism discussion. This particular book focuses on the role that our food and beverage choices and timing can have on both reducing or inducing anxiety. ![food-for-mood](./img/food-for-mood.jpg) _Food for Mood: Dietary and Lifestyle Interventions for Anxiety, Depression, and Other Mood Disorders by Matt Stone_ For the most part, I enjoyed the book. Here are some ideas from the book that I found most interesting.
+Matt Stone just released a new book titled _Food for Mood: Dietary and Lifestyle Interventions for Anxiety, Depression, and Other Mood Disorders_. Like his other books, it is an extension of the metabolism discussion. This particular book focuses on the role that our food and beverage choices and timing can have on both reducing or inducing anxiety.
+
+![food-for-mood](./img/food-for-mood.jpg) _Food for Mood: Dietary and Lifestyle Interventions for Anxiety, Depression, and Other Mood Disorders by Matt Stone_
+
+For the most part, I enjoyed the book. Here are some ideas from the book that I found most interesting.
 
 
 ### #1 "Dieting lowers thyroid and raises cortisol with 100% consistency."

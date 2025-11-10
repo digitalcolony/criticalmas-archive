@@ -13,25 +13,43 @@ Last month, I posted [Keto and Carnivore Diets Were Always a No For Me](/2023/11
 
 > Would the body know that the food environment was safe based on calorie intake alone? Or would the body sense the chronic lack of carbs as threatening to its survival?
 
-I suspected that thyroid and reproductive health could be negatively impacted. Before the keto bros get upset, let me explain what I mean here. For myself, I don't need to prove that chronic keto is an unhealthy and unnatural diet. Keto needs to demonstrate to me that it is healthy. When keto first hit the scene, there were no populations that engaged in long-term keto where we could see their outcomes. Has it proven itself to be a healthy long-term diet since then? I haven't seen the evidence. I've seen anecdotes mostly from men under 35 who would likely thrive on any diet.
+I suspected that thyroid and reproductive health could be negatively impacted. Before the keto bros get upset, let me explain what I mean here.
+
+For myself, I don't need to prove that chronic keto is an unhealthy and unnatural diet. Keto needs to demonstrate to me that it is healthy. When keto first hit the scene, there were no populations that engaged in long-term keto where we could see their outcomes. Has it proven itself to be a healthy long-term diet since then? I haven't seen the evidence. I've seen anecdotes mostly from men under 35 who would likely thrive on any diet.
 
 
 ### Observations
 
 
-What pattern am I seeing with men over 35 in the health and fitness space? They are abandoning keto. I cited a few examples in the post [Checking in on the Carb Haters](/2023/10/checking-in-on-the-carb-haters/). There are a lot more. Why? The stated reasons are the sudden love for high protein diets or the realization that carbs never were the problem. What are the unstated reasons? Maybe they feel like crap because their thyroid and testosterone levels are low? We have known for a long time that many people have issues with their thyroid when they go low-carb. What is the mechanism? ![](./img/Screenshot-2023-12-03-at-08-11-36-Claude.png) _From Claude.Ai_ What about testosterone? Give a listen to the interview between [Dr. Mercola and Jay Feldman](https://www.bitchute.com/video/OWaoNaDYNBOp/). On the topic of men on ketogenic diets having lower testosterone (sub 500), (around 1:27:00) Feldman said:
+What pattern am I seeing with men over 35 in the health and fitness space? They are abandoning keto. I cited a few examples in the post [Checking in on the Carb Haters](/2023/10/checking-in-on-the-carb-haters/). There are a lot more. Why? The stated reasons are the sudden love for high protein diets or the realization that carbs never were the problem.
+
+What are the unstated reasons? Maybe they feel like crap because their thyroid and testosterone levels are low?
+
+We have known for a long time that many people have issues with their thyroid when they go low-carb. What is the mechanism?
+
+![](./img/Screenshot-2023-12-03-at-08-11-36-Claude.png)
+
+_From Claude.Ai_
+
+What about testosterone? Give a listen to the interview between [Dr. Mercola and Jay Feldman](https://www.bitchute.com/video/OWaoNaDYNBOp/). On the topic of men on ketogenic diets having lower testosterone (sub 500), (around 1:27:00) Feldman said:
 
 > This is a natural product of a semi-starvation state or starvation state of a low-carb state that mimics starvation. Testosterone and reproduction are not only not important when we are starving but they are intentionally downregulated, because that is energy we can't expend in that scenario.
 
-This is the bioenergetic Ray Peat view, but it makes total sense to me. I consume a lot of health podcasts. In the past few years, I've noticed a huge trend of low-carb/keto guys talking about TRT. Why? A few have shared their testosterone levels.
+This is the bioenergetic Ray Peat view, but it makes total sense to me.
+
+I consume a lot of health podcasts. In the past few years, I've noticed a huge trend of low-carb/keto guys talking about TRT. Why? A few have shared their testosterone levels.
 
 1.  Dr. Paul Saladino had a 400 T-level. Then he added carbs and is now up to 600.
 2.  Dr. Peter Attia is at 400.
 3.  The keto godfather Dr. Dominic D'agostino is around 300 (according to the Mercola interview).
 
-All these men are healthy and live in sunny climates. I'm a few years older than these guys, living in cloudy Seattle, and my last two scores were 841 and 908 (lifetime natural). Potatoes for the win! Please tell me how awful carbs are again and how keto is amazing. No sale. I haven't even looked into the female side of the equation, but common sense tells me that a chronic ketogenic diet would not be ideal for conception and pregnancy. I'm reminded of [this story from WW2](https://historynewsnetwork.org/article/168201).
+All these men are healthy and live in sunny climates. I'm a few years older than these guys, living in cloudy Seattle, and my last two scores were 841 and 908 (lifetime natural). Potatoes for the win! Please tell me how awful carbs are again and how keto is amazing. No sale.
 
-> The Dutch Hunger Winter has proved unique in unexpected ways. Because it started and ended so abruptly, it has served as an unplanned experiment in human health. Pregnant women, it turns out, were uniquely vulnerable, and the children they gave birth to have been influenced by famine throughout their lives. When they became adults, they ended up a few pounds heavier than average. In middle age, they had higher levels of triglycerides and LDL cholesterol. They also experienced higher rates of such conditions as obesity, diabetes and schizophrenia.
+I haven't even looked into the female side of the equation, but common sense tells me that a chronic ketogenic diet would not be ideal for conception and pregnancy. I'm reminded of [this story from WW2](https://historynewsnetwork.org/article/168201).
+
+> The Dutch Hunger Winter has proved unique in unexpected ways. Because it started and ended so abruptly, it has served as an unplanned experiment in human health. Pregnant women, it turns out, were uniquely vulnerable, and the children they gave birth to have been influenced by famine throughout their lives.
+> 
+> When they became adults, they ended up a few pounds heavier than average. In middle age, they had higher levels of triglycerides and LDL cholesterol. They also experienced higher rates of such conditions as obesity, diabetes and schizophrenia.
 
 A ketogenic diet is not a famine diet. I get that. One is calorie secure and the other isn't. From a hormonal level, is there any overlap? We don't know. Maybe in a few decades, we will know if the children of ketogenic mothers turned out more or less healthy. In the meantime, I'd pass on signing yourself and your children up for this experiment.
 

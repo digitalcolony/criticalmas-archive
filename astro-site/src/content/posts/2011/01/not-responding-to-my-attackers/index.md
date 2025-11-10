@@ -9,7 +9,11 @@ description: "In this post, I am going to explain why I didn't defend myself or 
 commentCount: 1
 ---
 
-In this post, I am going to explain why I didn't defend myself or respond to my attackers on _MetaFilter_ last Friday. If you don't know what happened, read [Tales From the Glitter Gym - The End](/2011/01/tales-from-the-glitter-gym-the-end/). There is a book that I often refer to for moral guidance. It is not the Bible. It is _The 48 Laws of Power_. ![The 48 Laws of Power](https://images-na.ssl-images-amazon.com/images/I/41T9TGV2JBL.jpg) _The 48 Laws of Power by Robert Greene_ is wisdom from 3,000 years of history condensed into 48 laws. Some people believe this book is evil and ruthless, but I see it more as a set of guidelines for human behavior. I'd like to think I use it for good. Not every law will apply to every person. The primary reason I didn't try to defend myself is that I didn't want my attackers to define the debate. By responding directly to them, I would have allowed them to frame the debate. No thank you.
+In this post, I am going to explain why I didn't defend myself or respond to my attackers on _MetaFilter_ last Friday. If you don't know what happened, read [Tales From the Glitter Gym - The End](/2011/01/tales-from-the-glitter-gym-the-end/). There is a book that I often refer to for moral guidance. It is not the Bible. It is _The 48 Laws of Power_.
+
+![The 48 Laws of Power](https://images-na.ssl-images-amazon.com/images/I/41T9TGV2JBL.jpg) _The 48 Laws of Power by Robert Greene_ is wisdom from 3,000 years of history condensed into 48 laws. Some people believe this book is evil and ruthless, but I see it more as a set of guidelines for human behavior. I'd like to think I use it for good. Not every law will apply to every person.
+
+The primary reason I didn't try to defend myself is that I didn't want my attackers to define the debate. By responding directly to them, I would have allowed them to frame the debate. No thank you.
 
 > Law #4 - Always say less than necessary.
 

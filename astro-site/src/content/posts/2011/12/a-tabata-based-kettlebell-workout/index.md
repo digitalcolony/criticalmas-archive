@@ -9,7 +9,17 @@ description: "In the summer of 2010, I received 2 kettlebells from Power Systems
 commentCount: 4
 ---
 
-_In the summer of 2010, I received 2 kettlebells from Power Systems in exchange for a review. This article has been moved here for archival purposes._ I've always wanted to train with a kettlebell. The Russian-developed cannonball with handle has gained popularity in the past decade. I see them in videos online, but I don't see them at my gym. One gym manager said they are so popular that some members take them home with them, so they stopped buying them. So I was really pleased recently when Power Systems sent me a 25-pound kettlebell to review. The first thing I noticed was how little it was. They were able to pack 25 pounds into a small area. Unlike other kettlebells, the Premium Kettlebell from _Power Systems_ has a vinyl casing. Their website states that it is there to help _reduce noise and prevent damage to floors_. Probably a good idea. I still wouldn't drop it. ![kettlebell](./img/kettlebell.jpg) _25 Pound Premium Kettlebell beside a Sharpie Pen to demonstrate size._ Included with the kettlebell was a flier with six exercise ideas.
+_In the summer of 2010, I received 2 kettlebells from Power Systems in exchange for a review. This article has been moved here for archival purposes._
+
+I've always wanted to train with a kettlebell. The Russian-developed cannonball with handle has gained popularity in the past decade. I see them in videos online, but I don't see them at my gym. One gym manager said they are so popular that some members take them home with them, so they stopped buying them. So I was really pleased recently when Power Systems sent me a 25-pound kettlebell to review.
+
+The first thing I noticed was how little it was. They were able to pack 25 pounds into a small area. Unlike other kettlebells, the Premium Kettlebell from _Power Systems_ has a vinyl casing. Their website states that it is there to help _reduce noise and prevent damage to floors_. Probably a good idea. I still wouldn't drop it.
+
+![kettlebell](./img/kettlebell.jpg)
+
+_25 Pound Premium Kettlebell beside a Sharpie Pen to demonstrate size._
+
+Included with the kettlebell was a flier with six exercise ideas.
 
 1.  Kettlebell Deadlift
 2.  Two-Arm Swing
@@ -18,7 +28,19 @@ _In the summer of 2010, I received 2 kettlebells from Power Systems in exchange 
 5.  Push-Up
 6.  Low Windmill
 
-As with any new exercise, you should take it slow. Do no more than five reps for each exercise and then put it away for two days. You don't want to get injured. Learn the movements, especially the Kettlebell Clean & Press, as it could strain the wrist. Once you are comfortable with the exercises, you can build a complete workout using the Premium Kettlebell. For me, the 25-pound weight was ideal to build a Tabata workout. You may need a lighter or heavier weight. A Tabata is a workout style developed by Japanese researchers in 1996. It is a high-intensity interval training protocol that lasts just four minutes long. Twenty seconds of all-out movement, followed by 10 seconds of rest. This is repeated eight times. A Tabata workout will target both aerobic and anaerobic systems. The four-minute time commitment makes it ideal for the busy student, parent, or worker. The Tabata requires 8 exercises, but you can repeat them. You could split the Clean & Press, Push-Up, and Low Windmill into separate left side and right side exercises. By gripping the 2 vertical handle sides, I was able to add an overhead squat to my Tabata. If you do experiment with new moves, be sure to fall back on the 5-rep test outlined above. Safety first. If you are looking to build out a home gym, I would seriously consider starting with a Premium Kettlebell. There are many different exercise possibilities and it takes up very little space. _Sources:_ Premium Kettlebell Product page from Power Systems. Kettlebells range in weight between 5 and 50 pounds. [Weight Lifting Wisdom For the Tall Lanky Guy](/2009/10/weight-lifting-wisdom-for-the-tall-lanky-guy/) Article I wrote on the importance of grip strength. The audience is for ectomorphs, but I also feel it will help those new to kettlebells.
+As with any new exercise, you should take it slow. Do no more than five reps for each exercise and then put it away for two days. You don't want to get injured. Learn the movements, especially the Kettlebell Clean & Press, as it could strain the wrist. Once you are comfortable with the exercises, you can build a complete workout using the Premium Kettlebell.
+
+For me, the 25-pound weight was ideal to build a Tabata workout. You may need a lighter or heavier weight. A Tabata is a workout style developed by Japanese researchers in 1996. It is a high-intensity interval training protocol that lasts just four minutes long. Twenty seconds of all-out movement, followed by 10 seconds of rest. This is repeated eight times. A Tabata workout will target both aerobic and anaerobic systems. The four-minute time commitment makes it ideal for the busy student, parent, or worker.
+
+The Tabata requires 8 exercises, but you can repeat them. You could split the Clean & Press, Push-Up, and Low Windmill into separate left side and right side exercises. By gripping the 2 vertical handle sides, I was able to add an overhead squat to my Tabata. If you do experiment with new moves, be sure to fall back on the 5-rep test outlined above. Safety first.
+
+If you are looking to build out a home gym, I would seriously consider starting with a Premium Kettlebell. There are many different exercise possibilities and it takes up very little space.
+
+_Sources:_
+
+Premium Kettlebell Product page from Power Systems. Kettlebells range in weight between 5 and 50 pounds.
+
+[Weight Lifting Wisdom For the Tall Lanky Guy](/2009/10/weight-lifting-wisdom-for-the-tall-lanky-guy/) Article I wrote on the importance of grip strength. The audience is for ectomorphs, but I also feel it will help those new to kettlebells.
 
 ---
 

@@ -17,7 +17,17 @@ I'm not a health professional, but I have written a lot about [Intermittent Fast
 4.  **Kids and Pregnant Women** - I don't know for sure, but it may be best not to fast if you are in these two groups.
 5.  **Those With High Cortisol Levels** - This comes up time and time again on the health podcasts. If you are super stressed, then your cortisol can spike your blood sugar. So the standard advice is to avoid IF. This make sense if you already have blood sugar issues (see #2), but what if you don't? What if your blood sugar levels are OK and you are already eating a healthy diet? Some suggest you still get your stress under control first. I'm not 100% sold on this reason. I'll explain my views below, but to err on the side of caution, if you are in this group avoid IF for the time being.
 
-When I began Intermittent Fasting, I would have guessed my cortisol levels were high. I never had it tested, but I was going through a stressful period and I was consuming a massive amount of espresso at the time. I suppose I shouldn't embarked on an Intermittent Fasting program. Yet I did. Not only did IF lean me out, it calmed me. **Going without food for the first time in my life was therapeutic. It was empowering. It lowered my stress levels.** In a world where I felt I had no control, I found I could control my hunger. Fasting is a common practice with some religions. I understand why now. ![seattle-snowstorm](./img/seattle-snowstorm.jpg) _Nothing more calming than fasting while doing a [16 mile urban hike in a snowstorm](/2008/12/urban-hike-seattle-snow-edition/)!_ My "non-medical" advice would be to listen to your own body. Monitor your stress levels. Are things improving or getting worse? If they are getting worse, stop doing IF and deal with the stress. If things are improving, keep it up and enjoy the journey. _\* Nothing in this post should be taken as medical advice. I am just a health and [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/) hobbyist._
+When I began Intermittent Fasting, I would have guessed my cortisol levels were high. I never had it tested, but I was going through a stressful period and I was consuming a massive amount of espresso at the time. I suppose I shouldn't embarked on an Intermittent Fasting program. Yet I did.
+
+Not only did IF lean me out, it calmed me. **Going without food for the first time in my life was therapeutic. It was empowering. It lowered my stress levels.** In a world where I felt I had no control, I found I could control my hunger. Fasting is a common practice with some religions. I understand why now.
+
+![seattle-snowstorm](./img/seattle-snowstorm.jpg)
+
+_Nothing more calming than fasting while doing a [16 mile urban hike in a snowstorm](/2008/12/urban-hike-seattle-snow-edition/)!_
+
+My "non-medical" advice would be to listen to your own body. Monitor your stress levels. Are things improving or getting worse? If they are getting worse, stop doing IF and deal with the stress. If things are improving, keep it up and enjoy the journey.
+
+_\* Nothing in this post should be taken as medical advice. I am just a health and [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/) hobbyist._
 
 ---
 

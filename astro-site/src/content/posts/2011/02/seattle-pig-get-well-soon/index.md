@@ -11,9 +11,19 @@ commentCount: 2
 
 Yesterday morning a taxi ran into Rachel the bronze pig at Pike Market. From MSNBC's _Taxi crashes into Pike Place Market pig statue_ (link now gone):
 
-> A taxi driver hit the gas when he was rear-ended nearby early Saturday and plowed into Rachel the Pig, a 550-pound, bronze piggy bank that has stood outside the market's famous fish-throwing stand since 1986. The crash knocked the pig off her concrete base, which will have to be repaired. Market officials say it will probably take a few days. The statue itself was also scratched up a bit.
+> A taxi driver hit the gas when he was rear-ended nearby early Saturday and plowed into Rachel the Pig, a 550-pound, bronze piggy bank that has stood outside the market's famous fish-throwing stand since 1986.
+> 
+> The crash knocked the pig off her concrete base, which will have to be repaired. Market officials say it will probably take a few days. The statue itself was also scratched up a bit.
 
-Today I stopped by and saw this "get well soon" roadside. Someone even set down flowers. I love this city. ![rachel-pig](./img/rachel-pig.jpg) Here is photo of me with Rachel the Pig from 2008. ![rachel-pig-MAS](./img/rachel-pig-MAS.jpg) _Happier Times ...for the pig ;)_
+Today I stopped by and saw this "get well soon" roadside. Someone even set down flowers. I love this city.
+
+![rachel-pig](./img/rachel-pig.jpg)
+
+Here is photo of me with Rachel the Pig from 2008.
+
+![rachel-pig-MAS](./img/rachel-pig-MAS.jpg)
+
+_Happier Times ...for the pig ;)_
 
 ---
 

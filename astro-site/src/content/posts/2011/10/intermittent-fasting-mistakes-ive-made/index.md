@@ -25,13 +25,19 @@ My current belief is if you catch a cold, you should rest and load up on foods 
 ### #2 Excessive Fasting While Weight Training
 
 
-This may just apply to ectomorphs, but I what I discovered in 2009 was that fasted weight training not only resulted in fat loss, but without a post-workout meal I started to lose strength. From a paleo perspective this makes sense. I was hungry and went on a hunt. At the hunt I engaged in a battle. For me that was lifting weights at the gym. A successful hunt would have resulted in a kill and a meal. After a few months, I kept returning from the hunt in a hungry state. From the standpoint of nature, I was being every bit as energy foolish as the cardio junkies. That behavior gets punished if it happens repeatedly.
+This may just apply to ectomorphs, but I what I discovered in 2009 was that fasted weight training not only resulted in fat loss, but without a post-workout meal I started to lose strength.
+
+From a paleo perspective this makes sense. I was hungry and went on a hunt. At the hunt I engaged in a battle. For me that was lifting weights at the gym. A successful hunt would have resulted in a kill and a meal. After a few months, I kept returning from the hunt in a hungry state. From the standpoint of nature, I was being every bit as energy foolish as the cardio junkies. That behavior gets punished if it happens repeatedly.
 
 
 ### #3 Not Eating Enough After the Fast is Over
 
 
-When I did 70 days of 16 hour fasts, I began to have issues in the second month. I detail my experience in the post [Intermittent Fasting - 70 Day Review of the Leangains Method](/2011/03/intermittent-fasting-70-day-review-of-the-leangains-method/). I was getting tired, my body felt cold and my immune system was weaker. I got a few comments stating that I probably wasn't eating enough. At the time I felt I was eating enough and that I could make the protocol more effective by [adding more randomness](/2011/03/intermittent-fasting-spontaneous-and-random/) and taking periodic breaks. Now I am thinking the truth is somewhere in between. The more I read about metabolism, the more it makes sense that extended periods of fasting would result in a slower metabolism and reduced body temperature. Appetite is reduced. Nature is energy efficient. For a daily protocol to work, I would need to force myself to eat more until the sluggishness goes away and body temperature increases. If that isn't enough then a break is necessary. So the take away lesson I learned is to increase calories after your fast if you feel your metabolism slowing down. Override your reduced appetite. Failing that, take a few days or a week off from any fasting until you are back to baseline.
+When I did 70 days of 16 hour fasts, I began to have issues in the second month. I detail my experience in the post [Intermittent Fasting - 70 Day Review of the Leangains Method](/2011/03/intermittent-fasting-70-day-review-of-the-leangains-method/). I was getting tired, my body felt cold and my immune system was weaker. I got a few comments stating that I probably wasn't eating enough. At the time I felt I was eating enough and that I could make the protocol more effective by [adding more randomness](/2011/03/intermittent-fasting-spontaneous-and-random/) and taking periodic breaks. Now I am thinking the truth is somewhere in between.
+
+The more I read about metabolism, the more it makes sense that extended periods of fasting would result in a slower metabolism and reduced body temperature. Appetite is reduced. Nature is energy efficient. For a daily protocol to work, I would need to force myself to eat more until the sluggishness goes away and body temperature increases. If that isn't enough then a break is necessary.
+
+So the take away lesson I learned is to increase calories after your fast if you feel your metabolism slowing down. Override your reduced appetite. Failing that, take a few days or a week off from any fasting until you are back to baseline.
 
 
 ### #4 Eating Too Much After the Fast Ends

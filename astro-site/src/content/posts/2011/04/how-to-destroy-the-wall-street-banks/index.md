@@ -15,7 +15,11 @@ There are over 10,000 banks and credit unions in the USA. Having a majority of t
 ### Step 1 - Educate Yourself
 
 
-What did the big Wall Street banks do that was so bad? Much, much too long for a post, but I will recommend watching _The Inside Job_ as a primer. It is an outstanding documentary. ![inside-job](./img/inside-job.jpg) Other sources for financial education on the crisis include:
+What did the big Wall Street banks do that was so bad? Much, much too long for a post, but I will recommend watching _The Inside Job_ as a primer. It is an outstanding documentary.
+
+![inside-job](./img/inside-job.jpg)
+
+Other sources for financial education on the crisis include:
 
 -   The Market Ticker
 -   Mish's Global Economic Trend Analysis.
@@ -58,4 +62,8 @@ Tell your friends and local businesses that you moved your money. Smaller banks 
 ### Will it Work?
 
 
-The big banks use a high amount of leverage. It may only take a 5 or 10% run on deposits to take down one of these institutions. I'm not a banking expert, so don't quote me on the exact percent. When depositors pull money from a bank, their cash reserve ratio drops. When this gets too low, they are forced to raise money and if they can't, the regulators come in and close them down. Some would argue that these banks are already well below their reserve requirements and that they have been deemed "_Too Big To Fail_". Even if the regulators continue to let these banks violate banking laws, **every dollar moved is one that can not contribute to future profits (or taxpayer losses)**. They will not make another penny off my deposits or credit card business.
+The big banks use a high amount of leverage. It may only take a 5 or 10% run on deposits to take down one of these institutions. I'm not a banking expert, so don't quote me on the exact percent. When depositors pull money from a bank, their cash reserve ratio drops. When this gets too low, they are forced to raise money and if they can't, the regulators come in and close them down.
+
+Some would argue that these banks are already well below their reserve requirements and that they have been deemed "_Too Big To Fail_". Even if the regulators continue to let these banks violate banking laws, **every dollar moved is one that can not contribute to future profits (or taxpayer losses)**.
+
+They will not make another penny off my deposits or credit card business.

@@ -9,13 +9,29 @@ description: "I came up with a low food reward idea. Mix a can of tuna with a ca
 commentCount: 19
 ---
 
-I came up with a low [food reward](/2015/02/food-reward-and-old-school-bodybuilders/) idea. Mix a can of tuna with a can of tomato paste and rice. **This is a true appetite crusher.** ![tuna-paste](./img/tuna-paste.jpg) _Looks more like cat food than people's food._ This would be the opposite of a hyper-palatable addictive food. It has very little taste. The tuna is neutral. The tomato paste is neutral. This meal doesn't taste good. It doesn't taste bad either. It is rather bland and boring. I've had this protein rice meal several times now and I am surprised just how full I get on this simple meal. It is now a staple of mine as I test food reward for myself. The rice is optional. If you are trying to keep the carbs lower, you can remove the rice. I've also used Korean rice cakes in place of rice. Cold leftover rice is fine as it has more of a neutral taste than fresh warm rice.
+I came up with a low [food reward](/2015/02/food-reward-and-old-school-bodybuilders/) idea. Mix a can of tuna with a can of tomato paste and rice.
+
+**This is a true appetite crusher.**
+
+![tuna-paste](./img/tuna-paste.jpg)
+
+_Looks more like cat food than people's food._
+
+This would be the opposite of a hyper-palatable addictive food. It has very little taste. The tuna is neutral. The tomato paste is neutral. This meal doesn't taste good. It doesn't taste bad either. It is rather bland and boring. I've had this protein rice meal several times now and I am surprised just how full I get on this simple meal. It is now a staple of mine as I test food reward for myself.
+
+The rice is optional. If you are trying to keep the carbs lower, you can remove the rice. I've also used Korean rice cakes in place of rice. Cold leftover rice is fine as it has more of a neutral taste than fresh warm rice.
 
 -   Tuna - The canned tuna I buy has 30 grams of protein. Protein helps suppress appetite. 140 calories.
 -   Tomato Paste - Tomato paste is the espresso of tomatoes. Packed with nutrition.  138 calories.
 -   Rice or Korean Rice Cakes - I have been using about 1 cup of cooked rice or the equivalent in rice cakes. 200 calories.
 
-I've never had a meal of fewer than 500 calories suppress my appetite more than this. I'm not saying I am getting "loosen the belt buckle" full, but if I have this meal in the morning, I can go several hours without feeling hungry. Another benefit of the tuna + tomato paste combo is it requires no cooking time. Just open cans and mix. The rice is optional. Korean rice cakes cook fast, so having some around (in the freezer) is what I use when I don't have leftover rice. ![korean rice cake package](./img/korean-rice-cake-package.jpg) _Korean rice cakes. If you live near a Korean grocery store get a few of these. They are awesome for [soup](/2014/11/fast-easy-guide-making-korean-soup/) too._  My plan is to have this meal 5-7 times a week. If you try it, let me know your thoughts.
+I've never had a meal of fewer than 500 calories suppress my appetite more than this. I'm not saying I am getting "loosen the belt buckle" full, but if I have this meal in the morning, I can go several hours without feeling hungry. Another benefit of the tuna + tomato paste combo is it requires no cooking time. Just open cans and mix. The rice is optional. Korean rice cakes cook fast, so having some around (in the freezer) is what I use when I don't have leftover rice.
+
+![korean rice cake package](./img/korean-rice-cake-package.jpg)
+
+_Korean rice cakes. If you live near a Korean grocery store get a few of these. They are awesome for [soup](/2014/11/fast-easy-guide-making-korean-soup/) too._ 
+
+My plan is to have this meal 5-7 times a week. If you try it, let me know your thoughts.
 
 ---
 

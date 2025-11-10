@@ -9,7 +9,9 @@ description: "For as long as I can remember I've owned this file box. I've kept 
 commentCount: 8
 ---
 
-For as long as I can remember I've owned this file box. I've kept receipts, tax documents, my college transcript, auto records, insurance info, military paperwork, and other important documentation. Not anymore. This week I borrowed a scanner and converted it all to digital. Then I encrypted everything and uploaded it to two cloud servers. Afterward, I deleted the local copies and shredded all the papers. For the first time in my adult life, I am 100% paperless. And it feels great.
+For as long as I can remember I've owned this file box. I've kept receipts, tax documents, my college transcript, auto records, insurance info, military paperwork, and other important documentation. Not anymore. This week I borrowed a scanner and converted it all to digital. Then I encrypted everything and uploaded it to two cloud servers. Afterward, I deleted the local copies and shredded all the papers.
+
+For the first time in my adult life, I am 100% paperless. And it feels great.
 
 
 ### Why Go Paperless?
@@ -21,7 +23,9 @@ When I went through my files, I saw my Social Security Number on many papers. Th
 ### #1 Scan Everything
 
 
-After scanning everything into either PDF or an image file, I built a directory and started sorting. In addition to the files I scanned, I went folder by folder on my hard drive looking for anything that was sensitive data. If I didn't need it, I deleted it. Otherwise, I moved it into the new directory. By the way, I gave the folder a unique name that would draw little attention. Even though I will encrypt this folder, I don't want a name that will attract attention should one level of security be breached.
+After scanning everything into either PDF or an image file, I built a directory and started sorting. In addition to the files I scanned, I went folder by folder on my hard drive looking for anything that was sensitive data. If I didn't need it, I deleted it. Otherwise, I moved it into the new directory.
+
+By the way, I gave the folder a unique name that would draw little attention. Even though I will encrypt this folder, I don't want a name that will attract attention should one level of security be breached.
 
 
 ### #2 Encrypt and Password Protect
@@ -33,13 +37,19 @@ The article [How to Password Protect Files and Folders With Encryption](http://w
 ### #3 Store on Cloud Servers
 
 
-There are several free cloud server options out there. Their security isn't stellar, which is one reason I did the encryption before uploading. I uploaded my encrypted file to two different ones. Each of these cloud servers is protected with a long unique password that only my password manager program knows. Getting into that program requires another very long passphrase. ![lock](./img/368758286_e4dcb5ae53_z.jpg) _Photo by Lok Leung_
+There are several free cloud server options out there. Their security isn't stellar, which is one reason I did the encryption before uploading. I uploaded my encrypted file to two different ones. Each of these cloud servers is protected with a long unique password that only my password manager program knows. Getting into that program requires another very long passphrase.
+
+![lock](./img/368758286_e4dcb5ae53_z.jpg)
+
+_Photo by Lok Leung_
 
 
 ### #4 Delete
 
 
-At this point, all the sensitive data was still on my computer. It needed to delete in a way that someone with technical skills couldn't recover. See when you delete files, they aren't really deleted until those sectors of the drive are overwritten with new data. I used the free program Eraser (Windows). If you have a Mac, put the folder in the trash, then choose "Secure Empty Trash" from the "Finder" menu. It is also important to delete any backup media with sensitive documents. I destroyed a few old CD backup burns.
+At this point, all the sensitive data was still on my computer. It needed to delete in a way that someone with technical skills couldn't recover. See when you delete files, they aren't really deleted until those sectors of the drive are overwritten with new data. I used the free program Eraser (Windows). If you have a Mac, put the folder in the trash, then choose "Secure Empty Trash" from the "Finder" menu.
+
+It is also important to delete any backup media with sensitive documents. I destroyed a few old CD backup burns.
 
 
 ### #5 Shred
@@ -51,7 +61,11 @@ For years I had a cheap paper shredder. It did an OK job, but for this task, I w
 ### Going Forward
 
 
-All my bills now are paperless, so sensitive data won't get intercepted in the mail. If something does come, I can deal with it as it arrives in a secure manner. **I now have peace of mind knowing that if someone goes through my car, my home, or my computer they won't find any sensitive data.** I also understand my data is still not safe. Every doctor's office where I wrote down personal data on a form is unlikely to be nearly as secure as I would like. Banks are being hacked all the time. And years ago it was common for schools to use a person's SSN as a primary key on their database. Hack that database and you have a goldmine of data. There is nothing I can do about that, but I do know if there is a security breach it almost certainly won't be from my end. The second part of the security equation is minimizing the risk that my online accounts are hacked. That will be the topic of my next post.
+All my bills now are paperless, so sensitive data won't get intercepted in the mail. If something does come, I can deal with it as it arrives in a secure manner. **I now have peace of mind knowing that if someone goes through my car, my home, or my computer they won't find any sensitive data.**
+
+I also understand my data is still not safe. Every doctor's office where I wrote down personal data on a form is unlikely to be nearly as secure as I would like. Banks are being hacked all the time. And years ago it was common for schools to use a person's SSN as a primary key on their database. Hack that database and you have a goldmine of data. There is nothing I can do about that, but I do know if there is a security breach it almost certainly won't be from my end.
+
+The second part of the security equation is minimizing the risk that my online accounts are hacked. That will be the topic of my next post.
 
 ---
 

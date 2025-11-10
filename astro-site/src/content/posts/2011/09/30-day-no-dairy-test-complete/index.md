@@ -9,7 +9,9 @@ description: "Although I messed up a few times, which forced me to restart the t
 commentCount: 5
 ---
 
-Although I messed up a few times, which forced me to restart the test, I have now completed a 30 Day No Dairy test. One of the methods to test to see if dairy is a problem is to completely eliminate it for 30 days. Then reintroduce it for a few days and monitor for symptoms. Symptoms might include skin inflammation, digestion problems or headaches. I was about 90% certain that dairy was not a problem for me, but I wanted to eliminate that 10% of doubt. For me, I had four things I wanted to test regarding dairy removal.
+Although I messed up a few times, which forced me to restart the test, I have now completed a 30 Day No Dairy test. One of the methods to test to see if dairy is a problem is to completely eliminate it for 30 days. Then reintroduce it for a few days and monitor for symptoms. Symptoms might include skin inflammation, digestion problems or headaches. I was about 90% certain that dairy was not a problem for me, but I wanted to eliminate that 10% of doubt.
+
+For me, I had four things I wanted to test regarding dairy removal.
 
 1.  Would it result in a reduction in headache frequency or intensity?
 2.  Would other symptoms surface upon reintroducing dairy after a 30 day removal?
@@ -20,7 +22,9 @@ Although I messed up a few times, which forced me to restart the test, I have no
 ### Headache Frequency and Intensity
 
 
-Eliminating dairy had no impact on my sinus headaches. Intensity and frequency have been consistent throughout this year, with a greater spike during the summer. The chart below shows headache intensity (0-5) since mid-March. The area under the red is the period where I was dairy free. Dairy is innocent. ![](./img/dairy-HA1.png "Dairy Headache")
+Eliminating dairy had no impact on my sinus headaches. Intensity and frequency have been consistent throughout this year, with a greater spike during the summer. The chart below shows headache intensity (0-5) since mid-March. The area under the red is the period where I was dairy free. Dairy is innocent.
+
+![](./img/dairy-HA1.png "Dairy Headache")
 
 
 ### Other Symptoms?
@@ -38,7 +42,9 @@ One of the things you hear repeated over and over in the elite fitness community
 ### Discipline
 
 
-I was shocked how easy it was to eliminate dairy from a cravings standpoint. I did mess up twice and had to restart the test. Both were cases where I was outside the home and I just momentarily forgot about the test. I used coconut cream in place of yogurt. Instead of putting butter on my veggies, I added coconut oil. I was going to post a summary on why self experimentation is great, but I already did a post on the topic: [My Case For Self Experimentation](/2011/08/my-case-for-self-experimentation/).
+I was shocked how easy it was to eliminate dairy from a cravings standpoint. I did mess up twice and had to restart the test. Both were cases where I was outside the home and I just momentarily forgot about the test. I used coconut cream in place of yogurt. Instead of putting butter on my veggies, I added coconut oil.
+
+I was going to post a summary on why self experimentation is great, but I already did a post on the topic: [My Case For Self Experimentation](/2011/08/my-case-for-self-experimentation/).
 
 ---
 

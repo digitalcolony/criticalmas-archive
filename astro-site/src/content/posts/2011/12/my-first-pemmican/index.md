@@ -9,7 +9,9 @@ description: "About a month ago I started brainstorming about food. I wanted a f
 commentCount: 9
 ---
 
-About a month ago I started brainstorming about food. I wanted a food that was loaded with saturated fat, cheap, portable and preferably good tasting. If you are unclear on why someone would seek out saturated fat, I recommend the book The Perfect Health Diet. What is pemmican? From the [Wikipedia](https://en.wikipedia.org/wiki/Pemmican):
+About a month ago I started brainstorming about food. I wanted a food that was loaded with saturated fat, cheap, portable and preferably good tasting. If you are unclear on why someone would seek out saturated fat, I recommend the book The Perfect Health Diet.
+
+What is pemmican? From the [Wikipedia](https://en.wikipedia.org/wiki/Pemmican):
 
 > Pemmican is a concentrated mixture of fat and protein used as a nutritious food. The word comes from the Cree word pimhkn, which itself is derived from the word pim, "fat, grease".\[1\] It was invented by the native peoples of North America.
 
@@ -19,7 +21,11 @@ Pemmican has 3 main components.
 2.  Protein
 3.  Berries/Spices
 
-For my first pemmican I used [goat fat](/2011/11/rendered-goat-fat/), lean beef and blueberries. I also added a little salt. I'm not going to provide a complete recipe yet, because I made several mistakes along the way. I'm still learning the food dehydrator and I discovered my food processor is worthless for this task. ![pemmican](./img/pemmican.jpg) How did it taste? Not awful, but not that good either. Once I get a better tool to chop the dehydrated beef and dial in the spices better, I expect this food to be a staple.
+For my first pemmican I used [goat fat](/2011/11/rendered-goat-fat/), lean beef and blueberries. I also added a little salt. I'm not going to provide a complete recipe yet, because I made several mistakes along the way. I'm still learning the food dehydrator and I discovered my food processor is worthless for this task.
+
+![pemmican](./img/pemmican.jpg)
+
+How did it taste? Not awful, but not that good either. Once I get a better tool to chop the dehydrated beef and dial in the spices better, I expect this food to be a staple.
 
 ---
 

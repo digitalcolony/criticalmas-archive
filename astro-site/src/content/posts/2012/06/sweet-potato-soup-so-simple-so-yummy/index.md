@@ -9,7 +9,9 @@ description: "Recently, I was gifted a large amount of sweet potatoes. They were
 commentCount: 4
 ---
 
-Recently, I was gifted a large amount of sweet potatoes. They were getting old and had already started to grow little vines. I needed to make use of them quick, but I didn't have the appetite to roast them all. Soup! The great thing about making soup is whatever I can't eat right away can be stored in the freezer. Got to love making meals in advance. **Summary**: _An easy soup made with sweet potatoes._
+Recently, I was gifted a large amount of sweet potatoes. They were getting old and had already started to grow little vines. I needed to make use of them quick, but I didn't have the appetite to roast them all. Soup! The great thing about making soup is whatever I can't eat right away can be stored in the freezer. Got to love making meals in advance.
+
+**Summary**: _An easy soup made with sweet potatoes._
 
 
 #### Ingredients
@@ -39,13 +41,21 @@ Recently, I was gifted a large amount of sweet potatoes. They were getting old a
 8.  Use an immersion blender to blend into soup.
 9.  Taste and add any additional spices.
 
-![sweet-potato-soup](./img/sweet-potato-soup.jpg) _Make lots of soup at once and store the rest. Note that you shouldn't freeze jars like the two in the back row, because they have soup above the bend. See Lesson on [Freezing Canning Jars](/2011/12/lesson-on-freezing-canning-jars/)._  How much of each ingredient should you use? Whatever you like. This soup is very forgiving and you can always add more spices at any point.
+![sweet-potato-soup](./img/sweet-potato-soup.jpg)
+
+_Make lots of soup at once and store the rest. Note that you shouldn't freeze jars like the two in the back row, because they have soup above the bend. See Lesson on [Freezing Canning Jars](/2011/12/lesson-on-freezing-canning-jars/)._ 
+
+How much of each ingredient should you use? Whatever you like. This soup is very forgiving and you can always add more spices at any point.
 
 
 #### Variations
 
 
-For more sweetness, you can add brown sugar. I do this when served, not in the cooking process. Preparation time: 10 minute(s) Cooking time: 30 minute(s)
+For more sweetness, you can add brown sugar. I do this when served, not in the cooking process.
+
+Preparation time: 10 minute(s)
+
+Cooking time: 30 minute(s)
 
 ---
 

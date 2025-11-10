@@ -9,7 +9,9 @@ description: "In 2007 I really enjoyed the book Stumbling on Happiness, which ex
 commentCount: 0
 ---
 
-In 2007 I really enjoyed the book [Stumbling on Happiness](/2007/10/stumbling-on-covert-persuasion/), which explains why this book was recommended to me. ![Happiness: Unlocking the Mysteries of Psychological Wealth](https://images-na.ssl-images-amazon.com/images/I/41kQvAq%2BxaL.jpg) Happiness: Unlocking the Mysteries of Psychological Wealth by Ed Diener and Robert Biswas-Diener was good. A lot of the material I already understood. However, three things stood out to me in this book.
+In 2007 I really enjoyed the book [Stumbling on Happiness](/2007/10/stumbling-on-covert-persuasion/), which explains why this book was recommended to me.
+
+![Happiness: Unlocking the Mysteries of Psychological Wealth](https://images-na.ssl-images-amazon.com/images/I/41kQvAq%2BxaL.jpg) Happiness: Unlocking the Mysteries of Psychological Wealth by Ed Diener and Robert Biswas-Diener was good. A lot of the material I already understood. However, three things stood out to me in this book.
 
 1.  An explanation of how chronic stress affects us at the cellular level by shortening something called telomeres. These are the caps of the DNA that protect our chromosomes. Stress leads to shorter telomeres and greater health risk. Learning how to alleviate stress could keep your telomeres longer and allow your body to replicate cells with "fidelity".
 2.  A mathematical formula on wealth happiness that I discovered years ago, only I never wrote it down. ;) Happiness = attainments / aspirations. In other words, keep your desires less than your income to increase your happiness.

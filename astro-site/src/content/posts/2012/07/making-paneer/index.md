@@ -9,7 +9,15 @@ description: "When I first read the recipes for paneer, my initial thought was \
 commentCount: 8
 ---
 
-When I first read the recipes for paneer, my initial thought was _"it can't be that easy"_. So I checked a few other recipes and confirmed that it was really a ridiculously easy thing to make. QFC had a gallon of full-fat milk marked down to 99 cents. Perfect price for practice! ![milk-99cents](./img/milk-99cents.jpg) ![paneer-filter](./img/paneer-filter.jpg) ![paneer](./img/paneer.jpg) Here is my first attempt at paneer. I might need a little more practice with the presentation, but it tastes good. My next batch will use the spice recommendations in [this video](http://www.youtube.com/watch?v=UQu5jVagfao). But for now, I need to acquire some spinach to make Palak Paneer.
+When I first read the recipes for paneer, my initial thought was _"it can't be that easy"_. So I checked a few other recipes and confirmed that it was really a ridiculously easy thing to make. QFC had a gallon of full-fat milk marked down to 99 cents. Perfect price for practice!
+
+![milk-99cents](./img/milk-99cents.jpg)
+
+![paneer-filter](./img/paneer-filter.jpg)
+
+![paneer](./img/paneer.jpg)
+
+Here is my first attempt at paneer. I might need a little more practice with the presentation, but it tastes good. My next batch will use the spice recommendations in [this video](http://www.youtube.com/watch?v=UQu5jVagfao). But for now, I need to acquire some spinach to make Palak Paneer.
 
 ---
 

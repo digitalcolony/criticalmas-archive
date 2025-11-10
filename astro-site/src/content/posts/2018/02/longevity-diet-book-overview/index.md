@@ -9,19 +9,35 @@ description: "In December I posted Fasting Mimicking Diet Overview, which was a
 commentCount: 17
 ---
 
-In December I posted [Fasting Mimicking Diet Overview](/2017/12/fasting-mimicking-diet-overview/), which was a collection of notes I took from a podcast interview with Dr. Valter Longo. The short version of that post is that by engaging in a low-calorie, very-low protein "fast" for 5 days, one could reap many regenerative health benefits. I really loved the interview and because I had a deep interest in this topic and wanted to learn more, I read his recently published book _The Longevity Diet_. ![](./img/the-longevity-diet.jpg) _The Longevity Diet: Discover the New Science Behind Stem Cell Activation and Regeneration to SlowAging, Fight Disease, and Optimize Weight_ The book covers two diets:
+In December I posted [Fasting Mimicking Diet Overview](/2017/12/fasting-mimicking-diet-overview/), which was a collection of notes I took from a podcast interview with Dr. Valter Longo. The short version of that post is that by engaging in a low-calorie, very-low protein "fast" for 5 days, one could reap many regenerative health benefits.
+
+I really loved the interview and because I had a deep interest in this topic and wanted to learn more, I read his recently published book _The Longevity Diet_.
+
+![](./img/the-longevity-diet.jpg)
+
+_The Longevity Diet: Discover the New Science Behind Stem Cell Activation and Regeneration to SlowAging, Fight Disease, and Optimize Weight_
+
+The book covers two diets:
 
 1.  The Longevity Diet
 2.  The Fasting Mimicking Diet (FMD)
 
-The Longevity Diet is basically a low-protein mostly vegan diet with some fish. The diet is also low in sugar. Complex carbohydrate sources are recommended. Olive oil and nuts are ideal for fats. The Fasting Mimicking Diet is the low-calorie "fast" diet that one does for 5 days that was outlined in my [December post](/2017/12/fasting-mimicking-diet-overview/). How many times a year a person engages in the fast will depend on their health status. People in worse health (obesity, autoimmune, high-risk for cancer or other serious ailments) may do the FMD monthly, whereas a top athlete might do it once or twice a year. Everyone else, somewhere in between. The book was clearly written for the average person that doesn't dig into the health literature as much as we do. The book is only 217 pages worth of content before you get to the menus in the Appendix. Even at this short length, the core ideas are repeated over and over. This is probably good for someone concerned about their health that needs their handheld through these ideas. For me, I felt the book was fluff compared to the Found My Fitness interview, which dug deeper into the topic. The questions I wanted to be answered in the book weren't. There were also statements made in the book that were never backed up. Some examples:
+The Longevity Diet is basically a low-protein mostly vegan diet with some fish. The diet is also low in sugar. Complex carbohydrate sources are recommended. Olive oil and nuts are ideal for fats.
+
+The Fasting Mimicking Diet is the low-calorie "fast" diet that one does for 5 days that was outlined in my [December post](/2017/12/fasting-mimicking-diet-overview/). How many times a year a person engages in the fast will depend on their health status. People in worse health (obesity, autoimmune, high-risk for cancer or other serious ailments) may do the FMD monthly, whereas a top athlete might do it once or twice a year. Everyone else, somewhere in between.
+
+The book was clearly written for the average person that doesn't dig into the health literature as much as we do. The book is only 217 pages worth of content before you get to the menus in the Appendix. Even at this short length, the core ideas are repeated over and over. This is probably good for someone concerned about their health that needs their handheld through these ideas.
+
+For me, I felt the book was fluff compared to the Found My Fitness interview, which dug deeper into the topic. The questions I wanted to be answered in the book weren't. There were also statements made in the book that were never backed up. Some examples:
 
 -   As someone dealing with an injury now, I wanted to know the role stem cells might play in repair. This also extends to exercise recovery. Not covered.
 -   How stem cells work is never really explained. Because it is the very foundation of the book, I felt that it was a gross oversight. **Why would an expert on stem cells that finally has an audience with the general public assume that their knowledge of what stem cells can or can't do is accurate and complete?**
 -   I'm also interested in skin health, as readers of my October posts on [sunscreen](/2017/10/paleo-wrong-sunscreen/) know. At one point, Longo states a patient that did his FMD Diet had "glowing skin", with no follow-up explanation. Why was her skin glowing? What was the mechanism? There was also a mention of skin cancer with no follow-up. You'd think any book on longevity would address skin health, but it doesn't.
 -   Throughout the book, we are told to avoid bad fats, which are listed as saturated fats and trans fats. **Why do health writers always put saturated fats in the same sentence as trans fats?** Trans fats are not saturated fats, they are unsaturated. Everyone knows trans fats are bad. I was hoping to get the opinion of a longevity researcher on specifically why saturated fats are bad. Nope. They got lumped in with trans fats. Guilty. Maybe saturated fats are bad for longevity? If they are, I didn't learn why from this book.
 
-I still am interested in trying the Fasting Mimicking Diet and even incorporating some of the food recommendations in The Longevity Diet. However, The Longevity Diet could have been a much better book. UPDATE: [I Completed My First 5-Day Fasting Mimicking Diet](/2018/02/completed-first-5-day-fasting-mimicking-diet/)
+I still am interested in trying the Fasting Mimicking Diet and even incorporating some of the food recommendations in The Longevity Diet. However, The Longevity Diet could have been a much better book.
+
+UPDATE: [I Completed My First 5-Day Fasting Mimicking Diet](/2018/02/completed-first-5-day-fasting-mimicking-diet/)
 
 ---
 

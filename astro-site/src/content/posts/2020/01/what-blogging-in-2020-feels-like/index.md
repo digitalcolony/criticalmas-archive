@@ -8,7 +8,17 @@ description: "Remember that scene in the movie Titanic (spoiler ahead) when the 
 commentCount: 10
 ---
 
-Remember that scene in the movie Titanic (spoiler ahead) when the ship started going down? The passengers were racing to get off the ship, but the musicians accepted their fate, sat back down, and kept playing music. That is what blogging feels like today. All your fellow bloggers have left or in the process of leaving. Yet you play on. Maybe not as frequently as before, but you've decided not to jump into the lifeboats provided by Facebook and Twitter. And you don't have the energy or interest to start a podcast or build out a YouTube channel. The blogging ship is sinking and yet you play on. And you are OK with that choice. Any requests? ![titantic band](./img/titantic-band.jpg) _Keep blogging fellows!_
+Remember that scene in the movie Titanic (spoiler ahead) when the ship started going down? The passengers were racing to get off the ship, but the musicians accepted their fate, sat back down, and kept playing music. That is what blogging feels like today. All your fellow bloggers have left or in the process of leaving.
+
+Yet you play on.
+
+Maybe not as frequently as before, but you've decided not to jump into the lifeboats provided by Facebook and Twitter. And you don't have the energy or interest to start a podcast or build out a YouTube channel.
+
+The blogging ship is sinking and yet you play on. And you are OK with that choice. Any requests?
+
+![titantic band](./img/titantic-band.jpg)
+
+_Keep blogging fellows!_
 
 ---
 

@@ -26,13 +26,19 @@ Nancy talks about how she detoxed from QS to get healthy.
 
 > A lot of the responses are time delayed, they're interdependent, they're non linear.
 
-![Nancy QS](./img/nancy-qs.jpg) _I took a screenshot from the Nancy's presentation. I love the honesty here._  I love the conclusion she reached. The benefit to her health from Quantified Self was not about quantification, but the mindset that we are in control of our health. Being flexible and exploring are far more important than placing numbers on a spreadsheet.
+![Nancy QS](./img/nancy-qs.jpg)
+
+_I took a screenshot from the Nancy's presentation. I love the honesty here._ 
+
+I love the conclusion she reached. The benefit to her health from Quantified Self was not about quantification, but the mindset that we are in control of our health. Being flexible and exploring are far more important than placing numbers on a spreadsheet.
 
 
 ### [THM Show 006 - Laurie Frick](http://web.archive.org/web/20160109212430/http://www.thehackedmind.com:80/thm-show-006-laurie-frick-sleep-tracking-stomach-aches-mindfulness-self-tracking/)
 
 
-The closing minutes of this 28 minute podcast caught my attention. Up until the end the guest seemed quite enthusiastic about Quantified Self. Jump to 22:57 to hear the wisdom. Laurie tracked via a spreadsheet the following:
+The closing minutes of this 28 minute podcast caught my attention. Up until the end the guest seemed quite enthusiastic about Quantified Self. Jump to 22:57 to hear the wisdom.
+
+Laurie tracked via a spreadsheet the following:
 
 -   Fitbit data (2 years)
 -   Sleep data using Zeo (3 years)
@@ -44,7 +50,9 @@ The closing minutes of this 28 minute podcast caught my attention. Up until the
 
 She has looked for correlation and _really hunted_ for meaning.
 
-> I have sat and hunted and looked for patterns. I have done statistical analysis. The real truth is human data is noisy. It is hard to find these big learning \[insights\]. It is hard to correlate. It is really hard to take any single variable and really know these answers. Particularly when dealing with a sample size of one.
+> I have sat and hunted and looked for patterns. I have done statistical analysis. The real truth is human data is noisy. It is hard to find these big learning \[insights\].
+> 
+> It is hard to correlate. It is really hard to take any single variable and really know these answers. Particularly when dealing with a sample size of one.
 
 And her conclusion after years of tracking data.
 

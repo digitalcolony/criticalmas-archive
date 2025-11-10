@@ -9,7 +9,9 @@ description: "Recently someone mentioned in passing that I was anti-personal tra
 commentCount: 1
 ---
 
-Recently someone mentioned in passing that I was anti-personal trainer. Not true. Even though bad personal trainers provide plenty of material for [Tales From the Glitter Gym](https://criticalmas.org/tag/glitter-gym/), not all personal trainers are bad. And it takes two to tangle. If the best trainer in the world has a client that only wants to "_tone up_" their fat triceps via kick-backs, well they are going to have limited success. Let me list the reasons that I see for hiring a personal trainer.
+Recently someone mentioned in passing that I was anti-personal trainer. Not true. Even though bad personal trainers provide plenty of material for [Tales From the Glitter Gym](https://criticalmas.org/tag/glitter-gym/), not all personal trainers are bad. And it takes two to tangle. If the best trainer in the world has a client that only wants to "_tone up_" their fat triceps via kick-backs, well they are going to have limited success.
+
+Let me list the reasons that I see for hiring a personal trainer.
 
 1.  **Motivation** \- Some people need a push to get in the gym. Some people need a push to add more weight or do an additional set.
 2.  **Education** \- Going into a gym can be overwhelming. Figuring out how to do exercises safely and with proper form takes time. Hiring an expert can increase that learning process. In addition to learning the exercises, the trainer will also construct a sequence of exercises or a plan.

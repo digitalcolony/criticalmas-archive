@@ -16,7 +16,13 @@ A new season means a new installment for my seasonal approach series to nutritio
 -   [Winter Strategies For Nutrition and Fitness](/2010/12/winter-strategies-for-nutrition-and-fitness/)
 -   [Reviewing Winter Strategies For Nutrition and Fitness](/2011/03/reviewing-winter-strategies-nutrition-fitness/)
 
-After a long sleep deprived winter full of holiday parties and sickness, spring is the season that modern man decides it is time to lean out. Not me. I got plenty of sleep and leaned out during the winter. I decided to hibernate like the mammal I am. Note that I live in Seattle and my winter strategy is more extreme than it would be if I still lived in Tampa. ![seattle-may-2009](./img/seattle-may-2009.jpg) _May 2009 in Seattle_ Other than my [normal diet](/2010/03/what-i-eat-and-what-i-dont-eat-march-2010-edition/), here are my spring strategies:
+After a long sleep deprived winter full of holiday parties and sickness, spring is the season that modern man decides it is time to lean out. Not me. I got plenty of sleep and leaned out during the winter. I decided to hibernate like the mammal I am. Note that I live in Seattle and my winter strategy is more extreme than it would be if I still lived in Tampa.
+
+![seattle-may-2009](./img/seattle-may-2009.jpg)
+
+_May 2009 in Seattle_
+
+Other than my [normal diet](/2010/03/what-i-eat-and-what-i-dont-eat-march-2010-edition/), here are my spring strategies:
 
 1.  **Increase Activity** - I'm going to start [urban hiking](https://criticalmas.org/best-of/urban-hiking/) soon. If I can imagine my caveman ancestor emerging from the cave, I could see him traveling to find new food sources.
 2.  **Increase Carbohydrates** - Not a lot, just a little. On days with more activity, I'll be adding more root veggies and potatoes. Ice cream isn't until summer. :)
@@ -24,7 +30,9 @@ After a long sleep deprived winter full of holiday parties and sickness, spring 
 4.  **More Seafood** - You can only eat so much offal. ;)
 5.  **Reduced Intermittent Fasting** \- I'm developing a new IF strategy that I think overcomes the problems with the other popular protocols out there. Stay tuned on this one.
 
-That is pretty much it. The primary focus this season will be maintaining my current level of leanness while making strength gains and increasing my endurance. UPDATE MARCH 2011: More spring greens - see 1st comment below.
+That is pretty much it. The primary focus this season will be maintaining my current level of leanness while making strength gains and increasing my endurance.
+
+UPDATE MARCH 2011: More spring greens - see 1st comment below.
 
 ---
 

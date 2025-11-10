@@ -9,7 +9,23 @@ description: "Today I did a task that I've been putting off for years. I cleaned
 commentCount: 6
 ---
 
-Today I did a task that I've been putting off for years. I cleaned my keyboard. Not the typical surface cleaning, but a proper full cleaning. In the past a keyboard would break long before it required a serious cleaning. Not anymore. I've had this one for probably 7 or 8 years. First I unplugged the keyboard completely from the PC. Then I removed the keys gently and slowly using a butter knife. I placed them in a bowl with warm soapy water. I used Sal's Suds. Look under the keys. Yuck! ![keyboard](./img/keyboard.jpg) While the keys were soaking, I first took a can of air and blasted the region. That removed about half the crud. The rest required Q-Tips and rubbing alcohol. According to [HowToGeek](http://www.howtogeek.com/65073/how-to-thoroughly-clean-your-keyboard-without-breaking-anything/), only use isopropyl alcohol. Once the base is cleaned, start rinsing and drying the keys. Then you can put the keys back. To make this task easier, I recommend taking photos of the keyboard layout before you start removing keys. It makes things easier. If you fail to do this, there are sites with images of a PC keyboard layout. Of course this requires a 2nd computer with keys that aren't soaking in a bucket. ![keyboard-clean](./img/keyboard-clean.jpg) ![keyboard-clean2](./img/keyboard-clean2.jpg) Now my keyboard is brand new clean again. Good for another 7 years! :) ![keyboard-clean3](./img/keyboard-clean3.jpg)
+Today I did a task that I've been putting off for years. I cleaned my keyboard. Not the typical surface cleaning, but a proper full cleaning. In the past a keyboard would break long before it required a serious cleaning. Not anymore. I've had this one for probably 7 or 8 years.
+
+First I unplugged the keyboard completely from the PC. Then I removed the keys gently and slowly using a butter knife. I placed them in a bowl with warm soapy water. I used Sal's Suds. Look under the keys. Yuck!
+
+![keyboard](./img/keyboard.jpg)
+
+While the keys were soaking, I first took a can of air and blasted the region. That removed about half the crud. The rest required Q-Tips and rubbing alcohol. According to [HowToGeek](http://www.howtogeek.com/65073/how-to-thoroughly-clean-your-keyboard-without-breaking-anything/), only use isopropyl alcohol.
+
+Once the base is cleaned, start rinsing and drying the keys. Then you can put the keys back. To make this task easier, I recommend taking photos of the keyboard layout before you start removing keys. It makes things easier. If you fail to do this, there are sites with images of a PC keyboard layout. Of course this requires a 2nd computer with keys that aren't soaking in a bucket.
+
+![keyboard-clean](./img/keyboard-clean.jpg)
+
+![keyboard-clean2](./img/keyboard-clean2.jpg)
+
+Now my keyboard is brand new clean again. Good for another 7 years! :)
+
+![keyboard-clean3](./img/keyboard-clean3.jpg)
 
 ---
 

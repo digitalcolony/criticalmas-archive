@@ -29,7 +29,13 @@ Using the MixWit site I was able to recreate the mix. This time I trimmed the mi
 
 The best weight-lifting line from a Marilyn Manson song is from _Use Your Fist And Not Your Mouth_.
 
-> I woke up today and wished for tomorrow I don't want to be like anyone else I woke up today and wished for tomorrow I don't want to even be myself
+> I woke up today and wished for tomorrow
+> 
+> I don't want to be like anyone else
+> 
+> I woke up today and wished for tomorrow
+> 
+> I don't want to even be myself
 
 UPDATE DEC 2008 - Mixwit shut down
 

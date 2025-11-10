@@ -9,7 +9,15 @@ description: "This post is primarily for people who have not traveled outside t
 commentCount: 6
 ---
 
-This post is primarily for people who have not traveled outside the United States. When you first enter a foreign country you must present yourself to an immigration officer. They will look over your passport and if a tourist VISA is required, they will examine that too. They may ask you questions about why you are in their country and what you plan to do. And if they don't like the answers they hear, you could be detained. This is their home and they set the rules. Once you make it through Immigration, you will pass through Customs. This is where officers will defend their country from you taking in anything illegal. That might be a firearm, drugs, or even a sizable amount of cash. It is their country and they set the rules. If you don't play by their rules, you could be fined or detained. Sounds scary doesn't it? A bright-eyed American leaves the _Land of the Free_ and ends up in a foreign prison due to some misunderstanding at the airport. The reality is every foreign country that I have visited has had Immigration and Customs officers who have treated me with respect. I understand there is corruption at some land crossings, but it is far less common at airports. During my trip, I went through Immigration 7 times, and only once was I treated like a criminal. Can you guess which one?
+This post is primarily for people who have not traveled outside the United States.
+
+When you first enter a foreign country you must present yourself to an immigration officer. They will look over your passport and if a tourist VISA is required, they will examine that too. They may ask you questions about why you are in their country and what you plan to do. And if they don't like the answers they hear, you could be detained. This is their home and they set the rules.
+
+Once you make it through Immigration, you will pass through Customs. This is where officers will defend their country from you taking in anything illegal. That might be a firearm, drugs, or even a sizable amount of cash. It is their country and they set the rules. If you don't play by their rules, you could be fined or detained.
+
+Sounds scary doesn't it? A bright-eyed American leaves the _Land of the Free_ and ends up in a foreign prison due to some misunderstanding at the airport. The reality is every foreign country that I have visited has had Immigration and Customs officers who have treated me with respect. I understand there is corruption at some land crossings, but it is far less common at airports.
+
+During my trip, I went through Immigration 7 times, and only once was I treated like a criminal. Can you guess which one?
 
 1.  Thailand (from Seattle, USA)
 2.  Cambodia (from Thailand)
@@ -19,7 +27,15 @@ This post is primarily for people who have not traveled outside the United Stat
 6.  South Korea (from Thailand)
 7.  Seattle, USA (from South Korea)
 
-If you guessed #7, you are correct. The immigration lines returning to America were longer than every other line I had gone through combined. The lines were long and slow-moving because everyone was being grilled on why they were here or why they left. I got the same hostile reception when I returned from South America in 2006 as well. Is this how we treat everyone visiting our country? Sad. I got off easy. Some young mother of Latin descent had just arrived on a red-eye got peppered with hostile questions in rapid fire. When her language skills couldn't keep pace with the officer, she got escorted to a side room with her infant child. The officer was some young guy with his head shaved to look tough. _If you want to be tough dude, join the military._ ![south-korea-airport](./img/south-korea-airport.jpg) _I breezed right through South Korea Immigration and was on my way._ Perhaps my experiences were not typical. I'd like to hear from other travelers about their incidents with Immigration in America and in other countries.
+If you guessed #7, you are correct. The immigration lines returning to America were longer than every other line I had gone through combined. The lines were long and slow-moving because everyone was being grilled on why they were here or why they left. I got the same hostile reception when I returned from South America in 2006 as well. Is this how we treat everyone visiting our country? Sad.
+
+I got off easy. Some young mother of Latin descent had just arrived on a red-eye got peppered with hostile questions in rapid fire. When her language skills couldn't keep pace with the officer, she got escorted to a side room with her infant child. The officer was some young guy with his head shaved to look tough. _If you want to be tough dude, join the military._
+
+![south-korea-airport](./img/south-korea-airport.jpg)
+
+_I breezed right through South Korea Immigration and was on my way._
+
+Perhaps my experiences were not typical. I'd like to hear from other travelers about their incidents with Immigration in America and in other countries.
 
 ---
 

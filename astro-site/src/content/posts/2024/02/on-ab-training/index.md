@@ -9,14 +9,28 @@ description: "Last year, I discussed how I fixed my dysfunctional relationship w
 commentCount: 11
 ---
 
-Last year, I discussed how I fixed my dysfunctional relationship with [pushups](/2023/09/on-pushups/). Now, I want to talk about ab exercises. I have never liked training my abs. Just like with the pushup, my introduction to ab exercises came in Army basic training. There you needed to knock out a bunch of sit-ups in under 2 minutes. You quickly learn how to use momentum to pass the Army Physical Fitness Test. I didn't like the pushup, but I never questioned that it wasn't a quality exercise. With the sit-up, I wasn't sure how valuable it was. Then came all the conflicting information from muscle magazines and online articles. There were four messages that I recall regularly seeing regarding ab training.
+Last year, I discussed how I fixed my dysfunctional relationship with [pushups](/2023/09/on-pushups/). Now, I want to talk about ab exercises.
+
+I have never liked training my abs. Just like with the pushup, my introduction to ab exercises came in Army basic training. There you needed to knock out a bunch of sit-ups in under 2 minutes. You quickly learn how to use momentum to pass the Army Physical Fitness Test. I didn't like the pushup, but I never questioned that it wasn't a quality exercise. With the sit-up, I wasn't sure how valuable it was.
+
+Then came all the conflicting information from muscle magazines and online articles. There were four messages that I recall regularly seeing regarding ab training.
 
 1.  The ab exercise you are doing is wrong. You could hurt your neck or you aren't engaging the ab correctly. One article would tell you to do one exercise. The next one would say that the exercise was ineffective and tell you to do a different one.
 2.  If you do compound lifts you are engaging your core and you don't need to do direct ab work.
 3.  Unless you are quite lean, doing ab work would do nothing to improve the look of your abs. Time spent doing crunches would be better spent lifting something heavy.
 4.  Ab training got little respect in the exercise hierarchy. Tier 1 was legs, chest, and back. They were required. Tier 2 was arms and shoulders. They were advised. Tier 3 was abs and calves. They were optional.
 
-Like I said in the [(Still) Not a PubMed Warrior](/2023/07/still-not-a-pubmed-warrior/) post, people keep researching until they find a view that supports what they already believe or want to believe. I didn't like ab training and now I had reasons to skip ab training. So, I did very little ab work. I now believe that was a mistake. When I was doing classic weight training, I would often get lower back pain. Up until recently, I associated my lower back pain with the squat and deadlift. Although they likely had a role, I now can see how I never really learned how to consistently do a proper abdominal brace. As I increased the weight, my abs got stronger, but I still spent most of my day either at a desk or commuting where my abs were disengaged. Then 2 or 3 times a week, I'd put on my [Marilyn Manson mix](/2008/04/mascene-20-the-marilyn-manson-workout-mix/) and slam weights. Cycles of progress mixed with cycles of pain. Later I would learn about the role stress had on back pain. I have an [entire section](https://criticalmas.org/best-of/back-pain/) on that topic. While I still believe all that to be true, I can now see that wasn't the complete reason for all my back pain. Around 2011, I abandoned classic weight training for a machine-based HIT workout mostly built around the Big 5 exercises in the book Body By Science.
+Like I said in the [(Still) Not a PubMed Warrior](/2023/07/still-not-a-pubmed-warrior/) post, people keep researching until they find a view that supports what they already believe or want to believe. I didn't like ab training and now I had reasons to skip ab training. So, I did very little ab work.
+
+I now believe that was a mistake.
+
+When I was doing classic weight training, I would often get lower back pain. Up until recently, I associated my lower back pain with the squat and deadlift. Although they likely had a role, I now can see how I never really learned how to consistently do a proper abdominal brace.
+
+As I increased the weight, my abs got stronger, but I still spent most of my day either at a desk or commuting where my abs were disengaged. Then 2 or 3 times a week, I'd put on my [Marilyn Manson mix](/2008/04/mascene-20-the-marilyn-manson-workout-mix/) and slam weights. Cycles of progress mixed with cycles of pain.
+
+Later I would learn about the role stress had on back pain. I have an [entire section](https://criticalmas.org/best-of/back-pain/) on that topic. While I still believe all that to be true, I can now see that wasn't the complete reason for all my back pain.
+
+Around 2011, I abandoned classic weight training for a machine-based HIT workout mostly built around the Big 5 exercises in the book Body By Science.
 
 1.  Leg Press
 2.  Bench Press
@@ -24,13 +38,29 @@ Like I said in the [(Still) Not a PubMed Warrior](/2023/07/still-not-a-pubmed-wa
 4.  Overhead Press
 5.  Seated Row
 
-The pain that I frequently got from barbell lifts went away. Maybe I did something wrong, but I don't feel the time-efficient HIT exercises - except for the [Hillfit](/2012/01/hillfit-strength-is-not-just-for-hikers/) plank - did much to increase my ab strength. At the same time I was being exposed to HIT, I no longer had a San Diego desk job with a long commute. I was in Seattle working from home, walking a lot, and driving very little. My abs were weak compared to my higher levels of strength with other body parts, yet I didn't realize it at the time. I was pain-free and all was well. In June 2022, I had the best sports massage of my life. During that massage, I was told I had "surprisingly weak" ab muscles. That was a wake-up call to me. I'm sure some of it was from not exercising enough during the COVID period, but at that moment I knew that all the strength training I had done (both classic and HIT) had not been enough to build my core. I began adding some ab exercises into my morning yoga routine. I believe I was making progress. Then the [hernia hit last summer](/2023/08/i-got-a-hernia/). In that post, I list the reasons that I think led up to my hernia. I did not include weak abs. In hindsight, I would add that to the list. If my abs were twice as strong, would that twisting upward dog yoga pose have been safer? ![](./img/karolis-milisauskas-eoVdk1z4ihI-unsplash.jpg) _Photo by_ [_Karolis Milišauskas_](https://unsplash.com/@karolismili?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+The pain that I frequently got from barbell lifts went away. Maybe I did something wrong, but I don't feel the time-efficient HIT exercises - except for the [Hillfit](/2012/01/hillfit-strength-is-not-just-for-hikers/) plank - did much to increase my ab strength.
+
+At the same time I was being exposed to HIT, I no longer had a San Diego desk job with a long commute. I was in Seattle working from home, walking a lot, and driving very little. My abs were weak compared to my higher levels of strength with other body parts, yet I didn't realize it at the time. I was pain-free and all was well.
+
+In June 2022, I had the best sports massage of my life. During that massage, I was told I had "surprisingly weak" ab muscles. That was a wake-up call to me. I'm sure some of it was from not exercising enough during the COVID period, but at that moment I knew that all the strength training I had done (both classic and HIT) had not been enough to build my core.
+
+I began adding some ab exercises into my morning yoga routine. I believe I was making progress. Then the [hernia hit last summer](/2023/08/i-got-a-hernia/). In that post, I list the reasons that I think led up to my hernia. I did not include weak abs. In hindsight, I would add that to the list. If my abs were twice as strong, would that twisting upward dog yoga pose have been safer?
+
+![](./img/karolis-milisauskas-eoVdk1z4ihI-unsplash.jpg)
+
+_Photo by_ [_Karolis Milišauskas_](https://unsplash.com/@karolismili?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 
 ### Questions and Going Forward
 
 
-Is it possible to have strong abs without direct ab training? If it is possible, would it require compound lifts? Do machine-based lifting programs like SuperSlow engage the abs enough? Does sitting and driving a lot increase the need for core exercises? Does height matter? I could see a taller person might have a greater need than a shorter person. The hernia recovery took longer than expected. During the recovery, my abs got much weaker. I have no plans to give up on machine-based HIT and go back to bro-lifts, so I have added ab work back to my morning routine. I'm still experimenting with finding the best exercises. Let me know your thoughts. UPDATE: By "ab" training, I am including all core exercises.
+Is it possible to have strong abs without direct ab training? If it is possible, would it require compound lifts? Do machine-based lifting programs like SuperSlow engage the abs enough? Does sitting and driving a lot increase the need for core exercises? Does height matter? I could see a taller person might have a greater need than a shorter person.
+
+The hernia recovery took longer than expected. During the recovery, my abs got much weaker. I have no plans to give up on machine-based HIT and go back to bro-lifts, so I have added ab work back to my morning routine. I'm still experimenting with finding the best exercises.
+
+Let me know your thoughts.
+
+UPDATE: By "ab" training, I am including all core exercises.
 
 ---
 

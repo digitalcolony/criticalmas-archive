@@ -8,23 +8,45 @@ description: "Long-time readers of this blog might recall how I was an early ent
 commentCount: 6
 ---
 
-Long-time readers of this blog might recall how I was an early enthusiast of the quantified self movement. I wanted to believe that I was capable of hacking myself to a better health outcome by running experiments and tracking variables in a spreadsheet. I ultimately rejected quantified self. You can read about that journey on my [Quantified Self page](https://criticalmas.org/best-of/quantified-self/). On that page, I talked briefly about the future.
+Long-time readers of this blog might recall how I was an early enthusiast of the quantified self movement. I wanted to believe that I was capable of hacking myself to a better health outcome by running experiments and tracking variables in a spreadsheet.
+
+I ultimately rejected quantified self. You can read about that journey on my [Quantified Self page](https://criticalmas.org/best-of/quantified-self/). On that page, I talked briefly about the future.
 
 > I do think there can be tremendous value and insight into collecting and analyzing health data. That collection would need to be passive and the analysis done by someone else.
 
-I wrote that in 2014. Fast forward to 2019 and I am seeing several interesting fitness wearables on the market. This got my attention because the data collection would now be passive and that data could be run through an algorithm to provide me with actionable analysis. The 3 wearables I purchased were the Oura Ring, Apollo Neuro, and the Muse 2. I also have a first-generation Apple Watch that was gifted to me. The Muse 2 was supposed to help me become better at meditation. It failed. I trashed the device in the post [The Muse 2 is Stressing Me Out](/2021/02/the-muse-2-is-stressing-me-out/). The Apollo Neuro was supposed to push me into different states and moods quicker via vibrations. I used it for several months and [didn't notice any benefit](/2021/02/the-apollo-neuro-is-a-maybe-for-me/). I wasn't sure it was helping me, so I stopped using it and saw no change. As for the Oura Ring, my relationship was more complicated. In 2020, I didn't like the Oura. In 2021, I liked it. By 2022, I hated the Oura. Initially, I believed that the Oura was helping me resolve my insomnia. The thing is, I never had insomnia until I got an Oura. It was only after I started checking my sleep score daily did these sleep issues surface. A core lesson of overcoming insomnia is accepting the fact that one can't control sleep. Did you know that most insomniacs have perfect sleep hygiene? It is a form of control. Sleep comes when the conscious mind surrenders to the unconscious mind. Having the Oura track and grade me every minute was not helpful. Once I removed the Oura, my sleep got much better. I boxed my wearables up and gave them to a friend to sell. ![sleep](./img/alexander-possingham-CeWNEEsHPbA-unsplash.jpg) _Photo by [Alexander Possingham](https://unsplash.com/@allexx54?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+I wrote that in 2014. Fast forward to 2019 and I am seeing several interesting fitness wearables on the market. This got my attention because the data collection would now be passive and that data could be run through an algorithm to provide me with actionable analysis.
+
+The 3 wearables I purchased were the Oura Ring, Apollo Neuro, and the Muse 2. I also have a first-generation Apple Watch that was gifted to me.
+
+The Muse 2 was supposed to help me become better at meditation. It failed. I trashed the device in the post [The Muse 2 is Stressing Me Out](/2021/02/the-muse-2-is-stressing-me-out/). The Apollo Neuro was supposed to push me into different states and moods quicker via vibrations. I used it for several months and [didn't notice any benefit](/2021/02/the-apollo-neuro-is-a-maybe-for-me/). I wasn't sure it was helping me, so I stopped using it and saw no change. As for the Oura Ring, my relationship was more complicated.
+
+In 2020, I didn't like the Oura. In 2021, I liked it. By 2022, I hated the Oura.
+
+Initially, I believed that the Oura was helping me resolve my insomnia. The thing is, I never had insomnia until I got an Oura. It was only after I started checking my sleep score daily did these sleep issues surface.
+
+A core lesson of overcoming insomnia is accepting the fact that one can't control sleep. Did you know that most insomniacs have perfect sleep hygiene? It is a form of control. Sleep comes when the conscious mind surrenders to the unconscious mind. Having the Oura track and grade me every minute was not helpful. Once I removed the Oura, my sleep got much better.
+
+I boxed my wearables up and gave them to a friend to sell.
+
+![sleep](./img/alexander-possingham-CeWNEEsHPbA-unsplash.jpg)
+
+_Photo by [Alexander Possingham](https://unsplash.com/@allexx54?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 
 ### Patterns in Hindsight
 
 
-Looking back I can now see that all the reviewers and podcasters that discussed these wearables (and a few others) were either investors in the company or (more commonly) receiving an affiliate commission for each sale. Positive reviews outnumber negative reviews by far because there is no financial incentive to post a negative review.
+Looking back I can now see that all the reviewers and podcasters that discussed these wearables (and a few others) were either investors in the company or (more commonly) receiving an affiliate commission for each sale.
+
+Positive reviews outnumber negative reviews by far because there is no financial incentive to post a negative review.
 
 
 ### Work on Intuition...for now
 
 
-It is my opinion that wearables need to get a lot better before I would consider making another purchase. They will, but we are a long way off. In the meantime, you don't need a wearable to tell you if you slept well or if you are too tired to work out. Build your intuition and follow common sense. Alcohol, caffeine, a warm bedroom, and eating right before bed are the things that are most likely to cause your sleep to suffer. You don't need a $300 ring to tell you that.
+It is my opinion that wearables need to get a lot better before I would consider making another purchase. They will, but we are a long way off. In the meantime, you don't need a wearable to tell you if you slept well or if you are too tired to work out. Build your intuition and follow common sense.
+
+Alcohol, caffeine, a warm bedroom, and eating right before bed are the things that are most likely to cause your sleep to suffer. You don't need a $300 ring to tell you that.
 
 ---
 

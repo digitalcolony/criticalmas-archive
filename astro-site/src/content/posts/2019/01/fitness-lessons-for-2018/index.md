@@ -35,7 +35,9 @@ Since then, I have added single-leg leg presses into the mix. Use a lower weight
 ### Going on Offense to Deal with Toxins
 
 
-I've always thought that defending the body against every environmental toxin was a losing battle. We can't control every bite of food, every drop of water or the air we breathe. It would drive you crazy or bankrupt if you attempted to do so. A better approach would be to go on offense. Assume toxic exposure and remove them. But how? See this post.
+I've always thought that defending the body against every environmental toxin was a losing battle. We can't control every bite of food, every drop of water or the air we breathe. It would drive you crazy or bankrupt if you attempted to do so.
+
+A better approach would be to go on offense. Assume toxic exposure and remove them. But how? See this post.
 
 -   [Detoxification Notes (Science Not Woo-Woo)](/2018/04/detoxification-notes-science-not-woo-woo/)
 
@@ -67,7 +69,11 @@ My great insight of 2018 was to take the success I had with the Potato Hack and 
 
 -   [Potatoes and Protein – A No Hunger Template For Fat Loss](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/)
 
-This combo is turning out to be crazy effective for controlling appetite. ![](./img/brewing-cold-brew.jpg) _I use the Penguin to make my cold brew coffee. See my article [Make Concentrated Cold Brew Coffee With the Penguin Coffee](https://ineedcoffee.com/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/) for instructions._
+This combo is turning out to be crazy effective for controlling appetite.
+
+![](./img/brewing-cold-brew.jpg)
+
+_I use the Penguin to make my cold brew coffee. See my article [Make Concentrated Cold Brew Coffee With the Penguin Coffee](https://ineedcoffee.com/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/) for instructions._
 
 ---
 

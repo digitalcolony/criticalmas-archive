@@ -9,7 +9,9 @@ description: "I forgot to include this on yesterday's Fitness Updates (December
 commentCount: 0
 ---
 
-_I forgot to include this on yesterday's [Fitness Updates (December 2018)](/2018/12/fitness-updates-december-2018/) post._ Back in September, I was making progress on resolving some stomach issues. From [Stomach Woes Update](/2018/09/stomach-woes-update/):
+_I forgot to include this on yesterday's [Fitness Updates (December 2018)](/2018/12/fitness-updates-december-2018/) post._
+
+Back in September, I was making progress on resolving some stomach issues. From [Stomach Woes Update](/2018/09/stomach-woes-update/):
 
 > A few weeks ago, I cut my coffee intake in half and I feel a lot better. Instead of 3 coffees a day, I started brewing three 1/2 cups of coffee with my Aeropress. Each time with food.
 
@@ -29,16 +31,24 @@ This helped a bit, but half & half is still food. And I love the taste of black 
 #### Test #2: Decaf
 
 
-Most decaf coffee is nasty, but there are 2 roasters in Seattle that know how to source and roast decaf properly (Kuma, QED). Drinking a hot coffee even without caffeine as long as it tastes delicious is enough to "wake me up" for an hour or so. The problem I discovered was the removal of caffeine did almost nothing to reduce the stomach pain.
+Most decaf coffee is nasty, but there are 2 roasters in Seattle that know how to source and roast decaf properly (Kuma, QED). Drinking a hot coffee even without caffeine as long as it tastes delicious is enough to "wake me up" for an hour or so.
+
+The problem I discovered was the removal of caffeine did almost nothing to reduce the stomach pain.
 
 
 #### Test #3: Cold Brew Coffee
 
 
-Cold brew coffee has less acid than other brewing methods. It worked. Each morning I pour a half mug of cold brew concentrate into a mug, top it off with water, and then heat it. My gut feels so much better now. If you are interested in getting started with cold brew, check out my INeedCoffee article [Make Concentrated Cold Brew Coffee With the Penguin Coffee](https://ineedcoffee.com/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/). I still prefer more acidic methods of brewing coffee, but I now have those with food. So I only drink the heated cold brew in the morning. The rest of the day I drink AeroPress or if I'm out espresso.
+Cold brew coffee has less acid than other brewing methods. It worked. Each morning I pour a half mug of cold brew concentrate into a mug, top it off with water, and then heat it. My gut feels so much better now.
+
+If you are interested in getting started with cold brew, check out my INeedCoffee article [Make Concentrated Cold Brew Coffee With the Penguin Coffee](https://ineedcoffee.com/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/).
+
+I still prefer more acidic methods of brewing coffee, but I now have those with food. So I only drink the heated cold brew in the morning. The rest of the day I drink AeroPress or if I'm out espresso.
 
 
 #### Test #4: Coffee Tamer
 
 
-I received a sample of a mineral pack that when added to an acidic coffee reduces the acid without reducing the flavor. It was called _Coffee Tamer_. I found it interesting and it worked, but just not as well as Cold Brew. Cold Brew was kinder to my stomach. Coffee Tamer might be a good option for traveling when I'm away from my cold brew stash. ![](./img/futurama-coffee-machine.jpg)
+I received a sample of a mineral pack that when added to an acidic coffee reduces the acid without reducing the flavor. It was called _Coffee Tamer_. I found it interesting and it worked, but just not as well as Cold Brew. Cold Brew was kinder to my stomach. Coffee Tamer might be a good option for traveling when I'm away from my cold brew stash.
+
+![](./img/futurama-coffee-machine.jpg)

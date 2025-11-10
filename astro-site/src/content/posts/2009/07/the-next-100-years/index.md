@@ -9,7 +9,13 @@ description: "George Friedman writes the occasional article for John Mauldin's o
 commentCount: 4
 ---
 
-George Friedman writes the occasional article for John Mauldin's outstanding financial newsletter on topics of geopolitics. He is an engaging and thoughtful writer, so I knew I had to read his new book. ![The Next 100 Years: A Forecast for the 21st Century](https://images-na.ssl-images-amazon.com/images/I/41-nfq85bYL.jpg) _The Next 100 Years: A Forecast for the 21st Century by George Friedman_ is my first book dealing with long term political forecasting. I really enjoyed it. Friedman mixed history, culture, geography, technology patterns, and demographic changes into all his forecasts. I expect the forecasting to be more accurate in the early part of the 21st century and to become less accurate in the latter part, as the later forecasts are often dependent on the earlier forecasts. What countries will be moving up in economic and military power in the 21st century?
+George Friedman writes the occasional article for John Mauldin's outstanding financial newsletter on topics of geopolitics. He is an engaging and thoughtful writer, so I knew I had to read his new book.
+
+![The Next 100 Years: A Forecast for the 21st Century](https://images-na.ssl-images-amazon.com/images/I/41-nfq85bYL.jpg) _The Next 100 Years: A Forecast for the 21st Century by George Friedman_ is my first book dealing with long term political forecasting. I really enjoyed it.
+
+Friedman mixed history, culture, geography, technology patterns, and demographic changes into all his forecasts. I expect the forecasting to be more accurate in the early part of the 21st century and to become less accurate in the latter part, as the later forecasts are often dependent on the earlier forecasts.
+
+What countries will be moving up in economic and military power in the 21st century?
 
 1.  **USA** \- Having complete naval control over the planet is an advantage no other country has. Our navy is larger and more powerful than all other Navies combined.
 2.  **Japan** \- Friedman predicts Japan will be the dominant Asian power, not China.

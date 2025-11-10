@@ -15,13 +15,27 @@ I haven't posted about my [20 pound fat loss bet](/2014/02/fat-loss-bet/) in a w
 ### #1 Coffee Addiction
 
 
-Coffee is a complicated tool when it comes to appetite. At normal or low levels, it can suppress appetite and help with fat loss. At higher levels, it can make you feel jittery and stimulate appetite. At least it does for me. The problem is that when I started the fat loss goal, I was already at a higher than normal level of coffee. I decided to not cut back at that time and instead push it until the goal was met. At that time, I could reduce to a normal level. Only that didn't work out so well. I've become more sensitive to caffeine this year. Yet I still get massive enjoyment from coffee and especially espresso. In terms of losing weight, if I cut back, my mood drops. Mood drops and I reach for sugar. At the other end, if I consume too much coffee, I get jittery and reach for fatty foods. At both ends of spectrum, I consume extra calories. When people post articles about how coffee helps you lose weight, I always roll my eyes. There isn't a simple narrative. ![useless without coffee](./img/201302-useless-ineedcoffee.jpg) _From [Inanimate Objects Comics #40](https://ineedcoffee.com/inanimate-objects-comics-40/) by Todd Zapoli_
+Coffee is a complicated tool when it comes to appetite. At normal or low levels, it can suppress appetite and help with fat loss. At higher levels, it can make you feel jittery and stimulate appetite. At least it does for me. The problem is that when I started the fat loss goal, I was already at a higher than normal level of coffee. I decided to not cut back at that time and instead push it until the goal was met. At that time, I could reduce to a normal level. Only that didn't work out so well.
+
+I've become more sensitive to caffeine this year. Yet I still get massive enjoyment from coffee and especially espresso. In terms of losing weight, if I cut back, my mood drops. Mood drops and I reach for sugar. At the other end, if I consume too much coffee, I get jittery and reach for fatty foods. At both ends of spectrum, I consume extra calories.
+
+When people post articles about how coffee helps you lose weight, I always roll my eyes. There isn't a simple narrative.
+
+![useless without coffee](./img/201302-useless-ineedcoffee.jpg)
+
+_From [Inanimate Objects Comics #40](https://ineedcoffee.com/inanimate-objects-comics-40/) by Todd Zapoli_
 
 
 ### #2 Corrupt Data (Blaming the Scale)
 
 
-I'm not the type of person to blame the scale for inaccuracy. My approach has always been to throw out outliers and then average the trend. So if I go the gym and weigh myself 3 times one week and the scale reads 205, 207 and 202, I would throw out the 202 and average the other two numbers to arrive at 206 as my weight for that week. That works if the scale is off in a consistent pattern. In mid June, I noticed one week that my weight jumped 6 pounds. The next week it was down 5 pounds. Yet by the mirror, my weight was stable. So I started playing around with the scale. I noticed the weight fluctuated if the scale was against the wall versus pulled out a few inches. And my weight was different if I stepped on with my left foot first or my right foot first. I tried several stances on the scale. All had different readings. I'm certain that I made poor choices based off the inaccurate readings I got during the diet. On one week where I ate a lot of sorbet, I lost weight. Or at least I thought I did. I was excited to learn that unlike ice cream which is my go to for gaining weight, I was able to eat sorbet just as summer was kicking in and lose weight! But the scale was wrong. All my data was suspect. Every single week. I do think I lost weight and I do think I gained some back. How much? Not a clue. I don't even know if my initial reading was accurate.
+I'm not the type of person to blame the scale for inaccuracy. My approach has always been to throw out outliers and then average the trend. So if I go the gym and weigh myself 3 times one week and the scale reads 205, 207 and 202, I would throw out the 202 and average the other two numbers to arrive at 206 as my weight for that week.
+
+That works if the scale is off in a consistent pattern. In mid June, I noticed one week that my weight jumped 6 pounds. The next week it was down 5 pounds. Yet by the mirror, my weight was stable. So I started playing around with the scale. I noticed the weight fluctuated if the scale was against the wall versus pulled out a few inches. And my weight was different if I stepped on with my left foot first or my right foot first. I tried several stances on the scale. All had different readings.
+
+I'm certain that I made poor choices based off the inaccurate readings I got during the diet. On one week where I ate a lot of sorbet, I lost weight. Or at least I thought I did. I was excited to learn that unlike ice cream which is my go to for gaining weight, I was able to eat sorbet just as summer was kicking in and lose weight! But the scale was wrong.
+
+All my data was suspect. Every single week. I do think I lost weight and I do think I gained some back. How much? Not a clue. I don't even know if my initial reading was accurate.
 
 
 ### #3 The Move
@@ -33,14 +47,22 @@ During my last month in Seattle, I was focused more on getting rid of stuff I co
 ### #4 Grocery Outlet's Sale on Pineapple Greek Frozen Yogurt
 
 
-I shouldn't even go into this store, as they always have great deals on ice cream, sorbet, sherbets, and frozen yogurt. During the period I believed I was able to eat sorbet and lose weight, I visited Grocery Outlet to see what sorbet options they had. They were out of sorbet, but they were selling Ben & Jerry's Pineapple Frozen Yogurt for $2 a pint. It was good. I went back for more. The price had dropped to $1. I bought even more. Then I returned and saw they dropped the price to 50 cents a pint. I have discipline, but not at 50 cents. I loaded up the cart. If I made a food pyramid of June 2014, the entire base would be pineapple froyo.
+I shouldn't even go into this store, as they always have great deals on ice cream, sorbet, sherbets, and frozen yogurt. During the period I believed I was able to eat sorbet and lose weight, I visited Grocery Outlet to see what sorbet options they had.
+
+They were out of sorbet, but they were selling Ben & Jerry's Pineapple Frozen Yogurt for $2 a pint. It was good. I went back for more. The price had dropped to $1. I bought even more. Then I returned and saw they dropped the price to 50 cents a pint. I have discipline, but not at 50 cents. I loaded up the cart.
+
+If I made a food pyramid of June 2014, the entire base would be pineapple froyo.
 
 
 ### Where I Went Wrong
 
 
-Before I dive into my analysis, I want to say the bet was never motivating to me. If anything it was a minor distraction. I wanted my fellow competitors to succeed. Even though I was neck and neck with Competitor #3, we both stalled at the same time. Competitor #2 got injured and had sleep issues. Competitor #4 is still missing in action. I think the goal of "20 pounds" wasn't ideal and I should have known better. Four years ago I put out the post [Fat Loss Metrics For Men](/2010/02/fat-loss-metrics-for-men/), where I basically said the same thing. Had I lost 20# I would guess I would be at a weight when I would have flat abs and some upper ab definition. In that case, using "The Frankie Method" combined with a tape measure would be superior to the "can't be trusted" gym scale. With tape measure, I could get a reading daily, whereas with the scale my data collection only happened 1-3 times per week. With coffee I know I get the most benefit when I am able to spread out the coffee throughout the day. I do much better when I can delay my 3rd coffee until late afternoon. If I can do this, then I often can restrict myself to 3 coffees. If I can't then I end up consuming 4 or 5. This is something I need to work on. For sanity and dieting, I think my sweet spot right now is 3 coffees.
+Before I dive into my analysis, I want to say the bet was never motivating to me. If anything it was a minor distraction. I wanted my fellow competitors to succeed. Even though I was neck and neck with Competitor #3, we both stalled at the same time. Competitor #2 got injured and had sleep issues. Competitor #4 is still missing in action.
 
+I think the goal of "20 pounds" wasn't ideal and I should have known better. Four years ago I put out the post [Fat Loss Metrics For Men](/2010/02/fat-loss-metrics-for-men/), where I basically said the same thing. Had I lost 20# I would guess I would be at a weight when I would have flat abs and some upper ab definition. In that case, using "The Frankie Method" combined with a tape measure would be superior to the "can't be trusted" gym scale. With tape measure, I could get a reading daily, whereas with the scale my data collection only happened 1-3 times per week.
+
+
+With coffee I know I get the most benefit when I am able to spread out the coffee throughout the day. I do much better when I can delay my 3rd coffee until late afternoon. If I can do this, then I often can restrict myself to 3 coffees. If I can't then I end up consuming 4 or 5. This is something I need to work on. For sanity and dieting, I think my sweet spot right now is 3 coffees.
 
 
 ### Going Forward

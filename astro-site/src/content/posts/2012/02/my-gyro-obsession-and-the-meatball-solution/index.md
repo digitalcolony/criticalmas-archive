@@ -9,7 +9,15 @@ description: "In the past few years, I have taken up the hobby of cooking. Not o
 commentCount: 7
 ---
 
-In the past few years, I have taken up the hobby of cooking. Not only has it [increased the quality of my health](/2011/09/ranking-my-postive-health-changes/) and saved me money, but I honestly love reverse-engineering recipes. The one dish over the past few years that has eluded me has been gyro meat. Gyro meat is a mix of ground lamb and ground beef. It is ground very fine, packed with spices and slowly cooked on a vertical broiler. Some of these gyro cookers cost over $1,000. Yeah, I've priced them. That is how much I love gyro meat. For the past few years, I haven't tackled this problem head-on. When I do go out to eat, I mostly go to Greek restaurants to get my gyro meat fix. Until recently this didn't bother me. But I've started to notice the quality around Seattle is dropping and the portions are getting smaller. Plus I got a suspicion that some might use vegetable oil in their sauces. In January, I left one of the Greek places in the University District extremely disappointed in the quality of their gyro salad - plus I left still hungry. Now I was motivated to solve the gyro riddle. That is when I got the idea to replace the spices in the meat and make meatballs. It wouldn't have the same texture, but it would share a lot of the taste. Plus I could source higher quality grass pasture meat and save money. Game on! **Summary**: _Gyro-flavored meatballs. Add them to a pita or a salad._
+In the past few years, I have taken up the hobby of cooking. Not only has it [increased the quality of my health](/2011/09/ranking-my-postive-health-changes/) and saved me money, but I honestly love reverse-engineering recipes. The one dish over the past few years that has eluded me has been gyro meat. Gyro meat is a mix of ground lamb and ground beef. It is ground very fine, packed with spices and slowly cooked on a vertical broiler. Some of these gyro cookers cost over $1,000. Yeah, I've priced them.
+
+That is how much I love gyro meat.
+
+For the past few years, I haven't tackled this problem head-on. When I do go out to eat, I mostly go to Greek restaurants to get my gyro meat fix. Until recently this didn't bother me. But I've started to notice the quality around Seattle is dropping and the portions are getting smaller. Plus I got a suspicion that some might use vegetable oil in their sauces. In January, I left one of the Greek places in the University District extremely disappointed in the quality of their gyro salad - plus I left still hungry.
+
+Now I was motivated to solve the gyro riddle. That is when I got the idea to replace the spices in the meat and make meatballs. It wouldn't have the same texture, but it would share a lot of the taste. Plus I could source higher quality grass pasture meat and save money. Game on!
+
+**Summary**: _Gyro-flavored meatballs. Add them to a pita or a salad._
 
 
 #### Ingredients
@@ -43,7 +51,13 @@ In the past few years, I have taken up the hobby of cooking. Not only has it [in
 #### Quick notes
 
 
-I added my Gyro Meatballs to a salad. To complement the salad, make a nice [Tzatziki Sauce](https://kalynskitchen.com/worlds-best-tzatziki-sauce-recipe-greek/). Feta cheese and tomatoes too! Preparation time: 15 minutes Cooking time: 20 minutes Culinary tradition: Greek
+I added my Gyro Meatballs to a salad. To complement the salad, make a nice [Tzatziki Sauce](https://kalynskitchen.com/worlds-best-tzatziki-sauce-recipe-greek/). Feta cheese and tomatoes too!
+
+Preparation time: 15 minutes
+
+Cooking time: 20 minutes
+
+Culinary tradition: Greek
 
 
 ### Conclusion

@@ -9,13 +9,19 @@ description: "I graduated from college in 1994. Back then attending college was 
 commentCount: 9
 ---
 
-I graduated from college in 1994. Back then attending college was an easy decision. It didn't cost nearly as much as today and it was just before the web took off. Today information is everywhere and a lot of it is free. I'm not going to bash college in this post, [been there](/2009/07/the-importance-of-college/), [done that](/2010/09/the-college-debt-trap/). In this post, I am going to tell you about my self-directed graduate study program. It is free and anyone can join. I'm calling it **The 10,000 Steps University**. Don't have time to learn and be more active? No problem. At 10K SU, we'll do them both at the same time. All you need to join are some shoes and a device to play podcasts. I'll get into the courses later, but first, let me discuss the steps.
+I graduated from college in 1994. Back then attending college was an easy decision. It didn't cost nearly as much as today and it was just before the web took off. Today information is everywhere and a lot of it is free. I'm not going to bash college in this post, [been there](/2009/07/the-importance-of-college/), [done that](/2010/09/the-college-debt-trap/).
+
+In this post, I am going to tell you about my self-directed graduate study program. It is free and anyone can join. I'm calling it **The 10,000 Steps University**.
+
+Don't have time to learn and be more active? No problem. At 10K SU, we'll do them both at the same time. All you need to join are some shoes and a device to play podcasts. I'll get into the courses later, but first, let me discuss the steps.
 
 
 ### 10,000 Steps
 
 
-In the past few years, we have been hammered with the correct message that we don't move enough in modern society. We sit far too much. Most of us have heard it is a healthy idea to walk at least 10,000 steps a day. Some people argue the 10,000 number, but I like it. If it is wrong, it likely isn't too wrong, and it is better than not taking action. In the post, [The Power of 10,000 Steps a Day in Charts](/2017/08/power-10000-steps-day-charts/) I showed my data and how consistently walking 10,000 steps a day was a factor in helping me maintain a 20-pound weight loss. From that post:
+In the past few years, we have been hammered with the correct message that we don't move enough in modern society. We sit far too much. Most of us have heard it is a healthy idea to walk at least 10,000 steps a day. Some people argue the 10,000 number, but I like it. If it is wrong, it likely isn't too wrong, and it is better than not taking action.
+
+In the post, [The Power of 10,000 Steps a Day in Charts](/2017/08/power-10000-steps-day-charts/) I showed my data and how consistently walking 10,000 steps a day was a factor in helping me maintain a 20-pound weight loss. From that post:
 
 > In my opinion, there has been too much focus on the activity output of 10,000 steps. I think 10,000 steps a day works because it is sending frequent messages to the body to not down-regulate metabolism.
 
@@ -25,7 +31,13 @@ So while the traditional college students are sitting in their lecture halls gai
 ### Improved Scheduling
 
 
-Unlike traditional colleges where students have to race to sign up for the classes they need at the times they want, at 10K SU, we take whatever classes we want whenever we want. We also eliminate all that wasted time traveling to and from classes, because we are already in class as soon as we start walking. One can start and stop a course at any time. Just subscribe to a podcast of interest and start downloading shows. And unlike the traditional college student that might be stuck with a mediocre professor or inarticulate graduate student, we at 10,000 Steps Univerity go directly to some of the best minds in their field. No barriers. ![10,000 Steps University](./img/10k-university.jpg) _I had the school logo made on Fiverr for $6._ 
+Unlike traditional colleges where students have to race to sign up for the classes they need at the times they want, at 10K SU, we take whatever classes we want whenever we want. We also eliminate all that wasted time traveling to and from classes, because we are already in class as soon as we start walking.
+
+One can start and stop a course at any time. Just subscribe to a podcast of interest and start downloading shows. And unlike the traditional college student that might be stuck with a mediocre professor or inarticulate graduate student, we at 10,000 Steps Univerity go directly to some of the best minds in their field. No barriers.
+
+![10,000 Steps University](./img/10k-university.jpg)
+
+_I had the school logo made on Fiverr for $6._ 
 
 
 ### My Graduate Study Program
@@ -67,13 +79,25 @@ I also listen to interview shows such as James Altucher and Tim Ferriss, which t
 ### Mainlining Knowledge
 
 
-For me to walk 10,000 steps, it takes about 90-120 minutes a day. I don't power walk and I stop when I want. Also, except with Spanish podcasts, I am not listening at a normal speed. Many podcast applications provide the option to speed up play and collapse the silent pauses. This takes a little practice, but you can fully understand speech at a faster rate. When I listen to EconTalk, I'm listening at 1.5-1.6 x speed. Interview shows such as Tim Ferriss might be closer to 1.7-1.9 x speed. ![podcast speed](./img/podcast_speed.jpg) _Using the Overcast app, I was able to listen to this 64-minute podcast in 40 minutes._  A traditional college student can't fast forward a slow-talking professor. We can. We can also skip over the material we already know or don't have an interest in learning. And we can go back and replay something again if we need to. You can't do that in a traditional classroom environment. A traditional college student might spend 15 hours a week in class when school is in session. And what percent of that time is devoted to learning once you remove testing and non-academic chat? Maybe 10 hours? Now take away weekend and academic breaks, which are not observed at 10K SU, and you can quickly see how my free University delivers more knowledge.
+For me to walk 10,000 steps, it takes about 90-120 minutes a day. I don't power walk and I stop when I want. Also, except with Spanish podcasts, I am not listening at a normal speed. Many podcast applications provide the option to speed up play and collapse the silent pauses. This takes a little practice, but you can fully understand speech at a faster rate. When I listen to EconTalk, I'm listening at 1.5-1.6 x speed. Interview shows such as Tim Ferriss might be closer to 1.7-1.9 x speed.
+
+![podcast speed](./img/podcast_speed.jpg)
+
+_Using the Overcast app, I was able to listen to this 64-minute podcast in 40 minutes._ 
+
+A traditional college student can't fast forward a slow-talking professor. We can. We can also skip over the material we already know or don't have an interest in learning. And we can go back and replay something again if we need to. You can't do that in a traditional classroom environment.
+
+A traditional college student might spend 15 hours a week in class when school is in session. And what percent of that time is devoted to learning once you remove testing and non-academic chat? Maybe 10 hours? Now take away weekend and academic breaks, which are not observed at 10K SU, and you can quickly see how my free University delivers more knowledge.
 
 
 ### Are Podcasts an Effective Way to Learn?
 
 
-For my interests, I think podcasts have been an effective way to learn. Many of the health and fitness posts on this blog first started with ideas I got from podcasts. I've learned far more about economics and finance from podcasts than I did at The Ohio State University where I earned a B.S. in Business Finance. And my listening skills in Spanish have improved tremendously in the last year. ![seattle october](./img/37683883641_a64669eff8_z.jpg) _I took this photo last month while on one of my 10,000 Steps learning sessions._ 
+For my interests, I think podcasts have been an effective way to learn. Many of the health and fitness posts on this blog first started with ideas I got from podcasts. I've learned far more about economics and finance from podcasts than I did at The Ohio State University where I earned a B.S. in Business Finance. And my listening skills in Spanish have improved tremendously in the last year.
+
+![seattle october](./img/37683883641_a64669eff8_z.jpg)
+
+_I took this photo last month while on one of my 10,000 Steps learning sessions._ 
 
 
 ### Enroll Today

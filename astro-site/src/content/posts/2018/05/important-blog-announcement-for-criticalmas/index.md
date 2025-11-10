@@ -9,7 +9,13 @@ description: "I'm currently in negotiations with a party interested in buying th
 commentCount: 4
 ---
 
-I'm currently in negotiations with a party interested in buying the criticalmas.com domain. I was not looking to sell the domain. They approached me. All the content would still belong to me. They only want the domain name. Depending on how negotiations go, the sale may or may not happen. However, if it does happen, things will move fast. I'll need to inform every one of my email change and I'll need to figure out where to move all the content on this site. That could happen in as fast as a week, but more likely 2-3 weeks. I put the probability of a sale happening at 50% right now. Moving the blog means that all the links and bookmarks to this site will break. My traffic will definitely take a hit until the search engines find the new location. And it likely won't recover fully for a long time. I'm OK with that, considering I would be fairly compensated.
+I'm currently in negotiations with a party interested in buying the criticalmas.com domain. I was not looking to sell the domain. They approached me. All the content would still belong to me. They only want the domain name.
+
+Depending on how negotiations go, the sale may or may not happen. However, if it does happen, things will move fast. I'll need to inform every one of my email change and I'll need to figure out where to move all the content on this site. That could happen in as fast as a week, but more likely 2-3 weeks.
+
+I put the probability of a sale happening at 50% right now.
+
+Moving the blog means that all the links and bookmarks to this site will break. My traffic will definitely take a hit until the search engines find the new location. And it likely won't recover fully for a long time. I'm OK with that, considering I would be fairly compensated.
 
 
 ### Staying in Contact
@@ -32,7 +38,9 @@ If the sale happens, I see a few options for this blog.
 3.  Move the content to Medium.com.
 4.  Something else?
 
-If you have an opinion on the best route, leave a comment. Medium is the only domain not owned by me that I would trust with my content. ![blog sign](./img/5053496835_1146cea386_z.jpg)
+If you have an opinion on the best route, leave a comment. Medium is the only domain not owned by me that I would trust with my content.
+
+![blog sign](./img/5053496835_1146cea386_z.jpg)
 
 ---
 

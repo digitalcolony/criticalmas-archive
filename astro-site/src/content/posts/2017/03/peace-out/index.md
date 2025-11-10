@@ -13,7 +13,15 @@ All the topics that I listed in [Breaking CriticalMAS - A Return to Blogging?](
 
 > I’d like to wrap up some of the topics I left open. At that point I may or may not continue blogging.
 
-What I discovered since November is that I don't enjoy blogging anymore. I'm more interested in other projects that don't fit well under the CriticalMAS domain. Before I needed a break and a long hiatus. Now it is time to end _this_ blog. Unlike my mentors that let their domains become digital graveyards, I am committed to keeping this site alive and accessible. Thank you all for reading and commenting. I will be keeping comments open till Friday. I still have a newsletter in case there is a future announcement related to topics covered on this blog. My [portal page](https://michaelallensmith.com/) will always have a list of my other web projects. Peace out!
+What I discovered since November is that I don't enjoy blogging anymore. I'm more interested in other projects that don't fit well under the CriticalMAS domain. Before I needed a break and a long hiatus. Now it is time to end _this_ blog.
+
+Unlike my mentors that let their domains become digital graveyards, I am committed to keeping this site alive and accessible.
+
+Thank you all for reading and commenting. I will be keeping comments open till Friday. I still have a newsletter in case there is a future announcement related to topics covered on this blog.
+
+My [portal page](https://michaelallensmith.com/) will always have a list of my other web projects.
+
+Peace out!
 
 ---
 

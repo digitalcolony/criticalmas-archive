@@ -9,7 +9,21 @@ description: "UPDATE August 2025: Follow.it stopped working for this blog. I tri
 commentCount: 3
 ---
 
-**UPDATE August 2025: Follow.it stopped working for this blog. I tried to fix things, but failed.**   Today, Google announced it will no longer be supporting the Email post option in Feedburner. This means if you are subscribed to this blog, you'll need to sign up with Follow.it to get alerted of new posts. https://criticalmas.org/subscribe/ This site only has 155 email subscribers on Feedburner. INeedCoffee has over 500. I could migrate the emails to a proper email service, but I have no interest in doing that at this time. If you want to continue to read posts via email alert from CriticalMAS, use Follow.it for now. The RSS Feed will continue to work. Ideally, I would pull that off of Feedburner, but WordPress has a problem that nobody but me seems to be talking about. Any site with traffic is getting its RSS feed hammered by bots. Since the generation of an RSS feed requires a server execution, it has a CPU cost, which is not free for the blogger. Caching can only help so much. Although not an issue with this blog as much, I've devoted numerous hours to [defending the RSS feed](https://medium.com/@CriticalMAS/reduce-your-wordpress-resource-usage-by-hiding-your-rss-feed-link-8ec388ed95d7) on INeedCoffee. You can't rely on Google. Just look at the [Killed By Google](https://killedbygoogle.com/) website. Blogging is fun, right? ‍♂️ ![newsletter](./img/15743483265_1aca718cd2_z.jpg)
+**UPDATE August 2025: Follow.it stopped working for this blog. I tried to fix things, but failed.**  
+
+Today, Google announced it will no longer be supporting the Email post option in Feedburner. This means if you are subscribed to this blog, you'll need to sign up with Follow.it to get alerted of new posts.
+
+https://criticalmas.org/subscribe/
+
+This site only has 155 email subscribers on Feedburner. INeedCoffee has over 500. I could migrate the emails to a proper email service, but I have no interest in doing that at this time. If you want to continue to read posts via email alert from CriticalMAS, use Follow.it for now.
+
+The RSS Feed will continue to work. Ideally, I would pull that off of Feedburner, but WordPress has a problem that nobody but me seems to be talking about. Any site with traffic is getting its RSS feed hammered by bots. Since the generation of an RSS feed requires a server execution, it has a CPU cost, which is not free for the blogger. Caching can only help so much. Although not an issue with this blog as much, I've devoted numerous hours to [defending the RSS feed](https://medium.com/@CriticalMAS/reduce-your-wordpress-resource-usage-by-hiding-your-rss-feed-link-8ec388ed95d7) on INeedCoffee.
+
+You can't rely on Google. Just look at the [Killed By Google](https://killedbygoogle.com/) website.
+
+Blogging is fun, right? ‍♂️
+
+![newsletter](./img/15743483265_1aca718cd2_z.jpg)
 
 ---
 

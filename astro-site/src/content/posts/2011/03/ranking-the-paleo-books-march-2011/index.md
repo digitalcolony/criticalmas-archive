@@ -15,31 +15,41 @@ Now that the paleo diet is becoming more mainstream, I thought I would put toget
 ## #1 The Primal Blueprint by Mark Sisson
 
 
-_The Primal Blueprint: Reprogram your genes for effortless weight loss, vibrant health, and boundless energy by Mark Sisson_ In my opinion, _The Primal Blueprint_ is still the gold standard for explaining the paleo diet to the average person. It is brilliantly edited into _10 Primal Blueprint Laws_, which prove that the paleo diet isn't that complicated. Although Mark Sisson's blog tends to be long and technical, his book is extremely accessible.
+_The Primal Blueprint: Reprogram your genes for effortless weight loss, vibrant health, and boundless energy by Mark Sisson_
+
+In my opinion, _The Primal Blueprint_ is still the gold standard for explaining the paleo diet to the average person. It is brilliantly edited into _10 Primal Blueprint Laws_, which prove that the paleo diet isn't that complicated. Although Mark Sisson's blog tends to be long and technical, his book is extremely accessible.
 
 
 ## #2 Primal Body, Primal Mind by Nora Gedgaudas
 
 
-_Primal Body-Primal Mind: Empower Your Total Health The Way Evolution Intended (...And Didn't) by Nora Teresa Gedgaudas_ I loved this book. It goes into greater detail than _The Primal Blueprint_ and covers supplementation options to accelerate healing from certain conditions. I emailed the author with a question and received a detailed response a day later. This book had some editing issues and will be republished with new information later this year.
+_Primal Body-Primal Mind: Empower Your Total Health The Way Evolution Intended (...And Didn't) by Nora Teresa Gedgaudas_
+
+I loved this book. It goes into greater detail than _The Primal Blueprint_ and covers supplementation options to accelerate healing from certain conditions. I emailed the author with a question and received a detailed response a day later. This book had some editing issues and will be republished with new information later this year.
 
 
 ## #3 The New Evolution Diet by Art De Vany
 
 
-_The New Evolution Diet: What Our Paleolithic Ancestors Can Teach Us about Weight Loss, Fitness, and Aging by Arthur De Vany_ Art De Vany is my mentor. It was his influence that started me down the paleo path. I love his writing and interviews. There were some misprints in the book that De Vany has addressed in interviews since the publication. It is still an excellent read. Just know that castor and canola should be on the NO list. De Vany's approach to the paleo diet is lower in fat than others. His section on exercise is outstanding.
+_The New Evolution Diet: What Our Paleolithic Ancestors Can Teach Us about Weight Loss, Fitness, and Aging by Arthur De Vany_
+
+Art De Vany is my mentor. It was his influence that started me down the paleo path. I love his writing and interviews. There were some misprints in the book that De Vany has addressed in interviews since the publication. It is still an excellent read. Just know that castor and canola should be on the NO list. De Vany's approach to the paleo diet is lower in fat than others. His section on exercise is outstanding.
 
 
 ## #4 The Paleo Solution by Robb Wolf
 
 
-_The Paleo Solution: The Original Human Diet by Robb Wolf_ If you dig scientific details and want to understand the evils of grains, then this is the book for you. I liked the detail, but some may find it overwhelming. I would recommend one of the three books above for most people who want some basic knowledge and recommendations. The _30 days Paleo Challenge_ is admirable, but most people will fail in days trying to give everything up at once. The "_all or nothing_" approach tends to work only with people who have already had success with restrictive diets in the past. If you try the challenge and fail, be kind to yourself. Instead of changing everything at once, fix one thing a month. Sugar one month, grains another month, etc.
+_The Paleo Solution: The Original Human Diet by Robb Wolf_
+
+If you dig scientific details and want to understand the evils of grains, then this is the book for you. I liked the detail, but some may find it overwhelming. I would recommend one of the three books above for most people who want some basic knowledge and recommendations. The _30 days Paleo Challenge_ is admirable, but most people will fail in days trying to give everything up at once. The "_all or nothing_" approach tends to work only with people who have already had success with restrictive diets in the past. If you try the challenge and fail, be kind to yourself. Instead of changing everything at once, fix one thing a month. Sugar one month, grains another month, etc.
 
 
 ## #5 Neanderthin by Ray Audette
 
 
-_NeanderThin: Eat Like a Caveman to Achieve a Lean, Strong, Healthy Body by Ray Audette_ The first 60 pages of this book are pretty good. I don't like how the author attacked coffee, but the rest of the nutritional stuff is the basis for what we know about what the Paleolithic man ate. The second half of this book is a poorly written exercise manual. Ignore that section. Check the library or look for a cheap, used copy of this book.
+_NeanderThin: Eat Like a Caveman to Achieve a Lean, Strong, Healthy Body by Ray Audette_
+
+The first 60 pages of this book are pretty good. I don't like how the author attacked coffee, but the rest of the nutritional stuff is the basis for what we know about what the Paleolithic man ate. The second half of this book is a poorly written exercise manual. Ignore that section. Check the library or look for a cheap, used copy of this book.
 
 
 ## Other Books

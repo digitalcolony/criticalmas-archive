@@ -9,7 +9,19 @@ description: "I've mentioned this offline to a few people, but I haven't discuss
 commentCount: 13
 ---
 
-I've mentioned this offline to a few people, but I haven't discussed it here. About three weeks ago I got an official notice from my apartment complex that I and every other tenant was going to be evicted. This summer our complex was sold and the new owners began doing construction on the outside of the building. We expected that the new owners might increase the rent, but they have renovation plans that can't be done with the tenant in place. Their plans are to turn our apartments into luxury apartments and if rumors are accurate increase the monthly rent by $500 or more. ![lochhaven-construction](./img/lochhaven-construction.jpg) I've been living in this complex for 3 years. One lady has been here since 1968. There are many that have been here for a decade or more. This was one of the last remaining affordable places to live in the Ballard neighborhood of Seattle. The economy is booming in Seattle and people are moving here from all over the world. The result is there are rental shortages in the most desirable neighborhoods. Currently there are many new apartment buildings under construction, but those units are not available yet, so the housing shortage is driving up rents. The earliest I believe I could be evicted is January. The more likely scenario is March and perhaps as late as June. Some tenants are organizing to fight the developer. They might be successful, but I can't assume they will do much more than delay the project and therefore evictions. I'm not upset about the eviction. I don't mind moving. I own very little and could probably be packed in a few hours. For me the greater question is where to move next? I don't think I'll be able to stay in Ballard. A new neighborhood is a new adventure. Where should I go?
+I've mentioned this offline to a few people, but I haven't discussed it here. About three weeks ago I got an official notice from my apartment complex that I and every other tenant was going to be evicted. This summer our complex was sold and the new owners began doing construction on the outside of the building.
+
+We expected that the new owners might increase the rent, but they have renovation plans that can't be done with the tenant in place. Their plans are to turn our apartments into luxury apartments and if rumors are accurate increase the monthly rent by $500 or more.
+
+![lochhaven-construction](./img/lochhaven-construction.jpg)
+
+I've been living in this complex for 3 years. One lady has been here since 1968. There are many that have been here for a decade or more. This was one of the last remaining affordable places to live in the Ballard neighborhood of Seattle.
+
+The economy is booming in Seattle and people are moving here from all over the world. The result is there are rental shortages in the most desirable neighborhoods. Currently there are many new apartment buildings under construction, but those units are not available yet, so the housing shortage is driving up rents.
+
+The earliest I believe I could be evicted is January. The more likely scenario is March and perhaps as late as June. Some tenants are organizing to fight the developer. They might be successful, but I can't assume they will do much more than delay the project and therefore evictions.
+
+I'm not upset about the eviction. I don't mind moving. I own very little and could probably be packed in a few hours. For me the greater question is where to move next? I don't think I'll be able to stay in Ballard. A new neighborhood is a new adventure. Where should I go?
 
 ---
 

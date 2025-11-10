@@ -9,7 +9,15 @@ description: "I've bashed company managed 401Ks in the past. Now it feels like I
 commentCount: 1
 ---
 
-_I've bashed company managed 401Ks in the past. Now it feels like I'm kicking a corpse. Let me get one final punch in._ Today I received the year end statement for my company 401K. When I say "my company", I mean the one I worked for from January 2002 - May 2006 and again from September 2007 - April 2008. Both times I left the company, I had the balance of my 401K moved to a self directed account with Ameritrade. Smart move. I know people who can't be bothered with managing their retirement money. They set the contributions and then hope everything works out. I didn't believe the market was honest and exited before the crash. Here were the 2008 returns for the 4 _diversified_ funds offered by my company.
+_I've bashed company managed 401Ks in the past. Now it feels like I'm kicking a corpse. Let me get one final punch in._
+
+Today I received the year end statement for my company 401K. When I say "my company", I mean the one I worked for from January 2002 - May 2006 and again from September 2007 - April 2008. Both times I left the company, I had the balance of my 401K moved to a self directed account with Ameritrade.
+
+Smart move.
+
+I know people who can't be bothered with managing their retirement money. They set the contributions and then hope everything works out. I didn't believe the market was honest and exited before the crash.
+
+Here were the 2008 returns for the 4 _diversified_ funds offered by my company.
 
 -   \-16.79% Conservative
 -   \-26.14% Moderate

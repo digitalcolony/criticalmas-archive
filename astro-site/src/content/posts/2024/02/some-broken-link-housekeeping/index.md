@@ -8,7 +8,23 @@ description: "This blog and my coffee website both run broken link checkers. Whe
 commentCount: 7
 ---
 
-This blog and [my coffee website](https://ineedcoffee.com/) both run broken link checkers. Whenever a link breaks, I step in to fix it. A few months ago, Mark Si$$on decided to remove EVERY SINGLE page from MarksDailyApple. He left a message saying the site would be back in 2024. It is still down. What an idiot. You don't take down a working version of a website with THOUSANDS of inbound links over more than a decade without having the new version ready to go. In 2017, I posted some stories on [The Digital Graveyard of My Health and Fitness Mentors](/2017/03/digital-graveyard-health-fitness-mentors/). This one shocks me the most because Si$$on is supposedly a smart businessman. ![](./img/primal-website.jpg) _Caveman trying to access Mark's Daily Apple_ Anyway, I gave Mark a few weeks to get his content back online. He failed, so I removed every link to his site. I did the same to T-Nation and Ted Talks when they moved every link without 301 redirects. That didn't take much work. Now, I have a much bigger problem. Flickr is now returning a 502 Bad Gateway error for images. The images resolve, but my logs are filling up with these errors. I'm working with Flickr now to resolve this, but it looks like I'll be spending this weekend moving images and updating image links. As someone who practices Inbox Zero, I can't stare at pages and pages of potential broken links and not take action. Unlike MarksDailyApple, which took maybe 20 minutes of work on my part, this will take a weekend as there are a few hundred errors in the logs between the two sites. Even though [Blogging Was Always Doomed To Fail](/2022/01/blogging-was-doomed-to-fail/), I'll keep fighting the good fight.
+This blog and [my coffee website](https://ineedcoffee.com/) both run broken link checkers. Whenever a link breaks, I step in to fix it.
+
+A few months ago, Mark Si$$on decided to remove EVERY SINGLE page from MarksDailyApple. He left a message saying the site would be back in 2024. It is still down. What an idiot. You don't take down a working version of a website with THOUSANDS of inbound links over more than a decade without having the new version ready to go.
+
+In 2017, I posted some stories on [The Digital Graveyard of My Health and Fitness Mentors](/2017/03/digital-graveyard-health-fitness-mentors/). This one shocks me the most because Si$$on is supposedly a smart businessman.
+
+![](./img/primal-website.jpg)
+
+_Caveman trying to access Mark's Daily Apple_
+
+Anyway, I gave Mark a few weeks to get his content back online. He failed, so I removed every link to his site. I did the same to T-Nation and Ted Talks when they moved every link without 301 redirects.
+
+That didn't take much work. Now, I have a much bigger problem. Flickr is now returning a 502 Bad Gateway error for images. The images resolve, but my logs are filling up with these errors. I'm working with Flickr now to resolve this, but it looks like I'll be spending this weekend moving images and updating image links. As someone who practices Inbox Zero, I can't stare at pages and pages of potential broken links and not take action.
+
+Unlike MarksDailyApple, which took maybe 20 minutes of work on my part, this will take a weekend as there are a few hundred errors in the logs between the two sites.
+
+Even though [Blogging Was Always Doomed To Fail](/2022/01/blogging-was-doomed-to-fail/), I'll keep fighting the good fight.
 
 ---
 

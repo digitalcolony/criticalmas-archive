@@ -9,13 +9,27 @@ description: "Several running apologists have linked to the long-winded Guest Po
 commentCount: 18
 ---
 
-Several running apologists have linked to the long-winded [Guest Post: Sorry, but Science Says Running is Good for You, Not Bad](https://web.archive.org/web/20131126200247/http://gokaleo.com/2013/06/11/women-and-running/). With their science hats on, they dug through all the studies and concluded that _all was well_ with running. The article talks about fat burning, VO2 max, and thyroid. Nowhere does it mention joint, hip, or knee pain. The article completely ignores injury risk. I don't how you can write an article endorsing an exercise in the title without addressing the safety aspect - especially one as prone to injuries as running. I got into a heated discussion with someone about this online. His position was it was outside the scope of the article to discuss the risks. My position is you must account for the risks before you can say it is good. Ignoring the risks to draw a favorable conclusion doesn't make the risks go away.
+Several running apologists have linked to the long-winded [Guest Post: Sorry, but Science Says Running is Good for You, Not Bad](https://web.archive.org/web/20131126200247/http://gokaleo.com/2013/06/11/women-and-running/). With their science hats on, they dug through all the studies and concluded that _all was well_ with running. The article talks about fat burning, VO2 max, and thyroid.
+
+Nowhere does it mention joint, hip, or knee pain.
+
+The article completely ignores injury risk. I don't how you can write an article endorsing an exercise in the title without addressing the safety aspect - especially one as prone to injuries as running. I got into a heated discussion with someone about this online. His position was it was outside the scope of the article to discuss the risks. My position is you must account for the risks before you can say it is good. Ignoring the risks to draw a favorable conclusion doesn't make the risks go away.
 
 
 ### My Bias
 
 
-Time for a disclaimer. As a young man, I ran two sub 4-hour marathons (1989, 1992). During that time, I was in pain a lot. I stopped running, not because I was lazy or felt it was bad for me, but because I hurt. During the time I ran, I was always looking at ways to reduce pain and avoid injuries. I was not alone. Pick up any running magazine and you'll see articles on injuries and pain management. Just like with the barbell back squat, it was my pain and failure in avoiding injuries that forced me to rethink whether running was a wise idea. What is the goal? Can it be accomplished more safely? How can I preserve my health well into old age if the running I'm doing in my 20s is causing so much pain? ![mas-1992-marathon](./img/mas-1992-marathon.jpg) _I loved running when I wasn't in pain. Here I am finishing the 1992 Columbus Marathon._ What I learned is you absolutely DO NOT need to run to achieve a high level of health. Figure out a way to build strength and protect your joints with minimal risk of injury. **Not minimal risk of injury in 12 weeks, but in your lifetime.** Go for walks and do some static holds on the machines in the gym. I like what super trainer [Drew Baye](https://baye.com/) said on Facebook in response to this article.
+Time for a disclaimer. As a young man, I ran two sub 4-hour marathons (1989, 1992). During that time, I was in pain a lot. I stopped running, not because I was lazy or felt it was bad for me, but because I hurt. During the time I ran, I was always looking at ways to reduce pain and avoid injuries. I was not alone. Pick up any running magazine and you'll see articles on injuries and pain management.
+
+Just like with the barbell back squat, it was my pain and failure in avoiding injuries that forced me to rethink whether running was a wise idea. What is the goal? Can it be accomplished more safely? How can I preserve my health well into old age if the running I'm doing in my 20s is causing so much pain?
+
+![mas-1992-marathon](./img/mas-1992-marathon.jpg)
+
+_I loved running when I wasn't in pain. Here I am finishing the 1992 Columbus Marathon._
+
+What I learned is you absolutely DO NOT need to run to achieve a high level of health. Figure out a way to build strength and protect your joints with minimal risk of injury. **Not minimal risk of injury in 12 weeks, but in your lifetime.** Go for walks and do some static holds on the machines in the gym.
+
+I like what super trainer [Drew Baye](https://baye.com/) said on Facebook in response to this article.
 
 > Running to burn calories is a huge waste of time and the bigger concerns are the long term effects on joint and spine health. Whatever general fitness benefits it provides can be obtained more safely and efficiently with proper resistance training.
 
@@ -27,13 +41,19 @@ Back in my post [Responding to a CrossFit Enthusiast](/2012/02/responding-to-a-c
 
 > All movement has a risk versus reward profile. The risk is either the movement yields no results or results in injury. The reward is positive benefits derived from the exercise.
 
-The benefits that running provides are not worth the long-term risks. It is too easy to replicate the benefits of running with something safer and more effective. A program of walking combined with the Wall Sit from the [HillFit program](/2012/01/hillfit-strength-is-not-just-for-hikers/) will develop more strength, be much kinder on the joints, and do it in less time. I also think walking upstairs is better than running. And when I do run, I prefer sprinting, especially [uphill sprinting](/2012/01/running-up-that-hill-sprinting-salvation-for-tall-people/) for us taller folk.
+The benefits that running provides are not worth the long-term risks. It is too easy to replicate the benefits of running with something safer and more effective. A program of walking combined with the Wall Sit from the [HillFit program](/2012/01/hillfit-strength-is-not-just-for-hikers/) will develop more strength, be much kinder on the joints, and do it in less time.
+
+I also think walking upstairs is better than running. And when I do run, I prefer sprinting, especially [uphill sprinting](/2012/01/running-up-that-hill-sprinting-salvation-for-tall-people/) for us taller folk.
 
 
 ### Common Sense
 
 
-**Even the worst fitness protocols can hide safety issues in the short run.** Joint pain is slow and cumulative. It can take decades. This is the same point I made in the post [My Squat Article is a "Scare Piece"](/2013/06/my-squat-article-is-a-silly-scare-piece/). If you like to run, run. If it hurts, stop. You don't want to go under the knife for replacement surgery when you get older. When I was back in Ohio, I learned that 2 family members were having knee replacement surgeries. Both are in shape. Both played college sports, one football and one wrestled. A combination of running and barbell back squats wrecked their knees. It didn't happen right away. It took 30 years.
+**Even the worst fitness protocols can hide safety issues in the short run.** Joint pain is slow and cumulative. It can take decades. This is the same point I made in the post [My Squat Article is a "Scare Piece"](/2013/06/my-squat-article-is-a-silly-scare-piece/).
+
+If you like to run, run. If it hurts, stop. You don't want to go under the knife for replacement surgery when you get older.
+
+When I was back in Ohio, I learned that 2 family members were having knee replacement surgeries. Both are in shape. Both played college sports, one football and one wrestled. A combination of running and barbell back squats wrecked their knees. It didn't happen right away. It took 30 years.
 
 ---
 

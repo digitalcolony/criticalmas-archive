@@ -9,19 +9,35 @@ description: "It has now been just over five years since I began exploring cold 
 commentCount: 9
 ---
 
-It has now been just over five years since I began exploring [cold temperature exposure](https://criticalmas.org/best-of/cold-weather-training/). When I first started doing this, I didn't use the term thermogenesis. My goal was not to lose fat, but to widen my comfort zone of temperatures. Having moved to Seattle after 7 years in San Diego, I was a wimp when it came to being cold. I recall being uncomfortable even in the low 60s without a jacket or sweatshirt. I needed to do something. Encouraged by an Art De Vany article, I began to do deliberate cold exposure. By the 2008-2009 winter, I had expanded my  short sleeved shirt comfort zone down to the mid to upper 30s F (assuming no wind). This was also the same time period that I was losing weight effortlessly.
+It has now been just over five years since I began exploring [cold temperature exposure](https://criticalmas.org/best-of/cold-weather-training/). When I first started doing this, I didn't use the term thermogenesis. My goal was not to lose fat, but to widen my comfort zone of temperatures. Having moved to Seattle after 7 years in San Diego, I was a wimp when it came to being cold. I recall being uncomfortable even in the low 60s without a jacket or sweatshirt.
+
+I needed to do something. Encouraged by an Art De Vany article, I began to do deliberate cold exposure. By the 2008-2009 winter, I had expanded my  short sleeved shirt comfort zone down to the mid to upper 30s F (assuming no wind). This was also the same time period that I was losing weight effortlessly.
 
 
 ### Fat Loss?
 
 
-When I dropped the 20 pounds, I was also playing around with other factors. I lowered my carbs, experimented with Intermittent Fasting and began cooking all my own meals. There are many claims on the Internet that cold exposure helps with fat loss. Since I was trying so many things, there was no way to determine its role at that time. Over the past 5 years, I have dialed up and down the amount of cold exposure and have come to my own personal conclusion that if it helps with fat loss, that effect has been minor. In fact, when I got to really low levels of body fat, I suspected it was having the opposite effect. My hypothesis is cold exposure on a lean body is a stressful trigger telling the body not to lean out further. Again this is just a guess. When you read the stories of fat loss associated with CT, be they online or the one in the [Tim Ferriss book](/2010/12/initial-impression-of-the-4-hour-body/), I noticed a common theme. They all tend to be male endomorphs. They also tend to be at least 30 pounds overweight when they started. The cold exposure brings them to a normal weight. I don't see anyone getting shredded with Cold Thermogenesis. Swimmers and surfers are held up as examples of how cold water exposure can help them maintain very low levels of body fat even at extreme caloric levels. Maybe it has a role, but they also have a high level of activity, plus they aren't losing weight - they were already lean.
+When I dropped the 20 pounds, I was also playing around with other factors. I lowered my carbs, experimented with Intermittent Fasting and began cooking all my own meals. There are many claims on the Internet that cold exposure helps with fat loss. Since I was trying so many things, there was no way to determine its role at that time.
+
+Over the past 5 years, I have dialed up and down the amount of cold exposure and have come to my own personal conclusion that if it helps with fat loss, that effect has been minor. In fact, when I got to really low levels of body fat, I suspected it was having the opposite effect. My hypothesis is cold exposure on a lean body is a stressful trigger telling the body not to lean out further. Again this is just a guess.
+
+When you read the stories of fat loss associated with CT, be they online or the one in the [Tim Ferriss book](/2010/12/initial-impression-of-the-4-hour-body/), I noticed a common theme. They all tend to be male endomorphs. They also tend to be at least 30 pounds overweight when they started. The cold exposure brings them to a normal weight. I don't see anyone getting shredded with Cold Thermogenesis.
+
+Swimmers and surfers are held up as examples of how cold water exposure can help them maintain very low levels of body fat even at extreme caloric levels. Maybe it has a role, but they also have a high level of activity, plus they aren't losing weight - they were already lean.
 
 
 ### Freeze the Animal
 
 
-For a few years, I cycled between cold air exposure in the winter and cold shower rinses in the winter. Just enough to keep my comfort window wide. Then in April 2012, Richard at _FreeTheAnimal_ posted about his cold exposure experiments I was inspired to see just how far I could push my body. I didn't have a tub that I could load with ice, but I do live very close to Puget Sound. So I began a new experiment. I would track my exposure time as well as temperatures along with some notes. Here was my data. ![cold-puget](./img/cold-puget.png) There are 3 phases to this kind of cold exposure. Phase 1 is the courage of dealing with the shock of exposing your body to cold. Phase 2 is dealing with being covered in cold water for a period of time. Phase 3 is the warm-up phase. Phase 1 took just a few experiences to overcome the shock. Phase 2 went from tough to easy - even relaxing - very quickly. Phase 3 is where I had the issues. I had a lot of trouble warming back up. It was highly stressful at times. Had I been able to step out of the cold water onto a sunny hot beach, it would have been much better. But living in Seattle, I didn't have that option, so I ended the experiment.
+For a few years, I cycled between cold air exposure in the winter and cold shower rinses in the winter. Just enough to keep my comfort window wide. Then in April 2012, Richard at _FreeTheAnimal_ posted about his cold exposure experiments I was inspired to see just how far I could push my body.
+
+I didn't have a tub that I could load with ice, but I do live very close to Puget Sound. So I began a new experiment. I would track my exposure time as well as temperatures along with some notes. Here was my data.
+
+![cold-puget](./img/cold-puget.png)
+
+There are 3 phases to this kind of cold exposure. Phase 1 is the courage of dealing with the shock of exposing your body to cold. Phase 2 is dealing with being covered in cold water for a period of time. Phase 3 is the warm-up phase.
+
+Phase 1 took just a few experiences to overcome the shock. Phase 2 went from tough to easy - even relaxing - very quickly. Phase 3 is where I had the issues. I had a lot of trouble warming back up. It was highly stressful at times. Had I been able to step out of the cold water onto a sunny hot beach, it would have been much better. But living in Seattle, I didn't have that option, so I ended the experiment.
 
 
 ### Hot Thermogenesis?
@@ -41,7 +57,9 @@ After reading this, I did an 8-day experiment. I got a trial pass to a gym with 
 ### My Personal Conclusion
 
 
-Now I only do enough cold exposure to widen my comfort range. I've found 30-60 seconds of cold water between the shoulder blades once or twice a week is enough. During the winter, I'll wear short sleeves to about 50 degrees. After that, I'll grab a sweatshirt. I suspect that if CT works for fat loss those that will experience the most positive benefits will be endomorphic men with more than 30 pounds to lose. There is a shocking lack of information when it comes to women. Since thyroid and low metabolism issues are more likely with females, I'd be hesitant to do anything more than minimal cold exposure.
+Now I only do enough cold exposure to widen my comfort range. I've found 30-60 seconds of cold water between the shoulder blades once or twice a week is enough. During the winter, I'll wear short sleeves to about 50 degrees. After that, I'll grab a sweatshirt.
+
+I suspect that if CT works for fat loss those that will experience the most positive benefits will be endomorphic men with more than 30 pounds to lose. There is a shocking lack of information when it comes to women. Since thyroid and low metabolism issues are more likely with females, I'd be hesitant to do anything more than minimal cold exposure.
 
 ---
 

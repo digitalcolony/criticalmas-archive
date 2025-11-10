@@ -9,7 +9,17 @@ description: "Just a few hours after posting my review of the great book The Def
 commentCount: 2
 ---
 
-Just a few hours after posting my review of the great book [The Definitive Book of Body Language](/2008/06/the-definitive-book-of-body-language/), I went to a coffee place to pick up some espresso. While waiting for my beans to get packaged, I started to make small talk with two customers about the newspaper headline that everyone in Seattle is talking about. A lady about 45 started chatting with me about the cold weather story and then brought up another story. After a few minutes, I noticed her hand briefly stroked her hair. According to the book, that is one of the 13 flirting moves. But no single body language signal can be interpreted on its own. For confirmation I learned you need a cluster. ![latte art](./img/5343828830_0edb943016.jpg) Now I was 0% attracted to this woman, but as recent student of body language I wanted to see if I could detect other signals. Then she lifted her arm up and displayed an exposed wrist directly toward me. After another minute of small talk her foot position went from facing the wall to pointing at me. Two more clear signs. At this point she started talking about some sports team and I couldn't fake interest in small talk anymore and I guess it showed with my body language. Down came the wrist and her feet were now pointed more toward the door. After another minute of friendly chatting she left the coffee shop. Had that scene happened a month ago I would have missed every signal.
+Just a few hours after posting my review of the great book [The Definitive Book of Body Language](/2008/06/the-definitive-book-of-body-language/), I went to a coffee place to pick up some espresso. While waiting for my beans to get packaged, I started to make small talk with two customers about the newspaper headline that everyone in Seattle is talking about.
+
+A lady about 45 started chatting with me about the cold weather story and then brought up another story. After a few minutes, I noticed her hand briefly stroked her hair. According to the book, that is one of the 13 flirting moves. But no single body language signal can be interpreted on its own. For confirmation I learned you need a cluster.
+
+![latte art](./img/5343828830_0edb943016.jpg)
+
+Now I was 0% attracted to this woman, but as recent student of body language I wanted to see if I could detect other signals. Then she lifted her arm up and displayed an exposed wrist directly toward me. After another minute of small talk her foot position went from facing the wall to pointing at me. Two more clear signs.
+
+At this point she started talking about some sports team and I couldn't fake interest in small talk anymore and I guess it showed with my body language. Down came the wrist and her feet were now pointed more toward the door. After another minute of friendly chatting she left the coffee shop.
+
+Had that scene happened a month ago I would have missed every signal.
 
 ---
 

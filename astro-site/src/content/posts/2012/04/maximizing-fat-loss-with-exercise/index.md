@@ -9,7 +9,9 @@ description: "This is the 5th and final part of my series of posts on the role o
 commentCount: 10
 ---
 
-This is the 5th and final part of my series of posts on the role of exercise and fat loss. For the most part, I strongly believe that you lean out in the kitchen and not the gym. I think the role of exercise in fat loss is vastly overrated. The benefits we see in the short term tend to disappear when we account for increased appetite as a response to the exercise and the increase in downtime due to exercising too much. Post summaries for Part 1-4:
+This is the 5th and final part of my series of posts on the role of exercise and fat loss. For the most part, I strongly believe that you lean out in the kitchen and not the gym. I think the role of exercise in fat loss is vastly overrated. The benefits we see in the short term tend to disappear when we account for increased appetite as a response to the exercise and the increase in downtime due to exercising too much.
+
+Post summaries for Part 1-4:
 
 1.  [Walking Didn't Lean Me Out](/2012/04/walking-didnt-lean-me-out/) - I showed how it was diet alone that caused me to lose 20 pounds of fat and keep it off.
 2.  [How Exercise Indirectly Kept me Fatter](/2012/04/how-exercise-indirectly-kept-me-fatter/) - I go through 20 years of my personal exercise experience to show that appetite and injury risk increase when exercise volume increases. What appears to be effective in the short term for fat loss isn't sustainable or effective in the long term.
@@ -20,7 +22,9 @@ This is the 5th and final part of my series of posts on the role of exercise and
 ### Maximizing Fat Loss with Exercise Prerequisites
 
 
-I know I'm repeating myself here, but I believe you get healthy to lose fat not lose fat to get healthy. If you remove the toxins and eat highly nutrient-dense foods, the body will become more healthy. A healthy body that is well nourished will drop excess fat. If you are not healthy yet, focus on that first. Adding a caloric deficit to an already undernourished body might result in short-term fat loss, but that weight often comes right back once the body senses its survival is being threatened. Enough with the disclaimer, here is the prerequisite list.
+I know I'm repeating myself here, but I believe you get healthy to lose fat not lose fat to get healthy. If you remove the toxins and eat highly nutrient-dense foods, the body will become more healthy. A healthy body that is well nourished will drop excess fat. If you are not healthy yet, focus on that first. Adding a caloric deficit to an already undernourished body might result in short-term fat loss, but that weight often comes right back once the body senses its survival is being threatened.
+
+Enough with the disclaimer, here is the prerequisite list.
 
 1.  **Remove Toxic Food** - Grains and Vegetable Oils. Dairy for some people. Perform 30 Day elimination tests to figure out what foods make your body tick.
 2.  **Fix Your Sleep** - Sleep is extremely important for fat loss. Our society glamorizes the athlete who sets their alarm to get up at 5 AM to exercise. Not me. I know that sleep leans you out. Recommend reading: [Review highlights several mechanisms through which lack of sleep can cause us to put on weight](https://web.archive.org/web/20210920092928/http://www.drbriffa.com/2012/04/12/review-highlights-several-mechanisms-through-which-lack-of-sleep-can-cause-us-to-put-on-weight/).
@@ -44,7 +48,9 @@ I know I'm repeating myself here, but I believe you get healthy to lose fat not 
 ### The Limiting Factor To Maximum Fat Loss From Exercise
 
 
-Once we get past nutrition, sleep, safety, exercise selection, nutrient timing, and understanding how to generate high levels of intensity while exercising there remains a single limiting factor to exercise and maximum fat loss. It isn't exercising more. It is recovering faster. **The limiting factor to fat loss from exercise is recovery speed.** If we want to get the maximum fat loss benefits of exercise, we should be focusing our efforts on decreasing recovery time. Right now it takes me 5 days to fully recover from a SuperSlow HIT workout. This means in a typical quarter, I can engage in 18 workouts. If I could figure out a way to reduce my recovery time to 4 days, I could engage in 22 workouts per quarter. This is not about gutting it out and pushing myself to return to the gym. Been there, done that. It doesn't work in the long run. This is about training the body to recover faster. Some ideas that have come to mind include:
+Once we get past nutrition, sleep, safety, exercise selection, nutrient timing, and understanding how to generate high levels of intensity while exercising there remains a single limiting factor to exercise and maximum fat loss. It isn't exercising more. It is recovering faster. **The limiting factor to fat loss from exercise is recovery speed.** If we want to get the maximum fat loss benefits of exercise, we should be focusing our efforts on decreasing recovery time.
+
+Right now it takes me 5 days to fully recover from a SuperSlow HIT workout. This means in a typical quarter, I can engage in 18 workouts. If I could figure out a way to reduce my recovery time to 4 days, I could engage in 22 workouts per quarter. This is not about gutting it out and pushing myself to return to the gym. Been there, done that. It doesn't work in the long run. This is about training the body to recover faster. Some ideas that have come to mind include:
 
 1.  **Specific Nutrition and Supplements** - What foods or supplements can measurably improve recovery times? I'm getting good results drinking beef bone broth at the end of my workouts. What else works?
 2.  **Cold Water** - I have noticed that cold showers at the end of a workout decrease muscle soreness. I have not measured if this is the same as faster recovery, but I suspect it helps.

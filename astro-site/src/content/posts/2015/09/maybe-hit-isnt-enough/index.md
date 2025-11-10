@@ -11,25 +11,41 @@ commentCount: 22
 
 I am a big fan of High-Intensity Training. Nothing is changing here, but in the last year I have lost some conditioning and it is probably my fault. Before I say where things went wrong, let me go back to my first true HIT workout. It was in February 2011 from legendary trainer [Greg Anderson at Ideal Exercise](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/).
 
-> Unlike the Glitter Gyms, the temperature at Ideal Exercise was a crisp 61-62 degrees. I love it. Back when I was in Queen Anne at _Prorobics_, I’d open the window even in the dead of winter to drop the temperature in the free weight room. I later learned from an interview with Dr. McGuff that 61 degrees was ideal for generating the most intensity. Intensity is not about increasing your core temperature and sweating off calories. Intensity is about recruiting maximum muscle fibers in a brief and safe manner. Weight training will increase your core temperature, so starting from a cool temperatures will allow you to be comfortable and not hot when lifting. Therefore you can direct more attention and energy into the weights.
+> Unlike the Glitter Gyms, the temperature at Ideal Exercise was a crisp 61-62 degrees. I love it. Back when I was in Queen Anne at _Prorobics_, I’d open the window even in the dead of winter to drop the temperature in the free weight room.
+> 
+> I later learned from an interview with Dr. McGuff that 61 degrees was ideal for generating the most intensity. Intensity is not about increasing your core temperature and sweating off calories. Intensity is about recruiting maximum muscle fibers in a brief and safe manner. Weight training will increase your core temperature, so starting from a cool temperatures will allow you to be comfortable and not hot when lifting. Therefore you can direct more attention and energy into the weights.
 
-So I took what I learned from Greg Anderson and returned to my Glitter Gym. Glitter Gym is the term I use to describe all the big corporate gyms with lots of lights, mirrors, and shiny equipment. Basically, all modern gyms are now Glitter Gyms. The problem I ran into was that I quickly got headaches at high levels of intensity because my gym was warmer. Because the intensity comes on so quickly in HIT and it comes on faster when it is warm, I would get sharp immediate headaches. Over the years, I have resolved this problem by dialing back the intensity and increasing the volume. For me the secret sauce of HIT is not primarily about intensity, it is about safety. By not getting hurt, one could on a long enough time horizon make more gains even if the workout was less than optimal. I strongly believe that most brotards underestimate the risk and duration of injury, especially as we age and the weights get heavier. Enough background. I believe I've underestimated the volume needed to compensate for reduced intensity. Because I'm not hitting that deep level of failure at the hot gyms, just bumping up the volume to an additional set or an additional day at the gym has turned out to not be enough. I noticed this recently when I tried out the [endless rope machine](/2015/07/the-endless-rope-machine/). It humbled me on just how unconditioned I had become. As the average temperature in my gym went from 68F to 71F (20C to 21.7C), my level of effort went down, but my volume stayed constant.
+So I took what I learned from Greg Anderson and returned to my Glitter Gym. Glitter Gym is the term I use to describe all the big corporate gyms with lots of lights, mirrors, and shiny equipment. Basically, all modern gyms are now Glitter Gyms.
+
+The problem I ran into was that I quickly got headaches at high levels of intensity because my gym was warmer. Because the intensity comes on so quickly in HIT and it comes on faster when it is warm, I would get sharp immediate headaches. Over the years, I have resolved this problem by dialing back the intensity and increasing the volume.
+
+For me the secret sauce of HIT is not primarily about intensity, it is about safety. By not getting hurt, one could on a long enough time horizon make more gains even if the workout was less than optimal. I strongly believe that most brotards underestimate the risk and duration of injury, especially as we age and the weights get heavier.
+
+Enough background. I believe I've underestimated the volume needed to compensate for reduced intensity. Because I'm not hitting that deep level of failure at the hot gyms, just bumping up the volume to an additional set or an additional day at the gym has turned out to not be enough. I noticed this recently when I tried out the [endless rope machine](/2015/07/the-endless-rope-machine/). It humbled me on just how unconditioned I had become. As the average temperature in my gym went from 68F to 71F (20C to 21.7C), my level of effort went down, but my volume stayed constant.
 
 
 ### Dialing Up the Volume
 
 
-The past few weeks, I've increased my volume from 2 sets to 5 sets for the major exercises. I'm still doing mostly machines at a slower tempo, but not the SuperSlow and not to failure. But this still might not be enough. As much as I can complain to the gym, they will never lower the temperature. The temperature at the gym is not set for what is best for the patrons, but for the staff. It baffles me that a group of fit mostly 20-year-olds need to wear layers of clothing in a 70F gym. I wear a tank top and get hot just doing warm-up exercises.
+The past few weeks, I've increased my volume from 2 sets to 5 sets for the major exercises. I'm still doing mostly machines at a slower tempo, but not the SuperSlow and not to failure. But this still might not be enough.
+
+As much as I can complain to the gym, they will never lower the temperature. The temperature at the gym is not set for what is best for the patrons, but for the staff. It baffles me that a group of fit mostly 20-year-olds need to wear layers of clothing in a 70F gym. I wear a tank top and get hot just doing warm-up exercises.
 
 
 ### Another View of Conditioning
 
 
-I fully understand and appreciate the dismissive view of cardiovascular training from the HIT community. I'm on board with it, provided you can actually do true HIT at a cool temperature with a legit trainer. That is expensive and unrealistic for the vast majority of people wishing to get fit. Regarding conditioning, I do believe there is a lot of differences in how conditioning is defined and how it differs from skill. I view skill in the context of a specific sport or recreation. By engaging in deliberate practice one can become "conditioned" to that sport. But if I am not a runner, why should I care to run? Or cycle? Or whatever your sport happens to be. I am still a believer that if you don't know what skills you will need, the best thing to do is to just show up with stronger muscles. My fitness mentor Greg Anderson wrote this:
+I fully understand and appreciate the dismissive view of cardiovascular training from the HIT community. I'm on board with it, provided you can actually do true HIT at a cool temperature with a legit trainer. That is expensive and unrealistic for the vast majority of people wishing to get fit.
+
+Regarding conditioning, I do believe there is a lot of differences in how conditioning is defined and how it differs from skill. I view skill in the context of a specific sport or recreation. By engaging in deliberate practice one can become "conditioned" to that sport. But if I am not a runner, why should I care to run? Or cycle? Or whatever your sport happens to be.
+
+I am still a believer that if you don't know what skills you will need, the best thing to do is to just show up with stronger muscles. My fitness mentor Greg Anderson wrote this:
 
 > Muscular strength is the single most trainable factor in endurance performance. It is the muscles that actually perform work. When strength increases, the relative intensity of any given task decreases.
 
-If you don't know if you will be called on to swim, hike, run, cycle, ski or climb, the best training course of action is to just get stronger. If however, you know what you need to do then it also makes sense to train in that sport. Dr. McGuff tells a story of two overweight soldiers that trained on a stationary cycle for a Physical Fitness Test. While the rest of the unit was in better shape, when it came time for the test on the cycles, the overweight soldiers got the best times. Were they the best conditioned? Depends upon how you measure conditioned. Had these two been asked to run instead, they would have likely finished behind the rest of the unit who all had more general transferable levels of conditioning from being stronger. But on that day on those stationary bikes, those two soldiers demonstrated the highest level of conditioning.
+If you don't know if you will be called on to swim, hike, run, cycle, ski or climb, the best training course of action is to just get stronger. If however, you know what you need to do then it also makes sense to train in that sport.
+
+Dr. McGuff tells a story of two overweight soldiers that trained on a stationary cycle for a Physical Fitness Test. While the rest of the unit was in better shape, when it came time for the test on the cycles, the overweight soldiers got the best times. Were they the best conditioned? Depends upon how you measure conditioned. Had these two been asked to run instead, they would have likely finished behind the rest of the unit who all had more general transferable levels of conditioning from being stronger. But on that day on those stationary bikes, those two soldiers demonstrated the highest level of conditioning.
 
 
 ### General Transferable Conditioning
@@ -45,7 +61,11 @@ So recently I've been thinking about how to build a set of general transferable 
 6.  Twist
 7.  Gait (Walk, Jog, Run)
 
-![paul-chek](./img/paul-chek.jpg) The idea here would be the same in that I don't know what skills I would need to demonstrate conditioning, as I have no sport, but whatever they happen to be these 7 movements would provide an additional foundation on top of weight training. Maybe I am misguided here? Your thoughts?
+![paul-chek](./img/paul-chek.jpg)
+
+The idea here would be the same in that I don't know what skills I would need to demonstrate conditioning, as I have no sport, but whatever they happen to be these 7 movements would provide an additional foundation on top of weight training.
+
+Maybe I am misguided here? Your thoughts?
 
 ---
 

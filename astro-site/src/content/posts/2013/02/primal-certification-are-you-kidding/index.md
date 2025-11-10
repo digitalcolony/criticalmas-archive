@@ -9,11 +9,25 @@ description: "I was half paying attention to the FatBurningMan podcast interview
 commentCount: 32
 ---
 
-I was half paying attention to the [FatBurningMan podcast interview](https://fatburningman.com/mark-sisson-the-primal-connection/) when I heard Mark Sisson state he was starting a Primal Certification program. You've got to be kidding me. Has it come to this? I made a joke on this blog in August 2010 that we would see a Paleo certification. It was a joke! From [Where the Paleo Message is Failing](/2010/08/where-the-paleo-message-is-failing/):
+I was half paying attention to the [FatBurningMan podcast interview](https://fatburningman.com/mark-sisson-the-primal-connection/) when I heard Mark Sisson state he was starting a Primal Certification program. You've got to be kidding me. Has it come to this? I made a joke on this blog in August 2010 that we would see a Paleo certification. It was a joke!
+
+From [Where the Paleo Message is Failing](/2010/08/where-the-paleo-message-is-failing/):
 
 > It is probably just a matter of time before paleo eating becomes more widespread, but part of me thinks the failing message is the fault of the paleo blogging community. What started as a simple message of returning to a diet from our evolutionary past has become an industry. Books, seminars, DVDs and even conventions. What is next? Paleo certification. ![:roll:](https://criticalmas.org/wp-includes/images/smilies/icon_rolleyes.gif)
 
-Wasn't the entire point of Paleo was that it was simple? The gurus of Paleo told us that by rejecting Neolithic poisons, getting plenty of rest, and exercising sensibly we'd be better off. Makes sense to me. When did it get so complicated that we needed certification to share such a simple message? ![caveman](./img/5964727769_0a003f9edc_z.jpg) _[Photo](https://flic.kr/p/a65MKX) by Pascal_ When I think of paying for certification, I think of database knowledge. Having someone pass a test to prove they have some level of competence before you hand over the keys to the corporate database kind of makes sense. But, Paleo certification? Really? This just reeks of hucksterism. Up until now, I have had tremendous respect for Mark Sisson. I still think the [Primal Blueprint](/2011/03/ranking-the-paleo-books-march-2011/) is the best book written on Paleo, but this isn't rocket science. We don't need Paleo or Primal certifications. If it is easy enough for a caveman, then it should be easy enough for us. Maybe I am wrong about this certification? I did a quick search to see if anyone else shares my opinion and found nothing. Am I alone here?
+Wasn't the entire point of Paleo was that it was simple? The gurus of Paleo told us that by rejecting Neolithic poisons, getting plenty of rest, and exercising sensibly we'd be better off. Makes sense to me. When did it get so complicated that we needed certification to share such a simple message?
+
+![caveman](./img/5964727769_0a003f9edc_z.jpg)
+
+_[Photo](https://flic.kr/p/a65MKX) by Pascal_
+
+When I think of paying for certification, I think of database knowledge. Having someone pass a test to prove they have some level of competence before you hand over the keys to the corporate database kind of makes sense.
+
+But, Paleo certification? Really?
+
+This just reeks of hucksterism. Up until now, I have had tremendous respect for Mark Sisson. I still think the [Primal Blueprint](/2011/03/ranking-the-paleo-books-march-2011/) is the best book written on Paleo, but this isn't rocket science. We don't need Paleo or Primal certifications. If it is easy enough for a caveman, then it should be easy enough for us.
+
+Maybe I am wrong about this certification? I did a quick search to see if anyone else shares my opinion and found nothing. Am I alone here?
 
 ---
 

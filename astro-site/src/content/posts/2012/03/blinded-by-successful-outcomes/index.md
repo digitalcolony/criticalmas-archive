@@ -23,7 +23,11 @@ As a fitness enthusiast and former member of military, what didn't I like about 
 6.  Mark implies that with a _small sacrifice_ people at any given gym can get into SpecOps shape (_"achieve this difference"_). I don't think so. By the time you've made it to an elite military school, you've already demonstrated you are _Genetic Gold_. The typical person isn't. A solid exercise program can bring an individual closer to THEIR POTENTIAL, not necessarily the potential of an elite soldier.
 7.  I have an issue with the "_people lack willpower_" argument. I think they give up when they fail to get expected results. If they define realistic goals, design a safe and sane program, and see themselves progressing, they will often find the willpower to continue. If you fill their heads with fantasies of being in _SpecOps shape_ following a program that doesn't let their body recover - because they aren't _Genetic Gold_ - they will lose willpower. And I don't blame them.
 
-I agree with Mark that exercise can change your life. We just disagree on the expectations. We all can't be Rambo and that's OK. ![gym](./img/5513197198_434030c85d_z.jpg) _[Photo](https://flic.kr/p/9pbzs7) by W\_Minshull_
+I agree with Mark that exercise can change your life. We just disagree on the expectations. We all can't be Rambo and that's OK.
+
+![gym](./img/5513197198_434030c85d_z.jpg)
+
+_[Photo](https://flic.kr/p/9pbzs7) by W\_Minshull_
 
 ---
 

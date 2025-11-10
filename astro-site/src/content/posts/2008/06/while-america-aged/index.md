@@ -9,13 +9,21 @@ description: "I lived in San Diego during their pension crisis a few years ago. 
 commentCount: 3
 ---
 
-I lived in San Diego during their pension crisis a few years ago. The story was confusing and never held any interest with me. Boring. Change the channel. So why would I read a book about the dull topic of pensions? Because it was written by Roger Lowenstein. He may be the best writer of financial history. Having read [When Genius Failed](/2007/11/when-genius-failed/) and [The Origins of the Crash](/2008/02/the-origins-of-the-crash/), I knew Roger was capable of making pensions interesting. ![While America Aged: How Pension Debts Ruined General Motors, Stopped the NYC Subways, Bankrupted San Diego, and Loom as the Next Financial Crisis](https://images-na.ssl-images-amazon.com/images/I/51AF6OpG8QL._SL500_.jpg) _While America Aged: How Pension Debts Ruined General Motors, Stopped the NYC Subways, Bankrupted San Diego, and Loom as the Next Financial Crisis by Roger Lowenstein_ is divided into three sections.
+I lived in San Diego during their pension crisis a few years ago. The story was confusing and never held any interest with me. Boring. Change the channel.
+
+So why would I read a book about the dull topic of pensions? Because it was written by Roger Lowenstein. He may be the best writer of financial history. Having read [When Genius Failed](/2007/11/when-genius-failed/) and [The Origins of the Crash](/2008/02/the-origins-of-the-crash/), I knew Roger was capable of making pensions interesting.
+
+![While America Aged: How Pension Debts Ruined General Motors, Stopped the NYC Subways, Bankrupted San Diego, and Loom as the Next Financial Crisis](https://images-na.ssl-images-amazon.com/images/I/51AF6OpG8QL._SL500_.jpg) _While America Aged: How Pension Debts Ruined General Motors, Stopped the NYC Subways, Bankrupted San Diego, and Loom as the Next Financial Crisis by Roger Lowenstein_ is divided into three sections.
 
 1.  General Motors and the rise of the auto workers union.
 2.  The New York City Transport Workers Union and the subway strikes.
 3.  San Diego ("Enron by the Sea") and their pension corruption.
 
-I actually enjoyed the first section the best. The San Diego story is such a web of corruption and fraud that it would probably take an additional reading to fully understand that mess. The common theme with pensions begins with politicians having a fundamental ignorance of actuarial science. Retirees live longer and always cost more than expected. The second theme is that benefit packages are always increased when the company or government is flush with cash. By the time the economic downturn occurs, the architects of the original deals have moved onto higher office. The conclusion of the book is sobering for anyone counting on receiving a pension when they retire. The money just isn't there. The benefits that were promised exceed the reserves. Promises will be broken. This leaves the future retiree with two options.
+I actually enjoyed the first section the best. The San Diego story is such a web of corruption and fraud that it would probably take an additional reading to fully understand that mess.
+
+The common theme with pensions begins with politicians having a fundamental ignorance of actuarial science. Retirees live longer and always cost more than expected. The second theme is that benefit packages are always increased when the company or government is flush with cash. By the time the economic downturn occurs, the architects of the original deals have moved onto higher office.
+
+The conclusion of the book is sobering for anyone counting on receiving a pension when they retire. The money just isn't there. The benefits that were promised exceed the reserves. Promises will be broken. This leaves the future retiree with two options.
 
 1.  Retire on less money.
 2.  Delay retirement and keep working.

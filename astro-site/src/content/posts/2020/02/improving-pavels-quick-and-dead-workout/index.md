@@ -9,15 +9,37 @@ description: "I was going to wait until I had completed the full 12-weeks of the
 commentCount: 10
 ---
 
-I was going to wait until I had completed the full 12-weeks of the [Quick and Dead](/2020/01/notes-on-pavels-the-quick-and-the-dead/) workout, but this can't wait. I see some potential issues with the Q&D and so have a few other commenters. First, I'll cover some of those issues and then we can brainstorm on ways to improve the workout. The most concise criticism of the plan came from [Zap](/2020/01/notes-on-pavels-the-quick-and-the-dead/#comment-26994).
+I was going to wait until I had completed the full 12-weeks of the [Quick and Dead](/2020/01/notes-on-pavels-the-quick-and-the-dead/) workout, but this can't wait. I see some potential issues with the Q&D and so have a few other commenters. First, I'll cover some of those issues and then we can brainstorm on ways to improve the workout.
+
+The most concise criticism of the plan came from [Zap](/2020/01/notes-on-pavels-the-quick-and-the-dead/#comment-26994).
 
 > As much as I love Pavel, this is not a complete routine/program for most anyone. KB swings are not a pull of any kind. A swing is a hinge. There is no true upper body pull action at all (rowing or pull-up motion) and very minimal squat/lunge/quad stress.
 
-Zap is absolutely correct. At the expense of being super minimal and using just 2 exercises, the back and especially the legs don't get worked out nearly enough. [Greg](/2020/01/notes-on-pavels-the-quick-and-the-dead/#comment-26994) agreed:
+Zap is absolutely correct. At the expense of being super minimal and using just 2 exercises, the back and especially the legs don't get worked out nearly enough.
+
+[Greg](/2020/01/notes-on-pavels-the-quick-and-the-dead/#comment-26994) agreed:
 
 > I also concluded that swings + pushups weren’t enough.
 
-Once push-ups become too easy, Pavel says to use bands to make the movement harder. My gym has one 30-pound band. It is awkward as hell. I tried using it a few times, but I could not get solid form reps using it. Maybe I need a better band or maybe the push-up isn't ideal? A weighted vest might work better, but I don't want to buy one right now. The second issue I had was between all the push-ups and KB swings, my shoulders were taking a beating, while the rest of my body felt under-utilized. ![](./img/kettlebell-jesper-a.jpg) _Photo by_ [_Jesper Aggergaard_](https://unsplash.com/@aggergakker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) I liked the 10 sets of 10 reps inside 3-minutes, but it wasn't long before I started eyeing other exercises. Pavel doesn't like machines, but I do. So, in one workout I cycled between 2 Hammer Strength machines - a chest press and the Iso-Lateral Low Row. The problem with going back and forth with machines in a shared gym is that it can be a challenge to hold two pieces of equipment for 30 minutes. I don't ever want to be the jerk in the free weight room. Unlike Millenials, I had great role models in the 1990s in Tampa's hardcore gyms. Fixing the Q&D might be as easy as picking 2-3 exercises that can be done explosively in a safe manner and cycling between them. We don't need to do the same workout each time. Focus on the explosive movement and getting sufficient rest between sets instead. When I lift HIT style, I am pure intuition. I rarely have a plan when I arrive at the gym and I never write anything down. I look around the gym, see what is available that is of interest to me, and then lift HIT style, before moving onto the next exercises. Q&D 2.0 will require a bit more planning if you are in a shared gym but should be doable. I can do explosive goblet squats or push-ups next to any machine. If you have any tips or suggestions for making Pavel's Quick and Dead better, leave a comment below.
+Once push-ups become too easy, Pavel says to use bands to make the movement harder. My gym has one 30-pound band. It is awkward as hell. I tried using it a few times, but I could not get solid form reps using it. Maybe I need a better band or maybe the push-up isn't ideal? A weighted vest might work better, but I don't want to buy one right now.
+
+The second issue I had was between all the push-ups and KB swings, my shoulders were taking a beating, while the rest of my body felt under-utilized.
+
+![](./img/kettlebell-jesper-a.jpg)
+
+_Photo by_ [_Jesper Aggergaard_](https://unsplash.com/@aggergakker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+I liked the 10 sets of 10 reps inside 3-minutes, but it wasn't long before I started eyeing other exercises.
+
+Pavel doesn't like machines, but I do. So, in one workout I cycled between 2 Hammer Strength machines - a chest press and the Iso-Lateral Low Row. The problem with going back and forth with machines in a shared gym is that it can be a challenge to hold two pieces of equipment for 30 minutes. I don't ever want to be the jerk in the free weight room. Unlike Millenials, I had great role models in the 1990s in Tampa's hardcore gyms.
+
+Fixing the Q&D might be as easy as picking 2-3 exercises that can be done explosively in a safe manner and cycling between them. We don't need to do the same workout each time. Focus on the explosive movement and getting sufficient rest between sets instead.
+
+When I lift HIT style, I am pure intuition. I rarely have a plan when I arrive at the gym and I never write anything down. I look around the gym, see what is available that is of interest to me, and then lift HIT style, before moving onto the next exercises. Q&D 2.0 will require a bit more planning if you are in a shared gym but should be doable.
+
+I can do explosive goblet squats or push-ups next to any machine.
+
+If you have any tips or suggestions for making Pavel's Quick and Dead better, leave a comment below.
 
 ---
 

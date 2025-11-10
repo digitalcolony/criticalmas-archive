@@ -11,9 +11,13 @@ commentCount: 13
 
 After my last [Tales from the Glitter Gym](/2024/08/tales-from-the-glitter-gym-the-deal/), Stuart gave me an idea for this post.
 
-> It’s a shame that more gym members weren’t / aren’t even a fraction as conscientious as these two were. The one thing good about the old, smaller, “private” gyms was that there was a “code” of behaviour, often strictly enforced by the owner and regular members. Now people often leave weights discarded anywhere, and it could take a good portion of your workout to find the dumbbells that you wanted to use.
+> It’s a shame that more gym members weren’t / aren’t even a fraction as conscientious as these two were. The one thing good about the old, smaller, “private” gyms was that there was a “code” of behaviour, often strictly enforced by the owner and regular members.
+> 
+> Now people often leave weights discarded anywhere, and it could take a good portion of your workout to find the dumbbells that you wanted to use.
 
-He is correct, but how did we get here? And where will we go from here? I'm not an economist, but I have a guess. I'm using the term "messy" in this post to cover 3 things:
+He is correct, but how did we get here? And where will we go from here? I'm not an economist, but I have a guess.
+
+I'm using the term "messy" in this post to cover 3 things:
 
 1.  actual messiness (trash, dust, dirt)
 2.  not putting shared equipment back in its proper space (racking weights)
@@ -23,20 +27,38 @@ He is correct, but how did we get here? And where will we go from here? I'm not 
 ### Demographics and Low Interest Rates
 
 
-I started lifting weights at the tail end of the "Rust Gym" era. Lifting weights had always been a sport dominated by young men. Although weightlifting was gaining popularity in the 1990s, Generation X was a smaller demographic than the Boomers or the Millennials. For many of us, this is how we ended up at Rust Gyms. We were using the old "hand me down" equipment from serious Boomers. There wasn't much money to build fancy Glitter Gyms yet. That day was fast approaching though. From the late 1990s to just before COVID, many Glitter Gyms were built. The Rust gyms disappeared. This was all possible for a few reasons:
+I started lifting weights at the tail end of the "Rust Gym" era. Lifting weights had always been a sport dominated by young men. Although weightlifting was gaining popularity in the 1990s, Generation X was a smaller demographic than the Boomers or the Millennials.
+
+For many of us, this is how we ended up at Rust Gyms. We were using the old "hand me down" equipment from serious Boomers. There wasn't much money to build fancy Glitter Gyms yet.
+
+That day was fast approaching though.
+
+From the late 1990s to just before COVID, many Glitter Gyms were built. The Rust gyms disappeared. This was all possible for a few reasons:
 
 1.  Low interest rates fueled construction.
 2.  Lots of customers. A large number of Millennials were in peak muscle-building years.
 3.  Gyms employ younger workers - of which there were now many.
 4.  Women embraced weightlifting.
 
-Children raised by helicopter parents with their anti-bacterial wipes were never destined to join Rust Gyms. Glitter wins. The 2000s were the era of the "Customer is always right". Why? Because it was easy to hire cheap labor because there were so many Millennial workers. The customer was more valuable than the employee. What does this mean for gyms? This means that while we Gen X lifters got scolded by staff or other lifters for not racking our weights, Millennials didn't. The customer is always right. This all worked fine until recent times. Now Gen Z is the dominant demographic for gym workers. Their numbers are far fewer and they want to be paid more due to scarcity. Today the employee is more valuable than the customer. Many gyms are understaffed and the glitter is starting to fade. A generation of lifters never had the experience of a big guy getting in their face for not putting the dumbbells back in the correct spot. Now their gym is a mess and the "now hiring" sign has been up for months with a growing list of open positions.
+Children raised by helicopter parents with their anti-bacterial wipes were never destined to join Rust Gyms. Glitter wins.
+
+The 2000s were the era of the "Customer is always right". Why? Because it was easy to hire cheap labor because there were so many Millennial workers. The customer was more valuable than the employee. What does this mean for gyms? This means that while we Gen X lifters got scolded by staff or other lifters for not racking our weights, Millennials didn't. The customer is always right.
+
+This all worked fine until recent times. Now Gen Z is the dominant demographic for gym workers. Their numbers are far fewer and they want to be paid more due to scarcity. Today the employee is more valuable than the customer. Many gyms are understaffed and the glitter is starting to fade.
+
+A generation of lifters never had the experience of a big guy getting in their face for not putting the dumbbells back in the correct spot. Now their gym is a mess and the "now hiring" sign has been up for months with a growing list of open positions.
 
 
 ### Return to Rust?
 
 
-Today interest rates are much higher and there are fewer young people of weight lifting age. Why invest in new gyms? A better option would be to squeeze the life out of the existing Glitter Gyms. If you can't reduce labor costs, maybe cut back on maintenance. Return to rust. ![](./img/rust-gym.jpg) _After decades of low birth rates and neglect, this Glitter Gym has been absorbed by nature like a temple at Angkor Wat._
+Today interest rates are much higher and there are fewer young people of weight lifting age. Why invest in new gyms? A better option would be to squeeze the life out of the existing Glitter Gyms. If you can't reduce labor costs, maybe cut back on maintenance.
+
+Return to rust.
+
+![](./img/rust-gym.jpg)
+
+_After decades of low birth rates and neglect, this Glitter Gym has been absorbed by nature like a temple at Angkor Wat._
 
 ---
 

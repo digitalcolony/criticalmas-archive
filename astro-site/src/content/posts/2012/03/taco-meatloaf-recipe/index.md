@@ -9,7 +9,9 @@ description: "After my success in creating a meatloaf recipe with gyro meat flav
 commentCount: 6
 ---
 
-After my success in creating a meatloaf recipe with gyro meat flavor, I decided to continue my research in [advanced meatloaf studies](/2012/03/meatloaf-economics/). This week I give you **The Taco Meatloaf**. A super simple recipe that yields a meatloaf that tastes like taco meat. Why would you make a meatloaf that tastes like taco meat instead of just taco meat? I'm glad you asked.
+After my success in creating a meatloaf recipe with gyro meat flavor, I decided to continue my research in [advanced meatloaf studies](/2012/03/meatloaf-economics/). This week I give you **The Taco Meatloaf**. A super simple recipe that yields a meatloaf that tastes like taco meat.
+
+Why would you make a meatloaf that tastes like taco meat instead of just taco meat? I'm glad you asked.
 
 1.  1.  The least healthy part of a taco is the shell. Soft tacos use flour wrappers, which are full of gluten. Corn is better, but many brands are made with vegetable oil. The Ortega brand uses partially hydrogenated soybean oil. No thanks! Industrial seed oils are toxic.
     2.  It is easier to bake a 3-pound meatloaf than standing over a stove browning 3 pounds of ground meat.
@@ -47,7 +49,17 @@ After my success in creating a meatloaf recipe with gyro meat flavor, I decided 
 #### Quick notes
 
 
-\* I used the New Mexican Chili Powder Blend from World Spice Merchants. It rocks. If you can't get this, do your best to find a replacement. Look for a brand that mixes peppers and cumin. Or if you are skilled in the spice arts, you can always make your own custom blend. Now for the toppings. Add cheese, sour cream, salsa, or guacamole to the finished meatloaf. Or eat it plain. Both ways are extremely tasty. Preparation time: 20 minutes Cooking time: 40 minutes Diet tags: Gluten free Culinary tradition: Mexican
+\* I used the New Mexican Chili Powder Blend from World Spice Merchants. It rocks. If you can't get this, do your best to find a replacement. Look for a brand that mixes peppers and cumin. Or if you are skilled in the spice arts, you can always make your own custom blend.
+
+Now for the toppings. Add cheese, sour cream, salsa, or guacamole to the finished meatloaf. Or eat it plain. Both ways are extremely tasty.
+
+Preparation time: 20 minutes
+
+Cooking time: 40 minutes
+
+Diet tags: Gluten free
+
+Culinary tradition: Mexican
 
 ---
 

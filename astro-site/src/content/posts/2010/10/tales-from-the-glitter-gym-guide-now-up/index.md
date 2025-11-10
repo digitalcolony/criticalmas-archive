@@ -9,4 +9,10 @@ description: "Even though these posts get very few comments, people seem to love
 commentCount: 0
 ---
 
-Even though these posts get very few comments, people seem to love _Tales From the Glitter Gym_. I put them all together on a single page. [Tales From the Glitter Gym](https://criticalmas.org/best-of/tales-from-the-glitter-gym/) Enjoy! ![weighted pull up](./img/stick-pull-up350.jpg "stick-pull-up350")
+Even though these posts get very few comments, people seem to love _Tales From the Glitter Gym_. I put them all together on a single page.
+
+[Tales From the Glitter Gym](https://criticalmas.org/best-of/tales-from-the-glitter-gym/)
+
+Enjoy!
+
+![weighted pull up](./img/stick-pull-up350.jpg "stick-pull-up350")

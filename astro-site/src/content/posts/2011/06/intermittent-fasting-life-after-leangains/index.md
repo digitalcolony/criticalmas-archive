@@ -9,7 +9,9 @@ description: "It has been three months since my Leangains review. Before I go in
 commentCount: 15
 ---
 
-It has been three months since my [Leangains review](/2011/03/intermittent-fasting-70-day-review-of-the-leangains-method/). Before I go into my latest strategy, I want to address some questions I got regarding my mixed review of the 16-hour daily fasts promoted by _Leangains_. For a quick recap, earlier this year I did 70 consecutive days of 16 hour daily fasts. The first month went exceptionally well, and the second month didn't. Here were the downsides I experienced in the second month.
+It has been three months since my [Leangains review](/2011/03/intermittent-fasting-70-day-review-of-the-leangains-method/). Before I go into my latest strategy, I want to address some questions I got regarding my mixed review of the 16-hour daily fasts promoted by _Leangains_. For a quick recap, earlier this year I did 70 consecutive days of 16 hour daily fasts. The first month went exceptionally well, and the second month didn't.
+
+Here were the downsides I experienced in the second month.
 
 > 1.  When I eventually did eat at 2 PM, I got majorly tired. This never happened to me in my prior [IF experiences](https://criticalmas.org/best-of/intermittent-fasting/). I sort of solved this problem, by moving my last espresso to after the 2 PM meal and drinking tea in the afternoon.
 > 2.  The second problem I experienced was I frequently felt cold, especially in my fingers. I have experience with [cold weather exposure](https://criticalmas.org/best-of/cold-weather-training/), so the fact my body wasnt throwing off heat like before was concerning. This month was the first month in 3 years where the cold was bothering me.
@@ -20,7 +22,9 @@ It has been three months since my [Leangains review](/2011/03/intermittent-fasti
 ### N=1
 
 
-I want to remind others that we are all at different points in our health journey. This is just what I experienced. I'm sure there are many cases of dieters who had excellent results beyond the first month. What I did was just describe the symptoms that I experienced as a possible warning on what to look for should your results stall. N=1 means that my results are specific to me. For me, the duration of the 16-hour fasts was perfect, but I got greater benefits when I didn't adhere to the 7 days a week protocol. I'm just speculating, but you may be able to achieve better results by interjecting some [randomness into your Intermittent Fasting](/2011/03/intermittent-fasting-spontaneous-and-random/) plan. That might mean taking 1-2 days off each week or taking a whole week off when progress stalls. If your progress never stalls, then don't stop what is working.
+I want to remind others that we are all at different points in our health journey. This is just what I experienced. I'm sure there are many cases of dieters who had excellent results beyond the first month. What I did was just describe the symptoms that I experienced as a possible warning on what to look for should your results stall. N=1 means that my results are specific to me.
+
+For me, the duration of the 16-hour fasts was perfect, but I got greater benefits when I didn't adhere to the 7 days a week protocol. I'm just speculating, but you may be able to achieve better results by interjecting some [randomness into your Intermittent Fasting](/2011/03/intermittent-fasting-spontaneous-and-random/) plan. That might mean taking 1-2 days off each week or taking a whole week off when progress stalls. If your progress never stalls, then don't stop what is working.
 
 
 ### The Last 3 Months

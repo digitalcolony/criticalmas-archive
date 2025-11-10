@@ -9,7 +9,11 @@ description: "I love my Seattle neighborhood of Queen Anne, but it is time to mo
 commentCount: 4
 ---
 
-I love my Seattle neighborhood of Queen Anne, but it is time to move soon. I've been given an opportunity to rent the bottom floor of a brand new house near Northgate. My living expenses will be half what I'm paying in Queen Anne. How long can I last in the suburbs? We will see. Besides reduced living expenses the biggest upside to moving will be the larger brand new kitchen. I will not miss my little kitchen. I will miss Queen Anne though. ![queen-anne](./img/queen-anne.jpg)
+I love my Seattle neighborhood of Queen Anne, but it is time to move soon. I've been given an opportunity to rent the bottom floor of a brand new house near Northgate. My living expenses will be half what I'm paying in Queen Anne. How long can I last in the suburbs? We will see.
+
+Besides reduced living expenses the biggest upside to moving will be the larger brand new kitchen. I will not miss my little kitchen. I will miss Queen Anne though.
+
+![queen-anne](./img/queen-anne.jpg)
 
 ---
 

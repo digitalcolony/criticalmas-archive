@@ -8,7 +8,11 @@ description: "For the first time in my life, I tracked all the food I ate for a 
 commentCount: 13
 ---
 
-For the first time in my life, I tracked all the food I ate for a full month. I did not weigh the food. I started January at the weight of 183 and ended at 183, which is a BMI of 23.2 (Normal). I used the Day One app, which is supposed to be for journaling, to jot down whatever foods I consumed. Then I exported the entries to a JSON file and asked ChatGPT to summarize the data. I consumed no soft drinks, juice, or alcohol. This was a one month only experiment. A time capsule. Maybe I'll do a new one periodically, as I have a long history of changing my diet.
+For the first time in my life, I tracked all the food I ate for a full month. I did not weigh the food. I started January at the weight of 183 and ended at 183, which is a BMI of 23.2 (Normal).
+
+I used the Day One app, which is supposed to be for journaling, to jot down whatever foods I consumed. Then I exported the entries to a JSON file and asked ChatGPT to summarize the data. I consumed no soft drinks, juice, or alcohol.
+
+This was a one month only experiment. A time capsule. Maybe I'll do a new one periodically, as I have a long history of changing my diet.
 
 
 ### **Common Foods and Patterns:**
@@ -59,7 +63,9 @@ For the first time in my life, I tracked all the food I ate for a full month. I 
 -   Regular intake of fermented foods (kimchi, natto) and high-fiber vegetables.
 -   Balanced macronutrients with a good mix of proteins, healthy fats, and complex carbs.
 
-![](./img/buckwheat-tofu.jpg) _Buckwheat groats with air-fried tofu covered with green onions and hot sauce._
+![](./img/buckwheat-tofu.jpg)
+
+_Buckwheat groats with air-fried tofu covered with green onions and hot sauce._
 
 ---
 

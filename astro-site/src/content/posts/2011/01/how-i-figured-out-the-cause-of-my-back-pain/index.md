@@ -9,7 +9,9 @@ description: "Back in April 2009, I listed my #1 health goal as ending back pain
 commentCount: 12
 ---
 
-Back in [April 2009](/2009/04/health-goals-last-year-and-today/), I listed my #1 health goal as ending back pain. I had just gone through another episode of back pain and I was determined to figure out what was the cause. This is post is not about everything I know about back pain. That would be way too long for a blog post. This post is about the steps I took to discover the cause. For me, the process of discovering the cause of my back pain has helped me be more scientific about other aspects of my life, including diet and exercise. _You will need 1 sheet of paper, a pen, and your personal calendar._
+Back in [April 2009](/2009/04/health-goals-last-year-and-today/), I listed my #1 health goal as ending back pain. I had just gone through another episode of back pain and I was determined to figure out what was the cause. This is post is not about everything I know about back pain. That would be way too long for a blog post. This post is about the steps I took to discover the cause. For me, the process of discovering the cause of my back pain has helped me be more scientific about other aspects of my life, including diet and exercise.
+
+_You will need 1 sheet of paper, a pen, and your personal calendar._
 
 
 ### Step 1 - Admit You Don't Know
@@ -21,7 +23,11 @@ For over a decade I had assumed I knew exactly what was causing my back pain. Ev
 ### Step 2 - Write Down Every Suspect
 
 
-Make a list of every single reason you could possibly be having back pain. Anything that comes to mind needs to be on the list, even if it is a remote possibility. Posture, mattress, shoes, not stretching, alignment, exercise too little, exercise too much, stress, chair, whatever. Build the list. ![](http://farm1.static.flickr.com/126/369183881_1b05919b56.jpg "list") _[Photo](http://www.flickr.com/photos/milknosugar/369183881/in/photostream/) by Kevin McDonnell_
+Make a list of every single reason you could possibly be having back pain. Anything that comes to mind needs to be on the list, even if it is a remote possibility. Posture, mattress, shoes, not stretching, alignment, exercise too little, exercise too much, stress, chair, whatever. Build the list.
+
+![](http://farm1.static.flickr.com/126/369183881_1b05919b56.jpg "list")
+
+_[Photo](http://www.flickr.com/photos/milknosugar/369183881/in/photostream/) by Kevin McDonnell_
 
 
 ### Step 3 - Remember Past Episodes of Back Pain
@@ -33,7 +39,9 @@ Make a list of dates when you had back problems. You will probably need to use a
 ### Step 4 - Look for Patterns
 
 
-When I did this exercise I was certain that I would see a correlation between lifting weights and back pain. I always seemed to get back issues after a month or two of consecutive training. At least that is what I thought. The data showed no correlation. Doing this exercise I was able to eliminate some possible causes. My list got smaller. Then I studied the dates and tried to find a common thread. What happened just prior to the onset of back pain? For me, the common thread was stress, which was dead last on the list I made. Every date that I wrote down was during a period that I didn't feel in control. The stock market went against me or I got stuck in traffic or something similar. It was at that time that _Conditioning Research_ posted [Perspective...back pain](http://conditioningresearch.blogspot.com/2009/05/perspectiveback-pain.html) which reminded me about Dr. Sarno and his research into connecting back pain with stress. Then I listened to an interview with Dr. Sarno that connected everything for me.
+When I did this exercise I was certain that I would see a correlation between lifting weights and back pain. I always seemed to get back issues after a month or two of consecutive training. At least that is what I thought. The data showed no correlation. Doing this exercise I was able to eliminate some possible causes. My list got smaller. Then I studied the dates and tried to find a common thread. What happened just prior to the onset of back pain?
+
+For me, the common thread was stress, which was dead last on the list I made. Every date that I wrote down was during a period that I didn't feel in control. The stock market went against me or I got stuck in traffic or something similar. It was at that time that _Conditioning Research_ posted [Perspective...back pain](http://conditioningresearch.blogspot.com/2009/05/perspectiveback-pain.html) which reminded me about Dr. Sarno and his research into connecting back pain with stress. Then I listened to an interview with Dr. Sarno that connected everything for me.
 
 
 ### Step 5 - Form Hypothesis and Test

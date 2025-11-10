@@ -9,7 +9,9 @@ description: "In my last post, The End of Gyms? Part 1, I covered some of the ma
 commentCount: 11
 ---
 
-In my last post, [The End of Gyms?](/2020/05/the-end-of-gyms/) Part 1, I covered some of the macro challenges gyms are facing in a post-Coronavirus world. I suspect many gyms are going to fail for the reasons cited in that post. However, not all gyms or locations are going to be the same. In this post, I want to drill down on different gyms and different regions will have different outcomes.
+In my last post, [The End of Gyms?](/2020/05/the-end-of-gyms/) Part 1, I covered some of the macro challenges gyms are facing in a post-Coronavirus world. I suspect many gyms are going to fail for the reasons cited in that post.
+
+However, not all gyms or locations are going to be the same. In this post, I want to drill down on different gyms and different regions will have different outcomes.
 
 
 ### Types of Gyms
@@ -25,19 +27,35 @@ I want to start by breaking down gyms into three different groups.
 
 > If you can’t move outdoors, you want to be sure that the area has good ventilation (ideally open windows and fans) and a low density of people so you can keep your distance from other exercisers. Also, stay out of the locker room, make sure that shared equipment is cleaned before and after use. Ask the gym about their procedures, and bring disinfectant wipes with you to thoroughly wipe down any surface before and after you touch it. Finally, don’t linger.
 
-The culture of fear - be it real or hyped - will be greatest in the Glitter Gym. Exercise reduces stress levels, but probably not if you think you will get infected or infect someone else. **Group B** will probably do fine. Crossfitters are fearless risk-takers and powerlifters will be forced to return because bodyweight exercises aren't going to cut it for them. Plus building out a home gym when you are benching, squatting, and deadlifting hundreds of pounds is expensive and requires space, which is not practical for most. **Group C** could explode in popularity. These businesses are already skilled at 1-on-1 training. Scheduling, efficiency, and cleanliness. This is their moment. The HIT / Super Slow trainers no longer need to make the case that a shorter workout can be more effective than a longer one. Now they can just make the case that they are the cleanest exercise option around. Safe movements, safe environment.
+The culture of fear - be it real or hyped - will be greatest in the Glitter Gym. Exercise reduces stress levels, but probably not if you think you will get infected or infect someone else.
+
+**Group B** will probably do fine. Crossfitters are fearless risk-takers and powerlifters will be forced to return because bodyweight exercises aren't going to cut it for them. Plus building out a home gym when you are benching, squatting, and deadlifting hundreds of pounds is expensive and requires space, which is not practical for most.
+
+**Group C** could explode in popularity. These businesses are already skilled at 1-on-1 training. Scheduling, efficiency, and cleanliness. This is their moment. The HIT / Super Slow trainers no longer need to make the case that a shorter workout can be more effective than a longer one. Now they can just make the case that they are the cleanest exercise option around. Safe movements, safe environment.
 
 
 ### Fear Cities vs Rebel Cities
 
 
-As I put this post together at the end of May 2020, I see a huge division in the country. One group is in fear and one group is fearless when it comes to the Coronavirus. There is a strong regional component to the fear. And now a political one. 🤦🏻‍♂️ The more fearful a city is, the harder it is going to be for the gym to reopen. Unfortunately, here in Seattle, the people are in total fear. You would think everybody here was a diabetic asthmatic 70-year old from Wuhan. The reality is Seattle is one of the healthiest cities in America. But it is what it is. This means that those of us in Fear Cities will have to wait additional months and that factor in itself could put more gyms out of business.
+As I put this post together at the end of May 2020, I see a huge division in the country. One group is in fear and one group is fearless when it comes to the Coronavirus. There is a strong regional component to the fear. And now a political one. 🤦🏻‍♂️
+
+The more fearful a city is, the harder it is going to be for the gym to reopen. Unfortunately, here in Seattle, the people are in total fear. You would think everybody here was a diabetic asthmatic 70-year old from Wuhan. The reality is Seattle is one of the healthiest cities in America. But it is what it is.
+
+This means that those of us in Fear Cities will have to wait additional months and that factor in itself could put more gyms out of business.
 
 
 ### Not Optimistic
 
 
-Maybe if I lived somewhere else my opinion would be different, but I'm not hopeful. I don't see my local gyms making a comeback. If they do make a comeback, the environment might be too stressful. The site of someone wearing a mask serves as a constant reminder of sickness and death. I'll let other debate if that fear is still deserved, but fear comes at a price. Fear increases cortisol levels, which - wait for it - reduces one's immune system. 😧 I'd be interested in hearing where you are from, what type of gym you attend, what the local fear level is, and your level of optimism on if and when things will return to normal. ![keep your distance](./img/nick-fewings-S3AeFMlyITA-unsplash.jpg) _Photo by [Nick Fewings](https://unsplash.com/@jannerboy62?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+Maybe if I lived somewhere else my opinion would be different, but I'm not hopeful. I don't see my local gyms making a comeback. If they do make a comeback, the environment might be too stressful.
+
+The site of someone wearing a mask serves as a constant reminder of sickness and death. I'll let other debate if that fear is still deserved, but fear comes at a price. Fear increases cortisol levels, which - wait for it - reduces one's immune system. 😧
+
+I'd be interested in hearing where you are from, what type of gym you attend, what the local fear level is, and your level of optimism on if and when things will return to normal.
+
+![keep your distance](./img/nick-fewings-S3AeFMlyITA-unsplash.jpg)
+
+_Photo by [Nick Fewings](https://unsplash.com/@jannerboy62?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 ---
 

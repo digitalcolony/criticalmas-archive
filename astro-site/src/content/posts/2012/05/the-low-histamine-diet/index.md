@@ -9,7 +9,9 @@ description: "Well, the day finally arrived. Yesterday morning my refrigerator h
 commentCount: 13
 ---
 
-Well, the day finally arrived. Yesterday morning my refrigerator had no ferments at all. For the past few weeks, I have been finishing up all my sauerkraut and kimchi in preparation for my latest dietary test. For the next 30 to 60 days, I will go on a highly restrictive low histamine diet. I'm trying to determine if histamines play a role in my [late-night headaches](/2012/01/hunting-headaches-remaining-suspects-in-early-2012/). There are two groups I will need to restrict. Group one are foods with high levels of histamines, which are primarily fermented foods. Group two are foods that stimulate the body to release higher levels of histamines. The full list is quite extensive. I'm going to tackle the foods that have high levels and that I consume the most. I'll probably screw this test up a few times, but if I can achieve a 95% or greater reduction, I think I'll have solid data.
+Well, the day finally arrived. Yesterday morning my refrigerator had no ferments at all. For the past few weeks, I have been finishing up all my sauerkraut and kimchi in preparation for my latest dietary test. For the next 30 to 60 days, I will go on a highly restrictive low histamine diet. I'm trying to determine if histamines play a role in my [late-night headaches](/2012/01/hunting-headaches-remaining-suspects-in-early-2012/).
+
+There are two groups I will need to restrict. Group one are foods with high levels of histamines, which are primarily fermented foods. Group two are foods that stimulate the body to release higher levels of histamines. The full list is quite extensive. I'm going to tackle the foods that have high levels and that I consume the most. I'll probably screw this test up a few times, but if I can achieve a 95% or greater reduction, I think I'll have solid data.
 
 
 ### Foods HIGH in Histamines to AVOID
@@ -23,7 +25,9 @@ Well, the day finally arrived. Yesterday morning my refrigerator had no ferments
 -   Vinegar, Ketchup, Mustard
 -   Yeast Food (Marmite, Vegemite)
 
-![kimchi-plate](./img/kimchi-plate.jpg) _My kimchi will be missed._
+![kimchi-plate](./img/kimchi-plate.jpg)
+
+_My kimchi will be missed._
 
 
 ### Foods to AVOID that Stimulate the Release of Histamine

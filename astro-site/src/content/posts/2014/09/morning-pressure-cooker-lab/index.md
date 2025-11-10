@@ -8,7 +8,13 @@ description: "Yesterday I raved about my latest hobby which the pressure cooker.
 commentCount: 2
 ---
 
-Yesterday I raved about my latest hobby which the [pressure cooker](/2014/09/pressure-cooker-game-changer/). This morning I decided to attempt a Vietnamese style chicken congee. I love this dish. Chicken, rice, broth, Thai basil, ginger and of course fish sauce. The perfect breakfast food. A million times better than oatmeal. It came out very good, but I think I can make it better. Give me a week and I'll have a recipe that will amaze and delight. :) ![chicken congee](./img/chicken-congee-1.jpg) _Version 1 of Vietnamese Chicken Congee._
+Yesterday I raved about my latest hobby which the [pressure cooker](/2014/09/pressure-cooker-game-changer/). This morning I decided to attempt a Vietnamese style chicken congee. I love this dish. Chicken, rice, broth, Thai basil, ginger and of course fish sauce. The perfect breakfast food. A million times better than oatmeal.
+
+It came out very good, but I think I can make it better. Give me a week and I'll have a recipe that will amaze and delight. :)
+
+![chicken congee](./img/chicken-congee-1.jpg)
+
+_Version 1 of Vietnamese Chicken Congee._
 
 ---
 

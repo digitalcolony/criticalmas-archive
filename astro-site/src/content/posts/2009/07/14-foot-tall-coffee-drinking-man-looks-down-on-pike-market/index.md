@@ -9,13 +9,25 @@ description: "Last week, I went down to Pike Market to see the new 14 foot Coffe
 commentCount: 5
 ---
 
-Last week, I went down to Pike Market to see the new 14 foot _Coffee Drinking Man_ sign raised over the new Seattle Coffee Works location. I didn't hang around long enough to see it installed, so I went down today to check it out. ![](http://farm3.static.flickr.com/2635/3740620251_4947470c20.jpg "coffee drinking guy gets ready") _Coffee Drinking Man on July 14th._ ![](http://farm3.static.flickr.com/2448/3741413036_2d28d767c2.jpg "Coffee Drinking Man") _Coffee Drinking Man today._
+Last week, I went down to Pike Market to see the new 14 foot _Coffee Drinking Man_ sign raised over the new Seattle Coffee Works location. I didn't hang around long enough to see it installed, so I went down today to check it out.
+
+![](http://farm3.static.flickr.com/2635/3740620251_4947470c20.jpg "coffee drinking guy gets ready")
+
+_Coffee Drinking Man on July 14th._
+
+![](http://farm3.static.flickr.com/2448/3741413036_2d28d767c2.jpg "Coffee Drinking Man")
+
+_Coffee Drinking Man today._
 
 ![seattle-coffee-works-guy](./img/seattle-coffee-works-guy.jpg "seattle-coffee-works-guy")
 
 _Before the move, the Coffee Drinking Man was on the sidewalk._
 
-_Sources:_ [Seattle Coffee Works - Downtown Seattle](/2009/05/seattle-coffee-works-downtown-seattle/) - Coffee Hero post introducing Seattle Coffee Works. Seattle Coffee Works - Independent coffee shop and roaster at 107 Pike Street.
+_Sources:_
+
+[Seattle Coffee Works - Downtown Seattle](/2009/05/seattle-coffee-works-downtown-seattle/) - Coffee Hero post introducing Seattle Coffee Works.
+
+Seattle Coffee Works - Independent coffee shop and roaster at 107 Pike Street.
 
 ---
 

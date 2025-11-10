@@ -9,7 +9,11 @@ description: "Today I wrapped up a two-week free trial gym membership in a downt
 commentCount: 2
 ---
 
-Today I wrapped up a two-week free trial gym membership in a downtown Seattle gym. This gym has some great equipment, but I've never seen a place that does a worse job racking the weights. Weights are thrown on the floor. Small plates on top of large plates. Someone will get injured tripping over something in that gym. In addition to the progress I made on the [bench press](/2009/10/tall-guys-and-the-bench-press-solution/), I set a new personal record on the one-arm dumbbell row. I've been stuck at 105 pounds for over a year because my Queen Anne Glitter Gym only has dumbbells up to [105 pounds](/2008/11/tales-from-the-glitter-gym-the-105-pound-dumbbells/). The downtown Glitter Gym has dumbbells that go up to 120 pounds. Today I did 3 solid reps at 120 for each arm. _Yeah, Buddy!_ Where will I go next? It looks like Ballard. I got a flyer offering me a 2 week pass to a Glitter Gym there. I wonder how long I can keep this game going.
+Today I wrapped up a two-week free trial gym membership in a downtown Seattle gym. This gym has some great equipment, but I've never seen a place that does a worse job racking the weights. Weights are thrown on the floor. Small plates on top of large plates. Someone will get injured tripping over something in that gym.
+
+In addition to the progress I made on the [bench press](/2009/10/tall-guys-and-the-bench-press-solution/), I set a new personal record on the one-arm dumbbell row. I've been stuck at 105 pounds for over a year because my Queen Anne Glitter Gym only has dumbbells up to [105 pounds](/2008/11/tales-from-the-glitter-gym-the-105-pound-dumbbells/). The downtown Glitter Gym has dumbbells that go up to 120 pounds. Today I did 3 solid reps at 120 for each arm. _Yeah, Buddy!_
+
+Where will I go next? It looks like Ballard. I got a flyer offering me a 2 week pass to a Glitter Gym there. I wonder how long I can keep this game going.
 
 ---
 

@@ -11,7 +11,9 @@ commentCount: 13
 
 > UPDATE: The Potato Hack Diet by Tim Steele is now for sale on Amazon. It will answer all your questions. I highly recommend this book if you are interested in learning more about the Potato Diet.
 
-In [week 1](/2015/11/potato-diet-week-1-results-and-observations/), I lost 3 pounds and 0.5 inch. In week 2, I lost 1.5 pounds and 0.25 inch. Losing 4.5 pounds in two weeks without hunger is pretty cool. Before I head into week 3, I revisited [The Potato Diet](https://vegetablepharm.blogspot.com/p/the-potato-diet_14.html) page to see if I could pick up a tip to guide me back to a weekly 3-pound loss.
+In [week 1](/2015/11/potato-diet-week-1-results-and-observations/), I lost 3 pounds and 0.5 inch. In week 2, I lost 1.5 pounds and 0.25 inch.
+
+Losing 4.5 pounds in two weeks without hunger is pretty cool. Before I head into week 3, I revisited [The Potato Diet](https://vegetablepharm.blogspot.com/p/the-potato-diet_14.html) page to see if I could pick up a tip to guide me back to a weekly 3-pound loss.
 
 > 7\. Skipping breakfast encouraged, eat twice a day, minimal snacking
 
@@ -21,7 +23,13 @@ I'm haven't been doing Intermittent Fasting (IF) in the past two weeks. I covere
 ### ¡Una papa en la mañana!
 
 
-In week 3, I will cut back on my morning potatoes. I'll have one prior to my first cup of coffee to combat stress hormones and prevent "the crash" I now feel when I have coffee on an empty stomach. One potato is the next best thing to zero potatoes. I'll keep you posted. And due to a social commitment, I moved the Week 3 Potato Diet up one day to SUNDAY, MONDAY, TUESDAY. ![potato](./img/potato.jpg) _[Photo](https://flic.kr/p/a2kfkG) by JaBB_
+In week 3, I will cut back on my morning potatoes. I'll have one prior to my first cup of coffee to combat stress hormones and prevent "the crash" I now feel when I have coffee on an empty stomach. One potato is the next best thing to zero potatoes.
+
+I'll keep you posted. And due to a social commitment, I moved the Week 3 Potato Diet up one day to SUNDAY, MONDAY, TUESDAY.
+
+![potato](./img/potato.jpg)
+
+_[Photo](https://flic.kr/p/a2kfkG) by JaBB_
 
 ---
 

@@ -9,7 +9,9 @@ description: "I am not in the mood to blog. I haven't been in a while. I feel li
 commentCount: 25
 ---
 
-I am not in the mood to blog. I haven't been in a while. I feel like destroying. There is too much noise. There are times when I don't want to add to the discussion. I want to pull away and reassess. This is one of those times. I am reminded of a line from the great movie 8 1/2:
+I am not in the mood to blog. I haven't been in a while. I feel like destroying. There is too much noise. There are times when I don't want to add to the discussion. I want to pull away and reassess. This is one of those times.
+
+I am reminded of a line from the great movie 8 1/2:
 
 > Destroying is better than creating when we're not creating those few, truly necessary things.
 
@@ -19,13 +21,25 @@ I am not in the mood to blog. I haven't been in a while. I feel like destroying.
 ### INeedCoffee
 
 
-When 2014 started my [coffee site](https://ineedcoffee.com) was a mess. 15 years of content. Some of it is great. Some of it is awful. Navigation was difficult and the site was spread so thin that it lacked focus. Instead of adding more content to make it better, I took the opposite approach. I deleted about 200 articles that were either low quality or didn't match what I felt the mission of the website should be, which is primarily to educate the home coffee drinker to make better coffee. I moved the site off my hand-written Content Management System and over to WordPress, making sure every link, image and redirect displayed properly. Then I spun off all the agricultural articles to their [own website](https://ecofriendlycoffee.org/). These long technical articles have tremendous value, but not to the core audience of INeedCoffee. They deserved their own home. After those steps were taken, I selectively rewrote several tutorials and added new professional photos. Then a new tablet and mobile-friendly design were launched along with a link to a [Coffee Brewing Guide](https://ineedcoffee.com/coffee-brewing-guide/) anchored to the top of every page. Now the site has a focus, quality tutorials, and better navigation. I still have more work to do on the site, including more rewrites, but for the first time in more than a decade, I'm proud of INeedCoffee.
+When 2014 started my [coffee site](https://ineedcoffee.com) was a mess. 15 years of content. Some of it is great. Some of it is awful. Navigation was difficult and the site was spread so thin that it lacked focus. Instead of adding more content to make it better, I took the opposite approach. I deleted about 200 articles that were either low quality or didn't match what I felt the mission of the website should be, which is primarily to educate the home coffee drinker to make better coffee.
+
+I moved the site off my hand-written Content Management System and over to WordPress, making sure every link, image and redirect displayed properly.
+
+Then I spun off all the agricultural articles to their [own website](https://ecofriendlycoffee.org/). These long technical articles have tremendous value, but not to the core audience of INeedCoffee. They deserved their own home.
+
+After those steps were taken, I selectively rewrote several tutorials and added new professional photos. Then a new tablet and mobile-friendly design were launched along with a link to a [Coffee Brewing Guide](https://ineedcoffee.com/coffee-brewing-guide/) anchored to the top of every page. Now the site has a focus, quality tutorials, and better navigation. I still have more work to do on the site, including more rewrites, but for the first time in more than a decade, I'm proud of INeedCoffee.
 
 
 ### CriticalMAS
 
 
-Here on this blog, my vision is less clear. Although I once destroyed over 1,000 blog posts for an earlier version of this website (2000-2004), I don't have plans to do that again\*. Just not sure what direction this site should take. Topics that used to excite me, don't anymore. My need to share has never been weaker. Someone asked me recently why I was interested in nutrition and I couldn't answer the question. You'd think that after the past 7 years of blogging about it that I'd be able to come up with a good response, but I couldn't. Maybe I am still reading about nutrition for the same reason I still skim financial news, which is I am hoping some new information will surface that will rekindle an interest that has faded. I'll be taking a hiatus from this blog, while I try to figure out some of these questions. If you have any thoughts, leave a comment. I need guidance. _**UPDATE January 2015:** I ended up removing about 750 posts._
+Here on this blog, my vision is less clear. Although I once destroyed over 1,000 blog posts for an earlier version of this website (2000-2004), I don't have plans to do that again\*. Just not sure what direction this site should take. Topics that used to excite me, don't anymore. My need to share has never been weaker.
+
+Someone asked me recently why I was interested in nutrition and I couldn't answer the question. You'd think that after the past 7 years of blogging about it that I'd be able to come up with a good response, but I couldn't. Maybe I am still reading about nutrition for the same reason I still skim financial news, which is I am hoping some new information will surface that will rekindle an interest that has faded.
+
+I'll be taking a hiatus from this blog, while I try to figure out some of these questions. If you have any thoughts, leave a comment. I need guidance.
+
+_**UPDATE January 2015:** I ended up removing about 750 posts._
 
 ---
 

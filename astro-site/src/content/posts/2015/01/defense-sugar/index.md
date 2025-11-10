@@ -9,27 +9,49 @@ description: "I used to be like you. I used to think sugar was awful, even toxic
 commentCount: 10
 ---
 
-I used to be like you. I used to think sugar was awful, even toxic. I avoided it as much as possible. My diet was squeaky clean. I was super lean and I thought I had it all figured out. Then I kept losing weight. My face looked haggard. My hands were always cold. It was rare for me to get solid deep sleep. I was concerned. I needed a food to reverse my continuing weight loss. I needed a food to stimulate my appetite. Yet I wanted to eat clean or as clean as possible. So I put on my researcher hat and came up with the food to save me and it was sugar. More specifically ice cream. I detailed that decision in the post [Why Ice Cream is Better Than Protein Powder](/2012/07/why-ice-cream-is-better-than-protein-powder/).
+I used to be like you. I used to think sugar was awful, even toxic. I avoided it as much as possible. My diet was squeaky clean. I was super lean and I thought I had it all figured out. Then I kept losing weight. My face looked haggard. My hands were always cold. It was rare for me to get solid deep sleep.
+
+I was concerned. I needed a food to reverse my continuing weight loss. I needed a food to stimulate my appetite. Yet I wanted to eat clean or as clean as possible. So I put on my researcher hat and came up with the food to save me and it was sugar. More specifically ice cream. I detailed that decision in the post [Why Ice Cream is Better Than Protein Powder](/2012/07/why-ice-cream-is-better-than-protein-powder/).
 
 
 ### Sugar to the Rescue
 
 
-With ice cream, I was able to reverse my underweight condition and gain more muscle. My body temperature went up and my sleep improved. For over a decade I was plagued with headaches that would wake me up at 3 AM. Not anymore. But how? Sugar lowers stress hormones. When stress hormones are reduced, sleep is improved. And when your sleep is better, so many aspects of health improve. It is easier to gain muscle, fight off infections, plus mental health benefits. A year ago I shared a tip I learned from Matt Stone about how to use a combination of sugar and salt to get back to sleep quickly for those of us that wake too soon. It is a life-changer. Read [An Amazing "Back to Sleep" Hack](/2014/01/amazing-back-sleep-hack/) for details. Others are using honey before bed to get to sleep. Marcelo posted [this comment](/2014/01/amazing-back-sleep-hack/#comment-22181) about his experience:
+With ice cream, I was able to reverse my underweight condition and gain more muscle. My body temperature went up and my sleep improved. For over a decade I was plagued with headaches that would wake me up at 3 AM. Not anymore. But how?
 
-> It was about 2 weeks until i discovered the cause. Stress hormones were a river on my body! I was living on cortisol and adrenaline, because this i could be very active during the day, even with 3 hours of sleep a day! But i was felling crap at night. Then i searched the web to solve this problem, i saw that people often with “high metabolism”, easy stressed, should not be on a regimen that stresses they body: IF + next to zero carb + heavy exercises everyday. Of course! What i did, to experiment (saw on paleo hacks forum): continued with paleo, but, every night, an hour before bed, ate 5 tablespoons of honey, straight of the spoon. WORKED LIKE A MAGIC!!! Slept well first time in almost 3 weeks sleep deprived!
+Sugar lowers stress hormones. When stress hormones are reduced, sleep is improved. And when your sleep is better, so many aspects of health improve. It is easier to gain muscle, fight off infections, plus mental health benefits.
+
+A year ago I shared a tip I learned from Matt Stone about how to use a combination of sugar and salt to get back to sleep quickly for those of us that wake too soon. It is a life-changer. Read [An Amazing "Back to Sleep" Hack](/2014/01/amazing-back-sleep-hack/) for details.
+
+Others are using honey before bed to get to sleep. Marcelo posted [this comment](/2014/01/amazing-back-sleep-hack/#comment-22181) about his experience:
+
+> It was about 2 weeks until i discovered the cause. Stress hormones were a river on my body! I was living on cortisol and adrenaline, because this i could be very active during the day, even with 3 hours of sleep a day! But i was felling crap at night. Then i searched the web to solve this problem, i saw that people often with “high metabolism”, easy stressed, should not be on a regimen that stresses they body: IF + next to zero carb + heavy exercises everyday. Of course!
+> 
+> What i did, to experiment (saw on paleo hacks forum): continued with paleo, but, every night, an hour before bed, ate 5 tablespoons of honey, straight of the spoon. WORKED LIKE A MAGIC!!! Slept well first time in almost 3 weeks sleep deprived!
 
 
 ### The Real Problem With Sugar
 
 
-It is really easy to over-consume foods with sugar. And too many calories, regardless of their source, can lead to weight gain. Many of the foods rich in sugar are engineered for us to eat past satiety. The book _The End of Overeating_ dives deep into this story. Besides eating too many calories, the calories we consume in sugar can also displace more nutrient-dense calories. So the key to using sugar strategically would be to have just enough to address the stress hormones and for extra energy if you are active. Once those needs are met, sugar is no longer a benefit. That is where the story ended in my mind until 5 days ago. Then _FreeTheAnimal_ posted [The Hormesis Files: Who’s Afraid of Unrefined Sugar?](https://web.archive.org/web/20160628135313/http://freetheanimal.com/2015/01/hormesis-afraid-unrefined.html) This is an awesome post that explores nutrient-rich sources of sugar such as sugarcane and honey. ![honey](./img/9603147917_9bff534c5e_z.jpg) _[Photo](https://flic.kr/p/fCADiP) by mbeo_
+It is really easy to over-consume foods with sugar. And too many calories, regardless of their source, can lead to weight gain. Many of the foods rich in sugar are engineered for us to eat past satiety. The book _The End of Overeating_ dives deep into this story.
+
+Besides eating too many calories, the calories we consume in sugar can also displace more nutrient-dense calories. So the key to using sugar strategically would be to have just enough to address the stress hormones and for extra energy if you are active. Once those needs are met, sugar is no longer a benefit.
+
+That is where the story ended in my mind until 5 days ago. Then _FreeTheAnimal_ posted [The Hormesis Files: Who’s Afraid of Unrefined Sugar?](https://web.archive.org/web/20160628135313/http://freetheanimal.com/2015/01/hormesis-afraid-unrefined.html) This is an awesome post that explores nutrient-rich sources of sugar such as sugarcane and honey.
+
+![honey](./img/9603147917_9bff534c5e_z.jpg)
+
+_[Photo](https://flic.kr/p/fCADiP) by mbeo_
 
 
 ### Sugar as a Superfood
 
 
-The FTA post goes into great detail about the nutritional benefits of real food sugar. Real food sugar is loaded with vitamins and minerals. This post has me excited. I have been on Team Sugar since 2012, but I always knew there was a risk if I consumed more sugar than I needed to address stress hormones. Those empty calories could add up and displace nutrients. Yesterday I purchased a locally produced real honey. I'm really late to the party on this one, but when I was a kid, honey came in a little plastic jar that looked like a bear, which it turns out isn't really honey. And it didn't taste that great, so I never bought honey. Well, the honey I got yesterday was outstanding. My new sugar plan is to use real honey more often in place of processed sugar. This seems like a win-win. Get all the benefits that sugar provides for reducing stress hormones and get it with a naturally nutrient-dense food.
+The FTA post goes into great detail about the nutritional benefits of real food sugar. Real food sugar is loaded with vitamins and minerals. This post has me excited. I have been on Team Sugar since 2012, but I always knew there was a risk if I consumed more sugar than I needed to address stress hormones. Those empty calories could add up and displace nutrients.
+
+Yesterday I purchased a locally produced real honey. I'm really late to the party on this one, but when I was a kid, honey came in a little plastic jar that looked like a bear, which it turns out isn't really honey. And it didn't taste that great, so I never bought honey. Well, the honey I got yesterday was outstanding.
+
+My new sugar plan is to use real honey more often in place of processed sugar. This seems like a win-win. Get all the benefits that sugar provides for reducing stress hormones and get it with a naturally nutrient-dense food.
 
 ---
 

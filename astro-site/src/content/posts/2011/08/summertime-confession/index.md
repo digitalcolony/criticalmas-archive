@@ -9,7 +9,9 @@ description: "The photo below is me at 18 months. If you look behind my head, yo
 commentCount: 4
 ---
 
-The photo below is me at 18 months. If you look behind my head, you can see a mailbox. A few summers later me and some neighbor kids would put handfuls of gravel into it. I think we did everyday for a week. Then the post office removed the mailbox from our street. I wonder if the adults ever knew the reason why. :) ![MAS at Pool](./img/mas_18months_pool-500.jpg "MAS at Pool")
+The photo below is me at 18 months. If you look behind my head, you can see a mailbox. A few summers later me and some neighbor kids would put handfuls of gravel into it. I think we did everyday for a week. Then the post office removed the mailbox from our street. I wonder if the adults ever knew the reason why. :)
+
+![MAS at Pool](./img/mas_18months_pool-500.jpg "MAS at Pool")
 
 ---
 

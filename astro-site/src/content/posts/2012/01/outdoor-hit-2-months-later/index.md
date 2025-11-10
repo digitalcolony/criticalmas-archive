@@ -9,7 +9,15 @@ description: "I thought I would post a 2 month progress report on my outdoor Hig
 commentCount: 7
 ---
 
-I thought I would post a 2 month progress report on my outdoor High Intensity Training program. I outlined my playground workout in the post [Escaping the Glitter: Taking High Intensity Training Outdoors](/2011/11/escaping-the-glitter-taking-high-intensity-training-outdoors/). Since November I have been averaging one workout every 7-9 days. I am pleased with my consistency. The Seattle winter hasn't discouraged me. All I need is a brief pocket of decent weather to get to the gym. I also found another playground even closer to my home. I used it once during the winter school break. It wasn't perfect, as the jungle gym used thick bars, which isn't ideal for doing chin-ups, as it puts the stress more on the forearms than the back. ![Pullup](http://farm5.staticflickr.com/4075/4790536660_2173ee6587.jpg "Pullup") _[Photo](http://www.flickr.com/photos/marine_corps/4790536660/in/photostream/) by USMC_ This might be a question for Aaron at [Aspen Paleo](https://aspenpaleo.blogspot.com/), but I experienced very tight muscle knots in the shoulder following a few of my workouts. I never got those in the Glitter Gym. Could a lower outdoor temperature be the cause? Or maybe it has something to do with the static hold finish? Maybe I need a longer warm up period?
+I thought I would post a 2 month progress report on my outdoor High Intensity Training program. I outlined my playground workout in the post [Escaping the Glitter: Taking High Intensity Training Outdoors](/2011/11/escaping-the-glitter-taking-high-intensity-training-outdoors/). Since November I have been averaging one workout every 7-9 days.
+
+I am pleased with my consistency. The Seattle winter hasn't discouraged me. All I need is a brief pocket of decent weather to get to the gym. I also found another playground even closer to my home. I used it once during the winter school break. It wasn't perfect, as the jungle gym used thick bars, which isn't ideal for doing chin-ups, as it puts the stress more on the forearms than the back.
+
+![Pullup](http://farm5.staticflickr.com/4075/4790536660_2173ee6587.jpg "Pullup")
+
+_[Photo](http://www.flickr.com/photos/marine_corps/4790536660/in/photostream/) by USMC_
+
+This might be a question for Aaron at [Aspen Paleo](https://aspenpaleo.blogspot.com/), but I experienced very tight muscle knots in the shoulder following a few of my workouts. I never got those in the Glitter Gym. Could a lower outdoor temperature be the cause? Or maybe it has something to do with the static hold finish? Maybe I need a longer warm up period?
 
 
 ### Glitter Tune Up

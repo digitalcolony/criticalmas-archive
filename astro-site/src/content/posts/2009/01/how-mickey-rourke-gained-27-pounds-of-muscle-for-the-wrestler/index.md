@@ -9,15 +9,35 @@ description: "If you like this post, be sure to check out How Tim Ferriss REALLY
 commentCount: 21
 ---
 
-_If you like this post, be sure to check out [How Tim Ferriss REALLY Gained 34 pounds of Muscle in 28 Days](/2011/01/how-tim-ferriss-really-gained-34-pounds-of-muscle-in-28-days/)._ I was reading this morning how actor Mickey Rourke made massive muscular gains by training real hard for his role in the new movie _The Wrestler_. Mickey is quoted in an article that appears in [The Sun](http://web.archive.org/web/20150923130511/http://www.thesun.co.uk/sol/homepage/showbiz/film/article2103893.ece):
+_If you like this post, be sure to check out [How Tim Ferriss REALLY Gained 34 pounds of Muscle in 28 Days](/2011/01/how-tim-ferriss-really-gained-34-pounds-of-muscle-in-28-days/)._
 
-> I had to do seven and a half months of extensive weightlifting, and eating six or seven meals a day, to put on 27 pounds of muscle. Thats not a lot of time so I had this ex-soldier who was very strict with me about my training regime and my diet.
+I was reading this morning how actor Mickey Rourke made massive muscular gains by training real hard for his role in the new movie _The Wrestler_. Mickey is quoted in an article that appears in [The Sun](http://web.archive.org/web/20150923130511/http://www.thesun.co.uk/sol/homepage/showbiz/film/article2103893.ece):
 
-First of all, I applaud the gains Mickey Rourke achieved in such a short time. However, this number is highly misleading. According to the article Rourke is 52. According to Wikipedia he is 56. **Chain-smoking, booze loving fifty year old men do not gain 27 pounds of muscle in months.** Other than steroids and growth hormone, the only way to make those amazing muscle gains in such a short time would be to have gained the muscle earlier in life. Then let yourself get out of shape only to then regain the muscle later. Have you ever seen an ad in a muscle magazine where the man gains massive amounts of muscle in weeks using some supplement? There are lots of tricks used in those photo shoots, but the best trick is use some out of shape dude who gained lots of muscle back in high school and college. The guy restarts his training and the muscles respond by returning to where they once were in a short period of time. From the _Journal of Applied Physiology_ article [Strength and skeletal muscle adaptations in heavy-resistance-trained women after detraining and retraining](https://web.archive.org/web/20090816181705/http://jap.physiology.org:80/cgi/content/abstract/70/2/631?):
+> I had to do seven and a half months of extensive weightlifting, and eating six or seven meals a day, to put on 27 pounds of muscle.
+> 
+> Thats not a lot of time so I had this ex-soldier who was very strict with me about my training regime and my diet.
+
+First of all, I applaud the gains Mickey Rourke achieved in such a short time. However, this number is highly misleading. According to the article Rourke is 52. According to Wikipedia he is 56. **Chain-smoking, booze loving fifty year old men do not gain 27 pounds of muscle in months.**
+
+Other than steroids and growth hormone, the only way to make those amazing muscle gains in such a short time would be to have gained the muscle earlier in life. Then let yourself get out of shape only to then regain the muscle later.
+
+Have you ever seen an ad in a muscle magazine where the man gains massive amounts of muscle in weeks using some supplement? There are lots of tricks used in those photo shoots, but the best trick is use some out of shape dude who gained lots of muscle back in high school and college. The guy restarts his training and the muscles respond by returning to where they once were in a short period of time. From the _Journal of Applied Physiology_ article [Strength and skeletal muscle adaptations in heavy-resistance-trained women after detraining and retraining](https://web.archive.org/web/20090816181705/http://jap.physiology.org:80/cgi/content/abstract/70/2/631?):
 
 > ...data suggest that rapid muscular adaptations occur as a result of **strength training** in previously trained as well as non-previously trained women. Some adaptations (fiber area and maximal dynamic strength) **may be retained for long periods during detraining and may contribute to a rapid return to "competitive" form**.
 
-I'm certain that Rourke gained the muscle earlier in life, so I did a little digging. Sure enough I was reminded in the [Wikipedia](https://en.wikipedia.org/wiki/Mickey_Rourke) how Rourke used to be a [boxer](https://web.archive.org/web/20190817052133/https://boxrec.com/media/index.php/Mickey_Rourke). Of course. **The easiest way to gain muscle fast, is have already gained it years before.** **![mickey-rourke-boxer](./img/mickey-rourke-boxer.jpg "mickey-rourke-boxer") **The greatest piece of advice I regret never taking came from my basketball coach Mike. I was in the 8th and 9th grade and I believe Coach Mike was in his early 30s. Coach Mike had started weight training and was having trouble making the gains he wanted. He told me to lift weights while I was still young. He wanted me to lift in high school and college. Sadly, I didn't. I wouldn't start lifting weights until I was 24. ![mas-basketball-team](./img/mas-basketball-team.jpg) _Coach Mike (back left), MAS (back right)_ When I was 12 years old, I played video games. Mickey Rourke started boxing at that age. Let me repeat the advice of Coach Mike. **Young men need to lift weights.** So how did Mickey Rourke gain 27 pounds of muscle in 7 months? He didn't. He gained it in his youth as a weight class boxer following a tough training and dietary regiment. He rediscovered it in his 50s. Weight training is like compound interest. The more early deposits you make in life, the more gains you will have later. Congratulations Mickey!
+I'm certain that Rourke gained the muscle earlier in life, so I did a little digging. Sure enough I was reminded in the [Wikipedia](https://en.wikipedia.org/wiki/Mickey_Rourke) how Rourke used to be a [boxer](https://web.archive.org/web/20190817052133/https://boxrec.com/media/index.php/Mickey_Rourke). Of course. **The easiest way to gain muscle fast, is have already gained it years before.**
+
+**![mickey-rourke-boxer](./img/mickey-rourke-boxer.jpg "mickey-rourke-boxer")**
+
+The greatest piece of advice I regret never taking came from my basketball coach Mike. I was in the 8th and 9th grade and I believe Coach Mike was in his early 30s. Coach Mike had started weight training and was having trouble making the gains he wanted. He told me to lift weights while I was still young. He wanted me to lift in high school and college. Sadly, I didn't. I wouldn't start lifting weights until I was 24.
+
+![mas-basketball-team](./img/mas-basketball-team.jpg)
+
+_Coach Mike (back left), MAS (back right)_
+
+When I was 12 years old, I played video games. Mickey Rourke started boxing at that age. Let me repeat the advice of Coach Mike. **Young men need to lift weights.**
+
+So how did Mickey Rourke gain 27 pounds of muscle in 7 months? He didn't. He gained it in his youth as a weight class boxer following a tough training and dietary regiment. He rediscovered it in his 50s. Weight training is like compound interest. The more early deposits you make in life, the more gains you will have later. Congratulations Mickey!
 
 ---
 

@@ -9,7 +9,9 @@ description: "I recently was asked for advice to get started on eating healthy. 
 commentCount: 3
 ---
 
-I recently was asked for advice to get started on eating healthy. Both people who wanted help had no experience cooking, but each had a desire to improve their diet. Although there are lots of resources on learning how to cook, I have a problem with most as they often assume too much from their audience or have too much complexity. For the past week, I have thought about how I would get someone started down the path of cooking healthy meals with the **least chance of failure**. To be successful, the advice would have met the following criteria:
+I recently was asked for advice to get started on eating healthy. Both people who wanted help had no experience cooking, but each had a desire to improve their diet. Although there are lots of resources on learning how to cook, I have a problem with most as they often assume too much from their audience or have too much complexity.
+
+For the past week, I have thought about how I would get someone started down the path of cooking healthy meals with the **least chance of failure**. To be successful, the advice would have met the following criteria:
 
 1.  Don't assume the person already has skills in the kitchen. Years ago when I would flip through recipe books, I'd skip to the next page as soon I ran across a concept that was critical to the recipe that I didn't understand.
 2.  Don't assume the person has a lot of kitchen gear.
@@ -23,7 +25,11 @@ The Laziest Way To Eat Healthily is to **get a slow cooker** (aka The Crock-Pot)
 4.  Turn on and walk away.
 5.  Come back hours later and your food is done.
 
-That is it. **You can't screw it up.** There are countless recipes out there to provide ideas. My favorite slow cooker meal is a lamb stew with onions, carrots, garlic, and a few Thai peppers. If you get a large enough slow cooker, you will not only have made one great meal but have enough leftovers for a few servings. You can even freeze your leftovers. The slow cooker works while you sleep or while you're at work. Your only time commitment is chopping up the ingredients. If every non-cooker in America started eating 3 slow cooker meals a week, they would not only be on a healthier path, but they would save money as well. ![Hamilton Beach 33162H Stay-or-Go 6-Quart Stainless-Steel Slow Cooker](https://images-na.ssl-images-amazon.com/images/I/413WKn3%2BBtL.jpg)
+That is it. **You can't screw it up.** There are countless recipes out there to provide ideas. My favorite slow cooker meal is a lamb stew with onions, carrots, garlic, and a few Thai peppers. If you get a large enough slow cooker, you will not only have made one great meal but have enough leftovers for a few servings. You can even freeze your leftovers.
+
+The slow cooker works while you sleep or while you're at work. Your only time commitment is chopping up the ingredients. If every non-cooker in America started eating 3 slow cooker meals a week, they would not only be on a healthier path, but they would save money as well.
+
+![Hamilton Beach 33162H Stay-or-Go 6-Quart Stainless-Steel Slow Cooker](https://images-na.ssl-images-amazon.com/images/I/413WKn3%2BBtL.jpg)
 
 ---
 

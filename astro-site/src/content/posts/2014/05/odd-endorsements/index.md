@@ -15,13 +15,23 @@ There are two signs in my Seattle neighborhood of Ballard that are puzzling to m
 ### #1 Bop Street Records
 
 
-This record store proudly displays a sign in the front window stating "One of the five best music stores in America" as proclaimed by The Wall Street Journal. The WSJ? What does the Wall Street Journal know about music? It is is business newspaper. If the WSJ ranked municipal bond debt offerings, that would make sense. But music stores? And aren't record stores suppose to be cool and hip? Is there anything less cool that saying Rupert Murdoch likes us a lot? ![record-store-wsj](./img/record-store-wsj.jpg)
+This record store proudly displays a sign in the front window stating "One of the five best music stores in America" as proclaimed by The Wall Street Journal. The WSJ? What does the Wall Street Journal know about music? It is is business newspaper. If the WSJ ranked municipal bond debt offerings, that would make sense. But music stores?
+
+And aren't record stores suppose to be cool and hip? Is there anything less cool that saying Rupert Murdoch likes us a lot?
+
+![record-store-wsj](./img/record-store-wsj.jpg)
 
 
 ### #2 Red Mill Totem House
 
 
-For what seems like forever the Red Mill has proudly been displaying the endorsement they got from GQ magazine that they were voted Best Onion Rings. What is GQ doing reviewing onion rings? It is a fashion magazine. I haven't ate an onion ring since the 1990s, but I don't recall much difference between the ones I did try. You slice onions into rings and then deep fry them in toxic vegetable oil. If you eat them too fast, you burn the hell out of your mouth. If you let them cool too much, they taste gross. Stupid food if you ask me. This sign isn't as bad as the record store endorsement, because it is at least advertising a menu item.  But why is a local fast food place advertising GQ magazine on their signage? They aren't GQ customers. A better sign would simply read: OUR ONION RINGS ARE AWESOME!!! Do you think a single person would question that? "I don't know, they say their onion rings are awesome, but I'm skeptical. What does GQ Magazine think?" ![onion-rings-gq](./img/onion-rings-gq.jpg)
+For what seems like forever the Red Mill has proudly been displaying the endorsement they got from GQ magazine that they were voted Best Onion Rings. What is GQ doing reviewing onion rings? It is a fashion magazine.
+
+I haven't ate an onion ring since the 1990s, but I don't recall much difference between the ones I did try. You slice onions into rings and then deep fry them in toxic vegetable oil. If you eat them too fast, you burn the hell out of your mouth. If you let them cool too much, they taste gross. Stupid food if you ask me.
+
+This sign isn't as bad as the record store endorsement, because it is at least advertising a menu item.  But why is a local fast food place advertising GQ magazine on their signage? They aren't GQ customers. A better sign would simply read: OUR ONION RINGS ARE AWESOME!!! Do you think a single person would question that? "I don't know, they say their onion rings are awesome, but I'm skeptical. What does GQ Magazine think?"
+
+![onion-rings-gq](./img/onion-rings-gq.jpg)
 
 ---
 

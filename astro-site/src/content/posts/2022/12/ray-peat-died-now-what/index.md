@@ -9,13 +9,23 @@ description: "Recently, nutritional pioneer Ray Peat died at the age of 86. I ha
 commentCount: 9
 ---
 
-Recently, nutritional pioneer Ray Peat died at the age of 86. I have several posts on this blog that reference his work. I'm not a strict follower, but I have borrowed some of his ideas. This post will not be about Ray's contribution to our understanding of nutrition. It will be about preserving the digital legacy of someone that has passed away.
+Recently, nutritional pioneer Ray Peat died at the age of 86. I have several posts on this blog that reference his work. I'm not a strict follower, but I have borrowed some of his ideas.
+
+This post will not be about Ray's contribution to our understanding of nutrition. It will be about preserving the digital legacy of someone that has passed away.
 
 
 ### Dead Men Can't Pay For Web Hosting
 
 
-When I heard that Ray had passed away, my first thought was what was to become of his website. Ray did a great job with his site. He published his articles and he left them alone. Unlike so many in the nutritional space, he kept his site going, and he didn't move links. I run a broken link checker on this site and I've never once had to fix a broken link to RayPeat.com. I hope Ray has an assigned backup for his domain registration and if so, I hope they maintain his website. But I am doubtful. Many of his most popular followers have demonstrated the inability to keep their own websites up and running. See my 2017 post titled [The Digital Graveyard of My Health and Fitness Mentors](/2017/03/digital-graveyard-health-fitness-mentors/) for examples. Whois hides the registrar information for RayPeat.com, but it does say the domain is expiring on March 1, 2023. If it is not renewed, bots are far more likely to capture the domain faster than a fan the second it becomes available. If that happens, all of Ray's writing will be taken down and replaced with spammy affiliate links. There are thousands of inbound links to RayPeat.com. That makes it worth the effort to capture the domain. ![raypeat.com](./img/raypeat-dom.jpg) _Screenshot of RayPeat.com_
+When I heard that Ray had passed away, my first thought was what was to become of his website. Ray did a great job with his site. He published his articles and he left them alone. Unlike so many in the nutritional space, he kept his site going, and he didn't move links. I run a broken link checker on this site and I've never once had to fix a broken link to RayPeat.com.
+
+I hope Ray has an assigned backup for his domain registration and if so, I hope they maintain his website. But I am doubtful. Many of his most popular followers have demonstrated the inability to keep their own websites up and running. See my 2017 post titled [The Digital Graveyard of My Health and Fitness Mentors](/2017/03/digital-graveyard-health-fitness-mentors/) for examples.
+
+Whois hides the registrar information for RayPeat.com, but it does say the domain is expiring on March 1, 2023. If it is not renewed, bots are far more likely to capture the domain faster than a fan the second it becomes available. If that happens, all of Ray's writing will be taken down and replaced with spammy affiliate links. There are thousands of inbound links to RayPeat.com. That makes it worth the effort to capture the domain.
+
+![raypeat.com](./img/raypeat-dom.jpg)
+
+_Screenshot of RayPeat.com_
 
 
 ### My Story
@@ -39,7 +49,15 @@ I hope I'm wrong and someone out there continues to renew the registrar and host
 4.  Once the repo is set up, use the GitPages feature in the repo to create a free website.
 5.  If RayPeat.com is lost, buy a new domain. I bought NeilRogers.org when NeilRogers.com was lost. Map the domain to the GitPages and then set the payment to the registrar to auto-renew annually.
 
-The good news is the effort to save Ray's content is far less than the work I had to do to save thousands of hours of audio. All of RayPeat.com could be saved in a weekend, but the clock is ticking. Some might argue that the Wayback Machine on Archive has snapshot copies of RayPeat.com, so all my outlined steps are unnecessary. That is true today, but not necessarily true in the future. I love the Wayback Machine and have even donated money to them, but whoever owns a domain can request that their domain be removed from their search results. This means if someone that doesn't care about Ray's work acquires the domain, they can have the domain scrubbed from the Wayback Machine. I briefly poked around the Ray Peat Forums and Reddit page. I didn't see anyone mention preserving his website. I hope I missed the post and someone has already taken a leadership role. Please leave a comment if you are that person or if you need my assistance. I expect I will have to update some broken links to Ray's site next year. **UPDATE August 2023:** Stef B alerted me that there is now a [mirror for all Ray Peat's articles](https://expulsia.com/health/peat-index).
+The good news is the effort to save Ray's content is far less than the work I had to do to save thousands of hours of audio. All of RayPeat.com could be saved in a weekend, but the clock is ticking.
+
+Some might argue that the Wayback Machine on Archive has snapshot copies of RayPeat.com, so all my outlined steps are unnecessary. That is true today, but not necessarily true in the future.
+
+I love the Wayback Machine and have even donated money to them, but whoever owns a domain can request that their domain be removed from their search results. This means if someone that doesn't care about Ray's work acquires the domain, they can have the domain scrubbed from the Wayback Machine.
+
+I briefly poked around the Ray Peat Forums and Reddit page. I didn't see anyone mention preserving his website. I hope I missed the post and someone has already taken a leadership role. Please leave a comment if you are that person or if you need my assistance. I expect I will have to update some broken links to Ray's site next year.
+
+**UPDATE August 2023:** Stef B alerted me that there is now a [mirror for all Ray Peat's articles](https://expulsia.com/health/peat-index).
 
 ---
 

@@ -9,7 +9,19 @@ description: "If you would have asked me a few years ago who my favorite company
 commentCount: 84
 ---
 
-If you would have asked me a few years ago who my favorite company was, I wouldn't have hesitated to say XM Radio. Today I filed fraud charges against them. A few months ago I noticed a bad charge on my credit card. I called them up and they told me that they didn't have any record of the charge. I informed Chase and the charge was removed. Then another charge was placed on the card. I called XM Radio again. After a lot of investigation they discovered that they had tied another customer account to my credit card number. They tried to blame to Chase. I told them it was their fault. They admitted fault and then assured me the charge was removed while I was still on the phone. XM Radio also promised me no further fraudulent charges would occur and a supervisor would call me within 2 days to confirm everything had been cleared on their side. After 5 days of not receiving that call, I called Chase. **XM Radio lied to me twice. The fraudulent charge was not removed.** At this point I knew XM Radio would continue to make fraudulent charges against my credit card, so I had to cancel my card and get another one issued with a new number. ![credit-card-fraud](./img/credit-card-fraud.jpg) _Photo by Simon Cunningham_ If you are a customer of XM Radio (maybe Sirius too?) and you have a credit card on file, double check your statements to confirm they aren't making fraudulent charges. I eagerly await the day XM Sirius goes bankrupt and is acquired by more competent management. _Follow Up Post: [Why I Am Not Renewing My Sirius XM Radio Subscription](/2010/02/why-i-am-not-renewing-my-sirius-xm-radio-subscription/)_
+If you would have asked me a few years ago who my favorite company was, I wouldn't have hesitated to say XM Radio. Today I filed fraud charges against them. A few months ago I noticed a bad charge on my credit card. I called them up and they told me that they didn't have any record of the charge. I informed Chase and the charge was removed.
+
+Then another charge was placed on the card. I called XM Radio again. After a lot of investigation they discovered that they had tied another customer account to my credit card number. They tried to blame to Chase. I told them it was their fault. They admitted fault and then assured me the charge was removed while I was still on the phone. XM Radio also promised me no further fraudulent charges would occur and a supervisor would call me within 2 days to confirm everything had been cleared on their side.
+
+After 5 days of not receiving that call, I called Chase. **XM Radio lied to me twice. The fraudulent charge was not removed.** At this point I knew XM Radio would continue to make fraudulent charges against my credit card, so I had to cancel my card and get another one issued with a new number.
+
+![credit-card-fraud](./img/credit-card-fraud.jpg)
+
+_Photo by Simon Cunningham_
+
+If you are a customer of XM Radio (maybe Sirius too?) and you have a credit card on file, double check your statements to confirm they aren't making fraudulent charges. I eagerly await the day XM Sirius goes bankrupt and is acquired by more competent management.
+
+_Follow Up Post: [Why I Am Not Renewing My Sirius XM Radio Subscription](/2010/02/why-i-am-not-renewing-my-sirius-xm-radio-subscription/)_
 
 ---
 

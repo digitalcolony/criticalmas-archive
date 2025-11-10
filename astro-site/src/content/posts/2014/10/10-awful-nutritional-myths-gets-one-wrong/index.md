@@ -9,11 +9,15 @@ description: "It feels like I wrote this post once before for a similar article.
 commentCount: 11
 ---
 
-It feels like I wrote this post [once before](/2014/05/10-health-myth-articles-gets-one-wrong/) for a similar article. This response will take a different angle. Kamal Patel's article [10 Awful Nutrition Myths Perpetuated by the Media The truth behind the lies](https://web.archive.org/web/20160710232631/https://examine.com/blog/10-awful-myths-perpetuated-by-the-media/) is yet another attempt to ignore or dismiss the fact some people are sensitive to bread and that their health improves when they remove it from the diet.
+It feels like I wrote this post [once before](/2014/05/10-health-myth-articles-gets-one-wrong/) for a similar article. This response will take a different angle.
+
+Kamal Patel's article [10 Awful Nutrition Myths Perpetuated by the Media The truth behind the lies](https://web.archive.org/web/20160710232631/https://examine.com/blog/10-awful-myths-perpetuated-by-the-media/) is yet another attempt to ignore or dismiss the fact some people are sensitive to bread and that their health improves when they remove it from the diet.
 
 > Myth 1: Bread/Carbs are bad for you
 
-Lumping the insulin carbohydrate argument in with the wheat gluten issue wasn't appropriate. They are two distinct topics. I am pro-carb and anti-wheat. So I agree with the first half of the myth, just not the second. The reason I am anti-wheat is that I have first-hand experience removing it and experiencing improved health. From the article:
+Lumping the insulin carbohydrate argument in with the wheat gluten issue wasn't appropriate. They are two distinct topics. I am pro-carb and anti-wheat. So I agree with the first half of the myth, just not the second. The reason I am anti-wheat is that I have first-hand experience removing it and experiencing improved health.
+
+From the article:
 
 > While gluten gets all the attention, other compounds may be as or more important for people without celiac disease who suspect that they have gluten sensitivity. For example, some of the same researchers who discovered that gluten intolerance exists in people who don’t have celiac disease did a much more thorough follow-up study, and concluded that gluten was not necessarily to blame in those with irritable bowel syndrome. They suggested that compounds falling under the category of FODMAPs (which are present in a variety of plant foods) may be a greater issue.
 
@@ -25,7 +29,19 @@ OK, I'll play along. What foods should I avoid if the real issue is FODMAPs? I l
 4.  a big source of FODMAPs is wheat
 5.  bread = wheat
 
-Am I missing something here? If I avoid bread because of gluten, I am anti-science and neurotic. If I avoid bread, because it is a source of FODMAPs, then I am enlightened. I don't know, nor do I care what is inside wheat that causes my skin to act up and give me headaches. I looked better and feel better when I stopped eating bread. I'm not alone. ![MAS 2001](./img/mas_2001.jpg) _Me and my skin during my bread years._ ![mas-angkor-wat](./img/mas-angkor-wat.jpeg) _Me just months after removing bread from my diet._  I've said it before, the numbers of those experiencing issues with wheat/gluten/FODMAPs/whatever are simply too large to be this dismissive. I'm actually shocked at how little nutritionists think about risk assessment. Bread can be healthy or unhealthy or maybe it varies on a case-by-case basis. Maybe we don't know enough. I don't know the answer, so I am going to sit on the sidelines not eating bread as nutritionists tell everyone that their gluten issues "may not" exist. From a risk assessment point of view, you can look at this issue in two ways.
+Am I missing something here? If I avoid bread because of gluten, I am anti-science and neurotic. If I avoid bread, because it is a source of FODMAPs, then I am enlightened. I don't know, nor do I care what is inside wheat that causes my skin to act up and give me headaches. I looked better and feel better when I stopped eating bread. I'm not alone.
+
+![MAS 2001](./img/mas_2001.jpg)
+
+_Me and my skin during my bread years._
+
+![mas-angkor-wat](./img/mas-angkor-wat.jpeg)
+
+_Me just months after removing bread from my diet._ 
+
+I've said it before, the numbers of those experiencing issues with wheat/gluten/FODMAPs/whatever are simply too large to be this dismissive. I'm actually shocked at how little nutritionists think about risk assessment. Bread can be healthy or unhealthy or maybe it varies on a case-by-case basis. Maybe we don't know enough. I don't know the answer, so I am going to sit on the sidelines not eating bread as nutritionists tell everyone that their gluten issues "may not" exist.
+
+From a risk assessment point of view, you can look at this issue in two ways.
 
 1.  There is a lack of evidence that bread is bad for most.
 2.  There is a lack of evidence explaining why so many people have issues with bread and why their health improves when the bread was removed.

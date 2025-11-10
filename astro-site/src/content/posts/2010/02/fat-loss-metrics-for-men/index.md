@@ -15,7 +15,11 @@ How should guys measure their fat loss progress? There are several methods. Each
 ### The Scale
 
 
-The scale isn't bad, but it can't tell the difference between a pound of muscle and a pound of fat. Also, water weight varies a lot, especially in larger individuals. Those body fat scales tend to be inaccurate in the obese and super lean. I used one for years when my body fat was between 15-20%. Once I got leaner, the numbers jumped. ![scale](./img/scale.jpg) _[Photo](https://flic.kr/p/4XuRev) by Paola Kizette Cimenti_
+The scale isn't bad, but it can't tell the difference between a pound of muscle and a pound of fat. Also, water weight varies a lot, especially in larger individuals. Those body fat scales tend to be inaccurate in the obese and super lean. I used one for years when my body fat was between 15-20%. Once I got leaner, the numbers jumped.
+
+![scale](./img/scale.jpg)
+
+_[Photo](https://flic.kr/p/4XuRev) by Paola Kizette Cimenti_
 
 
 ### Tape Measure (or Belt)
@@ -55,15 +59,25 @@ A few fitness writers have written on applying the Golden Ratio to the male phys
 
 > So it's no surprise to learn that chicks dig a physique that measures up to the golden ratio. An Archives of Sexual Behavior study reveals that women are most attracted to muscular men whose shoulders measure 1.6 times the size of their waists.
 
-This is a mathematical methodology for measuring the V-shaped torso. I like this method the best. It rewards both fat loss and muscle gain. The only problem with this method is that you need someone to help you measure your shoulders. The article describes a hack where you measure your chest and then shoot for a 1.4 ratio. Detailed instructions in the article:
+This is a mathematical methodology for measuring the V-shaped torso. I like this method the best. It rewards both fat loss and muscle gain. The only problem with this method is that you need someone to help you measure your shoulders. The article describes a hack where you measure your chest and then shoot for a 1.4 ratio.
 
-> 1\. Measure your shoulder circumference at its widest point -- usually around your shoulders and chest in a line halfway between your nipple and collarbone. (If you're on your own, you can measure your chest at its widest point, just below your armpits.) 2. Determine your waist circumference by wrapping a measuring tape around your abdomen so that the bottom of the tape touches the top of your hip bones. 3. Divide the circumference of your shoulders (or chest) by that of your waist. You don't have to look like a cartoon superhero to hit the ideal proportion: If you use the standard from Swami's studies, you could hit the jackpot by having a 45-inch chest and a 32-inch waist.
+Detailed instructions in the article:
+
+> 1\. Measure your shoulder circumference at its widest point -- usually around your shoulders and chest in a line halfway between your nipple and collarbone. (If you're on your own, you can measure your chest at its widest point, just below your armpits.)
+> 
+> 2\. Determine your waist circumference by wrapping a measuring tape around your abdomen so that the bottom of the tape touches the top of your hip bones.
+> 
+> 3\. Divide the circumference of your shoulders (or chest) by that of your waist. You don't have to look like a cartoon superhero to hit the ideal proportion: If you use the standard from Swami's studies, you could hit the jackpot by having a 45-inch chest and a 32-inch waist.
 
 True ectomorphs and endomorphs may never achieve the Golden Ratio, but they can try. John Barban wrote this in a comment on AdonisLifestyle.
 
-> True ectomorph and endomorphs may very well have ideals that are skewed towards their ends of the curve. In other words, a true ectomorph may never get all the way up to the ideal waist we have calculated, but they may not need to. Likewise a true endomorph might not get all the way down to the ideal waist but again they may not need to either as they will have bigger shoulders.
+> True ectomorph and endomorphs may very well have ideals that are skewed towards their ends of the curve. In other words, a true ectomorph may never get all the way up to the ideal waist we have calculated, but they may not need to.
+> 
+> Likewise a true endomorph might not get all the way down to the ideal waist but again they may not need to either as they will have bigger shoulders.
 
-The Golden Ratio isn't perfect, but it is the best metric for male fat loss. **UPDATE March 2015:** Once a man gets closer to his [muscular potential](/2014/05/muscular-potential-ideal-weight/), a tape measure is probably the best method for measuring leanness.
+The Golden Ratio isn't perfect, but it is the best metric for male fat loss.
+
+**UPDATE March 2015:** Once a man gets closer to his [muscular potential](/2014/05/muscular-potential-ideal-weight/), a tape measure is probably the best method for measuring leanness.
 
 ---
 

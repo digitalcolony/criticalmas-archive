@@ -22,4 +22,6 @@ I know I've said it [before](/2009/11/tearing-through-my-first-pumpkin/), but I 
 9.  Cook for 7 more minutes.
 10.  Remove tray from oven, let them cool and eat!
 
-![cajun-pumpkin-seeds-2](./img/cajun-pumpkin-seeds-2.jpg) ![cajun-pumpkin-seeds-1](./img/cajun-pumpkin-seeds-1.jpg)
+![cajun-pumpkin-seeds-2](./img/cajun-pumpkin-seeds-2.jpg)
+
+![cajun-pumpkin-seeds-1](./img/cajun-pumpkin-seeds-1.jpg)

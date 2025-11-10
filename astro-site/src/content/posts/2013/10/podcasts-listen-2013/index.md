@@ -22,7 +22,11 @@ I was recently asked what podcasts I am listening to and I directed them to my [
 9.  Adam Carolla Show  (comedy)
 10.  House of Reggae (music)
 
-![podcast](./img/old-time-radio.jpg) [EconTalk](http://www.econtalk.org/) is by far the best podcast. Russ Roberts can take topics that seem dull on the surface and make them fascinating. Well at least to me. Economics provides a model of understanding the world that I believe applies to other disciplines, especially fitness and nutrition. Recently I've been enjoying Evil Sugar Radio. Although I think they are often guilty of the same biases they accuse others as having, the show is a much needed healthy response to the food fear mongers.
+![podcast](./img/old-time-radio.jpg)
+
+[EconTalk](http://www.econtalk.org/) is by far the best podcast. Russ Roberts can take topics that seem dull on the surface and make them fascinating. Well at least to me. Economics provides a model of understanding the world that I believe applies to other disciplines, especially fitness and nutrition.
+
+Recently I've been enjoying Evil Sugar Radio. Although I think they are often guilty of the same biases they accuse others as having, the show is a much needed healthy response to the food fear mongers.
 
 ---
 

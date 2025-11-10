@@ -9,11 +9,33 @@ description: "Thanks to a tip from Pauline, I read the latest book by Lyle McDon
 commentCount: 4
 ---
 
-Thanks to a [tip](/2017/11/my-bizarre-injury/#comment-25868) from Pauline, I read the latest book by Lyle McDonald titled _Optimal Nutrition for Injury Recovery_. ![Optimal Nutrition for Injury](./img/lyle-book.jpg) _Optimal Nutrition for Injury Recovery_ This was an interesting book because I learned I had not been thinking properly about my diet during times of injury. Whenever I've been injured in the past, I dial back my calories and use the opportunity to focus more on getting leaner. My thinking has always been that if I'm not going to the gym, then I'm not earning the calories and if I'm not building muscle then I might as well use the time to drop a few pounds of fat. Well, I learned from McDonald, that I've been thinking about this all wrong. The body needs more calories during injury recovery because building back our injured muscles and tendons is an anabolic activity. He further explains:
+Thanks to a [tip](/2017/11/my-bizarre-injury/#comment-25868) from Pauline, I read the latest book by Lyle McDonald titled _Optimal Nutrition for Injury Recovery_.
+
+![Optimal Nutrition for Injury](./img/lyle-book.jpg)
+
+_Optimal Nutrition for Injury Recovery_
+
+This was an interesting book because I learned I had not been thinking properly about my diet during times of injury.
+
+Whenever I've been injured in the past, I dial back my calories and use the opportunity to focus more on getting leaner. My thinking has always been that if I'm not going to the gym, then I'm not earning the calories and if I'm not building muscle then I might as well use the time to drop a few pounds of fat.
+
+Well, I learned from McDonald, that I've been thinking about this all wrong. The body needs more calories during injury recovery because building back our injured muscles and tendons is an anabolic activity. He further explains:
 
 > ...when too few calories are eaten, as occurs when someone diets, their hormones shift to create a catabolic state where tissue is being broken down for energy and this can not optimally support injury recovery.
 
-The book drills into the math on how to calculate your injury calorie requirements. For me, I didn't need to pull out a calculator to see I have always been too low. Which makes me think that my slow recovery times in the past have been due to not eating enough. Another important idea I got from the book was to go higher in protein during injury recovery, especially foods rich in leucine such as dairy. Whey supplementation can also help. What did I eat after my September injury? [MOAR POTATOES!](https://criticalmas.org/best-of/potato-hack-diet/) Hack away. So not only was I in a severe caloric deficit, but I was also consuming a very low protein amount. In other words, my diet was far from optimal for injury recovery. Lesson learned. The book also covers some supplement ideas supported by research. The top supplement being Fish Oil. Longtime readers know that [I don't think highly of fish oil](/2013/08/fish-oil-2010/). I also recognize McDonald is much smarter than me. However, even if I were to be convinced that fish oil is a solid supplement, I don't trust the supply chain. In January 2016, Frontline did an [expose on fish oil](https://youtu.be/cVsaDOLfQPs) that confirmed some of the suspicions I had back in 2010. Unlike many supplements that are worthless because they do nothing, the risk with fish oil is that if you pick the wrong brand or bottle, it could do harm. These are just a few ideas I got from the book _Optimal Nutrition for Injury Recovery_. I will absolutely be eating a higher calorie diet rich in dairy protein during this recovery and future ones. As for the fish oil, I think that I'll stick to regular fish for now.
+The book drills into the math on how to calculate your injury calorie requirements. For me, I didn't need to pull out a calculator to see I have always been too low. Which makes me think that my slow recovery times in the past have been due to not eating enough.
+
+Another important idea I got from the book was to go higher in protein during injury recovery, especially foods rich in leucine such as dairy. Whey supplementation can also help.
+
+What did I eat after my September injury? [MOAR POTATOES!](https://criticalmas.org/best-of/potato-hack-diet/) Hack away. So not only was I in a severe caloric deficit, but I was also consuming a very low protein amount. In other words, my diet was far from optimal for injury recovery.
+
+Lesson learned.
+
+The book also covers some supplement ideas supported by research. The top supplement being Fish Oil. Longtime readers know that [I don't think highly of fish oil](/2013/08/fish-oil-2010/). I also recognize McDonald is much smarter than me.
+
+However, even if I were to be convinced that fish oil is a solid supplement, I don't trust the supply chain. In January 2016, Frontline did an [expose on fish oil](https://youtu.be/cVsaDOLfQPs) that confirmed some of the suspicions I had back in 2010. Unlike many supplements that are worthless because they do nothing, the risk with fish oil is that if you pick the wrong brand or bottle, it could do harm.
+
+These are just a few ideas I got from the book _Optimal Nutrition for Injury Recovery_. I will absolutely be eating a higher calorie diet rich in dairy protein during this recovery and future ones. As for the fish oil, I think that I'll stick to regular fish for now.
 
 ---
 

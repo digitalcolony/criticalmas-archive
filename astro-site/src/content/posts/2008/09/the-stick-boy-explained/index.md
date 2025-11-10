@@ -9,7 +9,21 @@ description: "In a few previous posts, I casually threw out the term stick boy. 
 commentCount: 6
 ---
 
-In a few previous [posts](/2008/08/i-dont-want-to-ride-a-donkey-down-the-grand-canyon/), I casually threw out the term _stick boy_. Without thinking, I assumed everyone would understand that phrase. Although I would love to take credit for the term, I first heard it from a co-worker back when I lived in Florida. That employee referred to me as a _stick boy_. He was built and I was scrawny. I could have taken offense, but I didn't. I knew he was right. I needed to lift weights. ![stick-boy](./img/stick-boy.jpg) _[Johnny Webuser](http://www.flickr.com/photos/tomnatt/2677905564/)  by TomNatt_ A _stick boy_ is an adult male, usually an ectomorph, that is lean with no muscular development. They often have the physique of a 12-year-old girl: all arms and legs with no chest. Seattle is the mecca for the _stick boy_. _Stick boys_ can be in great shape. They often excel at sports such as running, cycling, and skiing, where being light and having long limbs is an advantage. However, since the arms are long and the wrists are small, sports or exercises that require grip strength or moving weight are more challenging. ![somatypes](./img/somatypes.jpg) _Image from How to Eat Right For Your Body Type by Dr. John Berardi. Typically Ectomorphs are taller and Endomorphs are shorter. Other than that this image is a good representation of somatypes._ I could have accepted my lot in life as a _stick boy_, but I hated it. If you are a _stick boy_ and want to do something about it, lift weights, avoid alcohol and get plenty of rest and in a few years you too can become a former _stick boy_.
+In a few previous [posts](/2008/08/i-dont-want-to-ride-a-donkey-down-the-grand-canyon/), I casually threw out the term _stick boy_. Without thinking, I assumed everyone would understand that phrase. Although I would love to take credit for the term, I first heard it from a co-worker back when I lived in Florida. That employee referred to me as a _stick boy_. He was built and I was scrawny. I could have taken offense, but I didn't. I knew he was right. I needed to lift weights.
+
+![stick-boy](./img/stick-boy.jpg)
+
+_[Johnny Webuser](http://www.flickr.com/photos/tomnatt/2677905564/)  by TomNatt_
+
+A _stick boy_ is an adult male, usually an ectomorph, that is lean with no muscular development. They often have the physique of a 12-year-old girl: all arms and legs with no chest. Seattle is the mecca for the _stick boy_.
+
+_Stick boys_ can be in great shape. They often excel at sports such as running, cycling, and skiing, where being light and having long limbs is an advantage. However, since the arms are long and the wrists are small, sports or exercises that require grip strength or moving weight are more challenging.
+
+![somatypes](./img/somatypes.jpg)
+
+_Image from How to Eat Right For Your Body Type by Dr. John Berardi. Typically Ectomorphs are taller and Endomorphs are shorter. Other than that this image is a good representation of somatypes._
+
+I could have accepted my lot in life as a _stick boy_, but I hated it. If you are a _stick boy_ and want to do something about it, lift weights, avoid alcohol and get plenty of rest and in a few years you too can become a former _stick boy_.
 
 ---
 

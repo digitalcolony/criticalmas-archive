@@ -9,13 +9,21 @@ description: "There are numerous posts on this website where I talk about how mu
 commentCount: 14
 ---
 
-There are numerous posts on this website where I talk about how much I love high-intensity training. In 2011, I posted [High Intensity Training - My 6 Month Update](/2011/05/high-intensity-training-my-6-month-update/), which was a good overview of HIT. As much as I love safe exercises and using slower tempos to increase intensity, there are some aspects of HIT that I reject or dislike.
+There are numerous posts on this website where I talk about how much I love high-intensity training. In 2011, I posted [High Intensity Training - My 6 Month Update](/2011/05/high-intensity-training-my-6-month-update/), which was a good overview of HIT.
+
+As much as I love safe exercises and using slower tempos to increase intensity, there are some aspects of HIT that I reject or dislike.
 
 
 ### Too Efficient
 
 
-I like going to the gym. I'm currently going to the gym three times a week. Each visit is about 20-30 minutes of exercise. When I was doing HIT by the book, I would do a single 10 minute workout every 5 or 7 days. For people that don't like to go to the gym or have a busy life, I can totally see the efficiency of HIT to be a selling point. Initially, this efficiency was a novelty to me, and I embraced it fully. However, I have plenty of time. I work from home and have most of my groceries delivered. I can go weeks without leaving my zip code. Back in my San Diego days, I spent 90 minutes a day commuting. I spent my weekends shopping and running errands. Had I known about HIT back then, it would have been a tremendous benefit. I know I am not alone here. Those of us that understand how powerful HIT can be are also those of us that prioritize exercise. When we aren't at the gym, you can often find us reading articles or watching videos about exercise. We came to HIT to save us from the bro-lifts that led to too many injuries, not to keep us out of the gym.
+I like going to the gym. I'm currently going to the gym three times a week. Each visit is about 20-30 minutes of exercise. When I was doing HIT by the book, I would do a single 10 minute workout every 5 or 7 days.
+
+For people that don't like to go to the gym or have a busy life, I can totally see the efficiency of HIT to be a selling point. Initially, this efficiency was a novelty to me, and I embraced it fully.
+
+However, I have plenty of time. I work from home and have most of my groceries delivered. I can go weeks without leaving my zip code. Back in my San Diego days, I spent 90 minutes a day commuting. I spent my weekends shopping and running errands. Had I known about HIT back then, it would have been a tremendous benefit.
+
+I know I am not alone here. Those of us that understand how powerful HIT can be are also those of us that prioritize exercise. When we aren't at the gym, you can often find us reading articles or watching videos about exercise. We came to HIT to save us from the bro-lifts that led to too many injuries, not to keep us out of the gym.
 
 
 ### Recovery
@@ -25,19 +33,35 @@ I wrote this paragraph [about HIT in 2011](/2011/06/training-to-failure-or-train
 
 > The High-Intensity Training crowd is clear about taking the muscles to total failure and then allowing time to recover as the optimal method for building muscle. I’ve read the science and experienced it first hand. It works. However, if I had to perform at a high level on a daily basis, I wouldn’t be doing this method of training. When I return from the gym, I’m toast. The next day, I move in slow motion. By day three, I’m still below baseline performance. This is perfectly fine for me, as I push pixels. I would not want to train like this if I were a lifeguard.
 
-Maybe it is because I am now 13 years older or maybe it is because the work I am doing today is more mentally taxing than what I was doing in 2011, but I am no longer fine with being wiped out for days following a train-to-failure workout. I lift in the morning at 5 AM on weekdays. My gym does not open until 8 AM on the weekends. Way too late for me, so I can't schedule in a failure workout on Saturday. If I destroy myself on a weekday, I won't perform well at my job, so I don't. In 2011, this wasn't a concern, now it is.
+Maybe it is because I am now 13 years older or maybe it is because the work I am doing today is more mentally taxing than what I was doing in 2011, but I am no longer fine with being wiped out for days following a train-to-failure workout.
+
+I lift in the morning at 5 AM on weekdays. My gym does not open until 8 AM on the weekends. Way too late for me, so I can't schedule in a failure workout on Saturday. If I destroy myself on a weekday, I won't perform well at my job, so I don't. In 2011, this wasn't a concern, now it is.
 
 
 ### Core Failure
 
 
-I could be wrong on this point and you can correct me in the comments if I am, but I think HIT falls short when it comes to building a strong core. Using machines is great for placing the large muscles under load safely, but I never felt my core engage like it did with free weights. With free weights, a lot of the core work actually comes from loading and unloading the weights. Moving a pin on a machine requires no engagement by the abs. Body By Science has a few pages on the Abdominal Machine, but it is not part of the Big-Five workout. It is optional. At least, [Hillfit](/2024/04/the-return-of-hillfit/) has a plank. A common theme that I've read across all forms of lifting literature is to focus on the big lifts and the abs will get strong, but you are free to add in additional ab work if you want. So HIT is not unique to this critique, but I think having weaker abs will catch up to you faster with free weights than machines. For my fellow HIT fans, if you were to give HIT a letter grade for core strength, what would it be? ![load weights](./img/victor-freitas-vjkM-0m34KU-unsplash.jpg) _Loading and unloading plates will engage the abs. Photo by [Victor Freitas](https://unsplash.com/@victorfreitas?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)._ 
+I could be wrong on this point and you can correct me in the comments if I am, but I think HIT falls short when it comes to building a strong core. Using machines is great for placing the large muscles under load safely, but I never felt my core engage like it did with free weights. With free weights, a lot of the core work actually comes from loading and unloading the weights. Moving a pin on a machine requires no engagement by the abs.
+
+Body By Science has a few pages on the Abdominal Machine, but it is not part of the Big-Five workout. It is optional. At least, [Hillfit](/2024/04/the-return-of-hillfit/) has a plank.
+
+A common theme that I've read across all forms of lifting literature is to focus on the big lifts and the abs will get strong, but you are free to add in additional ab work if you want. So HIT is not unique to this critique, but I think having weaker abs will catch up to you faster with free weights than machines.
+
+For my fellow HIT fans, if you were to give HIT a letter grade for core strength, what would it be?
+
+![load weights](./img/victor-freitas-vjkM-0m34KU-unsplash.jpg)
+
+_Loading and unloading plates will engage the abs. Photo by [Victor Freitas](https://unsplash.com/@victorfreitas?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)._ 
 
 
 ### The Message
 
 
-I was fortunate to stumble on the ideas of HIT at a time when they were more accessible to fitness enthusiasts. Several of the sites or resources that I used to learn HIT are gone now or have decided to direct their message to other HIT trainers. Every so often I'll see some HIT video or article. Most are too long and boring. Meanwhile, the production quality for the bro-lift videos keeps improving. I wrote this comment on a 2018 post.
+I was fortunate to stumble on the ideas of HIT at a time when they were more accessible to fitness enthusiasts. Several of the sites or resources that I used to learn HIT are gone now or have decided to direct their message to other HIT trainers.
+
+Every so often I'll see some HIT video or article. Most are too long and boring. Meanwhile, the production quality for the bro-lift videos keeps improving.
+
+I wrote this comment on a 2018 post.
 
 > My disappointment with the HIT community is they only seem to be talking to the exercise nerds that are willing to sit down and read 5,000-word articles on the most minute points.
 

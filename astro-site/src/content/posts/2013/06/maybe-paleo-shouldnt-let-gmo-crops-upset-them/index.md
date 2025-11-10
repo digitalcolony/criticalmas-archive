@@ -9,13 +9,31 @@ description: "Almost without exception, everyone that I know from the Paleo comm
 commentCount: 8
 ---
 
-Almost without exception, everyone that I know from the Paleo community loathes GMO food. The story goes something like this. Small farmers produce the organic heirloom stuff we buy at the farmers markets. We dive into nutrition and then read Omnivores Dilemma and watch Food Inc. We learn that organic farming is good and GMO farming is evil. What if we were wrong about GMO food? What is the purpose of GMOs? It is to get higher crop yields per acre using fewer chemical pesticides. If they didn't do that, they never would have been adopted. But what about the nutritional quality? My response is who cares? The crops that are most being genetically modified are foods on the no-no list. According to the article The Most Common GMO Foods by Jill Corleone (UPDATE 2022: article offline), the 3 most common GMO foods are:
+Almost without exception, everyone that I know from the Paleo community loathes GMO food. The story goes something like this. Small farmers produce the organic heirloom stuff we buy at the farmers markets. We dive into nutrition and then read Omnivores Dilemma and watch Food Inc. We learn that organic farming is good and GMO farming is evil.
+
+What if we were wrong about GMO food? What is the purpose of GMOs? It is to get higher crop yields per acre using fewer chemical pesticides. If they didn't do that, they never would have been adopted.
+
+But what about the nutritional quality? My response is who cares? The crops that are most being genetically modified are foods on the no-no list. According to the article The Most Common GMO Foods by Jill Corleone (UPDATE 2022: article offline), the 3 most common GMO foods are:
 
 1.  Soybean
 2.  Corn
 3.  Canola Oil
 
-![Canola](https://images-na.ssl-images-amazon.com/images/I/41iFLMfbMKL.jpg) _What do I care if canola oil is GMO?_  Paleo people are told to avoid grains, legumes, and industrial seed oil. The fact soy, corn, and canola oil are GMO shouldn't affect us. We don't eat them. It isn't our battle. I read one statistic that said without GMOs, conventional farmers would need an additional 9% more land to farm to get the same yield. Where are they going to get that 9% from? Other farmland where GMO is currently not being used? Is it possible that a campaign that successfully demonizes GMO foods actually results in the expansion of industrial farming? In the absence of GMOs, I just don't see conventional farmers embracing the Joel Salatin organic farming model. I think they will acquire more acreage, deforest and use chemicals. And the land they deforest might be land currently being used by one of the cool small organic farmers we chat with every week at our local Farmers Market. Conventional farmers have deeper pockets. Maybe I am dead wrong on this. I'm throwing up this idea for others to bat around. What if GMOs got even better and were able to use even less acreage to grow foods we already are avoiding? Might that be a win? Although we don't consume those GMO crops, we do share the same water table and I'd prefer it had less chemical pesticide runoff. I didn't want to get into the ethics of patenting seeds and the litigious nature of the companies that do. I think that is a separate topic. Love to hear your thoughts.
+![Canola](https://images-na.ssl-images-amazon.com/images/I/41iFLMfbMKL.jpg)
+
+_What do I care if canola oil is GMO?_ 
+
+Paleo people are told to avoid grains, legumes, and industrial seed oil. The fact soy, corn, and canola oil are GMO shouldn't affect us. We don't eat them. It isn't our battle. I read one statistic that said without GMOs, conventional farmers would need an additional 9% more land to farm to get the same yield.
+
+Where are they going to get that 9% from? Other farmland where GMO is currently not being used? Is it possible that a campaign that successfully demonizes GMO foods actually results in the expansion of industrial farming?
+
+In the absence of GMOs, I just don't see conventional farmers embracing the Joel Salatin organic farming model. I think they will acquire more acreage, deforest and use chemicals. And the land they deforest might be land currently being used by one of the cool small organic farmers we chat with every week at our local Farmers Market. Conventional farmers have deeper pockets.
+
+Maybe I am dead wrong on this. I'm throwing up this idea for others to bat around. What if GMOs got even better and were able to use even less acreage to grow foods we already are avoiding? Might that be a win? Although we don't consume those GMO crops, we do share the same water table and I'd prefer it had less chemical pesticide runoff.
+
+I didn't want to get into the ethics of patenting seeds and the litigious nature of the companies that do. I think that is a separate topic.
+
+Love to hear your thoughts.
 
 ---
 

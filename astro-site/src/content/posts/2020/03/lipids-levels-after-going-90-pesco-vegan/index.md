@@ -9,7 +9,13 @@ description: "A month ago, I posted how I changed my diet in the post What I Eat
 commentCount: 12
 ---
 
-A month ago, I posted how I changed my diet in the post [What I Eat and What I Don’t Eat – 2020 Edition](/2020/02/what-i-eat-and-what-i-dont-eat-2020-edition/). You can read that post for details, but the short version is I cut out 90% of my meat and dairy intake last year. I also cut back on eggs. I increased legumes and non-gluten grains such as buckwheat, oatmeal, and quinoa. I still eat my seafood, which is why I am using the term Pesco-Vegan. Prior to last year, I avoided all doctors as much as possible, unless it was related to me getting back into the gym quicker. 💪🏻 So I believe the last time that I had any blood work done would have been the early 2000s and I have no idea what those numbers were other than "good". Last year, I did get a lipid panel done and the numbers weren't optimal. Then I made the diet changes mentioned above and retested this week. Instead of going to the doctor, I used UltaLabs. They are much cheaper than whatever "deal" my healthcare plan offered. The numbers have improved.
+A month ago, I posted how I changed my diet in the post [What I Eat and What I Don’t Eat – 2020 Edition](/2020/02/what-i-eat-and-what-i-dont-eat-2020-edition/). You can read that post for details, but the short version is I cut out 90% of my meat and dairy intake last year. I also cut back on eggs. I increased legumes and non-gluten grains such as buckwheat, oatmeal, and quinoa. I still eat my seafood, which is why I am using the term Pesco-Vegan.
+
+Prior to last year, I avoided all doctors as much as possible, unless it was related to me getting back into the gym quicker. 💪🏻 So I believe the last time that I had any blood work done would have been the early 2000s and I have no idea what those numbers were other than "good".
+
+Last year, I did get a lipid panel done and the numbers weren't optimal. Then I made the diet changes mentioned above and retested this week. Instead of going to the doctor, I used UltaLabs. They are much cheaper than whatever "deal" my healthcare plan offered.
+
+The numbers have improved.
 
 
 #### Total Cholesterol
@@ -51,7 +57,13 @@ A month ago, I posted how I changed my diet in the post [What I Eat and What I D
 -   Mar 2020: 1.15
 -   **25% reduction** 🤩
 
-I have very little experience reading these numbers, but I like what I see. The LDL number needs to drop more, but I like the direction it is heading. Some articles online state it can take 3-6 months to see changes in your lipid panel numbers from diet and exercise changes. My exercise was mostly the same. These changes were all diet. Not that my diet was poor before, but I was able to improve once I [revisited my Paleo/WAPF belief](/2019/12/saturated-fat-revisited/) that saturated fat was healthy. And as I stated in that post, I have no interest in getting into that debate with anyone. You do you. For myself, I figured that I'd let the numbers do the talking. ![blood test](./img/national-cancer-institute-blood-test.jpg) _Photo by [National Cancer Institute](https://unsplash.com/@nci?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+I have very little experience reading these numbers, but I like what I see. The LDL number needs to drop more, but I like the direction it is heading. Some articles online state it can take 3-6 months to see changes in your lipid panel numbers from diet and exercise changes.
+
+My exercise was mostly the same. These changes were all diet. Not that my diet was poor before, but I was able to improve once I [revisited my Paleo/WAPF belief](/2019/12/saturated-fat-revisited/) that saturated fat was healthy. And as I stated in that post, I have no interest in getting into that debate with anyone. You do you. For myself, I figured that I'd let the numbers do the talking.
+
+![blood test](./img/national-cancer-institute-blood-test.jpg)
+
+_Photo by [National Cancer Institute](https://unsplash.com/@nci?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 ---
 

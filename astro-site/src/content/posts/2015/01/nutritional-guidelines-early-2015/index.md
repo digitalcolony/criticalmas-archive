@@ -15,35 +15,59 @@ The last several years have been a wild roller coaster for the nutritional hobby
 ### Carbohydrates
 
 
-Carbs are fine. People benefit from higher carbs post-workout and for those with higher activity levels in general. Carbs can benefit those with a low metabolism. [Real food sources of sugar](/2015/01/defense-sugar/), such as real honey, sugarcane, or real maple syrup are preferred over processed sugars due to higher nutrient levels. Simple narratives that demonize carbs are [falling apart](https://carbsanity.blogspot.com/). Plus simple observation shows billions of people can live long healthy lives on high levels of carbohydrates. Whether some caveman 100,000 years ago did isn't relevant when countless modern examples exist. Favor starchy root vegetables, fruit, real food sugar, and then rice. I'm still not a fan of cereal grains, especially wheat.
+Carbs are fine. People benefit from higher carbs post-workout and for those with higher activity levels in general. Carbs can benefit those with a low metabolism. [Real food sources of sugar](/2015/01/defense-sugar/), such as real honey, sugarcane, or real maple syrup are preferred over processed sugars due to higher nutrient levels.
+
+Simple narratives that demonize carbs are [falling apart](https://carbsanity.blogspot.com/). Plus simple observation shows billions of people can live long healthy lives on high levels of carbohydrates. Whether some caveman 100,000 years ago did isn't relevant when countless modern examples exist.
+
+Favor starchy root vegetables, fruit, real food sugar, and then rice. I'm still not a fan of cereal grains, especially wheat.
 
 
 ### Protein
 
 
-I am not a fan of high protein diets for [bulking](/2012/07/why-ice-cream-is-better-than-protein-powder/), but higher protein diets are probably the best path to [fat loss](/2014/07/just-count-protein-fat-loss/) due to their high satiety. I suspect the success of many low carb diets is due to higher protein levels, not reduced carbohydrates. The book that makes the most sense to me on protein is [Death By Food Pyramid](/2014/04/death-food-pyramid-calorie-myth/) by Denise Minger. Instead of treating all protein as the same, she dives into the amino acid ratios of the different parts of the animal. From my review:
+I am not a fan of high protein diets for [bulking](/2012/07/why-ice-cream-is-better-than-protein-powder/), but higher protein diets are probably the best path to [fat loss](/2014/07/just-count-protein-fat-loss/) due to their high satiety. I suspect the success of many low carb diets is due to higher protein levels, not reduced carbohydrates.
+
+The book that makes the most sense to me on protein is [Death By Food Pyramid](/2014/04/death-food-pyramid-calorie-myth/) by Denise Minger. Instead of treating all protein as the same, she dives into the amino acid ratios of the different parts of the animal. From my review:
 
 > Eat the whole animal. Nose to tail. Organ meats. Bone broths. Marrow. Traditional cultures knew this (WAPF), now science can see the different distribution of amino acids and how eating the entire animal balances those ratios. Most people today just load up on muscle meats and discard the rest of the animal. This presents a problem we can have too much methionine and not enough glycine.
 
-This a nutritional approach to financial portfolio theory. _Death By Food Pyramid_ also explores how we cook our protein is an important factor. Slow and lower temperatures are preferred to the charring that comes from cooking quickly with high temperatures. ![death-by-food-pyramid](./img/death-by-food-pyramid.jpg) _Death by Food Pyramid: How Shoddy Science, Sketchy Politics and Shady Special Interests Have Ruined Our Health by Denise Minger_ The takeaway lesson here is to eat less muscle meat, more broths, more seafood, more offal, dairy if you can, and grill less.
+This a nutritional approach to financial portfolio theory.
+
+_Death By Food Pyramid_ also explores how we cook our protein is an important factor. Slow and lower temperatures are preferred to the charring that comes from cooking quickly with high temperatures.
+
+![death-by-food-pyramid](./img/death-by-food-pyramid.jpg)
+
+_Death by Food Pyramid: How Shoddy Science, Sketchy Politics and Shady Special Interests Have Ruined Our Health by Denise Minger_
+
+The takeaway lesson here is to eat less muscle meat, more broths, more seafood, more offal, dairy if you can, and grill less.
 
 
 ### Fat
 
 
-Some of the smarter PubMed warriors out there point to research stating we should get 1/3 of our fat from saturated fat, 1/3 from monounsaturated, and 1/3 from polyunsaturated. I disagree. Not because I understand science better, but because I understand math. We live in a world awash in PUFA and it accumulates in our fat cells. And it doesn't leave right away. To me, it makes sense to follow a restrictive PUFA diet at least for a while to reduce the PUFA load in our body. I cover this in the post [Quantifying PUFA, Expert Opinion and My Conclusion](/2013/12/quantifying-pufa-expert-opinion/). And [PUFA from nuts](/2014/08/nuts-pufa-vitamin-e/) is likely far less damaging than vegetable oils due to Vitamin E. I am [not sold on Fish Oil](/2013/08/fish-oil-2010/). I am sold on eating more fish. High-fat diets seem to be a rage with many, but because it would be hard to create a diverse nutrient-dense diet that keeps PUFA low (4 - 9 grams on a 2000 kcal diet), I favor more carbohydrates.
+Some of the smarter PubMed warriors out there point to research stating we should get 1/3 of our fat from saturated fat, 1/3 from monounsaturated, and 1/3 from polyunsaturated. I disagree. Not because I understand science better, but because I understand math. We live in a world awash in PUFA and it accumulates in our fat cells. And it doesn't leave right away.
+
+To me, it makes sense to follow a restrictive PUFA diet at least for a while to reduce the PUFA load in our body. I cover this in the post [Quantifying PUFA, Expert Opinion and My Conclusion](/2013/12/quantifying-pufa-expert-opinion/). And [PUFA from nuts](/2014/08/nuts-pufa-vitamin-e/) is likely far less damaging than vegetable oils due to Vitamin E.
+
+I am [not sold on Fish Oil](/2013/08/fish-oil-2010/). I am sold on eating more fish.
+
+High-fat diets seem to be a rage with many, but because it would be hard to create a diverse nutrient-dense diet that keeps PUFA low (4 - 9 grams on a 2000 kcal diet), I favor more carbohydrates.
 
 
 ### Density and Diversity
 
 
-I like the concept of eating foods that are more nutrient-dense. The Superfoods. That was the idea that rekindled my interest in nutrition back in [2007](/2007/10/are-these-the-14-superfoods/). The idea that 100 calories of one food provides greater benefit than 100 calories of another food appeals greatly to my inner economist. A lot of people talk about nutrient density, but few mention diversity. Diversity addresses two points. One is that our needs change and that moving onto the next food is more likely to yield benefit than continuing to eat our current staples, regardless of how nutrient-dense they might be. The second point is we are still learning more about food and how different preparation techniques yield [different nutritional benefits](/2014/01/21-ideas-eating-wild-side/). So mix it up. Change the foods you eat on a regular basis.
+I like the concept of eating foods that are more nutrient-dense. The Superfoods. That was the idea that rekindled my interest in nutrition back in [2007](/2007/10/are-these-the-14-superfoods/). The idea that 100 calories of one food provides greater benefit than 100 calories of another food appeals greatly to my inner economist.
+
+A lot of people talk about nutrient density, but few mention diversity. Diversity addresses two points. One is that our needs change and that moving onto the next food is more likely to yield benefit than continuing to eat our current staples, regardless of how nutrient-dense they might be. The second point is we are still learning more about food and how different preparation techniques yield [different nutritional benefits](/2014/01/21-ideas-eating-wild-side/). So mix it up. Change the foods you eat on a regular basis.
 
 
 ### Avoid or Reduce Intake of Nutritionally Poor Foods
 
 
-I have harped on the PubMed warriors for their [half-ass defense](/2014/10/10-awful-nutritional-myths-gets-one-wrong/) of wheat as not understanding risk. But even if bread doesn't cause your skin to break out, gut to leak, and headaches, it still is nutritionally a weak source of calories. There are better choices to be made. Stating that is not a statement of _orthorexia nervosa_. It is being a [good nutritional economist](/2014/09/eat-dont-eat-2014-edition/). There are other foods that fall into the nutritionally poor camp. Most are less than 100 years old.
+I have harped on the PubMed warriors for their [half-ass defense](/2014/10/10-awful-nutritional-myths-gets-one-wrong/) of wheat as not understanding risk. But even if bread doesn't cause your skin to break out, gut to leak, and headaches, it still is nutritionally a weak source of calories. There are better choices to be made. Stating that is not a statement of _orthorexia nervosa_. It is being a [good nutritional economist](/2014/09/eat-dont-eat-2014-edition/).
+
+There are other foods that fall into the nutritionally poor camp. Most are less than 100 years old.
 
 
 ### Last Words

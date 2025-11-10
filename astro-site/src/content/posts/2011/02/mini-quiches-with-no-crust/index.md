@@ -19,7 +19,11 @@ This is for all you cereal eaters that don't have the time and energy to make eg
 6.  Pour eggs on top of veggies. Leave some room.
 7.  Cook until done. About 10-12 minutes. Time will vary.
 
-![tray-1](./img/tray-1.jpg) ![eggs-mixed](./img/eggs-mixed.jpg) ![quiche-tray](./img/quiche-tray.jpg)
+![tray-1](./img/tray-1.jpg)
+
+![eggs-mixed](./img/eggs-mixed.jpg)
+
+![quiche-tray](./img/quiche-tray.jpg)
 
 ---
 

@@ -9,7 +9,11 @@ description: "I am not into Technical Analysis, nor do I care to be. My financia
 commentCount: 4
 ---
 
-I am not into Technical Analysis, nor do I care to be. My [financial thesis](/2009/01/2009-financial-predictions/) is based on valuations and statistics. Timing the daily or weekly movement is not something I am equipped to do. This means that although I believe the direction of the indexes will go down this year, I do not know what path it will take to get there or how long it will take. If I had any long positions, I would use short-term rallies to sell and move into fixed income. That is me. This market is not honest and the rules are changing daily. I am not a [certified financial guy](/2008/11/not-a-certified-financial-planner/) and nothing on this blog should be considered investment advice. Do your homework. I have a lot of respect for those who do technical analysis. I don't have the constitution for it. Occasionally, I find myself following the TA guys and getting nervous about some rally. Then I remind myself that I am not out to make money today, this week, or even this month. My thesis may take months or a year to unfold. And when new macro-level data appears, I can alter that thesis.
+I am not into Technical Analysis, nor do I care to be. My [financial thesis](/2009/01/2009-financial-predictions/) is based on valuations and statistics. Timing the daily or weekly movement is not something I am equipped to do. This means that although I believe the direction of the indexes will go down this year, I do not know what path it will take to get there or how long it will take.
+
+If I had any long positions, I would use short-term rallies to sell and move into fixed income. That is me. This market is not honest and the rules are changing daily. I am not a [certified financial guy](/2008/11/not-a-certified-financial-planner/) and nothing on this blog should be considered investment advice. Do your homework.
+
+I have a lot of respect for those who do technical analysis. I don't have the constitution for it. Occasionally, I find myself following the TA guys and getting nervous about some rally. Then I remind myself that I am not out to make money today, this week, or even this month. My thesis may take months or a year to unfold. And when new macro-level data appears, I can alter that thesis.
 
 ---
 

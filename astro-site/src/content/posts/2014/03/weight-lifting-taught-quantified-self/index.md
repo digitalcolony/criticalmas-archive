@@ -9,7 +9,19 @@ description: "My opinion of Quantified Self has gone from being an enthusiastic 
 commentCount: 6
 ---
 
-My opinion of Quantified Self has gone from being an [enthusiastic supporter](/2011/08/my-case-for-self-experimentation/) to one of [extreme skepticism](/2013/11/quantifiable-self-form-journaling/). There is a lure to the narrative that if we collect enough data about ourselves we can be leaner, stronger, faster, and smarter. The problem is we are human and unless the correlation is very strong, the data we collect is not enough to draw meaningful conclusions. And unlike machines, we are always changing, so even if we did find meaningful data, it doesn't hold true that it will always be of value. I was recently thinking how Quantified Self is a lot like tracking how much weight you lifted in the gym. Gaining strength is more than numbers. Instead of rehashing my opinion, I'll direct those that are interested to the post [Reps, Sets and the Weight Aren't That Important](/2012/12/reps-sets-and-the-weight-arent-that-important/). Chasing numbers whether it is going for personal records, lifting for X number of minutes, or going to the gym a specific number of times per week can be motivating to some, but every time I chased numbers, I always ended up injured. I didn't listen to how my body was feeling at the moment, I relied on the training logs to tell me how much I should be lifting. ![MAS in front of gorlla](./img/mas-gorilla-650.jpg) _A gorilla with a spreadsheet is still a gorilla_ I no longer [track my workouts](/2012/08/why-i-dont-measure-my-workouts/). Ditching the training logs has been one of the best fitness decisions I ever made. The fitness bloggers engage in this endless debate on what is the best exercise, training frequency, or rep speed. I believe they are focused in the wrong direction. Pick safe exercises, train intuitively and then rest. Training intuitively means not being married to one volume level or training frequency or rep speed. In a comment on the post [Training to Failure is a Tool](/2014/03/training-failure-tool/) I said this:
+My opinion of Quantified Self has gone from being an [enthusiastic supporter](/2011/08/my-case-for-self-experimentation/) to one of [extreme skepticism](/2013/11/quantifiable-self-form-journaling/). There is a lure to the narrative that if we collect enough data about ourselves we can be leaner, stronger, faster, and smarter. The problem is we are human and unless the correlation is very strong, the data we collect is not enough to draw meaningful conclusions. And unlike machines, we are always changing, so even if we did find meaningful data, it doesn't hold true that it will always be of value.
+
+I was recently thinking how Quantified Self is a lot like tracking how much weight you lifted in the gym.
+
+Gaining strength is more than numbers. Instead of rehashing my opinion, I'll direct those that are interested to the post [Reps, Sets and the Weight Aren't That Important](/2012/12/reps-sets-and-the-weight-arent-that-important/). Chasing numbers whether it is going for personal records, lifting for X number of minutes, or going to the gym a specific number of times per week can be motivating to some, but every time I chased numbers, I always ended up injured. I didn't listen to how my body was feeling at the moment, I relied on the training logs to tell me how much I should be lifting.
+
+![MAS in front of gorlla](./img/mas-gorilla-650.jpg)
+
+_A gorilla with a spreadsheet is still a gorilla_
+
+I no longer [track my workouts](/2012/08/why-i-dont-measure-my-workouts/). Ditching the training logs has been one of the best fitness decisions I ever made. The fitness bloggers engage in this endless debate on what is the best exercise, training frequency, or rep speed. I believe they are focused in the wrong direction. Pick safe exercises, train intuitively and then rest. Training intuitively means not being married to one volume level or training frequency or rep speed.
+
+In a comment on the post [Training to Failure is a Tool](/2014/03/training-failure-tool/) I said this:
 
 > I don’t believe there is one optimal tempo or volume program that applies to everyone at every stage of their training. There are too many variables. The best tempo is the one that captures your attention to generate the most intensity. For most lifters that will change as we become bored with one flavor of HIT and seek the novelty of something different.
 
@@ -23,7 +35,9 @@ The Quantified Self movement seems noble, but I question if trusting the few poi
 
 > Intuition is like a muscle that must be exercised, with trust. - Paul Chek
 
-Lest anyone accuse me of being anti-data, I can assure you that is not the case. I love data. I've built many database applications. I am fluent in SQL. I once built a reporting system that measured the energy usage of thousands of retail locations and then reported the high usage outliers to technicians. Having worked with both self-collected data and machine collected data is why I'm highly critical of Quantified Self. Trust yourself. It takes work, but it can be done.
+Lest anyone accuse me of being anti-data, I can assure you that is not the case. I love data. I've built many database applications. I am fluent in SQL. I once built a reporting system that measured the energy usage of thousands of retail locations and then reported the high usage outliers to technicians.
+
+Having worked with both self-collected data and machine collected data is why I'm highly critical of Quantified Self. Trust yourself. It takes work, but it can be done.
 
 ---
 

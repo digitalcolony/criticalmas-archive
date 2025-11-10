@@ -9,7 +9,9 @@ description: "Anyone who has read this site knows I am not a fan of CrossFit. I 
 commentCount: 17
 ---
 
-Anyone who has read this site knows I am not a fan of CrossFit. I believe it is the wrong approach to fitness for a number of reasons, but my root reason is the high injury rate. When you combine speed, load, and volume, bad things happen. Until yesterday, I had no idea what the injury rate for CrossFit was. If you had forced me to guess, I would have said 20%, with maybe 2% of those injuries requiring surgery. I wasn't even close. Thanks to Bill Lagakos, Ph.D. (@CalorieProper) for tweeting this study yesterday. From [The nature and prevalence of injury during CrossFit training](http://www.ncbi.nlm.nih.gov/pubmed/24276294) abstract.
+Anyone who has read this site knows I am not a fan of CrossFit. I believe it is the wrong approach to fitness for a number of reasons, but my root reason is the high injury rate. When you combine speed, load, and volume, bad things happen. Until yesterday, I had no idea what the injury rate for CrossFit was. If you had forced me to guess, I would have said 20%, with maybe 2% of those injuries requiring surgery. I wasn't even close.
+
+Thanks to Bill Lagakos, Ph.D. (@CalorieProper) for tweeting this study yesterday. From [The nature and prevalence of injury during CrossFit training](http://www.ncbi.nlm.nih.gov/pubmed/24276294) abstract.
 
 > An online questionnaire was distributed amongst international CrossFit online forums. Data collected included general demographics, training programs, injury profiles and supplement use. A total of 132 responses were collected with 97 **(73.5%) having sustained an injury during CrossFit training**. A total of 186 injuries were reported with **9 (7.0%) requiring surgical intervention**. An injury rate of 3.1 per 1000 hours trained was calculated. No incidences of rhabdomyolysis were reported. Injury rates with CrossFit training are similar to that reported in the literature for sports such as Olympic weight-lifting, power-lifting and gymnastics and lower than competitive contact sports such as rugby union and rugby league.
 
@@ -19,7 +21,17 @@ I'm sure the CrossFit people can point to flaws in this study, but even if the n
 ### Is it Bad Form?
 
 
-A common defense of CrossFit and Olympic Lifting is the belief that injuries are a result of poor form and that with good form, injuries will not happen. I call this **The Myth of the Perfect Rep**. To believe that every rep of every set of every workout is going to be flawless is a fallacy. We are human. We are not mechanical. We make mistakes. We lift emotionally. And we age. Let us set aside that not all injuries occur during the movement, some are [slow and accumulative](/2013/06/my-squat-article-is-a-silly-scare-piece/). An excellent form will allow the athlete to progress through lower weights and lower volumes with a lower risk of injury. However, as skill and strength increase, so does the weight and the volume. The risk of injury still exists, only now the stakes are higher. Your form can be 10 or 50 times better than it was when you started, but it will never be 100% perfect. One enemy of good form is fatigue. Fatigue can be brought on from using too much weight or doing too many reps or having too little recovery. The more skill involved with an exercise, the greater the risks of having bad form. I've watched the [video where elite CrossFit athlete Kevin Ogar severs his spine](https://youtu.be/jWJapBpKrQA) at least 10 times. His form looks solid to me. Maybe from a side angle, it would be easier to see how this one repetition leads to him being paralyzed from the waist down. Regardless of what went wrong, it was a horrifying injury. With gymnastics, the load is never more than the athlete's body weight. With Olympic Lifting, the load is high, but the reps and volume are less. And both those sports have high injury rates. **You don't need to mix speed, skill, load, and volume together to achieve a high level of fitness. All you are doing is compounding the risks of getting injured.** ![Gymnast](./img/3164105257_9f63357e67_z.jpg) _Photo by [crises\_crs](https://www.flickr.com/people/33774513@N08/)_
+A common defense of CrossFit and Olympic Lifting is the belief that injuries are a result of poor form and that with good form, injuries will not happen. I call this **The Myth of the Perfect Rep**. To believe that every rep of every set of every workout is going to be flawless is a fallacy. We are human. We are not mechanical. We make mistakes. We lift emotionally. And we age.
+
+Let us set aside that not all injuries occur during the movement, some are [slow and accumulative](/2013/06/my-squat-article-is-a-silly-scare-piece/). An excellent form will allow the athlete to progress through lower weights and lower volumes with a lower risk of injury. However, as skill and strength increase, so does the weight and the volume. The risk of injury still exists, only now the stakes are higher.
+
+Your form can be 10 or 50 times better than it was when you started, but it will never be 100% perfect. One enemy of good form is fatigue. Fatigue can be brought on from using too much weight or doing too many reps or having too little recovery. The more skill involved with an exercise, the greater the risks of having bad form. I've watched the [video where elite CrossFit athlete Kevin Ogar severs his spine](https://youtu.be/jWJapBpKrQA) at least 10 times. His form looks solid to me. Maybe from a side angle, it would be easier to see how this one repetition leads to him being paralyzed from the waist down. Regardless of what went wrong, it was a horrifying injury.
+
+With gymnastics, the load is never more than the athlete's body weight. With Olympic Lifting, the load is high, but the reps and volume are less. And both those sports have high injury rates. **You don't need to mix speed, skill, load, and volume together to achieve a high level of fitness. All you are doing is compounding the risks of getting injured.**
+
+![Gymnast](./img/3164105257_9f63357e67_z.jpg)
+
+_Photo by [crises\_crs](https://www.flickr.com/people/33774513@N08/)_
 
 
 ### Stay Safe
@@ -33,7 +45,9 @@ Of course, I have to end this post with the obvious conclusion I reached in my [
 4.  Increase intensity (or not). With safer exercises, you now have the option of going for an extra rep or spending more time under load without fear of getting hurt.
 5.  Allow time for recovery. 1-2 brief workouts a week is all you need.
 
-There it is. It isn't glamorous, but it works. Of course, what I just described is High-Intensity Training (HIT), which is not to be confused with the more popular High-Intensity Interval Training (HIIT). After many years and many injuries from lifting the other way, I am now 3+ years into HIT with no injuries and in great shape. The key to winning is first not to lose. For more info on HIT, read _Body By Science_ for a gym-based workout or [Hillfit 2.0](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/) for a bodyweight approach.
+There it is. It isn't glamorous, but it works.
+
+Of course, what I just described is High-Intensity Training (HIT), which is not to be confused with the more popular High-Intensity Interval Training (HIIT). After many years and many injuries from lifting the other way, I am now 3+ years into HIT with no injuries and in great shape. The key to winning is first not to lose. For more info on HIT, read _Body By Science_ for a gym-based workout or [Hillfit 2.0](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/) for a bodyweight approach.
 
 ---
 

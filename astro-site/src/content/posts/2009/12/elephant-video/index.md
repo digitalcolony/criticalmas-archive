@@ -9,7 +9,9 @@ description: "This is a video clip of the elephant we saw in Ko Samui, Thailand.
 commentCount: 1
 ---
 
-This is a video clip of the [elephant](/2009/12/ko-samui-thailand/) we saw in Ko Samui, Thailand. This is not the [elephant](/2009/11/elephant-training-in-chiang-mai-thailand/) I rode in Chiang Mai. http://www.youtube.com/v/TyupPQdDIh0
+This is a video clip of the [elephant](/2009/12/ko-samui-thailand/) we saw in Ko Samui, Thailand. This is not the [elephant](/2009/11/elephant-training-in-chiang-mai-thailand/) I rode in Chiang Mai.
+
+http://www.youtube.com/v/TyupPQdDIh0
 
 ---
 

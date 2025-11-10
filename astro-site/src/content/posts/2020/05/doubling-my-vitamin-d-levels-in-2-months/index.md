@@ -9,7 +9,9 @@ description: "In the post My Coronavirus Plan, I mentioned that I was Vitamin D 
 commentCount: 6
 ---
 
-In the post [My Coronavirus Plan](/2020/04/my-coronavirus-plan/), I mentioned that I was Vitamin D deficient and that one of the strategies I would focus on as a defense against the Coronavirus would be getting my levels up to optimal. My plan:
+In the post [My Coronavirus Plan](/2020/04/my-coronavirus-plan/), I mentioned that I was Vitamin D deficient and that one of the strategies I would focus on as a defense against the Coronavirus would be getting my levels up to optimal.
+
+My plan:
 
 > Every day, I take 5000 IU of a Vitamin D3 (with K2) supplement with food. I also go for a walk outside between 11 am – 4 pm when the UV index is the strongest. And unlike my fellow neighbors, I am not bundling myself head-to-toe covering every inch of exposed skin. I want my Vitamin D.
 
@@ -18,7 +20,9 @@ How did I do?
 -   March 3rd: VITAMIN D, 25-OH, TOTAL: **19 ng/mL** (deficient)
 -   May 6th: VITAMIN D, 25-OH, TOTAL: **43 ng/mL**
 
-In 64 days, I more than doubled my Vitamin D levels. By most metrics, I am no longer deficient. However, based on a few charts I am still considered "insufficient". What is optimal? There does not seem to be an agreed-upon level. The two most common ranges I see for optimal are:
+In 64 days, I more than doubled my Vitamin D levels. By most metrics, I am no longer deficient. However, based on a few charts I am still considered "insufficient".
+
+What is optimal? There does not seem to be an agreed-upon level. The two most common ranges I see for optimal are:
 
 -   **50-70 ng/mL**
 -   **40-60 ng/mL**
@@ -29,13 +33,25 @@ I'll be aiming for **55 ng/mL**. That gives me padding on each side. Now that th
 ### 🚀 Energy Levels WAY UP!
 
 
-Back in October, I posted [Dear Future Tired Self](/2019/10/dear-future-tired-self/). In that post, I blamed too much coffee for my lack of energy. Once I cut my coffee intake in half, my energy went up. All that is true, but I now know it was just one variable. Increasing my Vitamin D levels has been a jolt to my energy levels. More than reducing coffee. It was gradually, but noticeable.
+Back in October, I posted [Dear Future Tired Self](/2019/10/dear-future-tired-self/). In that post, I blamed too much coffee for my lack of energy. Once I cut my coffee intake in half, my energy went up. All that is true, but I now know it was just one variable. Increasing my Vitamin D levels has been a jolt to my energy levels. More than reducing coffee.
+
+It was gradually, but noticeable.
 
 
 ### 🏥 Test yourself!
 
 
-I went my whole life thinking I was fine and didn't need to be tested. And because I avoid doctors, I have been avoiding tests. The good news is we don't need a doctor to get tests. With websites such as Ultalabs or Directlabs, you can test yourself at a very affordable price. I was able to get each of my Vitamin D tests for $39.20 from Ultalabs. I didn't need to go through a doctor or my health insurance provider. Last year, before I knew about Ultalabs, I went to my regular doctor. He ran a bunch of tests that ended up costing me over $800 out of pocket. I learned almost nothing from the tests. Ironically, even though I was fatigued and living in the PNW, he never bothered to order a Vitamin D test. 🤦🏻‍♂️ Ultalabs and Directlabs act as brokers between you and the places that perform the tests. I ordered the test online. I printed out a form and then drove a few miles away to a Quest Diagnostic facility for a blood draw. No wait, no appointment, and no lobby full of sick people. A few days later, I received an email with my results. And because I have an iPhone, I was able to have my health records sent directly to the Health app. For less than $100 I was able to get two Vitamin D tests and a bottle of Vitamin D3/K2 capsules. I fixed my deficiency and have escaped the Vitamin D danger zone. No doctor needed. ![vitamin-d-test](./img/vitamin-d-test.jpg) _On the iPhone, open the Health app, click summary, scroll to the bottom to add accounts. Add your health care provider and testing facilities. A few days later, all your health data will be there for easy access._
+I went my whole life thinking I was fine and didn't need to be tested. And because I avoid doctors, I have been avoiding tests. The good news is we don't need a doctor to get tests. With websites such as Ultalabs or Directlabs, you can test yourself at a very affordable price.
+
+I was able to get each of my Vitamin D tests for $39.20 from Ultalabs. I didn't need to go through a doctor or my health insurance provider. Last year, before I knew about Ultalabs, I went to my regular doctor. He ran a bunch of tests that ended up costing me over $800 out of pocket. I learned almost nothing from the tests. Ironically, even though I was fatigued and living in the PNW, he never bothered to order a Vitamin D test. 🤦🏻‍♂️
+
+Ultalabs and Directlabs act as brokers between you and the places that perform the tests. I ordered the test online. I printed out a form and then drove a few miles away to a Quest Diagnostic facility for a blood draw. No wait, no appointment, and no lobby full of sick people. A few days later, I received an email with my results. And because I have an iPhone, I was able to have my health records sent directly to the Health app.
+
+For less than $100 I was able to get two Vitamin D tests and a bottle of Vitamin D3/K2 capsules. I fixed my deficiency and have escaped the Vitamin D danger zone. No doctor needed.
+
+![vitamin-d-test](./img/vitamin-d-test.jpg)
+
+_On the iPhone, open the Health app, click summary, scroll to the bottom to add accounts. Add your health care provider and testing facilities. A few days later, all your health data will be there for easy access._
 
 ---
 

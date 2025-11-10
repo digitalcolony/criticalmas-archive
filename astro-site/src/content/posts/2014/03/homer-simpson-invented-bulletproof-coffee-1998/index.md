@@ -9,11 +9,17 @@ description: "I've been watching The Simpsons since they debuted, but recently I
 commentCount: 3
 ---
 
-I've been watching The Simpsons since they debuted, but recently I learned that there were some episodes from season 9 that I somehow missed. So I acquired the DVD from that season and began watching. That is when I discovered something interesting from the 23rd episode of that season titled "King of the Hill". It was Homer Simpson, not Dave Asprey that came up with the idea of [Bulletproof Coffee](https://ineedcoffee.com/making-bulletproof-coffee/). :) In this episode, Homer finds himself in horrible physical shape. Before starting his fitness routine, he and Marge are in bed talking.
+I've been watching The Simpsons since they debuted, but recently I learned that there were some episodes from season 9 that I somehow missed. So I acquired the DVD from that season and began watching. That is when I discovered something interesting from the 23rd episode of that season titled "King of the Hill". It was Homer Simpson, not Dave Asprey that came up with the idea of [Bulletproof Coffee](https://ineedcoffee.com/making-bulletproof-coffee/). :)
 
-> **Homer:** Oh Marge! How could you let me let myself go like this? **Marge:** Me? I'm not the one that puts butter in coffee.
+In this episode, Homer finds himself in horrible physical shape. Before starting his fitness routine, he and Marge are in bed talking.
 
-Maybe Homer would have been in better shape had he also added MCT Oil? ![Homer Simpson Bulletproof Coffee](./img/simpsons-2.jpg)
+> **Homer:** Oh Marge! How could you let me let myself go like this?
+> 
+> **Marge:** Me? I'm not the one that puts butter in coffee.
+
+Maybe Homer would have been in better shape had he also added MCT Oil?
+
+![Homer Simpson Bulletproof Coffee](./img/simpsons-2.jpg)
 
 ---
 

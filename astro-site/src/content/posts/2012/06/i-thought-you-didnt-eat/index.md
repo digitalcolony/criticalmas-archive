@@ -9,7 +9,17 @@ description: "I really need to stop talking about diet outside this blog. Even t
 commentCount: 17
 ---
 
-I really need to stop talking about diet outside this blog. Even though people find my food experiments _entertaining_, they also fail to grasp that they are just experiments. Experiments end. The readers of this blog get that. Others don't. I stopped doing a low-carbohydrate interpretation of the Paleo diet [2 years ago](/2010/08/summer-is-not-the-season-to-lean-out/). Yet I still have friends, some that are close, that even after seeing me eat rice, sweet potatoes and ice cream think that I despise carbs. I've gotten an accusatory _"I thought you didn't eat..."_ over carbs, nuts, dairy, sugar and probably a few I'm forgetting. Part of me thinks they honestly don't remember me explaining that I do short term experiments and that they forget the outcome. But it happens so frequently and often multiple times with the same person. Constantly explaining or defending my dietary experiments has become too exhausting. Some people are desperate to feel better about themselves and one way they do it is by pointing out what they see as inconsistencies in others. It doesn't matter if those inconsistencies are real or perceived. We live in a Gotcha Society. The number one reason that I've been successful with my diet in the last four years is because I'm willing to experiment. I don't have the answers, so I test. I incorporate what works and then discard the rest. Why this upsets some people baffles me. Are others experiencing a similar situation or if this is just part of the Seattle's passive aggressive nature? ![mas-cake](./img/mas-cake.jpg) _Young MAS enjoying a meal._
+I really need to stop talking about diet outside this blog. Even though people find my food experiments _entertaining_, they also fail to grasp that they are just experiments. Experiments end. The readers of this blog get that. Others don't. I stopped doing a low-carbohydrate interpretation of the Paleo diet [2 years ago](/2010/08/summer-is-not-the-season-to-lean-out/). Yet I still have friends, some that are close, that even after seeing me eat rice, sweet potatoes and ice cream think that I despise carbs.
+
+I've gotten an accusatory _"I thought you didn't eat..."_ over carbs, nuts, dairy, sugar and probably a few I'm forgetting. Part of me thinks they honestly don't remember me explaining that I do short term experiments and that they forget the outcome. But it happens so frequently and often multiple times with the same person. Constantly explaining or defending my dietary experiments has become too exhausting.
+
+Some people are desperate to feel better about themselves and one way they do it is by pointing out what they see as inconsistencies in others. It doesn't matter if those inconsistencies are real or perceived. We live in a Gotcha Society. The number one reason that I've been successful with my diet in the last four years is because I'm willing to experiment. I don't have the answers, so I test. I incorporate what works and then discard the rest. Why this upsets some people baffles me.
+
+Are others experiencing a similar situation or if this is just part of the Seattle's passive aggressive nature?
+
+![mas-cake](./img/mas-cake.jpg)
+
+_Young MAS enjoying a meal._
 
 ---
 

@@ -9,19 +9,29 @@ description: "This post is a follow up to The College Debt Trap where I pleaded 
 commentCount: 5
 ---
 
-This post is a follow up to [The College Debt Trap](/2010/09/the-college-debt-trap/) where I pleaded the case to avoid becoming a debt slave to acquire a college degree. This post is about an alternative to college debt. If your Daddy, some scholarship or an employer is footing the bill then proceed with classes. Otherwise, read on. I can count 3 things college provides.
+This post is a follow up to [The College Debt Trap](/2010/09/the-college-debt-trap/) where I pleaded the case to avoid becoming a debt slave to acquire a college degree. This post is about an alternative to college debt. If your Daddy, some scholarship or an employer is footing the bill then proceed with classes. Otherwise, read on.
+
+I can count 3 things college provides.
 
 1.  Knowledge in some discipline that _may_ be utilized for future employment.
 2.  Framework for the undisciplined learner.
 3.  Certification that the student has completed the coursework for some program.
 
-With the Internet, DVDs, books, lectures and other media, the colleges no longer have a lock on education. I can order a DVD set from Amazon that teaches me physics and then jump online to ask questions in a forum if I need help. Want to learn a foreign language? Many cities have community groups dedicated to foreign language instruction. Earlier this year I sat in a hospital lecture hall - side by side with doctors - and listened to a 3-hour lecture on nutrition. For free. I could go on and on. Almost anything you want to learn you can without enrolling in college. That wasn't true 10 years ago. The cost barrier for knowledge has plummeted outside the campuses. College does provide a framework for the undisciplined learner. Sadly too many people need a test and a threat of a poor grade to motivate them into learning course material. Students throughout their learning career have been trained to follow orders instead of their passions. **Committing to tens of thousands of dollars in debt to any learning without academic passion is foolish.** Back when attending college was cheap, it made sense to find your calling during your freshman and sophomore years. Not anymore. Figure it out before you enroll. There are endless free or near free resources to help you But you need a degree to get that job? Maybe but not necessarily. Sure there are many jobs where certification is an absolute must. However, **I think we are the early stages of a trend where highly motivated people who work outside traditional education and can demonstrate their expertise on a topic will excel**. How can one learn a subject, get experience in that field and not become buried in debt for life?
+With the Internet, DVDs, books, lectures and other media, the colleges no longer have a lock on education. I can order a DVD set from Amazon that teaches me physics and then jump online to ask questions in a forum if I need help. Want to learn a foreign language? Many cities have community groups dedicated to foreign language instruction. Earlier this year I sat in a hospital lecture hall - side by side with doctors - and listened to a 3-hour lecture on nutrition. For free.
+
+I could go on and on. Almost anything you want to learn you can without enrolling in college. That wasn't true 10 years ago. The cost barrier for knowledge has plummeted outside the campuses.
+
+College does provide a framework for the undisciplined learner. Sadly too many people need a test and a threat of a poor grade to motivate them into learning course material. Students throughout their learning career have been trained to follow orders instead of their passions. **Committing to tens of thousands of dollars in debt to any learning without academic passion is foolish.** Back when attending college was cheap, it made sense to find your calling during your freshman and sophomore years. Not anymore. Figure it out before you enroll. There are endless free or near free resources to help you
+
+But you need a degree to get that job? Maybe but not necessarily. Sure there are many jobs where certification is an absolute must. However, **I think we are the early stages of a trend where highly motivated people who work outside traditional education and can demonstrate their expertise on a topic will excel**. How can one learn a subject, get experience in that field and not become buried in debt for life?
 
 
 ### The Return of Apprenticeship
 
 
-As more and more students wise up to the weakening value of a college degree, they will rediscover apprenticeship. Learn skills and gain important networking contacts by jumping into the field and working for a low wage or even free. The employer gets a passionate employee dirt cheap and the student learns what it is like to work in the field with a much shorter time commitment than college and without cost. This summer I worked as a Technical Editor on a computer book that will be published this fall by [Packt Publishing](http://www.packtpub.com/). I did it for free. This was an opportunity to test drive a new career working part-time from home. My name and bio will appear in the book. If I decide to seek out a position as a Technical Editor, I'll bring a copy of that book to the interview. The publisher and I established a partnership that benefited us both. No professor required. That is the economics of apprenticeship.
+As more and more students wise up to the weakening value of a college degree, they will rediscover apprenticeship. Learn skills and gain important networking contacts by jumping into the field and working for a low wage or even free. The employer gets a passionate employee dirt cheap and the student learns what it is like to work in the field with a much shorter time commitment than college and without cost.
+
+This summer I worked as a Technical Editor on a computer book that will be published this fall by [Packt Publishing](http://www.packtpub.com/). I did it for free. This was an opportunity to test drive a new career working part-time from home. My name and bio will appear in the book. If I decide to seek out a position as a Technical Editor, I'll bring a copy of that book to the interview. The publisher and I established a partnership that benefited us both. No professor required. That is the economics of apprenticeship.
 
 ---
 

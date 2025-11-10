@@ -9,7 +9,13 @@ description: "I decided to take a break from the spicy ferments and focus on mak
 commentCount: 6
 ---
 
-I decided to take a break from the [spicy ferments](/2011/11/ghost-pepper-kimchi-recipe/) and focus on making something sweet. Something kid friendly! **This ferment is super easy to do.** You can adjust the salt and ginger level up or down and it will still taste good. It tastes good with a 3 day ferment or a 10 day ferment. If you like the taste of carrots and ginger, it would be really hard to mess this one up. Ginger is super healthy too. It is one of the starred foods in the book [The 150 Healthiest Foods on Earth](/2008/03/150-superfoods-because-14-just-wasnt-enough/). It has antimicrobial and antiviral benefits, which we can all use during this time of the year. Last week I got a cold and thankfully I had this ferment on hand to nurse myself back to health. Another good thing about this recipe is I never have to worry about buying too many carrots and then having to throw them away because they went bad before I could use them. At the moment I know I can't get to the carrots fresh, they become ingredients for the next carrot and ginger fermentation. My home is on a zero carrot waste policy. ![](https://criticalmas.org/wp-includes/images/smilies/icon_cool.gif "cool") **Summary**: _A sweet vegetable ferment using carrots and ginger._
+I decided to take a break from the [spicy ferments](/2011/11/ghost-pepper-kimchi-recipe/) and focus on making something sweet. Something kid friendly! **This ferment is super easy to do.** You can adjust the salt and ginger level up or down and it will still taste good. It tastes good with a 3 day ferment or a 10 day ferment. If you like the taste of carrots and ginger, it would be really hard to mess this one up.
+
+Ginger is super healthy too. It is one of the starred foods in the book [The 150 Healthiest Foods on Earth](/2008/03/150-superfoods-because-14-just-wasnt-enough/). It has antimicrobial and antiviral benefits, which we can all use during this time of the year. Last week I got a cold and thankfully I had this ferment on hand to nurse myself back to health.
+
+Another good thing about this recipe is I never have to worry about buying too many carrots and then having to throw them away because they went bad before I could use them. At the moment I know I can't get to the carrots fresh, they become ingredients for the next carrot and ginger fermentation. My home is on a zero carrot waste policy. ![](https://criticalmas.org/wp-includes/images/smilies/icon_cool.gif "cool")
+
+**Summary**: _A sweet vegetable ferment using carrots and ginger._
 
 
 #### Ingredients
@@ -37,7 +43,13 @@ I decided to take a break from the [spicy ferments](/2011/11/ghost-pepper-kimchi
 #### Quick notes
 
 
-How many days you take the ferment all depends upon your taste and how warm the fermentation environment happens to be. If you prefer your carrots more crunchy, use a shorter ferment. There is no wrong answer! Preparation time: 20 minute(s) UPDATE (Feb 14, 2011): I discovered that this ferment makes an excellent substitute for salad dressing.
+How many days you take the ferment all depends upon your taste and how warm the fermentation environment happens to be. If you prefer your carrots more crunchy, use a shorter ferment.
+
+There is no wrong answer!
+
+Preparation time: 20 minute(s)
+
+UPDATE (Feb 14, 2011): I discovered that this ferment makes an excellent substitute for salad dressing.
 
 ---
 

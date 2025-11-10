@@ -9,7 +9,27 @@ description: "UPDATE Feb 2013: This recipe has been updated. See Beef Heart Stew
 commentCount: 25
 ---
 
-_UPDATE Feb 2013: This recipe has been updated. See [Beef Heart Stew Rebooted (Slow Cooker Recipe)](/2013/02/beef-heart-stew-rebooted-slow-cooker-recipe/)_ I recently bought my first beef heart at the farmers market. ![beef-heart-stew](./img/beef-heart-stew.jpg) ![beef-heart](./img/beef-heart.jpg) Then I watched the video below, which detailed how to trim the meat.  _[Cleaning a Beef Heart](http://www.youtube.com/watch?v=cfxLptyBQkY) by offalchris_ Once it was cleaned and trimmed, I cut the meat into little dice sized pieces. ![cubed-beef-heart](./img/cubed-beef-heart.jpg) Threw it into my Slow Cooker with some beef stock and assorted veggies. Onions, garlic, carrots are some ideas. I added a few Thai peppers, which gave it some serious heat. For Crock Pot dishes, I do the first 30-60 minutes on high and then drop the temperature to low. Five hours later it was done. The taste was nothing like liver or chicken hearts. It just tasted like lean beef. Why would you eat beef heart? Not only is it pretty cheap, but it is a nutrient dense. The article [The "Weird" Types of Meat with the Highest Nutrient Density](http://www.truthaboutabs.com/weird-nutrient-dense-meat.html) by Catherine Ebeling - RN, BSN and Mike Geary, Certified Nutrition Specialist cited these properties on beef heart:
+_UPDATE Feb 2013: This recipe has been updated. See [Beef Heart Stew Rebooted (Slow Cooker Recipe)](/2013/02/beef-heart-stew-rebooted-slow-cooker-recipe/)_
+
+I recently bought my first beef heart at the farmers market.
+
+![beef-heart-stew](./img/beef-heart-stew.jpg)
+
+![beef-heart](./img/beef-heart.jpg)
+
+Then I watched the video below, which detailed how to trim the meat.
+
+_[Cleaning a Beef Heart](http://www.youtube.com/watch?v=cfxLptyBQkY) by offalchris_
+
+Once it was cleaned and trimmed, I cut the meat into little dice sized pieces.
+
+![cubed-beef-heart](./img/cubed-beef-heart.jpg)
+
+Threw it into my Slow Cooker with some beef stock and assorted veggies. Onions, garlic, carrots are some ideas. I added a few Thai peppers, which gave it some serious heat. For Crock Pot dishes, I do the first 30-60 minutes on high and then drop the temperature to low. Five hours later it was done.
+
+The taste was nothing like liver or chicken hearts. It just tasted like lean beef.
+
+Why would you eat beef heart? Not only is it pretty cheap, but it is a nutrient dense. The article [The "Weird" Types of Meat with the Highest Nutrient Density](http://www.truthaboutabs.com/weird-nutrient-dense-meat.html) by Catherine Ebeling - RN, BSN and Mike Geary, Certified Nutrition Specialist cited these properties on beef heart:
 
 1.  Very high levels of CoQ10, which is excellent for our own heart health. This is another example of "_like cures like_".
 2.  Good source of selenium, phosphorous and zinc.

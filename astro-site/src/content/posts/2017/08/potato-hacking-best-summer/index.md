@@ -9,7 +9,19 @@ description: "Right now I am one day behind the rest of you on The Summer Potato
 commentCount: 1
 ---
 
-Right now I am one day behind the rest of you on The Summer Potato Hack, which Tim Steele set up for August 14-18. Today is Day 3 for me and I wanted to share that Day 2 this time was no big deal. For me, Day 2 has always been the toughest day. Not this year. Two reasons come to mind. First, my potato hacking skills are getting better. Second, it is summer. I wasn't planning on doing another multi-day Potato Hack anytime soon because I just completed a 4-day hack in early June. However, once I saw the dates, I knew this would be the best chance to get in another hack before fall and winter arrives. You see Potato Hacking is harder to do in the winter. As with any diet where you are experiencing a significant drop in calories, you can start to feel cold. It is easier to not feel cold when it is warm outside. Also, the days are shorter and there is less sun. So Mother Nature is working against your mood at the same time you are eating one potato after another for days. Potato Hacking now and in June was much easier than my experiences in October or November. If you are interested in doing a Potato Hack but haven't started yet, I encourage you to get started before fall arrives. It would make it easier. Another tip I want to share is to study the space you have available inside your refrigerator and then head to a container store. Purchase a tub that will hold enough cooked potatoes for a day. It will hold 5 - 6 pounds of potatoes and at a glance, I can how many are left inside the tub. Having a dedicated potato tub has made my life simpler. ![Potato Hack Diet book](./img/potato-hack-diet.jpg) _The Potato Hack: Weight Loss Simplified_
+Right now I am one day behind the rest of you on The Summer Potato Hack, which Tim Steele set up for August 14-18. Today is Day 3 for me and I wanted to share that Day 2 this time was no big deal. For me, Day 2 has always been the toughest day. Not this year. Two reasons come to mind. First, my potato hacking skills are getting better. Second, it is summer.
+
+I wasn't planning on doing another multi-day Potato Hack anytime soon because I just completed a 4-day hack in early June. However, once I saw the dates, I knew this would be the best chance to get in another hack before fall and winter arrives.
+
+You see Potato Hacking is harder to do in the winter. As with any diet where you are experiencing a significant drop in calories, you can start to feel cold. It is easier to not feel cold when it is warm outside. Also, the days are shorter and there is less sun. So Mother Nature is working against your mood at the same time you are eating one potato after another for days. Potato Hacking now and in June was much easier than my experiences in October or November.
+
+If you are interested in doing a Potato Hack but haven't started yet, I encourage you to get started before fall arrives. It would make it easier.
+
+Another tip I want to share is to study the space you have available inside your refrigerator and then head to a container store. Purchase a tub that will hold enough cooked potatoes for a day. It will hold 5 - 6 pounds of potatoes and at a glance, I can how many are left inside the tub. Having a dedicated potato tub has made my life simpler.
+
+![Potato Hack Diet book](./img/potato-hack-diet.jpg)
+
+_The Potato Hack: Weight Loss Simplified_
 
 ---
 

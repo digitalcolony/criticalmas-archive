@@ -9,19 +9,25 @@ description: "I've done the Max Pyramid leg press many times, but never with a s
 commentCount: 11
 ---
 
-I've done the Max Pyramid leg press many times, but never with a static weight. The traditional way it is done is by increasing the weight (pyramid up) and then decreasing the weight (pyramid down). Static holds of about 20 seconds are held at each point. You can also use a constant weight and vary the TUL in each position. Before I headed to the gym, I decided I would do the same static weight Max Pyramid approach on the chest press machine as well. For the back, I performed two static holds for each repetition of a chin up.
+I've done the Max Pyramid leg press many times, but never with a static weight. The traditional way it is done is by increasing the weight (pyramid up) and then decreasing the weight (pyramid down). Static holds of about 20 seconds are held at each point. You can also use a constant weight and vary the TUL in each position.
+
+Before I headed to the gym, I decided I would do the same static weight Max Pyramid approach on the chest press machine as well. For the back, I performed two static holds for each repetition of a chin up.
 
 1.  Leg Press - 20 second holds (3 positions up, 3 positions down)
 2.  Chest Press - 20 second holds (3 positions up, 3 positions down)
 3.  Chin Up - 20-30 second holds top position ( 2-3 repetitions)
 
-![pyramids](./img/pyramids.jpg) _[Photo](https://flic.kr/p/6QoeNB) by Yasin Hassan_
+![pyramids](./img/pyramids.jpg)
+
+_[Photo](https://flic.kr/p/6QoeNB) by Yasin Hassan_
 
 
 ### 3 Exercises, 1 Set Each
 
 
-This workout is just 3 exercises, one set each. I used a lighter weight. It didn't matter. This workout destroyed me. I suspect that ectomorphs will benefit tremendously from moving the position of the static hold up and down. One workout per week is all that is needed. If you can do two of these workouts a week, you either have superior recovery skills or you didn't reach a high enough level of intensity. Give it a try. You will be humbled. A quick note on breathing during static holds. Unlike traditional weightlifting where we time our inhale and exhale with the repetition, with High Intensity Training, you decouple the two. As the set progresses your breathing rate will increase. At times you might be tempted to hold your breath to squeeze out extra effort. Don't do it. Relax your jaw so you don't clench your teeth and let your breathing accelerate naturally.
+This workout is just 3 exercises, one set each. I used a lighter weight. It didn't matter. This workout destroyed me. I suspect that ectomorphs will benefit tremendously from moving the position of the static hold up and down. One workout per week is all that is needed. If you can do two of these workouts a week, you either have superior recovery skills or you didn't reach a high enough level of intensity. Give it a try. You will be humbled.
+
+A quick note on breathing during static holds. Unlike traditional weightlifting where we time our inhale and exhale with the repetition, with High Intensity Training, you decouple the two. As the set progresses your breathing rate will increase. At times you might be tempted to hold your breath to squeeze out extra effort. Don't do it. Relax your jaw so you don't clench your teeth and let your breathing accelerate naturally.
 
 ---
 

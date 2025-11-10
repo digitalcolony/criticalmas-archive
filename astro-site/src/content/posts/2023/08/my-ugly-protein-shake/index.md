@@ -11,7 +11,9 @@ commentCount: 21
 
 I am currently testing the higher protein advice of Dr. Peter Attia, which I [mentioned back in April](/2023/04/more-protein-and-the-fasting-backlash-part-2/).
 
-> This year I started increasing my protein levels and I started eating breakfast 3-4 times a week. The result so far has been I’ve gained 6 pounds, most of which I would say has been fat, not muscle. Oops. 😮 I’m 186 now instead of 180. Considering I was 222 at my peak, I’m not concerned. I just need to get better at high-protein meal prep. It is a skill and I will figure it out.
+> This year I started increasing my protein levels and I started eating breakfast 3-4 times a week. The result so far has been I’ve gained 6 pounds, most of which I would say has been fat, not muscle. Oops. 😮
+> 
+> I’m 186 now instead of 180. Considering I was 222 at my peak, I’m not concerned. I just need to get better at high-protein meal prep. It is a skill and I will figure it out.
 
 Since April, I have dialed in my higher protein levels better. I am back down to 180. I am starting off every morning with a protein shake. My shakes are not pretty. Any juice bar that tried to sell my style of shake would go bankrupt. That is a feature, not a bug. More on that later.
 
@@ -19,19 +21,71 @@ Since April, I have dialed in my higher protein levels better. I am back down to
 ### Shakes Again?
 
 
-In the 2013-2014 era, I tried and failed to use protein shakes when testing [The 30 in 30 Experiment](/2013/09/30-30-experiment/) by Tim Ferriss. Consuming 30 grams of whey protein resulted in [weight gain for me](/2013/10/ending-tim-ferriss-30-30-experiment-early/). And although casein was better than whey on appetite, [that experiment also failed](/2014/08/ending-3030-experiment-casein-n1/). But I've learned a lot since then. I understand how highly flavorful food can stimulate appetite. Having a vanilla protein shake with blueberries and a banana is very tasty and for me resulted in more hunger. My goal today is to consume a low-flavor, nutrient-dense protein shake that is more filling with fewer calories. I believe I have succeeded. ![ugly protein shake](./img/53140105392_e30d354d09_c.jpg) _This isn't pretty._
+In the 2013-2014 era, I tried and failed to use protein shakes when testing [The 30 in 30 Experiment](/2013/09/30-30-experiment/) by Tim Ferriss. Consuming 30 grams of whey protein resulted in [weight gain for me](/2013/10/ending-tim-ferriss-30-30-experiment-early/). And although casein was better than whey on appetite, [that experiment also failed](/2014/08/ending-3030-experiment-casein-n1/).
+
+But I've learned a lot since then. I understand how highly flavorful food can stimulate appetite. Having a vanilla protein shake with blueberries and a banana is very tasty and for me resulted in more hunger.
+
+My goal today is to consume a low-flavor, nutrient-dense protein shake that is more filling with fewer calories. I believe I have succeeded.
+
+![ugly protein shake](./img/53140105392_e30d354d09_c.jpg)
+
+_This isn't pretty._
 
 
 ### Ingredients
 
 
-**2 tablespoons of Chia seeds (soaked overnight)** Chia seeds will add 116 calories to the shake, but due to the fiber and additional protein, it is more filling. **200mg Hyaluronic Acid (soaked overnight w/chia seeds)** This is good for skin and joint health. It may assist with wound recovery. It doesn't mix well with water, so soaking overnight with my chia seeds solves that issue. **20-25 grams Whey Protein Isolate** I'm using two different vanilla wheys. One is sweetened with sucralose, the other uses stevia. **10 grams Collagen Peptides** This might be the ingredient that is most debated. I'm taking collagen peptides for skin health and healing. I was a skeptic for a long time but was recently persuaded by [Anti-Wrinkle Supplement That ACTUALLY Works](https://www.youtube.com/watch?v=IAXYVyiYZKQ) by Dr. Brad Stanfield which includes recent studies. **20 grams Creatine Monohydrate** For most people, 3-5 grams of creatine monohydrate is enough. In February, Huberman mentioned a study in progress where the individuals were using [high doses of creatine to alleviate headaches](https://hubermanlab.com/how-to-stop-headaches-using-science-based-approaches/). I decided to test myself. My 6 month results so far have been amazing. I have had fewer headaches than in any period of my adult life. The few headaches I have had were shorter in duration and intensity as well. Note that I also started shoulder hangs at the same time. Maybe both helped? I want to continue the test and monitor my results during the winter months. **1.5 grams of Betaine Anhydrous (TMG)** See [Eight Supplements That \*Actually\* Work](https://youtu.be/_hOxXq0wi-0?si=0KodAFnLYVuU8uSe) by Dr. Brad Stanfield for an explanation. Note this supplement can have a fishy smell. I contacted the company that makes mine and they tell me it is normal. **2 grams of various mushroom powders** I bought a sampler pack of the [six different mushroom extract powders](https://freshcap.com/collections/bundles/products/ultimate-mushroom-starter-kit) sold by FreshCap. Lions Mane, Turkey Tail, Reishi, Cordyceps, Chaga, and Complex. Are mushrooms a superfood? I don't know, but a lot of smart people love them, so I'm adding them to the shake. **1 teaspoon Psyllium Husk Powder** There are many articles online that discuss the benefits of this fiber supplement. **Chlorella / Spirulina tablets** I used to add chlorella and spirulina powder to the shake. It was too messy, so I bought the tablets, which I take with the shake. UPDATED: **1-2 tablespoons of Raw Apple Cider Vinegar** Thanks for the idea from Grubby in the comments. Mic the Vegan has a good video on the health benefits of ACV on YouTube.
+**2 tablespoons of Chia seeds (soaked overnight)**
+
+Chia seeds will add 116 calories to the shake, but due to the fiber and additional protein, it is more filling.
+
+**200mg Hyaluronic Acid (soaked overnight w/chia seeds)**
+
+This is good for skin and joint health. It may assist with wound recovery. It doesn't mix well with water, so soaking overnight with my chia seeds solves that issue.
+
+**20-25 grams Whey Protein Isolate**
+
+I'm using two different vanilla wheys. One is sweetened with sucralose, the other uses stevia.
+
+**10 grams Collagen Peptides**
+
+This might be the ingredient that is most debated. I'm taking collagen peptides for skin health and healing. I was a skeptic for a long time but was recently persuaded by [Anti-Wrinkle Supplement That ACTUALLY Works](https://www.youtube.com/watch?v=IAXYVyiYZKQ) by Dr. Brad Stanfield which includes recent studies.
+
+**20 grams Creatine Monohydrate**
+
+For most people, 3-5 grams of creatine monohydrate is enough. In February, Huberman mentioned a study in progress where the individuals were using [high doses of creatine to alleviate headaches](https://hubermanlab.com/how-to-stop-headaches-using-science-based-approaches/). I decided to test myself.
+
+My 6 month results so far have been amazing. I have had fewer headaches than in any period of my adult life. The few headaches I have had were shorter in duration and intensity as well. Note that I also started shoulder hangs at the same time. Maybe both helped? I want to continue the test and monitor my results during the winter months.
+
+**1.5 grams of Betaine Anhydrous (TMG)**
+
+See [Eight Supplements That \*Actually\* Work](https://youtu.be/_hOxXq0wi-0?si=0KodAFnLYVuU8uSe) by Dr. Brad Stanfield for an explanation. Note this supplement can have a fishy smell. I contacted the company that makes mine and they tell me it is normal.
+
+**2 grams of various mushroom powders**
+
+I bought a sampler pack of the [six different mushroom extract powders](https://freshcap.com/collections/bundles/products/ultimate-mushroom-starter-kit) sold by FreshCap. Lions Mane, Turkey Tail, Reishi, Cordyceps, Chaga, and Complex. Are mushrooms a superfood? I don't know, but a lot of smart people love them, so I'm adding them to the shake.
+
+**1 teaspoon Psyllium Husk Powder**
+
+There are many articles online that discuss the benefits of this fiber supplement.
+
+**Chlorella / Spirulina tablets**
+
+I used to add chlorella and spirulina powder to the shake. It was too messy, so I bought the tablets, which I take with the shake.
+
+UPDATED: **1-2 tablespoons of Raw Apple Cider Vinegar**
+
+Thanks for the idea from Grubby in the comments. Mic the Vegan has a good video on the health benefits of ACV on YouTube.
 
 
 ### Tastes OK, Not Good
 
 
-My protein shake is ugly, but it tastes rather neutral. The vanilla punches through the mushrooms and other ingredients - but just barely. I'm using the principles of my [Potatoes and Protein Diet](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/) in shake form. High protein and increased volume (via chia seeds and psyllium husk). My morning appetite is in check and I remain at my leanest levels ever. Is there anything you would add or remove from my ugly protein shake?
+My protein shake is ugly, but it tastes rather neutral. The vanilla punches through the mushrooms and other ingredients - but just barely. I'm using the principles of my [Potatoes and Protein Diet](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/) in shake form. High protein and increased volume (via chia seeds and psyllium husk).
+
+My morning appetite is in check and I remain at my leanest levels ever.
+
+Is there anything you would add or remove from my ugly protein shake?
 
 ---
 

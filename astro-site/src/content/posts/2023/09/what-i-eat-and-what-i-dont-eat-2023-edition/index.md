@@ -8,7 +8,15 @@ description: "It has been 3 years since the last edition of this post. I also ha
 commentCount: 24
 ---
 
-It has been [3 years](/2020/02/what-i-eat-and-what-i-dont-eat-2020-edition/) since the last edition of this post. I also have ones from [2010](/2010/03/what-i-eat-and-what-i-dont-eat-march-2010-edition/), [2012](/2012/05/what-i-eat-and-what-i-dont-eat-may-2012-edition/), [2014](/2014/09/eat-dont-eat-2014-edition/), and [2017](/2017/01/eat-dont-eat-2017-edition/). Before I get into the foods, I'll describe where I am now. I weigh 180 pounds (81.6 kg) at a height of 6'2 (188 cm). I've now maintained a 40-pound weight loss for 4 years. Thank you, [Potato Hack](https://potatohack.com/) and [Potatoes and Protein](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/). One concern I had after [listening to Peter Attia](/2023/04/more-protein-and-the-fasting-backlash/) and reading my DEXA score from 2020 was maybe I lost too much muscle during the final phase of my diet due to the lower protein levels of the Potato Diet. I was also skipping breakfast. I switched over to Potatoes and Protein, but perhaps I could have done so sooner. This year I planned to test higher protein, keep my exercise levels the same, maintain my weight, and then get a fresh DEXA. At this time, I feel like I've never looked better. I suspect the protein is working, but until I get a score, I won't know for sure. That was the plan. Then [I got a hernia](/2023/08/i-got-a-hernia/) and a week from now I will get surgery. This will likely negatively impact my body composition in the near term, so any DEXA scan this year will likely be junk data. But minus the hernia, I've never looked or felt better.
+It has been [3 years](/2020/02/what-i-eat-and-what-i-dont-eat-2020-edition/) since the last edition of this post. I also have ones from [2010](/2010/03/what-i-eat-and-what-i-dont-eat-march-2010-edition/), [2012](/2012/05/what-i-eat-and-what-i-dont-eat-may-2012-edition/), [2014](/2014/09/eat-dont-eat-2014-edition/), and [2017](/2017/01/eat-dont-eat-2017-edition/).
+
+Before I get into the foods, I'll describe where I am now. I weigh 180 pounds (81.6 kg) at a height of 6'2 (188 cm). I've now maintained a 40-pound weight loss for 4 years. Thank you, [Potato Hack](https://potatohack.com/) and [Potatoes and Protein](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/).
+
+One concern I had after [listening to Peter Attia](/2023/04/more-protein-and-the-fasting-backlash/) and reading my DEXA score from 2020 was maybe I lost too much muscle during the final phase of my diet due to the lower protein levels of the Potato Diet. I was also skipping breakfast. I switched over to Potatoes and Protein, but perhaps I could have done so sooner.
+
+This year I planned to test higher protein, keep my exercise levels the same, maintain my weight, and then get a fresh DEXA. At this time, I feel like I've never looked better. I suspect the protein is working, but until I get a score, I won't know for sure.
+
+That was the plan. Then [I got a hernia](/2023/08/i-got-a-hernia/) and a week from now I will get surgery. This will likely negatively impact my body composition in the near term, so any DEXA scan this year will likely be junk data. But minus the hernia, I've never looked or felt better.
 
 
 ### My Avoid List
@@ -46,7 +54,9 @@ It has been [3 years](/2020/02/what-i-eat-and-what-i-dont-eat-2020-edition/) sin
 -   Green onions and cilantro. I cut these up almost daily and add them to my soups or "Budda bowl" dinners.
 -   Potatoes!
 
-![](./img/chicken-breasts.jpg) _Baking chicken breasts in bulk._
+![](./img/chicken-breasts.jpg)
+
+_Baking chicken breasts in bulk._
 
 
 ### Other Foods
@@ -71,7 +81,11 @@ It has been [3 years](/2020/02/what-i-eat-and-what-i-dont-eat-2020-edition/) sin
 ### My Overall Theme
 
 
-There seems to be agreement in nutrition that you can have a diet higher in fat or higher in carbs, but not both. That leads to poor health outcomes. I choose carbs over fat. It's what works best for me. I favor foods that are higher in volume (fewer calories by weight), higher in protein, nutrient-dense, and not hyper-palatable. The foods I eat taste good, but they don't taste so amazing that I continue to eat past satiety. Unlike others who get fixated on a single approach for optimal health, I'm assuming I don't know what is best. Since no single way has been proven optimal for everyone, I mix different practices that seem promising. And it is working well for me.
+There seems to be agreement in nutrition that you can have a diet higher in fat or higher in carbs, but not both. That leads to poor health outcomes. I choose carbs over fat. It's what works best for me.
+
+I favor foods that are higher in volume (fewer calories by weight), higher in protein, nutrient-dense, and not hyper-palatable. The foods I eat taste good, but they don't taste so amazing that I continue to eat past satiety.
+
+Unlike others who get fixated on a single approach for optimal health, I'm assuming I don't know what is best. Since no single way has been proven optimal for everyone, I mix different practices that seem promising. And it is working well for me.
 
 ---
 

@@ -8,11 +8,23 @@ description: "My previous post was part of the Tales From the Glitter Gym series
 commentCount: 3
 ---
 
-My [previous post](/2024/03/tales-from-the-glitter-gym-the-old-guy/) was part of the [Tales From the Glitter Gym](https://criticalmas.org/best-of/tales-from-the-glitter-gym/) series. That was after a 13-year hiatus. The oldest post I have on the topic was from 2006, however, I recall using the term years before that. When I first used the term, people understood it and thought it was funny. Fast forward to today and I think the term "Glitter Gym" no longer makes sense. Let me explain. From my [2006 post](/2006/02/glitter-and-rust/):
+My [previous post](/2024/03/tales-from-the-glitter-gym-the-old-guy/) was part of the [Tales From the Glitter Gym](https://criticalmas.org/best-of/tales-from-the-glitter-gym/) series. That was after a 13-year hiatus. The oldest post I have on the topic was from 2006, however, I recall using the term years before that. When I first used the term, people understood it and thought it was funny.
+
+Fast forward to today and I think the term "Glitter Gym" no longer makes sense. Let me explain. From my [2006 post](/2006/02/glitter-and-rust/):
 
 > There are two types of gyms. Glitter gyms and Rust gyms. A majority of men and almost all women are only familiar with Glitter gyms. Glitter gyms are workout facilities with bright lights, mirrors, treadmills, and TVs (Ballys, 24 Hour, etc). Rust gyms cater primarily to men and are almost all free weights. The equipment is never new, nor does it need to be. Rust gyms are about function, glitter gyms are primarily about fashion. Rust gyms tend to be named after a rather large guy who will get in your face the first time you forget to rack your weights.
 
-This is no longer true. Although there may be a few old-school rust gyms left, most are gone. Now all we have are Glitter Gyms and specialized gyms (CrossFit, Orange Theory, "something"- Cycle). What happened to the Rust gyms? My initial thought was that the Glitter Gyms just outcompeted them on price and hours. The rust gym I first joined in St. Pete in 1994 was owned by a guy who looked like Thor. Gold's Gym sold him a franchise, so he moved across the street to a new facility and shut down his rust gym. No more old weights. Now he had bright lights and brand-new equipment. Now that I'm older I can see that it wasn't just business competition that took out the rust gyms. It was survivorship bias as well. Rust gyms are full of guys slamming a lot of weight in their late 20s and early 30s. Then they mostly "disappear" as they approach 40. The Glitter Gyms were far better at recruiting newer and younger members than the Rust Gyms. When I coined the term "Glitter Gym" it was meant to be a slight insult. A poke at the lack of seriousness those gyms had compared to the Rust Gyms. But I've completely changed my mind. Glitter Gyms are far better and safer. I can perform slow reps on new machines and I don't need to bro-lift to see my name on a chalkboard. It is time to drop the "Glitter" and call gyms "Gyms". The term no longer makes sense in 2024—sort of like how smartphones just became phones. ![](./img/glitter-gym.jpg)
+This is no longer true. Although there may be a few old-school rust gyms left, most are gone. Now all we have are Glitter Gyms and specialized gyms (CrossFit, Orange Theory, "something"- Cycle).
+
+What happened to the Rust gyms? My initial thought was that the Glitter Gyms just outcompeted them on price and hours. The rust gym I first joined in St. Pete in 1994 was owned by a guy who looked like Thor. Gold's Gym sold him a franchise, so he moved across the street to a new facility and shut down his rust gym. No more old weights. Now he had bright lights and brand-new equipment.
+
+Now that I'm older I can see that it wasn't just business competition that took out the rust gyms. It was survivorship bias as well. Rust gyms are full of guys slamming a lot of weight in their late 20s and early 30s. Then they mostly "disappear" as they approach 40. The Glitter Gyms were far better at recruiting newer and younger members than the Rust Gyms.
+
+When I coined the term "Glitter Gym" it was meant to be a slight insult. A poke at the lack of seriousness those gyms had compared to the Rust Gyms. But I've completely changed my mind. Glitter Gyms are far better and safer. I can perform slow reps on new machines and I don't need to bro-lift to see my name on a chalkboard.
+
+It is time to drop the "Glitter" and call gyms "Gyms". The term no longer makes sense in 2024—sort of like how smartphones just became phones.
+
+![](./img/glitter-gym.jpg)
 
 ---
 

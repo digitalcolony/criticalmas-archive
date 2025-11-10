@@ -9,7 +9,13 @@ description: "Now that spring has arrived, I want to go back and review the goal
 commentCount: 2
 ---
 
-Now that spring has arrived, I want to go back and review the goals outlined in my post [Winter Strategies for Nutrition and Fitness](/2010/12/winter-strategies-for-nutrition-and-fitness/). My general thesis is that winter has the potential to be the best month for fat loss. This is the season for rest and repair. If we get into touch with our environment, this is the period where carbohydrate consumption should be at its lowest. Many people tend to gain weight in the winter, because they fail to get the sleep they need and eat too many carbohydrates that were never available year round until the modern age. ![pike-market-winter](./img/pike-market-winter.jpg) Time to review my 8 strategies.
+Now that spring has arrived, I want to go back and review the goals outlined in my post [Winter Strategies for Nutrition and Fitness](/2010/12/winter-strategies-for-nutrition-and-fitness/). My general thesis is that winter has the potential to be the best month for fat loss. This is the season for rest and repair.
+
+If we get into touch with our environment, this is the period where carbohydrate consumption should be at its lowest. Many people tend to gain weight in the winter, because they fail to get the sleep they need and eat too many carbohydrates that were never available year round until the modern age.
+
+![pike-market-winter](./img/pike-market-winter.jpg)
+
+Time to review my 8 strategies.
 
 1.  **Sleep More** - **SUCCESS** for the beginning of winter when the days were shorter. As the days got longer, my sleep cycle decreased. In the depth of winter I was sleeping 8.5 hours and now I am closer to 7.5 hours.
 2.  **Removal of All Sugar** - **FAIL**. I developed a minor sweet tooth when I did the 16 hour "scheduled" Intermittent Fasts. On March 1st, I started a [30 Days Without Sugar or Fruit](/2011/02/30-days-without-sugar-or-fruit/) experiment.

@@ -9,7 +9,15 @@ description: "\\\\ 2016 UPDATE: I was SO WRONG about this book. Taubes is a frau
 commentCount: 6
 ---
 
-_\*\* 2016 UPDATE: I was SO WRONG about this book. Taubes is a fraud. See the [critical review here](https://thescienceofnutrition.wordpress.com/book-reviews/). \*\*\*_ Remember that Top 5 Diet Books post I wrote back in July? All those books can take a HUGE step backward. I now have a new favorite nutrition book. ![Good Calories, Bad Calories](https://images-na.ssl-images-amazon.com/images/I/41MooPM7XdL.jpg) _Good Calories, Bad Calories by Gary Taubes_ is a stellar piece of research. For me, this book connects all the dots between the evolutionary nutrition model, my own experiences, and a hundred years of medical studies. _Good Calories, Bad Calories_ tells the story of how we came to believe many myths surrounding nutrition today and what the actual research says. He makes a strong case that the field of nutrition has been politicized and negligent since the 1950s. Without giving too much away, he makes the strongest case against carbohydrates and the current state of public health that I have ever read. I love this book. When I finished reading the 460 pages, I started re-reading portions over again. However, unless you are a nutrition geek like me, I don't know how accessible this book will be for you. I tore through it like a middle schooler reading a new Harry Potter novel. Some topics covered in the book include:
+_\*\* 2016 UPDATE: I was SO WRONG about this book. Taubes is a fraud. See the [critical review here](https://thescienceofnutrition.wordpress.com/book-reviews/). \*\*\*_
+
+Remember that Top 5 Diet Books post I wrote back in July? All those books can take a HUGE step backward. I now have a new favorite nutrition book.
+
+![Good Calories, Bad Calories](https://images-na.ssl-images-amazon.com/images/I/41MooPM7XdL.jpg)
+
+_Good Calories, Bad Calories by Gary Taubes_ is a stellar piece of research. For me, this book connects all the dots between the evolutionary nutrition model, my own experiences, and a hundred years of medical studies. _Good Calories, Bad Calories_ tells the story of how we came to believe many myths surrounding nutrition today and what the actual research says. He makes a strong case that the field of nutrition has been politicized and negligent since the 1950s. Without giving too much away, he makes the strongest case against carbohydrates and the current state of public health that I have ever read.
+
+I love this book. When I finished reading the 460 pages, I started re-reading portions over again. However, unless you are a nutrition geek like me, I don't know how accessible this book will be for you. I tore through it like a middle schooler reading a new Harry Potter novel. Some topics covered in the book include:
 
 -   The Fat Cholesterol hypothesis
 -   How obesity causes overeating and not the other way around.

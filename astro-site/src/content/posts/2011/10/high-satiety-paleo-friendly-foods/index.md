@@ -22,7 +22,11 @@ These foods fall into a grey area in Paleo.
 ### Nuts, Nut Butter and Seeds
 
 
-Several Paleo sites warn about the high levels of phytic acid in nuts. Robb Wolf often talks about easy it is to overdo the nuts on his podcast. And then there is the issue of [Omega-6s in nuts](http://paleozonenutrition.com/2011/05/10/omega-6-and-3-in-nuts-oils-meat-and-fish-tools-to-get-it-right/). ![almonds](./img/almonds.jpg) _Soaking and roasting can break down some of the phytate, but doesn't address the calories or Omega-6s._
+Several Paleo sites warn about the high levels of phytic acid in nuts. Robb Wolf often talks about easy it is to overdo the nuts on his podcast. And then there is the issue of [Omega-6s in nuts](http://paleozonenutrition.com/2011/05/10/omega-6-and-3-in-nuts-oils-meat-and-fish-tools-to-get-it-right/).
+
+![almonds](./img/almonds.jpg)
+
+_Soaking and roasting can break down some of the phytate, but doesn't address the calories or Omega-6s._
 
 
 ### Dairy
@@ -34,7 +38,11 @@ Dairy is considered Primal not Paleo. I recently completed a [30 Day test](/2011
 ### An Ideal Food?
 
 
-An ideal food would be quick to prepare and not too expensive. That rules out bacon. Hard-boiled eggs are OK. Coconut milk and cream are calorie dense, but in my experience do not provide the satiety of dairy. I suppose I could make a tray of meatballs, but I already eat a fair amount of beef and lamb. Any ideas? UPDATE: Ideas have been moved to a spreadsheet for testing. **[http://tinyurl.com/paleo-satiety](http://tinyurl.com/paleo-satiety)**
+An ideal food would be quick to prepare and not too expensive. That rules out bacon. Hard-boiled eggs are OK. Coconut milk and cream are calorie dense, but in my experience do not provide the satiety of dairy. I suppose I could make a tray of meatballs, but I already eat a fair amount of beef and lamb.
+
+Any ideas?
+
+UPDATE: Ideas have been moved to a spreadsheet for testing. **[http://tinyurl.com/paleo-satiety](http://tinyurl.com/paleo-satiety)**
 
 ---
 

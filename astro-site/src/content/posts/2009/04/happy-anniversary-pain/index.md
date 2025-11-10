@@ -8,7 +8,13 @@ description: "I wasn't even holding any weight when I felt the spasm today. Desp
 commentCount: 6
 ---
 
-I wasn't even holding any weight when I felt the spasm today. Despite a week of back pain, I slammed some espresso and went to the gym this morning. My old nemesis - the back spasm - grabbed me hard. I had just enough time to get home and take painkillers. Now I can't move. The painkillers aren't working. Ironic that it was almost exactly 2 years ago that I experienced [something similar](/2007/04/no-more-morning-dead-lifts/). Thankfully, the 2007 incident was much worse. Time for more painkillers. I need a strategy to conquer back pain. That is for another post, I don't have the strength to address comments at this time.
+I wasn't even holding any weight when I felt the spasm today. Despite a week of back pain, I slammed some espresso and went to the gym this morning. My old nemesis - the back spasm - grabbed me hard. I had just enough time to get home and take painkillers. Now I can't move. The painkillers aren't working.
+
+Ironic that it was almost exactly 2 years ago that I experienced [something similar](/2007/04/no-more-morning-dead-lifts/). Thankfully, the 2007 incident was much worse.
+
+Time for more painkillers.
+
+I need a strategy to conquer back pain. That is for another post, I don't have the strength to address comments at this time.
 
 ---
 

@@ -9,7 +9,21 @@ description: "Long-time readers of this site know that I used the Potato Hack Di
 commentCount: 13
 ---
 
-Long-time readers of this site know that I used the Potato Hack Diet to lose weight. There are many ways to lose weight, but few succeed in permanent fat loss. Somewhere between 70% and 95% of successful dieters will regain their lost weight. Often more. I knew this statistic before I decided to lose weight. I had also had prior experience of losing and regaining weight. Never a lot, but enough to know that the brain remembers the higher weight and unless steps are taken, regain is likely. Those steps are rarely discussed. Preventing weight regain is presented as a willpower or character issue. That is a losing assumption. How one prevents regaining weight is equally as important as losing weight. We need to fool the brain so it doesn't recognize the drop in calories. This is where boiled potatoes shine. You can fill the belly and shut off hunger signals with minimal calories. The image below (courtesy of Precision Nutrition) is the most important image when it comes to understanding how to lose weight and prevent regain. Moderation doesn't work. The brain is too sharp for that. Willpower runs out. You need to shut down hunger signals in a caloric deficit. ![](./img/bulkydiet.jpg) The image above explains not only why there are so many overweight people today, but also the path to permanent fat loss. The brain doesn't count calories. It measures the volume and weight of the food you consume. Once you truly understand that, how you view food forever changes. Boiled potatoes, especially if they've been refrigerated overnight, are the best tool to fill the belly and shut off hunger. _See_ [_The Math Behind the Potato Hack_](/2017/08/math-behind-potato-hack/)
+Long-time readers of this site know that I used the Potato Hack Diet to lose weight. There are many ways to lose weight, but few succeed in permanent fat loss. Somewhere between 70% and 95% of successful dieters will regain their lost weight. Often more.
+
+I knew this statistic before I decided to lose weight. I had also had prior experience of losing and regaining weight. Never a lot, but enough to know that the brain remembers the higher weight and unless steps are taken, regain is likely. Those steps are rarely discussed. Preventing weight regain is presented as a willpower or character issue. That is a losing assumption.
+
+How one prevents regaining weight is equally as important as losing weight. We need to fool the brain so it doesn't recognize the drop in calories. This is where boiled potatoes shine. You can fill the belly and shut off hunger signals with minimal calories.
+
+The image below (courtesy of Precision Nutrition) is the most important image when it comes to understanding how to lose weight and prevent regain. Moderation doesn't work. The brain is too sharp for that. Willpower runs out. You need to shut down hunger signals in a caloric deficit.
+
+![](./img/bulkydiet.jpg)
+
+The image above explains not only why there are so many overweight people today, but also the path to permanent fat loss. The brain doesn't count calories. It measures the volume and weight of the food you consume. Once you truly understand that, how you view food forever changes.
+
+Boiled potatoes, especially if they've been refrigerated overnight, are the best tool to fill the belly and shut off hunger.
+
+_See_ [_The Math Behind the Potato Hack_](/2017/08/math-behind-potato-hack/)
 
 
 ### My Numbers
@@ -21,7 +35,23 @@ Long-time readers of this site know that I used the Potato Hack Diet to lose wei
 -   October 2019 = 186
 -   April 2020 = 183
 
-My height is 6' 2.5. I haven't stepped on a scale since the lockdowns, but my tape measurements would indicate I am around 180 now. Earlier in the potato diet, I would eat 10-15 pounds of boiled potatoes a week.  Sometimes for a few days, sometimes just to replace a meal here and there. I didn't overthink it. But every time I sat down in front of my bowl of potatoes, I ate until I was full. I conditioned my brain to understand that I was not restricting food. That is why diets that rely on moderation or counting calories rarely produce long-term success. Those dieters are constantly telling their brains they are restricting. The brain remembers and prefers to be at a higher weight. And they eventually regain. As I got leaner, I tweaked the diet to include more lean protein. See the post [Potatoes and Protein – A No Hunger Template For Fat Loss](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/) for details. Today, I still consume a fair amount of boiled potatoes, but not as much as before. I know how to shut down hunger at low-calorie levels. It keeps me at an optimal weight. If you are interested in learning more, see my [Potato Hack Diet](https://criticalmas.org/best-of/potato-hack-diet/) section. Did you lose weight on the Potato Diet? How much and were you able to keep it off? ![potatoes-protein](./img/potatoes-protein.jpg) _This was my path to hunger-free fat loss. Start with the potatoes and as you get leaner, add more lean protein._
+My height is 6' 2.5. I haven't stepped on a scale since the lockdowns, but my tape measurements would indicate I am around 180 now.
+
+Earlier in the potato diet, I would eat 10-15 pounds of boiled potatoes a week.  Sometimes for a few days, sometimes just to replace a meal here and there. I didn't overthink it. But every time I sat down in front of my bowl of potatoes, I ate until I was full.
+
+I conditioned my brain to understand that I was not restricting food. That is why diets that rely on moderation or counting calories rarely produce long-term success. Those dieters are constantly telling their brains they are restricting. The brain remembers and prefers to be at a higher weight. And they eventually regain.
+
+As I got leaner, I tweaked the diet to include more lean protein. See the post [Potatoes and Protein – A No Hunger Template For Fat Loss](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/) for details.
+
+Today, I still consume a fair amount of boiled potatoes, but not as much as before. I know how to shut down hunger at low-calorie levels. It keeps me at an optimal weight.
+
+If you are interested in learning more, see my [Potato Hack Diet](https://criticalmas.org/best-of/potato-hack-diet/) section.
+
+Did you lose weight on the Potato Diet? How much and were you able to keep it off?
+
+![potatoes-protein](./img/potatoes-protein.jpg)
+
+_This was my path to hunger-free fat loss. Start with the potatoes and as you get leaner, add more lean protein._
 
 ---
 

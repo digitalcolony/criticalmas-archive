@@ -9,13 +9,25 @@ description: "I was recently asked about what tips I had for better sleep. Inste
 commentCount: 25
 ---
 
-I was recently asked about what tips I had for better sleep. Instead of responding directly to the email, I thought it might make for a good post where others could read and comment. Most of the sleep advice you read online is written for the person who has trouble falling asleep and not for my fellow early risers. Before I begin, I thought I'd provide a little background on my sleep. For as long as I remember, I've never had trouble falling asleep. I would estimate that there have been less than 20 times in my entire life when I couldn't fall asleep in under 30 minutes. 99% of the time, I fall asleep in under 3 minutes. In the morning, I don't oversleep. I haven't used an alarm clock since the 1990s. Even in a dark room, I wake up either just before or just after sunrise. I've been like this my entire life. If you are like me, then your sleep challenge is not being able to return to sleep after waking up too early. It is common to wake between 3 AM and 4 AM, still be extremely tired, but unable to return to sleep. The good news is I have solved this riddle. I now sleep better than I have my entire adult life. This is how I did it. ![MAS Sleeping](./img/michael_sleeping.jpg) _Me sleeping as a kid. Probably not a good idea to leave your shoes on._
+I was recently asked about what tips I had for better sleep. Instead of responding directly to the email, I thought it might make for a good post where others could read and comment. Most of the sleep advice you read online is written for the person who has trouble falling asleep and not for my fellow early risers. Before I begin, I thought I'd provide a little background on my sleep.
+
+For as long as I remember, I've never had trouble falling asleep. I would estimate that there have been less than 20 times in my entire life when I couldn't fall asleep in under 30 minutes. 99% of the time, I fall asleep in under 3 minutes. In the morning, I don't oversleep. I haven't used an alarm clock since the 1990s. Even in a dark room, I wake up either just before or just after sunrise. I've been like this my entire life.
+
+If you are like me, then your sleep challenge is not being able to return to sleep after waking up too early. It is common to wake between 3 AM and 4 AM, still be extremely tired, but unable to return to sleep.
+
+The good news is I have solved this riddle. I now sleep better than I have my entire adult life. This is how I did it.
+
+![MAS Sleeping](./img/michael_sleeping.jpg)
+
+_Me sleeping as a kid. Probably not a good idea to leave your shoes on._
 
 
 ### #1 Sleep Before Other Goals
 
 
-You may wish to gain muscle, lose weight, or both. Maybe you have performance goals. Until you are sleeping like a champion, put them aside. Once you are sleeping better, body re-composition goals will become much easier. You do not want to stack stressors. This is a concept I explained in the post [Rejecting the Seasonal Approach to Nutrition](/2014/02/rejecting-seasonal-approach-nutrition/). Trying to lose weight or gain muscle while tired is next to impossible. And if you do pull it off, it is likely unsustainable. Focus on improving sleep first, even if it means delaying your diet. Some exercise is good, but don't overdo it during this period.
+You may wish to gain muscle, lose weight, or both. Maybe you have performance goals. Until you are sleeping like a champion, put them aside. Once you are sleeping better, body re-composition goals will become much easier. You do not want to stack stressors. This is a concept I explained in the post [Rejecting the Seasonal Approach to Nutrition](/2014/02/rejecting-seasonal-approach-nutrition/).
+
+Trying to lose weight or gain muscle while tired is next to impossible. And if you do pull it off, it is likely unsustainable. Focus on improving sleep first, even if it means delaying your diet. Some exercise is good, but don't overdo it during this period.
 
 
 ### #2 Morning or Mid Day Sun Exposure
@@ -31,41 +43,65 @@ As a side note, I **never get jet lag**. Wherever I land, I make it a point to e
 ### #3 Respecting My Morning Nature
 
 
-I am a morning person. Have been since birth. I don't expect that to change. This means that although I could push myself to participate in late-night events, I know that I will still rise with the sun and feel tired the next day. Instead of fighting it, I pick sleep. This absolutely can be a social cramp, so it is up to me to plan social events that occur earlier in the day. In the past 6 years, I've hosted over 400 events with the [Coffee Club of Seattle](https://www.meetup.com/seattle-coffee-club/), most of which met just after lunch. If alcohol was my thing, I'd be organizing happy hour events. Then I could have my fun, and my food, and still be in bed by 10 PM. :) If I want to sleep for 8 hours and I know my body will wake up at 6 AM, then I need to get in bed by 10 PM. Staying up later and hoping my body will sleep in never works. I need to respect my morning nature.
+I am a morning person. Have been since birth. I don't expect that to change. This means that although I could push myself to participate in late-night events, I know that I will still rise with the sun and feel tired the next day. Instead of fighting it, I pick sleep. This absolutely can be a social cramp, so it is up to me to plan social events that occur earlier in the day. In the past 6 years, I've hosted over 400 events with the [Coffee Club of Seattle](https://www.meetup.com/seattle-coffee-club/), most of which met just after lunch.
+
+If alcohol was my thing, I'd be organizing happy hour events. Then I could have my fun, and my food, and still be in bed by 10 PM. :)
+
+If I want to sleep for 8 hours and I know my body will wake up at 6 AM, then I need to get in bed by 10 PM. Staying up later and hoping my body will sleep in never works. I need to respect my morning nature.
 
 
 ### #4 Dial-in Caffeine Level
 
 
-Every article on sleep will tell you to reduce caffeine and not to drink coffee late in the day. My take is that we are all individuals who respond differently to caffeine and we need to figure out what works best for us. For me, I discovered my best sleep happened when I had coffee in the mid-afternoon. If I stopped drinking coffee before Noon, my sleep was worse. Go figure. Dialing in your caffeine level is not a one-time thing. We change. We can become more or less sensitive to caffeine throughout the years, seasons, or even the week. Because I adore the taste of black coffee, I do not add milk and sugar. However, it might be a good idea for the highly stressed body to avoid black coffee, especially on an empty stomach. The article [Coffee Done Right](https://www.functionalps.com/blog/2014/06/04/coffee-done-right-tips-to-help-avoid-coffee-intolerance/) explains why having coffee with food or milk and sugar will dampen the stress response. A body less stressed will get better sleep. ![futurama-coffee-rage](./img/futurama-coffee-rage.jpg)
+Every article on sleep will tell you to reduce caffeine and not to drink coffee late in the day. My take is that we are all individuals who respond differently to caffeine and we need to figure out what works best for us. For me, I discovered my best sleep happened when I had coffee in the mid-afternoon. If I stopped drinking coffee before Noon, my sleep was worse. Go figure.
+
+Dialing in your caffeine level is not a one-time thing. We change. We can become more or less sensitive to caffeine throughout the years, seasons, or even the week.
+
+Because I adore the taste of black coffee, I do not add milk and sugar. However, it might be a good idea for the highly stressed body to avoid black coffee, especially on an empty stomach. The article [Coffee Done Right](https://www.functionalps.com/blog/2014/06/04/coffee-done-right-tips-to-help-avoid-coffee-intolerance/) explains why having coffee with food or milk and sugar will dampen the stress response. A body less stressed will get better sleep.
+
+![futurama-coffee-rage](./img/futurama-coffee-rage.jpg)
 
 
 ### #5 Minimize Evening Liquid
 
 
-I used to drink water and coffee all day long and then I'd have to get up a few times each night to pee. This disrupts sleep and increases the risk that you will be unable to return to sleep. It can also lower your body temperature, which places greater stress on your body and can make you more likely to get sick. The book _Eat for Heat_ by Matt Stone explores this topic in great detail. ![Eat for Heat: The Metabolic Approach to Food and Drink](https://images-na.ssl-images-amazon.com/images/I/51kqvrMNUwL.jpg) _Eat for Heat: The Metabolic Approach to Food and Drink by Matt Stone_
+I used to drink water and coffee all day long and then I'd have to get up a few times each night to pee. This disrupts sleep and increases the risk that you will be unable to return to sleep. It can also lower your body temperature, which places greater stress on your body and can make you more likely to get sick. The book _Eat for Heat_ by Matt Stone explores this topic in great detail.
+
+![Eat for Heat: The Metabolic Approach to Food and Drink](https://images-na.ssl-images-amazon.com/images/I/51kqvrMNUwL.jpg) _Eat for Heat: The Metabolic Approach to Food and Drink by Matt Stone_
 
 
 ### #5 Prepare Sleep Dust
 
 
-Pay attention to this one. **This is the GREATEST SLEEP HACK ever for the too-early riser!** Get a bowl. Mix 5 parts sugar with 1 part salt. Nothing fancy. Regular sugar. Regular salt. Place this mixture in a container within arm's reach of your bed. If you wake up, place a pinch under your tongue. Let it dissolve. Take a sip of water. Lie back down. Odds are you will be falling asleep. I have found this trick works 80% of the time for me. The post [An Amazing "Back to Sleep" Hack](/2014/01/amazing-back-sleep-hack/) covers why this hack works.
+Pay attention to this one. **This is the GREATEST SLEEP HACK ever for the too-early riser!** Get a bowl. Mix 5 parts sugar with 1 part salt. Nothing fancy. Regular sugar. Regular salt. Place this mixture in a container within arm's reach of your bed. If you wake up, place a pinch under your tongue. Let it dissolve. Take a sip of water. Lie back down. Odds are you will be falling asleep. I have found this trick works 80% of the time for me.
+
+The post [An Amazing "Back to Sleep" Hack](/2014/01/amazing-back-sleep-hack/) covers why this hack works.
 
 
 ### #6 Eat Carbs, Sugar, and Salt Before Sleep
 
 
-Ignore the standard advice to not eat after a certain hour. Time your last meal to maximize your sleep quality. For me and I suspect other early risers, we need to eat something right before sleep. If I don't have enough food, hunger will wake me up. The reason we are waking up so early and are unable to return to sleep is that adrenaline levels in the body peak around 3 AM - 4 AM. What food suppresses the stress response? Carbs, sugar, and salt. Eating cheese or ice cream before bed has worked great for me. Another trick is to down spoonfuls of honey before bed. [Marcelo told us in January](/2014/01/amazing-back-sleep-hack/#comment-22181) how well it worked for him.
+Ignore the standard advice to not eat after a certain hour. Time your last meal to maximize your sleep quality. For me and I suspect other early risers, we need to eat something right before sleep. If I don't have enough food, hunger will wake me up.
 
-> It was about 2 weeks until i discovered the cause. Stress hormones were a river on my body! I was living on cortisol and adrenaline, because this i could be very active during the day, even with 3 hours of sleep a day! But i was feeling crap at night. Then i searched the web to solve this problem, i saw that people often with “high metabolism”, easy stressed, should not be on a regimen that stresses they body: IF + next to zero carb + heavy exercises everyday. Of course! What i did, to experiment (saw on paleo hacks forum): continued with paleo, but, every night, **an hour before bed, ate 5 tablespoons of honey, straight of the spoon**. WORKED LIKE A MAGIC!!! Slept well first time in almost 3 weeks sleep deprived!
+The reason we are waking up so early and are unable to return to sleep is that adrenaline levels in the body peak around 3 AM - 4 AM. What food suppresses the stress response? Carbs, sugar, and salt. Eating cheese or ice cream before bed has worked great for me.
 
-Victor from Brazil sent me information on eating popcorn before bedtime. After battling sleep issues, he is sleeping now _sleeping like a rock_ thanks to popcorn. He also pointed me to a [discussion on that topic](http://boards.straightdope.com/sdmb/showthread.php?t=503626). Lots of people are reporting sleep success with carbs, sugar, and salt before bed. Cheese too!
+Another trick is to down spoonfuls of honey before bed. [Marcelo told us in January](/2014/01/amazing-back-sleep-hack/#comment-22181) how well it worked for him.
+
+> It was about 2 weeks until i discovered the cause. Stress hormones were a river on my body! I was living on cortisol and adrenaline, because this i could be very active during the day, even with 3 hours of sleep a day! But i was feeling crap at night. Then i searched the web to solve this problem, i saw that people often with “high metabolism”, easy stressed, should not be on a regimen that stresses they body: IF + next to zero carb + heavy exercises everyday. Of course!
+> 
+> What i did, to experiment (saw on paleo hacks forum): continued with paleo, but, every night, **an hour before bed, ate 5 tablespoons of honey, straight of the spoon**. WORKED LIKE A MAGIC!!! Slept well first time in almost 3 weeks sleep deprived!
+
+Victor from Brazil sent me information on eating popcorn before bedtime. After battling sleep issues, he is sleeping now _sleeping like a rock_ thanks to popcorn. He also pointed me to a [discussion on that topic](http://boards.straightdope.com/sdmb/showthread.php?t=503626).
+
+Lots of people are reporting sleep success with carbs, sugar, and salt before bed. Cheese too!
 
 
 ### #7 Supplements
 
 
-Magnesium, Calcium, and Gelatin. Those are the only three supplements/foods that have demonstrated any value in improving my sleep. I do not like melatonin. L-theanine seems interesting if I had trouble falling asleep, but I don't, so I've never tried it. ![Natural Vitality Natural Calm plus Magnesium-Calcium Drink, Raspberry Lemon, 16 Ounce](https://images-na.ssl-images-amazon.com/images/I/41bVUWKUkYL.jpg) _Natural Vitality Natural Calm plus Magnesium-Calcium Drink, Raspberry Lemon, 16 Ounce_
+Magnesium, Calcium, and Gelatin. Those are the only three supplements/foods that have demonstrated any value in improving my sleep. I do not like melatonin. L-theanine seems interesting if I had trouble falling asleep, but I don't, so I've never tried it.
+
+![Natural Vitality Natural Calm plus Magnesium-Calcium Drink, Raspberry Lemon, 16 Ounce](https://images-na.ssl-images-amazon.com/images/I/41bVUWKUkYL.jpg) _Natural Vitality Natural Calm plus Magnesium-Calcium Drink, Raspberry Lemon, 16 Ounce_
 
 
 ### #8 Practice Calmness
@@ -83,7 +119,9 @@ If you do wake too early and the sleep dust (#5) fails to work, do not get up an
 ### #10 Rejecting Quantified Self
 
 
-I was an early supporter of the Quantified Self movement. Not anymore. I don't want this post to go down that path. You can read [Some Quantified Self Honesty](/2014/04/honesty-quantified-self/) for my thoughts. Tracking my sleep quality for over 2 years was not healthy. It was stressful. At the time I thought it wasn't, but only when I fully detached from it did I see how it was negatively impacting my sleep. We don't need more data to solve our sleep. We aren't machines. There is not a data set complex enough to define what it means to be human. Instead, we need to build our intuition. Do your best. Throw anyway the spreadsheets and uninstall your sleep apps. Trust the process and you'll be fine. Pouring through spreadsheets and staring at your failures is no way to start each morning.
+I was an early supporter of the Quantified Self movement. Not anymore. I don't want this post to go down that path. You can read [Some Quantified Self Honesty](/2014/04/honesty-quantified-self/) for my thoughts. Tracking my sleep quality for over 2 years was not healthy. It was stressful. At the time I thought it wasn't, but only when I fully detached from it did I see how it was negatively impacting my sleep.
+
+We don't need more data to solve our sleep. We aren't machines. There is not a data set complex enough to define what it means to be human. Instead, we need to build our intuition. Do your best. Throw anyway the spreadsheets and uninstall your sleep apps. Trust the process and you'll be fine. Pouring through spreadsheets and staring at your failures is no way to start each morning.
 
 
 ### #11 Detach From the Outcome

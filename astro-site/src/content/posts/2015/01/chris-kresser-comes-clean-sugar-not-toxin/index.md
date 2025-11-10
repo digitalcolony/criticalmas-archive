@@ -16,7 +16,17 @@ Last September I posted [5 Issues I Had With Your Personal Paleo Code](/2014/09/
 > 
 > No, it is not. The fact there are carbohydrate sources with better nutrient profiles does not make sugar toxic. Chris likes and recommends ice cream, but says sugar is toxic. Well, check your ingredient list there pal, ice cream has sugar in it. When I became underweight, I used sugar (in ice cream) to stimulate my appetite to [regain weight](/2014/09/gaining-weight-paleo-diet/). I also used a mix of refined white sugar and salt to lower my stress levels to get [amazing sleep](/2014/01/amazing-back-sleep-hack/). Sugar is complicated at best. It is not toxic.
 
-I got a lot of pushback in the comments, but now I have someone else that agrees with me. Chris Kresser himself. I want to give a hat tip to Danny Roddy for alerting me to a recent post by Chris Kresser titled _Is Refined Sugar Really Toxic?_ Be warned that Kresser has an annoying newsletter pop-up window on every page, so I'm not linking to it. You don't need to read the article, because I have and took notes. ![](./img/sugar-toxic-e1729810398323.png) _Facebook was forcing people to log in to see this image from Roddy and showing up on my broken link checker report, so I copied it here._   _![](./img/sugar-paint.jpg)_ The short version is that Kresser no longer is saying sugar is toxic. Maybe he read my post and wised up? :) HA! Let me go through the 7 points made in the article and comment on a few of them.
+I got a lot of pushback in the comments, but now I have someone else that agrees with me. Chris Kresser himself.
+
+I want to give a hat tip to Danny Roddy for alerting me to a recent post by Chris Kresser titled _Is Refined Sugar Really Toxic?_ Be warned that Kresser has an annoying newsletter pop-up window on every page, so I'm not linking to it. You don't need to read the article, because I have and took notes.
+
+![](./img/sugar-toxic-e1729810398323.png)
+
+_Facebook was forcing people to log in to see this image from Roddy and showing up on my broken link checker report, so I copied it here._
+
+_![](./img/sugar-paint.jpg)_
+
+The short version is that Kresser no longer is saying sugar is toxic. Maybe he read my post and wised up? :) HA! Let me go through the 7 points made in the article and comment on a few of them.
 
 1\. We tend to over consume sugar calories in liquid form, which can lead to weight gain and other health issues.
 

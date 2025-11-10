@@ -12,17 +12,27 @@ I want to expand on my [2009 Financial Prediction](/2009/01/2009-financial-predi
 
 > By the end of 2009 it will hit **633**. This estimate is based solely off earnings ($42.26 x PE of 15).
 
-Where did that $42.26 number come from? It is a collection of earnings estimates. Here is a graph that appeared in a recent John Mauldin newsletter. ![sp500_estimates](./img/sp500_estimates.gif "sp500_estimates") Notice a trend? Historically in every downturn earnings estimates are too high and have to be continually lowered. Earnings are in free fall. Will estimates get lowered again once the horrific 4th Quarter numbers are out? Let us first assume that last estimate of $42.26 is dead on accurate. Now we need to find a reasonable [P/E ratio (price to earnings ratio)](https://en.wikipedia.org/wiki/Price_/_earnings). What is a good historic P/E in a period of economic contraction? Somewhere between 8 and 15. The 2001 recession had a P/E of around 22, but it was not consumer based. To me that number seems like an outlier. Given that interest rates are so low, I'm more inclined to think a P/E of 15 is fair value, but some think a P/E of 12 is more realistic.
+Where did that $42.26 number come from? It is a collection of earnings estimates. Here is a graph that appeared in a recent John Mauldin newsletter.
+
+![sp500_estimates](./img/sp500_estimates.gif "sp500_estimates")
+
+Notice a trend? Historically in every downturn earnings estimates are too high and have to be continually lowered. Earnings are in free fall. Will estimates get lowered again once the horrific 4th Quarter numbers are out? Let us first assume that last estimate of $42.26 is dead on accurate.
+
+Now we need to find a reasonable [P/E ratio (price to earnings ratio)](https://en.wikipedia.org/wiki/Price_/_earnings). What is a good historic P/E in a period of economic contraction? Somewhere between 8 and 15. The 2001 recession had a P/E of around 22, but it was not consumer based. To me that number seems like an outlier. Given that interest rates are so low, I'm more inclined to think a P/E of 15 is fair value, but some think a P/E of 12 is more realistic.
 
 -   $42.26 x 15 = 633.9
 -   $42.26 x 12 = 507.12
 
-As I write this post the S&P 500 is at 900. A 900 value would put the P/E at 21.3. I suppose if you think this looks like 2001 and you believe earnings estimates are not going to get lowered again - then buy stock. However, what if these estimates which keep dropping , drop another 10% before bottoming? That would put the S&P 500 earnings at $38.
+As I write this post the S&P 500 is at 900. A 900 value would put the P/E at 21.3. I suppose if you think this looks like 2001 and you believe earnings estimates are not going to get lowered again - then buy stock.
+
+However, what if these estimates which keep dropping , drop another 10% before bottoming? That would put the S&P 500 earnings at $38.
 
 -   $38 x 15 = 570
 -   $38 x 12 = 456
 
-**To be invested in the stock market now, you need to believe that earnings estimates are going to suddenly rise, the economy is going to improve and interest rates are going to stay this ridiculously low.** And to those who still think it is wise to buy and hold during a secular bear market, do the math. What percent of money will you lose in 2009 if your portfolio matches the performance of the S&P 500 and valuation moves to historic norms?
+**To be invested in the stock market now, you need to believe that earnings estimates are going to suddenly rise, the economy is going to improve and interest rates are going to stay this ridiculously low.**
+
+And to those who still think it is wise to buy and hold during a secular bear market, do the math. What percent of money will you lose in 2009 if your portfolio matches the performance of the S&P 500 and valuation moves to historic norms?
 
 -   $42.26, P/E 15 = -30.0%
 -   $42.26, P/E 12 = -43.7%
@@ -37,7 +47,11 @@ OK, if earnings suddenly increase and interest rates stay this low, then a P/E o
 
 -   $46.52, P/E 22 = +13.7%
 
-Note that there hasn't been a whisper of anyone raising their earnings estimates, so the above number is sheer hope. This is why I preach being in fixed income (savings, CDs, short-term Treasuries). The upside in the stock market is very limited and the downside is huge. Sitting on the sidelines in 2009 could save you years of retirement income. And if I'm wrong, you can always jump back in the market later not having lost any money. If the clowns on CNBC are wrong, you'll be working till your 75. [Standard disclaimer](/2008/11/not-a-certified-financial-planner/)
+Note that there hasn't been a whisper of anyone raising their earnings estimates, so the above number is sheer hope. This is why I preach being in fixed income (savings, CDs, short-term Treasuries). The upside in the stock market is very limited and the downside is huge.
+
+Sitting on the sidelines in 2009 could save you years of retirement income. And if I'm wrong, you can always jump back in the market later not having lost any money. If the clowns on CNBC are wrong, you'll be working till your 75.
+
+[Standard disclaimer](/2008/11/not-a-certified-financial-planner/)
 
 ---
 

@@ -8,7 +8,15 @@ description: "I saved this story for Father's Day even though it happened a few 
 commentCount: 11
 ---
 
-I saved this story for Father's Day even though it happened a few months ago. The only background you need to know is that I don't have any children. One day I was at the Fred Meyers grocery store checking out. Most of my order was already scanned and I was swiping my card into the payment system. There was nobody else behind me in line when the next customer pulled their cart into my lane. The next customer was a frazzled mom with two children. The boy was probably 3 or 4 years old and the girl was maybe a year younger. What caught my eye immediately was how much these two kids looked like me and my younger sister when we were their age. The boy was full of energy and the girl appeared to be very tired. She was fighting to stay awake, but not for long. ![MAS and sister ](./img/michael_michelle_eating2_600.jpg "MAS and sister ") _Me and my sister as kids._ As the cashier handed me my receipt, the boy stopped talking and wiggling. I looked over at him and now he was making direct eye contact with me. He had a look on his face like he knew me, but couldn't place my name. He smiled at me. Then in a moment I'll never forget, he pointed at me and began chanting "Daddy, Daddy". This woke up his sister. She joined him and starting yelling "Daddy". Other customers were now turning their attention toward our aisle. I stuffed the receipt in my bag and before mom could control the situation, I grabbed my groceries and escaped the store.
+I saved this story for Father's Day even though it happened a few months ago. The only background you need to know is that I don't have any children. One day I was at the Fred Meyers grocery store checking out. Most of my order was already scanned and I was swiping my card into the payment system. There was nobody else behind me in line when the next customer pulled their cart into my lane.
+
+The next customer was a frazzled mom with two children. The boy was probably 3 or 4 years old and the girl was maybe a year younger. What caught my eye immediately was how much these two kids looked like me and my younger sister when we were their age. The boy was full of energy and the girl appeared to be very tired. She was fighting to stay awake, but not for long.
+
+![MAS and sister ](./img/michael_michelle_eating2_600.jpg "MAS and sister ")
+
+_Me and my sister as kids._
+
+As the cashier handed me my receipt, the boy stopped talking and wiggling. I looked over at him and now he was making direct eye contact with me. He had a look on his face like he knew me, but couldn't place my name. He smiled at me. Then in a moment I'll never forget, he pointed at me and began chanting "Daddy, Daddy". This woke up his sister. She joined him and starting yelling "Daddy". Other customers were now turning their attention toward our aisle. I stuffed the receipt in my bag and before mom could control the situation, I grabbed my groceries and escaped the store.
 
 ---
 

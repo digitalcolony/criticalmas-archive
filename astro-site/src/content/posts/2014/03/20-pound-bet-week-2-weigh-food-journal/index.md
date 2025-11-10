@@ -9,7 +9,9 @@ description: "For a background to this post see How I Plan to Lose 20 Pounds an
 commentCount: 16
 ---
 
-_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._ Week #2 Weigh-in: **Unchanged**. I weighed myself a few times this week and was down, then up, but I ended the week even. Due to a project I was less active than [Week 1](/2014/03/20-pound-bet-week-1-weigh-food-journal/).
+_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._
+
+Week #2 Weigh-in: **Unchanged**. I weighed myself a few times this week and was down, then up, but I ended the week even. Due to a project I was less active than [Week 1](/2014/03/20-pound-bet-week-1-weigh-food-journal/).
 
 
 ### Sunday March 2

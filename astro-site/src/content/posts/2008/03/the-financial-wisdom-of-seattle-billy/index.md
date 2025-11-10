@@ -9,7 +9,15 @@ description: "Last fall I meet a good hearted nice fellow named Billy. Actually 
 commentCount: 3
 ---
 
-Last fall I meet a good hearted nice fellow named Billy. Actually that is not his real name. I'm protecting his real name. Billy is a college graduate working a white-collar job. Billy is also a financial idiot and to me that is what makes him interesting. Billy bought a condo at the absolute peak of the Seattle real estate market in 2007. Actually it was a condo conversion. He got the privilege of swapping his low rent payment for a bloated mortgage without having to hire a mover. A lot of people bought in 2007. What makes Billy unique is how much he is convinced he made a brilliant investment at just the right time. He also falls for the _Seattle Myth_, which states this market is immune to price drops. Earlier this year Billy was still trying to find people to buy the last remaining units in his building. Seems prices are off a little and having unsold units in his building is affecting his property value. Two weeks ago I saw Billy. Some people were talking about the economy and Billy stepped forth with some words of wisdom. _Buy Gold!_ Gold had just hit $1000 an ounce and was now on Billy's radar. Gold dropped by 10% in the next two days. I look forward to the day when Billy tells me the stock market is an awful investment. That will be the day I go all in long.
+Last fall I meet a good hearted nice fellow named Billy. Actually that is not his real name. I'm protecting his real name. Billy is a college graduate working a white-collar job. Billy is also a financial idiot and to me that is what makes him interesting.
+
+Billy bought a condo at the absolute peak of the Seattle real estate market in 2007. Actually it was a condo conversion. He got the privilege of swapping his low rent payment for a bloated mortgage without having to hire a mover. A lot of people bought in 2007. What makes Billy unique is how much he is convinced he made a brilliant investment at just the right time. He also falls for the _Seattle Myth_, which states this market is immune to price drops.
+
+Earlier this year Billy was still trying to find people to buy the last remaining units in his building. Seems prices are off a little and having unsold units in his building is affecting his property value.
+
+Two weeks ago I saw Billy. Some people were talking about the economy and Billy stepped forth with some words of wisdom. _Buy Gold!_ Gold had just hit $1000 an ounce and was now on Billy's radar. Gold dropped by 10% in the next two days.
+
+I look forward to the day when Billy tells me the stock market is an awful investment. That will be the day I go all in long.
 
 ---
 

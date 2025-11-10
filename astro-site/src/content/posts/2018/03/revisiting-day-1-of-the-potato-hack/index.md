@@ -13,7 +13,23 @@ Tim Steele shared a blog post by one of my readers today on his experience with 
 
 > I've tried the hack twice and could only make it a day and half before I caved. Despite cutting the experiment short, I lost 3 pounds on the first hack, so I will testify to its weight-loss effect. Unfortunately, I was also swept away by incredible hunger pangs and thoughts of food distracted me for hours.
 
-This paragraph reminded me of a point I wanted to make specifically regarding the first day of the Potato Hack. It has to do with the hunger challenges on the first day of the Potato Hack. I've done numerous potato hacks now. Some super strict. Some a little looser with the rules. What I have discovered to be true each and every time is that I consume more potatoes on Day 1 than the other days. And that is OK. The hunger you have on Day 1 is both physical and psychological. Once the physical hunger is addressed, you still feel the need to eat something. Your body is crying out for flavors. Then you feel hunger. But the hunger doesn't make sense, as your belly was just filled with potatoes minutes or hours ago. The solution here is not to let the hunger distract you. Immediately, grab another potato and start eating. Thinking of food? Eat another potato. You are training your brain to disassociate flavors from calories. With cold boiled potatoes, it is almost mathematically impossible to eat beyond your base metabolism. But, let us say you did overshoot on Day 1 by a few hundred calories. What happens next? On Days 2 and beyond, your hunger levels will drop, because you are no longer giving your brain the flavors signals it craves. It has been tamed. The entertainment value of food has been removed. Now all the potatoes are doing is filling the space in your stomach to turn off the hunger hormones. I often will eat 5 or 5.5 pounds of potatoes on Day 1 of a Potato Hack. That is a lot, but I am still in caloric deficit. On Days 2 and beyond, that number falls to 4 pounds, which is a much bigger deficit. By design, I win a little on Day 1 and a lot on Day 2 and beyond. Think of hunger as a riding a wild animal at a rodeo. Those first few seconds are like the first day of the Potato Hack. Don't fight the animal and don't find the hunger. Eventually, the animal wears itself out and calms down. So will your hunger. Trust the process. ![jordan-heinrichs-rodeo](./img/jordan-heinrichs-588477-rodeo.jpg) _Photo by_ [_Jordan Heinrichs_](https://unsplash.com/photos/czH4V2xsnCY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+This paragraph reminded me of a point I wanted to make specifically regarding the first day of the Potato Hack. It has to do with the hunger challenges on the first day of the Potato Hack.
+
+I've done numerous potato hacks now. Some super strict. Some a little looser with the rules. What I have discovered to be true each and every time is that I consume more potatoes on Day 1 than the other days. And that is OK.
+
+The hunger you have on Day 1 is both physical and psychological. Once the physical hunger is addressed, you still feel the need to eat something. Your body is crying out for flavors. Then you feel hunger. But the hunger doesn't make sense, as your belly was just filled with potatoes minutes or hours ago.
+
+The solution here is not to let the hunger distract you. Immediately, grab another potato and start eating. Thinking of food? Eat another potato. You are training your brain to disassociate flavors from calories. With cold boiled potatoes, it is almost mathematically impossible to eat beyond your base metabolism. But, let us say you did overshoot on Day 1 by a few hundred calories. What happens next?
+
+On Days 2 and beyond, your hunger levels will drop, because you are no longer giving your brain the flavors signals it craves. It has been tamed. The entertainment value of food has been removed. Now all the potatoes are doing is filling the space in your stomach to turn off the hunger hormones.
+
+I often will eat 5 or 5.5 pounds of potatoes on Day 1 of a Potato Hack. That is a lot, but I am still in caloric deficit. On Days 2 and beyond, that number falls to 4 pounds, which is a much bigger deficit. By design, I win a little on Day 1 and a lot on Day 2 and beyond.
+
+Think of hunger as a riding a wild animal at a rodeo. Those first few seconds are like the first day of the Potato Hack. Don't fight the animal and don't find the hunger. Eventually, the animal wears itself out and calms down. So will your hunger. Trust the process.
+
+![jordan-heinrichs-rodeo](./img/jordan-heinrichs-588477-rodeo.jpg)
+
+_Photo by_ [_Jordan Heinrichs_](https://unsplash.com/photos/czH4V2xsnCY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ---
 

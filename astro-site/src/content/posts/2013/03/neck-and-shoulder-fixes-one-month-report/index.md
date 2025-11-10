@@ -17,7 +17,9 @@ Well, the past month hasn't been good. The tightness in my neck and shoulders is
 4.  Some isometric neck exercises - I just started this, so I'll continue slowly with it. Nothing so far.
 5.  Lying on the floor breaks - Actually, I love this idea I got from [Txomin](/2013/02/overview-of-the-ideas-to-fix-my-neck-and-shoulder/#comment-17234) and Stephan. It is very calming and I've found increased energy and effectiveness when returning to work. However, it hasn't helped my neck or shoulders yet.
 
-I just thought of another theory on why my neck, shoulders, and recently back are feeling more achy. When I went from 210 pounds to 190 pounds, much of my stiffness disappeared. I was chalking it up to eating a lower-inflammatory diet, but it might just be a weight thing. So when I [increased my weight](/2013/03/ending-the-ice-cream-experiment/) recently, it might have increased the stiffness. Dropping 10 pounds should tell me if that is the culprit. My focus for the next month will be on losing some weight, more lying breaks, and breathing exercises. I'll do one isometric neck exercise session a week.
+I just thought of another theory on why my neck, shoulders, and recently back are feeling more achy. When I went from 210 pounds to 190 pounds, much of my stiffness disappeared. I was chalking it up to eating a lower-inflammatory diet, but it might just be a weight thing. So when I [increased my weight](/2013/03/ending-the-ice-cream-experiment/) recently, it might have increased the stiffness. Dropping 10 pounds should tell me if that is the culprit.
+
+My focus for the next month will be on losing some weight, more lying breaks, and breathing exercises. I'll do one isometric neck exercise session a week.
 
 ---
 

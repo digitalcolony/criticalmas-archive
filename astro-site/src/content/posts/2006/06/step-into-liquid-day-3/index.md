@@ -9,4 +9,8 @@ description: "Today I went Bodyboarding for the first time. Not nearly as exhaus
 commentCount: 0
 ---
 
-Today I went Bodyboarding for the first time. Not nearly as exhausting as surfing, but also not as rewarding. A few surfers thought I was insane for not wearing a wetsuit. Being from Ohio makes my skin immune to cold water. ![](./img/surfer.jpg) The above photo is not me.
+Today I went Bodyboarding for the first time. Not nearly as exhausting as surfing, but also not as rewarding. A few surfers thought I was insane for not wearing a wetsuit. Being from Ohio makes my skin immune to cold water.
+
+![](./img/surfer.jpg)
+
+The above photo is not me.

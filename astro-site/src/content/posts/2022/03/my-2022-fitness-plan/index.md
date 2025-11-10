@@ -9,31 +9,57 @@ description: "Seattle dropped the indoor mask requirements 9 days ago, so after 
 commentCount: 6
 ---
 
-Seattle dropped the indoor mask requirements 9 days ago, so after a very long absence, I am back at my Glitter Gym. 🥳 I estimate that I lost 3-5 pounds of muscle during this period and some strength. I wasn't lazy during this period. I still walked a lot plus did some bodyweight exercises (but not enough). And since late October, yoga every single day. The plan now is to regain the lost muscle. I also want to strengthen my ankles, knees, hip flexors, and feet. Here is my plan.
+Seattle dropped the indoor mask requirements 9 days ago, so after a very long absence, I am back at my Glitter Gym. 🥳
+
+I estimate that I lost 3-5 pounds of muscle during this period and some strength. I wasn't lazy during this period. I still walked a lot plus did some bodyweight exercises (but not enough). And since late October, yoga every single day.
+
+The plan now is to regain the lost muscle. I also want to strengthen my ankles, knees, hip flexors, and feet. Here is my plan.
 
 
 ### Daily
 
 
-[10,000 steps walking per day](/2017/08/power-10000-steps-day-charts/). I don't consider this to be "exercise". I view taking several walks a day as sitting interruptions. For a few weeks now, I [walk backward up a hill](/2022/02/muscle-still-interrupted/) every day. Morning yoga or stretch routine. Between 20-40 minutes. I have found so many classes on Amazon Prime and YouTube. Evening stretching. 10-15 minutes.
+[10,000 steps walking per day](/2017/08/power-10000-steps-day-charts/). I don't consider this to be "exercise". I view taking several walks a day as sitting interruptions. For a few weeks now, I [walk backward up a hill](/2022/02/muscle-still-interrupted/) every day.
+
+Morning yoga or stretch routine. Between 20-40 minutes. I have found so many classes on Amazon Prime and YouTube.
+
+Evening stretching. 10-15 minutes.
 
 
 ### Strength (3x a week)
 
 
-I'll be using a few of the mass exercises recommended in Tall Man Training by Alexander Cortes. I was already doing goblet squats with my trusty 35-pound dumbbell, but now that I'm back in the gym, I'll be adding the hack squat and leg press. For the chest, I'll be using incline presses. Dumbbell and barbell. I also just started doing inverted rows. Initially, I won't be going to failure. I'll be leaning towards volume as I get back into shape. I'll be using the HIT principles of slower controlled movements over "going heavy". Safety first.
+I'll be using a few of the mass exercises recommended in Tall Man Training by Alexander Cortes. I was already doing goblet squats with my trusty 35-pound dumbbell, but now that I'm back in the gym, I'll be adding the hack squat and leg press.
+
+For the chest, I'll be using incline presses. Dumbbell and barbell.
+
+I also just started doing inverted rows.
+
+Initially, I won't be going to failure. I'll be leaning towards volume as I get back into shape. I'll be using the HIT principles of slower controlled movements over "going heavy". Safety first.
 
 
 ### Non-Gym Days
 
 
-I'll be using some of the Knees Over Toes info plus some stuff I found on YouTube to strengthen my knees, ankles, feet, and hip flexors. From KOT, I am focusing on the Tibialis Raise and the Split Squat initially. Then I'll look at the Reverse Squat. Last summer, I got a high hamstring tear. It has taken forever to heal. It still acts up if I drive for more than 30 minutes. Initially, I think I made it worse through stretching. Now I believe it was a weak hip flexor that caused the problem, so I'm adding some hip flexor exercises to address that. I also own an adjustable slant board, which I do bodyweight squats on daily from different angles. And finally, I'll be working on toe and foot strength exercises to assist with some yoga poses.
+I'll be using some of the Knees Over Toes info plus some stuff I found on YouTube to strengthen my knees, ankles, feet, and hip flexors.
+
+From KOT, I am focusing on the Tibialis Raise and the Split Squat initially. Then I'll look at the Reverse Squat.
+
+Last summer, I got a high hamstring tear. It has taken forever to heal. It still acts up if I drive for more than 30 minutes. Initially, I think I made it worse through stretching. Now I believe it was a weak hip flexor that caused the problem, so I'm adding some hip flexor exercises to address that.
+
+I also own an adjustable slant board, which I do bodyweight squats on daily from different angles.
+
+And finally, I'll be working on toe and foot strength exercises to assist with some yoga poses.
 
 
 ### Enough To Get Started
 
 
-I don't plan to resume Zone 2 cardio at my gym just yet. After a few weeks of getting resettled into the program above, I'll likely do some of my outdoor walks with a weighted vest. I wonder how long it will take to regain my lost muscle? ![weights-in-gym](./img/weights-in-gym.jpg)
+I don't plan to resume Zone 2 cardio at my gym just yet. After a few weeks of getting resettled into the program above, I'll likely do some of my outdoor walks with a weighted vest.
+
+I wonder how long it will take to regain my lost muscle?
+
+![weights-in-gym](./img/weights-in-gym.jpg)
 
 ---
 

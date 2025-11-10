@@ -17,13 +17,23 @@ It was [last December](/2010/12/returning-to-slow-motion-weight-training/) when 
 -   shorter workouts
 -   fewer workouts
 
-The common element is taking the targeted muscle to complete failure and then allowing sufficient time for recovery to take place. Additional sets or longer workouts necessitate a reduction in intensity, which is not ideal to stimulate maximum muscle growth. Also not allowing your body time to recover from the previous workout short circuits the repair process when muscle is built. High Intensity Training is about hitting it very hard, very brief, and then resting. Or as James Brown would say, "_Hit it and quit it_".
+The common element is taking the targeted muscle to complete failure and then allowing sufficient time for recovery to take place. Additional sets or longer workouts necessitate a reduction in intensity, which is not ideal to stimulate maximum muscle growth. Also not allowing your body time to recover from the previous workout short circuits the repair process when muscle is built. High Intensity Training is about hitting it very hard, very brief, and then resting.
+
+Or as James Brown would say, "_Hit it and quit it_".
 
 
 ### My HIT Protocol
 
 
-There are several different HIT training protocols and they differ slightly from one another. I mostly used The Big 5 Workout plan outlined in _Body by Science_ and used by [Ideal Exercise](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/). Often I would add two additional arm exercises. During a second workout at Ideal Exercise, I learned how to incorporate a technique called pre-exhaustion into my workouts. That method is covered in detail in [The New High Intensity Training](/2011/05/the-new-high-intensity-training/) by Darden. In addition, I did some experimenting with John Little's static hold techniques, which I plan to do more of after I finish reading his book Max Contraction Training. Most of my workouts last just 10 minutes and I only work out every 5th day. ![leg-press](./img/leg-press.jpg) _[Leg Press](http://www.flickr.com/photos/jnd90745/3198533414/in/photostream/) by Oliver DelaCruz. I used to believe the leg press was a worthless exercise. Once I learned to really slow the movement down and not lock out, I became a fan. 99% of the people in the gym use this piece of equipment wrong. SLOW DOWN!_ Was HIT successful for me? Before I can answer that question, I wanted to define what success means. Given my age, training age, and the fact I'm an ectomorph, I do not think it would be fair to expect noticeable muscle gains. If I were a 25-year-old newbie mesomorph, my expectations would be much higher. So for me, I will measure success with these metrics.
+There are several different HIT training protocols and they differ slightly from one another. I mostly used The Big 5 Workout plan outlined in _Body by Science_ and used by [Ideal Exercise](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/). Often I would add two additional arm exercises. During a second workout at Ideal Exercise, I learned how to incorporate a technique called pre-exhaustion into my workouts. That method is covered in detail in [The New High Intensity Training](/2011/05/the-new-high-intensity-training/) by Darden. In addition, I did some experimenting with John Little's static hold techniques, which I plan to do more of after I finish reading his book Max Contraction Training.
+
+Most of my workouts last just 10 minutes and I only work out every 5th day.
+
+![leg-press](./img/leg-press.jpg)
+
+_[Leg Press](http://www.flickr.com/photos/jnd90745/3198533414/in/photostream/) by Oliver DelaCruz. I used to believe the leg press was a worthless exercise. Once I learned to really slow the movement down and not lock out, I became a fan. 99% of the people in the gym use this piece of equipment wrong. SLOW DOWN!_
+
+Was HIT successful for me? Before I can answer that question, I wanted to define what success means. Given my age, training age, and the fact I'm an ectomorph, I do not think it would be fair to expect noticeable muscle gains. If I were a 25-year-old newbie mesomorph, my expectations would be much higher. So for me, I will measure success with these metrics.
 
 1.  **Do I Feel Good?** - Yes. Unlike traditional weight lifting, I never get shoulder or back pain. My muscles are sorer, but my joints feel great. Using machines and slowing down the movement has taken the fear out of lifting. For the past five years, I've always held back in the gym on the last few reps out of fear that I was going to injure myself.
 2.  **Am I Getting Stronger?** - Yes. Especially in the arms and legs. I am 6 foot 2.5 inches tall and I can tell you that Dr. Doug McGuff was dead-on correct in the book [Body By Science](/2010/01/body-by-science/) when he made the case for machines with taller athletes.
@@ -33,13 +43,19 @@ There are several different HIT training protocols and they differ slightly from
 ### Show Me the Numbers
 
 
-I violated a core HIT rule. I didn't record any workouts. Times and weights are very important to HIT. Since you are typically only doing a few exercises for a single set, you don't have the luxury of dialing in the weight across multiple sets. My training philosophy is the [Minimal Effort Approach](/2010/03/the-minimal-effort-approach/). As long as I feel I'm moving in the right direction, I won't try and complicate things. For me, the first 6 months of HIT were about unlearning old habits, practicing slower movements, better breathing techniques, and listening to my body. At some point, if I feel my progress is stalling, I'll start recording things.
+I violated a core HIT rule. I didn't record any workouts. Times and weights are very important to HIT. Since you are typically only doing a few exercises for a single set, you don't have the luxury of dialing in the weight across multiple sets. My training philosophy is the [Minimal Effort Approach](/2010/03/the-minimal-effort-approach/). As long as I feel I'm moving in the right direction, I won't try and complicate things. For me, the first 6 months of HIT were about unlearning old habits, practicing slower movements, better breathing techniques, and listening to my body.
+
+At some point, if I feel my progress is stalling, I'll start recording things.
 
 
 ### Going Forward
 
 
-In the post [Training To Failure or Training To Quit](/2011/03/training-failure-training-quit/), I theorized that I might cycle between periods of High Intensity Training and a more traditional Pavel-style workout program. Well, I am going to stick with HIT for now. Every week that passes I become more convinced that HIT is right for me. ![MAS Flex](./img/mas_flex500.jpg) _This is an early photo of me striking a bicep pose._ :)
+In the post [Training To Failure or Training To Quit](/2011/03/training-failure-training-quit/), I theorized that I might cycle between periods of High Intensity Training and a more traditional Pavel-style workout program. Well, I am going to stick with HIT for now. Every week that passes I become more convinced that HIT is right for me.
+
+![MAS Flex](./img/mas_flex500.jpg)
+
+_This is an early photo of me striking a bicep pose._ :)
 
 ---
 

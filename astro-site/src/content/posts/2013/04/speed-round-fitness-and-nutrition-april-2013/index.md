@@ -9,7 +9,57 @@ description: "Sometimes I cringe a little when I go back and read some of my ear
 commentCount: 8
 ---
 
-Sometimes I cringe a little when I go back and read some of my earlier posts on nutrition. Not always, but sometimes I am tempted to remove a sentence or add an update. But with almost 2,000 posts on this site, it would be an impossible task to maintain current views on all those entries. And it would be futile, as my views are constantly changing. Plus it seems unethical to go back and tidy up posts to make oneself always look correct. So my policy is to only update spelling or grammatical errors on older posts. I'll also fix links that break. The only exception to this policy is recipes. As I make a dish and learn ways of making it better, I will update those posts. Since my views are changing, how can I quickly bring readers up to my current thoughts? Recently I got a great idea while listening to the podcast interview of Robb Wolf by _SportsCoachRadio.com_. At the end of the interview, Robb is asked to participate in a "_speed round_". Quick answers to a lot of topics. A brilliant idea. Here goes my first speed round. CrossFit - [Asinine](/2012/02/responding-to-a-crossfit-enthusiast/) Squat and Bench Press - [Unnecessary](/2012/06/i-no-longer-give-a-squat-about-the-squat/) and [unsafe](/2013/03/more-bench-press-nonsense/). Parkour - Looks cool. but unless you are training to be a cat burglar, the risk of injury is too high. High-Intensity Training - [Love it](https://criticalmas.org/tag/hit/). Cardio - Unnecessary for good health. (JULY 2024: The article by James Steele is no longer online in the Wayback Machine.) Eat Less Move More - [Only explains the successes](/2012/08/my-problem-with-eat-less-move-more-part-2/). Intermittent Fasting - Great for learning how to deal with hunger. I think the daily 16 hours are excessive, especially for ectomorphs and women. I like Brad Pilon's [Eat Stop Eat](/2011/01/eat-stop-eat-a-guide-book-for-intermittent-fasting/) approach best now. Cold Temperature Exposure - I like CT as a tool to widen one's comfort range of temperatures. However, I am skeptical of the broad fat loss claims. Those losing fat with CT all seem to be endomorphic males. Unless you are a thick-wristed big dude, I would use enough CT to expand your comfort window. Women should probably avoid. Glucose vs Ketones - I'll probably do a full post on this later, but I still favor a cyclical approach to carbs, only now my bias is much more towards glucose metabolism. True Toxins - Veggie oils, wheat, and unfermented soy. Sugar is likely fine. Paleo - A good start, but [only a start](/2013/04/am-i-paleo/). Fitness blogs by young mesomorphs with cut abs - Mostly delusional nonsense written for other young males who like to be told fitness fairy tales. GMO - Sorry, but I don't fear genetically modified food. Economist Tyler Cowen cuts through the hysterical claims in [An Economist Gets Lunch](/2013/02/my-top-5-books-of-2012/). Microwaves - Fine. Diet Colas - Sugar cane soda is a much better option, however, a single diet cola a day is probably fine. More than that might cause [strokes](/2013/01/diet-colas-and-changing-my-opinion/#comment-16832). Popcorn - I have no idea if it is good or bad. I eat it occasionally. Nothing suppresses my appetite more. Best Nutrition Book - None. Get a cookbook that inspires you instead. Best Fitness Book - Body By Science or [HillFit](/2012/01/hillfit-strength-is-not-just-for-hikers/). Long term view of health - Extremely [optimistic](/2012/08/the-healthy-optimist/). Confidence Level that I Understand Fitness - 70% Confidence Level that I Understand Nutrition - 30% That is it for now. I'll likely do another Speed Round post in a year mocking my opinions in this post. :)
+Sometimes I cringe a little when I go back and read some of my earlier posts on nutrition. Not always, but sometimes I am tempted to remove a sentence or add an update. But with almost 2,000 posts on this site, it would be an impossible task to maintain current views on all those entries. And it would be futile, as my views are constantly changing.
+
+Plus it seems unethical to go back and tidy up posts to make oneself always look correct. So my policy is to only update spelling or grammatical errors on older posts. I'll also fix links that break. The only exception to this policy is recipes. As I make a dish and learn ways of making it better, I will update those posts.
+
+Since my views are changing, how can I quickly bring readers up to my current thoughts? Recently I got a great idea while listening to the podcast interview of Robb Wolf by _SportsCoachRadio.com_. At the end of the interview, Robb is asked to participate in a "_speed round_". Quick answers to a lot of topics. A brilliant idea.
+
+Here goes my first speed round.
+
+CrossFit - [Asinine](/2012/02/responding-to-a-crossfit-enthusiast/)
+
+Squat and Bench Press - [Unnecessary](/2012/06/i-no-longer-give-a-squat-about-the-squat/) and [unsafe](/2013/03/more-bench-press-nonsense/).
+
+Parkour - Looks cool. but unless you are training to be a cat burglar, the risk of injury is too high.
+
+High-Intensity Training - [Love it](https://criticalmas.org/tag/hit/).
+
+Cardio - Unnecessary for good health. (JULY 2024: The article by James Steele is no longer online in the Wayback Machine.)
+
+Eat Less Move More - [Only explains the successes](/2012/08/my-problem-with-eat-less-move-more-part-2/).
+
+Intermittent Fasting - Great for learning how to deal with hunger. I think the daily 16 hours are excessive, especially for ectomorphs and women. I like Brad Pilon's [Eat Stop Eat](/2011/01/eat-stop-eat-a-guide-book-for-intermittent-fasting/) approach best now.
+
+Cold Temperature Exposure - I like CT as a tool to widen one's comfort range of temperatures. However, I am skeptical of the broad fat loss claims. Those losing fat with CT all seem to be endomorphic males. Unless you are a thick-wristed big dude, I would use enough CT to expand your comfort window. Women should probably avoid.
+
+Glucose vs Ketones - I'll probably do a full post on this later, but I still favor a cyclical approach to carbs, only now my bias is much more towards glucose metabolism.
+
+True Toxins - Veggie oils, wheat, and unfermented soy. Sugar is likely fine.
+
+Paleo - A good start, but [only a start](/2013/04/am-i-paleo/).
+
+Fitness blogs by young mesomorphs with cut abs - Mostly delusional nonsense written for other young males who like to be told fitness fairy tales.
+
+GMO - Sorry, but I don't fear genetically modified food. Economist Tyler Cowen cuts through the hysterical claims in [An Economist Gets Lunch](/2013/02/my-top-5-books-of-2012/).
+
+Microwaves - Fine.
+
+Diet Colas - Sugar cane soda is a much better option, however, a single diet cola a day is probably fine. More than that might cause [strokes](/2013/01/diet-colas-and-changing-my-opinion/#comment-16832).
+
+Popcorn - I have no idea if it is good or bad. I eat it occasionally. Nothing suppresses my appetite more.
+
+Best Nutrition Book - None. Get a cookbook that inspires you instead.
+
+Best Fitness Book - Body By Science or [HillFit](/2012/01/hillfit-strength-is-not-just-for-hikers/).
+
+Long term view of health - Extremely [optimistic](/2012/08/the-healthy-optimist/).
+
+Confidence Level that I Understand Fitness - 70%
+
+Confidence Level that I Understand Nutrition - 30%
+
+That is it for now. I'll likely do another Speed Round post in a year mocking my opinions in this post. :)
 
 ---
 

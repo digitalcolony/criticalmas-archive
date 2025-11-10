@@ -9,4 +9,8 @@ description: "In 2001, I placed a 5% down payment on a house that was priced at 
 commentCount: 0
 ---
 
-In 2001, I placed a 5% down payment on a [house](/2008/04/home-on-holly-oak-lane/ "photos") that was priced at $389,000. Quite a few people shared reservations that I wasn't making a very wise decision. One aunt who had previously lived in SoCal seemed almost angry at me. Well I ran the numbers and came to the conclusion that the purchase made sense for me. Yesterday, I received the money for the sale of that house. It was A LOT of money. The amount of profit was insane. I am another winner in the California home seller lottery. **The reason I'm a winner is because I'm not buying another home.** More on that topic in another post. ![holly-oak-house](./img/holly-oak-house.jpg)
+In 2001, I placed a 5% down payment on a [house](/2008/04/home-on-holly-oak-lane/ "photos") that was priced at $389,000. Quite a few people shared reservations that I wasn't making a very wise decision. One aunt who had previously lived in SoCal seemed almost angry at me. Well I ran the numbers and came to the conclusion that the purchase made sense for me.
+
+Yesterday, I received the money for the sale of that house. It was A LOT of money. The amount of profit was insane. I am another winner in the California home seller lottery. **The reason I'm a winner is because I'm not buying another home.** More on that topic in another post.
+
+![holly-oak-house](./img/holly-oak-house.jpg)

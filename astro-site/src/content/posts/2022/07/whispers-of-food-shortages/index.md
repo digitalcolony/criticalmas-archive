@@ -8,19 +8,31 @@ description: "Since the interests of this blog involve food and risk, I thought 
 commentCount: 11
 ---
 
-Since the interests of this blog involve food and risk, I thought I'd address a topic that isn't getting serious attention from major news outlets. That is the possibility that food shortages are coming. If you search Twitter you will find several accounts that are predicting that massive disruptions in our food supply are coming soon. They cite various reasons including supply change issues, fertilizer restrictions, and the war in Ukraine. There are two reasons that I can think of why this isn't a larger story. The first is that the evidence is weak and therefore extremely unlikely to happen. The second reason is the evidence has some merit and reporting on it would lead to hoarding and shortages. Which is the truth? After doing a bit of reading on both sides, I'm assigning a 5% probability that the US would experience any food shortages in the next year. Other countries, depending on their own food security level, could have a higher risk.
+Since the interests of this blog involve food and risk, I thought I'd address a topic that isn't getting serious attention from major news outlets. That is the possibility that food shortages are coming. If you search Twitter you will find several accounts that are predicting that massive disruptions in our food supply are coming soon. They cite various reasons including supply change issues, fertilizer restrictions, and the war in Ukraine.
+
+There are two reasons that I can think of why this isn't a larger story. The first is that the evidence is weak and therefore extremely unlikely to happen. The second reason is the evidence has some merit and reporting on it would lead to hoarding and shortages.
+
+Which is the truth? After doing a bit of reading on both sides, I'm assigning a 5% probability that the US would experience any food shortages in the next year. Other countries, depending on their own food security level, could have a higher risk.
 
 
 ### 5% Is Not Zero
 
 
-In my opinion, not preparing for a 5% risk is unacceptable. I've already begun to stockpile bags of rice, dried legumes, and canned food. If I had an extra freezer, it would be full of grass-fed meat. Did you know that a 5-pound jar of peanut butter has 13,490 calories in it, is shelf stable for 2 years, and sells for less than $11 on Amazon? I also have an Instant Pot and I know how to cook. It is shameful that we live in an era with so much access to cooking knowledge that younger adults are clueless when it comes to food preparation. Relying on an app and a delivery driver for your very survival is a terrible strategy. ![](./img/remain-calm-all-is-well-animal-house.jpg)
+In my opinion, not preparing for a 5% risk is unacceptable. I've already begun to stockpile bags of rice, dried legumes, and canned food. If I had an extra freezer, it would be full of grass-fed meat.
+
+Did you know that a 5-pound jar of peanut butter has 13,490 calories in it, is shelf stable for 2 years, and sells for less than $11 on Amazon?
+
+I also have an Instant Pot and I know how to cook. It is shameful that we live in an era with so much access to cooking knowledge that younger adults are clueless when it comes to food preparation. Relying on an app and a delivery driver for your very survival is a terrible strategy.
+
+![](./img/remain-calm-all-is-well-animal-house.jpg)
 
 
 ### Lessons From 2008
 
 
-Really longtime readers of this blog might recall how I called the real estate and stock market collapse in 2008. At one point, I felt there was a risk that the banking system could freeze up. A very small risk, but one I was uncomfortable with. From the September 2008 post [Watching Wall Street and Waiting](/2008/09/watching-wall-street-and-waiting/):
+Really longtime readers of this blog might recall how I called the real estate and stock market collapse in 2008. At one point, I felt there was a risk that the banking system could freeze up. A very small risk, but one I was uncomfortable with.
+
+From the September 2008 post [Watching Wall Street and Waiting](/2008/09/watching-wall-street-and-waiting/):
 
 > We may or may not have an Argentina style banking crisis, but ignoring the possibility isn’t wise. Bad unexpected things can happen. And they can happen very quickly. After I woke up from my bad night of sleep, I asked myself what I would do if I knew a hurricane or fire could hit me in the next week or so. Here is what I did today:
 > 
@@ -36,7 +48,21 @@ We didn't get the crisis, but a few months later, Seattle got hammered with a [g
 ### What We Learned From Cat Food
 
 
-I don't have a cat, but I learned this from a few cat owners during the lockdowns. Certain types of cat food became scarce due to supply chain issues. Cats are often picky eaters and will only eat a specific brand. When owners started seeing that they were unable to get their brand of cat food, they went from a shopper mentality to a hoarder mentality. Instead of buying what they needed, they would buy months of cat food as soon as they could. This caused other cat owners to see empty shelves and hoard themselves at the first opportunity. What if cat food and the baby formula shortages are just the first act of a deeper crisis? Can you imagine what grocery store shopping would look like if these whispers of food shortages got louder? It would be like the panic shopping you see days before a hurricane is predicted to hit a coastal city. Only it would be everywhere and at the same time. It is an unlikely situation, but if it happens, I'll be safe at home with a bowl of rice and beans and not in a fist fight at Trader Joe's. ![food shortage](./img/sandie-clarke-g0f9AbZ3Zs4-unsplash.jpg) _Photo by [Sandie Clarke](https://unsplash.com/@honeypoppet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_ Where are you located and where do you place the odds of food shortages in the next year? And what steps are you taking, if any, to prepare?
+I don't have a cat, but I learned this from a few cat owners during the lockdowns. Certain types of cat food became scarce due to supply chain issues.
+
+Cats are often picky eaters and will only eat a specific brand. When owners started seeing that they were unable to get their brand of cat food, they went from a shopper mentality to a hoarder mentality. Instead of buying what they needed, they would buy months of cat food as soon as they could. This caused other cat owners to see empty shelves and hoard themselves at the first opportunity.
+
+What if cat food and the baby formula shortages are just the first act of a deeper crisis?
+
+Can you imagine what grocery store shopping would look like if these whispers of food shortages got louder? It would be like the panic shopping you see days before a hurricane is predicted to hit a coastal city. Only it would be everywhere and at the same time.
+
+It is an unlikely situation, but if it happens, I'll be safe at home with a bowl of rice and beans and not in a fist fight at Trader Joe's.
+
+![food shortage](./img/sandie-clarke-g0f9AbZ3Zs4-unsplash.jpg)
+
+_Photo by [Sandie Clarke](https://unsplash.com/@honeypoppet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+
+Where are you located and where do you place the odds of food shortages in the next year? And what steps are you taking, if any, to prepare?
 
 ---
 

@@ -9,7 +9,11 @@ description: "Last March I decided to finally figure out the cause of my late ni
 commentCount: 29
 ---
 
-Last March I decided to finally figure out the cause of my late night sinus headaches. I started a headache journal, ran numerous tests and tried several supplements. Nine months later and I still haven't figured it out. The good news is that many of the things I suspected might be an issue were cleared. Also I have learned how to better respond to the pain, so even though my headaches haven't decreased, my sleep quality is gradually improving. I'm not ready to give up and surrender to a doctor. Partially because I [don't trust them](/2011/10/why-i-distrust-doctors/), but also because I still have a few more ideas to test. ![headache](http://farm3.staticflickr.com/2017/2120534943_c4804c2b28.jpg "headache") _[Photo](http://www.flickr.com/photos/funkypancake/2120534943/in/photostream/) by FunkyPancake_
+Last March I decided to finally figure out the cause of my late night sinus headaches. I started a headache journal, ran numerous tests and tried several supplements. Nine months later and I still haven't figured it out. The good news is that many of the things I suspected might be an issue were cleared. Also I have learned how to better respond to the pain, so even though my headaches haven't decreased, my sleep quality is gradually improving. I'm not ready to give up and surrender to a doctor. Partially because I [don't trust them](/2011/10/why-i-distrust-doctors/), but also because I still have a few more ideas to test.
+
+![headache](http://farm3.staticflickr.com/2017/2120534943_c4804c2b28.jpg "headache")
+
+_[Photo](http://www.flickr.com/photos/funkypancake/2120534943/in/photostream/) by FunkyPancake_
 
 
 ### Innocent Suspects and Useless Supplements

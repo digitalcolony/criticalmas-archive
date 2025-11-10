@@ -5,21 +5,33 @@ modifiedDate: 2022-11-04T07:00:25.000Z
 author: "MAS"
 categories: ["Nutrition"]
 tags: ["carbs", "vegan"]
-description: "Rick Rubin was recently on the Joe Rogan podcast. He talked about how his health improved and he lost 130 pounds when he abandoned his vegan diet. > JOE: What about veganism got you that big? RICK:..."
+description: "Rick Rubin was recently on the Joe Rogan podcast. He talked about how his health improved and he lost 130 pounds when he abandoned his vegan diet. > JOE: What about veganism got you that big? >  >..."
 commentCount: 6
 ---
 
 Rick Rubin was recently on the Joe Rogan podcast. He talked about how his health improved and [he lost 130 pounds](https://duckduckgo.com/?hps=1&q=Joe+Rogan%3A+Rick+Rubin+LOST+130+POUNDS+By+QUITTING+The+VEGAN+Diet!&atb=v340-1&ia=web) when he abandoned his vegan diet.
 
-> JOE: What about veganism got you that big? RICK: It's a carb only diet. It's just carbs.
+> JOE: What about veganism got you that big?
+> 
+> RICK: It's a carb only diet. It's just carbs.
 
-The vegans online were quick to point out that Rick ate a highly processed vegan diet. He wasn't taking the whole foods approach. But that doesn't refute his carb statement directly. I can refute it because I recalled Rick's interview with Tim Ferriss back in 2015. ([transcript PDF](https://tim.blog/wp-content/uploads/2018/07/76-rick-rubin.pdf))
+The vegans online were quick to point out that Rick ate a highly processed vegan diet. He wasn't taking the whole foods approach. But that doesn't refute his carb statement directly.
+
+I can refute it because I recalled Rick's interview with Tim Ferriss back in 2015. ([transcript PDF](https://tim.blog/wp-content/uploads/2018/07/76-rick-rubin.pdf))
 
 > ...you know, almond butter was something that I was allowed to eat, because in Phil’s world, almond butter is healthy. So, **I probably ate two thirds of a jar of almond butter** **every day.**
 
-Almond butter is a calorie-dense food that is almost pure fat. Not carbs. He never mentioned almond butter to Joe Rogan. How many calories were in a jar of almond butter when Rick was consuming all those jars? I did a post in 2011 on the brand Costco sold. From the post, [Someone Has Been Messing With My Almond Butter](/2011/06/someone-has-been-messing-with-my-almond-butter/), a jar of almond butter had between 4,140 and 4,370 calories. Rick was consuming about 3,000 calories a day just from almond butter. Yet, carbs made him fat? Nope. ![](./img/almond-butter.jpg) Almond butter is very easy to overconsume. I know from personal experience. In 2012, I performed a [food reward test between almond butter vs almonds](/2012/04/food-reward-test-almonds-vs-almond-butter/). I did 3 weeks on each and ate to satiety when snacking. Here was the calorie score:
+Almond butter is a calorie-dense food that is almost pure fat. Not carbs. He never mentioned almond butter to Joe Rogan. How many calories were in a jar of almond butter when Rick was consuming all those jars?
 
-> **Almond Butter**: 4140 calories \* 3 jars = 12,420 calories **Raw Almonds:** 2576 calories \* 3 pounds = 7,728 calories
+I did a post in 2011 on the brand Costco sold. From the post, [Someone Has Been Messing With My Almond Butter](/2011/06/someone-has-been-messing-with-my-almond-butter/), a jar of almond butter had between 4,140 and 4,370 calories. Rick was consuming about 3,000 calories a day just from almond butter. Yet, carbs made him fat? Nope.
+
+![](./img/almond-butter.jpg)
+
+Almond butter is very easy to overconsume. I know from personal experience. In 2012, I performed a [food reward test between almond butter vs almonds](/2012/04/food-reward-test-almonds-vs-almond-butter/). I did 3 weeks on each and ate to satiety when snacking. Here was the calorie score:
+
+> **Almond Butter**: 4140 calories \* 3 jars = 12,420 calories
+> 
+> **Raw Almonds:** 2576 calories \* 3 pounds = 7,728 calories
 
 When I swapped raw almonds in for almond butter, my calorie intake decreased and so did my weight. These days, I don't even buy raw almonds. My diet has more carbs and I'm leaner than ever. When you eat a [mostly plant-based whole foods diet](/2020/02/what-i-eat-and-what-i-dont-eat-2020-edition/), staying lean is effortless.
 

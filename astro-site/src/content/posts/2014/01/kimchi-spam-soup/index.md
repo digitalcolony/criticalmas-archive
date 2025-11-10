@@ -16,7 +16,11 @@ Ready for a super easy Korean soup recipe. Here it is.
 3.  Add sliced or cubed SPAM.
 4.  Serve when warm. I heated mine for 10 minutes.
 
-You can also throw in any cooked rice if you like. Super easy, super fast and tasty. ![kimchi-spam-soup](./img/kimchi-spam-soup.jpg) I didn't measure anything. Old kimchi would be better than fresher, but all should work. In the event you need to dial up the heat more, you can add some [gochujang](/2012/10/making-gluten-free-korean-chili-paste-gochujang/) or sriracha sauce. Add fish sauce if more salt is needed. And if you run out of kimchi, top the served soup with chopped scallions.
+You can also throw in any cooked rice if you like. Super easy, super fast and tasty.
+
+![kimchi-spam-soup](./img/kimchi-spam-soup.jpg)
+
+I didn't measure anything. Old kimchi would be better than fresher, but all should work. In the event you need to dial up the heat more, you can add some [gochujang](/2012/10/making-gluten-free-korean-chili-paste-gochujang/) or sriracha sauce. Add fish sauce if more salt is needed. And if you run out of kimchi, top the served soup with chopped scallions.
 
 ---
 

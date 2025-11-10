@@ -8,7 +8,9 @@ description: "Last week I did an Urban Hike between the 520 and 99. Today I went
 commentCount: 2
 ---
 
-Last week I did an Urban Hike [between](/2010/05/urban-hike-between-the-bridges-edition/) the 520 and 99. Today I went a [little further]( http://www.gmap-pedometer.com/?r=3775340). [![](./img/urban-hike-june1.png "urban-hike-june1")](./img/urban-hike-june1.png)
+Last week I did an Urban Hike [between](/2010/05/urban-hike-between-the-bridges-edition/) the 520 and 99. Today I went a [little further]( http://www.gmap-pedometer.com/?r=3775340).
+
+[![](./img/urban-hike-june1.png "urban-hike-june1")](./img/urban-hike-june1.png)
 
 ---
 

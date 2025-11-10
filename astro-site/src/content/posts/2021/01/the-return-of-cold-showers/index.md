@@ -8,25 +8,43 @@ description: "Several years ago on this blog, I posted a little bit about cold s
 commentCount: 6
 ---
 
-Several years ago on this blog, I posted a little bit about [cold showers](/2011/05/a-high-intensity-approach-to-cold-weather-training/). It was one of many health experiments that caught my attention. My interest was building resiliency, strengthening the immune system, and possibly fat loss. Over the years, I came to believe the fat loss angle probably trivial at best. Strengthening the immune system was there but seemed unmeasurable. However, the resiliency was real. Because I get interested in so many things health-related, I confess that I got out of the habit of doing the cold water rinse at the end of my showers. Then COVID arrived and I was looking for any tool I could to improve my immune system. With advocates such as Wim Hof stating that cold showers could reduce inflammation and strengthen the immune system, I was back on board. Daily cold showers. Since spring, I have been taking cold showers. Only, I am not doing them as I did back in 2011-2014. Instead of doing a simple 30-second blast between my shoulder-blades and leg rinse, I've upped it to the entire body starting with the face.
+Several years ago on this blog, I posted a little bit about [cold showers](/2011/05/a-high-intensity-approach-to-cold-weather-training/). It was one of many health experiments that caught my attention. My interest was building resiliency, strengthening the immune system, and possibly fat loss. Over the years, I came to believe the fat loss angle probably trivial at best. Strengthening the immune system was there but seemed unmeasurable. However, the resiliency was real.
+
+Because I get interested in so many things health-related, I confess that I got out of the habit of doing the cold water rinse at the end of my showers. Then COVID arrived and I was looking for any tool I could to improve my immune system. With advocates such as Wim Hof stating that cold showers could reduce inflammation and strengthen the immune system, I was back on board. Daily cold showers.
+
+Since spring, I have been taking cold showers. Only, I am not doing them as I did back in 2011-2014. Instead of doing a simple 30-second blast between my shoulder-blades and leg rinse, I've upped it to the entire body starting with the face.
 
 
 ### No Decision To Make
 
 
-I used to have to both remember to finish my shower with cold water and decide if I wanted to take a cold shower that morning. Often I'd be finished with the shower only to remember that I had meant to do a cold water finish. I needed a reminder. For that, I put this little toy in my shower. It is [Sterling Archer](https://en.wikipedia.org/wiki/Sterling_Archer) from the animated show. The only thing Archer means to me is a cold shower. When I see it, I am reminded to take a cold shower. ![archer in shower](./img/archer-shower.jpg) The second obstacle was removed because I have already decided that EVERY SINGLE DAY my shower will end with cold water. No choice. Just like I have no choice to not do a Duolingo lesson every morning (my streak is now 1851 days).
+I used to have to both remember to finish my shower with cold water and decide if I wanted to take a cold shower that morning. Often I'd be finished with the shower only to remember that I had meant to do a cold water finish. I needed a reminder.
+
+For that, I put this little toy in my shower. It is [Sterling Archer](https://en.wikipedia.org/wiki/Sterling_Archer) from the animated show. The only thing Archer means to me is a cold shower. When I see it, I am reminded to take a cold shower.
+
+![archer in shower](./img/archer-shower.jpg)
+
+The second obstacle was removed because I have already decided that EVERY SINGLE DAY my shower will end with cold water. No choice. Just like I have no choice to not do a Duolingo lesson every morning (my streak is now 1851 days).
 
 
 ### Resiliency Achieved
 
 
-A month ago, my home lost hot water for a week. The outside temperature was near freezing, so the water coming into the house was very cold. Not "summer cold" but damn cold. For one week, I no longer had the luxury of starting the shower hot and finishing cold. It was all cold. And I was fine.
+A month ago, my home lost hot water for a week. The outside temperature was near freezing, so the water coming into the house was very cold. Not "summer cold" but damn cold.
+
+For one week, I no longer had the luxury of starting the shower hot and finishing cold. It was all cold. And I was fine.
 
 
 ### Tips
 
 
-If you are starting from zero, I still recommend at the end of the hot shower to gradually reduce the temperature and aim the cold water between your shoulder blades for 30 seconds. Then add the arms and legs. Once you get more comfortable add the face and chest. Don't hold your breath when bracing for cold impact. In fact, do the opposite. Do a few deep breathes prior to flipping the water to cold and continue to breathe deeply during the cold shower. Wim Hof likes his followers to work up to a 2-minute cold shower finish. That is where I am at. The more you do cold showers, the easier they get. Soon you'll be on autopilot. You will build resiliency and you might strengthen your immune system. And it doesn't cost anything.
+If you are starting from zero, I still recommend at the end of the hot shower to gradually reduce the temperature and aim the cold water between your shoulder blades for 30 seconds. Then add the arms and legs. Once you get more comfortable add the face and chest.
+
+Don't hold your breath when bracing for cold impact. In fact, do the opposite. Do a few deep breathes prior to flipping the water to cold and continue to breathe deeply during the cold shower.
+
+Wim Hof likes his followers to work up to a 2-minute cold shower finish. That is where I am at.
+
+The more you do cold showers, the easier they get. Soon you'll be on autopilot. You will build resiliency and you might strengthen your immune system. And it doesn't cost anything.
 
 ---
 

@@ -13,7 +13,15 @@ There are more coffee shops in Seattle that I could possibly ever try. Nor would
 
 > A great coffee shop will use a great coffee roaster. Typically they won't hide the name of their roaster. They will often place a sticker of their coffee roaster near the front door. Coffee shops that hide the name of their roaster do not inspire trust and I tend to avoid them.
 
-As the organizer of the Coffee Club of Seattle, I am always on the hunt for new coffee shops for our members. Later this week we are visiting the Coffee Drop Cafe. When I walked past the place, I saw the Caffe Vita sticker on the door. Sold. No further validation is needed. When I don't see any roaster information on the front door or menu, I will go to their website and look for that information. If it isn't there, then I assume they suck and give my business to those that take pride in their roaster. ![](http://farm5.static.flickr.com/4017/4278211792_b24d205956.jpg "VOXX Coffee") _Voxx Coffee in South Lake Union shows from their sidewalk sign that they serve Stumptown Coffee._ The Roaster Sticker can also serve as a warning if I know I don't care for the roaster. Whenever I see the Caffe Appassionato, Umbria or Lighthouse sticker, I keep on walking. Coffee houses can show their support for their roaster by sharing their roaster name with customers. How can roasters help support their wholesale customers? Devote a page on your website listing those places. Unfortunately, most roasters do not publish this information on their website.
+As the organizer of the Coffee Club of Seattle, I am always on the hunt for new coffee shops for our members. Later this week we are visiting the Coffee Drop Cafe. When I walked past the place, I saw the Caffe Vita sticker on the door. Sold. No further validation is needed. When I don't see any roaster information on the front door or menu, I will go to their website and look for that information. If it isn't there, then I assume they suck and give my business to those that take pride in their roaster.
+
+![](http://farm5.static.flickr.com/4017/4278211792_b24d205956.jpg "VOXX Coffee")
+
+_Voxx Coffee in South Lake Union shows from their sidewalk sign that they serve Stumptown Coffee._
+
+The Roaster Sticker can also serve as a warning if I know I don't care for the roaster. Whenever I see the Caffe Appassionato, Umbria or Lighthouse sticker, I keep on walking.
+
+Coffee houses can show their support for their roaster by sharing their roaster name with customers. How can roasters help support their wholesale customers? Devote a page on your website listing those places. Unfortunately, most roasters do not publish this information on their website.
 
 ---
 

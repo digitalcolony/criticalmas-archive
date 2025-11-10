@@ -9,7 +9,9 @@ description: "I have had this post sitting in my draft folder for many months ha
 commentCount: 3
 ---
 
-I have had this post sitting in my draft folder for many months half completed. This past weekend I saw that brownstudy.info posted _Creating random passphrases for stronger passwords_ (link down August 2019), which reminded me to finally complete this post. In 2014 and 2015, I posted a series on tightening up your online security. This is not a technical blog, but I saw the idea of reducing risk as complimentary to my fitness and nutrition views. You can see that series here:
+I have had this post sitting in my draft folder for many months half completed. This past weekend I saw that brownstudy.info posted _Creating random passphrases for stronger passwords_ (link down August 2019), which reminded me to finally complete this post.
+
+In 2014 and 2015, I posted a series on tightening up your online security. This is not a technical blog, but I saw the idea of reducing risk as complimentary to my fitness and nutrition views. You can see that series here:
 
 
 #### [Online Security (best of)](https://criticalmas.org/best-of/online-security/)
@@ -19,19 +21,29 @@ When I first started using a password manager, I would let that application gene
 
 )pl7&yeRRg11s$Z
 
-That is a secure password. I'll never remember it, but that is OK because I have a password manager. Right? Well, no. The reason is sometimes I need to connect to an account from a device where I do not have my password manager installed, such as my Kindle 6. It would be a lot easier to type in a password that was just as secure (or more secure) that was also human-friendly. In the article linked to above, you will see the dice method for creating passphrases. I think that is a good start, but I have developed a more memorable technique.
+That is a secure password. I'll never remember it, but that is OK because I have a password manager. Right? Well, no. The reason is sometimes I need to connect to an account from a device where I do not have my password manager installed, such as my Kindle 6. It would be a lot easier to type in a password that was just as secure (or more secure) that was also human-friendly.
+
+In the article linked to above, you will see the dice method for creating passphrases. I think that is a good start, but I have developed a more memorable technique.
 
 
 ### The Mad Libs Password Method
 
 
-My method is based on a series of kids' books called _Mad Libs_. Remember those? You would answer a series of questions asking for word types and then your answers would be used to make up a new sentence. The sentence was often funny and memorable. But more important for our needs, it was long. And remember that when creating a password or passphrase, the length is your friend. Longer passwords are more difficult to crack than shorter ones. ![mad libs book](./img/mad-libs.jpg) _The Original #1 Mad Libs_
+My method is based on a series of kids' books called _Mad Libs_. Remember those? You would answer a series of questions asking for word types and then your answers would be used to make up a new sentence. The sentence was often funny and memorable. But more important for our needs, it was long.
+
+And remember that when creating a password or passphrase, the length is your friend. Longer passwords are more difficult to crack than shorter ones.
+
+![mad libs book](./img/mad-libs.jpg)
+
+_The Original #1 Mad Libs_
 
 
 #### Building Your Mad Libs Style Passphrase
 
 
-Sentences are basically a combination of names, actions, adjectives, adverbs, and numbers. That was my remedial-English explanation, so don't quote me. To get those words, I'll come up with questions to narrow my focus. Example #1
+Sentences are basically a combination of names, actions, adjectives, adverbs, and numbers. That was my remedial-English explanation, so don't quote me. To get those words, I'll come up with questions to narrow my focus.
+
+Example #1
 
 1.  A famous person from the 1970s.
 2.  An action verb.
@@ -53,7 +65,15 @@ We are off to a good start. I already see the sentence forming. I'm going to add
 
 ELVISswimsWITH200bluelizards!!
 
-That passphrase is 30 characters long. It is memorable. It is visual. You will not misspell it when typing it into a mobile device. It is perfect. The website [How Secure is My Password](https://howsecureismypassword.net/) estimates it would take a computer 312 UNDECILLION YEARS to crack this password. That is a [big number](https://en.wikipedia.org/wiki/Names_of_large_numbers). ![Waves passphrase](./img/waves.jpg) If you wanted to write down the new passphrase but didn't want others to see the paper, you can put together an image like I just did. There are enough reminders in the image should you forget. I would only use this technique for the master passphrase for your Password Manager. Example #2
+That passphrase is 30 characters long. It is memorable. It is visual. You will not misspell it when typing it into a mobile device. It is perfect.
+
+The website [How Secure is My Password](https://howsecureismypassword.net/) estimates it would take a computer 312 UNDECILLION YEARS to crack this password. That is a [big number](https://en.wikipedia.org/wiki/Names_of_large_numbers).
+
+![Waves passphrase](./img/waves.jpg)
+
+If you wanted to write down the new passphrase but didn't want others to see the paper, you can put together an image like I just did. There are enough reminders in the image should you forget. I would only use this technique for the master passphrase for your Password Manager.
+
+Example #2
 
 1.  Flavor adjective
 2.  a word used on Star Trek

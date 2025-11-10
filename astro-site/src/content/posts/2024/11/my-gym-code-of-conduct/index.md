@@ -12,25 +12,39 @@ In my post [The Economics of “Messy” Gyms](/2024/08/the-economics-of-messy-g
 
 > A generation of lifters never had the experience of a big guy getting in their face for not putting the dumbbells back in the correct spot. Now their gym is a mess and the “now hiring” sign has been up for months with a growing list of open positions.
 
-My [Tales from the Glitter Gym](https://criticalmas.org/best-of/tales-from-the-glitter-gym/) series is based mostly on my mocking people for inconsiderate behavior at the gym. As I've gotten older, I've become more accepting of the situation, because, in their defense, they never had my role models. In this post, I will outline my code of conduct. These are the rules that I follow when I go to the gym. By today's standards, they would be considered "above and beyond" what is expected today.
+My [Tales from the Glitter Gym](https://criticalmas.org/best-of/tales-from-the-glitter-gym/) series is based mostly on my mocking people for inconsiderate behavior at the gym. As I've gotten older, I've become more accepting of the situation, because, in their defense, they never had my role models.
+
+In this post, I will outline my code of conduct. These are the rules that I follow when I go to the gym. By today's standards, they would be considered "above and beyond" what is expected today.
 
 
 ### #1 No headphones
 
 
-I don't care how bad the music is, I don't wear headphones in the gym ever. I want to be alert to my surroundings for my safety and the safety of others. People are walking around with plates, dumbbells, and kettlebells. I want to hear them if they are approaching me from behind. I don't need music to get pumped up.
+I don't care how bad the music is, I don't wear headphones in the gym ever. I want to be alert to my surroundings for my safety and the safety of others. People are walking around with plates, dumbbells, and kettlebells. I want to hear them if they are approaching me from behind.
+
+I don't need music to get pumped up.
 
 
 ### #2 Never look at my phone
 
 
-I have a policy to never look at my phone at the gym. I see too many people camped out on equipment staring at their devices. They could complete their workouts quicker and reduce the wait time for others if they had my policy. The only exception I have is if I need to review a video for exercise form. If I need to do that, I leave the weight room and go to the front desk. Stand out of the way, review the video, and then put my phone away before returning. I don't have an issue with others using their phone on cardio equipment. ![](./img/gym-rude-phone.jpg) _Headphones, phone, and carrying a bag into the free weight room._
+I have a policy to never look at my phone at the gym. I see too many people camped out on equipment staring at their devices. They could complete their workouts quicker and reduce the wait time for others if they had my policy.
+
+The only exception I have is if I need to review a video for exercise form. If I need to do that, I leave the weight room and go to the front desk. Stand out of the way, review the video, and then put my phone away before returning.
+
+I don't have an issue with others using their phone on cardio equipment.
+
+![](./img/gym-rude-phone.jpg)
+
+_Headphones, phone, and carrying a bag into the free weight room._
 
 
 ### #3 Never carry gear around
 
 
-There are always a few people who carry bags or backpacks with them at the gym because they don't want to use the lockers. Sometimes they'll use their gear as a way to mark their territory while they are elsewhere in the gym. So rude. Don't do this. Gyms have a limited shared space for members, not your crap. Some psycho in my gym holds his favorite piece of cardio equipment with his motorcycle helmet while he lifts.
+There are always a few people who carry bags or backpacks with them at the gym because they don't want to use the lockers. Sometimes they'll use their gear as a way to mark their territory while they are elsewhere in the gym. So rude. Don't do this. Gyms have a limited shared space for members, not your crap.
+
+Some psycho in my gym holds his favorite piece of cardio equipment with his motorcycle helmet while he lifts.
 
 
 ### #4 Rack Weights
@@ -43,13 +57,19 @@ Most people know what it means to rack their weights - except those animals that
 ### #5 Tiny towel
 
 
-In the weight room, there are three schools of thought on wiping down equipment. At one end, you have the animals that leave piles of sweat on the equipment. At the other end, you have those who wipe everything down with antibacterial wipes as if they had committed a crime and need to remove DNA evidence. I take a middle approach. I carry a tiny towel that I place on the equipment, even though I never break a sweat in the gym. I'm demonstrating respect without looking like a neurotic germaphobe. Cardio equipment does need to be wiped down.
+In the weight room, there are three schools of thought on wiping down equipment. At one end, you have the animals that leave piles of sweat on the equipment. At the other end, you have those who wipe everything down with antibacterial wipes as if they had committed a crime and need to remove DNA evidence.
+
+I take a middle approach. I carry a tiny towel that I place on the equipment, even though I never break a sweat in the gym. I'm demonstrating respect without looking like a neurotic germaphobe.
+
+Cardio equipment does need to be wiped down.
 
 
 ### #6 Time to Lean, Time to Clean
 
 
-Because I'm not staring at a phone between sets, I will look around for little things in disarray and fix them. I'm not picking up water bottles, but if I see a plate on the floor or in the wrong spot, I'll move it into its proper place. Backpackers like to leave the trail better than they found it. Same principle. I'm setting an example for anyone paying attention.
+Because I'm not staring at a phone between sets, I will look around for little things in disarray and fix them. I'm not picking up water bottles, but if I see a plate on the floor or in the wrong spot, I'll move it into its proper place.
+
+Backpackers like to leave the trail better than they found it. Same principle. I'm setting an example for anyone paying attention.
 
 
 ### Last Words

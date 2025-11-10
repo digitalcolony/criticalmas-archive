@@ -17,7 +17,11 @@ The Big Picture is reporting that FASB is delaying the Off-Balance Sheet Rule fo
 
 > The longer they wait, the worse it ultimately will be. The long Japanese Recession (1989-2003) was caused by precisely this refusal to take the markdown, and engage in all manner of delays, excuses, procrastinations. Eee-diots -- This only will make it worse!
 
-When the people with capital to invest no longer trust the accounting, they withhold further investment. Without new investment, you aren't going to pull out of a recession. One of the reasons America has always been an economic superpower is that we've always held a high standard when it comes to accounting and protecting the interests of investors. We make mistakes, but those mistakes are recognized and ultimately fixed. Today FASB stated that we know the books are cooked, but we are going to turn a blind eye. **This is banana republic accounting.** And it is one of the reasons I don't hold a single long position in any stock right now.
+When the people with capital to invest no longer trust the accounting, they withhold further investment. Without new investment, you aren't going to pull out of a recession.
+
+One of the reasons America has always been an economic superpower is that we've always held a high standard when it comes to accounting and protecting the interests of investors. We make mistakes, but those mistakes are recognized and ultimately fixed.
+
+Today FASB stated that we know the books are cooked, but we are going to turn a blind eye. **This is banana republic accounting.** And it is one of the reasons I don't hold a single long position in any stock right now.
 
 ---
 

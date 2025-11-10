@@ -9,7 +9,19 @@ description: "It has been almost a year since I stopped blogging. I outlined my 
 commentCount: 24
 ---
 
-It has been almost a year since I stopped blogging. I outlined my reasons in the post [Goodbye For Now](/2015/12/goodbye-for-now/). I've enjoyed the break and I'm not sure I want to resume blogging on a regular basis, but I did receive several emails this year that made me realize that I left several topics open. If you've watched the TV series _Breaking Bad_ or its equally good Colombian version _[Metástasis](https://en.wikipedia.org/wiki/Met%C3%A1stasis)_ you know that near the end of the series the main character has to pack up and move. After a while he realizes he needs to return to town to complete unfinished business. I kind of feel the same way. I don't like walking away from unfinished projects. I'd like to wrap up some of the topics I left open. At that point I may or may not continue blogging. Unlike _Breaking Bad_ and _Metástasis_, I don't know how this story will end. ![metastasis](./img/Metastasis.jpg) _Metástasis is a shot by shot remake of Breaking Bad filmed in Bogotá, Colombia. It is on Netflix._ Here is a list of topics and tasks I feel the need to conclude on this blog.
+It has been almost a year since I stopped blogging. I outlined my reasons in the post [Goodbye For Now](/2015/12/goodbye-for-now/). I've enjoyed the break and I'm not sure I want to resume blogging on a regular basis, but I did receive several emails this year that made me realize that I left several topics open.
+
+If you've watched the TV series _Breaking Bad_ or its equally good Colombian version _[Metástasis](https://en.wikipedia.org/wiki/Met%C3%A1stasis)_ you know that near the end of the series the main character has to pack up and move. After a while he realizes he needs to return to town to complete unfinished business. I kind of feel the same way.
+
+I don't like walking away from unfinished projects.
+
+I'd like to wrap up some of the topics I left open. At that point I may or may not continue blogging. Unlike _Breaking Bad_ and _Metástasis_, I don't know how this story will end.
+
+![metastasis](./img/Metastasis.jpg)
+
+_Metástasis is a shot by shot remake of Breaking Bad filmed in Bogotá, Colombia. It is on Netflix._
+
+Here is a list of topics and tasks I feel the need to conclude on this blog.
 
 1.  [Potato Diet](/2016/11/potato-diet-calorie-savings-account/)
 2.  [What I Eat and Don't Eat - Updated](/2017/01/eat-dont-eat-2017-edition/)
@@ -27,7 +39,11 @@ It has been almost a year since I stopped blogging. I outlined my reasons in the
 14.  [Seattle, Open Data, and Corruption](/2017/08/open-data-seattle-corruption/) 
 15.  [Why didn't I blog a lot more about economics?](/2017/03/didnt-blog-economics/)
 
-I may have missed a few. If there is something you would like to see added to the list, leave a comment below. Also, don't leave any _Breaking Bad_ spoilers in the comments. _2017 UPDATE: The blog post for #14 is written, but I can not publish it at this time due to a potential conflict of interest. #12 is also written, but it isn't that good, so it won't be published._  _2017 UPDATE 2: My potential conflict of interest for #14 does not exist, so it is now published._
+I may have missed a few. If there is something you would like to see added to the list, leave a comment below. Also, don't leave any _Breaking Bad_ spoilers in the comments.
+
+_2017 UPDATE: The blog post for #14 is written, but I can not publish it at this time due to a potential conflict of interest. #12 is also written, but it isn't that good, so it won't be published._ 
+
+_2017 UPDATE 2: My potential conflict of interest for #14 does not exist, so it is now published._
 
 ---
 

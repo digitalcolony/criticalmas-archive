@@ -19,7 +19,9 @@ Some of my readers are already familiar with [Seattle Billy](/2009/01/an-update-
 -   He desperately wants to refinance his bloated mortgage.
 -   Still doesn't understand he overpaid and still believes his condo was a good investment.
 
-Now let me introduce you to _Mr. Microsoft_. _Mr. Microsoft_ is a friend of mine that if you haven't guessed - works at Microsoft. Back in December, I put him contact with the _Geldpress_ for an interview. Why was _Mr. Microsoft_ interviewed for the post _Seattle Housing - Microsoft Layoffs and Mortgage Walk Aways?_ Because he decided to stop paying his mortgage. Let me give you an overview of _Mr. Microsoft_.
+Now let me introduce you to _Mr. Microsoft_. _Mr. Microsoft_ is a friend of mine that if you haven't guessed - works at Microsoft. Back in December, I put him contact with the _Geldpress_ for an interview. Why was _Mr. Microsoft_ interviewed for the post _Seattle Housing - Microsoft Layoffs and Mortgage Walk Aways?_ Because he decided to stop paying his mortgage.
+
+Let me give you an overview of _Mr. Microsoft_.
 
 -   Bought a condo conversation at the absolute top of the Seattle real estate market.
 -   Still fully employed in a high paying job.
@@ -27,22 +29,40 @@ Now let me introduce you to _Mr. Microsoft_. _Mr. Microsoft_ is a friend of mine
 
 Who is right and who is wrong? And are there shades of gray? When I covered _Seattle Billy's_ status, "Ed" commented:
 
-> It sounds like hes not smart enough to know that hes not that smart. So much for a lack of wisdom. The old saying ignorance is bliss will prove fatal in his case. Tell him to cut his losses and walk out of the condo, live in a van and take showers at the YMCA until he finds a job. Keep a cell phone and stay under the radar from creditors.
+> It sounds like hes not smart enough to know that hes not that smart. So much for a lack of wisdom. The old saying ignorance is bliss will prove fatal in his case.
+> 
+> Tell him to cut his losses and walk out of the condo, live in a van and take showers at the YMCA until he finds a job. Keep a cell phone and stay under the radar from creditors.
 
-Sounds like sound advice to me. The bank assumed way too much risk loaning a marginally employable individual with no money down hundreds of thousands of dollars to buy his old apartment. What about _Mr. Microsoft_? Commenter Mike L. said this:
+Sounds like sound advice to me. The bank assumed way too much risk loaning a marginally employable individual with no money down hundreds of thousands of dollars to buy his old apartment.
 
-> He is going to intentionally not pay his mortgage for 6 months. Should he not be held responsible for the deal he signed? Could he have taken in a boarder? He should also be taxed on the amount of mortgage that he will not be paying since its pretty much a gift from the tax payers. He has no integrity if he lives there for 6 months free. Hes a thief, plain and simple.
+What about _Mr. Microsoft_? Commenter Mike L. said this:
 
-_Seattle Billy_ is unwilling to admit he made an awful business decision and has decided to keep his word, even to his own detriment. _Mr. Microsoft_ knows he made a poor business decision. He put his emotions aside and did extensive legal and data research. He decided to not honor his agreement and walk away. For many of us, our gut tells us that _Seattle Billy_ is the honorable one doing the right thing. But we also know the banks that wrote these crazy loans are getting bailed out by the billions. They share a large part of the responsibility. As I said in the post [The Lack of Trust in the New World Economy](/2008/12/the-lack-of-trust-in-the-new-world-economy/):
+> He is going to intentionally not pay his mortgage for 6 months. Should he not be held responsible for the deal he signed? Could he have taken in a boarder?
+> 
+> He should also be taxed on the amount of mortgage that he will not be paying since its pretty much a gift from the tax payers.
+> 
+> He has no integrity if he lives there for 6 months free. Hes a thief, plain and simple.
+
+_Seattle Billy_ is unwilling to admit he made an awful business decision and has decided to keep his word, even to his own detriment. _Mr. Microsoft_ knows he made a poor business decision. He put his emotions aside and did extensive legal and data research. He decided to not honor his agreement and walk away.
+
+For many of us, our gut tells us that _Seattle Billy_ is the honorable one doing the right thing. But we also know the banks that wrote these crazy loans are getting bailed out by the billions. They share a large part of the responsibility. As I said in the post [The Lack of Trust in the New World Economy](/2008/12/the-lack-of-trust-in-the-new-world-economy/):
 
 > Every day we are hearing stories of people and corporations walking away from their obligations. Not only are they not being punished or shunned, they are being rewarded. **We are waking up to a world where the people paying their bills are the suckers.**
 
-Since buying a home is a business decision, I looked into how businesses are responding to the economic downturn. I talked with an executive at a cash-rich national retailer. They have decided to renegotiate all their mall leases this year. They want a lower lease and they may decide to close stores if they don't get concessions. They signed a lease, have the money and yet they still want a lower payment. It is purely a business decision. What would I do if I had an exotic mortgage loan (2005-2007 vintage) and I was in the same situation as _Seattle Billy_ and _Mr. Microsoft_?
+Since buying a home is a business decision, I looked into how businesses are responding to the economic downturn. I talked with an executive at a cash-rich national retailer. They have decided to renegotiate all their mall leases this year. They want a lower lease and they may decide to close stores if they don't get concessions. They signed a lease, have the money and yet they still want a lower payment. It is purely a business decision.
+
+What would I do if I had an exotic mortgage loan (2005-2007 vintage) and I was in the same situation as _Seattle Billy_ and _Mr. Microsoft_?
 
 1.  Collect data on what the fair market value comparable housing units. I actually know a lady that is afraid to see what condos are selling for in her building. She thinks if she doesn't know then somehow her net worth is higher. This is childish. Get data. Get data trends. If you live in a multi-unit building, find out how stable the HOA is.
 2.  Contact your mortgage company and ask for a principal reduction. Armed with data, you can tell them what the fair value should be and where it will be in 6 months. You do not want to refinance a bloated mortgage at a "good rate". You want the principal dropped and let them know you are prepared to walk.
 
-Would I walk? It depends. It definitely doesn't cost anything to reach out to your mortgage company. If a few phone calls can get 50K or 150K knocked off your mortgage, then it is worth a try. Arm yourself with data and then try and broker a compromise. This acknowledges both parties made errors on the original agreement and you are trying to find a fair solution. What if the mortgage company doesn't want to renegotiate? Run the numbers. Find out what comparable rents are. Figure out what you think you can save a month in the rental market. Calculate how long it will take to make up the lost value in your home. At this point, math will tell you the right answer. This is a business decision. What do I think will happen to _Seattle Billy_ and _Mr. Microsoft_? _Seattle Billy_ will eventually lose his condo and file for bankruptcy. _Mr. Microsoft_ will most likely contact his mortgage company in a few months and get a serious principal reduction. If the mortgage company acts too late, _Mr. Microsoft_ will slip into the rental market for several years while hoarding mounds of cash. Then at some point he will pounce on some distressed property that he'll get for pennies on the dollar. _Mr. Microsoft_ versus _Seattle Billy_. Your thoughts?
+Would I walk? It depends. It definitely doesn't cost anything to reach out to your mortgage company. If a few phone calls can get 50K or 150K knocked off your mortgage, then it is worth a try. Arm yourself with data and then try and broker a compromise. This acknowledges both parties made errors on the original agreement and you are trying to find a fair solution.
+
+What if the mortgage company doesn't want to renegotiate? Run the numbers. Find out what comparable rents are. Figure out what you think you can save a month in the rental market. Calculate how long it will take to make up the lost value in your home. At this point, math will tell you the right answer. This is a business decision.
+
+What do I think will happen to _Seattle Billy_ and _Mr. Microsoft_? _Seattle Billy_ will eventually lose his condo and file for bankruptcy. _Mr. Microsoft_ will most likely contact his mortgage company in a few months and get a serious principal reduction. If the mortgage company acts too late, _Mr. Microsoft_ will slip into the rental market for several years while hoarding mounds of cash. Then at some point he will pounce on some distressed property that he'll get for pennies on the dollar.
+
+_Mr. Microsoft_ versus _Seattle Billy_. Your thoughts?
 
 ---
 

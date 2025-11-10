@@ -9,7 +9,21 @@ description: "For my latest batch of ghee or clarified butter, depending upon wh
 commentCount: 22
 ---
 
-For my latest batch of ghee or clarified butter, depending upon where you draw the line, I put away the saucepan and plugged in the slow cooker. I loaded up the slow cooker with 2 pounds of unsalted butter and put it on low with the lid off. ![butter](./img/butter.jpg) ![clarified-butter](./img/clarified-butter.jpg) Once the milk solids separate and it develops a dark yellow color, filter and jar. I used cheese cloth, which didn't remove all the milk solids. I also tried a coffee filter, but that didn't allow the ghee through at all. I also experimented with a gold mesh tea filter, which did a fine job. On other websites, you will see times for making ghee in a slow cooker range from 2 to 8 hours. Mine was closer to 8 hours. ![ghee](./img/ghee.jpg) ![ghee-cooled](./img/ghee-cooled.jpg) Two pounds of butter made 2 pint jars full of ghee.
+For my latest batch of ghee or clarified butter, depending upon where you draw the line, I put away the saucepan and plugged in the slow cooker. I loaded up the slow cooker with 2 pounds of unsalted butter and put it on low with the lid off.
+
+![butter](./img/butter.jpg)
+
+![clarified-butter](./img/clarified-butter.jpg)
+
+Once the milk solids separate and it develops a dark yellow color, filter and jar.
+
+I used cheese cloth, which didn't remove all the milk solids. I also tried a coffee filter, but that didn't allow the ghee through at all. I also experimented with a gold mesh tea filter, which did a fine job. On other websites, you will see times for making ghee in a slow cooker range from 2 to 8 hours. Mine was closer to 8 hours.
+
+![ghee](./img/ghee.jpg)
+
+![ghee-cooled](./img/ghee-cooled.jpg)
+
+Two pounds of butter made 2 pint jars full of ghee.
 
 ---
 

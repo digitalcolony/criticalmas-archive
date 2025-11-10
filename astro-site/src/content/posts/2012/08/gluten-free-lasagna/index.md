@@ -9,7 +9,31 @@ description: "I've never made lasagna before, but I love the dish. When I gave u
 commentCount: 7
 ---
 
-I've never made lasagna before, but I love the dish. When I gave up the gluten a few years ago, I also gave up the lasagna. Well, I got to chatting with a local gluten-free chef that mentioned using wide rice noodles for the pasta portion. The wide rice noodles are available in some Asian markets. I've seen them before but never purchased them. A quick search on a lasagna recipe that uses wide rice noodles pulls up my favorite nutrition site _Perfect Health Diet_. Using [their recipe](http://perfecthealthdiet.com/2010/12/rice-noodle-lasagna/) as a template, I sat out to make my first lasagna. The first problem I ran into was finding the fresh wide rice noodles. After about 7 visits, I found some at the HT Market. Note that although similar in name to H Mart, it is completely different. H Mart is Korean and amazing. HT Market is Chinese and pathetic. But HT happens to be the closest to me. _If can't love the Asian market you want, love the one you're with._ :) Anyway, it turns out that the fresh wide rice noodles made in Seattle have wheat and soybean oil added to them. Uggh! Well, I found an interesting substitute in the dry noodle aisle that worked. Made from rice alone. ![rice-flake](./img/rice-flake.jpg) Unlike the fresh noodles, these noodles are soaked in very warm water for several minutes prior to use. That softens them up. To no surprise, I discovered HT Market did not have ricotta cheese or full-fat mozzarella. I had no interest in visiting yet another grocery store, so I turned an HT strength to my advantage. HT Market has an excellent section of Mexican cheeses. If you've read Tyler Cowen's latest book An Economist Gets Lunch, then you'll already have an appreciation for these cheeses. If you haven't read it, do so. Probably the best book I've read in a year. Full review coming soon. Anyway, I grabbed some Oaxaca cheese. New to me. ![mexican-cheese](./img/mexican-cheese.jpg) For the rest of the recipe, I followed the guidelines from the _Perfect Health Diet_ recipe. I did add some oregano, basil, and sea salt. ![gf-lasagna](./img/gf-lasagna.jpg) ![gf-lasagna-cheese](./img/gf-lasagna-cheese.jpg) I baked it for 30 minutes at 325F degrees. ![gf-lasagna-baked](./img/gf-lasagna-baked.jpg) It was outstanding! Maybe it was the cheese or the grass feed beef or the rice flakes. Whatever I did, it worked. This was one of the best lasagnas I've ever had and it was 100% gluten-free.
+I've never made lasagna before, but I love the dish. When I gave up the gluten a few years ago, I also gave up the lasagna. Well, I got to chatting with a local gluten-free chef that mentioned using wide rice noodles for the pasta portion. The wide rice noodles are available in some Asian markets. I've seen them before but never purchased them. A quick search on a lasagna recipe that uses wide rice noodles pulls up my favorite nutrition site _Perfect Health Diet_. Using [their recipe](http://perfecthealthdiet.com/2010/12/rice-noodle-lasagna/) as a template, I sat out to make my first lasagna.
+
+The first problem I ran into was finding the fresh wide rice noodles. After about 7 visits, I found some at the HT Market. Note that although similar in name to H Mart, it is completely different. H Mart is Korean and amazing. HT Market is Chinese and pathetic. But HT happens to be the closest to me. _If can't love the Asian market you want, love the one you're with._ :)
+
+Anyway, it turns out that the fresh wide rice noodles made in Seattle have wheat and soybean oil added to them. Uggh! Well, I found an interesting substitute in the dry noodle aisle that worked. Made from rice alone.
+
+![rice-flake](./img/rice-flake.jpg)
+
+Unlike the fresh noodles, these noodles are soaked in very warm water for several minutes prior to use. That softens them up.
+
+To no surprise, I discovered HT Market did not have ricotta cheese or full-fat mozzarella. I had no interest in visiting yet another grocery store, so I turned an HT strength to my advantage. HT Market has an excellent section of Mexican cheeses. If you've read Tyler Cowen's latest book An Economist Gets Lunch, then you'll already have an appreciation for these cheeses. If you haven't read it, do so. Probably the best book I've read in a year. Full review coming soon. Anyway, I grabbed some Oaxaca cheese. New to me.
+
+![mexican-cheese](./img/mexican-cheese.jpg)
+
+For the rest of the recipe, I followed the guidelines from the _Perfect Health Diet_ recipe. I did add some oregano, basil, and sea salt.
+
+![gf-lasagna](./img/gf-lasagna.jpg)
+
+![gf-lasagna-cheese](./img/gf-lasagna-cheese.jpg)
+
+I baked it for 30 minutes at 325F degrees.
+
+![gf-lasagna-baked](./img/gf-lasagna-baked.jpg)
+
+It was outstanding! Maybe it was the cheese or the grass feed beef or the rice flakes. Whatever I did, it worked. This was one of the best lasagnas I've ever had and it was 100% gluten-free.
 
 ---
 

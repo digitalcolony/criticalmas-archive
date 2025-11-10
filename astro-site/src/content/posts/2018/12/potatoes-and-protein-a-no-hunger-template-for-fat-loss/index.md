@@ -9,36 +9,62 @@ description: "In September, I posted Less Peasant, More Bodybuilder, which desc
 commentCount: 29
 ---
 
-In September, I posted [Less Peasant, More Bodybuilder](/2018/09/less-peasant-more-bodybuilder/), which described how I was finally making progress in increasing my protein intake. I had shifted from eating lots of potatoes through the Potato Hack and the Peasant Diet to a higher-protein diet. My reasons were:
+In September, I posted [Less Peasant, More Bodybuilder](/2018/09/less-peasant-more-bodybuilder/), which described how I was finally making progress in increasing my protein intake. I had shifted from eating lots of potatoes through the Potato Hack and the Peasant Diet to a higher-protein diet.
+
+My reasons were:
 
 1.  At a lower body fat percentage, I now needed more protein to maintain muscle. I discuss the P-ratio in the post [High Volume or High Protein Foods For Fat Loss](/2017/08/high-volume-high-protein-foods-fat-loss/).
 2.  I'm getting older. As we age, we need more protein. Higher protein defends against sarcopenia.
 
-As I moved back and forth between potatoes and higher protein meals, I discovered they work very well together. Both boiled potatoes and high-protein foods are great for crushing appetite at lower calories. Together, they are unstoppable. ![potatoes-protein](./img/potatoes-protein.jpg)
+As I moved back and forth between potatoes and higher protein meals, I discovered they work very well together. Both boiled potatoes and high-protein foods are great for crushing appetite at lower calories.
+
+Together, they are unstoppable.
+
+![potatoes-protein](./img/potatoes-protein.jpg)
 
 
 ### Dieting: What Works
 
 
-There are many approaches one can use to lose weight, but there are a few ideas that tend to work best. The book Forever Fat Loss by Ari Whitten does a great job of going through the research and coming up with solid ideas. ![Forever Fat Loss: Escape the Low Calorie and Low Carb Diet Traps and Achieve Effortless and Permanent Fat Loss by Working with Your Biology Instead of Against It](https://images-na.ssl-images-amazon.com/images/I/511xJ94RDBL.jpg) _Forever Fat Loss: Escape the Low Calorie and Low Carb Diet Traps and Achieve Effortless and Permanent Fat Loss by Working with Your Biology Instead of Against It  by Ari Whitten_ I'm going to focus on 3 ideas from his book:
+There are many approaches one can use to lose weight, but there are a few ideas that tend to work best. The book Forever Fat Loss by Ari Whitten does a great job of going through the research and coming up with solid ideas.
+
+![Forever Fat Loss: Escape the Low Calorie and Low Carb Diet Traps and Achieve Effortless and Permanent Fat Loss by Working with Your Biology Instead of Against It](https://images-na.ssl-images-amazon.com/images/I/511xJ94RDBL.jpg) _Forever Fat Loss: Escape the Low Calorie and Low Carb Diet Traps and Achieve Effortless and Permanent Fat Loss by Working with Your Biology Instead of Against It  by Ari Whitten_
+
+I'm going to focus on 3 ideas from his book:
 
 1.  Higher volume
 2.  Higher protein
 3.  Lower flavor
 
-Higher volume is what the [Potato Hack](https://criticalmas.org/best-of/potato-hack-diet/) does so well. Fill your belly with low-calorie boiled potatoes, and your brain turns off the hunger signals while you are still in a caloric deficit. Higher protein also reduces hunger signals. This is the "secret sauce" to low-carb dieting. It isn't that carbs are fattening; it is that protein is more satiating. The lower flavor signal doesn't mean "tastes bad". It means the meal has purposely been designed not to maximize flavor. Processed foods are engineered to maximize consumption via stronger flavor signals. We don't want those foods. We want to turn down the flavor volume when we can. Also, high-flavor reward meals are not just processed foods. Any delicious meal that has you reaching for another bite after you've already had enough qualifies. Every meal that focuses on volume (boiled potatoes) or basic lean protein is a meal that has a lower flavor profile. Lowering your average intake of flavor will help reduce your appetite and aid in weight loss.
+Higher volume is what the [Potato Hack](https://criticalmas.org/best-of/potato-hack-diet/) does so well. Fill your belly with low-calorie boiled potatoes, and your brain turns off the hunger signals while you are still in a caloric deficit.
+
+Higher protein also reduces hunger signals. This is the "secret sauce" to low-carb dieting. It isn't that carbs are fattening; it is that protein is more satiating.
+
+The lower flavor signal doesn't mean "tastes bad". It means the meal has purposely been designed not to maximize flavor. Processed foods are engineered to maximize consumption via stronger flavor signals. We don't want those foods. We want to turn down the flavor volume when we can.
+
+Also, high-flavor reward meals are not just processed foods. Any delicious meal that has you reaching for another bite after you've already had enough qualifies.
+
+Every meal that focuses on volume (boiled potatoes) or basic lean protein is a meal that has a lower flavor profile. Lowering your average intake of flavor will help reduce your appetite and aid in weight loss.
 
 
 ### P & P Simplicity
 
 
-Potatoes and Protein is not a full-time diet (unless you want it to be). **Like the Potato Hack, it is a meal replacement strategy.** You will build up a calorie deficit at the times most convenient to you. For example, you might start by replacing breakfast with a P & P meal. Or swap out lunch. Or do a few days a week. The more weight you need to lose, the more meals you would swap out. Experiment. Increase or decrease the number of meals as you see fit. You can eat the potatoes with the protein or have them separately. I have discovered that if they are individuals to consume the protein first, otherwise I end up under-consuming the protein, which was the problem I originally set out to solve. But that is me. You do what works best for you.
+Potatoes and Protein is not a full-time diet (unless you want it to be). **Like the Potato Hack, it is a meal replacement strategy.** You will build up a calorie deficit at the times most convenient to you.
+
+For example, you might start by replacing breakfast with a P & P meal. Or swap out lunch. Or do a few days a week. The more weight you need to lose, the more meals you would swap out. Experiment. Increase or decrease the number of meals as you see fit.
+
+You can eat the potatoes with the protein or have them separately. I have discovered that if they are individuals to consume the protein first, otherwise I end up under-consuming the protein, which was the problem I originally set out to solve. But that is me. You do what works best for you.
 
 
 ### Sample P & P Meals
 
 
-A meal will be about 30 grams of protein (more or less) followed by or combined with boiled potatoes. Eat until you are full. If you have the habit of eating quickly, slow down a bit. Otherwise, you might find yourself feeling too full. Here are a few of my Potatoes & Protein meals. Potatoes and...
+A meal will be about 30 grams of protein (more or less) followed by or combined with boiled potatoes. Eat until you are full. If you have the habit of eating quickly, slow down a bit. Otherwise, you might find yourself feeling too full.
+
+Here are a few of my Potatoes & Protein meals.
+
+Potatoes and...
 
 -   2 cans of sardines
 -   cottage cheese
@@ -47,25 +73,39 @@ A meal will be about 30 grams of protein (more or less) followed by or combined 
 -   eggs (I prefer soft-boiled)
 -   Greek yogurt ([low-fat or no-fat](/2017/08/fat-free-plain-greek-yogurt-food-hate-love/))
 
-As you can see from the template, these are low-fat meals. Low-fat diets got an undeserved bad reputation because they were associated with processed foods. Not only were those processed foods engineered to be overconsumed, but they also tended to be low in protein. So the low-fat diet of the 1980s and 1990s took the wrong approach. The goal then was to strip fat out of foods and then make those foods taste better with food engineering. They did a poor job of curbing hunger and failed for many. With P & P, I am using simple, unprocessed foods to achieve high satiety that just happens to be low-fat.
+As you can see from the template, these are low-fat meals. Low-fat diets got an undeserved bad reputation because they were associated with processed foods. Not only were those processed foods engineered to be overconsumed, but they also tended to be low in protein. So the low-fat diet of the 1980s and 1990s took the wrong approach. The goal then was to strip fat out of foods and then make those foods taste better with food engineering. They did a poor job of curbing hunger and failed for many.
+
+With P & P, I am using simple, unprocessed foods to achieve high satiety that just happens to be low-fat.
 
 
 ### Adding More to the P & P Meal
 
 
-Ideally, P & P meals should be simple and basic. Save your flavorful meals for when you are not doing P & P. But I don't see much harm in adding some veggies, provided they aren't cooked in or covered with fat. I'll sometimes add some chopped tomatoes to the potatoes and ground beef or the potatoes and beans combos. However, I'm not trying to optimize the diet for fat loss either. I'm using it for maintaining my weight.
+Ideally, P & P meals should be simple and basic. Save your flavorful meals for when you are not doing P & P. But I don't see much harm in adding some veggies, provided they aren't cooked in or covered with fat.
+
+I'll sometimes add some chopped tomatoes to the potatoes and ground beef or the potatoes and beans combos. However, I'm not trying to optimize the diet for fat loss either. I'm using it for maintaining my weight.
 
 
 ### Why I Like P & P
 
 
-I like P & P because it is a simple diet that anyone can follow. You do not need to weigh foods or count calories. You do not need to log anything. The meals are very cheap and can be prepared in advance. The meals are designed to crush your appetite at a lower calorie level. This not only helps you lose weight but also prevents you from regaining weight, as the brain won't be on alert for being hungry throughout the dieting phase. As much as I love the Potato Hack, P & P might be better at preserving muscle in older and leaner individuals. That is just speculation, though.
+I like P & P because it is a simple diet that anyone can follow. You do not need to weigh foods or count calories. You do not need to log anything. The meals are very cheap and can be prepared in advance.
+
+The meals are designed to crush your appetite at a lower calorie level. This not only helps you lose weight but also prevents you from regaining weight, as the brain won't be on alert for being hungry throughout the dieting phase.
+
+As much as I love the Potato Hack, P & P might be better at preserving muscle in older and leaner individuals. That is just speculation, though.
 
 
 ### Join Me and Share Your Experiences
 
 
-When I jumped onto the Potato Hack, I was yet another in a very long history going back to 1849. With P & P, I'm making it up as I go along. I'd love for others to try it out and post on their results (good and bad). I'm in a position where I'm at my ideal weight, so I can't use what I've learned to lean out. I suppose I could try and get shredded, but my primary goal now is to build muscle, so I am using P & P just enough to keep me where I need to be right now. If you want to try out P & P, take measurements (weight and tape measure). Count the number of P & P meals per week and record your results. Who is with me?
+When I jumped onto the Potato Hack, I was yet another in a very long history going back to 1849. With P & P, I'm making it up as I go along. I'd love for others to try it out and post on their results (good and bad).
+
+I'm in a position where I'm at my ideal weight, so I can't use what I've learned to lean out. I suppose I could try and get shredded, but my primary goal now is to build muscle, so I am using P & P just enough to keep me where I need to be right now.
+
+If you want to try out P & P, take measurements (weight and tape measure). Count the number of P & P meals per week and record your results.
+
+Who is with me?
 
 ---
 

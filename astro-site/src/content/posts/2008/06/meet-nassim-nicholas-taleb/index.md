@@ -8,7 +8,13 @@ description: "I rarely link to or discuss articles from newspapers, but I must m
 commentCount: 1
 ---
 
-I rarely link to or discuss articles from newspapers, but I must make an exception. The Times Online has an outstanding profile titled [Nassim Nicholas Taleb: the prophet of boom and doom](http://business.timesonline.co.uk/tol/business/economics/article4022091.ece). Read it. Taleb wrote the books [Fooled by Randomness](/2008/03/fooled-by-randomness/) and [The Black Swan](/2007/12/the-black-swan/), which I reviewed on this site. Both are outstanding and will change the way you view the world. Although I recommend reading all 5 pages of the profile (3 if you send to the printer), here are some of the highlights from the profile. On dealing with unexpected losses:
+I rarely link to or discuss articles from newspapers, but I must make an exception. The Times Online has an outstanding profile titled [Nassim Nicholas Taleb: the prophet of boom and doom](http://business.timesonline.co.uk/tol/business/economics/article4022091.ece). Read it.
+
+Taleb wrote the books [Fooled by Randomness](/2008/03/fooled-by-randomness/) and [The Black Swan](/2007/12/the-black-swan/), which I reviewed on this site. Both are outstanding and will change the way you view the world.
+
+Although I recommend reading all 5 pages of the profile (3 if you send to the printer), here are some of the highlights from the profile.
+
+On dealing with unexpected losses:
 
 > Every year he (Taleb) puts a few thousand dollars aside for contingencies parking tickets, tea spills and at the end of the year he gives whats left to charity. The money is gone from day one, so unexpected losses cause no pain.
 

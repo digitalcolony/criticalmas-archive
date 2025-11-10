@@ -9,11 +9,25 @@ description: "A wonderful reader of this blog pointed out a grammatical mistake 
 commentCount: 10
 ---
 
-A wonderful reader of this blog pointed out a grammatical mistake that I make numerous times on this site. From the article [25 Editing Tips for Tightening Your Copy](https://thewritelife.com/edit-your-copy/):
+A wonderful reader of this blog pointed out a grammatical mistake that I make numerous times on this site.
 
-> **16\. Refer to people as “who” not “that”** John is the guy who always forgets his shoes, not the guy that always forgets his shoes. It’s easy to make this mistake because that has become acceptable in everyday conversations. But it’s more noticeable when it’s written down.
+From the article [25 Editing Tips for Tightening Your Copy](https://thewritelife.com/edit-your-copy/):
 
-I use the phrase "people that" all the time on this site. Although there is some minor debate on this point, once I started reading my sentences with the phrase "people who", they sounded MUCH BETTER. I'm convinced. A quick database query told me there are 102 posts affected. So, a normal blogger might decide to implement the new lesson going forward. Not me. I have started the process of fixing all those posts. This little project should go much smoother than a few years ago, when I [replaced every double space](/2012/05/spacing-out-on-extra-spaces/) following punctuation with a single space. ![typewriter](./img/typewriter.jpg) _[Photo](https://flic.kr/p/9Dmtu) by Cody Geary_ At the risk of rewriting this entire site, are there any other bad grammatical habits I have on this blog? **UPDATE March 31, 2015:** After starting this project, I realized it was more than the phrase "people that". Any reference to people would need to be changed. This meant searching for person, men, man, woman, women, girl(s), boy(s), someone, somebody, individual(s), customer(s), character(s), dude, guy(s), and numerous job titles. Over 300 posts have been updated, and I'm sure I missed some.
+> **16\. Refer to people as “who” not “that”**
+> 
+> John is the guy who always forgets his shoes, not the guy that always forgets his shoes. It’s easy to make this mistake because that has become acceptable in everyday conversations. But it’s more noticeable when it’s written down.
+
+I use the phrase "people that" all the time on this site. Although there is some minor debate on this point, once I started reading my sentences with the phrase "people who", they sounded MUCH BETTER. I'm convinced.
+
+A quick database query told me there are 102 posts affected. So, a normal blogger might decide to implement the new lesson going forward. Not me. I have started the process of fixing all those posts. This little project should go much smoother than a few years ago, when I [replaced every double space](/2012/05/spacing-out-on-extra-spaces/) following punctuation with a single space.
+
+![typewriter](./img/typewriter.jpg)
+
+_[Photo](https://flic.kr/p/9Dmtu) by Cody Geary_
+
+At the risk of rewriting this entire site, are there any other bad grammatical habits I have on this blog?
+
+**UPDATE March 31, 2015:** After starting this project, I realized it was more than the phrase "people that". Any reference to people would need to be changed. This meant searching for person, men, man, woman, women, girl(s), boy(s), someone, somebody, individual(s), customer(s), character(s), dude, guy(s), and numerous job titles. Over 300 posts have been updated, and I'm sure I missed some.
 
 ---
 

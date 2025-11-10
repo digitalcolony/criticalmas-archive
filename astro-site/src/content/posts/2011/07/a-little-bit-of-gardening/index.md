@@ -9,7 +9,13 @@ description: "Earlier this year, I was able to get a pea-patch at my apartment c
 commentCount: 3
 ---
 
-Earlier this year, I was able to get a pea-patch at my apartment complex. It is a 4 foot by 4 foot area. I'm sort of flying blind, but Mother Nature is doing her job. Stuff is growing. I ate some of the Russian Kale today and I survived. :) ![kale](./img/kale.jpg) ![peas](./img/peas.jpg) ![strawberry](./img/strawberry.jpg)
+Earlier this year, I was able to get a pea-patch at my apartment complex. It is a 4 foot by 4 foot area. I'm sort of flying blind, but Mother Nature is doing her job. Stuff is growing. I ate some of the Russian Kale today and I survived. :)
+
+![kale](./img/kale.jpg)
+
+![peas](./img/peas.jpg)
+
+![strawberry](./img/strawberry.jpg)
 
 ---
 

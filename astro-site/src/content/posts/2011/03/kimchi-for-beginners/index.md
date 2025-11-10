@@ -9,7 +9,11 @@ description: "Regular readers of this site know that I am a huge fan of kimchi. 
 commentCount: 10
 ---
 
-Regular readers of this site know that I am a huge fan of kimchi. I love eating it and [love making it](/2011/03/kimchi-101/). It is a nutritional powerhouse and I credit it with restoring my gut flora and greatly improving my immune system. As much as I wish everyone loved kimchi like me, I occasionally get some resistance. This post is about overcoming your objections to kimchi. ![kimchi-plate](./img/kimchi-plate.jpg) _As I put this post together, I just had to eat some kimchi!_
+Regular readers of this site know that I am a huge fan of kimchi. I love eating it and [love making it](/2011/03/kimchi-101/). It is a nutritional powerhouse and I credit it with restoring my gut flora and greatly improving my immune system. As much as I wish everyone loved kimchi like me, I occasionally get some resistance. This post is about overcoming your objections to kimchi.
+
+![kimchi-plate](./img/kimchi-plate.jpg)
+
+_As I put this post together, I just had to eat some kimchi!_
 
 
 ### Skeptical of Fermented Veggies?

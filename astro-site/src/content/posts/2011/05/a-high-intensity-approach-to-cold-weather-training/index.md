@@ -9,7 +9,19 @@ description: "It has been a while since I last posted on Cold Weather Training. 
 commentCount: 18
 ---
 
-It has been a while since I last posted on [Cold Weather Training](https://criticalmas.org/best-of/cold-weather-training/). For those new to the site, I began experimenting with cold temperature exposure back in 2008 as way to "toughen up" after living in the perfect temperatures of San Diego for seven years. What I learned was that not only does cold temperature exposure increase your personal comfort zone, but it has many health benefits including fat loss and a [stronger immune system](/2009/06/another-reason-i-no-longer-get-sick/). I thought I had nothing new to add to this discussion until about a month ago. While studying the [High Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) approach to weight lifting, I wondered if those concepts could be applied to cold temperature exposure. HIT workouts are extremely intense, very brief and highly effective. The goal is to trigger certain physiological and hormonal responses and then allow the body to respond. I love Dr. Doug McGuff's analogy of hitting an elevator button. Once the button is pressed, pressing it more won't make the elevator arrive faster. When I approached cold weather exposure, I gradually increased the duration I spent outdoors as the temperatures were falling. I went from requiring a jacket at 65 degrees to spending hours outdoors in the 30s with just a short sleeve shirt. It took several months, lots of planning and raw grit to get the benefits. My experiment was interesting to others, but not inspiring or empowering. It also violated my [Minimal Effort Approach](/2010/03/the-minimal-effort-approach/) philosophy. Is there another way? ![cold shower](./img/5729030772_8a497e0d82_z.jpg) _Photo by_ [_espensorvik_](http://www.flickr.com/photos/28478778@N05/5729030772/in/photostream/) What if one could do a _High Intensity_ approach to cold temperature exposure that achieves the same benefits in far less time? This is all theory and self experimentation. I have no clue if this will work, but I'm thinking it might. After taking two months off from cold weather training, I started this method about a month ago. I'm getting rapid adaptations. It could be my prior training or it could be the new method. I want to find out. Welcome to version 1 of **_High Intensity Cold Weather Training_**. Here is how it works.
+It has been a while since I last posted on [Cold Weather Training](https://criticalmas.org/best-of/cold-weather-training/). For those new to the site, I began experimenting with cold temperature exposure back in 2008 as way to "toughen up" after living in the perfect temperatures of San Diego for seven years. What I learned was that not only does cold temperature exposure increase your personal comfort zone, but it has many health benefits including fat loss and a [stronger immune system](/2009/06/another-reason-i-no-longer-get-sick/).
+
+I thought I had nothing new to add to this discussion until about a month ago. While studying the [High Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) approach to weight lifting, I wondered if those concepts could be applied to cold temperature exposure. HIT workouts are extremely intense, very brief and highly effective. The goal is to trigger certain physiological and hormonal responses and then allow the body to respond. I love Dr. Doug McGuff's analogy of hitting an elevator button. Once the button is pressed, pressing it more won't make the elevator arrive faster.
+
+When I approached cold weather exposure, I gradually increased the duration I spent outdoors as the temperatures were falling. I went from requiring a jacket at 65 degrees to spending hours outdoors in the 30s with just a short sleeve shirt. It took several months, lots of planning and raw grit to get the benefits. My experiment was interesting to others, but not inspiring or empowering. It also violated my [Minimal Effort Approach](/2010/03/the-minimal-effort-approach/) philosophy.
+
+Is there another way?
+
+![cold shower](./img/5729030772_8a497e0d82_z.jpg)
+
+_Photo by_ [_espensorvik_](http://www.flickr.com/photos/28478778@N05/5729030772/in/photostream/) What if one could do a _High Intensity_ approach to cold temperature exposure that achieves the same benefits in far less time? This is all theory and self experimentation. I have no clue if this will work, but I'm thinking it might. After taking two months off from cold weather training, I started this method about a month ago. I'm getting rapid adaptations. It could be my prior training or it could be the new method. I want to find out.
+
+Welcome to version 1 of **_High Intensity Cold Weather Training_**. Here is how it works.
 
 
 ### Cold Water Exposure
@@ -21,13 +33,17 @@ At the end of your daily shower, turn the water to _as friggin cold as you can h
 ### Cold Ambient Temperature Exposure
 
 
-I don't know if cold water alone will build temperature resiliency. For this you will need to go outside when it is chilly. Wear one less layer than you normally would. Go for 5 minutes. After 5 minutes, many people will discover they have already started adapting to the colder temperatures. Most people baby their metabolism. _Force it to work for you!_ After five minutes, you can put your jacket back on. Do this repeatedly and you'll soon discover the need to always grab a jacket will disappear. This post was written as we head into summer. This means take advantage of early mornings and late evenings.
+I don't know if cold water alone will build temperature resiliency. For this you will need to go outside when it is chilly. Wear one less layer than you normally would. Go for 5 minutes. After 5 minutes, many people will discover they have already started adapting to the colder temperatures. Most people baby their metabolism. _Force it to work for you!_ After five minutes, you can put your jacket back on. Do this repeatedly and you'll soon discover the need to always grab a jacket will disappear.
+
+This post was written as we head into summer. This means take advantage of early mornings and late evenings.
 
 
 ### Feedback
 
 
-I'd love to get feedback from others if they try _High Intensity Cold Weather Training_. I'm already well adapted to both cold water and cold ambient temperatures. For me this method is about maintaining my temperature resiliency. I have no desire to swim a mile in icy water. I also suspect that extreme exposure to cold temperatures could have the opposite effect on fat loss, as the body would respond to the chronic temperature stress by increasing body fat. The three things to look for are:
+I'd love to get feedback from others if they try _High Intensity Cold Weather Training_. I'm already well adapted to both cold water and cold ambient temperatures. For me this method is about maintaining my temperature resiliency. I have no desire to swim a mile in icy water. I also suspect that extreme exposure to cold temperatures could have the opposite effect on fat loss, as the body would respond to the chronic temperature stress by increasing body fat.
+
+The three things to look for are:
 
 1.  Increased temperature comfort zone. You should begin to feel more comfortable with lower temperatures.
 2.  Fat loss. I covered this in the post [The Media Discovers Brown Fat](/2009/04/the-media-discovers-brown-fat/).

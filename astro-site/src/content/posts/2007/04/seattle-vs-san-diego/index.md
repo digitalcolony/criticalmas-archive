@@ -9,9 +9,31 @@ description: "Last weekend Kelli came down from Seattle. We went out for dinner 
 commentCount: 6
 ---
 
-Last weekend Kelli came down from Seattle. We went out for dinner and I got to hear great things about _The Emerald City_. I have to visit this place. If it weren't for the rain, I'd have my bags packed already. The next day I decided to compare Seattle with San Diego on things not having to do with weather. When it comes to weather only Hawaii can beat San Diego. **Population** (12+ Metro as determined by RadioAndRecords) San Diego: 2,497,000 Seattle: 3,257,200 **Cost of Living** (per $1000 as determined by BestPlaces.net) San Diego: $1000 Seattle: $678 (32.2% cheaper) **Job Count** (search results for "ASP.NET C#" on Dice.com Metro Search) San Diego: 58 Seattle: 194 **Border Town** San Diego: Tijuana, Mexico Seattle: Vancouver, Canada Seattle is cheaper with more job opportunities than San Diego (for me). If weather can be ignored then Seattle looks like a winner on paper. The big question is can weather really be ignored? I need to find out. UPDATE: I just remembered that Kelli said there is no state income tax in Washington. That is correct. According to [Wikipedia](https://en.wikipedia.org/wiki/State_income_tax), the California state income tax is 9.3% for income over $39,000. That's a huge difference. **Legacy Comments** Kelli
+Last weekend Kelli came down from Seattle. We went out for dinner and I got to hear great things about _The Emerald City_. I have to visit this place. If it weren't for the rain, I'd have my bags packed already.
 
-> A true Southern California girl at heart, I never (ever) thought I would give Seattle a second thought. But let me tell you that the weather is definitely worth overlooking (at least to some of us). The "rain" up here is hardly rain, especially if you're raised in the Midwest and have spent any amount of time on the East Coast. Even at that the rain would still be a small price to pay for such an incredible city. I could go on and on, but you'll just have to come visit. You're both welcome anytime, I had a great evening out with you guys.
+The next day I decided to compare Seattle with San Diego on things not having to do with weather. When it comes to weather only Hawaii can beat San Diego.
+
+**Population** (12+ Metro as determined by RadioAndRecords) San Diego: 2,497,000 Seattle: 3,257,200
+
+**Cost of Living** (per $1000 as determined by BestPlaces.net) San Diego: $1000 Seattle: $678 (32.2% cheaper)
+
+**Job Count** (search results for "ASP.NET C#" on Dice.com Metro Search) San Diego: 58 Seattle: 194
+
+**Border Town** San Diego: Tijuana, Mexico Seattle: Vancouver, Canada
+
+Seattle is cheaper with more job opportunities than San Diego (for me). If weather can be ignored then Seattle looks like a winner on paper. The big question is can weather really be ignored? I need to find out.
+
+UPDATE: I just remembered that Kelli said there is no state income tax in Washington. That is correct. According to [Wikipedia](https://en.wikipedia.org/wiki/State_income_tax), the California state income tax is 9.3% for income over $39,000. That's a huge difference.
+
+**Legacy Comments**
+
+Kelli
+
+> A true Southern California girl at heart, I never (ever) thought I would give Seattle a second thought. But let me tell you that the weather is definitely worth overlooking (at least to some of us).
+> 
+> The "rain" up here is hardly rain, especially if you're raised in the Midwest and have spent any amount of time on the East Coast. Even at that the rain would still be a small price to pay for such an incredible city.
+> 
+> I could go on and on, but you'll just have to come visit. You're both welcome anytime, I had a great evening out with you guys.
 
 MAS
 
@@ -27,15 +49,21 @@ Chris
 
 Melissa
 
-> I've probably spent about ten weeks in Seattle if you total all of my time spent there. I can only recall it raining three times in those ten weeks. Maybe it was a fluke thing, but I couldn't figure out why Seattle gets its wet rep. With the mountains, the ocean and the hip, cosmopolitan city, you can't go wrong. I \*heart\* Seattle!!!
+> I've probably spent about ten weeks in Seattle if you total all of my time spent there. I can only recall it raining three times in those ten weeks. Maybe it was a fluke thing, but I couldn't figure out why Seattle gets its wet rep.
+> 
+> With the mountains, the ocean and the hip, cosmopolitan city, you can't go wrong. I \*heart\* Seattle!!!
 
 Kelli
 
-> I \*heart\* Seattle too. Though it does have it's issues. Unfortunately collecting no income tax means that citizens have to vote on many funding issues and what seem to be relatively simple government services tend to become a huge election-day battle. The one real thing that Seattle lacks is comprehensive mass transit. I could go on for hours about the topic (preferably over a lot of wine). The bus system does a surprisingly good job of meeting most needs, but a kick ass subway would absolutely take Seattle over the top.
+> I \*heart\* Seattle too. Though it does have it's issues. Unfortunately collecting no income tax means that citizens have to vote on many funding issues and what seem to be relatively simple government services tend to become a huge election-day battle.
+> 
+> The one real thing that Seattle lacks is comprehensive mass transit. I could go on for hours about the topic (preferably over a lot of wine). The bus system does a surprisingly good job of meeting most needs, but a kick ass subway would absolutely take Seattle over the top.
 
 JeSais
 
-> I've not lived in Seattle, but my grandfather was commander of the Naval Air Station and lived on Whidbey Island from retirement til he passed... and from visiting I can tell you yes, it rains. But I think the big "ooooo there's lots of weather" hoo ha is a ruse to keep us away. Yes, it rains. probably most days, but it also clears up most days... so if you carry an umbrella or some rain gear, no problem. Plus it makes everything so green and smell so fresh... and the flowers they bloom.... I'm fast coming to the conclusion myself that I don't have to live in California....(i'm obviously a little slow)
+> I've not lived in Seattle, but my grandfather was commander of the Naval Air Station and lived on Whidbey Island from retirement til he passed... and from visiting I can tell you yes, it rains. But I think the big "ooooo there's lots of weather" hoo ha is a ruse to keep us away. Yes, it rains. probably most days, but it also clears up most days... so if you carry an umbrella or some rain gear, no problem. Plus it makes everything so green and smell so fresh... and the flowers they bloom....
+> 
+> I'm fast coming to the conclusion myself that I don't have to live in California....(i'm obviously a little slow)
 
 Matt
 

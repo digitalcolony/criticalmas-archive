@@ -9,7 +9,19 @@ description: "In previous posts, I have celebrated how lean you will get once yo
 commentCount: 27
 ---
 
-In previous posts, I have celebrated how lean you will get once you [eliminate bread](/2010/08/life-without-gluten/) from your diet. In the post [Be Your Own Dermatologist](/2011/04/be-your-own-dermatologist/), I even covered how removing grains could clear up skin inflammation. Today I realized that I never shared the downside to life without bread. It's not all rainbows and unicorns. There is a price to pay. ![bread-sign](./img/bread-sign.jpg) _Photo by [Thomas Hawk](https://flic.kr/p/bnXMqi)_ When I removed bread, pasta, baked goods and noodles from my diet, my waist got small and my pants started to fall down. I tightened my belt until there were no more notches. I went out and bought a new belt, jeans and shorts. I had hundreds of dollars worth of jeans that no longer fit me. I donated them to the _GeekBeast_. Now after another year of being bread free, I have discovered that the jeans I bought in 2009-2010 are now too loose. Looks like I'll be returning to the mall soon to buy still smaller jeans. So let this be a lesson. When you stop buying bread, put that money aside. You'll need it later when you are forced to buy a smaller wardrobe.
+In previous posts, I have celebrated how lean you will get once you [eliminate bread](/2010/08/life-without-gluten/) from your diet. In the post [Be Your Own Dermatologist](/2011/04/be-your-own-dermatologist/), I even covered how removing grains could clear up skin inflammation. Today I realized that I never shared the downside to life without bread. It's not all rainbows and unicorns.
+
+There is a price to pay.
+
+![bread-sign](./img/bread-sign.jpg)
+
+_Photo by [Thomas Hawk](https://flic.kr/p/bnXMqi)_
+
+When I removed bread, pasta, baked goods and noodles from my diet, my waist got small and my pants started to fall down. I tightened my belt until there were no more notches. I went out and bought a new belt, jeans and shorts. I had hundreds of dollars worth of jeans that no longer fit me. I donated them to the _GeekBeast_.
+
+Now after another year of being bread free, I have discovered that the jeans I bought in 2009-2010 are now too loose. Looks like I'll be returning to the mall soon to buy still smaller jeans.
+
+So let this be a lesson. When you stop buying bread, put that money aside. You'll need it later when you are forced to buy a smaller wardrobe.
 
 ---
 

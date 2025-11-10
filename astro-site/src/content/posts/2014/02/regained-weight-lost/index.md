@@ -15,31 +15,49 @@ For almost a decade I was weight stable at 210 pounds. My height is 6 feet 2.5 i
 ### Getting Lean
 
 
-Then for a couple of years, I was weight stable at 190-195. I looked good. I felt great. Unlike most dieters who regain the weight, I felt I could declare victory. I had it all figured out. Without counting calories or even exercising more, I was in the best shape of my life. Then in 2011, I confessed to my [grand experiment](/2011/06/the-grand-experiment-abs-without-breaking-a-sweat/). I was trying to get **lower ab definition without breaking a sweat**. By June of 2011, I was ripped and I did it with minimal exercise. True to my goal, I never broke a sweat. I always kidded that if I ever got ripped, I'd take a glamour photo and then pig out on ice cream. I never took the photo, because of my reaction to a news event that happened that month. June 2011 is when the [Anthony Weiner scandal hit](https://en.wikipedia.org/wiki/Anthony_Weiner_sexting_scandals). For those who forgot, Anthony was a US Congressman who posted shirtless photos to social media. He ended up resigning. The "bro shot" selfie of being ripped instantly went from cool to undignified and narcissistic. I gave up any goals related to ab definition and just continued to eat nutrient dense healthy food.
+Then for a couple of years, I was weight stable at 190-195. I looked good. I felt great. Unlike most dieters who regain the weight, I felt I could declare victory. I had it all figured out. Without counting calories or even exercising more, I was in the best shape of my life. Then in 2011, I confessed to my [grand experiment](/2011/06/the-grand-experiment-abs-without-breaking-a-sweat/). I was trying to get **lower ab definition without breaking a sweat**. By June of 2011, I was ripped and I did it with minimal exercise. True to my goal, I never broke a sweat.
+
+I always kidded that if I ever got ripped, I'd take a glamour photo and then pig out on ice cream.
+
+I never took the photo, because of my reaction to a news event that happened that month. June 2011 is when the [Anthony Weiner scandal hit](https://en.wikipedia.org/wiki/Anthony_Weiner_sexting_scandals). For those who forgot, Anthony was a US Congressman who posted shirtless photos to social media. He ended up resigning. The "bro shot" selfie of being ripped instantly went from cool to undignified and narcissistic. I gave up any goals related to ab definition and just continued to eat nutrient dense healthy food.
 
 
 ### Becoming Underweight
 
 
-What happened next was completely unexpected. I kept losing weight. I wasn't weighing myself very often, but I was slowly losing more weight. I was no longer weight stable at 190-195. I was below 190. By the time I got down to 185, I was getting alarmed. Then someone took a photo of me and my face looked gaunt. By early 2012, I was down to 183. My body was cold. My clean eating had become too clean. ![scale](http://farm3.staticflickr.com/2708/4335237400_a2dd0ca439_z.jpg?zz=1) _photo by Bob B. Brown_
+What happened next was completely unexpected. I kept losing weight. I wasn't weighing myself very often, but I was slowly losing more weight. I was no longer weight stable at 190-195. I was below 190. By the time I got down to 185, I was getting alarmed. Then someone took a photo of me and my face looked gaunt. By early 2012, I was down to 183. My body was cold. My clean eating had become too clean.
+
+![scale](http://farm3.staticflickr.com/2708/4335237400_a2dd0ca439_z.jpg?zz=1)
+
+_photo by Bob B. Brown_
 
 
 ### Reversing Course
 
 
-I decided I needed to eat a little dirty to add some weight. So after a bunch of research, I decided to [add ice cream](/2012/07/why-ice-cream-is-better-than-protein-powder/) to my diet. It worked. I stopped losing weight. Then I started to gain weight. Everything was going fine, but I decided it would be a wonderful health experimenter to see how far I could push my ice cream consumption. I gradually increased the ice cream from a pint a week to eventually a pint a day. I discovered that I could eat 2 or 3 pints of ice cream a week for stable weight with clean eating. But then I started the hardest experiment ever in October 2012. I went the entire [month without coffee](https://ineedcoffee.com/a-month-without-coffee/). During this very dark period, my sugar consumption spiked. I suddenly had developed a sweet tooth where before I never had one. I was also drinking Mexican colas. And my weight continued to increase. In December 2012, I started making dairy kefir. I planned to scale back on the ice cream and replace it with [kefir](/2013/03/making-dairy-kefir-is-super-easy/). I ended up consuming both.
+I decided I needed to eat a little dirty to add some weight. So after a bunch of research, I decided to [add ice cream](/2012/07/why-ice-cream-is-better-than-protein-powder/) to my diet. It worked. I stopped losing weight. Then I started to gain weight. Everything was going fine, but I decided it would be a wonderful health experimenter to see how far I could push my ice cream consumption. I gradually increased the ice cream from a pint a week to eventually a pint a day.
+
+I discovered that I could eat 2 or 3 pints of ice cream a week for stable weight with clean eating. But then I started the hardest experiment ever in October 2012. I went the entire [month without coffee](https://ineedcoffee.com/a-month-without-coffee/). During this very dark period, my sugar consumption spiked. I suddenly had developed a sweet tooth where before I never had one. I was also drinking Mexican colas. And my weight continued to increase.
+
+In December 2012, I started making dairy kefir. I planned to scale back on the ice cream and replace it with [kefir](/2013/03/making-dairy-kefir-is-super-easy/). I ended up consuming both.
 
 
 ### Knee Pain and Conflicting Goals
 
 
-In 2013, my left [knee](/2013/10/left-knee-bumming/) started to hurt. I had to stop long [urban hikes](https://criticalmas.org/best-of/urban-hiking/) and leg presses. I was becoming more inactive. And even after I posted that I was having [too many conflicting health goals](/2013/04/too-many-conflicting-health-goals/), I continued to create conflicting goals. More on that in the next post. To make a long story short, my weight is now at 216, which is not overweight given my height, but is also not lean.
+In 2013, my left [knee](/2013/10/left-knee-bumming/) started to hurt. I had to stop long [urban hikes](https://criticalmas.org/best-of/urban-hiking/) and leg presses. I was becoming more inactive. And even after I posted that I was having [too many conflicting health goals](/2013/04/too-many-conflicting-health-goals/), I continued to create conflicting goals. More on that in the next post.
+
+To make a long story short, my weight is now at 216, which is not overweight given my height, but is also not lean.
 
 
 ### What is My Ideal Weight?
 
 
-If I were to ask my body what it believes my ideal weight is, I'd get different answers. My shoulders, chest, and legs, would say I look most muscular at 215. My abs might say 185. My face looks younger at 200 than 185. But right now only one vote counts and that is my left knee. After reading Framework for the Knee, I'm convinced I need to get my weight down to help my knee fully recover. The book states that for every extra pound you carry, the knee _thinks it's 5 to 7 pounds_. My goal is to lose 20 pounds and return to 195. Once my knee heals, I can decide if I want to stay there or go higher. Every other goal takes a back seat. Yesterday I entered a bet with three others. We are all going to lose 20 pounds. If I lose, I will be required to go 1 week without coffee. My body could use the break, so this is a win-win. I consider myself in better health now than when I began this journey in 2008, but I've been sidetracked. In my next post, I will outline [how I plan to lose the weight](/2014/02/plan-lose-20-pounds-win-bet/).
+If I were to ask my body what it believes my ideal weight is, I'd get different answers. My shoulders, chest, and legs, would say I look most muscular at 215. My abs might say 185. My face looks younger at 200 than 185. But right now only one vote counts and that is my left knee. After reading Framework for the Knee, I'm convinced I need to get my weight down to help my knee fully recover. The book states that for every extra pound you carry, the knee _thinks it's 5 to 7 pounds_.
+
+My goal is to lose 20 pounds and return to 195. Once my knee heals, I can decide if I want to stay there or go higher. Every other goal takes a back seat. Yesterday I entered a bet with three others. We are all going to lose 20 pounds. If I lose, I will be required to go 1 week without coffee. My body could use the break, so this is a win-win.
+
+I consider myself in better health now than when I began this journey in 2008, but I've been sidetracked. In my next post, I will outline [how I plan to lose the weight](/2014/02/plan-lose-20-pounds-win-bet/).
 
 ---
 

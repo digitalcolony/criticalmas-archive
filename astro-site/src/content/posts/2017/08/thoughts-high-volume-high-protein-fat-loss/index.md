@@ -13,17 +13,27 @@ This is a continuation of my last post [High Volume or High Protein Foods For Fa
 
 > ...if you have a lot of weight to lose, use both high volume and high protein strategies.
 
-Even though I am lean and don't have to decide between high volume or high protein, I began rethinking that sentence. Are the strategies equal for the obese person? I don't know. Perhaps each individual diet would respond more favorably to one strategy than the other? If I had to answer this question for myself or advise someone with significant weight to lose, I would cycle between the two approaches with most of the time favoring high volume over high protein. ![](./img/fork.jpg) _[Photo](https://flic.kr/p/mhbK8a) by Diana Robinson_ In March 2017, Robb Wolf was a guest on the Joe Rogan podcast. Near the end of the show (2:46:10), we hear the story of an obese man who went on a medically supervised fast for 382 days. His weight dropped from 456 to 180 pounds. As interesting as that story is, the part I found fascinating was the fact he didn't have extra skin at the end of the diet. At (2:49:22) Robb explains why fasting might prevent the excess skin folds we see on people who lose lots of weight.
+Even though I am lean and don't have to decide between high volume or high protein, I began rethinking that sentence. Are the strategies equal for the obese person? I don't know. Perhaps each individual diet would respond more favorably to one strategy than the other? If I had to answer this question for myself or advise someone with significant weight to lose, I would cycle between the two approaches with most of the time favoring high volume over high protein.
+
+![](./img/fork.jpg)
+
+_[Photo](https://flic.kr/p/mhbK8a) by Diana Robinson_
+
+In March 2017, Robb Wolf was a guest on the Joe Rogan podcast. Near the end of the show (2:46:10), we hear the story of an obese man who went on a medically supervised fast for 382 days. His weight dropped from 456 to 180 pounds. As interesting as that story is, the part I found fascinating was the fact he didn't have extra skin at the end of the diet. At (2:49:22) Robb explains why fasting might prevent the excess skin folds we see on people who lose lots of weight.
 
 > If the protein is still being supplied in the diet, then even though the fat goes away, you still have the protein matrix of the skin and the interstitial connective issue that isn’t going to go away. But when we are in that fasted state or intermittent fasted or maybe ketosis, the body is turning over that protein base and that is really important. That is this apoptotic process. But you could potentially have a scenario where people that are losing a lot of weight that use these fasting protocols aren't going to need that cosmetic surgery to get rid of these sails of skin.
 
-Robb goes on to say this is anecdotal at this point, but his explanation makes perfect sense. _Joe Rogan Experience #935 - Robb Wolf_
+Robb goes on to say this is anecdotal at this point, but his explanation makes perfect sense.
+
+_Joe Rogan Experience #935 - Robb Wolf_
 
 
 ### The Fat Loss Journey From Peasant to Bodybuilder
 
 
-My hypothesis now, if I am connecting these different sources correctly, is that if one has a lot of weight to lose to start their journey eating more Peasant-like (plus fasting) and as they get within striking range of lean begin shifting to Bodybuilder. Start with a low-protein diet that relies on high-volume foods like potatoes to kill hunger. Do some fasting. Get leaner. Then begin shifting to higher protein. Does this sound correct?
+My hypothesis now, if I am connecting these different sources correctly, is that if one has a lot of weight to lose to start their journey eating more Peasant-like (plus fasting) and as they get within striking range of lean begin shifting to Bodybuilder. Start with a low-protein diet that relies on high-volume foods like potatoes to kill hunger. Do some fasting. Get leaner. Then begin shifting to higher protein.
+
+Does this sound correct?
 
 ---
 

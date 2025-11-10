@@ -11,9 +11,13 @@ commentCount: 2
 
 Last December, I learned that my super common name was on the "naughty list" at airports. From the post [Osama MAS Laden](/2008/12/osama-mas-laden/):
 
-> Guess what common American as apple pie name is now on the governments watch list? Mine. American Airlines has confirmed that my name is on the naughty list. Being on the watch list means I can never do web check in. I am no longer permitted to do curb side check in. Even if I don't have a single bag, I have to stand in line at the ticketing counter every time I fly. Once I get to the counter, I must spend another 5-10 minutes standing there smiling while the agent gives me the sniff test. _Lordy Lordy, please don't detain me!_
+> Guess what common American as apple pie name is now on the governments watch list? Mine. American Airlines has confirmed that my name is on the naughty list.
+> 
+> Being on the watch list means I can never do web check in. I am no longer permitted to do curb side check in. Even if I don't have a single bag, I have to stand in line at the ticketing counter every time I fly. Once I get to the counter, I must spend another 5-10 minutes standing there smiling while the agent gives me the sniff test. _Lordy Lordy, please don't detain me!_
 
-Today I learned from American Airlines that the TSA is finally addressing this issue. The program is called Secure Flight Program. By registering through American Airlines, I am now part of the program. According to the representative I spoke to with AA, this means that _soon_ I will no longer have anymore problems when I go to check in for my flights. It has been 8 years since 9/11. What detailed information did I need to provide in order to prove I'm a good guy? Fingerprints? Retinal scan? Maybe a criminal background check? Nope. Just two simple pieces of data.
+Today I learned from American Airlines that the TSA is finally addressing this issue. The program is called Secure Flight Program. By registering through American Airlines, I am now part of the program. According to the representative I spoke to with AA, this means that _soon_ I will no longer have anymore problems when I go to check in for my flights.
+
+It has been 8 years since 9/11. What detailed information did I need to provide in order to prove I'm a good guy? Fingerprints? Retinal scan? Maybe a criminal background check? Nope. Just two simple pieces of data.
 
 1.  Date of birth
 2.  Gender

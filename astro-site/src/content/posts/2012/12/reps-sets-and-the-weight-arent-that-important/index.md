@@ -9,25 +9,43 @@ description: "When I first started lifting weights in 1994, I read the muscle ma
 commentCount: 15
 ---
 
-When I first started lifting weights in 1994, I read the muscle magazines which endlessly repeated the golden rule of bodybuilding, which was to do 3 sets of 8-12 reps with a wide variety of exercises. A typical workout would take an hour. These were the important metrics during my early years of lifting. After a few years of doing this style of training, my gains stalled. I assumed the reason my gains stalled was that I didn't workout enough. The new number I focused on was number of gym visits. Somehow I got it into my head that I needed to lift 3 times a week to maintain and 4 times a week to gain. If I worked out just once or twice a week, I'd be losing muscle. Boy did I have that one wrong. Where did all that high volume, "go big or go home" nonsense lead me? Frequent injuries. I could go a month or two all out, only to be sidelined for an equal or greater period of time.
+When I first started lifting weights in 1994, I read the muscle magazines which endlessly repeated the golden rule of bodybuilding, which was to do 3 sets of 8-12 reps with a wide variety of exercises. A typical workout would take an hour. These were the important metrics during my early years of lifting.
+
+After a few years of doing this style of training, my gains stalled. I assumed the reason my gains stalled was that I didn't workout enough. The new number I focused on was number of gym visits. Somehow I got it into my head that I needed to lift 3 times a week to maintain and 4 times a week to gain. If I worked out just once or twice a week, I'd be losing muscle. Boy did I have that one wrong.
+
+Where did all that high volume, "go big or go home" nonsense lead me? Frequent injuries. I could go a month or two all out, only to be sidelined for an equal or greater period of time.
 
 
 ### What About Reps?
 
 
-Then in 2001, I read Pavel's [Power to the People](/2011/03/power-people-10-years/). His approach was different than anything I had been exposed to up until that point. The primary lessons being to keep the reps low, increase the weight, work on a few key compound exercises and end the exercise a few reps before failure for safety. As I've discussed in other posts, the period of 2001-2003 was when I turned things around and made the most gains. My injury rate dropped and I got stronger. I became a disciple of low reps. There are many posts on this site where I preach the gospel of low reps. At this point, I was convinced the high weight plus low reps were the key metrics. The problem with higher weights is that when you do have that one rep that is less than perfect and you tweak your back or shoulder, the injury is worse. My concern with Pavel's prescription for strength is that the exercises he uses to demonstrate strength have a high skill component. I discussed why that is problematic in the posts [I No Longer Give a Squat About the Squat](/2012/06/i-no-longer-give-a-squat-about-the-squat/) and [My Bench Press Sucks and I Don't Care](/2011/11/my-bench-press-sucks-and-i-dont-care/). The purpose of low reps with Pavel or any other powerlifting style protocol is to train the skill while the muscles are fresh. One is far more likely to have perfect form on reps 1 to 3 than 6 - 9. So by using low reps with extended rest, you reduce injury risk. The magic of low reps was no magic at all. It was a strategy to increase safety in complex skill based lifts. And increasing the skill component allows the lifter to increase the weight quicker. By moving to safer exercises with a lower skill component, I believe the low rep advantage disappears. ![gym-whiteboard](./img/gym-whiteboard.jpg) _So many numbers. My workout white board from my Pavel era._
+Then in 2001, I read Pavel's [Power to the People](/2011/03/power-people-10-years/). His approach was different than anything I had been exposed to up until that point. The primary lessons being to keep the reps low, increase the weight, work on a few key compound exercises and end the exercise a few reps before failure for safety.
+
+As I've discussed in other posts, the period of 2001-2003 was when I turned things around and made the most gains. My injury rate dropped and I got stronger. I became a disciple of low reps. There are many posts on this site where I preach the gospel of low reps.
+
+At this point, I was convinced the high weight plus low reps were the key metrics. The problem with higher weights is that when you do have that one rep that is less than perfect and you tweak your back or shoulder, the injury is worse. My concern with Pavel's prescription for strength is that the exercises he uses to demonstrate strength have a high skill component. I discussed why that is problematic in the posts [I No Longer Give a Squat About the Squat](/2012/06/i-no-longer-give-a-squat-about-the-squat/) and [My Bench Press Sucks and I Don't Care](/2011/11/my-bench-press-sucks-and-i-dont-care/).
+
+The purpose of low reps with Pavel or any other powerlifting style protocol is to train the skill while the muscles are fresh. One is far more likely to have perfect form on reps 1 to 3 than 6 - 9. So by using low reps with extended rest, you reduce injury risk. The magic of low reps was no magic at all. It was a strategy to increase safety in complex skill based lifts. And increasing the skill component allows the lifter to increase the weight quicker. By moving to safer exercises with a lower skill component, I believe the low rep advantage disappears.
+
+![gym-whiteboard](./img/gym-whiteboard.jpg)
+
+_So many numbers. My workout white board from my Pavel era._
 
 
 ### What About the Weight?
 
 
-At this point in my fitness journey I had lost the faith that reps, sets or even number of visits to the gym per week were valuable metrics, but I still believed that the higher the weight, the better. Then I was exposed to [High Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/). I learned that by slowing down the repetition speed, a lighter weight became more difficult to move. By trading momentum for less weight, the exercise not only became more challenging, because I was using machines, it became safer. The speed of a rep is the most powerful metric, with a static hold being the most very challenging. Very slow movements and static holds allow me to safely recruit more muscle in a safer manner. Today my legs have never been stronger, yet I use a much lighter weight.
+At this point in my fitness journey I had lost the faith that reps, sets or even number of visits to the gym per week were valuable metrics, but I still believed that the higher the weight, the better. Then I was exposed to [High Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/). I learned that by slowing down the repetition speed, a lighter weight became more difficult to move. By trading momentum for less weight, the exercise not only became more challenging, because I was using machines, it became safer.
+
+The speed of a rep is the most powerful metric, with a static hold being the most very challenging. Very slow movements and static holds allow me to safely recruit more muscle in a safer manner. Today my legs have never been stronger, yet I use a much lighter weight.
 
 
 ### Intensity and Time Under Load
 
 
-These days I couldn't care less about reps, sets or even the weight. I'm going for intensity and TUL (time under load). The amount of weight I use on the leg press is often as little as 150-190 pounds. I do a few reps very slowly and then lower the weight into a static hold and then hold until failure is reached. When the movement is complete, I can barely stand up. At no point in the movement did I risk injury with complex movements or excessive weight. How much intensity and TUL? I vary these from workout to workout. I [no longer](/2012/08/is-high-intensity-training-best-for-ectomorphs/) go to complete failure every workout. TUL might vary from 30 seconds at a higher weight to 60 seconds at a lower weight. I usually do a single set, although I might add in a second from time to time. I mix it up. I don't write down any numbers and I've never been in better shape.
+These days I couldn't care less about reps, sets or even the weight. I'm going for intensity and TUL (time under load). The amount of weight I use on the leg press is often as little as 150-190 pounds. I do a few reps very slowly and then lower the weight into a static hold and then hold until failure is reached. When the movement is complete, I can barely stand up. At no point in the movement did I risk injury with complex movements or excessive weight.
+
+How much intensity and TUL? I vary these from workout to workout. I [no longer](/2012/08/is-high-intensity-training-best-for-ectomorphs/) go to complete failure every workout. TUL might vary from 30 seconds at a higher weight to 60 seconds at a lower weight. I usually do a single set, although I might add in a second from time to time. I mix it up. I don't write down any numbers and I've never been in better shape.
 
 ---
 

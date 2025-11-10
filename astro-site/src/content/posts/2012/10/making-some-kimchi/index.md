@@ -8,7 +8,11 @@ description: "I may have gone overboard this week. I also made some sauerkraut, 
 commentCount: 8
 ---
 
-I may have gone overboard this week. I also made some sauerkraut, which is still fermenting. ![](./img/kimchi600.jpg "kimchi ") _7 quarts + 2 little jars of [Kimchi 2.0](/2012/08/kimchi-2-0/)_
+I may have gone overboard this week. I also made some sauerkraut, which is still fermenting.
+
+![](./img/kimchi600.jpg "kimchi ")
+
+_7 quarts + 2 little jars of [Kimchi 2.0](/2012/08/kimchi-2-0/)_
 
 ---
 

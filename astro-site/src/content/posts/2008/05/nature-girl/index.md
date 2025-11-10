@@ -9,7 +9,9 @@ description: "A while back I saw Carl Hiaasen on 60 Minutes. He seemed like an i
 commentCount: 1
 ---
 
-A while back I saw Carl Hiaasen on 60 Minutes. He seemed like an interesting guy and I made a note to someday read one of his books. I finally did. ![Nature Girl](https://images-na.ssl-images-amazon.com/images/I/41NypAPLz6L.jpg) _Nature Girl by Carl Hiaasen_ is a fun story that takes place in the South Florida Everglades. I really don't read enough fiction to know how good it is compared to most fiction. I enjoyed it though.
+A while back I saw Carl Hiaasen on 60 Minutes. He seemed like an interesting guy and I made a note to someday read one of his books. I finally did.
+
+![Nature Girl](https://images-na.ssl-images-amazon.com/images/I/41NypAPLz6L.jpg) _Nature Girl by Carl Hiaasen_ is a fun story that takes place in the South Florida Everglades. I really don't read enough fiction to know how good it is compared to most fiction. I enjoyed it though.
 
 ---
 

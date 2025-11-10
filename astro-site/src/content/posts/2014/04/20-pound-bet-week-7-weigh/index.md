@@ -9,7 +9,21 @@ description: "For a background to this post see How I Plan to Lose 20 Pounds an
 commentCount: 2
 ---
 
-_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._ Week #7 Weigh-In: **\-1**. Total Loss: **\-7**. Last week was the one week where I gained a pound. I was concerned that I might need to go back to the food journals. On Monday, I weighed myself and saw I was up 2 more pounds. Yikes! I really don't want to do food journals again, but I told myself that if I didn't register a loss this week, I'd return to writing down every meal. Well I turned it around and dropped that weight plus an additional pound. **The motivation of not journaling turned out to be quite effective.** I decided to use Tuesday and Thursday as days where I wouldn't go to the gym for knee rehab and instead really restrict calories until mid-afternoon. The other days would be maintenance. The strategy of cycling between caloric deficit and baseline is an effective one. You get the weekly calorie reduction, but you don't run your metabolism into the ground or feel deprived day in and day out. ![liver - sweet potatoes](./img/IMG1736-M.jpg) _Beef liver + Brussels sprouts + sweet potatoes_ Notes:
+_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._
+
+Week #7 Weigh-In: **\-1**. Total Loss: **\-7**.
+
+Last week was the one week where I gained a pound. I was concerned that I might need to go back to the food journals. On Monday, I weighed myself and saw I was up 2 more pounds. Yikes! I really don't want to do food journals again, but I told myself that if I didn't register a loss this week, I'd return to writing down every meal.
+
+Well I turned it around and dropped that weight plus an additional pound. **The motivation of not journaling turned out to be quite effective.** I decided to use Tuesday and Thursday as days where I wouldn't go to the gym for knee rehab and instead really restrict calories until mid-afternoon. The other days would be maintenance.
+
+The strategy of cycling between caloric deficit and baseline is an effective one. You get the weekly calorie reduction, but you don't run your metabolism into the ground or feel deprived day in and day out.
+
+![liver - sweet potatoes](./img/IMG1736-M.jpg)
+
+_Beef liver + Brussels sprouts + sweet potatoes_
+
+Notes:
 
 1.  Foods that I have found to reduce appetite the best so far (besides calorie dense cheese) are: tuna, carrots, kimchi, potatoes and beef (especially organ meats).
 2.  Competitor #2 in the fitness bet did a blog post this week that highlighted some quotes on an article about the problem of _thinspiration_.

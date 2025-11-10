@@ -9,7 +9,27 @@ description: "Last night I made a decision that I would never talk about High In
 commentCount: 18
 ---
 
-Last night I made a decision that I would never talk about High Intensity Training unless someone solicits my opinion on the topic. I'll still blog about it here, but I'm done discussing it in conversations. People don't get it. I used to think it was a failure on my part to articulate the principles of HIT, but now I believe most people have such deep ingrained beliefs about fitness that they just can't comprehend what I am saying. There are so many layers of false information buried in the heads of people that it is futile to even waste any time discussing my viewpoint. So the next time I hear someone say they need to "get back in shape", but they are busy, I won't take the bait and plug [static holds.](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/) I'll assume they were once in shape and that no matter what I say, they will return to the protocol that worked for them before or more likely they will stay out of shape. They will confuse building strength with recreation. Almost all will believe that more exercise equals more intensity which equals more results. They won't consider safety or think about recovery. They will continue to have unrealistic role models. They will equate speed with strength. They will believe that the more difficult an exercise is the more strength it develops. And most will fail. And I won't say anything. High Intensity Training is something you need to do to understand. Language fails. It especially fails when we have so much incorrect information in our head clouding our judgment. [![drops mic](./img/3400482826_4debaa6b18_z.jpg)](./img/3400482826_4debaa6b18_z.jpg) _[Photo](https://www.flickr.com/photos/robnas/3400482826/) by Robert Bejil_ UPDATE (July 14, 2014): This morning I woke up with the feeling that I had already written this same post once before. I did some digging and found [Preaching Paleo](/2011/01/preaching-paleo/), which is the nutrition side to this same topic. My definition of Paleo was and still is more along the lines of "avoid processed foods", get good sleep and stay safe and not the low-carb CrossFit nonsense that is pervasive today. UPDATE (July 27, 2014): I wrote a [Part 2](/2014/07/im-done-talking-high-intensity-training-part-2/) for this post.
+Last night I made a decision that I would never talk about High Intensity Training unless someone solicits my opinion on the topic. I'll still blog about it here, but I'm done discussing it in conversations. People don't get it.
+
+I used to think it was a failure on my part to articulate the principles of HIT, but now I believe most people have such deep ingrained beliefs about fitness that they just can't comprehend what I am saying. There are so many layers of false information buried in the heads of people that it is futile to even waste any time discussing my viewpoint.
+
+So the next time I hear someone say they need to "get back in shape", but they are busy, I won't take the bait and plug [static holds.](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/) I'll assume they were once in shape and that no matter what I say, they will return to the protocol that worked for them before or more likely they will stay out of shape.
+
+They will confuse building strength with recreation. Almost all will believe that more exercise equals more intensity which equals more results. They won't consider safety or think about recovery. They will continue to have unrealistic role models. They will equate speed with strength. They will believe that the more difficult an exercise is the more strength it develops.
+
+And most will fail.
+
+And I won't say anything.
+
+High Intensity Training is something you need to do to understand. Language fails. It especially fails when we have so much incorrect information in our head clouding our judgment.
+
+[![drops mic](./img/3400482826_4debaa6b18_z.jpg)](./img/3400482826_4debaa6b18_z.jpg)
+
+_[Photo](https://www.flickr.com/photos/robnas/3400482826/) by Robert Bejil_
+
+UPDATE (July 14, 2014): This morning I woke up with the feeling that I had already written this same post once before. I did some digging and found [Preaching Paleo](/2011/01/preaching-paleo/), which is the nutrition side to this same topic. My definition of Paleo was and still is more along the lines of "avoid processed foods", get good sleep and stay safe and not the low-carb CrossFit nonsense that is pervasive today.
+
+UPDATE (July 27, 2014): I wrote a [Part 2](/2014/07/im-done-talking-high-intensity-training-part-2/) for this post.
 
 ---
 

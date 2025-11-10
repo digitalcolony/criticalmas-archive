@@ -9,7 +9,9 @@ description: "For those new to the site, I am currently testing a nutritional st
 commentCount: 9
 ---
 
-For those new to the site, I am currently testing a nutritional strategy that I call the [_seasonal approach_](/2010/10/fall-strategies-for-nutrition-and-fitness/). In the post [Winter Strategies For Nutrition and Fitness](/2010/12/winter-strategies-for-nutrition-and-fitness/), I outlined a list of goals I had for winter. This is a learning process for me. I'm not advising others to follow my lead. This is all an experiment. When the first year of the experiment is over, I plan to post what I learned. A few weeks into winter I discovered that I was violating one of my core principles. **I was changing too many things at once.** This makes it impossible to determine the true cause and effect of changes. I'm all about gradually tweaking and measuring changes. If it works, keep it up. If it doesn't, remove it. Others may chose to "go big or go home", not me. I'm all about the [Minimal Effort Approach](/2010/03/the-minimal-effort-approach/).
+For those new to the site, I am currently testing a nutritional strategy that I call the [_seasonal approach_](/2010/10/fall-strategies-for-nutrition-and-fitness/). In the post [Winter Strategies For Nutrition and Fitness](/2010/12/winter-strategies-for-nutrition-and-fitness/), I outlined a list of goals I had for winter. This is a learning process for me. I'm not advising others to follow my lead. This is all an experiment. When the first year of the experiment is over, I plan to post what I learned.
+
+A few weeks into winter I discovered that I was violating one of my core principles. **I was changing too many things at once.** This makes it impossible to determine the true cause and effect of changes. I'm all about gradually tweaking and measuring changes. If it works, keep it up. If it doesn't, remove it. Others may chose to "go big or go home", not me. I'm all about the [Minimal Effort Approach](/2010/03/the-minimal-effort-approach/).
 
 > Simplicity is the key to brilliance - Bruce Lee
 
@@ -19,7 +21,9 @@ I decided to keep my sugar and fruit intake as low as I did in the fall and not 
 2.  **Maintain Strength** - The last time I did fasted workouts, I lost fat (cool) and strength (not cool). Leangains advises supplementing with BCAA, which I have been doing. I have not lost any strength this season, nor have I had any aches or pains. Even though I don't have a lot of data, I am going to continue supplementing with BCAA for fasted weight training. I suspect it is doing its job in preventing muscle loss. Art De Vany is also a fan. **SUCCESS**.
 3.  **Fat Loss** - I'm not going to comment on this until winter is over. I don't want jinx anything, but let me just say that there was zero holiday weight gain for me. **STAY TUNED**.
 
-As far as exercise goes, I have been lifting weights 1-2 times per week. I started [Slow training](/2010/01/body-by-science/) on machines. Different HIT gurus advise different tempos. I've seen rep ranges from 3 seconds up, 3 seconds down to 10 seconds up, 10 seconds down. I'm experimenting with them all. Although I am not 100% sold on slow training, I am becoming more of a fan each week, especially slowing the negative portion of the lift. So the grand experiment continues. Around March 20th, I will report back with a full seasonal update for winter as well as outline my spring strategy.
+As far as exercise goes, I have been lifting weights 1-2 times per week. I started [Slow training](/2010/01/body-by-science/) on machines. Different HIT gurus advise different tempos. I've seen rep ranges from 3 seconds up, 3 seconds down to 10 seconds up, 10 seconds down. I'm experimenting with them all. Although I am not 100% sold on slow training, I am becoming more of a fan each week, especially slowing the negative portion of the lift.
+
+So the grand experiment continues. Around March 20th, I will report back with a full seasonal update for winter as well as outline my spring strategy.
 
 ---
 

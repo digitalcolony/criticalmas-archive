@@ -9,7 +9,29 @@ description: "The weather in Seattle suddenly got really nice. This means I step
 commentCount: 6
 ---
 
-The weather in Seattle suddenly got really nice. This means I stepped out of hibernation and did some [urban hiking](https://criticalmas.org/best-of/urban-hiking/). When it comes to hiking in Seattle, I take a unique approach. While everyone else spends an hour or three driving east to some trail, I stay in the city. The idea of driving two to three hours just to hike one hour seems wasteful to me. Plus, the cops have so many speed traps on the hiking corridor that the idea of a stress-free afternoon in nature doesn't really exist. I'd rather hike in the city. Less driving, more hiking. Plus I can always stop for espresso along the way. Can't do that in the mountains. :) During the winter months I'd walk on average maybe 2 miles a day. Yesterday I did an 8 miler and today a 7 miler with little effort and no soreness. I'll probably do a 10 miler later this week. [http://www.gmap-pedometer.com/?r=5901042](http://www.gmap-pedometer.com/?r=5901042) [http://www.gmap-pedometer.com/?r=5902390](http://www.gmap-pedometer.com/?r=5902390) How can I ramp up the distance that fast with no aches and pains? High Intensity Training. Once or twice a week I go to the gym and do a very slow set of leg presses. Sometimes I just load up the weight and perform a static hold. And if I don't feel like going to the gym, I'll do the Wall Sit exercise described in the [Hillfit book](/2012/01/hillfit-strength-is-not-just-for-hikers/). Unlike the days when I did [barbell squats](/2012/06/i-no-longer-give-a-squat-about-the-squat/) and dead lifts, I'm never injured. My joints and back feel great. When I lived in San Diego I hiked all the time, yet now hiking is easier, because my legs are much stronger. Too many people think they need fancy shoes or poles or whatever they see being sold at REI. Nope. Double your leg strength and every hike gets twice as easy. Speaking of Hillfit, version 2.0 has just been released. I have a copy and although I haven't read it yet, it looks even more impressive than version 1.0. Version 2.0 has 70 more pages of content. **If you are looking for an introduction to High Intensity Training, I highly recommend Hillfit.** You can get super strong without risking injury and do it all from home - no gym equipment needed. ![Hill Fit](./img/hill-fit-500.jpg "Hill Fit") Click here to visit Hillfit _Disclosure: I received a copy of Hillfit in exchange for feedback on a draft version. I’m also in an affiliate relationship with E-junkie._
+The weather in Seattle suddenly got really nice. This means I stepped out of hibernation and did some [urban hiking](https://criticalmas.org/best-of/urban-hiking/). When it comes to hiking in Seattle, I take a unique approach. While everyone else spends an hour or three driving east to some trail, I stay in the city. The idea of driving two to three hours just to hike one hour seems wasteful to me. Plus, the cops have so many speed traps on the hiking corridor that the idea of a stress-free afternoon in nature doesn't really exist.
+
+I'd rather hike in the city. Less driving, more hiking. Plus I can always stop for espresso along the way. Can't do that in the mountains. :)
+
+During the winter months I'd walk on average maybe 2 miles a day. Yesterday I did an 8 miler and today a 7 miler with little effort and no soreness. I'll probably do a 10 miler later this week.
+
+[http://www.gmap-pedometer.com/?r=5901042](http://www.gmap-pedometer.com/?r=5901042)
+
+[http://www.gmap-pedometer.com/?r=5902390](http://www.gmap-pedometer.com/?r=5902390)
+
+How can I ramp up the distance that fast with no aches and pains? High Intensity Training.
+
+Once or twice a week I go to the gym and do a very slow set of leg presses. Sometimes I just load up the weight and perform a static hold. And if I don't feel like going to the gym, I'll do the Wall Sit exercise described in the [Hillfit book](/2012/01/hillfit-strength-is-not-just-for-hikers/). Unlike the days when I did [barbell squats](/2012/06/i-no-longer-give-a-squat-about-the-squat/) and dead lifts, I'm never injured. My joints and back feel great.
+
+When I lived in San Diego I hiked all the time, yet now hiking is easier, because my legs are much stronger. Too many people think they need fancy shoes or poles or whatever they see being sold at REI. Nope. Double your leg strength and every hike gets twice as easy.
+
+Speaking of Hillfit, version 2.0 has just been released. I have a copy and although I haven't read it yet, it looks even more impressive than version 1.0. Version 2.0 has 70 more pages of content. **If you are looking for an introduction to High Intensity Training, I highly recommend Hillfit.** You can get super strong without risking injury and do it all from home - no gym equipment needed.
+
+![Hill Fit](./img/hill-fit-500.jpg "Hill Fit")
+
+Click here to visit Hillfit
+
+_Disclosure: I received a copy of Hillfit in exchange for feedback on a draft version. I’m also in an affiliate relationship with E-junkie._
 
 ---
 

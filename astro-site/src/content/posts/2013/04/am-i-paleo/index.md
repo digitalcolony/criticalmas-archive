@@ -9,7 +9,11 @@ description: "The biggest trend I've seen in nutritional blogs in the past year 
 commentCount: 28
 ---
 
-The biggest trend I've seen in nutritional blogs in the past year is the growing anti-Paleo movement. Unlike the 2008-2010 period, the attacks aren't coming from the conventional "_whole grains are good and cholesterol is bad_" crowd. The attacks today are coming from those who tried a Paleo diet and have abandoned the label. Many even had great success with the diet. The reasons for leaving Paleo vary and I am going to go through some of them in this post. I am torn. There are things I like and things I've grown to dislike about what it means to be Paleo. In this post, I am going to go through what I dislike and like about Paleo. ![](./img/caveman-spear-1.jpg)
+The biggest trend I've seen in nutritional blogs in the past year is the growing anti-Paleo movement. Unlike the 2008-2010 period, the attacks aren't coming from the conventional "_whole grains are good and cholesterol is bad_" crowd. The attacks today are coming from those who tried a Paleo diet and have abandoned the label. Many even had great success with the diet. The reasons for leaving Paleo vary and I am going to go through some of them in this post.
+
+I am torn. There are things I like and things I've grown to dislike about what it means to be Paleo. In this post, I am going to go through what I dislike and like about Paleo.
+
+![](./img/caveman-spear-1.jpg)
 
 
 ### Paleo Problems
@@ -29,7 +33,11 @@ Some background. I am not a health professional or [PubMed Warrior](/2012/11/not
 ### What I Like About Paleo
 
 
-To me, Paleo is more about a mindset. Unlike every other diet that I had been exposed to, this one said I didn't need to be an expert. Imagine a world 10,000 years ago and what foods would have been available. This is your starting point. Those foods are nutrient dense and you'll greatly reduce your risk of major chronic illnesses. Paleo taught me to question conventional wisdom. Its root message of simplicity and resiliency appealed to me. It still does. Paleo taught me to question all nutritional dogma, including Paleo dogma itself. This led me to the opinion that Paleo is a good place to start, but rejecting the last 10,000 years of ancestral knowledge of food would be a mistake. This is why I say [The Endgame for Paleo is WAPF](/2012/08/the-endgame-for-paleo-is-wapf/). Rejecting the last 100 years of industrial food is still probably a wise idea for most. Since being exposed to Paleo, I've taken control and responsibility for my health. I run my own health experiments and I've learned a ton about cooking and food in the last few years.
+To me, Paleo is more about a mindset. Unlike every other diet that I had been exposed to, this one said I didn't need to be an expert. Imagine a world 10,000 years ago and what foods would have been available. This is your starting point. Those foods are nutrient dense and you'll greatly reduce your risk of major chronic illnesses. Paleo taught me to question conventional wisdom. Its root message of simplicity and resiliency appealed to me. It still does.
+
+Paleo taught me to question all nutritional dogma, including Paleo dogma itself. This led me to the opinion that Paleo is a good place to start, but rejecting the last 10,000 years of ancestral knowledge of food would be a mistake. This is why I say [The Endgame for Paleo is WAPF](/2012/08/the-endgame-for-paleo-is-wapf/). Rejecting the last 100 years of industrial food is still probably a wise idea for most.
+
+Since being exposed to Paleo, I've taken control and responsibility for my health. I run my own health experiments and I've learned a ton about cooking and food in the last few years.
 
 
 ### Am I Paleo?

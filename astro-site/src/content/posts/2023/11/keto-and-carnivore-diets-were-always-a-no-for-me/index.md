@@ -9,43 +9,75 @@ description: "In my previous post Checking in on the Carb Haters, I dunked on a 
 commentCount: 6
 ---
 
-In my previous post [Checking in on the Carb Haters](/2023/10/checking-in-on-the-carb-haters/), I dunked on a few of the keto and carnivore zealots for coming around to the opinion that I had a decade ago. Note that I am fine with cycling in and out of ketosis via fasting or shorter low-carb dieting. My concerns are with staying in ketosis for months or years. I also have concerns with restricting a diet to mostly meat. Here are the reasons I never considered either of these diets for myself.
+In my previous post [Checking in on the Carb Haters](/2023/10/checking-in-on-the-carb-haters/), I dunked on a few of the keto and carnivore zealots for coming around to the opinion that I had a decade ago.
+
+Note that I am fine with cycling in and out of ketosis via fasting or shorter low-carb dieting. My concerns are with staying in ketosis for months or years. I also have concerns with restricting a diet to mostly meat.
+
+Here are the reasons I never considered either of these diets for myself.
 
 
 ### #1 They lie about carbs
 
 
-The core belief I see with most of the ketogenic movement is the belief that all carbs are bad and need to be avoided. This is total nonsense. In their world, there is no difference between whole-food complex carbs and highly processed carbs. It's all sugar to them. In other words, Quinoa = Mountain Dew in their view. Traditional cultures for thousands of years thrived on and continue to thrive on diets rich in carbohydrates. By spreading lies about carbs, the keto influencers never had credibility to me. There are examples, such as [Hyperlipid](/2021/11/hyperlipid-for-dummies/), that speak honestly about carbs, but they are a rarity.
+The core belief I see with most of the ketogenic movement is the belief that all carbs are bad and need to be avoided. This is total nonsense. In their world, there is no difference between whole-food complex carbs and highly processed carbs. It's all sugar to them.
+
+In other words, Quinoa = Mountain Dew in their view. Traditional cultures for thousands of years thrived on and continue to thrive on diets rich in carbohydrates.
+
+By spreading lies about carbs, the keto influencers never had credibility to me. There are examples, such as [Hyperlipid](/2021/11/hyperlipid-for-dummies/), that speak honestly about carbs, but they are a rarity.
 
 
 ### #2 Chronic starvation signals
 
 
-With a Paleo background behind me, I started thinking about how stressful living in an environment absent of carbs would be. Would the body know that the food environment was safe based on calorie intake alone? Or would the body sense the chronic lack of carbs as threatening to its survival? I didn't know and I didn't want to take that risk. It is often said that "optimal health" and reproductive health go hand in hand. What impact would chronic ketosis have on reproductive health and hormones? How about the thyroid? I didn't know, but I suspected it would be bad. I'm going to explore this topic more in an upcoming post.
+With a Paleo background behind me, I started thinking about how stressful living in an environment absent of carbs would be. Would the body know that the food environment was safe based on calorie intake alone? Or would the body sense the chronic lack of carbs as threatening to its survival? I didn't know and I didn't want to take that risk.
+
+It is often said that "optimal health" and reproductive health go hand in hand. What impact would chronic ketosis have on reproductive health and hormones? How about the thyroid? I didn't know, but I suspected it would be bad.
+
+I'm going to explore this topic more in an upcoming post.
 
 
 ### #3 Environmental toxins
 
 
-This is a topic that very few people are talking about. Although there are some very creative vegetarians and vegans out there in ketosis, the vast majority of keto and all carnivore dieters are consuming a lot of animal fat. In a polluted planet, how toxic is animal fat? I don't know, but I'm concerned, so I minimize the amount I consume. See my post [Toxic Load and Low-Carb Dieting](/2018/04/toxic-load-and-low-carb-dieting/) for some of my thoughts. Even if the carnivore dieter only sourced the cleanest animals on the planet, those animals are still part of a post-industrial world with numerous chemicals in the environment, which may or may not be a problem. I asked Claude AI to explain this issue: ![](./img/Screenshot-2023-11-06-at-11-22-58-Claude.png)
+This is a topic that very few people are talking about.
+
+Although there are some very creative vegetarians and vegans out there in ketosis, the vast majority of keto and all carnivore dieters are consuming a lot of animal fat. In a polluted planet, how toxic is animal fat? I don't know, but I'm concerned, so I minimize the amount I consume.
+
+See my post [Toxic Load and Low-Carb Dieting](/2018/04/toxic-load-and-low-carb-dieting/) for some of my thoughts.
+
+Even if the carnivore dieter only sourced the cleanest animals on the planet, those animals are still part of a post-industrial world with numerous chemicals in the environment, which may or may not be a problem.
+
+I asked Claude AI to explain this issue:
+
+![](./img/Screenshot-2023-11-06-at-11-22-58-Claude.png)
 
 
 ### #4 PUFA and saturated fat
 
 
-Some people are concerned about PUFA for metabolic health and inflammation ([The Seed Oil Debate Revisited](/2022/09/the-seed-oil-debate-revisited/)) and some are concerned about saturated fat for heart health. These groups love to attack each other. Instead of taking a side, what if they are both right? A diet high in fat will either be higher in PUFA or higher in saturated fat. Or likely both. Since I don't see an upside to having high levels of PUFA or saturated fat, I restrict both. Pass the lentils.
+Some people are concerned about PUFA for metabolic health and inflammation ([The Seed Oil Debate Revisited](/2022/09/the-seed-oil-debate-revisited/)) and some are concerned about saturated fat for heart health. These groups love to attack each other.
+
+Instead of taking a side, what if they are both right?
+
+A diet high in fat will either be higher in PUFA or higher in saturated fat. Or likely both. Since I don't see an upside to having high levels of PUFA or saturated fat, I restrict both. Pass the lentils.
 
 
 ### #5 Expensive
 
 
-Meat is more expensive than legumes, tubers, and whole grains. I'm the guy who created the [Modern Peasant Diet](/2016/11/designing-modern-peasant-diet/). That was back in 2016. Food prices have spiked since then. Imagine how expensive a high-quality carnivore diet is today versus when it first became popular. Meanwhile, [my diet](/2023/09/what-i-eat-and-what-i-dont-eat-2023-edition/) is still affordable.
+Meat is more expensive than legumes, tubers, and whole grains. I'm the guy who created the [Modern Peasant Diet](/2016/11/designing-modern-peasant-diet/). That was back in 2016. Food prices have spiked since then.
+
+Imagine how expensive a high-quality carnivore diet is today versus when it first became popular. Meanwhile, [my diet](/2023/09/what-i-eat-and-what-i-dont-eat-2023-edition/) is still affordable.
 
 
 ### #6 You go first
 
 
-Keto and carnivore diets could have turned out to be great ideas. We didn't know because there were no populations with long-term data showing the safety or superiority of these diets. For the reasons listed above, I didn't try the diet. I wanted others to go first. Let's see how they respond. Let's see where they are in a few years. I can wait. Well, I waited. No sale.
+Keto and carnivore diets could have turned out to be great ideas. We didn't know because there were no populations with long-term data showing the safety or superiority of these diets.
+
+For the reasons listed above, I didn't try the diet. I wanted others to go first. Let's see how they respond. Let's see where they are in a few years. I can wait.
+
+Well, I waited. No sale.
 
 
 ### On the Other Hand

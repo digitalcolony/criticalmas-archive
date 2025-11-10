@@ -16,7 +16,17 @@ On Sunday a local grocery store was giving away free pumpkins. Since I like pump
 3.  Roasted Pumpkin seeds
 4.  Pumpkin curry.
 
-Dish #1 went pretty well considering I did not use a recipe. I just winged it. I will improve on it tonight. Dish #2 was also a success. Not as thick as canned pumpkin. It is probably more like pumpkin baby food, which works well in shakes. Dish #3 tastes great, but I may have put too much butter on them. _Is too much butter possible?_ I added some Cajun spices. ![cajun-pumpkin-seeds-2](./img/cajun-pumpkin-seeds-2.jpg) Dish #4 is tomorrow. I have no doubt it will taste great, as I've cooked squash in many past curries. If I would have known how much food a single pumpkin could yield, I would have been cooking with them a lot sooner.
+Dish #1 went pretty well considering I did not use a recipe. I just winged it. I will improve on it tonight.
+
+Dish #2 was also a success. Not as thick as canned pumpkin. It is probably more like pumpkin baby food, which works well in shakes.
+
+Dish #3 tastes great, but I may have put too much butter on them. _Is too much butter possible?_ I added some Cajun spices.
+
+![cajun-pumpkin-seeds-2](./img/cajun-pumpkin-seeds-2.jpg)
+
+Dish #4 is tomorrow. I have no doubt it will taste great, as I've cooked squash in many past curries.
+
+If I would have known how much food a single pumpkin could yield, I would have been cooking with them a lot sooner.
 
 ---
 

@@ -9,4 +9,8 @@ description: "Not sure how this book ended up on my reading list, but I'm glad i
 commentCount: 0
 ---
 
-Not sure how this book ended up on my reading list, but I'm glad it did. ![The Accidental Mind: How Brain Evolution Has Given Us Love, Memory, Dreams, and God](https://images-na.ssl-images-amazon.com/images/I/51kez2NQqLL.jpg) The Accidental Mind: How Brain Evolution Has Given Us Love, Memory, Dreams, and God is by David J. Linden. It's a book about the brain. At points it is a very tough read with lots of science, however, most of the book can be appreciated without a graduate degree in the biological sciences. The _Accidental Mind_ is about the brain's relationships with learning, evolution, memory, love, dreaming, and religion. If you can make it past the first 75 pages or so, you'll feel smarter for your effort.
+Not sure how this book ended up on my reading list, but I'm glad it did.
+
+![The Accidental Mind: How Brain Evolution Has Given Us Love, Memory, Dreams, and God](https://images-na.ssl-images-amazon.com/images/I/51kez2NQqLL.jpg) The Accidental Mind: How Brain Evolution Has Given Us Love, Memory, Dreams, and God is by David J. Linden. It's a book about the brain. At points it is a very tough read with lots of science, however, most of the book can be appreciated without a graduate degree in the biological sciences.
+
+The _Accidental Mind_ is about the brain's relationships with learning, evolution, memory, love, dreaming, and religion. If you can make it past the first 75 pages or so, you'll feel smarter for your effort.

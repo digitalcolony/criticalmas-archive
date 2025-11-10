@@ -9,7 +9,9 @@ description: "Last year I only had two servings of ice cream the entire year. I'
 commentCount: 26
 ---
 
-Last year I only had two servings of ice cream the entire year. I've more than made up for it this year. Around March I started eating ice cream on a weekly basis. As we moved from spring to summer, I kept increasing the amount of ice cream I was eating. Then in July I put out the post [Why Ice Cream is Better Than Protein Powder](/2012/07/why-ice-cream-is-better-than-protein-powder/), which makes the case that the limiting factor in muscle growth isn't protein, but calories. And the calories from ice cream with its mix of carbs, saturated fat and cholesterol seemed to be the perfect food for the task. Here is a breakdown of how my body responded at different ice cream levels.
+Last year I only had two servings of ice cream the entire year. I've more than made up for it this year. Around March I started eating ice cream on a weekly basis. As we moved from spring to summer, I kept increasing the amount of ice cream I was eating. Then in July I put out the post [Why Ice Cream is Better Than Protein Powder](/2012/07/why-ice-cream-is-better-than-protein-powder/), which makes the case that the limiting factor in muscle growth isn't protein, but calories. And the calories from ice cream with its mix of carbs, saturated fat and cholesterol seemed to be the perfect food for the task.
+
+Here is a breakdown of how my body responded at different ice cream levels.
 
 -   No ice cream - Was experiencing rapid fat loss. Couldn't gain muscle.
 -   1 pint per week - Still losing weight.
@@ -17,7 +19,13 @@ Last year I only had two servings of ice cream the entire year. I've more than m
 -   3 pints per week - Muscle gain and some fat gain. Some acne.
 -   4 pints per week - More fat gain and worse acne.
 
-Since skin inflammation - be it a rash, [rosacea](/2011/04/be-your-own-dermatologist/) or acne - is an external sign there might be an internal stressor, I'm thinking my sweet spot for ice cream might be 2 pints a week with an occasional week with 3 pints. The plan all along was to push the ice cream all summer long and then scale down in the winter. ![](./img/mas-molly-moons-ice-cream.jpg "MAS at Molly Moon's Ice Cream") _My favorite ice cream is Salted Caramel from Molly Moon's of Seattle._  My experiment showed me that I don't need to deprive myself of ice cream. The reason I can eat more ice cream than most and remain lean is that I don't eat the cone. I avoid all gluten sources and even minimize exposure to all other grains with the exception of white rice. So when it comes time to have cake and ice cream, you can have my cake, because I'll be doubling down on the ice cream. :)
+Since skin inflammation - be it a rash, [rosacea](/2011/04/be-your-own-dermatologist/) or acne - is an external sign there might be an internal stressor, I'm thinking my sweet spot for ice cream might be 2 pints a week with an occasional week with 3 pints. The plan all along was to push the ice cream all summer long and then scale down in the winter.
+
+![](./img/mas-molly-moons-ice-cream.jpg "MAS at Molly Moon's Ice Cream")
+
+_My favorite ice cream is Salted Caramel from Molly Moon's of Seattle._ 
+
+My experiment showed me that I don't need to deprive myself of ice cream. The reason I can eat more ice cream than most and remain lean is that I don't eat the cone. I avoid all gluten sources and even minimize exposure to all other grains with the exception of white rice. So when it comes time to have cake and ice cream, you can have my cake, because I'll be doubling down on the ice cream. :)
 
 ---
 

@@ -14,7 +14,11 @@ I have 3 short fitness stories for you today.
 ### Army Basic Training (1987)
 
 
-When I got off the bus at Fort Benning, Georgia, after some yelling, the drill sergeants told us that we would all gain muscle. Then they looked at a young recruit from American Samoa. He was jacked. Imagine a young version of The Rock. The drill sergeant amended his sentence and said "Except you. You'll probably lose some muscle." When it came time to take the PT test, there was a problem. He had so much muscle that when he tried to make his upper arms parallel to the ground, his chest would touch the ground, which meant it wasn't an Army-valid push-up. The testers solved this problem by digging a little trench so that he could do push-ups over it. This allowed him to go low enough without his chest touching the ground. After the first rep, he asked if he was good. The grader said yes and proceeded to get a perfect score without breaking a sweat.
+When I got off the bus at Fort Benning, Georgia, after some yelling, the drill sergeants told us that we would all gain muscle. Then they looked at a young recruit from American Samoa. He was jacked. Imagine a young version of The Rock. The drill sergeant amended his sentence and said "Except you. You'll probably lose some muscle."
+
+When it came time to take the PT test, there was a problem. He had so much muscle that when he tried to make his upper arms parallel to the ground, his chest would touch the ground, which meant it wasn't an Army-valid push-up.
+
+The testers solved this problem by digging a little trench so that he could do push-ups over it. This allowed him to go low enough without his chest touching the ground. After the first rep, he asked if he was good. The grader said yes and proceeded to get a perfect score without breaking a sweat.
 
 
 ### Smoking and Running (1995, 2022)
@@ -22,9 +26,15 @@ When I got off the bus at Fort Benning, Georgia, after some yelling, the drill s
 
 One of my favorite stories on this blog has to be [The Legend of Marlboro Marc](/2012/03/the-legend-of-marlboro-marc/). The post is a decade old, but the story goes back to 1995. Please read the entire post if you have the time. Here is the short version:
 
-> Marc decided to mix his two hobbies. He would run and smoke at the same time. And this wasn’t a cold Ohio morning, this was during the mid-afternoon heat in South Florida. He would jog and smoke through South St. Pete while getting incredulous looks from neighbors. During one run, Marc came up with a brilliant idea. **He would run an entire marathon chain smoking cigarettes.** To make it worth his effort he would seek out sponsorship.
+> Marc decided to mix his two hobbies. He would run and smoke at the same time. And this wasn’t a cold Ohio morning, this was during the mid-afternoon heat in South Florida. He would jog and smoke through South St. Pete while getting incredulous looks from neighbors. During one run, Marc came up with a brilliant idea. **He would run an entire marathon chain smoking cigarettes.**
+> 
+> To make it worth his effort he would seek out sponsorship.
 
-That story is real, but also incredibly unbelievable. Until this week. ![](./img/marathon-smoker.jpg) From [Chinese Marathoner Smokes Opponents With 3.5-Hour Time ... While Rippin' Darts!!!](https://www.tmz.com/2022/11/14/chain-smoking-chinese-man-runs-marathon-3-5-hours/) 
+That story is real, but also incredibly unbelievable. Until this week.
+
+![](./img/marathon-smoker.jpg)
+
+From [Chinese Marathoner Smokes Opponents With 3.5-Hour Time ... While Rippin' Darts!!!](https://www.tmz.com/2022/11/14/chain-smoking-chinese-man-runs-marathon-3-5-hours/) 
 
 > Chen -- who crossed the finish line with an impressive 3:28 time -- finished 574th overall out of nearly 1500 runners who competed ... despite taking heaters to the face throughout the race.
 
@@ -34,7 +44,15 @@ I don't recall Marlboro Marc's exact marathon time. I do remember my 2 times (3:
 ### My Brief Chat With Pavel (2004)
 
 
-In 2004, I met Pavel Tsatsouline at the Arnold Expo in Columbus, Ohio. I had a few of his books. ![](./img/mas-Pavel.jpg) I mentioned to him that it would be nice to have posters of the exercises he used in his two stretching books. I told him how I had to photocopy all the pages, cut them out, and then assemble them on a poster to display in my home gym because flipping the pages and holding the books in place was annoying. He liked the idea and said other people had the same suggestion. To my knowledge, no posters were ever produced. This was before YouTube and smartphones. If I were chatting with Pavel today, I'd suggest a mobile app called Pocket Pavel. All the workouts from all his books. Pin the workouts you are interested in doing. Launch quick instructional videos for each movement. Built-in timers. Save workouts. Review history. Wouldn't that be nice?
+In 2004, I met Pavel Tsatsouline at the Arnold Expo in Columbus, Ohio. I had a few of his books.
+
+![](./img/mas-Pavel.jpg)
+
+I mentioned to him that it would be nice to have posters of the exercises he used in his two stretching books. I told him how I had to photocopy all the pages, cut them out, and then assemble them on a poster to display in my home gym because flipping the pages and holding the books in place was annoying.
+
+He liked the idea and said other people had the same suggestion. To my knowledge, no posters were ever produced.
+
+This was before YouTube and smartphones. If I were chatting with Pavel today, I'd suggest a mobile app called Pocket Pavel. All the workouts from all his books. Pin the workouts you are interested in doing. Launch quick instructional videos for each movement. Built-in timers. Save workouts. Review history. Wouldn't that be nice?
 
 ---
 

@@ -9,7 +9,17 @@ description: "I'm still on my caffeine-free plus coffee-free experiment. This is
 commentCount: 29
 ---
 
-I'm still on my [caffeine-free plus coffee-free experiment](/2012/10/a-month-without-coffee-here-goes/). This is Day 21 without coffee and Day 15 without caffeine. My goal was to go 15 days without caffeine. I'll hit that milestone in a few hours, but I'm planning on extending this test. I'm still experiencing symptoms, which tells me that my body is still healing. This month my mood has been terrible. Things are slowly getting better though. Prior to the experiment, I was consuming 3 or 4 espressos a day plus a few mugs of tea. These beverages were all high quality and tasty. I would spread out my enjoyment of these drinks from morning to early afternoon. Last week a thought came to me that these experiences were little _pockets of joy_. No matter how I was feeling at the moment, I could always rely on caffeine to improve my mood. ![](./img/low-mood.jpg) _[Photo](http://www.flickr.com/photos/kalexanderson/5421517469/in/photostream/) by Kristina Alexanderson_ Going caffeine-free has removed all these _pockets of joy_. Turns out I am not a happy camper. In addition to having a great love for coffee and tea, I now can see that my habit was also my unconscious way of dealing with feeling down. The fact that coffee can improve mood is well known. My concern now is that my addiction to coffee has kept me from addressing the root causes of my low mood. Maybe I'm overthinking this, but I continue to wake up most mornings between 3 AM - 4 AM unable to return to sleep. The energy surges and amazing recoveries that others have experienced after going caffeine-free has not happened to me yet. The experiment continues.
+I'm still on my [caffeine-free plus coffee-free experiment](/2012/10/a-month-without-coffee-here-goes/). This is Day 21 without coffee and Day 15 without caffeine. My goal was to go 15 days without caffeine. I'll hit that milestone in a few hours, but I'm planning on extending this test. I'm still experiencing symptoms, which tells me that my body is still healing.
+
+This month my mood has been terrible. Things are slowly getting better though. Prior to the experiment, I was consuming 3 or 4 espressos a day plus a few mugs of tea. These beverages were all high quality and tasty. I would spread out my enjoyment of these drinks from morning to early afternoon. Last week a thought came to me that these experiences were little _pockets of joy_. No matter how I was feeling at the moment, I could always rely on caffeine to improve my mood.
+
+![](./img/low-mood.jpg)
+
+_[Photo](http://www.flickr.com/photos/kalexanderson/5421517469/in/photostream/) by Kristina Alexanderson_
+
+Going caffeine-free has removed all these _pockets of joy_. Turns out I am not a happy camper. In addition to having a great love for coffee and tea, I now can see that my habit was also my unconscious way of dealing with feeling down. The fact that coffee can improve mood is well known. My concern now is that my addiction to coffee has kept me from addressing the root causes of my low mood.
+
+Maybe I'm overthinking this, but I continue to wake up most mornings between 3 AM - 4 AM unable to return to sleep. The energy surges and amazing recoveries that others have experienced after going caffeine-free has not happened to me yet. The experiment continues.
 
 ---
 

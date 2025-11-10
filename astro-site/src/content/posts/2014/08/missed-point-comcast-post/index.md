@@ -9,19 +9,35 @@ description: "Lifehacker recently featured my How to Deal With Comcast post. Al
 commentCount: 10
 ---
 
-Lifehacker recently [featured](http://lifehacker.com/the-best-way-to-deal-with-comcast-customer-service-ma-1614689531) my [How to Deal With Comcast](/2013/01/how-to-deal-with-comcast/) post. Although they walked away with the best path for getting your issue resolved, which I believe is going to Comcast in person, they failed to explain why it works. I didn't read all the comments, but I read enough there, on this blog and elsewhere to know many missed the point. **The purpose of the post was about reframing the relationship between the customer and the customer service person as one based upon respect.** It is not about what you are owed. It is about getting better customer service than other customers because your interaction with the customer service representative acknowledges that they are first and foremost a potential ally. The reason I go to Comcast in person is so I can smile and greet the customer service representative with dignity. It easier for me to empathize with them and them with me if we see each other face to face. We are less connected on the phone and even less via chat. The strength of our connection increases the chance of a positive resolution. For a moment set aside your frustrations with the corporation, be it Comcast or some other business. You may have been wronged and it may be obvious. When you interact with that customer service rep, they may have just been demeaned by another customer or the last ten customers. Show them respect. Get them on your side.
+Lifehacker recently [featured](http://lifehacker.com/the-best-way-to-deal-with-comcast-customer-service-ma-1614689531) my [How to Deal With Comcast](/2013/01/how-to-deal-with-comcast/) post. Although they walked away with the best path for getting your issue resolved, which I believe is going to Comcast in person, they failed to explain why it works. I didn't read all the comments, but I read enough there, on this blog and elsewhere to know many missed the point.
+
+**The purpose of the post was about reframing the relationship between the customer and the customer service person as one based upon respect.** It is not about what you are owed. It is about getting better customer service than other customers because your interaction with the customer service representative acknowledges that they are first and foremost a potential ally.
+
+The reason I go to Comcast in person is so I can smile and greet the customer service representative with dignity. It easier for me to empathize with them and them with me if we see each other face to face. We are less connected on the phone and even less via chat. The strength of our connection increases the chance of a positive resolution.
+
+For a moment set aside your frustrations with the corporation, be it Comcast or some other business. You may have been wronged and it may be obvious. When you interact with that customer service rep, they may have just been demeaned by another customer or the last ten customers. Show them respect. Get them on your side.
 
 
 ### Good Service, Bad Service?
 
 
-As consumers, we like to label places as having good or bad service. I used to do the same thing. It is not a fair label. A place that is known for bad service probably doesn't give bad service to every customer and a place known for good service isn't likely to give good service 100% of the time. So it isn't good versus bad, it is a probability. Our goal should be to increase our odds of receiving good service. The area that I have the most experience in customer interactions is coffee shops. My goal is to get an excellent shot of espresso when I visit a cafe. My article on INeedCoffee titled [Espresso as a Lottery Ticket](https://ineedcoffee.com/espresso-as-a-lottery-ticket/) has a section called _Validate Yourself With the Barista_. It covers ideas that I have implemented to get better espresso. The core lesson is the same as dealing with Comcast. Start by showing respect for them and the job they do. You don't know how many surly customers they may have interacted with before you arrived. Respect reframes their attention in a positive direction. ![barista](./img/5357939173_9502f88989_z.jpg) _[Photo](https://flic.kr/p/9asQDB) by Matt Biddulph_
+As consumers, we like to label places as having good or bad service. I used to do the same thing. It is not a fair label. A place that is known for bad service probably doesn't give bad service to every customer and a place known for good service isn't likely to give good service 100% of the time. So it isn't good versus bad, it is a probability. Our goal should be to increase our odds of receiving good service.
+
+The area that I have the most experience in customer interactions is coffee shops. My goal is to get an excellent shot of espresso when I visit a cafe. My article on INeedCoffee titled [Espresso as a Lottery Ticket](https://ineedcoffee.com/espresso-as-a-lottery-ticket/) has a section called _Validate Yourself With the Barista_. It covers ideas that I have implemented to get better espresso. The core lesson is the same as dealing with Comcast. Start by showing respect for them and the job they do. You don't know how many surly customers they may have interacted with before you arrived. Respect reframes their attention in a positive direction.
+
+![barista](./img/5357939173_9502f88989_z.jpg)
+
+_[Photo](https://flic.kr/p/9asQDB) by Matt Biddulph_
 
 
 ### But the Customer is Always Right!
 
 
-Some of my critics will say that they shouldn't have to do any of this. They are right. The business will meet their demands or they will take their money elsewhere. Good for you. Do it your way. Be upset. Take out your frustrations on the customer service rep and then when you are done doing that, ask for a manager. Write an angry letter. Get on Yelp and give them hell. And if you are still fired up, call your attorney. That isn't for me. I want our interaction to be win-win. I want both of us to be in a better place at the end of the interaction. Not only do I want my issue resolved, but I want the customer service rep to know they were able to provide good service to an appreciative customer. And to the Comcast haters, let me tell you how my way worked. For 3.5 years I got so many discounts that I never paid the full price for my broadband service for more than a month. And when I am at coffee shops, I frequently get free espressos and even t-shirts.
+Some of my critics will say that they shouldn't have to do any of this. They are right. The business will meet their demands or they will take their money elsewhere. Good for you. Do it your way. Be upset. Take out your frustrations on the customer service rep and then when you are done doing that, ask for a manager. Write an angry letter. Get on Yelp and give them hell. And if you are still fired up, call your attorney.
+
+That isn't for me. I want our interaction to be win-win. I want both of us to be in a better place at the end of the interaction. Not only do I want my issue resolved, but I want the customer service rep to know they were able to provide good service to an appreciative customer.
+
+And to the Comcast haters, let me tell you how my way worked. For 3.5 years I got so many discounts that I never paid the full price for my broadband service for more than a month. And when I am at coffee shops, I frequently get free espressos and even t-shirts.
 
 
 ### Getting More

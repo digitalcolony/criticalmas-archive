@@ -9,7 +9,11 @@ description: "This book set a record for the longest I have ever had to wait for
 commentCount: 2
 ---
 
-This book set a record for the longest I have ever had to wait for an _on-hold_ item at the Seattle Library. Was the 4.5 months wait worth it? ![Hungry Monkey: A Food-Loving Father's Quest to Raise an Adventurous Eater](https://images-na.ssl-images-amazon.com/images/I/41d5wpl-jvL.jpg) _Hungry Monkey: A Food-Loving Father's Quest to Raise an Adventurous Eater by Matthew Amster-Burton_ is about a dad that is able to work from home and cook for his daughter Iris. This book covers their adventures in cooking and shopping for food, from her birth to about 4 years old. I liked this book a lot. It takes place in Seattle and the writing had me laughing out loud several times. Throughout the book, there are recipes that are appended to the stories. I will try a few, but most are a little too carbohydrate centric for me. Then again, I am a [special case](/2009/12/physique-hacking/). Most children would be far better off eating the recipes in this book. The author embraces lard, whole-fat dairy, farmers' markets, and spicy Asian cooking. Excellent. In the Stew section, the author defends fat with this funny and true line.
+This book set a record for the longest I have ever had to wait for an _on-hold_ item at the Seattle Library. Was the 4.5 months wait worth it?
+
+![Hungry Monkey: A Food-Loving Father's Quest to Raise an Adventurous Eater](https://images-na.ssl-images-amazon.com/images/I/41d5wpl-jvL.jpg) _Hungry Monkey: A Food-Loving Father's Quest to Raise an Adventurous Eater by Matthew Amster-Burton_ is about a dad that is able to work from home and cook for his daughter Iris. This book covers their adventures in cooking and shopping for food, from her birth to about 4 years old. I liked this book a lot. It takes place in Seattle and the writing had me laughing out loud several times.
+
+Throughout the book, there are recipes that are appended to the stories. I will try a few, but most are a little too carbohydrate centric for me. Then again, I am a [special case](/2009/12/physique-hacking/). Most children would be far better off eating the recipes in this book. The author embraces lard, whole-fat dairy, farmers' markets, and spicy Asian cooking. Excellent. In the Stew section, the author defends fat with this funny and true line.
 
 > Still, admit that you cook with lard and people will react like you keep a loaded gun in your kid's room.
 

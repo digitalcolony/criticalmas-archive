@@ -9,7 +9,13 @@ description: "The last book I read was a little too tough to follow at times, so
 commentCount: 2
 ---
 
-The [last book](/2009/03/evolving-health-calling-doctor-caveman/) I read was a little too tough to follow at times, so I backed it off a bit and read a book that covered the basics of hormones and metabolism. ![Hormonal Balance: Understanding Hormones, Weight, and Your Metabolism](https://images-na.ssl-images-amazon.com/images/I/51sxazhwg3L.jpg) _Hormonal Balance: Understanding Hormones, Weight, and Your Metabolism by Scott Isaacs_ was exactly the book that I needed. It helped me understand the role of hormones and fat loss. It isn't a great book, but the foundation will be helpful when I do read more scientific articles. If you are overweight and need a book that explains the role of hormones, this is the book for you. UPDATE (3/26/2009): Drat. Looks like I read the 2002 edition. There is an updated 2006 edition.
+The [last book](/2009/03/evolving-health-calling-doctor-caveman/) I read was a little too tough to follow at times, so I backed it off a bit and read a book that covered the basics of hormones and metabolism.
+
+![Hormonal Balance: Understanding Hormones, Weight, and Your Metabolism](https://images-na.ssl-images-amazon.com/images/I/51sxazhwg3L.jpg) _Hormonal Balance: Understanding Hormones, Weight, and Your Metabolism by Scott Isaacs_ was exactly the book that I needed. It helped me understand the role of hormones and fat loss. It isn't a great book, but the foundation will be helpful when I do read more scientific articles.
+
+If you are overweight and need a book that explains the role of hormones, this is the book for you.
+
+UPDATE (3/26/2009): Drat. Looks like I read the 2002 edition. There is an updated 2006 edition.
 
 ---
 

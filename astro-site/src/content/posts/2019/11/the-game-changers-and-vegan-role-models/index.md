@@ -14,13 +14,33 @@ Before I start this post, I will disclose that I am not a vegan, but unlike the 
 ### Before YouTube and The Game Changers
 
 
-When The Game Changers came out, I was already receptive to a pro-vegan case that spoke directly to athletes, because I had started watching many great vegan role models on YouTube. Until this year, with the exception of light-weight endurance athletes, I was unaware of muscular athletic male vegans. This point is important because **if you go your entire life without seeing evidence that one can follow a whole-foods plant-based diet at an elite level, you don't believe it is possible**. And that was my case and I'm guessing the case with many other fitness enthusiasts. Prior to this year, my biased beliefs against a vegan diet came from the fact that every man that I had met that self-identified as a vegan looked weak and malnourished. In hindsight, I can now clearly see that these vegans were motivated either by ethical reasons or they were coming to a vegan diet because they were trying to solve a health issue. Restrictive eating of any type can result in a malnourished look. I loved the movie The Game Changers because it demonstrated clearly that one could achieve a high level of athletic performance on a vegan diet. I knew one could be a 100-pound marathoner on a vegan diet, but seeing boxers, powerlifters, and bodybuilders succeed was powerful. ![Game Changers film](./img/Game-Changers-film.jpg)
+When The Game Changers came out, I was already receptive to a pro-vegan case that spoke directly to athletes, because I had started watching many great vegan role models on YouTube.
+
+Until this year, with the exception of light-weight endurance athletes, I was unaware of muscular athletic male vegans. This point is important because **if you go your entire life without seeing evidence that one can follow a whole-foods plant-based diet at an elite level, you don't believe it is possible**. And that was my case and I'm guessing the case with many other fitness enthusiasts.
+
+Prior to this year, my biased beliefs against a vegan diet came from the fact that every man that I had met that self-identified as a vegan looked weak and malnourished. In hindsight, I can now clearly see that these vegans were motivated either by ethical reasons or they were coming to a vegan diet because they were trying to solve a health issue. Restrictive eating of any type can result in a malnourished look.
+
+I loved the movie The Game Changers because it demonstrated clearly that one could achieve a high level of athletic performance on a vegan diet. I knew one could be a 100-pound marathoner on a vegan diet, but seeing boxers, powerlifters, and bodybuilders succeed was powerful.
+
+![Game Changers film](./img/Game-Changers-film.jpg)
 
 
 ### Debunking the Debunking of the Debunking
 
 
-After watching The Game Changers, I also read and watched many of the debunking articles and videos. Then I followed the debunking of those debunkings. I went deep on this. There were some good, bad, and outright dishonest rebuttals. Layne Norton, who has a damn good-looking website, wrote [The Game Changers Review – A Scientific Analysis (Updated)](https://www.biolayne.com/articles/research/the-game-changers-review-a-scientific-analysis/). Then Garth Davis, MD, who has a terrible-looking website, wrote [Response To Layne Norton’s Review of the Game Changers](http://proteinaholic.com/response-to-layne-nortons-review-of-the-game-changers/). You pick the winner. I found Davis, despite having an ugly website, to be more persuasive. Also check out [Mic the Vegan's YouTube response to Chris Kresser's rebuttal](https://www.youtube.com/watch?v=_Se9H1Hk8K0). Here is my take away. Many in the low-carb, keto and paleo fitness communities are experiencing massive cognitive dissonance. The bedrock belief that one must eat meat and or dairy to be strong, elite and cut has been shattered. For many, this is the first time they will have been exposed to the idea that they had a gap in their knowledge of nutrition. They could respond positively - like I did - and celebrate the fact we as fitness enthusiasts have another dietary path we can use to achieve great physiques. Or they could double-down on their prior beliefs by seeking out comforting words from a debunker in their nutritional tribe. Often their nutritional tribe leader is profiting from the myth that The Game Changers demolished. Yes, I said demolished. Remember, the movie wasn't making the case that a vegan diet was better. It may have been implied at times, but the larger point was these vegan athletes showed us what many in the Paleo and related communities said wasn't possible. If you think I am making that up, here is one example. From the Paleo Solution by Robb Wolf, which is a book I purchased back in 2010 in my early Paleo days.
+After watching The Game Changers, I also read and watched many of the debunking articles and videos. Then I followed the debunking of those debunkings. I went deep on this.
+
+There were some good, bad, and outright dishonest rebuttals. Layne Norton, who has a damn good-looking website, wrote [The Game Changers Review – A Scientific Analysis (Updated)](https://www.biolayne.com/articles/research/the-game-changers-review-a-scientific-analysis/). Then Garth Davis, MD, who has a terrible-looking website, wrote [Response To Layne Norton’s Review of the Game Changers](http://proteinaholic.com/response-to-layne-nortons-review-of-the-game-changers/). You pick the winner. I found Davis, despite having an ugly website, to be more persuasive. Also check out [Mic the Vegan's YouTube response to Chris Kresser's rebuttal](https://www.youtube.com/watch?v=_Se9H1Hk8K0).
+
+Here is my take away.
+
+Many in the low-carb, keto and paleo fitness communities are experiencing massive cognitive dissonance. The bedrock belief that one must eat meat and or dairy to be strong, elite and cut has been shattered. For many, this is the first time they will have been exposed to the idea that they had a gap in their knowledge of nutrition.
+
+They could respond positively - like I did - and celebrate the fact we as fitness enthusiasts have another dietary path we can use to achieve great physiques. Or they could double-down on their prior beliefs by seeking out comforting words from a debunker in their nutritional tribe. Often their nutritional tribe leader is profiting from the myth that The Game Changers demolished.
+
+Yes, I said demolished. Remember, the movie wasn't making the case that a vegan diet was better. It may have been implied at times, but the larger point was these vegan athletes showed us what many in the Paleo and related communities said wasn't possible.
+
+If you think I am making that up, here is one example. From the Paleo Solution by Robb Wolf, which is a book I purchased back in 2010 in my early Paleo days.
 
 > Some well-intentioned but misguided souls will tell you that you can get protein from beans and rice, nuts and seeds. That's true, but these are what I would call "third-world proteins." They will keep you alive, but they will not make you thrive.
 
@@ -30,7 +50,11 @@ Those athletes in The Game Changers looked like they were thriving to me.
 ### How I'm Proceeding
 
 
-Whole-food plant-based vegans often make the claim that their diet is less inflammatory, which should result in faster recovery. Faster recovery is the number one thing I have been interested in for years now. I also now know that I won't lose muscle by shifting to "third-world" plant proteins, so **I am free to test a more vegan-based diet out for myself**. And I have been. Since spring, I have cut out 90% of my dairy and red meat consumption. I have reduced my chicken and egg consumption by about 50%. I'm still eating the same amount of seafood. I've increased my legume, tuber, and whole-grain consumption (all gluten-free now). What has been the result? I've lost no muscle and I've never been leaner. My recovery times are better. Plus my energy level is higher, although most of that came from [reducing my coffee intake](/2019/10/dear-future-tired-self/). I'll continue my test because it appears to be working.
+Whole-food plant-based vegans often make the claim that their diet is less inflammatory, which should result in faster recovery. Faster recovery is the number one thing I have been interested in for years now. I also now know that I won't lose muscle by shifting to "third-world" plant proteins, so **I am free to test a more vegan-based diet out for myself**.
+
+And I have been. Since spring, I have cut out 90% of my dairy and red meat consumption. I have reduced my chicken and egg consumption by about 50%. I'm still eating the same amount of seafood. I've increased my legume, tuber, and whole-grain consumption (all gluten-free now).
+
+What has been the result? I've lost no muscle and I've never been leaner. My recovery times are better. Plus my energy level is higher, although most of that came from [reducing my coffee intake](/2019/10/dear-future-tired-self/). I'll continue my test because it appears to be working.
 
 
 ### Last Words

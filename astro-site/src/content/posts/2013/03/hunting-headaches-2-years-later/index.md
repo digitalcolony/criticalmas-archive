@@ -9,13 +9,29 @@ description: "Two years ago I began tracking headache data. Fresh off of other h
 commentCount: 6
 ---
 
-Two years ago I began tracking headache data. Fresh off of other health victories such as getting lean, [curing my rosacea](/2011/04/be-your-own-dermatologist/) and [ending back pain](/2011/02/the-psychology-of-back-pain/), I was confident that with enough data and experimentation I could eliminate or greatly reduce my night headaches. I never thought this experiment would go on for two years. The good news is I've eliminated so many suspects. The bad news is I haven't won this battle and it appears that the one variable that I've found is most correlated with the headaches is my good friend coffee. When I dropped my caffeine levels super low in October, my headache levels dropped to an all-time low. Since then I've been gradually increasing my coffee levels with a plan to cut back again once the sun arrives to Seattle. The reintroduction of higher coffee levels would also provide more points of data. I'm not a statistical guru, but this pattern seems clear. \[table id=29 /\] As the average coffee level increases, so does the average daily headache intensity. [![headache-coffee](./img/headache-coffee.png)](./img/headache-coffee.png) This chart shows 2 years' worth of data. In three cases when my average coffee intake spiked, my average headache intensity increased. And the two cases where I drastically cut back on coffee, my average headache intensity noticeably dropped. Now before someone says [correlation does not imply causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation), this is all I have to work with. Weather patterns, food restriction, or taking a battery of nutritional supplements showed zero correlation.
+Two years ago I began tracking headache data. Fresh off of other health victories such as getting lean, [curing my rosacea](/2011/04/be-your-own-dermatologist/) and [ending back pain](/2011/02/the-psychology-of-back-pain/), I was confident that with enough data and experimentation I could eliminate or greatly reduce my night headaches.
+
+I never thought this experiment would go on for two years.
+
+The good news is I've eliminated so many suspects. The bad news is I haven't won this battle and it appears that the one variable that I've found is most correlated with the headaches is my good friend coffee.
+
+When I dropped my caffeine levels super low in October, my headache levels dropped to an all-time low. Since then I've been gradually increasing my coffee levels with a plan to cut back again once the sun arrives to Seattle. The reintroduction of higher coffee levels would also provide more points of data. I'm not a statistical guru, but this pattern seems clear.
+
+\[table id=29 /\]
+
+As the average coffee level increases, so does the average daily headache intensity.
+
+[![headache-coffee](./img/headache-coffee.png)](./img/headache-coffee.png)
+
+This chart shows 2 years' worth of data. In three cases when my average coffee intake spiked, my average headache intensity increased. And the two cases where I drastically cut back on coffee, my average headache intensity noticeably dropped. Now before someone says [correlation does not imply causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation), this is all I have to work with. Weather patterns, food restriction, or taking a battery of nutritional supplements showed zero correlation.
 
 
 ### Espresso Endgame
 
 
-Why did I increase my coffee levels so much recently? The primary reason is that I pulled my espresso machine out of storage and placed it back on the kitchen counter. Espresso has less caffeine than brewed coffee but is far more addicting. When you nail a perfect espresso shot, it provides a flavor stimulus that brewed coffee can't even come close to hitting. As my flavor stimulus increased, so did my consumption level. When I did the detox, I intentionally used a flavor deconditioning strategy which I described in the article [A Month Without Coffee](https://ineedcoffee.com/a-month-without-coffee/). This sucks, but I'm now convinced I need to sell my espresso machine. I'll save my espresso drinking for the cafes. Let us hope that is enough. If not, I may have to move away from Seattle. My guess is having an espresso addiction in Seattle is like having a gambling addiction in Vegas.
+Why did I increase my coffee levels so much recently? The primary reason is that I pulled my espresso machine out of storage and placed it back on the kitchen counter. Espresso has less caffeine than brewed coffee but is far more addicting. When you nail a perfect espresso shot, it provides a flavor stimulus that brewed coffee can't even come close to hitting. As my flavor stimulus increased, so did my consumption level. When I did the detox, I intentionally used a flavor deconditioning strategy which I described in the article [A Month Without Coffee](https://ineedcoffee.com/a-month-without-coffee/).
+
+This sucks, but I'm now convinced I need to sell my espresso machine. I'll save my espresso drinking for the cafes. Let us hope that is enough. If not, I may have to move away from Seattle. My guess is having an espresso addiction in Seattle is like having a gambling addiction in Vegas.
 
 ---
 

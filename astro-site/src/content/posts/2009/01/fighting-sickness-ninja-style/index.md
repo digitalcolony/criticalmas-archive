@@ -9,7 +9,9 @@ description: "During Thanksgiving, ThanksMAS and the Seattle Snowpocalypse, I wa
 commentCount: 4
 ---
 
-During Thanksgiving, ThanksMAS and the _Seattle Snowpocalypse_, I was exposed to sick people. On each of the three occasions, I started to develop slight symptoms the next day. Instead of surrendering to the sickness or running off to the drugstore to buy some potion that suppresses symptoms, I decided to fight back. From my 8 Tips For Avoiding Sickness, I focused on these three.
+During Thanksgiving, ThanksMAS and the _Seattle Snowpocalypse_, I was exposed to sick people. On each of the three occasions, I started to develop slight symptoms the next day. Instead of surrendering to the sickness or running off to the drugstore to buy some potion that suppresses symptoms, I decided to fight back.
+
+From my 8 Tips For Avoiding Sickness, I focused on these three.
 
 1.  **8 Hours of Sleep MINIMUM.** If I could sleep for 9 Hours, I would. The 4th REM cycle between hour 7 and 8 is the largest and is anti-viral.
 2.  **Garlic, Onion and Peppers.** Put down the Tylenol and pick up your chopping board. A stir-fry loaded with garlic, onions and peppers is antimicrobial, antiviral and antiparasitic. Cold medicines aren't.

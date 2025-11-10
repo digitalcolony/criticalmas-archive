@@ -9,11 +9,21 @@ description: "I recently listened to a podcast where the guest talked about the 
 commentCount: 3
 ---
 
-I recently listened to a podcast where the guest talked about the medical benefits one gets from donating blood. Men can get iron heavy blood, which is an oxidative stress. By donating blood on a regular basis, you force the body to create new blood, which won't have the metallic load. From the article The Incredible Health Benefits of Donating Blood by Kristie Leong M.D.:
+I recently listened to a podcast where the guest talked about the medical benefits one gets from donating blood. Men can get iron heavy blood, which is an oxidative stress. By donating blood on a regular basis, you force the body to create new blood, which won't have the metallic load.
+
+From the article The Incredible Health Benefits of Donating Blood by Kristie Leong M.D.:
 
 > Studies have shown that, in general, Americans tend to consume more iron on a daily basis than is necessary for good health. **Ingestion of quantities of iron beyond a certain quantity can promote formation of free radicals in the body.** Free radicals have justly earned their reputation for causing cellular changes which can disrupt normal cell function and increase the risk of certain chronic diseases such as heart disease and cancer. This is more likely to be a problem for men and post menopausal women since women of child bearing age shed excess iron through regular menstrual cycles. If a person happens to be a red meat eater, the risk for iron overload can be even higher.
 
-_Yahoo! has taken down the article, I'm glad I got the quote._  After learning about this, I raced out to donate blood. However, for the first time, my blood was rejected. It turns out that my visit to [Cambodia](/2009/12/a-holiday-in-cambodia/) last winter means my blood is at risk for malaria for up to 12 months. Come December, I intend to get back into the habit of donating blood regularly. Either that or I'll take a trip to another country with a high risk of malaria. ;) ![blood donor](./img/2562431372_90e471dfe4_z.jpg)   _[Photo](https://flic.kr/p/4Ur8zf) by makelessnoise_ **JULY 2015 UPDATE:** Since this post, I have donated more than 3 gallons of blood.
+_Yahoo! has taken down the article, I'm glad I got the quote._ 
+
+After learning about this, I raced out to donate blood. However, for the first time, my blood was rejected. It turns out that my visit to [Cambodia](/2009/12/a-holiday-in-cambodia/) last winter means my blood is at risk for malaria for up to 12 months. Come December, I intend to get back into the habit of donating blood regularly. Either that or I'll take a trip to another country with a high risk of malaria. ;)
+
+![blood donor](./img/2562431372_90e471dfe4_z.jpg)
+
+_[Photo](https://flic.kr/p/4Ur8zf) by makelessnoise_
+
+**JULY 2015 UPDATE:** Since this post, I have donated more than 3 gallons of blood.
 
 ---
 

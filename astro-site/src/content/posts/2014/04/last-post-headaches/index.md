@@ -23,13 +23,23 @@ Stress is likely the cause of the headaches. Posting about headaches is stressfu
 ### Perception of Pain
 
 
-Right now I am reading the book _Scattered: How Attention Deficit Disorder Originates and What You Can Do About It by Gabor Mate M.D_. If that name sounds familiar it is because he also wrote the book [The Stress Disease Connection](/2012/12/the-stress-disease-connection/), which I blogged about in December 2012. In _Scattered_ there is a passage describing how we perceive pain varies depending upon the environment. In situations where you aren't alone, pain can be more intense. The book uses the example of a skier who breaks her leg. If the break happens when the person is with someone the pain will likely be higher than if the person is alone. If the hiker is alone, the risk of freezing to death could dampen the pain enough to mobilize the skier to move. Although my headaches were never an emergency situation, the passage stuck with me. This blog and the data I exposed publicly via Quantified Self created a situation where I was never alone with my pain. Daily quantification of pain makes one hyper-focused on pain. Only when I stopped Quantified Self, stopped blogging about headaches, and stopped talking about headaches did the pain go away. ![otter](./img/otter.jpg) _Chilling_
+Right now I am reading the book _Scattered: How Attention Deficit Disorder Originates and What You Can Do About It by Gabor Mate M.D_. If that name sounds familiar it is because he also wrote the book [The Stress Disease Connection](/2012/12/the-stress-disease-connection/), which I blogged about in December 2012.
+
+In _Scattered_ there is a passage describing how we perceive pain varies depending upon the environment. In situations where you aren't alone, pain can be more intense. The book uses the example of a skier who breaks her leg. If the break happens when the person is with someone the pain will likely be higher than if the person is alone. If the hiker is alone, the risk of freezing to death could dampen the pain enough to mobilize the skier to move.
+
+Although my headaches were never an emergency situation, the passage stuck with me. This blog and the data I exposed publicly via Quantified Self created a situation where I was never alone with my pain. Daily quantification of pain makes one hyper-focused on pain. Only when I stopped Quantified Self, stopped blogging about headaches, and stopped talking about headaches did the pain go away.
+
+![otter](./img/otter.jpg)
+
+_Chilling_
 
 
 ### Stress As a Cause or a Symptom?
 
 
-I hesitate to say that stress was the absolute cause of the headaches. I don't know, nor do I think I ever will. And that is OK. I do know the headaches were unrelated to diet and weather. Focusing on reducing stress and improving my response to stress is the way forward and that can't be quantified. So this is the last post I will be doing on headaches. **I will no longer be responding to any ideas or suggestions related to headaches.** Thank you for following this journey. Maybe you got something of value from it.
+I hesitate to say that stress was the absolute cause of the headaches. I don't know, nor do I think I ever will. And that is OK. I do know the headaches were unrelated to diet and weather. Focusing on reducing stress and improving my response to stress is the way forward and that can't be quantified.
+
+So this is the last post I will be doing on headaches. **I will no longer be responding to any ideas or suggestions related to headaches.** Thank you for following this journey. Maybe you got something of value from it.
 
 ---
 

@@ -9,17 +9,39 @@ description: "The latest trend I've been following with interest is the push for
 commentCount: 10
 ---
 
-The latest trend I've been following with interest is the push for higher protein levels and the growing rejection of intermittent fasting. The lead character in this chapter on nutrition is Dr. Peter Attia, who just published a longevity book titled Outlive, which I just finished reading. Attia was a huge proponent of fasting for many years for benefits including longevity. When protein is restricted, the body begins a healing process called [autophagy](/2009/04/autophagy-and-loading-trucks-for-ups/). Fasting creates these windows of restricted protein which helps trigger this process. Now Attia believes that the best lever for longevity is exercise and that we need to defend against muscle loss. And to accomplish this we need more protein. Specifically, 2 grams of protein per kilogram of body weight. Getting these higher levels of protein necessitate a wider eating window and fewer hours of fasting. The logic makes sense, but I still have questions. On the [Tim Ferriss Show #661](https://tim.blog/2023/03/17/peter-attia-outlive-transcript/), Attia first described his extreme levels of fasting.
+The latest trend I've been following with interest is the push for higher protein levels and the growing rejection of intermittent fasting. The lead character in this chapter on nutrition is Dr. Peter Attia, who just published a longevity book titled Outlive, which I just finished reading.
+
+Attia was a huge proponent of fasting for many years for benefits including longevity. When protein is restricted, the body begins a healing process called [autophagy](/2009/04/autophagy-and-loading-trucks-for-ups/). Fasting creates these windows of restricted protein which helps trigger this process.
+
+Now Attia believes that the best lever for longevity is exercise and that we need to defend against muscle loss. And to accomplish this we need more protein. Specifically, 2 grams of protein per kilogram of body weight. Getting these higher levels of protein necessitate a wider eating window and fewer hours of fasting.
+
+The logic makes sense, but I still have questions. On the [Tim Ferriss Show #661](https://tim.blog/2023/03/17/peter-attia-outlive-transcript/), Attia first described his extreme levels of fasting.
 
 > I had really kind of taken fasting to a pretty extreme place doing up to 10 days of water only, and routinely just busting out seven-day water-only fasts, certainly doing three days every month would be something I would do without hesitation.
 
-Then he mentioned that according to a DEXA scan after he stopped his extreme fasting and spiked his protein, he gained _"13 or 14 pounds of lean mass in about 12 months"_. 🤔 During both phases, he was highly active and exercised a lot. During the post-fasting, high-protein phase Attia increased his lean mass. My questions and comments:
+Then he mentioned that according to a DEXA scan after he stopped his extreme fasting and spiked his protein, he gained _"13 or 14 pounds of lean mass in about 12 months"_. 🤔
+
+During both phases, he was highly active and exercised a lot. During the post-fasting, high-protein phase Attia increased his lean mass.
+
+My questions and comments:
 
 -   For more than a decade now, I have been reading about how fasting doesn't cause muscle loss. Had that not been true, how could we have gotten this far? Or is the more likely explanation that Attia fasted way too much?
 -   Attia has a very high level of activity. More than even the average fit individual. Would a normal fit person with their activity levels have the same protein needs as Attia? I would say that I'm fitter than 90% of people my age, yet I would guess my exercise volume is probably 10% that of Attia, who is about my age. Would our protein requirements be the same?
 -   Did Attia gain or regain 13 pounds of muscle in his late 40s? Regain for sure. Would Attia have regained the 13 pounds of muscle had he just used a more reasonable level of fasting and protein? I think so. We know lost muscle is the easiest to regain. See my [Tim Ferriss Hoax](/2011/01/how-tim-ferriss-really-gained-34-pounds-of-muscle-in-28-days/) post. Also, the number one thing the body needs to gain muscle is calories, be they protein or whatever, which Attia lacked in his extreme fasting period.
 
-Attia has a long history of bouncing from one extreme to another when it comes to fitness and nutrition. Is protein his latest shiny toy? I don't know. If it were just Attia, I would probably ignore the message and just chalk it up to another post-keto health influencer looking for attention. But I'm seeing more voices promoting protein and rejecting intermittent fasting. I recently watched a 6-minute video by Dr. Brad Stanfield titled [Why Everyone Is Abandoning Intermittent Fasting](https://www.youtube.com/watch?v=q65HcQ7DGTA), which cites the latest research on fasting and protein. The video's conclusion is that intermittent fasting is no better than calorie restriction for weight loss and is a suboptimal dietary approach for maintaining muscle. ![](./img/rodion-kutsaiev-nPEORAok0Vo-unsplash.jpg) _Photo by_ [_Rodion Kutsaiev_](https://unsplash.com/@frostroomhead?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) But what about longevity and autophagy? Attia makes the case in his book that 16 hours without food is not enough to trigger autophagy or inhibit mTOR elevation. The other problem cited with cramming all your calories into a tight eating window is that it gets harder to meet the protein levels Attia and others are now recommending. And even if you could, many claim that spreading out protein intake across the day yields better results than consuming massive amounts at once. That is a brief overview of the recent protein and fasting debate. In my [next post](/2023/04/more-protein-and-the-fasting-backlash-part-2/), I'll cover my current thoughts and if I plan to make any dietary changes. How about you? What do you think of the latest push for more protein?
+Attia has a long history of bouncing from one extreme to another when it comes to fitness and nutrition. Is protein his latest shiny toy? I don't know.
+
+If it were just Attia, I would probably ignore the message and just chalk it up to another post-keto health influencer looking for attention. But I'm seeing more voices promoting protein and rejecting intermittent fasting.
+
+I recently watched a 6-minute video by Dr. Brad Stanfield titled [Why Everyone Is Abandoning Intermittent Fasting](https://www.youtube.com/watch?v=q65HcQ7DGTA), which cites the latest research on fasting and protein. The video's conclusion is that intermittent fasting is no better than calorie restriction for weight loss and is a suboptimal dietary approach for maintaining muscle.
+
+![](./img/rodion-kutsaiev-nPEORAok0Vo-unsplash.jpg)
+
+_Photo by_ [_Rodion Kutsaiev_](https://unsplash.com/@frostroomhead?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+But what about longevity and autophagy? Attia makes the case in his book that 16 hours without food is not enough to trigger autophagy or inhibit mTOR elevation. The other problem cited with cramming all your calories into a tight eating window is that it gets harder to meet the protein levels Attia and others are now recommending. And even if you could, many claim that spreading out protein intake across the day yields better results than consuming massive amounts at once.
+
+That is a brief overview of the recent protein and fasting debate. In my [next post](/2023/04/more-protein-and-the-fasting-backlash-part-2/), I'll cover my current thoughts and if I plan to make any dietary changes. How about you? What do you think of the latest push for more protein?
 
 ---
 

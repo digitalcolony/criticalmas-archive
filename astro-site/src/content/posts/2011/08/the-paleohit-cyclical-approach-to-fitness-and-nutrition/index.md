@@ -15,19 +15,37 @@ My dietary tweaking over the past three years has led me to _discover_ what many
 ### Paleo Man
 
 
-Paleo man is hungry and the area he is at has no food. So he travels to a new area. No _Cliff Bar_ or smoothie. He is motivated by hunger and the reality that if he doesn't acquire food, he will die. It is OK that he doesn't have a fanny pack full of snacks. He has something better: body fat. In the absence of glucose, his insulin levels drop and his body becomes efficient at accessing stored fat. To preserve muscle, his growth hormone levels increase. ![](./img/hunters2.jpg) _Hunters by Brain Wright_ Paleo man comes across an animal and engages in the hunt. He uses high bursts of energy and strength to capture his meal. Note that he didn't jog up to the animal using some nonsensical target heart rate and he didn't stand one-legged on a Bosu Ball during the hunt. Paleo man, like any other mammal keen on survival, starts eating the animal's organ meat first because that is where the most nutrients are. Then he goes for the fatty cuts of meat. Lean meat might be left for the buzzards. Now Paleo Man is full—time to rest and relax. No spin class is needed for him to keep his cardio edge. That is energy foolish and could bring him closer to starvation. It wouldn't be until the late 1960s that men would get duped into believing we need _cardio_ for a healthy heart. And then it would be a few decades more before science would show that [cardiovascular training is a myth](/2011/01/the-myth-of-cardiovascular-training/).
+Paleo man is hungry and the area he is at has no food. So he travels to a new area. No _Cliff Bar_ or smoothie. He is motivated by hunger and the reality that if he doesn't acquire food, he will die. It is OK that he doesn't have a fanny pack full of snacks. He has something better: body fat. In the absence of glucose, his insulin levels drop and his body becomes efficient at accessing stored fat. To preserve muscle, his growth hormone levels increase.
+
+![](./img/hunters2.jpg)
+
+_Hunters by Brain Wright_
+
+Paleo man comes across an animal and engages in the hunt. He uses high bursts of energy and strength to capture his meal. Note that he didn't jog up to the animal using some nonsensical target heart rate and he didn't stand one-legged on a Bosu Ball during the hunt. Paleo man, like any other mammal keen on survival, starts eating the animal's organ meat first because that is where the most nutrients are. Then he goes for the fatty cuts of meat. Lean meat might be left for the buzzards.
+
+Now Paleo Man is full—time to rest and relax. No spin class is needed for him to keep his cardio edge. That is energy foolish and could bring him closer to starvation. It wouldn't be until the late 1960s that men would get duped into believing we need _cardio_ for a healthy heart. And then it would be a few decades more before science would show that [cardiovascular training is a myth](/2011/01/the-myth-of-cardiovascular-training/).
 
 
 ### Modern MAS
 
 
-Back to the present. A few months ago, I began a TKD (targeted ketogenic diet). On the day before I went to the gym to lift weights, I would engage in [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/) and low-carb dieting. I put myself into a ketogenic state. The next day, I would enter the gym in a fasted state\* and "engage in battle". Unlike Paleo man, when I demonstrate strength I can control for safety and work specifically with machines based upon human biomechanics. For 10-15 minutes, I do an all-out [High Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) workout. One set to failure for about 5-7 exercises. _\* These days I supplement with BCAA._ Then I eat. I eat a lot. Protein, carbs, and fat. I am pulling myself out of ketosis and fueling the anabolic process. Then I rest. I won't return to the gym for another 5-7 days. Sure I will go for walks or 2-3 very short sprints, but anything more would be energy foolish and send the wrong hormonal signals to my body. Doing _cardio_ is ridiculous as it is highly inflammatory, suppresses your immune system, catabolizes muscle, and reduces your insulin sensitivity. Between workouts, I vary my food intake. Some days I eat more and some less. Some days are low carb and some are moderate. I may skip breakfast or not. Like Paleo man, my food intake is not predictable. There is never a point in the week, where I have to eat. My body has become hyper-efficient at regulating my energy levels. No sugar crashes or naps are needed.
+Back to the present. A few months ago, I began a TKD (targeted ketogenic diet). On the day before I went to the gym to lift weights, I would engage in [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/) and low-carb dieting. I put myself into a ketogenic state. The next day, I would enter the gym in a fasted state\* and "engage in battle". Unlike Paleo man, when I demonstrate strength I can control for safety and work specifically with machines based upon human biomechanics. For 10-15 minutes, I do an all-out [High Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) workout. One set to failure for about 5-7 exercises.
+
+_\* These days I supplement with BCAA._
+
+Then I eat. I eat a lot. Protein, carbs, and fat. I am pulling myself out of ketosis and fueling the anabolic process. Then I rest. I won't return to the gym for another 5-7 days. Sure I will go for walks or 2-3 very short sprints, but anything more would be energy foolish and send the wrong hormonal signals to my body. Doing _cardio_ is ridiculous as it is highly inflammatory, suppresses your immune system, catabolizes muscle, and reduces your insulin sensitivity.
+
+Between workouts, I vary my food intake. Some days I eat more and some less. Some days are low carb and some are moderate. I may skip breakfast or not. Like Paleo man, my food intake is not predictable. There is never a point in the week, where I have to eat. My body has become hyper-efficient at regulating my energy levels. No sugar crashes or naps are needed.
 
 
 ### My Results
 
 
-I started this cyclical approach a few months ago. It is freakishly effective. My metabolism is rocking fast. I exercise far less than I used to and I eat more. By removing the big 4 toxins (sugar, wheat, soy, and vegetable oils) and adjusting my nutrient intake and timing, I am in the best shape of my life. **UPDATE September 2012:** I no longer feel BCAA is needed for fasted training. See [Thinking About Supplements – 2012 Edition](/2012/07/thinking-about-supplements-2012-edition/) for an explanation. **UPDATE December 2012:** I no longer consider sugar to be a big toxin. I've become a big fan of [ice cream](/2012/07/why-ice-cream-is-better-than-protein-powder/).
+I started this cyclical approach a few months ago. It is freakishly effective. My metabolism is rocking fast. I exercise far less than I used to and I eat more. By removing the big 4 toxins (sugar, wheat, soy, and vegetable oils) and adjusting my nutrient intake and timing, I am in the best shape of my life.
+
+**UPDATE September 2012:** I no longer feel BCAA is needed for fasted training. See [Thinking About Supplements – 2012 Edition](/2012/07/thinking-about-supplements-2012-edition/) for an explanation.
+
+**UPDATE December 2012:** I no longer consider sugar to be a big toxin. I've become a big fan of [ice cream](/2012/07/why-ice-cream-is-better-than-protein-powder/).
 
 ---
 

@@ -9,7 +9,27 @@ description: "When I go to the Farmers Market, I walk past all the produce and h
 commentCount: 12
 ---
 
-When I go to the Farmers Market, I walk past all the produce and head for the meat vendors. When I get to the meat vendors, I go straight to the cooler with the _nasty bits_. Nasty bits is a term used to describe offal or organ meat and other less popular cuts of meat. This is where nutritional density is the highest. They also are the cheapest cuts of meat. Win win. Recently I opened the Olsen Farms cooler and found something I had never seen before. A package of beef sweetbread  I had never heard of this animal part. Of course I had to buy it. Turns out my [sweetbread](https://en.wikipedia.org/wiki/Sweetbread) was the throat and thyroid area. Before cooking it I decided to eat a small piece of it raw. This is something I do with liver and kidney. Eating a small piece raw gives me clues on how long it needs cooking and what flavors might compliment it. Note that whenever I eat raw meat, I make sure that it has been frozen for at least 2 weeks first. Then I thaw and taste it no more than a day away. Sweetbread actually did taste sweeter than kidney or liver. Similar texture too. ![beef-sweetbread](./img/beef-sweetbread.jpg) _My kind of bread. And gluten-free too!  :)_  ![beef-sweetbread-2](./img/beef-sweetbread-2.jpg) _Raw beef sweetbread._ My recipe is pretty straightforward. Mix chopped up garlic, ginger and sweetbread over a warm pan of melted butter. Cook for around 5-10 minutes. Hit it with some salt if you like. ![beef-sweetbread-cooked](./img/beef-sweetbread-cooked.jpg) _Beef sweetbread with garlic, ginger and lots of butter._  I liked this dish and will having it again. Tastes a little better than liver or kidney and I enjoy those dishes.
+When I go to the Farmers Market, I walk past all the produce and head for the meat vendors. When I get to the meat vendors, I go straight to the cooler with the _nasty bits_. Nasty bits is a term used to describe offal or organ meat and other less popular cuts of meat. This is where nutritional density is the highest. They also are the cheapest cuts of meat. Win win.
+
+Recently I opened the Olsen Farms cooler and found something I had never seen before. A package of beef sweetbread  I had never heard of this animal part. Of course I had to buy it. Turns out my [sweetbread](https://en.wikipedia.org/wiki/Sweetbread) was the throat and thyroid area. Before cooking it I decided to eat a small piece of it raw. This is something I do with liver and kidney. Eating a small piece raw gives me clues on how long it needs cooking and what flavors might compliment it. Note that whenever I eat raw meat, I make sure that it has been frozen for at least 2 weeks first. Then I thaw and taste it no more than a day away.
+
+Sweetbread actually did taste sweeter than kidney or liver. Similar texture too.
+
+![beef-sweetbread](./img/beef-sweetbread.jpg)
+
+_My kind of bread. And gluten-free too!  :)_ 
+
+![beef-sweetbread-2](./img/beef-sweetbread-2.jpg)
+
+_Raw beef sweetbread._
+
+My recipe is pretty straightforward. Mix chopped up garlic, ginger and sweetbread over a warm pan of melted butter. Cook for around 5-10 minutes. Hit it with some salt if you like.
+
+![beef-sweetbread-cooked](./img/beef-sweetbread-cooked.jpg)
+
+_Beef sweetbread with garlic, ginger and lots of butter._ 
+
+I liked this dish and will having it again. Tastes a little better than liver or kidney and I enjoy those dishes.
 
 ---
 

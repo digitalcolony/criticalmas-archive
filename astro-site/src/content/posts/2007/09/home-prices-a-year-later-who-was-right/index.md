@@ -27,4 +27,14 @@ Almost one year later, who was right? According to a recent story in the San Die
 
 > The overall median was down 2.9 percent from July and off **4.3 percent** from August 2006.
 
-The futures market predicted a 6.08% decline, and San Diego experienced a 4.3% decline, with one month still to go. Considering how lightly traded this index was in 2006, I'd say that is pretty darn accurate. This was at a time when 84% of homeowners expected their homes to appreciate or stay the same in value. The last thing I mentioned in my reply was to _monitor the CME numbers_ before making a purchase. TFS Derivatives has just released a comprehensive report on Case-Shiller futures prices for several cities. One of the cities is San Diego, and it is predicting declines for years to come. Nov 2008: - 9.1% Nov 2009: -15.1% Nov 2010: -17.3% Nov 2011: -19.1% Looks brutal to me. This is why I rent. People who disagree with those numbers are free to locate a futures broker and put their money with their conviction. Since real estate is local, be sure to study inventory levels and the zip code breakdown each month as well. Also read: [Futures market expects 5% annual price drops](https://web.archive.org/web/20081121120358/http://www.californiahousingforecast.com/commentary/futures-market-expects-5-annual-price-drops.html) UPDATE: TFS Derivatives lists the 1-year decline in San Diego real estate at 7.8% (July 2006 vs July 2007).
+The futures market predicted a 6.08% decline, and San Diego experienced a 4.3% decline, with one month still to go. Considering how lightly traded this index was in 2006, I'd say that is pretty darn accurate. This was at a time when 84% of homeowners expected their homes to appreciate or stay the same in value.
+
+The last thing I mentioned in my reply was to _monitor the CME numbers_ before making a purchase. TFS Derivatives has just released a comprehensive report on Case-Shiller futures prices for several cities. One of the cities is San Diego, and it is predicting declines for years to come.
+
+Nov 2008: - 9.1% Nov 2009: -15.1% Nov 2010: -17.3% Nov 2011: -19.1%
+
+Looks brutal to me. This is why I rent. People who disagree with those numbers are free to locate a futures broker and put their money with their conviction. Since real estate is local, be sure to study inventory levels and the zip code breakdown each month as well.
+
+Also read: [Futures market expects 5% annual price drops](https://web.archive.org/web/20081121120358/http://www.californiahousingforecast.com/commentary/futures-market-expects-5-annual-price-drops.html)
+
+UPDATE: TFS Derivatives lists the 1-year decline in San Diego real estate at 7.8% (July 2006 vs July 2007).

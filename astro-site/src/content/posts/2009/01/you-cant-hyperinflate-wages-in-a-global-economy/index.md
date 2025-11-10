@@ -13,11 +13,19 @@ Whenever I hear someone say that we are going to have Hyperinflation, I respond 
 
 > ...you cant hyperinflate wages in a global economy.
 
-Think about it. If prices skyrocketed, would your wages? No, because at a certain price point, your job would be outsourced or eliminated. And without a job, you couldn't afford to buy the goods that hyperinflated. Guess what would happen next? Prices would plummet. This is a global economy. Employers will seek out the lowest cost for labor. Consumers will seek out the lowest price for goods and services. And where they intersect is the fair market value. Karl from _Market-Ticke_r wrote up a great blog today on this topic titled _On "Hyperinflation"_.
+Think about it. If prices skyrocketed, would your wages? No, because at a certain price point, your job would be outsourced or eliminated. And without a job, you couldn't afford to buy the goods that hyperinflated.
+
+Guess what would happen next? Prices would plummet. This is a global economy. Employers will seek out the lowest cost for labor. Consumers will seek out the lowest price for goods and services. And where they intersect is the fair market value.
+
+Karl from _Market-Ticke_r wrote up a great blog today on this topic titled _On "Hyperinflation"_.
 
 > "Hyperinflation", or even "Serious Inflation" (similar to what we had in the 1970s) is impossible without a means to transmit the rise in prices into wages.
 
-Zimbabwe is currently hyperinflating their currency, but they aren't really an active participant in the global economy. What is their unemployment rate? It was 80% in 2005. If this happened in America, Bernanke would be swinging from his heels like Mussolini. ![Hyperinflation](./img/zw010.jpg "Hyperinflation") The problem in America today is we are plagued with bad debt. Deflation is the way an economy cleanses itself of bad debt. Taking on more debt, whether you are an individual or government, just makes the problem worse later. The sooner bad debt is removed from the system, the sooner the recovery can start.
+Zimbabwe is currently hyperinflating their currency, but they aren't really an active participant in the global economy. What is their unemployment rate? It was 80% in 2005. If this happened in America, Bernanke would be swinging from his heels like Mussolini.
+
+![Hyperinflation](./img/zw010.jpg "Hyperinflation")
+
+The problem in America today is we are plagued with bad debt. Deflation is the way an economy cleanses itself of bad debt. Taking on more debt, whether you are an individual or government, just makes the problem worse later. The sooner bad debt is removed from the system, the sooner the recovery can start.
 
 ---
 

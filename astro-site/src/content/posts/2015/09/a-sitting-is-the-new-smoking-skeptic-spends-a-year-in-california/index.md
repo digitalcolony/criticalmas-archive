@@ -9,25 +9,45 @@ description: "For a few years we've been hit over the head with health stories t
 commentCount: 21
 ---
 
-For a few years we've been hit over the head with health stories that equate sitting as being as unhealthy as smoking. And I've been a disbelieving skeptic. My thinking was that efficient exercise that targeted fast twitch muscle fibers could prevent the atrophy of the muscles caused by sitting. Stories that said even active people were at risk failed to make an impression on me, because I am aware of what the classic definitions of exercise are. Jogging on a treadmill or using momentum to knock out a few sets of weight lifting aren't going to be effective at building and strengthening the muscles we put into disuse from hours of sitting. I felt that if I took a HIT approach to targeting the glute muscles that I could spend minutes a day giving me a free pass to sitting hours. So I created an exercise called the Static Windmill and shared it in the post [Merging Foundation Training With Hillfit](/2014/08/merging-foundation-training-hillfit/). The exercise works. I still believe in it. It solves the atrophy problem, but I learned after a year in California that is only half the problem.
+For a few years we've been hit over the head with health stories that equate sitting as being as unhealthy as smoking. And I've been a disbelieving skeptic. My thinking was that efficient exercise that targeted fast twitch muscle fibers could prevent the atrophy of the muscles caused by sitting.
+
+Stories that said even active people were at risk failed to make an impression on me, because I am aware of what the classic definitions of exercise are. Jogging on a treadmill or using momentum to knock out a few sets of weight lifting aren't going to be effective at building and strengthening the muscles we put into disuse from hours of sitting.
+
+I felt that if I took a HIT approach to targeting the glute muscles that I could spend minutes a day giving me a free pass to sitting hours. So I created an exercise called the Static Windmill and shared it in the post [Merging Foundation Training With Hillfit](/2014/08/merging-foundation-training-hillfit/). The exercise works. I still believe in it. It solves the atrophy problem, but I learned after a year in California that is only half the problem.
 
 
 ### Driving is the Worst
 
 
-When I sit for hours at a desk, I move my legs. I stand up. I fidget. On rare occasions will I freeze my position for more than an hour. Driving is the opposite. When I am in my hatchback, my movement is frozen. When I am on the road moving, there isn't much I can do to vary my posture. I'm locked in until the trip is terminated. During my year in California I drove a lot more than I was driving in Seattle. On February 26th, I shared these numbers on Facebook. ![facebook-driving](./img/facebook-driving.jpg) Then I discovered all the [cool city tours of San Francisco](/2015/06/how-to-explore-san-francisco-like-a-champ/) and I started driving even more. From February until the day before I left, I averaged 56 miles a day. This was not an hour in the car. It was HOURS in the car every day. Sometimes I was stuck in traffic. A lot of it was city driving.
+When I sit for hours at a desk, I move my legs. I stand up. I fidget. On rare occasions will I freeze my position for more than an hour. Driving is the opposite. When I am in my hatchback, my movement is frozen. When I am on the road moving, there isn't much I can do to vary my posture. I'm locked in until the trip is terminated.
+
+During my year in California I drove a lot more than I was driving in Seattle. On February 26th, I shared these numbers on Facebook.
+
+![facebook-driving](./img/facebook-driving.jpg)
+
+Then I discovered all the [cool city tours of San Francisco](/2015/06/how-to-explore-san-francisco-like-a-champ/) and I started driving even more. From February until the day before I left, I averaged 56 miles a day. This was not an hour in the car. It was HOURS in the car every day. Sometimes I was stuck in traffic. A lot of it was city driving.
 
 
 ### Health Decline
 
 
-The ten pounds I lost on the Fat Loss Bet prior to leaving was regained. I experimented with [Food Reward](/2015/02/food-reward-and-old-school-bodybuilders/) and didn't make any progress. At the same time I was tightening up my diet, I was increasing my driving. I am no longer a skeptic to stories that talk about the reduced metabolic effect hours of sitting can have on your body. I experienced it. I do think doing my Static Windmill helped, but it was only part of the problem. The body wants to move. It doesn't like to be trapped for hours in a car. Not only did I gain weight, but I felt more lethargic. I felt rusty. ![traffic light](./img/8507482200_1fe19b0d41_z.jpg) _[Photo](https://flic.kr/p/dXM54A) by Paul Clarke_
+The ten pounds I lost on the Fat Loss Bet prior to leaving was regained. I experimented with [Food Reward](/2015/02/food-reward-and-old-school-bodybuilders/) and didn't make any progress. At the same time I was tightening up my diet, I was increasing my driving.
+
+I am no longer a skeptic to stories that talk about the reduced metabolic effect hours of sitting can have on your body. I experienced it. I do think doing my Static Windmill helped, but it was only part of the problem. The body wants to move. It doesn't like to be trapped for hours in a car.
+
+Not only did I gain weight, but I felt more lethargic. I felt rusty.
+
+![traffic light](./img/8507482200_1fe19b0d41_z.jpg)
+
+_[Photo](https://flic.kr/p/dXM54A) by Paul Clarke_
 
 
 ### Back in Seattle
 
 
-I'm driving less now that I am back in Seattle. Not as less as I'd like, but the driving trips are shorter than the ones I was taking in the SF Bay Area. In Seattle, I am often taking 2-3 mile drives. In the SF area, many of my trips were 20-30 miles. Even the short trips were 7-10 miles. My goal is to drive less. Leaving California was a huge first step in making that happen.
+I'm driving less now that I am back in Seattle. Not as less as I'd like, but the driving trips are shorter than the ones I was taking in the SF Bay Area. In Seattle, I am often taking 2-3 mile drives. In the SF area, many of my trips were 20-30 miles. Even the short trips were 7-10 miles.
+
+My goal is to drive less. Leaving California was a huge first step in making that happen.
 
 ---
 

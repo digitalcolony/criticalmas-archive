@@ -9,13 +9,19 @@ description: "This is a quick update on the results from my experience trying th
 commentCount: 5
 ---
 
-This is a quick update on the results from my experience trying the Tim Ferriss 30 in 30 experiment. The premise is to get 30 grams of protein consumed within 30 minutes of waking. Doing this is supposed to reduce appetite and trigger weight loss. Because consuming 30 grams of protein that quickly in the morning can be a challenge, Ferriss says in the 4 Hour Body that you can use whey protein shakes. When I first did this experiment in 2013 I discovered that whey [did not suppress my appetite](/2014/06/revisiting-tim-ferriss-30-30-experiment/). It stimulated it. I actually got more hungry and ended up eating more. This summer I repeated the test using casein protein, which several people have discovered blunts appetite more than whey. I came to the [same conclusion](/2014/08/casein-whey-reducing-appetite-n1/). ![The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman](https://images-na.ssl-images-amazon.com/images/I/51V18RN35jL.jpg) _The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman by Timothy Ferriss_
+This is a quick update on the results from my experience trying the Tim Ferriss 30 in 30 experiment. The premise is to get 30 grams of protein consumed within 30 minutes of waking. Doing this is supposed to reduce appetite and trigger weight loss. Because consuming 30 grams of protein that quickly in the morning can be a challenge, Ferriss says in the 4 Hour Body that you can use whey protein shakes.
+
+When I first did this experiment in 2013 I discovered that whey [did not suppress my appetite](/2014/06/revisiting-tim-ferriss-30-30-experiment/). It stimulated it. I actually got more hungry and ended up eating more. This summer I repeated the test using casein protein, which several people have discovered blunts appetite more than whey. I came to the [same conclusion](/2014/08/casein-whey-reducing-appetite-n1/).
+
+![The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman](https://images-na.ssl-images-amazon.com/images/I/51V18RN35jL.jpg) _The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman by Timothy Ferriss_
 
 
 ### Skipping Breakfast > Casein > Whey
 
 
-Casein solved the whey problem, but it didn't cause my appetite to drop. It was neutral. For me reducing my eating window is more effective than 30 in 30. Since I can more easily deal with morning hunger than evening hunger, this means skipping breakfast is the best for me. John in a comment in March pointed out what I discovered.
+Casein solved the whey problem, but it didn't cause my appetite to drop. It was neutral. For me reducing my eating window is more effective than 30 in 30. Since I can more easily deal with morning hunger than evening hunger, this means skipping breakfast is the best for me.
+
+John in a comment in March pointed out what I discovered.
 
 1.  John says
     
@@ -24,7 +30,11 @@ Casein solved the whey problem, but it didn't cause my appetite to drop. It was 
     I had the same experience with 30/30. If you look in the appendix of his book, in his own study, those who ate 2 meals a day and skipped breakfast had the most weight loss. Of course, he tries to explain this away.
     
 
-I haven't dialed in an optimal fasting window. 12-14 hours is likely the best for most days. Doing 16 hours daily was too much for me. [![hungry](./img/3234684182_5ff37ac65f_z.jpg)](./img/3234684182_5ff37ac65f_z.jpg) _["You Wouldn't Like Me When I'm Hungry!"](https://flic.kr/p/5VQAUW) by Dave Groehring_
+I haven't dialed in an optimal fasting window. 12-14 hours is likely the best for most days. Doing 16 hours daily was too much for me.
+
+[![hungry](./img/3234684182_5ff37ac65f_z.jpg)](./img/3234684182_5ff37ac65f_z.jpg)
+
+_["You Wouldn't Like Me When I'm Hungry!"](https://flic.kr/p/5VQAUW) by Dave Groehring_
 
 ---
 

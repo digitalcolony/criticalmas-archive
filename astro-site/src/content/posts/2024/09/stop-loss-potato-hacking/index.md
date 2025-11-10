@@ -8,11 +8,27 @@ description: "Most of you know that I have maintained a 40-pound weight loss for
 commentCount: 6
 ---
 
-Most of you know that I have maintained a 40-pound weight loss for almost 5 years now. The first 20 pounds came from different variations of the [Potato Hack](https://potatohack.com) and Potato Diet. Then I switched to [Potatoes and Protein](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/) to lose another 20 pounds. I landed at 182 pounds, which is a great weight for me. _(height 6’2.5 or 189 cm)_ The last time I was this lean was in college before I discovered weight training. Even though I never count calories, I seem to gravitate towards a weight of 182. Sometimes I'll drop down to 179 or drift up to 184, but the range remains tight and effortless. This summer, my cooking focus has been learning more plant-based recipes. Between YouTube and AI, I've been trying out more recipes. More recipes, more flavors, more calories. Two weeks ago, I was up to 186. My weight had crept up 4 pounds over the summer, which was unexpected. That is when I came up with the idea of stop-loss potato hacking. What does the term stop-loss mean? It is a financial term that places an automatic sell order on a stock if reaches a predetermined price. Let's say you buy ABC company for $50 a share because you think it will go higher, but in the event you are wrong, you don't want to hold the stock if it falls too much, so you place a stop-loss at $40. If it hits $40, you are out, you limited your losses. My stop-loss potato hack order is:
+Most of you know that I have maintained a 40-pound weight loss for almost 5 years now. The first 20 pounds came from different variations of the [Potato Hack](https://potatohack.com) and Potato Diet. Then I switched to [Potatoes and Protein](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/) to lose another 20 pounds.
+
+I landed at 182 pounds, which is a great weight for me. _(height 6’2.5 or 189 cm)_ The last time I was this lean was in college before I discovered weight training.
+
+Even though I never count calories, I seem to gravitate towards a weight of 182. Sometimes I'll drop down to 179 or drift up to 184, but the range remains tight and effortless. This summer, my cooking focus has been learning more plant-based recipes. Between YouTube and AI, I've been trying out more recipes.
+
+More recipes, more flavors, more calories. Two weeks ago, I was up to 186. My weight had crept up 4 pounds over the summer, which was unexpected. That is when I came up with the idea of stop-loss potato hacking.
+
+What does the term stop-loss mean? It is a financial term that places an automatic sell order on a stock if reaches a predetermined price. Let's say you buy ABC company for $50 a share because you think it will go higher, but in the event you are wrong, you don't want to hold the stock if it falls too much, so you place a stop-loss at $40. If it hits $40, you are out, you limited your losses.
+
+My stop-loss potato hack order is:
 
 > If I hit 185 or more for 2 consecutive weighings, then that will trigger an immediate potato hack. Go directly to restaurant supply store, acquire [potatoes (plus cabbage)](/2024/04/the-potato-and-cabbage-hack/), and start cooking. The potato hack must be at least 3 days and can only end once my weight has reached 184 or lower.
 
-After weighing 186 on the gym scale, I returned to the gym a few days later and once again hit 186. I was over 185 for 2 consecutive readings, so I triggered a potato hack. After the Labor Day weekend, my weight was down to 183. I have since maintained scale readings between 182 and 183. It worked. The stop-loss hack is my way of deciding in advance what to do if my weight creeps up. For myself, 186 is still a nice weight. I could have talked myself into not taking action, but that might have led to 188, 190, or more. It was better to set the stop-loss. ![](./img/potato-man-weighing-himself.jpg)
+After weighing 186 on the gym scale, I returned to the gym a few days later and once again hit 186. I was over 185 for 2 consecutive readings, so I triggered a potato hack.
+
+After the Labor Day weekend, my weight was down to 183. I have since maintained scale readings between 182 and 183. It worked. The stop-loss hack is my way of deciding in advance what to do if my weight creeps up.
+
+For myself, 186 is still a nice weight. I could have talked myself into not taking action, but that might have led to 188, 190, or more. It was better to set the stop-loss.
+
+![](./img/potato-man-weighing-himself.jpg)
 
 ---
 

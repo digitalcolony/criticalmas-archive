@@ -8,7 +8,11 @@ description: "Imagine you are driving through Seattle one morning. The skies are
 commentCount: 8
 ---
 
-Imagine you are driving through Seattle one morning. The skies are gray and there is a light rain. Up ahead you think you see a parking spot. There is a car coming up behind you. You glance over to see if it is OK to park there. This is the sign you see. :x ![](./img/IMG_0825-699x1024.jpg "seattle parking sign")
+Imagine you are driving through Seattle one morning. The skies are gray and there is a light rain. Up ahead you think you see a parking spot. There is a car coming up behind you.
+
+You glance over to see if it is OK to park there. This is the sign you see. :x
+
+![](./img/IMG_0825-699x1024.jpg "seattle parking sign")
 
 ---
 

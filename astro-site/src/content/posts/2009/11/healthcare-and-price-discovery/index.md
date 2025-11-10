@@ -9,7 +9,15 @@ description: "Today I had a prescription filled. It costs me $50. When the pharm
 commentCount: 9
 ---
 
-Today I had a prescription filled. It costs me $50. When the pharmacist counseled me on the medication, he asked how much I paid. When he heard $50, he walked me out to one of the aisles and showed me my medication was available over the counter for half of what I paid. He helped me get a refund and I left happy that I saved $25. I was fortunate that the pharmacist cared to ask. I'm sure many others have overpaid. ![addiction](./img/addiction.jpg) _[Photo](https://flic.kr/p/7S9Y2t) by kphotographer_ That is the problem with medication. Everybody is paying a different price. The people using my health care plan are no doubt subsidizing the medicine costs for those on other plans. Want to solve the health care problems? Have everyone pay the same price for any medicine or health care procedure. Then require those prices be posted. Honest markets require transparent pricing. For costs to drop in any marketplace, there must be efficient [price discovery](https://en.wikipedia.org/wiki/Price_discovery). Health care is such a mess because there is **price obfuscation** at every level. As long as you can hide costs as much as possible, the costs will not drop. They may not land on the person receiving treatment, but someone will end up paying.
+Today I had a prescription filled. It costs me $50. When the pharmacist counseled me on the medication, he asked how much I paid. When he heard $50, he walked me out to one of the aisles and showed me my medication was available over the counter for half of what I paid. He helped me get a refund and I left happy that I saved $25. I was fortunate that the pharmacist cared to ask. I'm sure many others have overpaid.
+
+![addiction](./img/addiction.jpg)
+
+_[Photo](https://flic.kr/p/7S9Y2t) by kphotographer_
+
+That is the problem with medication. Everybody is paying a different price. The people using my health care plan are no doubt subsidizing the medicine costs for those on other plans. Want to solve the health care problems? Have everyone pay the same price for any medicine or health care procedure. Then require those prices be posted. Honest markets require transparent pricing.
+
+For costs to drop in any marketplace, there must be efficient [price discovery](https://en.wikipedia.org/wiki/Price_discovery). Health care is such a mess because there is **price obfuscation** at every level. As long as you can hide costs as much as possible, the costs will not drop. They may not land on the person receiving treatment, but someone will end up paying.
 
 ---
 

@@ -9,7 +9,13 @@ description: "In the comments of the post Celery Resurrection, I got an idea fro
 commentCount: 6
 ---
 
-In the comments of the post [Celery Resurrection](/2012/09/celery-resurrection/), I got an idea from Mark to ferment celery. I sliced a bunch of celery and placed it into a jar. Then I added a tablespoon of sea salt, covered it with water, and sat on the counter for 10 days. The taste was OK. It retained most of the crunch and was nice and salty. On the Facebook group Traditional Foods and Natural Home, it was suggested that celery worked well in a mix of veggies. I prefer the taste of fresh celery. If I ferment celery again, I'll add some other vegetables. ![salt-celery](./img/salt-celery.jpg) ![celery-ferment](./img/celery-ferment.jpg)
+In the comments of the post [Celery Resurrection](/2012/09/celery-resurrection/), I got an idea from Mark to ferment celery. I sliced a bunch of celery and placed it into a jar. Then I added a tablespoon of sea salt, covered it with water, and sat on the counter for 10 days. The taste was OK. It retained most of the crunch and was nice and salty. On the Facebook group Traditional Foods and Natural Home, it was suggested that celery worked well in a mix of veggies.
+
+I prefer the taste of fresh celery. If I ferment celery again, I'll add some other vegetables.
+
+![salt-celery](./img/salt-celery.jpg)
+
+![celery-ferment](./img/celery-ferment.jpg)
 
 ---
 

@@ -9,19 +9,29 @@ description: "Starting around 2008, I read and reviewed several nutritional book
 commentCount: 24
 ---
 
-Starting around 2008, I read and reviewed several nutritional books on this site, most of which have some popularity in the Paleo community. Although I've enjoyed experimenting with a Paleo diet approach, as time goes by I find myself increasingly critical of ideas that made perfect sense to me just a few years ago. If one goes back into the archives of this site, the reviews of certain Paleo books are a little too positive. With more experience and more knowledge, I've decided to revisit these books with my current thoughts. ![](./img/caveman-reading.jpg)
+Starting around 2008, I read and reviewed several nutritional books on this site, most of which have some popularity in the Paleo community. Although I've enjoyed experimenting with a Paleo diet approach, as time goes by I find myself increasingly critical of ideas that made perfect sense to me just a few years ago.
+
+If one goes back into the archives of this site, the reviews of certain Paleo books are a little too positive. With more experience and more knowledge, I've decided to revisit these books with my current thoughts.
+
+![](./img/caveman-reading.jpg)
 
 
 ### The New Evolution Diet by Art De Vany
 
 
-My original review of [The New Evolution Diet](/2010/12/the-new-evolution-diet/) was in December 2010. Without rehashing old ideas, I find De Vany's approach far too restrictive. Carbs are bad and so is excess fat. He dislikes grains and dairy. If I followed his higher protein version of the diet, I would be hungry all the time and bored. When I ate super clean - not even low carb - I was dropping weight too fast. My face looked gaunt. The food that successfully reversed that was ice cream. It was dairy plus sugar that worked for me. I may have said this before, but De Vany was a professional athlete long before he discovered Paleo. How much of his current amazing health is a result of his genetics plus training and how much is a result of diet? The longer I go on my nutrition journey, the more I suspect it is the former.
+My original review of [The New Evolution Diet](/2010/12/the-new-evolution-diet/) was in December 2010. Without rehashing old ideas, I find De Vany's approach far too restrictive. Carbs are bad and so is excess fat. He dislikes grains and dairy. If I followed his higher protein version of the diet, I would be hungry all the time and bored.
+
+When I ate super clean - not even low carb - I was dropping weight too fast. My face looked gaunt. The food that successfully reversed that was ice cream. It was dairy plus sugar that worked for me.
+
+I may have said this before, but De Vany was a professional athlete long before he discovered Paleo. How much of his current amazing health is a result of his genetics plus training and how much is a result of diet? The longer I go on my nutrition journey, the more I suspect it is the former.
 
 
 ### Primal Blueprint by Mark Sisson
 
 
-My review of [Primal Blueprint](/2009/06/the-primal-blueprint-10-old-school-laws-for-nutrition-and-fitness/) was from June 2009. When it comes to editing and clear writing, I still think this is a good book. Many of the ideas I still agree with, but its core message that high levels of carbohydrates lead to "insidious weight gain" no longer rings true. I'll quote Matt Stone:
+My review of [Primal Blueprint](/2009/06/the-primal-blueprint-10-old-school-laws-for-nutrition-and-fitness/) was from June 2009. When it comes to editing and clear writing, I still think this is a good book. Many of the ideas I still agree with, but its core message that high levels of carbohydrates lead to "insidious weight gain" no longer rings true.
+
+I'll quote Matt Stone:
 
 > In Mark Sisson’s book, The Primal Blueprint, he shows a little chart with carbohydrate levels ideal for weight loss, weight maintenance, and the levels of carbohydrate intake that lead to, in his words, “insidious weight gain.” Get above 150 grams of carbohydrates per day in your diet and you enter the danger zone. I have said this many times and I will say it again – in all the information I’ve ever read on nutrition and health, this could very well be the dumbest and most unsubstantiated tidbit I've ever come across. It is downright retarded, with 5 billion…. 5 BILLION living exceptions to the rule that a carbohydrate intake exceeding 150 grams per day triggers insidious weight gain. This is just plain stupid. I couldn't even believe my eyes when I read it. This guy is, and should be, the laughingstock of anyone who studies obesity or nutritional science. He completely undermines his credibility as an intelligent person with this one uber-knuckleheaded and poorly-thought out conclusion.
 
@@ -31,19 +41,29 @@ The rest of the book is pretty good. Sisson embraces dairy and has a sane approa
 ### Primal Body – Primal Mind by Nora T. Gedgaudas
 
 
-My review of [Primal Body - Primal Mind](/2010/07/primal-body-primal-mind/) was from July 2010, which was the first edition. I later read the second edition in December 2011. PBPM is a high-fat, anti-sugar Paleo. By the time I read the 2nd edition, I was already dismissive of the idea that carbohydrates were evil. My journey had already moved away from Paleo and towards a more Weston A Price approach. I enjoyed my expanded diet and the fun I was having learning how to cook traditional cuisines, which were full of those evil carbohydrates. PBPM is too restrictive for me. Plus after reading a [few](http://carbsanity.blogspot.com/2012/02/live-blogging-from-paleo-summit-vi-nora.html) [posts](http://carbsanity.blogspot.com/2013/01/know-experts-nora-gedgaudas-page-151.html) about the author on _Carb Sane_, I have serious doubts about what is true or isn't true in the book. Right now I am teaching myself Malaysian cooking. Wonderful recipes that would be impossible if I followed the PBPM advice.
+My review of [Primal Body - Primal Mind](/2010/07/primal-body-primal-mind/) was from July 2010, which was the first edition. I later read the second edition in December 2011. PBPM is a high-fat, anti-sugar Paleo. By the time I read the 2nd edition, I was already dismissive of the idea that carbohydrates were evil.
+
+My journey had already moved away from Paleo and towards a more Weston A Price approach. I enjoyed my expanded diet and the fun I was having learning how to cook traditional cuisines, which were full of those evil carbohydrates.
+
+PBPM is too restrictive for me. Plus after reading a [few](http://carbsanity.blogspot.com/2012/02/live-blogging-from-paleo-summit-vi-nora.html) [posts](http://carbsanity.blogspot.com/2013/01/know-experts-nora-gedgaudas-page-151.html) about the author on _Carb Sane_, I have serious doubts about what is true or isn't true in the book. Right now I am teaching myself Malaysian cooking. Wonderful recipes that would be impossible if I followed the PBPM advice.
 
 
 ### Deep Nutrition by Catherine Shanahan
 
 
-Although I posted [my review](/2012/06/deep-nutrition-perfect-health-diet-and-the-end-of-overeating/) in June 2012, I read it at least a year before then. What I liked and still like about this book is how it combined the principles of traditional food (the Weston A Price approach) and modern nutrition. Chapter 9 demonizes sugar and carbs going as far as saying they block metabolic function. Using the same observation Matt Stone used above when critiquing Mark Sisson's "insidious weight gain" comment, that doesn't appear to be true. I've since read from others how [sugar can support metabolism](https://web.archive.org/web/20210305105620/https://180degreehealth.com/how-to-burn-fat-and-why-you-shouldnt/). Sally Fallon posted a [review](http://www.westonaprice.org/thumbs-down-reviews/deep-nutrition-by-catherine-shanahan-md-and-luke-shanahan) of Deep Nutrition on the WAPF site with a lot of good points, If there is a 2nd edition, Dr. Cate would be wise to work with Sally and the WAPF before going to press. The WAPF needs a book like this that they can endorse. As great as the 1939 [Nutrition and Physical Degeneration](/2011/01/nutrition-and-physical-degeneration/) book is, I can tell you that only a few members of the Seattle chapter of the WAPF have read all 500 pages.
+Although I posted [my review](/2012/06/deep-nutrition-perfect-health-diet-and-the-end-of-overeating/) in June 2012, I read it at least a year before then. What I liked and still like about this book is how it combined the principles of traditional food (the Weston A Price approach) and modern nutrition.
+
+Chapter 9 demonizes sugar and carbs going as far as saying they block metabolic function. Using the same observation Matt Stone used above when critiquing Mark Sisson's "insidious weight gain" comment, that doesn't appear to be true. I've since read from others how [sugar can support metabolism](https://web.archive.org/web/20210305105620/https://180degreehealth.com/how-to-burn-fat-and-why-you-shouldnt/).
+
+Sally Fallon posted a [review](http://www.westonaprice.org/thumbs-down-reviews/deep-nutrition-by-catherine-shanahan-md-and-luke-shanahan) of Deep Nutrition on the WAPF site with a lot of good points, If there is a 2nd edition, Dr. Cate would be wise to work with Sally and the WAPF before going to press. The WAPF needs a book like this that they can endorse. As great as the 1939 [Nutrition and Physical Degeneration](/2011/01/nutrition-and-physical-degeneration/) book is, I can tell you that only a few members of the Seattle chapter of the WAPF have read all 500 pages.
 
 
 ### Good Calories, Bad Calories by Gary Taubes
 
 
-This was the book I fawned over. I took it to Thailand with me in November 2009 and read it three times. When I returned home I told everyone it was the [best book ever](/2009/12/good-calories-bad-calories-is-the-best-book-ever-written-on-nutrition/). In short, GCBG tells the story of how health professionals falsely concluded that cholesterol and saturated fat were the cause of obesity and health problems. Then it points the blame on carbohydrates. Although there were critics of the carbohydrate theory, I didn't pay much attention to it at first. I cut carbs and I lost fat effortlessly without counting calories. It had to be right. Then when I was lean, I added back carbs and stayed lean. Huh? The critics were getting louder, so I read James Krieger's multi-part series on [Insulin: An Undeserved Bad Reputation](https://weightology.net/insulin-an-undeserved-bad-reputation/). It was his analogy that insulin is like a traffic cop that clicked with me.
+This was the book I fawned over. I took it to Thailand with me in November 2009 and read it three times. When I returned home I told everyone it was the [best book ever](/2009/12/good-calories-bad-calories-is-the-best-book-ever-written-on-nutrition/). In short, GCBG tells the story of how health professionals falsely concluded that cholesterol and saturated fat were the cause of obesity and health problems. Then it points the blame on carbohydrates.
+
+Although there were critics of the carbohydrate theory, I didn't pay much attention to it at first. I cut carbs and I lost fat effortlessly without counting calories. It had to be right. Then when I was lean, I added back carbs and stayed lean. Huh? The critics were getting louder, so I read James Krieger's multi-part series on [Insulin: An Undeserved Bad Reputation](https://weightology.net/insulin-an-undeserved-bad-reputation/). It was his analogy that insulin is like a traffic cop that clicked with me.
 
 > Thus, insulin is like a traffic cop or a stop light at an intersection. It helps slow down and control traffic. Without a stop light or traffic cop, cars go through the intersection uncontrolled and you get traffic accidents. Likewise, without insulin in the body, gluconeogenesis, glycolysis, proteolysis, ketogenesis, and lipolysis all proceed at high rates without anything to stop them. The end result is hyperglycemia, ketoacidosis, and eventually death.
 

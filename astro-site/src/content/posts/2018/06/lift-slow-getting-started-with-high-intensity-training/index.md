@@ -9,7 +9,21 @@ description: "In my previous post, I mentioned the lack of resources for teachin
 commentCount: 4
 ---
 
-In my [previous post](/2018/06/starting-high-intensity-training-in-2018/), I mentioned the lack of resources for teaching the very basics of HIT and safe lifting to beginners. Most of what is available either assumes too much background knowledge or is too long-winded or is too hard to discover. I'm a fan of leaning into problems that I feel I can solve. I think I can communicate the ideas of high-intensity to a newbie audience, plus I have the web skills to put together a portal for that information. Today I launched a new website called Lift Slow. For now, I put up a splash page. Content will be coming later this summer. I don't see this project as a blog. Right now, I think this will be more like a pamphlet. Enough information to get someone started. Once they have an appreciation of this exercise philosophy, they can be passed on to the advanced sites and resources should they want to further their education. You do not need to bookmark Lift Slow. I'll be posting here when I have a true version 1 online. ![](./img/leg-press.jpg) _Photo by [Elias Rovielo](https://www.flickr.com/photos/eliasroviello)_ UPDATE 2021: I didn't pursue this idea and let the domain name expire.
+In my [previous post](/2018/06/starting-high-intensity-training-in-2018/), I mentioned the lack of resources for teaching the very basics of HIT and safe lifting to beginners. Most of what is available either assumes too much background knowledge or is too long-winded or is too hard to discover.
+
+I'm a fan of leaning into problems that I feel I can solve. I think I can communicate the ideas of high-intensity to a newbie audience, plus I have the web skills to put together a portal for that information.
+
+Today I launched a new website called Lift Slow.
+
+For now, I put up a splash page. Content will be coming later this summer. I don't see this project as a blog. Right now, I think this will be more like a pamphlet. Enough information to get someone started. Once they have an appreciation of this exercise philosophy, they can be passed on to the advanced sites and resources should they want to further their education.
+
+You do not need to bookmark Lift Slow. I'll be posting here when I have a true version 1 online.
+
+![](./img/leg-press.jpg)
+
+_Photo by [Elias Rovielo](https://www.flickr.com/photos/eliasroviello)_
+
+UPDATE 2021: I didn't pursue this idea and let the domain name expire.
 
 ---
 

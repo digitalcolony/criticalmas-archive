@@ -15,7 +15,9 @@ I few weeks ago I kicked off three new food projects. From left to right:
 2.  **Fermented Salsa** - This was my first vegetable ferment that used whey. The ferment went three days and tasted great to me. I didn't measure anything. Just added salsa like ingredients such as tomatoes, cilantro, hot peppers and salt. Then I took an immersion blender and topped it off with whey from the top of my yogurt.
 3.  **Red Clover Infusion** - Did you know those red clover "weeds" can be infused to make a tasty beverage? Supposedly there are health benefits as well. Just add 1/2 to 1 ounce red clover into a quart jar, add warm water, let it sit overnight, strain off clovers, refrigerate and then drink.
 
-![kvass-salsa-red-clover](./img/kvass-salsa-red-clover.jpg) _Beet Kvass, Fermented Salsa, Red Clover Infusion_
+![kvass-salsa-red-clover](./img/kvass-salsa-red-clover.jpg)
+
+_Beet Kvass, Fermented Salsa, Red Clover Infusion_
 
 ---
 

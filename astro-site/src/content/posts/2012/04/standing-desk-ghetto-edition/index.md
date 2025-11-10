@@ -9,7 +9,21 @@ description: "I haven't been motivated by the recent health scare stories that e
 commentCount: 13
 ---
 
-I haven't been motivated by the recent health scare stories that equate sitting at a desk as a health risk equal to smoking. I've worked in offices. I know the variations in people. I'm a wiggly ectomorph that can't sit still for long. I have to get up and move. Yet, I've worked with people who can sit for hours. They show less movement than a painting. To me it is obvious that our health outcomes will probably be different. _Better Movement_ has a great post titled [Is a Standing Desk a Good Idea?](https://www.bettermovement.org/blog/2011/is-a-standing-desk-a-good-idea) that rings more true to me. It also covers the problems from prolonged standing. This year I've been doing a lot more computer work and I've been experiencing more and more pain. The pain is behind my right shoulder and goes down my arm and lasts several hours a day. I probably need a new mouse, but today I needed to try something to deal with the pain. So based off a recommendation from a friend, I started shopping for an adjustable height desk. Then I had a thought that if didn't help with my pain, I'd be out $400. The logical course of action was to go ghetto. I grabbed a box. ![](./img/standing-desk-ghetto.jpg "standing-desk-ghetto") _My standing desk does double duty as my [fermentation station](/2011/10/my-fermentation-station/)._ Day one was a tough adjustment. My pain decreased, but at first I found it harder to focus on doing work. My guess is this just takes practice. I'll continue this experiment to see if my shoulder and arm feel better. Just when I was about to publish this post, I saw that the blog _Pain Database_ just released part one in a [series on Standing Desks](https://web.archive.org/web/20150811031932/http://paindatabase.com:80/standing-desk-1/). One line that jumped out at me was:
+I haven't been motivated by the recent health scare stories that equate sitting at a desk as a health risk equal to smoking. I've worked in offices. I know the variations in people. I'm a wiggly ectomorph that can't sit still for long. I have to get up and move. Yet, I've worked with people who can sit for hours. They show less movement than a painting. To me it is obvious that our health outcomes will probably be different.
+
+_Better Movement_ has a great post titled [Is a Standing Desk a Good Idea?](https://www.bettermovement.org/blog/2011/is-a-standing-desk-a-good-idea) that rings more true to me. It also covers the problems from prolonged standing.
+
+This year I've been doing a lot more computer work and I've been experiencing more and more pain. The pain is behind my right shoulder and goes down my arm and lasts several hours a day. I probably need a new mouse, but today I needed to try something to deal with the pain. So based off a recommendation from a friend, I started shopping for an adjustable height desk. Then I had a thought that if didn't help with my pain, I'd be out $400.
+
+The logical course of action was to go ghetto. I grabbed a box.
+
+![](./img/standing-desk-ghetto.jpg "standing-desk-ghetto")
+
+_My standing desk does double duty as my [fermentation station](/2011/10/my-fermentation-station/)._
+
+Day one was a tough adjustment. My pain decreased, but at first I found it harder to focus on doing work. My guess is this just takes practice. I'll continue this experiment to see if my shoulder and arm feel better.
+
+Just when I was about to publish this post, I saw that the blog _Pain Database_ just released part one in a [series on Standing Desks](https://web.archive.org/web/20150811031932/http://paindatabase.com:80/standing-desk-1/). One line that jumped out at me was:
 
 > **Variation in posture** is extremely important for pain prevention and treatment.
 

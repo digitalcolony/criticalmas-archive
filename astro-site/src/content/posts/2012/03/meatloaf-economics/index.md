@@ -9,13 +9,23 @@ description: "I got a comment on Facebook after I posted The Gyro Meatloaf Recip
 commentCount: 8
 ---
 
-I got a comment on Facebook after I posted [The Gyro Meatloaf Recipe](/2012/03/the-gyro-meatloaf-recipe/) about scaling down the recipe. The recipe is for a 3-pound meatloaf. My short answer was of course you can scale it down, but why would you? It takes less than one hour to make a one-pound meatloaf. That is heating the oven, mixing everything together, and cooking time. A two-pound meatloaf still takes one hour. As does a three-pound meatloaf. So I make my meatloaf using 3 pounds of meat because my baking tray isn't suited to cook 4 pounds of meat. Meatloaf is perfect for leftovers and for freezing. If you could interview my refrigerator, it would tell you that over 90% of the days in the last year I've had a meatloaf chilling inside her. _\*Are refrigerators feminine?_
+I got a comment on Facebook after I posted [The Gyro Meatloaf Recipe](/2012/03/the-gyro-meatloaf-recipe/) about scaling down the recipe. The recipe is for a 3-pound meatloaf. My short answer was of course you can scale it down, but why would you?
+
+It takes less than one hour to make a one-pound meatloaf. That is heating the oven, mixing everything together, and cooking time. A two-pound meatloaf still takes one hour. As does a three-pound meatloaf. So I make my meatloaf using 3 pounds of meat because my baking tray isn't suited to cook 4 pounds of meat.
+
+Meatloaf is perfect for leftovers and for freezing. If you could interview my refrigerator, it would tell you that over 90% of the days in the last year I've had a meatloaf chilling inside her. _\*Are refrigerators feminine?_
 
 
 ### Cost and Time
 
 
-Because I live in the Pacific Northwest, I can get grass pastured ground beef for about $6/lb. Add in a little onion, garlic, and spices and a three-pound meatloaf comes in at about $20 in material costs. If you use conventional beef, it will cost half that. For this example, let us say that the average portion is 1/3 of a pound or 5.33 ounces. That is 35 healthy grams of protein for just $2.22 (grass pastured) or $1.11 (conventional). What is the cooking time per meal, assuming a portion size of 1/3 pound? Since each meatloaf takes an hour, a one-pound meatloaf takes 20 minutes per portion. A two-pound meatloaf takes 10 minutes per portion. A three-pound meatloaf takes just 6.7 minutes per portion. Time economics dictate that you should cook the larger-sized meatloaf. Eating healthy on a consistent basis is not just picking the right food, it is also about balancing time and money. **The meatloaf is a slam dunk winner on time, money, and nutrition.** And meatloaf is also portable. I often will wrap a few pieces in foil and take them with me in a little cooler. _Now I am thinking that I need to buy another Pyrex tray. Two 3 pound meatloaves knock my time per meal down to 3.3 minutes._ :)
+Because I live in the Pacific Northwest, I can get grass pastured ground beef for about $6/lb. Add in a little onion, garlic, and spices and a three-pound meatloaf comes in at about $20 in material costs. If you use conventional beef, it will cost half that. For this example, let us say that the average portion is 1/3 of a pound or 5.33 ounces. That is 35 healthy grams of protein for just $2.22 (grass pastured) or $1.11 (conventional).
+
+What is the cooking time per meal, assuming a portion size of 1/3 pound? Since each meatloaf takes an hour, a one-pound meatloaf takes 20 minutes per portion. A two-pound meatloaf takes 10 minutes per portion. A three-pound meatloaf takes just 6.7 minutes per portion. Time economics dictate that you should cook the larger-sized meatloaf.
+
+Eating healthy on a consistent basis is not just picking the right food, it is also about balancing time and money. **The meatloaf is a slam dunk winner on time, money, and nutrition.** And meatloaf is also portable. I often will wrap a few pieces in foil and take them with me in a little cooler.
+
+_Now I am thinking that I need to buy another Pyrex tray. Two 3 pound meatloaves knock my time per meal down to 3.3 minutes._ :)
 
 ---
 

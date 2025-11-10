@@ -13,13 +13,23 @@ I just finished reading The Red Queen: Sex and the Evolution of Human Nature by 
 
 > Half the ideas in this book are probably wrong.
 
-After 400 pages of detailed scientific writing, the author concedes that half of the conclusions he arrived at will end up being proven wrong. I love the spirit of throwing out new ideas and challenging old ones, knowing full well that you will be proven wrong to some degree at some future date and being OK with it. ![mas-cake](./img/mas-cake.jpg) _I used to believe that cake was awesome food. I was wrong._ The reason the sentence spoke to me was that last week someone called my attention to a blog post I wrote years ago that contradicted a recent post. That person was upset with my current opinion and decided to call me out on my inconsistencies. I'm cool with admitting when I'm wrong. As new evidence emerges or as my understanding of a topic improves, I'll change my opinion. Should I take down old posts or correct them? Probably not, because if I was wrong on certain points before, then odds are that I'm wrong on a few things right now.
+After 400 pages of detailed scientific writing, the author concedes that half of the conclusions he arrived at will end up being proven wrong. I love the spirit of throwing out new ideas and challenging old ones, knowing full well that you will be proven wrong to some degree at some future date and being OK with it.
+
+![mas-cake](./img/mas-cake.jpg)
+
+_I used to believe that cake was awesome food. I was wrong._
+
+The reason the sentence spoke to me was that last week someone called my attention to a blog post I wrote years ago that contradicted a recent post. That person was upset with my current opinion and decided to call me out on my inconsistencies.
+
+I'm cool with admitting when I'm wrong. As new evidence emerges or as my understanding of a topic improves, I'll change my opinion. Should I take down old posts or correct them? Probably not, because if I was wrong on certain points before, then odds are that I'm wrong on a few things right now.
 
 
 ### Being Wrong is Liberating
 
 
-Whenever I think back to the points in my life where I admitted that I was wrong, it was almost always followed by a surge in personal growth. I no longer care if I save face. I'd rather chalk things up as a learning experience and move on. I've been wrong about politics, nutrition, fitness, finance, and even relationships. I'm certain to be wrong in the future. Trying to stay true to former opinions is too exhausting. It is better to quickly admit errors and move forward.
+Whenever I think back to the points in my life where I admitted that I was wrong, it was almost always followed by a surge in personal growth. I no longer care if I save face. I'd rather chalk things up as a learning experience and move on.
+
+I've been wrong about politics, nutrition, fitness, finance, and even relationships. I'm certain to be wrong in the future. Trying to stay true to former opinions is too exhausting. It is better to quickly admit errors and move forward.
 
 ---
 

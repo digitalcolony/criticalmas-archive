@@ -9,7 +9,15 @@ description: "For the past 30 years, whole wheat has been considered the staple 
 commentCount: 10
 ---
 
-For the past 30 years, whole wheat has been considered the staple of a heart-healthy diet. This may be the biggest lie in nutrition today. Not only is wheat not healthy, but I also discovered that removing it was the [single best step I took to improve my health](/2011/09/ranking-my-postive-health-changes/). Other books including [The Paleo Solution](/2010/09/my-review-of-the-paleo-solution/) and [The Primal Blueprint](/2009/06/the-primal-blueprint-10-old-school-laws-for-nutrition-and-fitness/) have gone after wheat in a chapter or two. _Wheat Belly_ is an entire book dedicated to exposing wheat for the poison it is. Dr. Davis pulls no punches. ![Wheat Belly: Lose the Wheat, Lose the Weight, and Find Your Path Back to Health](https://images-na.ssl-images-amazon.com/images/I/51RcqqvySnL.jpg) _Wheat Belly: Lose the Wheat, Lose the Weight, and Find Your Path Back to Health by Dr. William Davis._ _Wheat Belly_ reminded me of that scene from _Star Trek 2: The Wrath of Kahn_. The evil Kahn confident of victory tells Captain Kirk that his time is up. Kirk responds by saying "Here it comes.." and launches an attack. _Wheat Belly_ is the "Here it Comes" attack on wheat and all its defenders. Since I've long given up wheat, you might wonder why I read this book. I read it because I really like the writing style of Dr. Davis. Too many blogs these days have become bloated PubMed abstracts. It is refreshing to find writers that can educate readers on important health issues using crisp writing. _Wheat Belly_ is highly accessible to the average reader. You do not need to be a nutrition geek to understand it. Some topics covered in the book include:
+For the past 30 years, whole wheat has been considered the staple of a heart-healthy diet. This may be the biggest lie in nutrition today. Not only is wheat not healthy, but I also discovered that removing it was the [single best step I took to improve my health](/2011/09/ranking-my-postive-health-changes/). Other books including [The Paleo Solution](/2010/09/my-review-of-the-paleo-solution/) and [The Primal Blueprint](/2009/06/the-primal-blueprint-10-old-school-laws-for-nutrition-and-fitness/) have gone after wheat in a chapter or two. _Wheat Belly_ is an entire book dedicated to exposing wheat for the poison it is. Dr. Davis pulls no punches.
+
+![Wheat Belly: Lose the Wheat, Lose the Weight, and Find Your Path Back to Health](https://images-na.ssl-images-amazon.com/images/I/51RcqqvySnL.jpg) _Wheat Belly: Lose the Wheat, Lose the Weight, and Find Your Path Back to Health by Dr. William Davis._
+
+_Wheat Belly_ reminded me of that scene from _Star Trek 2: The Wrath of Kahn_. The evil Kahn confident of victory tells Captain Kirk that his time is up. Kirk responds by saying "Here it comes.." and launches an attack. _Wheat Belly_ is the "Here it Comes" attack on wheat and all its defenders.
+
+Since I've long given up wheat, you might wonder why I read this book. I read it because I really like the writing style of Dr. Davis. Too many blogs these days have become bloated PubMed abstracts. It is refreshing to find writers that can educate readers on important health issues using crisp writing. _Wheat Belly_ is highly accessible to the average reader. You do not need to be a nutrition geek to understand it.
+
+Some topics covered in the book include:
 
 -   How wheat spikes your blood sugar more than ice cream and candy bars.
 -   How wheat can cause gut permeability, which can lead to a host of health problems.
@@ -21,7 +29,9 @@ For the past 30 years, whole wheat has been considered the staple of a heart-hea
 -   Wheat has addictive opiate-like properties and how it stimulates appetite.
 -   Although it did not cover [rosacea](/2011/04/be-your-own-dermatologist/), there is an excellent chapter on the damage wheat does to healthy skin.
 
-_Wheat Belly_ is an excellent book if you are looking for motivation or reasons to go gluten-free. One final word, when I cut back and eventually eliminated wheat I didn't lose a lot of weight at first, what I did lose was inches. That puffiness went away faster than the pounds dropped off the scale. So if you are going to go wheat free as a fat loss strategy, be sure to also take a tape measure reading of your belly. Like me, you may lose the bloat before you lose the pounds. Also see [The Downside to Life Without Bread](/2011/04/the-downside-to-life-without-bread/).
+_Wheat Belly_ is an excellent book if you are looking for motivation or reasons to go gluten-free. One final word, when I cut back and eventually eliminated wheat I didn't lose a lot of weight at first, what I did lose was inches. That puffiness went away faster than the pounds dropped off the scale. So if you are going to go wheat free as a fat loss strategy, be sure to also take a tape measure reading of your belly. Like me, you may lose the bloat before you lose the pounds.
+
+Also see [The Downside to Life Without Bread](/2011/04/the-downside-to-life-without-bread/).
 
 ---
 

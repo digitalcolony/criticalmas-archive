@@ -9,7 +9,9 @@ description: "I've received a few requests asking me what foods I eat and which 
 commentCount: 26
 ---
 
-I've received a few requests asking me what foods I eat and which ones I avoid. I slapped a date on this post because I expect it to change over time. Although I don't expect major changes, there will be minor adjustments from time to time. What I Eat
+I've received a few requests asking me what foods I eat and which ones I avoid. I slapped a date on this post because I expect it to change over time. Although I don't expect major changes, there will be minor adjustments from time to time.
+
+What I Eat
 
 -   Pastured organic meat.
 -   Clean seafood.

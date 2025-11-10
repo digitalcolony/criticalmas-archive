@@ -9,7 +9,23 @@ description: "I'm interrupting my blog vacation to tell you about an amazing die
 commentCount: 14
 ---
 
-I'm interrupting my blog vacation to tell you about an amazing diet that I stumbled upon. You can lay in bed all weekend, sleep most of it if you like and lose weight! Absolutely no exercise required. No special supplements required either! On Friday afternoon I had 3 tacos an authentic taco place in Redwood City, CA. One lengua and two beef cheeks. Later that afternoon I felt bad. By that night I felt awful. For four days I was in pain. I had almost no appetite. I slept more than I have in my entire adult life. When I did eat, all I could stomach was white rice and Coke. I also was able to eat fruit. Prior to my feeling awful and during the weekend, I ate nectarines that I purchased at Costco. On the 4th day, I received an alert that those nectarines had been recalled due to listeria concerns. I stopped eating them and threw the remainder away. By day 5, I was much better and my day 6 all better. I've had food poisoning in Mexico (of course) and Malaysia. Both were from fancy places. This experience was far worse than those two combined. The result of my food poisoning diet was I lost a little more than 1/2 inch off my waist. Probably unsustainable, but I thought it was worth sharing. I think the problem was from the sketchy meat and not the fruit, but I have no way of knowing. I do know that I have lost all interest in exploring the taco culture in my new city for the time being. And I'll be sticking to the apples for my next few Costco trips. When I had no desire to eat, I consciously choose to eat white rice with salt because not only was it easy to make, but it wasn't that palatable. It was neutral. I had no desire for stronger or complex flavors. When I restricted myself to neutral foods, I ate less and lost weight. I couldn't help but think of the opposite case where food engineers design foods that consumers love so much that that easily over-consume, which is described in the great book _The End of Overeating_. ![The End of Overeating: Taking Control of the Insatiable American Appetite](https://images-na.ssl-images-amazon.com/images/I/41fBrk8HNAL.jpg) _The End of Overeating: Taking Control of the Insatiable American Appetite by David Kessler_ Anyway, I don't think you need to eat sketchy meat or recalled fruit to lose weight. Just try a weekend of bland food.
+I'm interrupting my blog vacation to tell you about an amazing diet that I stumbled upon. You can lay in bed all weekend, sleep most of it if you like and lose weight! Absolutely no exercise required. No special supplements required either!
+
+On Friday afternoon I had 3 tacos an authentic taco place in Redwood City, CA. One lengua and two beef cheeks. Later that afternoon I felt bad. By that night I felt awful. For four days I was in pain. I had almost no appetite. I slept more than I have in my entire adult life. When I did eat, all I could stomach was white rice and Coke. I also was able to eat fruit.
+
+Prior to my feeling awful and during the weekend, I ate nectarines that I purchased at Costco. On the 4th day, I received an alert that those nectarines had been recalled due to listeria concerns. I stopped eating them and threw the remainder away.
+
+By day 5, I was much better and my day 6 all better.
+
+I've had food poisoning in Mexico (of course) and Malaysia. Both were from fancy places. This experience was far worse than those two combined.
+
+The result of my food poisoning diet was I lost a little more than 1/2 inch off my waist. Probably unsustainable, but I thought it was worth sharing. I think the problem was from the sketchy meat and not the fruit, but I have no way of knowing. I do know that I have lost all interest in exploring the taco culture in my new city for the time being. And I'll be sticking to the apples for my next few Costco trips.
+
+When I had no desire to eat, I consciously choose to eat white rice with salt because not only was it easy to make, but it wasn't that palatable. It was neutral. I had no desire for stronger or complex flavors. When I restricted myself to neutral foods, I ate less and lost weight. I couldn't help but think of the opposite case where food engineers design foods that consumers love so much that that easily over-consume, which is described in the great book _The End of Overeating_.
+
+![The End of Overeating: Taking Control of the Insatiable American Appetite](https://images-na.ssl-images-amazon.com/images/I/41fBrk8HNAL.jpg) _The End of Overeating: Taking Control of the Insatiable American Appetite by David Kessler_
+
+Anyway, I don't think you need to eat sketchy meat or recalled fruit to lose weight. Just try a weekend of bland food.
 
 ---
 

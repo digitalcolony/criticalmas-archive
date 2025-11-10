@@ -13,37 +13,55 @@ Yesterday I was thinking about all my conversations with people in the past two 
 
 > And so it is with the potato hack. It’s amusing how people react when they first learn of the potato hack. Denial, anger, bargaining, and acceptance. Never fails.
 
-With the Potato Hack, most people never make it through all the stages. They get stuck. This is unfortunate because the Potato Hack is extremely powerful. ![5](./img/5.jpg) _I took this photo at a Portland coffee shop in 2010._
+With the Potato Hack, most people never make it through all the stages. They get stuck. This is unfortunate because the Potato Hack is extremely powerful.
+
+![5](./img/5.jpg)
+
+_I took this photo at a Portland coffee shop in 2010._
 
 
 ### #1 Denial
 
 
-Stage 1 is denial. Denial is expressed with laughter and disbelief. How can anyone eat nothing but plain boiled potatoes with just salt for days? The idea is too foreign to them. It can't be real. Denial extends to people that think carbs or potatoes are inherently fattening. Or maybe they think the diet will leave them in a malnourished state. You may be able to convince them or they might move to the next stage.
+Stage 1 is denial. Denial is expressed with laughter and disbelief. How can anyone eat nothing but plain boiled potatoes with just salt for days? The idea is too foreign to them. It can't be real.
+
+Denial extends to people that think carbs or potatoes are inherently fattening. Or maybe they think the diet will leave them in a malnourished state. You may be able to convince them or they might move to the next stage.
 
 
 ### #2 Anger
 
 
-When you hold very firm nutritional beliefs and an idea such as the Potato Hack threatens those beliefs, you can lash out. Just start throwing anything you can think of to tear down the idea. This is what we saw in 2016 when Karl Denninger and Richard Nikoley battled on Twitter and their blogs. I covered that war in the post [Designing a Modern Peasant Diet](/2016/11/designing-modern-peasant-diet/). Denninger, a low-carb zealot, went from Denial straight into Anger once Nikoley made some convincing arguments. Denninger fumed, wrote a bunch of nonsense, and then took those posts down.
+When you hold very firm nutritional beliefs and an idea such as the Potato Hack threatens those beliefs, you can lash out. Just start throwing anything you can think of to tear down the idea.
+
+This is what we saw in 2016 when Karl Denninger and Richard Nikoley battled on Twitter and their blogs. I covered that war in the post [Designing a Modern Peasant Diet](/2016/11/designing-modern-peasant-diet/). Denninger, a low-carb zealot, went from Denial straight into Anger once Nikoley made some convincing arguments. Denninger fumed, wrote a bunch of nonsense, and then took those posts down.
 
 
 ### #3 Bargaining
 
 
-Bargaining is the most predictable stage. Once they've accepted the concept, moved past any objection they can think of, they immediately start looking for loopholes. Can I have sour cream? Can I have ketchup? What about apples? Salads? Eggs? Protein shakes? They want to drop weight and they get that the Potato Hack can help. Now they want a way to make it easier.
+Bargaining is the most predictable stage. Once they've accepted the concept, moved past any objection they can think of, they immediately start looking for loopholes. Can I have sour cream? Can I have ketchup? What about apples? Salads? Eggs? Protein shakes?
+
+They want to drop weight and they get that the Potato Hack can help. Now they want a way to make it easier.
 
 
 ### #4 Depression
 
 
-Depression is what I see in the eyes of people just after the Bargaining stage. A look of sadness. How could they give up the flavors they crave for even a single day, let alone 3 or 5 days? Many will make it to this stage, imagine the Depression, and then never do a thing about it. It is too much. Depression feels bad. They can move through the Depression stage or head back to the kitchen for some ice cream and cookies to make the sadness disappear.
+Depression is what I see in the eyes of people just after the Bargaining stage. A look of sadness. How could they give up the flavors they crave for even a single day, let alone 3 or 5 days?
+
+Many will make it to this stage, imagine the Depression, and then never do a thing about it. It is too much. Depression feels bad. They can move through the Depression stage or head back to the kitchen for some ice cream and cookies to make the sadness disappear.
 
 
 ### #5 Acceptance
 
 
-A small minority will make it to the Acceptance stage. They know the Potato Hack will work and they know it will be a challenge, but they have accepted the challenge. Good for them. During the Potato Hack, they will probably lose a few pounds, but even more, they will learn about themselves and their relationship to food and flavors in a hypercaloric environment. They will grow from the experience. ![Potato Hack Diet book](./img/potato-hack-diet.jpg) _Potato Hack: Weight Loss Simplified_
+A small minority will make it to the Acceptance stage. They know the Potato Hack will work and they know it will be a challenge, but they have accepted the challenge. Good for them.
+
+During the Potato Hack, they will probably lose a few pounds, but even more, they will learn about themselves and their relationship to food and flavors in a hypercaloric environment. They will grow from the experience.
+
+![Potato Hack Diet book](./img/potato-hack-diet.jpg)
+
+_Potato Hack: Weight Loss Simplified_
 
 ---
 

@@ -13,7 +13,13 @@ A month ago I decided I would not renew my membership and stop lifting weights. 
 
 > The things I need to do to improve my fitness level dont require a gym. In fact, getting away from the heavy weights for a month or quarter might be just what I need.
 
-That turned out to be half true. I need to improve my posture, my alignment, my core and my flexibility. And in the last month I have made some improvements. But I really need to lift something heavy right now. I looked into buying a kettle bell, but changed my mind once I calculated the shipping charges. Push-ups aren't working. Elevated push-ups are boring me as well. Body weight exercises are important, but I need something else. I need to return to the gym. In addition to the endorphin rush of lifting weights, I also miss watching the foolish behavior that I see in Glitter Gyms. Some people have told me they miss [Tales From The Glitter Gym](https://criticalmas.org/tag/glitter-gym/). I guess I do as well. Tomorrow I will sign up for 3 months at my old Glitter Gym.
+That turned out to be half true. I need to improve my posture, my alignment, my core and my flexibility. And in the last month I have made some improvements. But I really need to lift something heavy right now. I looked into buying a kettle bell, but changed my mind once I calculated the shipping charges.
+
+Push-ups aren't working. Elevated push-ups are boring me as well. Body weight exercises are important, but I need something else. I need to return to the gym.
+
+In addition to the endorphin rush of lifting weights, I also miss watching the foolish behavior that I see in Glitter Gyms. Some people have told me they miss [Tales From The Glitter Gym](https://criticalmas.org/tag/glitter-gym/). I guess I do as well.
+
+Tomorrow I will sign up for 3 months at my old Glitter Gym.
 
 ---
 

@@ -8,23 +8,41 @@ description: "A topic that I've been fascinated with for more than a decade is t
 commentCount: 6
 ---
 
-A topic that I've been fascinated with for more than a decade is the role exercise has on appetite. Going back over a decade, I have several posts on my views of exercising while dieting. The short version is that one should focus on nutrition first and slowly add exercise as the weight comes off. Be patient otherwise, you will always be hungry and likely regain. I've said enough on that point. What about those of us who are weight-stable? Do different forms of exercise have different effects on appetite - even when adjusted for caloric burn? I don't have a firm opinion on this and it may be woo-woo, but I think the the brain knows when to ramp up appetite to a greater extent depending on the type of exercise. Before I explain, I want to distinguish this idea from the HIT gospel: a muscle doesn't know the difference between free weights and machines when under equal load. That I still believe to be accurate. Based only on my personal experience and observation, I suspect that exercises that favor being heavier will drive appetite higher, and exercises that favor being lighter will have less of an impact on appetite.
+A topic that I've been fascinated with for more than a decade is the role exercise has on appetite. Going back over a decade, I have several posts on my views of exercising while dieting. The short version is that one should focus on nutrition first and slowly add exercise as the weight comes off. Be patient otherwise, you will always be hungry and likely regain.
+
+I've said enough on that point. What about those of us who are weight-stable? Do different forms of exercise have different effects on appetite - even when adjusted for caloric burn?
+
+I don't have a firm opinion on this and it may be woo-woo, but I think the the brain knows when to ramp up appetite to a greater extent depending on the type of exercise. Before I explain, I want to distinguish this idea from the HIT gospel: a muscle doesn't know the difference between free weights and machines when under equal load. That I still believe to be accurate.
+
+Based only on my personal experience and observation, I suspect that exercises that favor being heavier will drive appetite higher, and exercises that favor being lighter will have less of an impact on appetite.
 
 
 ### Bro-Lifting vs Bodyweight
 
 
-When I focused on doing heavier "bro-lifts" (squats, deadlifts, bench), my appetite was never greater. Weighing more provides an advantage in these lifts. When I focused on body weight exercises such as chin-ups and pushups, my appetite was more in check. In fact, at those times I did the most chin-ups was times when dieting was easier. Did my brain calibrate an appetite for success in both scenarios? From my [2012 Chin-Up post](/2012/09/how-i-improved-my-chin-ups/):
+When I focused on doing heavier "bro-lifts" (squats, deadlifts, bench), my appetite was never greater. Weighing more provides an advantage in these lifts. When I focused on body weight exercises such as chin-ups and pushups, my appetite was more in check. In fact, at those times I did the most chin-ups was times when dieting was easier. Did my brain calibrate an appetite for success in both scenarios?
+
+From my [2012 Chin-Up post](/2012/09/how-i-improved-my-chin-ups/):
 
 > Dropping 20 pounds made it seem like I was floating upwards.
 
-One could say that my volume of work was greater when bro-lifting. That is true if you only look at the workouts and not the total activity for the week. When I was bro-lifting, I would collapse into the recliner a lot more. When I did bodyweight, I did more activity throughout the week, such as hiking. If one looked at calorie burn, they would likely be equal. Yet my appetite was higher bro-lifting. Am I alone? There are a few YouTube channels of former bro-lifters who switched to bodyweight/calisthenics during COVID-19. They switched to exercises that penalize any extra weight and although I don't know if they feel less hungry than when they were in the gym, I suspect they are. They now have a leaner and less bulky look. I may have the correlation backward. Lean people succeed in bodyweight exercises. Stocky men succeed in bro-lifting. It would be interesting to track athletes who switch from bro-lifting to bodyweight (or vice-versa) and track their appetite perception.
+One could say that my volume of work was greater when bro-lifting. That is true if you only look at the workouts and not the total activity for the week. When I was bro-lifting, I would collapse into the recliner a lot more. When I did bodyweight, I did more activity throughout the week, such as hiking. If one looked at calorie burn, they would likely be equal. Yet my appetite was higher bro-lifting.
+
+Am I alone? There are a few YouTube channels of former bro-lifters who switched to bodyweight/calisthenics during COVID-19. They switched to exercises that penalize any extra weight and although I don't know if they feel less hungry than when they were in the gym, I suspect they are. They now have a leaner and less bulky look.
+
+I may have the correlation backward. Lean people succeed in bodyweight exercises. Stocky men succeed in bro-lifting. It would be interesting to track athletes who switch from bro-lifting to bodyweight (or vice-versa) and track their appetite perception.
 
 
 ### Walking and Running
 
 
-Walking doesn't increase my appetite. Back when I was [running distances](/2008/03/the-runner-1989-1995/), I was constantly hungry. Like the bro-lifting example above, although running burns more calories than walking, I spent much more time resting between those runs. Did the brain ramp up my appetite to compensate for the calories lost during a run and the possibility of needing additional fat stores for future runs? Does my brain keep my appetite in check when I walk 10,000 steps a day because carrying extra weight for that much time would be inefficient? I don't know the answer. There are a lot of chubby distance runners out there. When I return from a walk, I don't need to eat a plate of pancakes. Back when I was training for a marathon, I was always eating more than I needed. I'm leaner and less hungry walking. ![](./img/runner.jpg)
+Walking doesn't increase my appetite. Back when I was [running distances](/2008/03/the-runner-1989-1995/), I was constantly hungry. Like the bro-lifting example above, although running burns more calories than walking, I spent much more time resting between those runs.
+
+Did the brain ramp up my appetite to compensate for the calories lost during a run and the possibility of needing additional fat stores for future runs? Does my brain keep my appetite in check when I walk 10,000 steps a day because carrying extra weight for that much time would be inefficient?
+
+I don't know the answer. There are a lot of chubby distance runners out there. When I return from a walk, I don't need to eat a plate of pancakes. Back when I was training for a marathon, I was always eating more than I needed. I'm leaner and less hungry walking.
+
+![](./img/runner.jpg)
 
 
 ### Your Thoughts?

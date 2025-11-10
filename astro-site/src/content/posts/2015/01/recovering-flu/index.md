@@ -9,7 +9,19 @@ description: "The flu hit me hard about a day after my Feeling Destructive post.
 commentCount: 24
 ---
 
-The flu hit me hard about a day after my [Feeling Destructive](/2014/12/feeling-destructive/) post. My guess is the poor mood I exhibited in that post was probably because I was already coming down with something, but didn't realize it yet. The fever went away in a few days, but I still have a lingering cough and lack of energy. ![sick](./img/sick.jpg) _[Photo](https://flic.kr/p/iXrXc3) by wallsdontlie_ One of the common topics on this site going back to 2007 is how to build super immunity to fight off illness. Although I'd love to think I've learned a lot and that my immune system is so much stronger, I may have been deluding myself. There are so many confident posts in the archive where I wrote about how invincible I had become. I followed my own advice in this [2011 post](/2011/01/how-i-fought-off-a-potential-cold/) and yet here I am sick. There is probably no way to quantify how much better my immune system today is than it was in 2007. And maybe it isn't. When I revisited health and nutrition, I was inspired by Art De Vany who claimed to never sick and that was because of the health choices he had made. For a while, I thought I too had found the enlightened path of never getting sick, but with enough time and data, that turned out not to be true. Is it genetics, the food we eat, luck or some combination? How much is even in our control?
+The flu hit me hard about a day after my [Feeling Destructive](/2014/12/feeling-destructive/) post. My guess is the poor mood I exhibited in that post was probably because I was already coming down with something, but didn't realize it yet. The fever went away in a few days, but I still have a lingering cough and lack of energy.
+
+![sick](./img/sick.jpg)
+
+_[Photo](https://flic.kr/p/iXrXc3) by wallsdontlie_
+
+One of the common topics on this site going back to 2007 is how to build super immunity to fight off illness. Although I'd love to think I've learned a lot and that my immune system is so much stronger, I may have been deluding myself. There are so many confident posts in the archive where I wrote about how invincible I had become.
+
+I followed my own advice in this [2011 post](/2011/01/how-i-fought-off-a-potential-cold/) and yet here I am sick.
+
+There is probably no way to quantify how much better my immune system today is than it was in 2007. And maybe it isn't. When I revisited health and nutrition, I was inspired by Art De Vany who claimed to never sick and that was because of the health choices he had made. For a while, I thought I too had found the enlightened path of never getting sick, but with enough time and data, that turned out not to be true.
+
+Is it genetics, the food we eat, luck or some combination? How much is even in our control?
 
 ---
 

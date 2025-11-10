@@ -175,7 +175,9 @@ I probably forgot a few reasons, but these are the ones that came to mind. I alw
 ### Resources
 
 
-[Make Concentrated Cold Brew Coffee With the Penguin Coffee](https://ineedcoffee.com/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/) - This is the brewer I use. [Cold Brew Coffee is Not Rocket Science](https://ineedcoffee.com/cold-brew-coffee-is-not-rocket-science/) - An overview of the cold brew coffee method.
+[Make Concentrated Cold Brew Coffee With the Penguin Coffee](https://ineedcoffee.com/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/) - This is the brewer I use.
+
+[Cold Brew Coffee is Not Rocket Science](https://ineedcoffee.com/cold-brew-coffee-is-not-rocket-science/) - An overview of the cold brew coffee method.
 
 ---
 

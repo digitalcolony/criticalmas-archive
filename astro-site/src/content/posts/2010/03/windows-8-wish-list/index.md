@@ -9,14 +9,20 @@ description: "I may be the only Windows user out here that was unimpressed with 
 commentCount: 6
 ---
 
-I may be the only Windows user out here that was unimpressed with Windows 7. Sure it was pretty, but so far I have found it slightly less stable than VISTA. Windows 7 turned my working printer/scanner into a stand alone scanner that refuses to print. Oh well, time to discuss the future. Here is my Wish List for the next version of Windows.
+I may be the only Windows user out here that was unimpressed with Windows 7. Sure it was pretty, but so far I have found it slightly less stable than VISTA. Windows 7 turned my working printer/scanner into a stand alone scanner that refuses to print. Oh well, time to discuss the future.
+
+Here is my Wish List for the next version of Windows.
 
 1.  When I kill an application for hanging, don't go searching for a solution. You've never found one. You never will. All you do is kill a minute of my life making me wait. And I am aware there is a 10 step _instant kill_ method that geeks know about. Not interested. I want the ability to KILL INSTANTLY any application.
 2.  A lean mean Windows Explorer. It has gotten way too bloated. This application should be rocking fast. It routinely hangs loading folders with lots of files.
 3.  What happened with Adobe Flash? It used to work fine, but now it crashes frequently. The browser doesn't matter. Flash became unstable once I went to Windows 7. If it is a Microsoft problem, fix it. If is an Adobe problem, deal with them directly on finding a solution.
 4.  Unified volume control. I am so SICK of every web and desktop application having independent volume controls. Radio and TV don't work that way. I want the operating system to calibrate the volumes for me and then I can adjust a single volume from my speakers.
 
-If you have something you wish to add to the Windows 8 wish list, add it in the comments. I know at least one person inside Microsoft will be reading it. ![windows](./img/39654309_e638136303_z.jpg) _[Photo](https://flic.kr/p/4veQZ) by Bill V_
+If you have something you wish to add to the Windows 8 wish list, add it in the comments. I know at least one person inside Microsoft will be reading it.
+
+![windows](./img/39654309_e638136303_z.jpg)
+
+_[Photo](https://flic.kr/p/4veQZ) by Bill V_
 
 ---
 

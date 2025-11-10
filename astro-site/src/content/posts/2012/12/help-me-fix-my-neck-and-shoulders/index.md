@@ -9,13 +9,33 @@ description: "Most of the health posts on this site are me sharing what I've lea
 commentCount: 52
 ---
 
-Most of the health posts on this site are me sharing what I've learned. For this post, **I am openly asking for your help**. For several years, I have had tight neck and shoulder muscles. Although I rarely would say that I am in pain, it has been an annoyance. All my other health markers have improved, including headaches, except this. I have done the conventional advice and it has not helped. ![](./img/shoulders-neck.jpg "shoulders-neck") _[Photo](http://www.flickr.com/photos/roland/7174328970/) by Roland_
+Most of the health posts on this site are me sharing what I've learned. For this post, **I am openly asking for your help**. For several years, I have had tight neck and shoulder muscles. Although I rarely would say that I am in pain, it has been an annoyance. All my other health markers have improved, including headaches, except this. I have done the conventional advice and it has not helped.
+
+![](./img/shoulders-neck.jpg "shoulders-neck")
+
+_[Photo](http://www.flickr.com/photos/roland/7174328970/) by Roland_
 
 
 ### More Detail
 
 
-The back of my neck and shoulders are often very tight. I have done all the more popular neck exercises. See the chart on [this page](https://lifestylephysio.com.au/neck-exercises/). When I do these exercises on a consistent basis, my range of motion increases; however, they have done nothing to reduce the tightness. When doing the Trapezius Stretch (exercise #1) on the chart, I can lower my ear all the way to my shoulder on both sides. I have excellent mobility, but it is still tight. When I move my neck quickly, I get a minor jolt of pain. As a result, I tend to turn to look more with my upper torso than my neck. Even though I am a champ when it comes to parallel parking, I can really feel the restricted movement in my neck when I park. I also get a minor jolt of pain if I jump down. On the rare occasions I do sprint, I have to maintain perfect form and keep my neck straight. The tightness used to be more pronounced on my right side, which is my dominant hand. Since switching to a [vertical mouse](/2012/09/embrace-the-vertical-mouse/), the tightness is more centrally located with only a slight bias toward the right. Deep tissue massage feels wonderful and helps a lot, but it is costly, so I rarely get a massage. A few months ago, my neck was in such awful shape that I had an hour massage where the massage giver was only able to work out about half the tension. Normally, I would suspect they were trying to upsell more sessions, but I knew they were right. Ideally, I'd like to have neck and shoulders that didn't require regular professional maintenance. As much as I love and have benefited from the exercises in [3 Minutes to a Pain-Free Life](/2011/12/3-minutes-to-a-pain-free-life/), I have gotten no relief from their neck exercises. I also have stopped doing shoulder lifts in the gym, as I have found they make me even tighter. ![](./img/6-sky-reach-500.jpg "Sky reach") _I do the Sky Reach stretch from 3 Minutes to a Pain-Free Life daily. It feels good, and I do now have a full range of motion, but my shoulders still feel tight._  When I chased down the root cause of my back pain, I discovered it was [psychological](/2011/02/the-psychology-of-back-pain/). Although there could be a stress root, this seems totally different. The back pain was not subtle. It was intense and quite distracting. It spiked during periods of stress and disappeared during periods of low stress. The neck and shoulder tightness almost never surfaces as pain, and when it has been painful, the pain level was very low compared to prior back pain. The neck and shoulder tightness rarely demands my attention, which makes me skeptical that it has stress roots. That analysis is based on what I've read by Dr. Sarno and other experts in the field. Also, the neck and shoulder tightness pre-dates my back pain and exists today post back pain. Other tidbits:
+The back of my neck and shoulders are often very tight. I have done all the more popular neck exercises. See the chart on [this page](https://lifestylephysio.com.au/neck-exercises/). When I do these exercises on a consistent basis, my range of motion increases; however, they have done nothing to reduce the tightness. When doing the Trapezius Stretch (exercise #1) on the chart, I can lower my ear all the way to my shoulder on both sides. I have excellent mobility, but it is still tight.
+
+When I move my neck quickly, I get a minor jolt of pain. As a result, I tend to turn to look more with my upper torso than my neck. Even though I am a champ when it comes to parallel parking, I can really feel the restricted movement in my neck when I park. I also get a minor jolt of pain if I jump down. On the rare occasions I do sprint, I have to maintain perfect form and keep my neck straight.
+
+The tightness used to be more pronounced on my right side, which is my dominant hand. Since switching to a [vertical mouse](/2012/09/embrace-the-vertical-mouse/), the tightness is more centrally located with only a slight bias toward the right.
+
+Deep tissue massage feels wonderful and helps a lot, but it is costly, so I rarely get a massage. A few months ago, my neck was in such awful shape that I had an hour massage where the massage giver was only able to work out about half the tension. Normally, I would suspect they were trying to upsell more sessions, but I knew they were right. Ideally, I'd like to have neck and shoulders that didn't require regular professional maintenance.
+
+As much as I love and have benefited from the exercises in [3 Minutes to a Pain-Free Life](/2011/12/3-minutes-to-a-pain-free-life/), I have gotten no relief from their neck exercises. I also have stopped doing shoulder lifts in the gym, as I have found they make me even tighter.
+
+![](./img/6-sky-reach-500.jpg "Sky reach")
+
+_I do the Sky Reach stretch from 3 Minutes to a Pain-Free Life daily. It feels good, and I do now have a full range of motion, but my shoulders still feel tight._ 
+
+When I chased down the root cause of my back pain, I discovered it was [psychological](/2011/02/the-psychology-of-back-pain/). Although there could be a stress root, this seems totally different. The back pain was not subtle. It was intense and quite distracting. It spiked during periods of stress and disappeared during periods of low stress. The neck and shoulder tightness almost never surfaces as pain, and when it has been painful, the pain level was very low compared to prior back pain. The neck and shoulder tightness rarely demands my attention, which makes me skeptical that it has stress roots. That analysis is based on what I've read by Dr. Sarno and other experts in the field. Also, the neck and shoulder tightness pre-dates my back pain and exists today post back pain.
+
+Other tidbits:
 
 -   My posture is much better than it used to be, which has helped a little.
 -   I drive a lot less than I used to, which helped my back, but not my neck and shoulders.

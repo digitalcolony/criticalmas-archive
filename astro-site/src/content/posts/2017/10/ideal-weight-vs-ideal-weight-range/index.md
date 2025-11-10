@@ -8,7 +8,13 @@ description: "I wanted to put up a quick post explaining how I view my own weigh
 commentCount: 3
 ---
 
-I wanted to put up a quick post explaining how I view my own weight goals. I've tried to explain this to a few people I know and I don't think I've done a good job explaining myself. Maybe if I typed it up, this concept would make more sense. My current weight is still 199. Until better information surfaces, I consider my ideal range to be 185-200. I don't have a specific pound target. I use the range as guidance as I know - within this range - my face looks best at 200 and my waist looks best at 185. I'm also guessing that my left knee will feel best at 185. The range serves as a compromise, as I don't know if I have an ideal weight. These estimates are based upon my last experience in this range. Below 185, my face looked haggard and my abs were tight. But this time might be different. My sleep is much better. I'm eating plenty of carbs, which helps reduce stress hormones. So my 185-200 range might float lower. ![](./img/seattle-fall-1.jpg)
+I wanted to put up a quick post explaining how I view my own weight goals. I've tried to explain this to a few people I know and I don't think I've done a good job explaining myself. Maybe if I typed it up, this concept would make more sense.
+
+My current weight is still 199. Until better information surfaces, I consider my ideal range to be 185-200. I don't have a specific pound target. I use the range as guidance as I know - within this range - my face looks best at 200 and my waist looks best at 185. I'm also guessing that my left knee will feel best at 185. The range serves as a compromise, as I don't know if I have an ideal weight.
+
+These estimates are based upon my last experience in this range. Below 185, my face looked haggard and my abs were tight. But this time might be different. My sleep is much better. I'm eating plenty of carbs, which helps reduce stress hormones. So my 185-200 range might float lower.
+
+![](./img/seattle-fall-1.jpg)
 
 
 ### Poor Timing

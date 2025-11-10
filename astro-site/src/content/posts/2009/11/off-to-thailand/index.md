@@ -9,7 +9,19 @@ description: "I am off for a 4 week trip to Thailand (Nov 12 - Dec 10). This is 
 commentCount: 6
 ---
 
-I am off for a 4 week trip to Thailand (Nov 12 - Dec 10). This is my first trip to Asia. In 2006 I met a retired British school teacher in Auckland, New Zealand. For over an hour he told me how wonderful Thailand was. The food, the people, the beaches and everything else. Since that conversation, Thailand was been at the top of my list of places to visit. Now that plane tickets are dirt cheap and Seattle weather is approaching miserable, it is time to go. I am not sure how much I will update my websites or check email while I am away. Feel free to sign up for the newsletter. It will alert you when a new post is written and it is easy to unsubscribe anytime. ![](http://farm1.static.flickr.com/172/366010331_50840f6c44.jpg "Thailand through Serengeti") _Photo_ [_Thailand through Serengeti_](http://www.flickr.com/photos/gustaf-wallen/366010331/) _by gustaf wallen_ ![](http://farm1.static.flickr.com/125/321700031_192a7ad319.jpg "Buddhas Gold") _Photo_ [_Buddha's Gold_](http://www.flickr.com/photos/stuckincustoms/321700031/) _by Stuck in Customs_
+I am off for a 4 week trip to Thailand (Nov 12 - Dec 10). This is my first trip to Asia.
+
+In 2006 I met a retired British school teacher in Auckland, New Zealand. For over an hour he told me how wonderful Thailand was. The food, the people, the beaches and everything else. Since that conversation, Thailand was been at the top of my list of places to visit. Now that plane tickets are dirt cheap and Seattle weather is approaching miserable, it is time to go.
+
+I am not sure how much I will update my websites or check email while I am away. Feel free to sign up for the newsletter. It will alert you when a new post is written and it is easy to unsubscribe anytime.
+
+![](http://farm1.static.flickr.com/172/366010331_50840f6c44.jpg "Thailand through Serengeti")
+
+_Photo_ [_Thailand through Serengeti_](http://www.flickr.com/photos/gustaf-wallen/366010331/) _by gustaf wallen_
+
+![](http://farm1.static.flickr.com/125/321700031_192a7ad319.jpg "Buddhas Gold")
+
+_Photo_ [_Buddha's Gold_](http://www.flickr.com/photos/stuckincustoms/321700031/) _by Stuck in Customs_
 
 ---
 

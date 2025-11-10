@@ -13,7 +13,13 @@ A few days ago I was researching some fitness topics when I found the _Grecian I
 
 > I agree with the author that my bench press is not yet _decent_, however I do think there are 2 other variables that factors greatly into how much one can bench. The first is wrist size and the second is arm length. Ectomorphs have long arms and small wrists. This means I need to lift the weight higher and with less support than a thick-wristed short man.
 
-![somatypes](./img/somatypes.jpg) _Image from How to Eat Right For Your Body Type by Dr. John Berardi. Typically Ectomorphs are taller and Endomorphs are shorter. Other than that this image is a good representation of somatypes._ I learned what I suspected. I've sacrificed Greek leanness to gain as much muscle as my skinny frame can handle. The more I push my weight training, the more injuries I get. Back in 2001, I stopped training like a mesomorph (3 sets of 8-12 reps) in favor of low-rep training and I made amazing gains. Maybe it is time I stopped eating like a mesomorph? It is time to reevaluate. UPDATE: The original calculator is no longer online. Tom Venuto wrote a [good article](https://web.archive.org/web/20210420022530/http://www.bodybuildingsecrets.com/articles/the_ideal_body_measurements.php) on the topic as well.
+![somatypes](./img/somatypes.jpg)
+
+_Image from How to Eat Right For Your Body Type by Dr. John Berardi. Typically Ectomorphs are taller and Endomorphs are shorter. Other than that this image is a good representation of somatypes._
+
+I learned what I suspected. I've sacrificed Greek leanness to gain as much muscle as my skinny frame can handle. The more I push my weight training, the more injuries I get. Back in 2001, I stopped training like a mesomorph (3 sets of 8-12 reps) in favor of low-rep training and I made amazing gains. Maybe it is time I stopped eating like a mesomorph? It is time to reevaluate.
+
+UPDATE: The original calculator is no longer online. Tom Venuto wrote a [good article](https://web.archive.org/web/20210420022530/http://www.bodybuildingsecrets.com/articles/the_ideal_body_measurements.php) on the topic as well.
 
 ---
 

@@ -9,7 +9,13 @@ description: "For a background to this post see How I Plan to Lose 20 Pounds an
 commentCount: 4
 ---
 
-_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._ Week #3 Weigh-in: **\-1**. Total loss: **\-4**. This was an odd week. One of my competitors left a big bag of sliced salami in my refrigerator and I was tempted. I ate more than I should have earlier in the week. Sneaky! That same competitor created a fitness blog called MAS BETTER. Too funny! Starting today I have created a rule against eating processed meats as the calories add up super fast. My weigh-in this week was taken on Friday morning, as I knew I would be donating blood later that day. After donating blood, I load up on salty food and water, so those scale readings are likely to be flawed. Thursday was a rough day. Poor sleep the night before and I was feeling cold. Also, an important event I was excited to attend was canceled last minute. So I ate an entire Lindt chocolate bar. Here is the food journal for Week #3.
+_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._
+
+Week #3 Weigh-in: **\-1**. Total loss: **\-4**.
+
+This was an odd week. One of my competitors left a big bag of sliced salami in my refrigerator and I was tempted. I ate more than I should have earlier in the week. Sneaky! That same competitor created a fitness blog called MAS BETTER. Too funny! Starting today I have created a rule against eating processed meats as the calories add up super fast. My weigh-in this week was taken on Friday morning, as I knew I would be donating blood later that day. After donating blood, I load up on salty food and water, so those scale readings are likely to be flawed.
+
+Thursday was a rough day. Poor sleep the night before and I was feeling cold. Also, an important event I was excited to attend was canceled last minute. So I ate an entire Lindt chocolate bar. Here is the food journal for Week #3.
 
 
 ### Sunday, March 9
@@ -104,7 +110,11 @@ _For a background to this post see [How I Plan to Lose 20 Pounds and Win the Be
 -   apple
 -   cheddar (2 oz)
 
-![Vietnamese Fish Soup](http://farm1.staticflickr.com/96/232273270_c1ac5e2f74_z.jpg) _[Vietnamese Fish Soup](https://www.flickr.com/photos/35034346243@N01/232273270/) by stu\_spivack_ Notes:
+![Vietnamese Fish Soup](http://farm1.staticflickr.com/96/232273270_c1ac5e2f74_z.jpg)
+
+_[Vietnamese Fish Soup](https://www.flickr.com/photos/35034346243@N01/232273270/) by stu\_spivack_
+
+Notes:
 
 1.  Going into Week #4, I need to focus more on creating a caloric deficit on weekdays. Weekends are more challenging.
 2.  I'm questioning the effect apples or fruit in general have on appetite. This seems to be a highly debated topic. Some - especially those that follow Ray Peat - believe fruit is slimming. Others believe the opposite. I'm not sure who is correct or if there is context as to who does better on which source of carbs when it comes to dieting. If you have any thoughts on this, please leave a comment.

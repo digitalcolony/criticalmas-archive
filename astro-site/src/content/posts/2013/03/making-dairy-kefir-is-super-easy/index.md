@@ -9,25 +9,37 @@ description: "I started making dairy kefir again in December and I'm loving it. 
 commentCount: 22
 ---
 
-I started making dairy kefir again in December and I'm [loving it](/2013/01/kefir-caffeine-and-trigger-point-therapy/). Not only do I like the taste, but I'm no longer buying containers of yogurt, which means I'm saving money. And unlike the crap kefir products sold at _Whole Fools_ and other grocery stores, I don't use low-fat milk. Full-fat dairy for me! Just be sure NOT to buy ultra-pasteurized. Regular pasteurized or raw is what the kefir grains want. Once you've acquired some kefir grains, you'll need a jar and a [non-metal strainer](http://www.ebay.com/sch/i.html?_trksid=p5197.m570.l1313&_nkw=kefir+strainer&_sacat=0&_from=R40). Unlike yogurt which requires a temperature range of 105°F to 112°F, kefir ferments just fine at room temperature. Making dairy kefir is super easy if you have good grains. Here are the basic instructions on how it is done.
+I started making dairy kefir again in December and I'm [loving it](/2013/01/kefir-caffeine-and-trigger-point-therapy/). Not only do I like the taste, but I'm no longer buying containers of yogurt, which means I'm saving money. And unlike the crap kefir products sold at _Whole Fools_ and other grocery stores, I don't use low-fat milk. Full-fat dairy for me! Just be sure NOT to buy ultra-pasteurized. Regular pasteurized or raw is what the kefir grains want.
+
+Once you've acquired some kefir grains, you'll need a jar and a [non-metal strainer](http://www.ebay.com/sch/i.html?_trksid=p5197.m570.l1313&_nkw=kefir+strainer&_sacat=0&_from=R40). Unlike yogurt which requires a temperature range of 105°F to 112°F, kefir ferments just fine at room temperature.
+
+Making dairy kefir is super easy if you have good grains. Here are the basic instructions on how it is done.
 
 
 ### #1 Add Grains To Empty Jar
 
 
-I don't measure anything. I've used between 50 grams and 100 grams. It all works. ![kefir-grains](./img/kefir-grains.jpg)
+I don't measure anything. I've used between 50 grams and 100 grams. It all works.
+
+![kefir-grains](./img/kefir-grains.jpg)
 
 
 ### #2 Add Milk, Cover, and Wait
 
 
-Fill the jar with milk. Don't use ultra-pasteurized. Cover with a lid, but not too tight, and then wait 1-3 days. The ferment is finished when the kefir is as thick as you like. Ferments will go faster in a warm kitchen and slower when it is cold. If your kitchen is too cold, then sitting the jar on a heating pad set on low might jump-start the ferment. ![kefir-grains-add-milk](./img/kefir-grains-add-milk.jpg)
+Fill the jar with milk. Don't use ultra-pasteurized. Cover with a lid, but not too tight, and then wait 1-3 days. The ferment is finished when the kefir is as thick as you like. Ferments will go faster in a warm kitchen and slower when it is cold. If your kitchen is too cold, then sitting the jar on a heating pad set on low might jump-start the ferment.
+
+![kefir-grains-add-milk](./img/kefir-grains-add-milk.jpg)
 
 
 ### #3 Filter and Jar
 
 
-Once the kefir is ready, grab your non-metal filter and separate. Jar the kefir and place it in the refrigerator. As for the grains, start your next ferment. If you don't need to start the next ferment, place the grains in a jar with a small amount of milk, cover, and place in the frig. ![kefir-filter](./img/kefir-filter.jpg) ![kefir-grains-filtered](./img/kefir-grains-filtered.jpg)
+Once the kefir is ready, grab your non-metal filter and separate. Jar the kefir and place it in the refrigerator. As for the grains, start your next ferment. If you don't need to start the next ferment, place the grains in a jar with a small amount of milk, cover, and place in the frig.
+
+![kefir-filter](./img/kefir-filter.jpg)
+
+![kefir-grains-filtered](./img/kefir-grains-filtered.jpg)
 
 
 ### #4 Drink
@@ -39,7 +51,11 @@ I like drinking kefir plain or as a smoothie with blended blueberries.
 ### Troubleshooting and Sourcing
 
 
-If you are having trouble with your kefir, check out this [FAQ](http://www.yemoos.com/faqmgrains101.html). The basic rule I use for ferments that are slow is to increase the temperature. A heating pad can kick start ferments in cold kitchens. As for sourcing, I got my most recent grains locally. These grains are growing about 10% in size with every ferment, which means I've been able to give grains away to friends here in Seattle. If you aren't a Seattle friend, have no fear, it looks like Amazon is selling grains. The link below is from _Lifetime Kefir_, which has good reviews Kefir Grains - Living Probiotic Enriched
+If you are having trouble with your kefir, check out this [FAQ](http://www.yemoos.com/faqmgrains101.html). The basic rule I use for ferments that are slow is to increase the temperature. A heating pad can kick start ferments in cold kitchens.
+
+As for sourcing, I got my most recent grains locally. These grains are growing about 10% in size with every ferment, which means I've been able to give grains away to friends here in Seattle. If you aren't a Seattle friend, have no fear, it looks like Amazon is selling grains. The link below is from _Lifetime Kefir_, which has good reviews
+
+Kefir Grains - Living Probiotic Enriched
 
 ---
 

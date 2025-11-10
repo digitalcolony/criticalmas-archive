@@ -9,19 +9,35 @@ description: "About a year ago I began eating wheat on a regular basis. Not dail
 commentCount: 9
 ---
 
-About a year ago I began eating wheat on a regular basis. Not daily. Maybe 1-3 times a week. Fortunately for me I didn't experience any issues. This is great because if we go back to 2009, I was experiencing headaches and skin flareups with wheat consumption. Now I seem to be fine. Instead of repeating my beliefs, I invite you to read my detailed July 2015 post [Bread Defenders to the Left of Me, Alarmists to the Right](/2015/07/bread-defenders-to-the-left-of-me-alarmists-to-the-right/).
+About a year ago I began eating wheat on a regular basis. Not daily. Maybe 1-3 times a week. Fortunately for me I didn't experience any issues. This is great because if we go back to 2009, I was experiencing headaches and skin flareups with wheat consumption. Now I seem to be fine.
+
+Instead of repeating my beliefs, I invite you to read my detailed July 2015 post [Bread Defenders to the Left of Me, Alarmists to the Right](/2015/07/bread-defenders-to-the-left-of-me-alarmists-to-the-right/).
 
 
 ### I Got Tired of Being "That Guy"
 
 
-In 2013 I started consuming trace amounts of wheat / gluten and I had no issues. But I kept the consumption at the trace level. My goal was to build wheat resiliency and to not retrigger the old headaches and skin flareups. I was taking the position that the dose was the poison. Everything was fine. I had great health and could easily avoid wheat. Yet the people around me were aware of my needs and it began to bother me that I was causing others to make special accommodations for me, even if it was only a few times a year. I didn't want to be the guy keeping the group from getting pizza or whatever. I needed to know what would happen to me if I had a full on wheat based meal. So since November 2015, I've been having 1-3 meals a week with some form of wheat. Empanadas, ramen noodles, even submarine sandwiches. When I get asked for an explanation on how I can handle gluten from people that knew me during the 2010-2015 era, I just respond that I cured myself of wheat intolerance. Do I know if I cured myself? Nope. But I like the word. Maybe it opens a dialog? Maybe others that avoided wheat for years to improve their health might rethink their situation? Perhaps it applies to them or maybe it doesn't. That will be for them to decide. ![](./img/4479372_86c30616af_o.jpg) _[Ramen Noodles](https://flic.kr/p/oXyy) by Taku_
+In 2013 I started consuming trace amounts of wheat / gluten and I had no issues. But I kept the consumption at the trace level. My goal was to build wheat resiliency and to not retrigger the old headaches and skin flareups. I was taking the position that the dose was the poison.
+
+Everything was fine. I had great health and could easily avoid wheat. Yet the people around me were aware of my needs and it began to bother me that I was causing others to make special accommodations for me, even if it was only a few times a year. I didn't want to be the guy keeping the group from getting pizza or whatever.
+
+I needed to know what would happen to me if I had a full on wheat based meal. So since November 2015, I've been having 1-3 meals a week with some form of wheat. Empanadas, ramen noodles, even submarine sandwiches. When I get asked for an explanation on how I can handle gluten from people that knew me during the 2010-2015 era, I just respond that I cured myself of wheat intolerance.
+
+Do I know if I cured myself? Nope. But I like the word. Maybe it opens a dialog? Maybe others that avoided wheat for years to improve their health might rethink their situation? Perhaps it applies to them or maybe it doesn't. That will be for them to decide.
+
+![](./img/4479372_86c30616af_o.jpg)
+
+_[Ramen Noodles](https://flic.kr/p/oXyy) by Taku_
 
 
 ### Last Words
 
 
-Resiliency both physically and culturally is important to me. I don't plan on eating wheat daily, because I still have some uncertainty, which I've discussed in other posts. But I would like to have ramen noodles or a gyro sandwich every now and then. In the end, bread is a processed food. The more processed foods one eats the less likely they will achieve a high health outcome. If you want to devote the time and effort to chasing down heirloom grains, soaking, sprouting, grinding and making your own bread - go for it. I'll just have a lot less of the readily available stuff. I really do think this is my last post on wheat / gluten. I think I've said everything I need to on this topic. I'm no longer trying to convince others that wheat is evil or fine. You'll need to figure that out for yourself.
+Resiliency both physically and culturally is important to me. I don't plan on eating wheat daily, because I still have some uncertainty, which I've discussed in other posts. But I would like to have ramen noodles or a gyro sandwich every now and then.
+
+In the end, bread is a processed food. The more processed foods one eats the less likely they will achieve a high health outcome. If you want to devote the time and effort to chasing down heirloom grains, soaking, sprouting, grinding and making your own bread - go for it. I'll just have a lot less of the readily available stuff.
+
+I really do think this is my last post on wheat / gluten. I think I've said everything I need to on this topic. I'm no longer trying to convince others that wheat is evil or fine. You'll need to figure that out for yourself.
 
 ---
 

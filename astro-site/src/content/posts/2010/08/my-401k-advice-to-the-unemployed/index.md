@@ -11,14 +11,20 @@ commentCount: 4
 
 I've probably said something similar in the past, but I want to be clear about how I would invest my 401k if I recently lost my job. My strategy is based off hedging risk. The primary risks an unemployed worker with a retirement account faces is that they won't get a job and that the stock market drops and so does their retirement account. How do protect yourself and hedge against that worst case scenario?
 
-> There are 2 possibilities for employment: stay unemployed (negative) or get hired (positive). There are 2 possibilities for investments: goes up (positive) or goes down (negative).
+> There are 2 possibilities for employment: stay unemployed (negative) or get hired (positive).
+> 
+> There are 2 possibilities for investments: goes up (positive) or goes down (negative).
 
-Note that there is a correlation between hiring and a rising stock market. The easier it is to find a job, the more likely it is that the economy as a whole is improving and that could translate to rising investment portfolio. This also means there is a correlation between not get hired and the economy not recovering which could lead to a decline in investments. The unemployed worker has already lost salaried income. To be long in the stock market just exposes you to more potential loss. **You should be in cash.** Most companies do not have an option to park your 401k money into cash. The good news is you no longer work for a company, so now you have the freedom to liberate your money.
+Note that there is a correlation between hiring and a rising stock market. The easier it is to find a job, the more likely it is that the economy as a whole is improving and that could translate to rising investment portfolio. This also means there is a correlation between not get hired and the economy not recovering which could lead to a decline in investments.
+
+The unemployed worker has already lost salaried income. To be long in the stock market just exposes you to more potential loss. **You should be in cash.** Most companies do not have an option to park your 401k money into cash. The good news is you no longer work for a company, so now you have the freedom to liberate your money.
 
 1.  Rollover your 401k to a company like TD Ameritrade.
 2.  Let it sit in cash until you establish new stable employment.
 
-Once you are back in a stable job then reassess your investment strategy. And if the economy tanks and you can't find a job, all your retirement money was protected! You lose nothing following this strategy. Note that every financial adviser will try and convince you to get into some investment, as they make their cut by keeping you fully vested in the market at all times. Ignore them and do your own homework. I write this post because I do not see a driver for job growth and the stock market has rallied hard based off the belief in a recovery that I don't see coming.
+Once you are back in a stable job then reassess your investment strategy. And if the economy tanks and you can't find a job, all your retirement money was protected! You lose nothing following this strategy. Note that every financial adviser will try and convince you to get into some investment, as they make their cut by keeping you fully vested in the market at all times. Ignore them and do your own homework.
+
+I write this post because I do not see a driver for job growth and the stock market has rallied hard based off the belief in a recovery that I don't see coming.
 
 ---
 

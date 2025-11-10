@@ -15,19 +15,31 @@ One of the fitness trends of the past few years has been the Boot Camp model. A 
 ### Who Am I?
 
 
-I am not a personal trainer. I'm a fitness enthusiast and researcher, and I'm in better shape now than when I graduated from _real_ Army Basic Training over twenty years ago. Basic Training was never about turning lumpy, out-of-shape middle-aged people into warriors. Basic Training aims to break down the individual and build them up as a team player. Along the way, you do a bunch of push-ups and run, but the function of Basic Training is not about designing optimal athletes or getting lean. It is about building soldiers willing to kill or be killed in defense of their country. ![army-basic-training-notes](./img/army-basic-training-notes.jpg) _Me taking notes at Ft. Benning, GA._
+I am not a personal trainer. I'm a fitness enthusiast and researcher, and I'm in better shape now than when I graduated from _real_ Army Basic Training over twenty years ago. Basic Training was never about turning lumpy, out-of-shape middle-aged people into warriors. Basic Training aims to break down the individual and build them up as a team player. Along the way, you do a bunch of push-ups and run, but the function of Basic Training is not about designing optimal athletes or getting lean. It is about building soldiers willing to kill or be killed in defense of their country.
+
+![army-basic-training-notes](./img/army-basic-training-notes.jpg)
+
+_Me taking notes at Ft. Benning, GA._
 
 
 ### Selection Bias
 
 
-The biggest difference between real Basic Training and Boot Camp training is the massive pre-screening effort the Armed Forces makes to ensure a higher rate of success. When you take a bunch of healthy men and women who are mostly 18-20 years old and subject them to high levels of training, they tend to respond positively. Young people have a greater window of recoverability. The Armed Forces does extensive physicals on all enlistees to further ensure success. If you are overweight, you are instructed to "make weight" on your own before you can even start Basic Training. When you watch a movie or TV show showing buff soldiers doing exercises while a drill sergeant barks at them, what you aren't seeing are all the candidates that were rejected by the recruiter or medical personnel. In other words, the military stacks the deck in their favor by selecting the candidates that best respond to military training. The personal trainer in the park isn't getting those people. **The takeaway lesson here is that soldiers were ALREADY LEAN AND HEALTHY before they ever started Basic Training.** And it wasn't Basic Training that made them lean and athletic. For most soldiers, it was youth.
+The biggest difference between real Basic Training and Boot Camp training is the massive pre-screening effort the Armed Forces makes to ensure a higher rate of success. When you take a bunch of healthy men and women who are mostly 18-20 years old and subject them to high levels of training, they tend to respond positively. Young people have a greater window of recoverability. The Armed Forces does extensive physicals on all enlistees to further ensure success. If you are overweight, you are instructed to "make weight" on your own before you can even start Basic Training.
+
+When you watch a movie or TV show showing buff soldiers doing exercises while a drill sergeant barks at them, what you aren't seeing are all the candidates that were rejected by the recruiter or medical personnel. In other words, the military stacks the deck in their favor by selecting the candidates that best respond to military training. The personal trainer in the park isn't getting those people.
+
+**The takeaway lesson here is that soldiers were ALREADY LEAN AND HEALTHY before they ever started Basic Training.** And it wasn't Basic Training that made them lean and athletic. For most soldiers, it was youth.
 
 
 ### Back to the Army
 
 
-Did Basic Training make the soldiers in my platoon stronger or leaner? Not as much as you'd think. Remember that many of the men who join the military are already active. Over half the men in my platoon played sports in high school. I could spend several paragraphs explaining why Army metrics for fitness are flawed, but their mission has little to do with fitness. It is about inflicting a high amount of stress, both physical and emotional, on recruits and then allowing the survivors to continue their enlistment. **Those that fail are removed.** ![army-basic-training-potrait](./img/army-basic-training-potrait.jpg) _I was 17 in Army Basic Training._
+Did Basic Training make the soldiers in my platoon stronger or leaner? Not as much as you'd think. Remember that many of the men who join the military are already active. Over half the men in my platoon played sports in high school. I could spend several paragraphs explaining why Army metrics for fitness are flawed, but their mission has little to do with fitness. It is about inflicting a high amount of stress, both physical and emotional, on recruits and then allowing the survivors to continue their enlistment. **Those that fail are removed.**
+
+![army-basic-training-potrait](./img/army-basic-training-potrait.jpg)
+
+_I was 17 in Army Basic Training._
 
 
 ### Self Loathing
@@ -39,7 +51,9 @@ Something I've noticed about the type of person attracted to Boot Camp style tra
 ### Ignore the Success Stories, Look For the Failures
 
 
-I'm sure at this point, a few Boot Camp personal trainers are ready to tell me about some of their clients who made amazing transformations. My response would be that some people respond well to any type of training. People who make progress continue showing up. Those that don't go away. The failures are hidden. The fitness industry loves to label these people as quitters, but in reality, it may be a host of factors, including an excessive training plan, that may cause the failure. Those with superior recovery skills will respond best to Boot camp-style training. However, they tend to respond well to any training. Another straw man argument will be that Boot Camp training is better than nothing. This is pure silliness as it defines the world as having two options: extreme or nothing. A better discussion would be the sustainability of any training program. How realistic is it that someone continues committing time and money to a program? People tend to imagine that they will be highly committed to a program, and then weeks later, when life interrupts their plans or the results aren't coming, they have to quit the program. At my core, I strongly believe in [The Minimal Effort Approach](/2010/03/the-minimal-effort-approach/).
+I'm sure at this point, a few Boot Camp personal trainers are ready to tell me about some of their clients who made amazing transformations. My response would be that some people respond well to any type of training. People who make progress continue showing up. Those that don't go away. The failures are hidden. The fitness industry loves to label these people as quitters, but in reality, it may be a host of factors, including an excessive training plan, that may cause the failure. Those with superior recovery skills will respond best to Boot camp-style training. However, they tend to respond well to any training.
+
+Another straw man argument will be that Boot Camp training is better than nothing. This is pure silliness as it defines the world as having two options: extreme or nothing. A better discussion would be the sustainability of any training program. How realistic is it that someone continues committing time and money to a program? People tend to imagine that they will be highly committed to a program, and then weeks later, when life interrupts their plans or the results aren't coming, they have to quit the program. At my core, I strongly believe in [The Minimal Effort Approach](/2010/03/the-minimal-effort-approach/).
 
 
 ### You Don't Need Boot Camp

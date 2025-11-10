@@ -9,7 +9,17 @@ description: "I stumbled into Casa Mixteca in Burien (just south of Seattle) thi
 commentCount: 0
 ---
 
-I stumbled into Casa Mixteca in Burien (just south of Seattle) this weekend and discovered they offered something I have never seen on a menu before. Grasshopper (chapulines) tacos! Casa Mixteca specializes in food from the Oaxaca state of Mexico. Without hesitation, I ordered them. I have [no fear of eating insects](/2012/12/potato-soup-with-bugs/). ![3 grasshopper tacos](./img/grasshopper-tacos-3.jpg) ![grasshopper taco](./img/grasshopper-taco.jpg) The 🦗🌮 flavor was great. Crunchy and not too spicy. Perfect. What surprised me was just how filling they were. I thought it would be a light meal, but I was full for several hours. According to the SF Gate article The Nutrition Values of Edible Bugs & Insects article, crickets and grasshoppers are packed with protein.
+I stumbled into Casa Mixteca in Burien (just south of Seattle) this weekend and discovered they offered something I have never seen on a menu before. Grasshopper (chapulines) tacos! Casa Mixteca specializes in food from the Oaxaca state of Mexico.
+
+Without hesitation, I ordered them. I have [no fear of eating insects](/2012/12/potato-soup-with-bugs/).
+
+![3 grasshopper tacos](./img/grasshopper-tacos-3.jpg)
+
+![grasshopper taco](./img/grasshopper-taco.jpg)
+
+The 🦗🌮 flavor was great. Crunchy and not too spicy. Perfect. What surprised me was just how filling they were. I thought it would be a light meal, but I was full for several hours.
+
+According to the SF Gate article The Nutrition Values of Edible Bugs & Insects article, crickets and grasshoppers are packed with protein.
 
 > A 3.5-ounce serving of raw grasshoppers contains between 14 and 28 grams of protein...
 

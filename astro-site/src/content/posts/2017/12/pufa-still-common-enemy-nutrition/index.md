@@ -9,13 +9,35 @@ description: "It has been 4 years since I did my 3-part series on the problem wi
 commentCount: 8
 ---
 
-It has been 4 years since I did my 3-part series on the problem with PUFA (Polyunsaturated Fats) that kicked off with [The Common Enemy in Nutrition](/2013/11/common-enemy-nutrition/). Although I have altered my opinion on many things related to health and fitness, I still strongly believe that cooking oils are to be minimized for a better health outcome. I trimmed these charts from a larger one by Kevin Bass, which I saw on Twitter this week. They outline the increase in fats and obesity in America since 1970. ![PUFA Calories Obesity](./img/pufa-obesity-A.jpg) ![PUFA Obesity Oils](./img/pufa-obesity-B.jpg) As I explained in the previous post [Oh Noozs It’s Da EVIL Sugar Lobby!](/2017/12/oh-noozs-da-evil-sugar-lobby/), it isn't the sugar. In another tweet, Bass shows Americans are only consuming **34 more calories of sugar a day** since 1970, whereas we are consuming **229 more calories of added fats and oils**. The low-carb community loves to repeat the message that when Americans followed a low-fat diet they got heavier turns out to be false. During the supposedly low-fat era of the 1980s and 1990s, Americans increased their consumption of calories from fat. Then when the "low-fat era" ended, all brakes were off and fat calories spiked. And the nation got fatter. I see this spike in calories stemming from a shift in where we consume most of our meals. Look at the chart below, which tracks what percentage of the food we eat away from home. ![Food Away From Home](./img/food_away_ers.png) Doesn't that line look a lot like the climbing obesity rate? Makes sense. When we go out to eat, we are often getting food cooked in cheap vegetable oils. High heat, fast cooking, and fried foods. Then to feel better, we order a Diet Coke, because SUGAR IS EVIL. Oh NOOZS!
+It has been 4 years since I did my 3-part series on the problem with PUFA (Polyunsaturated Fats) that kicked off with [The Common Enemy in Nutrition](/2013/11/common-enemy-nutrition/). Although I have altered my opinion on many things related to health and fitness, I still strongly believe that cooking oils are to be minimized for a better health outcome.
+
+I trimmed these charts from a larger one by Kevin Bass, which I saw on Twitter this week. They outline the increase in fats and obesity in America since 1970.
+
+![PUFA Calories Obesity](./img/pufa-obesity-A.jpg)
+
+![PUFA Obesity Oils](./img/pufa-obesity-B.jpg)
+
+As I explained in the previous post [Oh Noozs It’s Da EVIL Sugar Lobby!](/2017/12/oh-noozs-da-evil-sugar-lobby/), it isn't the sugar. In another tweet, Bass shows Americans are only consuming **34 more calories of sugar a day** since 1970, whereas we are consuming **229 more calories of added fats and oils**.
+
+The low-carb community loves to repeat the message that when Americans followed a low-fat diet they got heavier turns out to be false. During the supposedly low-fat era of the 1980s and 1990s, Americans increased their consumption of calories from fat. Then when the "low-fat era" ended, all brakes were off and fat calories spiked. And the nation got fatter.
+
+I see this spike in calories stemming from a shift in where we consume most of our meals. Look at the chart below, which tracks what percentage of the food we eat away from home.
+
+![Food Away From Home](./img/food_away_ers.png)
+
+Doesn't that line look a lot like the climbing obesity rate?
+
+Makes sense. When we go out to eat, we are often getting food cooked in cheap vegetable oils. High heat, fast cooking, and fried foods. Then to feel better, we order a Diet Coke, because SUGAR IS EVIL. Oh NOOZS!
 
 
 ### The Solution
 
 
-Forget all the Omega-6 math. Just follow my [Peasant Diet](/2016/11/designing-modern-peasant-diet/). Eat at home cheaply prepared meals that require no cooking oils. Almost all my meals are cooked in liquid or a pressure cooker. No oils are needed. Stay away from restaurants as much as you can. When you do go, think about how the food will be prepared and order the option that doesn't use cooking oils. You'll not only lean out but you'll also save money. Winning!
+Forget all the Omega-6 math. Just follow my [Peasant Diet](/2016/11/designing-modern-peasant-diet/). Eat at home cheaply prepared meals that require no cooking oils. Almost all my meals are cooked in liquid or a pressure cooker. No oils are needed.
+
+Stay away from restaurants as much as you can. When you do go, think about how the food will be prepared and order the option that doesn't use cooking oils.
+
+You'll not only lean out but you'll also save money. Winning!
 
 ---
 

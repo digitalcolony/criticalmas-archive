@@ -12,25 +12,41 @@ I recently received a comment on my 2011 post [High Satiety Paleo Friendly Foods
 
 > Did you ever break the code on night eating? I also need food before bed and will still sometimes wind up eating cashew butter at 2am. Would really love to stop this.
 
-I was reminded how I needed to eat right up until I went to sleep for most of my adult life. If I didn't, I would wake up hungry or sometimes have trouble falling asleep. I did crack the code for myself. It was a 3-step process.
+I was reminded how I needed to eat right up until I went to sleep for most of my adult life. If I didn't, I would wake up hungry or sometimes have trouble falling asleep.
+
+I did crack the code for myself. It was a 3-step process.
 
 
 ### Step 1 - Go For Protein
 
 
-The first step was recognizing how different foods shut down hunger and for how long. I discovered high volume foods were best for quieting hunger while eating and that higher protein foods kept me full for longer periods between meals. I got this idea in 2018, which I shared in the post [Potatoes and Protein – Two Attacks on Hunger](/2018/12/potatoes-and-protein-two-attacks-on-hunger/). Having a meal with a decent amount of protein increased the odds that I would not wake up hungry. This is what works for me. For others, it might be carbs, fat, and/or fiber. During the daytime, find what foods keep you full the longest and then eat them for dinner.
+The first step was recognizing how different foods shut down hunger and for how long. I discovered high volume foods were best for quieting hunger while eating and that higher protein foods kept me full for longer periods between meals.
+
+I got this idea in 2018, which I shared in the post [Potatoes and Protein – Two Attacks on Hunger](/2018/12/potatoes-and-protein-two-attacks-on-hunger/). Having a meal with a decent amount of protein increased the odds that I would not wake up hungry.
+
+This is what works for me. For others, it might be carbs, fat, and/or fiber. During the daytime, find what foods keep you full the longest and then eat them for dinner.
 
 
 ### Step 2 - Gradually Eat Sooner
 
 
-One day it hit me that my belief that I couldn't get to sleep unless I ate right before bed was likely as flawed as my 2007 belief that I had to eat first thing in the morning. When I first started intermittent fasting, I had conditioned my body to eat something every 3-4 waking hours. _Thank you Zone Diet!_ 🤦🏻‍♂️ I gradually began eating my first meal later and later each day. After a few months, my morning hunger was tamed. I could skip breakfast completely with no effort. I applied the same strategy to the end of the day. I gradually kept moving my last bite up earlier and earlier from my bedtime. A few minutes early each day. Instead of eating 15 minutes before bed, I now have a 2-3 hour gap.
+One day it hit me that my belief that I couldn't get to sleep unless I ate right before bed was likely as flawed as my 2007 belief that I had to eat first thing in the morning.
+
+When I first started intermittent fasting, I had conditioned my body to eat something every 3-4 waking hours. _Thank you Zone Diet!_ 🤦🏻‍♂️ I gradually began eating my first meal later and later each day. After a few months, my morning hunger was tamed. I could skip breakfast completely with no effort.
+
+I applied the same strategy to the end of the day. I gradually kept moving my last bite up earlier and earlier from my bedtime. A few minutes early each day. Instead of eating 15 minutes before bed, I now have a 2-3 hour gap.
 
 
 ### Step 3 - Ignoring the Hunger
 
 
-If you start to feel a little hungry in bed, recognize the hunger and don't indulge it. And then repeat that process again and again. Over time, those nighttime hunger signals will quiet. My mistake for many years was rewarding those hunger signals, which only guaranteed they would return night after night. ![refrigerator](./img/nrd-FDQFZHY9iG4-unsplash.jpg) _Photo by_ [_nrd_](https://unsplash.com/@nicotitto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+If you start to feel a little hungry in bed, recognize the hunger and don't indulge it. And then repeat that process again and again. Over time, those nighttime hunger signals will quiet.
+
+My mistake for many years was rewarding those hunger signals, which only guaranteed they would return night after night.
+
+![refrigerator](./img/nrd-FDQFZHY9iG4-unsplash.jpg)
+
+_Photo by_ [_nrd_](https://unsplash.com/@nicotitto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 
 ### Last Words

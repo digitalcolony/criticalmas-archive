@@ -19,25 +19,45 @@ In no particular order, here are the three best coffee shops in downtown Seattle
 ### Seattle Coffee Works
 
 
-As you emerge from Pike Place Market, look for the 14 foot sign of the man drinking coffee. They roast right on location and have some of the best espresso blends in the city. In the right part of the cafe, they have a "Slow Bar". This is where you can have a coffee made in a slower brewing method, such as Chemex or Vac-Pot. Seattle Coffee Works is a must visit for any Seattle tourist. ![](http://farm3.static.flickr.com/2448/3741413036_2d28d767c2.jpg "seattle coffee works")
+As you emerge from Pike Place Market, look for the 14 foot sign of the man drinking coffee. They roast right on location and have some of the best espresso blends in the city. In the right part of the cafe, they have a "Slow Bar". This is where you can have a coffee made in a slower brewing method, such as Chemex or Vac-Pot. Seattle Coffee Works is a must visit for any Seattle tourist.
+
+![](http://farm3.static.flickr.com/2448/3741413036_2d28d767c2.jpg "seattle coffee works")
 
 
 ### Stella Caffe
 
 
-If you want a true Italian style espresso, this is the place to go. Stella proudly uses robusta coffee in their espresso blend. If you hear someone say that robusta is by nature inferior to arabica, that is nonsense. Robusta adds crema and mouth-feel to espresso. Although not required, it adds a flavor dimension that I really enjoy. Stella has one of the best and certainly the most unique espresso blend in the city. ![](http://farm3.static.flickr.com/2563/3834641059_612abc8e78.jpg "stella ")
+If you want a true Italian style espresso, this is the place to go. Stella proudly uses robusta coffee in their espresso blend. If you hear someone say that robusta is by nature inferior to arabica, that is nonsense. Robusta adds crema and mouth-feel to espresso. Although not required, it adds a flavor dimension that I really enjoy. Stella has one of the best and certainly the most unique espresso blend in the city.
+
+![](http://farm3.static.flickr.com/2563/3834641059_612abc8e78.jpg "stella ")
 
 
 ### Trabant Coffee
 
 
-Trabant uses coffee roasted by 49th Parallel Roasters in BC. If you've never had the Epic Espresso Blend, you need to check it out. Trabant also has a Clover Coffee machine. This means you can avoid the Starbucks at 1st and Pike and actually drink great coffee in the Clover. ![](http://farm5.static.flickr.com/4076/4819263185_dbe4c12666.jpg "trabant coffee")
+Trabant uses coffee roasted by 49th Parallel Roasters in BC. If you've never had the Epic Espresso Blend, you need to check it out. Trabant also has a Clover Coffee machine. This means you can avoid the Starbucks at 1st and Pike and actually drink great coffee in the Clover.
+
+![](http://farm5.static.flickr.com/4076/4819263185_dbe4c12666.jpg "trabant coffee")
 
 
 ### Word to the Tourists
 
 
-Yes Starbucks has a long history in the Pike Place Market and with Seattle, but the quality of the coffee is no different than what you can get in your hometown. If you are a Starbucks fan, I encourage you to visit the _Roy Street Coffee and Tea_ concept store in Capitol Hill. It is Starbucks at their best. It is still not as good as Seattle Coffee Works, Stella or Trabant, but they are better than the two Pike Market tourist locations (Original and Heritage). UPDATE (MARCH 2011): Stella Cafe is now gone. It has been replaced by a bar. Other cafes serve Stella coffee, but I can't recommend any of them. Your best bet for them is now mail order. _Sources:_ Seattle Coffee Works - 107 Pike Street Stella Caffe - 1224 1st Avenue Trabant Coffee - 602 2nd Avenue [Starbucks Coffee College](https://ineedcoffee.com/starbucks-coffee-college/) - Article where I discuss the Roy Street Coffee and Tea location. [Seattle](http://cafejabbaccino.blogspot.com/2010/07/seattle.html) - The blogger who emailed me posted on her trip to Seattle where she visited the 3 coffee shops I recommended.
+Yes Starbucks has a long history in the Pike Place Market and with Seattle, but the quality of the coffee is no different than what you can get in your hometown. If you are a Starbucks fan, I encourage you to visit the _Roy Street Coffee and Tea_ concept store in Capitol Hill. It is Starbucks at their best. It is still not as good as Seattle Coffee Works, Stella or Trabant, but they are better than the two Pike Market tourist locations (Original and Heritage).
+
+UPDATE (MARCH 2011): Stella Cafe is now gone. It has been replaced by a bar. Other cafes serve Stella coffee, but I can't recommend any of them. Your best bet for them is now mail order.
+
+_Sources:_
+
+Seattle Coffee Works - 107 Pike Street
+
+Stella Caffe - 1224 1st Avenue
+
+Trabant Coffee - 602 2nd Avenue
+
+[Starbucks Coffee College](https://ineedcoffee.com/starbucks-coffee-college/) - Article where I discuss the Roy Street Coffee and Tea location.
+
+[Seattle](http://cafejabbaccino.blogspot.com/2010/07/seattle.html) - The blogger who emailed me posted on her trip to Seattle where she visited the 3 coffee shops I recommended.
 
 ---
 

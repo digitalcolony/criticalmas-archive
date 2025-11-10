@@ -23,4 +23,6 @@ Do you read any blogs that just seem to have too many posts to read? Perhaps you
 10.  Run the PIPE. Now you will see a page displaying just posts in the Psychology/Sediment category. This page will also have its own RSS feed.
 11.  At this point, you can optional publish the PIPE to allow other users access.
 
-![yahoo-pipes-filter-770646](./img/yahoo-pipes-filter-770646.jpg) _2015 UPDATE: [Yahoo Pipes! is being shutdown](http://lifehacker.com/yahoo-pipes-is-closing-down-1709067642)_
+![yahoo-pipes-filter-770646](./img/yahoo-pipes-filter-770646.jpg)
+
+_2015 UPDATE: [Yahoo Pipes! is being shutdown](http://lifehacker.com/yahoo-pipes-is-closing-down-1709067642)_

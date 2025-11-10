@@ -13,19 +13,45 @@ In December 2020, I posted [Muscle Interrupted](/2020/12/muscle-interrupted/).
 
 > It has been 10 months since I last stepped foot in my gym due to the COVID lockdowns. Although my gym did reopen for a period during the late summer and early fall, I didn’t return. I had concerns about being inside a smaller gym that I already knew had issues with their HVAC system. The weather outside was great, so I figured I could wait a bit longer. Now that wait has been extended by months. I’d be surprised if my gym opens before April.
 
-Seattle had a few months last summer with no indoor mask mandates. And while the rest of the country (except Hawaii) has returned to or is returning to normal, the state of Washington hasn't. It looks like my state may drop the mask mandate at the end of March. But my county (King) has already hinted that it could extend the date further. Once the indoor mask mandates returned at the end of last summer, I stopped going to the gym. I may have gotten 10 workouts in during that brief window of freedom. I could return to the gym anytime, but I have no interest in wearing a mask while lifting or being surrounded by others wearing masks. As I've mentioned in previous posts, my gym keeps the temperature too high and I get exertion headaches easily when adding higher levels of intensity. Wearing a mask just makes that process happen immediately. Plus I have a lifetime of positive associations with going to the gym. I love going to the gym. I love stretching and lifting. I love chatting with the [SilverSneaker members](/2014/04/silversneakers-young-trainers-teaching-old-timers-bad-lifting-form/). I don't want to be one of those people that dread going to the gym. Getting headaches and trying to understand mumbles from behind masks has made the gym an unpleasant experience. It may have been good for my physical health to continue going, but wasn't good for my mental health. Someday I'll be free, be it here in Seattle or somewhere else. Then and only then will I return to the gym. I am also not going to state a political opinion on what should or shouldn't be done. Too many great health and fitness voices have been ruined in the last few years by going political.
+Seattle had a few months last summer with no indoor mask mandates. And while the rest of the country (except Hawaii) has returned to or is returning to normal, the state of Washington hasn't. It looks like my state may drop the mask mandate at the end of March. But my county (King) has already hinted that it could extend the date further.
+
+Once the indoor mask mandates returned at the end of last summer, I stopped going to the gym. I may have gotten 10 workouts in during that brief window of freedom.
+
+I could return to the gym anytime, but I have no interest in wearing a mask while lifting or being surrounded by others wearing masks. As I've mentioned in previous posts, my gym keeps the temperature too high and I get exertion headaches easily when adding higher levels of intensity. Wearing a mask just makes that process happen immediately.
+
+Plus I have a lifetime of positive associations with going to the gym. I love going to the gym. I love stretching and lifting. I love chatting with the [SilverSneaker members](/2014/04/silversneakers-young-trainers-teaching-old-timers-bad-lifting-form/). I don't want to be one of those people that dread going to the gym. Getting headaches and trying to understand mumbles from behind masks has made the gym an unpleasant experience. It may have been good for my physical health to continue going, but wasn't good for my mental health.
+
+Someday I'll be free, be it here in Seattle or somewhere else. Then and only then will I return to the gym. I am also not going to state a political opinion on what should or shouldn't be done. Too many great health and fitness voices have been ruined in the last few years by going political.
 
 
 ### HIT or Something Else?
 
 
-I was asked recently in a comment about my current HIT views. My views have not changed since my 2018 post [The Case For High Intensity Training Seems to be Getting Weaker](/2018/08/the-case-for-high-intensity-training-seems-to-getting-weaker/). What I love about HIT is the selection of safe exercises combined with controlled slower movements. However, I don't care for the efficiency of shorter and fewer workouts. I like lifting and spending time at the gym. And now that I'm 11 years old than [my first HIT workout](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/), my recovery times are worse, so going to failure and feeling like crap for days isn't appealing to me. When I return to the gym, I plan to start with a basic lifting plan. Get some of the muscle memory back. Regain some lost strength. Then I plan to do a modified version of Tall Man Training by Alexander Cortes. I purchased the plan when it went on sale a few months ago. It is for lifters over 6 feet tall. I can't believe after all these years, I never specifically sought out a plan designed for taller lifters. The plan not only discusses exercises to favor but also ones to avoid. I knew some of it but learned a few things as well. I'm excited to try it out. When I do, I'll post my results. I am also interested in what [KneesOverToesGuy](https://www.youtube.com/c/TheKneesovertoesguy) is doing. I've already started walking backward uphill daily along with doing slant board squats at home. ![](./img/run-uphill.jpg) _The [hill that I was running up in 2012](/2012/01/running-up-that-hill-sprinting-salvation-for-tall-people/) is now the hill I walk backward up. It's only been a week and I feel my ankles getting stronger._ In the meantime...
+I was asked recently in a comment about my current HIT views. My views have not changed since my 2018 post [The Case For High Intensity Training Seems to be Getting Weaker](/2018/08/the-case-for-high-intensity-training-seems-to-getting-weaker/).
+
+What I love about HIT is the selection of safe exercises combined with controlled slower movements. However, I don't care for the efficiency of shorter and fewer workouts. I like lifting and spending time at the gym. And now that I'm 11 years old than [my first HIT workout](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/), my recovery times are worse, so going to failure and feeling like crap for days isn't appealing to me.
+
+When I return to the gym, I plan to start with a basic lifting plan. Get some of the muscle memory back. Regain some lost strength. Then I plan to do a modified version of Tall Man Training by Alexander Cortes. I purchased the plan when it went on sale a few months ago. It is for lifters over 6 feet tall. I can't believe after all these years, I never specifically sought out a plan designed for taller lifters. The plan not only discusses exercises to favor but also ones to avoid. I knew some of it but learned a few things as well. I'm excited to try it out. When I do, I'll post my results.
+
+I am also interested in what [KneesOverToesGuy](https://www.youtube.com/c/TheKneesovertoesguy) is doing. I've already started walking backward uphill daily along with doing slant board squats at home.
+
+![](./img/run-uphill.jpg)
+
+_The [hill that I was running up in 2012](/2012/01/running-up-that-hill-sprinting-salvation-for-tall-people/) is now the hill I walk backward up. It's only been a week and I feel my ankles getting stronger._
+
+In the meantime...
 
 
 ### Body By Amazon Prime
 
 
-Once it was clear that I wouldn't be returning to the gym for several more months, I decided I needed a new plan. Doing yet another set of pushups or bodyweight squats had become less enjoyable than flossing. I decided to finally take yoga seriously. In the past, I would do a few minutes a few times a week and then forget about it for months. Because I am a [master of creating new habits](/2021/01/the-return-of-cold-showers/), I made the decision to do an online yoga class every single day as soon as I completed my morning Duolingo course. _(current Duolingo streak is at [2,262 days](https://www.duolingo.com/profile/digitalcolony) 😎)_ After buying a yoga mat, yoga blocks, and a foam roller, I discovered a bunch of courses on Amazon Prime Video that are included in the membership. On October 28, 2021, I started with my first yoga class and I haven't missed a single day. I completed the following courses. Instead of listing the order that I did them, I'll list them from easiest to hardest.
+Once it was clear that I wouldn't be returning to the gym for several more months, I decided I needed a new plan. Doing yet another set of pushups or bodyweight squats had become less enjoyable than flossing.
+
+I decided to finally take yoga seriously. In the past, I would do a few minutes a few times a week and then forget about it for months. Because I am a [master of creating new habits](/2021/01/the-return-of-cold-showers/), I made the decision to do an online yoga class every single day as soon as I completed my morning Duolingo course. _(current Duolingo streak is at [2,262 days](https://www.duolingo.com/profile/digitalcolony) 😎)_
+
+After buying a yoga mat, yoga blocks, and a foam roller, I discovered a bunch of courses on Amazon Prime Video that are included in the membership.
+
+On October 28, 2021, I started with my first yoga class and I haven't missed a single day. I completed the following courses. Instead of listing the order that I did them, I'll list them from easiest to hardest.
 
 -   Yoga Therapy - Lindsey Samper
 -   30 Days of Yoga for Beginners - Eliz Fitness
@@ -33,13 +59,21 @@ Once it was clear that I wouldn't be returning to the gym for several more month
 -   Couch To Confident 14 Day Yoga Challenge - Julia Marie
 -   10 Day Yoga for Weight Loss Challenge - Chelsey _(too advanced for me, stopped halfway, will return to this series later)_
 
-I'm on my 2nd pass through Couch to Confident now and then I'll repeat the Eliz Fitness course. I'm also doing single yoga lessons on YouTube as well as beginner pilates. I love it. I feel great. My balance, strength, and flexibility are improving every week. I only wish I had started and kept with this many years ago. I probably would have had a lot fewer lifting injuries. I'm also still walking over [10,000 steps a day](/2017/11/the-10000-steps-university/).
+I'm on my 2nd pass through Couch to Confident now and then I'll repeat the Eliz Fitness course. I'm also doing single yoga lessons on YouTube as well as beginner pilates.
+
+I love it. I feel great. My balance, strength, and flexibility are improving every week. I only wish I had started and kept with this many years ago. I probably would have had a lot fewer lifting injuries.
+
+I'm also still walking over [10,000 steps a day](/2017/11/the-10000-steps-university/).
 
 
 ### Last Words
 
 
-I'm about 70% confident things will return to normal soon here in Seattle. However, if by late April it appears that Seattle decides it wants to remain a Fear city, I'll need to move. My lease ends in late May. I have no idea where that place would be. The Free cities are also the most unhealthy. I have no desire to move to a place full of obese people spending their days indoors with a shared HVAC system. If there is a healthy walkable outdoor city where the cost of living is no more expensive than Seattle (ideally lower), let me know where it is. And it can't be colder either. When I stare at the map all I see are healthy cities living in fear and Free cities living indoors.
+I'm about 70% confident things will return to normal soon here in Seattle. However, if by late April it appears that Seattle decides it wants to remain a Fear city, I'll need to move. My lease ends in late May.
+
+I have no idea where that place would be. The Free cities are also the most unhealthy. I have no desire to move to a place full of obese people spending their days indoors with a shared HVAC system.
+
+If there is a healthy walkable outdoor city where the cost of living is no more expensive than Seattle (ideally lower), let me know where it is. And it can't be colder either. When I stare at the map all I see are healthy cities living in fear and Free cities living indoors.
 
 ---
 

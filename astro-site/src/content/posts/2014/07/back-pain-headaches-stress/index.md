@@ -9,7 +9,13 @@ description: "It isn't very often that a true insight into our own health hits, 
 commentCount: 5
 ---
 
-It isn't very often that a true insight into our own health hits, but I believe I had one a few weeks ago. Longtime readers of this blog know that I tackled and overcame my back pain issues years ago. After I admitted that I didn't understand what caused my back pain, I did a lot of research and came to the conclusion that the pain was [rooted in stress](/2011/02/the-psychology-of-back-pain/). The back pain was most likely to flare up when I tried unsuccessfully to control something beyond my control. Once I saw the pattern I was able to learn how to release control and the back pain went away. Then for a few years, I rarely got any back pain. When I did, I would reflect on what I was trying to control, change my response and the pain would go away. After tackling the back pain, I went after headaches. After 3.5 years of quantified self-tracking, I came to the conclusion that stress was likely the cause of my headaches. In that case, it was the tracking that made things worse. [My Last Post on Headaches](/2014/04/last-post-headaches/) goes into more detail on my thoughts.
+It isn't very often that a true insight into our own health hits, but I believe I had one a few weeks ago.
+
+Longtime readers of this blog know that I tackled and overcame my back pain issues years ago. After I admitted that I didn't understand what caused my back pain, I did a lot of research and came to the conclusion that the pain was [rooted in stress](/2011/02/the-psychology-of-back-pain/).
+
+The back pain was most likely to flare up when I tried unsuccessfully to control something beyond my control. Once I saw the pattern I was able to learn how to release control and the back pain went away. Then for a few years, I rarely got any back pain. When I did, I would reflect on what I was trying to control, change my response and the pain would go away.
+
+After tackling the back pain, I went after headaches. After 3.5 years of quantified self-tracking, I came to the conclusion that stress was likely the cause of my headaches. In that case, it was the tracking that made things worse. [My Last Post on Headaches](/2014/04/last-post-headaches/) goes into more detail on my thoughts.
 
 
 ### Some Questions
@@ -21,7 +27,11 @@ Earlier this month the back pain started up again. This wasn't a concern since I
 2.  Is the stress associated with back pain different from the stress associated with headaches?
 3.  My headache pain typically starts very early in the morning (~3 AM). My back pain would most likely hit in the early afternoon (~ 3 PM). Why?
 
-I chewed on these questions for a few days and I think I discovered the answers. ![stress pencil](./img/7837502186_1310abe0a6_z.jpg) _[Photo](https://flic.kr/p/cWzfm3) by Light Collector_
+I chewed on these questions for a few days and I think I discovered the answers.
+
+![stress pencil](./img/7837502186_1310abe0a6_z.jpg)
+
+_[Photo](https://flic.kr/p/cWzfm3) by Light Collector_
 
 
 ### Back Pain = Stress Triggered by Environment
@@ -37,13 +47,17 @@ The two examples that came to mind the quickest were stressful events triggered 
 ### Headaches = Stress Triggered By Self
 
 
-The headaches were frequent when I was trying to force an internal change. Primarily and ironically, getting rid of the headaches. Endless n=1 tests compounded the stress that I was failing at solving the riddle of the headaches. Once I gave up the pressure to solve the headaches, they almost completely went away. And this is why I rail [against Quantified Self](/2014/04/honesty-quantified-self/). Headaches were common when I was trying to change myself. They occurred when I didn't see an external barrier. Like the back pain, the roots were the inability to accept things outside my control. The solution lies in acceptance.
+The headaches were frequent when I was trying to force an internal change. Primarily and ironically, getting rid of the headaches. Endless n=1 tests compounded the stress that I was failing at solving the riddle of the headaches. Once I gave up the pressure to solve the headaches, they almost completely went away. And this is why I rail [against Quantified Self](/2014/04/honesty-quantified-self/).
+
+Headaches were common when I was trying to change myself. They occurred when I didn't see an external barrier. Like the back pain, the roots were the inability to accept things outside my control. The solution lies in acceptance.
 
 
 ### Just a Theory
 
 
-This is my first pass at a theory to explain the differences between stress-induced back pain and headaches. It might be incomplete or wrong. I'd love to hear from others that have dealt with both back pain and headaches and if they've noticed a pattern. I'm also interested in neck pain, as it doesn't line up neatly with either side. As for the first question. Why don't I ever get both at the same time? Just a guess but I'd bet that my subconscious is assigning a primary source of blame and pursues the path of pain that accomplishes its goal of distracting me from what it sees as a greater pain - which is the feeling of being powerless.
+This is my first pass at a theory to explain the differences between stress-induced back pain and headaches. It might be incomplete or wrong. I'd love to hear from others that have dealt with both back pain and headaches and if they've noticed a pattern. I'm also interested in neck pain, as it doesn't line up neatly with either side.
+
+As for the first question. Why don't I ever get both at the same time? Just a guess but I'd bet that my subconscious is assigning a primary source of blame and pursues the path of pain that accomplishes its goal of distracting me from what it sees as a greater pain - which is the feeling of being powerless.
 
 ---
 

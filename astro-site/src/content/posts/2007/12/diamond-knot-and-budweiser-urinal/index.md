@@ -9,4 +9,6 @@ description: "Diamond Knot Brewery in Mukilteo, Washington found a good use for 
 commentCount: 0
 ---
 
-Diamond Knot Brewery in Mukilteo, Washington found a good use for an empty Anheuser-Busch keg. They converted it into a urinal. Seems fitting. ![bud-urinal](./img/bud-urinal.jpg)
+Diamond Knot Brewery in Mukilteo, Washington found a good use for an empty Anheuser-Busch keg. They converted it into a urinal. Seems fitting.
+
+![bud-urinal](./img/bud-urinal.jpg)

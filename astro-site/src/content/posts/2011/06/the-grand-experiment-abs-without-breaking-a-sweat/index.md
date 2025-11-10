@@ -17,7 +17,9 @@ I wasn't ready to post about this, but I've been getting questions about what se
 ### Background
 
 
-If I believe that brief high burst exercise is good for you, why don't I do any? For that explanation, I need to go back a few years. From the late 90s until 2009, I had periods of back pain. One of the triggers for that back pain was running. During this decade, I believed there was something broken with me and I was unable to run. It has only been recently that I discovered the [cause of my back pain](/2011/01/how-i-figured-out-the-cause-of-my-back-pain/) was not related to running. In early 2009, I had just gone through a period of bad back pain. This was also the same period that I was exploring [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/), [Cold Weather Training](https://criticalmas.org/best-of/cold-weather-training/), and lower carbohydrate diets. **I was getting leaner despite the fact I couldn't exercise.** This was a paradigm shift in my thinking. Like most people, up until that moment I believed in the "diet + exercise" thesis on getting lean. I was getting leaner than I had been in 10 years and I wasn't even exercising. Then I got an idea for _The Grand Experiment_.
+If I believe that brief high burst exercise is good for you, why don't I do any? For that explanation, I need to go back a few years. From the late 90s until 2009, I had periods of back pain. One of the triggers for that back pain was running. During this decade, I believed there was something broken with me and I was unable to run. It has only been recently that I discovered the [cause of my back pain](/2011/01/how-i-figured-out-the-cause-of-my-back-pain/) was not related to running.
+
+In early 2009, I had just gone through a period of bad back pain. This was also the same period that I was exploring [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/), [Cold Weather Training](https://criticalmas.org/best-of/cold-weather-training/), and lower carbohydrate diets. **I was getting leaner despite the fact I couldn't exercise.** This was a paradigm shift in my thinking. Like most people, up until that moment I believed in the "diet + exercise" thesis on getting lean. I was getting leaner than I had been in 10 years and I wasn't even exercising. Then I got an idea for _The Grand Experiment_.
 
 
 ### The Grand Experiment
@@ -37,7 +39,9 @@ I take the opposite approach of many fitness professionals. They would prefer yo
 ### The Results (So far)
 
 
-When I started _The Grand Experiment_, I was at Level 0. Today, I am \*so close\* to Level 3. Some mornings, I am at Level 3, but not for the majority of the week. I'm still dialing in some new aspects to my diet, so I'm hesitant to end the experiment and start doing intervals. **What _The Grand Experiment_ has proven so far is that cardio is absolutely not necessary to achieve flat abs.** This is exactly what I predicted. _\* I now believe the Level defintions are a good starting point, but not complete. It is still possible to have an undefined [linea albinea](http://www.cureality.com/blog/post/2010/11/02/can-i-see-your-linea-alba.html) and handles with lower ab definition. Level 3 probably needs to be broken down into components._
+When I started _The Grand Experiment_, I was at Level 0. Today, I am \*so close\* to Level 3. Some mornings, I am at Level 3, but not for the majority of the week. I'm still dialing in some new aspects to my diet, so I'm hesitant to end the experiment and start doing intervals. **What _The Grand Experiment_ has proven so far is that cardio is absolutely not necessary to achieve flat abs.** This is exactly what I predicted.
+
+_\* I now believe the Level defintions are a good starting point, but not complete. It is still possible to have an undefined [linea albinea](http://www.cureality.com/blog/post/2010/11/02/can-i-see-your-linea-alba.html) and handles with lower ab definition. Level 3 probably needs to be broken down into components._
 
 ---
 

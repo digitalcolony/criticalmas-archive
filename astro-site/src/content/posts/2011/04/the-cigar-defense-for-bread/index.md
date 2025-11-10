@@ -9,14 +9,24 @@ description: "Does anyone recall the cigar fad from the mid-1990s? Cigar bars po
 commentCount: 12
 ---
 
-Does anyone recall the cigar fad from the mid-1990s? Cigar bars popped up. Celebrities were photographed smoking them. Cigarettes were out and cigars were in. Whenever someone brought up health concerns, the response was that cigars were OK, because you don't inhale them and you smoke less of them. People wanted to smoke, they knew cigarettes were bad and so many justified smoking cigars. **They were never healthy, they were just less bad.** ![](./img/arnold-cigar1.jpg "arnold-cigar") Bread has become the new cigar. Soak it, sprout it, ferment it. Beat the living hell out of bread and - maybe - you can make it less bad, or dare I say "OK" to consume. Grains are empty carbohydrates full of anti-nutrient properties. They are not healthy. Can you make them less bad? Sure, but that doesn't make it healthy. If you like bread and want it to eat, then man up and say it is for you. But please don't try and tell me it is healthy, a good source of nutrition, or even inexpensive. It's not. It is a cigar at best. I'm not going to go through the science. Others have done a much better job than me.
+Does anyone recall the cigar fad from the mid-1990s? Cigar bars popped up. Celebrities were photographed smoking them. Cigarettes were out and cigars were in. Whenever someone brought up health concerns, the response was that cigars were OK, because you don't inhale them and you smoke less of them. People wanted to smoke, they knew cigarettes were bad and so many justified smoking cigars. **They were never healthy, they were just less bad.**
+
+![](./img/arnold-cigar1.jpg "arnold-cigar")
+
+Bread has become the new cigar. Soak it, sprout it, ferment it. Beat the living hell out of bread and - maybe - you can make it less bad, or dare I say "OK" to consume. Grains are empty carbohydrates full of anti-nutrient properties. They are not healthy. Can you make them less bad? Sure, but that doesn't make it healthy.
+
+If you like bread and want it to eat, then man up and say it is for you. But please don't try and tell me it is healthy, a good source of nutrition, or even inexpensive. It's not. It is a cigar at best.
+
+I'm not going to go through the science. Others have done a much better job than me.
 
 -   [The Argument Against Cereal Grains Part 1](https://web.archive.org/web/20110410062600/http://www.archevore.com/panu-weblog/2009/6/23/the-argument-against-cereal-grains.html), [Part 2](https://web.archive.org/web/20131024025123/http://www.archevore.com/panu-weblog/2010/3/12/the-argument-against-cereal-grains-ii.html) - Kurt G. Harris MD
 -   [The Perfect Frankengrain](https://web.archive.org/web/20131011154300/http://blog.trackyourplaque.com/2011/02/the-perfect-frankengrain.html) - Dr. William Davis
 -   [Why Grains Are Unhealthy](https://web.archive.org/web/20231220075717/https://www.marksdailyapple.com/why-grains-are-unhealthy/) - Mark Sisson
 -   The chapter on Grains in The Paleo Solution by Robb Wolf.
 
-I can already hear the cries defending sourdough or sprouted Jesus bread. I don't care. The reason I don't care is that I know what it takes to successfully follow a diet. You need to remove not only the poison but the taste for the poison as well. One week your eating soaked, sprouted, and fermented bread, and the next week you get busy and buy the bread with the prettiest font. You lie to yourself that you can live without bread, but you can't. You are powerless to the wheat opioid peptides. I was once powerless to bread. Not anymore. You can have your soaked, sprouted, and fermented bread. I prefer being lean.
+I can already hear the cries defending sourdough or sprouted Jesus bread. I don't care. The reason I don't care is that I know what it takes to successfully follow a diet. You need to remove not only the poison but the taste for the poison as well. One week your eating soaked, sprouted, and fermented bread, and the next week you get busy and buy the bread with the prettiest font. You lie to yourself that you can live without bread, but you can't. You are powerless to the wheat opioid peptides.
+
+I was once powerless to bread. Not anymore. You can have your soaked, sprouted, and fermented bread. I prefer being lean.
 
 ---
 

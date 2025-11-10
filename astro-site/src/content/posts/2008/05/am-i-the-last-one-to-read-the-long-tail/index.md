@@ -9,7 +9,9 @@ description: "I finally got around to reading one of the most cited business boo
 commentCount: 2
 ---
 
-I finally got around to reading one of the most cited business books of the decade. In fairness, I read the original Wired article from October 2004 when it first came out. ![Long Tail, The, Revised and Updated Edition: Why the Future of Business is Selling Less of More](https://images-na.ssl-images-amazon.com/images/I/41h0cZRmWKL.jpg) Long Tail, The, Revised and Updated Edition: Why the Future of Business is Selling Less of More by Chris Anderson is the detailed examination of how we are moving from a _hit-based_ society to a _niche-based_ society. The thesis was more interesting four ago, today it seems so obvious. It is a good book, but most would be better off reading the Wired article first and then deciding if they wish to go deeper on the topic before picking up the book.
+I finally got around to reading one of the most cited business books of the decade. In fairness, I read the original Wired article from October 2004 when it first came out.
+
+![Long Tail, The, Revised and Updated Edition: Why the Future of Business is Selling Less of More](https://images-na.ssl-images-amazon.com/images/I/41h0cZRmWKL.jpg) Long Tail, The, Revised and Updated Edition: Why the Future of Business is Selling Less of More by Chris Anderson is the detailed examination of how we are moving from a _hit-based_ society to a _niche-based_ society. The thesis was more interesting four ago, today it seems so obvious. It is a good book, but most would be better off reading the Wired article first and then deciding if they wish to go deeper on the topic before picking up the book.
 
 ---
 

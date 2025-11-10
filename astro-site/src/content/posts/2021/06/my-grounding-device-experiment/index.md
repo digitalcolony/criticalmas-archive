@@ -9,7 +9,21 @@ description: "Back in April, Ben Greenfield did a podcast titled My New #1 Hack 
 commentCount: 3
 ---
 
-Back in April, Ben Greenfield did a podcast titled _My New #1 Hack For Zapping Inflammation, Increasing Deep Sleep & Recovering Faster—Earthing (The Most Important Health Discovery Ever?)_. I've always been highly skeptical that standing or sleeping on a grounded mat or sheet would have any health benefit. Yet, I decided to go down the rabbit hole on this topic. After several hours, I assigned a 10% chance that using a grounding product would result in a measurable improvement in my health. Usually, I would discount an idea like this, but on Amazon, I found a grounding pillowcase for less than $30 with lots of positive reviews. Since I regularly buy $30 supplements to try ideas, it would be a small investment to answer this question. With the Oura ring, I don't need to rely on my subjective feelings. I can see real data. I can measure my sleep scores with and without the grounded pillowcase. I performed a few tests of various durations. And the data is clear. The grounded pillowcase did nothing to improve my sleep. Worthless. But at least I know. Earthing is the product-free version, where someone puts their feet on the ground to get the health benefits covered in the podcast. Because I wanted to test the pillowcase in isolation, I did not engage in any Earthing during this test period. What are your thoughts on grounding products and earthing? ![earthing pillowcase](./img/earthing-pillowcase-e1624833103849.jpg)
+Back in April, Ben Greenfield did a podcast titled _My New #1 Hack For Zapping Inflammation, Increasing Deep Sleep & Recovering Faster—Earthing (The Most Important Health Discovery Ever?)_.
+
+I've always been highly skeptical that standing or sleeping on a grounded mat or sheet would have any health benefit. Yet, I decided to go down the rabbit hole on this topic.
+
+After several hours, I assigned a 10% chance that using a grounding product would result in a measurable improvement in my health. Usually, I would discount an idea like this, but on Amazon, I found a grounding pillowcase for less than $30 with lots of positive reviews. Since I regularly buy $30 supplements to try ideas, it would be a small investment to answer this question.
+
+With the Oura ring, I don't need to rely on my subjective feelings. I can see real data. I can measure my sleep scores with and without the grounded pillowcase.
+
+I performed a few tests of various durations. And the data is clear. The grounded pillowcase did nothing to improve my sleep. Worthless. But at least I know.
+
+Earthing is the product-free version, where someone puts their feet on the ground to get the health benefits covered in the podcast. Because I wanted to test the pillowcase in isolation, I did not engage in any Earthing during this test period.
+
+What are your thoughts on grounding products and earthing?
+
+![earthing pillowcase](./img/earthing-pillowcase-e1624833103849.jpg)
 
 ---
 

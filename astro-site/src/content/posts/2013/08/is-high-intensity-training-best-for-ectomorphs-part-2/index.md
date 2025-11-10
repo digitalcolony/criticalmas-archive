@@ -9,9 +9,13 @@ description: "It has been a year since I posted Is High-Intensity Training Best 
 commentCount: 19
 ---
 
-It has been a year since I posted [Is High-Intensity Training Best for Ectomorphs?](/2012/08/is-high-intensity-training-best-for-ectomorphs/) Time for a follow-up. In the past year, I have scaled down my intensity. As I mentioned in a [recent post](/2013/08/why-i-traded-volume-for-intensity-at-the-glitter-gym/), the limiting factor for my level of intensity is gym temperature. So for the most part, my environment has played the greatest factor in my lowering intensity. In the post I did last year, I assumed because I was an ectomorph that I was genetically predisposed to benefit from higher volume, as ectomorphs tend to have more slow-twitch muscle fibers. That assumption was rocked when I got my [test results back from 23andMe](/2013/04/23andme-results/).
+It has been a year since I posted [Is High-Intensity Training Best for Ectomorphs?](/2012/08/is-high-intensity-training-best-for-ectomorphs/) Time for a follow-up. In the past year, I have scaled down my intensity. As I mentioned in a [recent post](/2013/08/why-i-traded-volume-for-intensity-at-the-glitter-gym/), the limiting factor for my level of intensity is gym temperature. So for the most part, my environment has played the greatest factor in my lowering intensity.
 
-> The book Body By Science talks about the alpha-actinin-3 gene and how those trainers who lack that marker could be _modest intensity_ responders. Meaning that high intensity might not be best for them. They tend to be built for endurance. And unless I misread everything, they tend to be ectomorphs. Since last August, I assumed I was in this camp and have reduced my intensity. Well, maybe it is time to turn back up the intensity, because I have one copy of the alpha-actinin-3 gene! Did not see that one coming.
+In the post I did last year, I assumed because I was an ectomorph that I was genetically predisposed to benefit from higher volume, as ectomorphs tend to have more slow-twitch muscle fibers. That assumption was rocked when I got my [test results back from 23andMe](/2013/04/23andme-results/).
+
+> The book Body By Science talks about the alpha-actinin-3 gene and how those trainers who lack that marker could be _modest intensity_ responders. Meaning that high intensity might not be best for them. They tend to be built for endurance. And unless I misread everything, they tend to be ectomorphs.
+> 
+> Since last August, I assumed I was in this camp and have reduced my intensity. Well, maybe it is time to turn back up the intensity, because I have one copy of the alpha-actinin-3 gene! Did not see that one coming.
 
 ![](./img/23-muscle.png)
 

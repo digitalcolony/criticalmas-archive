@@ -9,7 +9,9 @@ description: "This past Saturday morning, I met up with some friends at a local 
 commentCount: 6
 ---
 
-This past Saturday morning, I met up with some friends at a local tea shop. The woman to my direct left was just starting to come down with a cold. I didn't realize it at first, but I wasn't concerned. Since I started eating my homemade kimchi daily, I have been around sick people and never got sick. When I lived in California I was highly susceptible to colds. Not anymore. By the time I got home later in the evening I felt fatigued. I had very early symptoms of exposure. So I calmly came up with a strategy to win the battle against the cold.
+This past Saturday morning, I met up with some friends at a local tea shop. The woman to my direct left was just starting to come down with a cold. I didn't realize it at first, but I wasn't concerned. Since I started eating my homemade kimchi daily, I have been around sick people and never got sick. When I lived in California I was highly susceptible to colds. Not anymore.
+
+By the time I got home later in the evening I felt fatigued. I had very early symptoms of exposure. So I calmly came up with a strategy to win the battle against the cold.
 
 1.  **More Sleep** - On Sunday, I took an hour nap in my cave, which is a room without electronics and has black out curtains. Sleep triggers melatonin which triggers an increase in white blood cell activity which responds to pathogens in the body. The darker the room, the greater the melatonin release. I covered this in the post [Turning Down the Lights](/2010/07/turning-down-the-lights/).
 2.  **Fermented Foods** - 75% of the immune system is in the gut. I needed to send reinforcement troops for the battle that my body was getting ready to fight. I consumed [kimchi](/2010/04/bok-choy-kimchi-recipe/), [kombucha](https://en.wikipedia.org/wiki/Kombucha) and some of my homemade raw milk yogurt.
@@ -17,7 +19,11 @@ This past Saturday morning, I met up with some friends at a local tea shop. The 
 4.  **Continue Eating Anti-Bacterial and Anti-Viral Foods** - Garlic is also called _Russian Penicillin_. It is antimicrobial, antiparasitic and antiviral. The book [The 150 Healthiest Foods on Earth](/2008/03/150-superfoods-because-14-just-wasnt-enough/) is a guidebook that belongs in every kitchen. Eat those foods.
 5.  **Avoid Grains** - Don't eat grains while fighting sickness (or ever). They block vitamin and mineral absorption and could trigger auto-immune response. The last thing you want is your immune system attacking itself after being exposed to a pathogen.
 
-![kimchi-large-jar](./img/kimchi-large-jar.jpg) _My Kimchi_ Here it is Monday and I feel great. I won the battle without a single sneeze or cough. I feel good enough to go to the gym, but I won't. I'll conserve my energy. For lunch I'll get out some more home made broth and make another soup. The enemy has been defeated, now it is time to rebuild my defenses for the next battle.
+![kimchi-large-jar](./img/kimchi-large-jar.jpg)
+
+_My Kimchi_
+
+Here it is Monday and I feel great. I won the battle without a single sneeze or cough. I feel good enough to go to the gym, but I won't. I'll conserve my energy. For lunch I'll get out some more home made broth and make another soup. The enemy has been defeated, now it is time to rebuild my defenses for the next battle.
 
 ---
 

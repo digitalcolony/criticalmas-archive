@@ -11,9 +11,19 @@ commentCount: 15
 
 When I went to _Ranch 99_, I knew wanted a new kitchen challenge. Something that I never had before. Something exotic. When I saw the package of pork uterus, I hesitated for a moment and then threw it in the cart. After I got home, I went looking for a recipe. There really isn't much out there. What I did find frightened me a bit. The post [Scary Food](https://www.kqed.org/bayareabites/185/scary-food) on _Bay Area Bites_ lists Pig Uterus as the #1 Scary Food sold at _Ranch 99_. From that post:
 
-> And it began to cook. And it began to smell. "Jesus Christ, there is NO WAY, I'm tasting that," Tristan shouted. The smell got worse, perhaps mixing with eau de fermented mudfish. "It smells just the way a cooked \[uterus\] probably should smell," he cried above the hiss of the oil and the mass of sizzling pink-grey tubes.
+> And it began to cook.
+> 
+> And it began to smell.
+> 
+> "Jesus Christ, there is NO WAY, I'm tasting that," Tristan shouted. The smell got worse, perhaps mixing with eau de fermented mudfish. "It smells just the way a cooked \[uterus\] probably should smell," he cried above the hiss of the oil and the mass of sizzling pink-grey tubes.
 
-The author proceeds to put the entire dish in the trash and then take the trash out after the cat showed too much interest. Now I was worried. I had to assume the taste would not be to my liking, so I'd need to surround the pig uterus with heavy tastes that I already enjoy. My weapon of choice would be curry made from coconut cream. ![pork-uterus](./img/pork-uterus.jpg) **Summary**: _Hiding the taste of pig uterus in a Thai Curry._
+The author proceeds to put the entire dish in the trash and then take the trash out after the cat showed too much interest.
+
+Now I was worried. I had to assume the taste would not be to my liking, so I'd need to surround the pig uterus with heavy tastes that I already enjoy. My weapon of choice would be curry made from coconut cream.
+
+![pork-uterus](./img/pork-uterus.jpg)
+
+**Summary**: _Hiding the taste of pig uterus in a Thai Curry._
 
 
 #### Ingredients
@@ -26,7 +36,11 @@ The author proceeds to put the entire dish in the trash and then take the trash 
 -   Yam or Sweet Potato (for sweetness)
 -   Cabbage
 
-![pig-uterus-raw](./img/pig-uterus-raw.jpg) _Be sure to chop up uterus meat._ ![pig-uterus-raw2](./img/pig-uterus-raw2.jpg)
+![pig-uterus-raw](./img/pig-uterus-raw.jpg)
+
+_Be sure to chop up uterus meat._
+
+![pig-uterus-raw2](./img/pig-uterus-raw2.jpg)
 
 
 #### Instructions
@@ -42,7 +56,11 @@ The author proceeds to put the entire dish in the trash and then take the trash 
 8.  After a minute or two, add in the pig uterus.
 9.  Cook until done (this is your call, I'm no expert!)
 
-Preparation time: 15 minute(s) Cooking time: 15 minute(s) ![pork-uterus-cooked](./img/pork-uterus-cooked.jpg)
+Preparation time: 15 minute(s)
+
+Cooking time: 15 minute(s)
+
+![pork-uterus-cooked](./img/pork-uterus-cooked.jpg)
 
 
 ### The Verdict

@@ -9,7 +9,11 @@ description: "Beginning in late September I scaled down my caffeine intake. Then
 commentCount: 10
 ---
 
-Beginning in late September I scaled down my caffeine intake. Then in October, I went the entire month without coffee and 21 days without any caffeine. This month I have been on a very low caffeine intake, averaging just 1 cup of coffee a day. I covered that experiment in the article [A Month Without Coffee](https://ineedcoffee.com/a-month-without-coffee/). Well, today I confirmed a side effect that I suspected was occurring: weight gain. I am now 7 pounds heavier than when I started my caffeine reduction experiment (was 187, now 194). And it isn't muscle. Although I am still lean, ab definition is now gone. I'm not concerned though, because reducing caffeine has resulted in [fewer headaches](/2012/11/hunting-headaches-a-favorable-trend/). I'll take that trade any day. Plus I know how to lean out with minimal effort, so I can always get back to my normal weight - if I can do it without increasing headache frequency. Why did I gain weight during this period? Some thoughts:
+Beginning in late September I scaled down my caffeine intake. Then in October, I went the entire month without coffee and 21 days without any caffeine. This month I have been on a very low caffeine intake, averaging just 1 cup of coffee a day. I covered that experiment in the article [A Month Without Coffee](https://ineedcoffee.com/a-month-without-coffee/). Well, today I confirmed a side effect that I suspected was occurring: weight gain.
+
+I am now 7 pounds heavier than when I started my caffeine reduction experiment (was 187, now 194). And it isn't muscle. Although I am still lean, ab definition is now gone. I'm not concerned though, because reducing caffeine has resulted in [fewer headaches](/2012/11/hunting-headaches-a-favorable-trend/). I'll take that trade any day. Plus I know how to lean out with minimal effort, so I can always get back to my normal weight - if I can do it without increasing headache frequency.
+
+Why did I gain weight during this period? Some thoughts:
 
 1.  Caffeine is an appetite suppressant.
 2.  Seattle weather was terrible during this period. My non-exercise movement (walking) was minimal. This means I was home near my food supplies for a high percentage of the month.
@@ -17,7 +21,11 @@ Beginning in late September I scaled down my caffeine intake. Then in October, I
 4.  When I did go to the gym to do my [High Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/), my focus was off. Either I went to failure faster than normal or I didn't have the grit to push myself as hard. Although I strongly believe [exercise plays almost no role in fat loss](/2012/04/how-exercise-indirectly-kept-me-fatter/), I do think [HIT has some fat loss](/2012/04/fat-loss-and-high-intensity-exercise/) applications, provided it really is high intensity and you aren't just going through the motions like I was doing.
 5.  Less morning [fasting](https://criticalmas.org/best-of/intermittent-fasting/). I had less discipline on delaying my first meal without caffeine.
 
-![](http://farm8.staticflickr.com/7163/6835384967_4130aae3ef_z.jpg "coffee break") _[Photo](http://www.flickr.com/photos/lansmuseetgavleborg/6835384967/in/set-72157629214455737/) by Länsmuseet Gävleborg_ I'm even more convinced than before that my next caffeine detox will be in the summer. Then I will be able to distract myself with hours of low intensity movement away from my kitchen. But for now, I'm gradually adding back more Intermittent Fasting. My gym intensity is still below normal, but that just might take more practice of learning how to generate high intensity without getting jacked on espresso. If those strategies don't work, I might increase my average daily coffee intake to 2, which is still half of what it was before I started reducing my caffeine levels. Of course I'll only do that if it doesn't result in more headaches.
+![](http://farm8.staticflickr.com/7163/6835384967_4130aae3ef_z.jpg "coffee break")
+
+_[Photo](http://www.flickr.com/photos/lansmuseetgavleborg/6835384967/in/set-72157629214455737/) by Länsmuseet Gävleborg_
+
+I'm even more convinced than before that my next caffeine detox will be in the summer. Then I will be able to distract myself with hours of low intensity movement away from my kitchen. But for now, I'm gradually adding back more Intermittent Fasting. My gym intensity is still below normal, but that just might take more practice of learning how to generate high intensity without getting jacked on espresso. If those strategies don't work, I might increase my average daily coffee intake to 2, which is still half of what it was before I started reducing my caffeine levels. Of course I'll only do that if it doesn't result in more headaches.
 
 ---
 

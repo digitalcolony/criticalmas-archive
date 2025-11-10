@@ -9,7 +9,9 @@ description: "A McDonalds billboard in Belltown gets tagged brilliantly. The ori
 commentCount: 2
 ---
 
-A McDonalds billboard in Belltown gets tagged brilliantly. The original phrase was "_Three reasons to put PANTS on_". I like the diapers version better. ![mcdonalds-diapers](./img/mcdonalds-diapers.jpg)
+A McDonalds billboard in Belltown gets tagged brilliantly. The original phrase was "_Three reasons to put PANTS on_". I like the diapers version better.
+
+![mcdonalds-diapers](./img/mcdonalds-diapers.jpg)
 
 ---
 

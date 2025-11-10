@@ -15,13 +15,29 @@ This is a quick housekeeping post.
 ### Blog Issues
 
 
-First, I want to apologize to any of the users that received a CAPTCHA block trying to access this site over the past month. I was unaware it was happening until two users contacted me about the issue. My web host and CDN each were blaming each other. In the end, I HOPE it is finally resolved. You should never see a CAPTCHA or security block on this site. If you do, please email me (digitalcolony@gmail.com) or tag me on Twitter @CriticalMAS with a screenshot and your IP Address (go to [whatsmyip.org](http://www.whatsmyip.org/)). ![](./img/captcha-SITEGROUND600.jpg) _CAPTCHA #1 is what some users saw. It was coming from my website._  ![](./img/captcha-CLOUDFLARE600.jpg) _CAPTCHA #2 is by my CDN. I don't believe anyone received this one._  The bizarre thing is I'm hosting 4 websites on the same server with the same set up using the same CDN and it only affected this site.
+First, I want to apologize to any of the users that received a CAPTCHA block trying to access this site over the past month. I was unaware it was happening until two users contacted me about the issue. My web host and CDN each were blaming each other. In the end, I HOPE it is finally resolved.
+
+You should never see a CAPTCHA or security block on this site. If you do, please email me (digitalcolony@gmail.com) or tag me on Twitter @CriticalMAS with a screenshot and your IP Address (go to [whatsmyip.org](http://www.whatsmyip.org/)).
+
+![](./img/captcha-SITEGROUND600.jpg)
+
+_CAPTCHA #1 is what some users saw. It was coming from my website._ 
+
+![](./img/captcha-CLOUDFLARE600.jpg)
+
+_CAPTCHA #2 is by my CDN. I don't believe anyone received this one._ 
+
+The bizarre thing is I'm hosting 4 websites on the same server with the same set up using the same CDN and it only affected this site.
 
 
 ### New Search
 
 
-Try out the new search for this blog, which is located in the right column. I now have auto-complete! It is by [Algolia](https://www.algolia.com/) and I get 100,000 free searches per month, which should be more than plenty for this site. So far it seems to be quick and works fine on mobile. My only issue is that it doesn't search comments, which is something the WordPress search didn't do either. Let me know if you like it or have any issues.
+Try out the new search for this blog, which is located in the right column. I now have auto-complete! It is by [Algolia](https://www.algolia.com/) and I get 100,000 free searches per month, which should be more than plenty for this site. So far it seems to be quick and works fine on mobile.
+
+My only issue is that it doesn't search comments, which is something the WordPress search didn't do either.
+
+Let me know if you like it or have any issues.
 
 
 ### Requests

@@ -9,7 +9,13 @@ description: "Often when I'm reading a book I'll think \"I should be taking note
 commentCount: 48
 ---
 
-Often when I'm reading a book I'll think "I should be taking notes", but then I don't and keep reading. When the book is over, a few core ideas with stick with me. And some get forgotten. There was a gem of an idea in the book _Eat For Heat_ by Matt Stone that I forgot the first time I read the book. I'm so glad I went back to that book to look something up. Because this idea is working wonders for me. ![Eat for Heat: The Metabolic Approach to Food and Drink](https://images-na.ssl-images-amazon.com/images/I/51mEYxblm0L.jpg) _Eat for Heat: The Metabolic Approach to Food and Drink by Matt Stone_ For many years I often would wake up too early and have trouble returning to sleep. Several years ago it happened daily. Then I cut back my coffee consumption and that helped. Then I cut back my evening water consumption and that helped a lot. Although my sleep was much better, it wasn't perfect. A few times a week I'd still wake early and not be able to return to sleep. The feeling of both being tired and a rise in adrenaline would be a battle in my body. Usually, the adrenaline won and I'd get up despite wishing I could sleep a few more hours. In the book _Eat for Heat_, Matt describes a sugar and salt mixture used to stop the stress hormones.
+Often when I'm reading a book I'll think "I should be taking notes", but then I don't and keep reading. When the book is over, a few core ideas with stick with me. And some get forgotten. There was a gem of an idea in the book _Eat For Heat_ by Matt Stone that I forgot the first time I read the book. I'm so glad I went back to that book to look something up. Because this idea is working wonders for me.
+
+![Eat for Heat: The Metabolic Approach to Food and Drink](https://images-na.ssl-images-amazon.com/images/I/51mEYxblm0L.jpg) _Eat for Heat: The Metabolic Approach to Food and Drink by Matt Stone_
+
+For many years I often would wake up too early and have trouble returning to sleep. Several years ago it happened daily. Then I cut back my coffee consumption and that helped. Then I cut back my evening water consumption and that helped a lot. Although my sleep was much better, it wasn't perfect. A few times a week I'd still wake early and not be able to return to sleep.
+
+The feeling of both being tired and a rise in adrenaline would be a battle in my body. Usually, the adrenaline won and I'd get up despite wishing I could sleep a few more hours. In the book _Eat for Heat_, Matt describes a sugar and salt mixture used to stop the stress hormones.
 
 -   5 parts of sugar
 -   1 part salt
@@ -19,7 +25,9 @@ From the book:
 
 > The salt and sugar mixture is an absolute must for nighttime stress events.   For wakeups between 2-4 am, accompanied by a feeling of excess adrenaline circulating through your system (adrenaline peaks at this time), salt and sugar under the tongue is the only way to go...Keep the sugar/ salt mixture by the bedside for easy and thoughtless access until you stop having middle-of-the-night wakeups.
 
-It works. I've been using this trick for a few weeks. Sleep is now winning the battle with the early morning stress hormones. My success rate is about 80%. This is a huge win. You don't need to just use this hack if you wake too early. It could work whenever you feel the stress hormones rising. I could see this being an excellent strategy for those that eat emotionally to reduce stress or even as a tool to help get to sleep.
+It works. I've been using this trick for a few weeks. Sleep is now winning the battle with the early morning stress hormones. My success rate is about 80%. This is a huge win.
+
+You don't need to just use this hack if you wake too early. It could work whenever you feel the stress hormones rising. I could see this being an excellent strategy for those that eat emotionally to reduce stress or even as a tool to help get to sleep.
 
 ---
 

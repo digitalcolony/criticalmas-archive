@@ -9,7 +9,9 @@ description: "I've done several posts on how to use potatoes to get lean. Head o
 commentCount: 22
 ---
 
-I've done several posts on how to use potatoes to get lean. Head over to my [Potato Hack Diet](https://criticalmas.org/best-of/potato-hack-diet/) page to see those posts in the proper order. This post will be me reaching for an explanation on why some people cannot imagine themselves going days or even a single meal eating just boiled potatoes. In the post [The Five Stages of (Potato Hack) Grief](/2017/08/five-stages-potato-hack-grief/), I outlined the phases one could experience. Let's focus in on Stage #4 Depression. The idea of eating just potatoes is not a pleasant idea for most. From that post:
+I've done several posts on how to use potatoes to get lean. Head over to my [Potato Hack Diet](https://criticalmas.org/best-of/potato-hack-diet/) page to see those posts in the proper order. This post will be me reaching for an explanation on why some people cannot imagine themselves going days or even a single meal eating just boiled potatoes.
+
+In the post [The Five Stages of (Potato Hack) Grief](/2017/08/five-stages-potato-hack-grief/), I outlined the phases one could experience. Let's focus in on Stage #4 Depression. The idea of eating just potatoes is not a pleasant idea for most. From that post:
 
 > Many will make it to this stage, imagine the Depression, and then never do a thing about it. It is too much. Depression feels bad. They can move through the Depression stage or head back to the kitchen for some ice cream and cookies to make the sadness disappear.
 
@@ -19,13 +21,25 @@ I've seen many smart and ambitious people make it to this stage and then go no f
 ### The Flavor -> Satiety Link
 
 
-If it were just unambitious lazy people that didn't pursue the Potato Hack, I could understand, but I was talking to people more successful than me. People with a history of struggle and success. My hypothesis is that people subconsciously associate flavor with satiety. Their conscious mind understands it is calories that leads to satiety. But we don't eat calories. We eat food. Food has flavor. Eating plain boiled potatoes has almost no flavor. Therefore not only would the experience be unpleasant, but it feels like it may not work. That is the disconnect that makes the Potato Hack work, but it is also the disconnect that keeps many people from trying the diet. Adults get to eat whatever they want. So we choose foods that taste good to us. These positive flavor signals get repeated every time we eat. For years. For decades. These flavors move us from the unpleasant feeling of hunger to the pleasant feeling of satiety. We form memories and emotions around foods, meals, and restaurants that deliver us to satiety time and time again. The flavors are reinforcing. But that is the problem. Because we live in a hyper-abundant society where food is always available, usually cheap, and tastes amazing, we overconsume. In other words, the flavors became engrained and got the upper-hand.
+If it were just unambitious lazy people that didn't pursue the Potato Hack, I could understand, but I was talking to people more successful than me. People with a history of struggle and success.
+
+My hypothesis is that people subconsciously associate flavor with satiety. Their conscious mind understands it is calories that leads to satiety. But we don't eat calories. We eat food. Food has flavor. Eating plain boiled potatoes has almost no flavor. Therefore not only would the experience be unpleasant, but it feels like it may not work. That is the disconnect that makes the Potato Hack work, but it is also the disconnect that keeps many people from trying the diet.
+
+Adults get to eat whatever they want. So we choose foods that taste good to us. These positive flavor signals get repeated every time we eat. For years. For decades. These flavors move us from the unpleasant feeling of hunger to the pleasant feeling of satiety. We form memories and emotions around foods, meals, and restaurants that deliver us to satiety time and time again.
+
+The flavors are reinforcing. But that is the problem. Because we live in a hyper-abundant society where food is always available, usually cheap, and tastes amazing, we overconsume. In other words, the flavors became engrained and got the upper-hand.
 
 
 ### Potato Hack Training Wheels
 
 
-Going 3 days eating cold boiled plain potatoes is not an option for some. They won't even go a single meal and some wouldn't even try my single potato idea ([Marine Potato 20](/2017/08/marine-potato-20-easy-potato-hack-everyone/)). The Flavor -> Satiety link is too strong. It needs to be weakened. **Eat a bowl of boiled potatoes warm with salt and a splash of red wine vinegar.** It actually tastes pretty good. The red wine vinegar only adds a few calories. If that goes fine - and I believe it will - start swapping out meals here and there with this method. This will gradually build up calorie deficits throughout the week. It will also reduce the flavor signals you experience. At some point, you may decide to try a stricter Potato Hack or not. That is up to you. Knocking out a meal here and there with potatoes is a powerful tool for both leaning out but also staying lean. ![red potatoes](./img/red-potatoes.jpg)
+Going 3 days eating cold boiled plain potatoes is not an option for some. They won't even go a single meal and some wouldn't even try my single potato idea ([Marine Potato 20](/2017/08/marine-potato-20-easy-potato-hack-everyone/)). The Flavor -> Satiety link is too strong. It needs to be weakened.
+
+**Eat a bowl of boiled potatoes warm with salt and a splash of red wine vinegar.** It actually tastes pretty good. The red wine vinegar only adds a few calories. If that goes fine - and I believe it will - start swapping out meals here and there with this method. This will gradually build up calorie deficits throughout the week. It will also reduce the flavor signals you experience.
+
+At some point, you may decide to try a stricter Potato Hack or not. That is up to you. Knocking out a meal here and there with potatoes is a powerful tool for both leaning out but also staying lean.
+
+![red potatoes](./img/red-potatoes.jpg)
 
 ---
 

@@ -25,7 +25,11 @@ I took some notes.
 ### Toxins Are Real and They Are Everywhere
 
 
-Dr. Walsh explained how they can find toxins in everyone. People all around the world, including newborn infants, have some exposure. Toxins are everywhere. We are exposed to them in the air (driving), the soil, food, water, cleaning products, and possibly even supplements. Even some "green" cleaning products can have toxins. So spending a bunch of money at Whole Foods may help you a little, but not completely. At one point in the interview, Dr. Walsh mentioned that poorer people are more likely to get toxins from smoking, whereas upper-class people are more likely to toxins related to gardening. There are too many variables when it comes to toxicity. Much is still unknown. If you believe that "clean-living" is enough to keep toxins away, you are mistaken.
+Dr. Walsh explained how they can find toxins in everyone. People all around the world, including newborn infants, have some exposure. Toxins are everywhere. We are exposed to them in the air (driving), the soil, food, water, cleaning products, and possibly even supplements. Even some "green" cleaning products can have toxins.
+
+So spending a bunch of money at Whole Foods may help you a little, but not completely. At one point in the interview, Dr. Walsh mentioned that poorer people are more likely to get toxins from smoking, whereas upper-class people are more likely to toxins related to gardening.
+
+There are too many variables when it comes to toxicity. Much is still unknown. If you believe that "clean-living" is enough to keep toxins away, you are mistaken.
 
 
 ### Toxins Cause Real Problems
@@ -40,25 +44,47 @@ There are numerous studies connecting environmental toxins to different health i
 -   ADHD, autism
 -   poor fertility
 
-Some toxins when released have a negative effect on thyroid hormone, which can cause a host of other issues. Your initial reaction might be to pay for a toxicity test, but tests can be flawed. The reason is during periods of reduced calories toxins are released from body fat, which causes the numbers to go up. Then in periods of normal or excess calories, toxins remain in fat, which could under-represent toxic load. A better course of action would be to assume exposure and respond accordingly. ![toxins](./img/scott-rodgerson-371852-toxin.jpg) _Photo by [Scott Rodgerson](https://unsplash.com/@scottrodgerson)_
+Some toxins when released have a negative effect on thyroid hormone, which can cause a host of other issues.
+
+Your initial reaction might be to pay for a toxicity test, but tests can be flawed. The reason is during periods of reduced calories toxins are released from body fat, which causes the numbers to go up. Then in periods of normal or excess calories, toxins remain in fat, which could under-represent toxic load.
+
+A better course of action would be to assume exposure and respond accordingly.
+
+![toxins](./img/scott-rodgerson-371852-toxin.jpg)
+
+_Photo by [Scott Rodgerson](https://unsplash.com/@scottrodgerson)_
 
 
 ### Caloric Deficits Are Required to Liberate Toxins
 
 
-There are two classes of toxins: water-soluble and fat-soluble. Water-soluble are easily eliminated from the body. On the other hand, fat-soluble require the burning of body fat, which means a reduction in calories for some period of time. There are many detox plans on the market that do not have a fat-loss component. Do not fall for them. **Lipolysis is required to liberate fat-soluble toxins.** Many supplements that are peddled as detoxifying actually interfere with the detoxification process at higher doses. Green tea extract and curcumin were mentioned. Listen to the show for a deeper explanation. The short version is you can't pay for some magic pill or powder to make the toxins disappear.
+There are two classes of toxins: water-soluble and fat-soluble. Water-soluble are easily eliminated from the body. On the other hand, fat-soluble require the burning of body fat, which means a reduction in calories for some period of time.
+
+There are many detox plans on the market that do not have a fat-loss component. Do not fall for them. **Lipolysis is required to liberate fat-soluble toxins.**
+
+Many supplements that are peddled as detoxifying actually interfere with the detoxification process at higher doses. Green tea extract and curcumin were mentioned. Listen to the show for a deeper explanation. The short version is you can't pay for some magic pill or powder to make the toxins disappear.
 
 
 ### How to Detox According to Dr. Walsh
 
 
-As I stated at the top of the post, my view that fat loss was the way to eliminate toxins was both correct and incomplete. What I learned is simply liberating the toxin from the fat cell is not always sufficient to expel them from the body. Sometimes toxins liberated in one area get reabsorbed in another area. Some toxins get peed or pooped out. And some get sweated out. So in addition to being in a caloric deficit, **sweating is key to any detoxification**. Dr. Walsh recommends using a sauna for 30-minutes a day during a detox and he goes as far to say that he would not have anyone go on a fat-loss diet without drastically supporting detoxification and this includes sauna use. The type of sauna is not important. Sweating is a key pathway for removing toxins that must be utilized. But before you kick off a detox plan, Dr. Walsh stresses to be healthy first. Meaning having a diet rich in nutrients, which will help with the detoxification pathways. I'm guessing the readers of this blog already are eating a nutrient-dense diet, but for the new readers, it is good to know. Foods that will help transport the toxins out include leeks, broccoli, cauliflower, and sprouted mung beans. The supplement St. Johns Wort speeds up the detoxification pathway. Higher fiber is recommended and activated charcoal can also assist.
+As I stated at the top of the post, my view that fat loss was the way to eliminate toxins was both correct and incomplete. What I learned is simply liberating the toxin from the fat cell is not always sufficient to expel them from the body. Sometimes toxins liberated in one area get reabsorbed in another area.
+
+Some toxins get peed or pooped out. And some get sweated out. So in addition to being in a caloric deficit, **sweating is key to any detoxification**. Dr. Walsh recommends using a sauna for 30-minutes a day during a detox and he goes as far to say that he would not have anyone go on a fat-loss diet without drastically supporting detoxification and this includes sauna use. The type of sauna is not important. Sweating is a key pathway for removing toxins that must be utilized.
+
+But before you kick off a detox plan, Dr. Walsh stresses to be healthy first. Meaning having a diet rich in nutrients, which will help with the detoxification pathways. I'm guessing the readers of this blog already are eating a nutrient-dense diet, but for the new readers, it is good to know.
+
+Foods that will help transport the toxins out include leeks, broccoli, cauliflower, and sprouted mung beans. The supplement St. Johns Wort speeds up the detoxification pathway. Higher fiber is recommended and activated charcoal can also assist.
 
 
 ### Speculation
 
 
-Before the show ended, I had already started connecting the dots in my head. If someone is losing a lot of weight without using a detoxification support they might make their health worse in the long-run. Especially someone yo-yo dieting that is continually liberating toxins, but not expelling them. Dieters often experience a reduced metabolism. Not just from having a smaller body, but more than expected. Some theories state the [body learns to become more efficient](/2017/03/exercise-weight-regain/) at a lower calorie level. What if it was more than that? If certain toxins can negatively impact thyroid and we know this to be true, then this could be a piece of the metabolic puzzle. I have more thoughts on this topic, which I will save for the [next post](/2018/04/dieting-and-detoxification/).
+Before the show ended, I had already started connecting the dots in my head. If someone is losing a lot of weight without using a detoxification support they might make their health worse in the long-run. Especially someone yo-yo dieting that is continually liberating toxins, but not expelling them.
+
+Dieters often experience a reduced metabolism. Not just from having a smaller body, but more than expected. Some theories state the [body learns to become more efficient](/2017/03/exercise-weight-regain/) at a lower calorie level. What if it was more than that? If certain toxins can negatively impact thyroid and we know this to be true, then this could be a piece of the metabolic puzzle.
+
+I have more thoughts on this topic, which I will save for the [next post](/2018/04/dieting-and-detoxification/).
 
 ---
 

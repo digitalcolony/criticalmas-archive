@@ -15,13 +15,23 @@ One aspect of nutrition that I'm drawn to is the concept of cycling between two 
 ### High Protein or Low Protein?
 
 
-Although I have for years been skeptical of higher protein diets being necessary for building muscle, I have come around to seeing how much they can help with fat loss. Protein crushes appetite and preserves muscle loss - especially as one gets very lean. I covered the topic of P-ratio in the post [High Volume or High Protein Foods For Fat Loss](/2017/08/high-volume-high-protein-foods-fat-loss/). But I think there can also be a downside to using high protein all the time. In the post [More Thoughts on High Volume or High Protein For Fat Loss](/2017/08/thoughts-high-volume-high-protein-fat-loss/), I covered a discussion Robb Wolf had with Joe Rogan on how very low protein diets accomplished via fasting resulted in extreme fat loss without the extra skin folds you normally see on high weight loss diets. There is a healthy discussion in the comments, but I walked away thinking that if I were to choose between a higher or lower protein path for fat loss, it would depend upon where I was. The heavier I was, the more fasting (low protein) I'd use and then as I got leaner, I'd up the protein to preserve muscle. The great compromise.
+Although I have for years been skeptical of higher protein diets being necessary for building muscle, I have come around to seeing how much they can help with fat loss. Protein crushes appetite and preserves muscle loss - especially as one gets very lean. I covered the topic of P-ratio in the post [High Volume or High Protein Foods For Fat Loss](/2017/08/high-volume-high-protein-foods-fat-loss/).
+
+But I think there can also be a downside to using high protein all the time. In the post [More Thoughts on High Volume or High Protein For Fat Loss](/2017/08/thoughts-high-volume-high-protein-fat-loss/), I covered a discussion Robb Wolf had with Joe Rogan on how very low protein diets accomplished via fasting resulted in extreme fat loss without the extra skin folds you normally see on high weight loss diets.
+
+There is a healthy discussion in the comments, but I walked away thinking that if I were to choose between a higher or lower protein path for fat loss, it would depend upon where I was. The heavier I was, the more fasting (low protein) I'd use and then as I got leaner, I'd up the protein to preserve muscle. The great compromise.
 
 
 ### Why Not Both?
 
 
-Why not chose both strategies if it can yield better results than either one separately? Cycle protein levels to get the benefits of both approaches. That was my takeaway when I started researching the Fasting Mimicking Diet. The Fasting Mimicking Diet was created by Dr. Valter Longo and was discussed on the podcast Found My Fitness. You can watch the interview on YouTube. **[Valter Longo, Ph.D. on Fasting-Mimicking Diet & Fasting for Longevity, Cancer & Multiple Sclerosis](https://www.youtube.com/watch?v=d6PyyatqJSE)** The show was very interesting to me. I listened to it twice and took some notes.
+Why not chose both strategies if it can yield better results than either one separately? Cycle protein levels to get the benefits of both approaches. That was my takeaway when I started researching the Fasting Mimicking Diet.
+
+The Fasting Mimicking Diet was created by Dr. Valter Longo and was discussed on the podcast Found My Fitness. You can watch the interview on YouTube.
+
+**[Valter Longo, Ph.D. on Fasting-Mimicking Diet & Fasting for Longevity, Cancer & Multiple Sclerosis](https://www.youtube.com/watch?v=d6PyyatqJSE)**
+
+The show was very interesting to me. I listened to it twice and took some notes.
 
 
 ### Overview of the Fasting Mimicking Diet
@@ -33,19 +43,25 @@ The Fasting Mimicking Diet is a diet that cycles between extremely low protein l
 -   **Days 2-5:** 725 calories (9% protein, 44% fat, 47% carbs)
 -   **Other Days:** Normal calories and normal protein levels
 
-The 5-day cycle mimics fasting and the benefits it provides but does it in a way that is easier to do for most people. By depriving your body of protein for 5 days the body responds with powerful repair mechanisms that address inflammation. And as they state in the interview, inflammation is predictive of aging. Back in 2015, I did a [post](/2015/10/intermittent-fasting-finding-a-new-middle-ground/) that referenced the 2011 online book [Protein Cycling Diet](https://proteincyclingdiet.wordpress.com/article/protein-cycling-diet-2s3nmvrwklbxs-1/) by Dr. Ron Mignery. That book lists many health benefits one can get from very low protein levels and advises a 5% protein or less diet on dieting days. It is really hard to find foods with that little protein. The FMD solves for this by reducing calories, so the net protein is likely similar.
+The 5-day cycle mimics fasting and the benefits it provides but does it in a way that is easier to do for most people. By depriving your body of protein for 5 days the body responds with powerful repair mechanisms that address inflammation. And as they state in the interview, inflammation is predictive of aging.
+
+Back in 2015, I did a [post](/2015/10/intermittent-fasting-finding-a-new-middle-ground/) that referenced the 2011 online book [Protein Cycling Diet](https://proteincyclingdiet.wordpress.com/article/protein-cycling-diet-2s3nmvrwklbxs-1/) by Dr. Ron Mignery. That book lists many health benefits one can get from very low protein levels and advises a 5% protein or less diet on dieting days. It is really hard to find foods with that little protein. The FMD solves for this by reducing calories, so the net protein is likely similar.
 
 
 ### Ramping Up Stem Cell Production
 
 
-During the 5 days of low-protein, the body increases its production of stem cells. One chart showed circulating stem cells counts triple from 0.3% to 0.95%. As someone that is interested in not only the health benefits discussed in the interview and those mentioned in the Protein Cycling Diet, I'm guessing this might be a path to faster recovery from injury and intense exercise. At the end of the 5-day low protein, normal protein levels are resumed. This refeeding is the rebuilding period.
+During the 5 days of low-protein, the body increases its production of stem cells. One chart showed circulating stem cells counts triple from 0.3% to 0.95%. As someone that is interested in not only the health benefits discussed in the interview and those mentioned in the Protein Cycling Diet, I'm guessing this might be a path to faster recovery from injury and intense exercise.
+
+At the end of the 5-day low protein, normal protein levels are resumed. This refeeding is the rebuilding period.
 
 
 ### Apoptosis
 
 
-A prolonged fast triggers apoptosis, which is a cellular program that causes a cell to kill itself after becoming damaged. Then the cells are rebuilt afterward. Dr. Longo calls this process the "most powerful generation program since birth." For a fast to be prolonged requires 4 to 5 days. This means the intermittent fasting which is just 16-24 hours that promotes autophagy (cell cleaning) is not going to have the same effect. It is still beneficial but in a different manner.
+A prolonged fast triggers apoptosis, which is a cellular program that causes a cell to kill itself after becoming damaged. Then the cells are rebuilt afterward. Dr. Longo calls this process the "most powerful generation program since birth."
+
+For a fast to be prolonged requires 4 to 5 days. This means the intermittent fasting which is just 16-24 hours that promotes autophagy (cell cleaning) is not going to have the same effect. It is still beneficial but in a different manner.
 
 
 ### Benefits
@@ -65,7 +81,15 @@ And going back to high vs low protein debate in dieting, I would think cycling i
 ### Menus
 
 
-With a calculator and a calorie website, you could build menus of foods that meet the requirements above. The company ProLon does the math for you and builds food kits to help people stay compliant on this diet. I think that is great, especially for people in poor health. The simple method recommended is to eat 2 medium sized avocados a day along with some athletic greens. Or if you are super tough, do a pure fast for the time period. I plan to give the Fasting Mimicking Diet a try in 2018. I'll keep you posted. ![avocado](./img/charles-deluvio-avocado.jpg) _Photo by [Charles Deluvio](https://unsplash.com/@charlesdeluvio)_
+With a calculator and a calorie website, you could build menus of foods that meet the requirements above. The company ProLon does the math for you and builds food kits to help people stay compliant on this diet. I think that is great, especially for people in poor health.
+
+The simple method recommended is to eat 2 medium sized avocados a day along with some athletic greens. Or if you are super tough, do a pure fast for the time period.
+
+I plan to give the Fasting Mimicking Diet a try in 2018. I'll keep you posted.
+
+![avocado](./img/charles-deluvio-avocado.jpg)
+
+_Photo by [Charles Deluvio](https://unsplash.com/@charlesdeluvio)_
 
 ---
 

@@ -9,9 +9,29 @@ description: "Last month I got into a debate on the SaveYourself.ca Facebook pa
 commentCount: 23
 ---
 
-Last month I got into a debate on the SaveYourself.ca Facebook page about the article that declared that running was _good for you_. I put my thoughts into the post [Sorry, but Science Has NOT Proven That Running in Good For You](/2013/06/sorry-but-common-sense-says-running-is-not-good-for-you/). This month SaveYourself.ca (now PainScience.com) put out another pro running post that suggests that running could actually make your joints stronger than walking. To me, this seems ridiculous. It fails the common sense test. Yet, I freely admit I have a bias against running. Some sprints are fine - especially [uphill](/2012/01/running-up-that-hill-sprinting-salvation-for-tall-people/) \- but my personal experience is that walking is far kinder to my body than running. I feel more aches and pains running 1/2 a mile than when I go for a 20-mile [urban hike](https://criticalmas.org/best-of/urban-hiking/). Paul from SaveYourself.ca is a skilled [PubMed Warrior](/2012/11/not-a-pubmed-warrior/) with a pro-running bias. Even his logo shows a group of runners. Because of our strong biases, I wanted to bring the discussion here for some other opinions. Although I still think I'm right on this debate, I'm willing to be open-minded. Below is the story I am referring to, his analysis, my response, and his conclusion. Here is a [link](https://web.archive.org/web/20130808045046/http://journals.lww.com/acsm-msse/Fulltext/2013/07000/Effects_of_Running_and_Walking_on_Osteoarthritis.10.aspx) to the study. ![save-running1](./img/save-running1.png) [![save-running2](./img/save-running2.png)](./img/save-running2.png) [![save-running3](./img/save-running3.png)](./img/save-running3.png) Nassim Taleb came up with the term [Antifragile](/2013/02/my-top-5-books-of-2012/). It means something that gets stronger with stress. Building a muscle is a classic example. Apply stress to a muscle and provided the movement is safe and time is allowed for recovery, the muscle will get stronger. Does this also apply to joints? From my understanding of the principles of High-Intensity Training, the goal or optimal path for fitness is to focus on building muscle as safely as possible while preventing unnecessary loading or repetitive stress on the joints. In other words, build the muscle and protect the joints. ![runners-seattle](./img/runners-seattle.jpg) _[Runners Statue](/2009/05/runners-statue-hidden-in-belltown/) in Seattle_. I get how running is better than sitting on your ass. I don't get how running could be "neutral or helpful" when compared to walking. I believe that most people who choose walking over running are also consciously following a healthy path are doing so because they feel worse when they run. They self-exclude. Those who feel great running continue to run. The Science Daily article [Stronger Leg Muscles Can Protect Against Knee Osteoarthritis](http://www.sciencedaily.com/releases/2006/11/061116100945.htm) says this:
+Last month I got into a debate on the SaveYourself.ca Facebook page about the article that declared that running was _good for you_. I put my thoughts into the post [Sorry, but Science Has NOT Proven That Running in Good For You](/2013/06/sorry-but-common-sense-says-running-is-not-good-for-you/). This month SaveYourself.ca (now PainScience.com) put out another pro running post that suggests that running could actually make your joints stronger than walking.
 
-> Stronger quadriceps muscles in the legs can help protect against cartilage loss behind the kneecap, according to Mayo Clinic researchers presenting preliminary study data at the American College of Rheumatology Annual Meeting on Nov. 15. Knee osteoarthritis (OA) occurs when the cartilage that cushions the ends of the bones in the knee joint deteriorates over time. As this cushion wears down, the joint doesn't function as well and may be painful.
+To me, this seems ridiculous. It fails the common sense test. Yet, I freely admit I have a bias against running. Some sprints are fine - especially [uphill](/2012/01/running-up-that-hill-sprinting-salvation-for-tall-people/) \- but my personal experience is that walking is far kinder to my body than running. I feel more aches and pains running 1/2 a mile than when I go for a 20-mile [urban hike](https://criticalmas.org/best-of/urban-hiking/). Paul from SaveYourself.ca is a skilled [PubMed Warrior](/2012/11/not-a-pubmed-warrior/) with a pro-running bias. Even his logo shows a group of runners. Because of our strong biases, I wanted to bring the discussion here for some other opinions.
+
+Although I still think I'm right on this debate, I'm willing to be open-minded. Below is the story I am referring to, his analysis, my response, and his conclusion. Here is a [link](https://web.archive.org/web/20130808045046/http://journals.lww.com/acsm-msse/Fulltext/2013/07000/Effects_of_Running_and_Walking_on_Osteoarthritis.10.aspx) to the study.
+
+![save-running1](./img/save-running1.png) [![save-running2](./img/save-running2.png)](./img/save-running2.png) [![save-running3](./img/save-running3.png)](./img/save-running3.png)
+
+Nassim Taleb came up with the term [Antifragile](/2013/02/my-top-5-books-of-2012/). It means something that gets stronger with stress. Building a muscle is a classic example. Apply stress to a muscle and provided the movement is safe and time is allowed for recovery, the muscle will get stronger. Does this also apply to joints?
+
+From my understanding of the principles of High-Intensity Training, the goal or optimal path for fitness is to focus on building muscle as safely as possible while preventing unnecessary loading or repetitive stress on the joints. In other words, build the muscle and protect the joints.
+
+![runners-seattle](./img/runners-seattle.jpg)
+
+_[Runners Statue](/2009/05/runners-statue-hidden-in-belltown/) in Seattle_.
+
+I get how running is better than sitting on your ass. I don't get how running could be "neutral or helpful" when compared to walking. I believe that most people who choose walking over running are also consciously following a healthy path are doing so because they feel worse when they run. They self-exclude. Those who feel great running continue to run.
+
+The Science Daily article [Stronger Leg Muscles Can Protect Against Knee Osteoarthritis](http://www.sciencedaily.com/releases/2006/11/061116100945.htm) says this:
+
+> Stronger quadriceps muscles in the legs can help protect against cartilage loss behind the kneecap, according to Mayo Clinic researchers presenting preliminary study data at the American College of Rheumatology Annual Meeting on Nov. 15.
+> 
+> Knee osteoarthritis (OA) occurs when the cartilage that cushions the ends of the bones in the knee joint deteriorates over time. As this cushion wears down, the joint doesn't function as well and may be painful.
 
 And:
 
@@ -22,7 +42,9 @@ It states 2 things:
 1.  Strength is protective of joints.
 2.  Joints can wear down.
 
-I've been a runner and although I developed some leg strength, it wasn't near the amount I gained from weight training, especially from slow leg presses or the Wall Sit exercise described in the [Hillfit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/) e-book. Maybe the runners had gained a little more muscle than the walkers and that served as some protection for the joints. If that is the case, it doesn't speak to the benefits of running, but to the benefit of building muscle. And in my opinion, running is a highly inefficient way to build strength. Love to hear your thoughts.
+I've been a runner and although I developed some leg strength, it wasn't near the amount I gained from weight training, especially from slow leg presses or the Wall Sit exercise described in the [Hillfit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/) e-book. Maybe the runners had gained a little more muscle than the walkers and that served as some protection for the joints. If that is the case, it doesn't speak to the benefits of running, but to the benefit of building muscle. And in my opinion, running is a highly inefficient way to build strength.
+
+Love to hear your thoughts.
 
 ---
 

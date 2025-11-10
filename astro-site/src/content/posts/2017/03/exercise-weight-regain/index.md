@@ -9,7 +9,9 @@ description: "After the post Is There a Metabolic Unicorn? I decided to revisit 
 commentCount: 6
 ---
 
-After the post [Is There a Metabolic Unicorn?](/2017/02/is-there-a-metabolic-unicorn/) I decided to revisit the topic of metabolism again as if I knew nothing. I'm also doing this at the same time that I'm reviewing some of my older posts about the role of exercise in fat loss. Back in 2012, I did a [5 part series](/2012/04/walking-didnt-lean-me-out/) where I dismissed the role of exercise in fat loss based mostly upon my own experiences and what I was seeing with others. Without going back and reviewing those 5 articles, my belief in short was:
+After the post [Is There a Metabolic Unicorn?](/2017/02/is-there-a-metabolic-unicorn/) I decided to revisit the topic of metabolism again as if I knew nothing. I'm also doing this at the same time that I'm reviewing some of my older posts about the role of exercise in fat loss.
+
+Back in 2012, I did a [5 part series](/2012/04/walking-didnt-lean-me-out/) where I dismissed the role of exercise in fat loss based mostly upon my own experiences and what I was seeing with others. Without going back and reviewing those 5 articles, my belief in short was:
 
 -   As we increase our exercise, appetite will rise to meet the additional energy demands. Maybe not initially, but over a longer time frame. This is a healthy response that makes total sense. But we can never out exercise our appetite.
 -   Most of the studies that I saw back then that championed the role of exercise for fat loss I felt had flaws. The first was they were usually a short time frame. Weeks or months. Not years or decades. They also were often done with younger people who can recover faster from injuries and have other advantages. Which brings me to...
@@ -30,17 +32,29 @@ What I was unaware of until recently is that humans have an energy conservation 
 
 > We know that weight loss will decrease energy expenditure from the simple fact that you have less weight to move around.  However, the question is whether the decrease in energy expenditure is proportional to the weight lost, or if it is greater than what you would expect given the weight lost.  If the decrease is greater than what you would expect, then that means your body is adapting to the weight loss and trying to conserve energy.  In other words, you become more efficient.
 
-The article digs through the numbers of a few studies to show that the **dieters are conserving energy**. So in addition to having a lower metabolism from losing weight, they are now in a position that makes weight regain much easier because they require even fewer calories than people at their same weight that never dieted - because they are conserving more energy output. Read the entire article. It was eye-opening for me. The author makes a mathematical case that people that lose weight are likely to regain the weight unless they increase their activity, specifically NEAT. NEAT is Non-Exercise Activity Thermogenesis. Which [PubMed defines](https://www.ncbi.nlm.nih.gov/pubmed/12468415) as:
+The article digs through the numbers of a few studies to show that the **dieters are conserving energy**. So in addition to having a lower metabolism from losing weight, they are now in a position that makes weight regain much easier because they require even fewer calories than people at their same weight that never dieted - because they are conserving more energy output.
+
+Read the entire article. It was eye-opening for me. The author makes a mathematical case that people that lose weight are likely to regain the weight unless they increase their activity, specifically NEAT. NEAT is Non-Exercise Activity Thermogenesis. Which [PubMed defines](https://www.ncbi.nlm.nih.gov/pubmed/12468415) as:
 
 > ...is the energy expended for everything we do that is not sleeping, eating or sports-like exercise. It ranges from the energy expended walking to work, typing, performing yard work, undertaking agricultural tasks and fidgeting. Even trivial physical activities increase metabolic rate substantially...
 
-I got some push back this weekend when I discussed this energy conservation theory on why regaining weight is common. I was told that when people lose weight they feel more energetic and exercise more. This may be true in some cases, but weight regain is real and these studies are convincing to me. They also make the case for focusing on the NEAT. The times in my life when I exercised the most were also the times when I sat for long periods. I didn't think about it at the time, but it was like my body went into an energy conservation mode as soon as I left the gym. And as the article concludes, the decrease in activity came from NEAT not exercise. Krieger followed up that article with another titled [Physical Activity and Weight Regain](https://web.archive.org/web/20170713101253/http://weightology.net:80/weightologyweekly/index.php/free-content/free-content/volume-1-issue-10-insulin-physical-activity-and-weight-regain/physical-activity-and-weight-regain/). Both are excellent and worth reading. ![](./img/stand-sign.jpg) _[Photo](https://www.flickr.com/photos/mc_speedy/7471866830/) by MC Speedy. Don't sit so much. Standing is a start. Walk a bit. Take the stairs._ 
+I got some push back this weekend when I discussed this energy conservation theory on why regaining weight is common. I was told that when people lose weight they feel more energetic and exercise more. This may be true in some cases, but weight regain is real and these studies are convincing to me. They also make the case for focusing on the NEAT.
+
+The times in my life when I exercised the most were also the times when I sat for long periods. I didn't think about it at the time, but it was like my body went into an energy conservation mode as soon as I left the gym. And as the article concludes, the decrease in activity came from NEAT not exercise.
+
+Krieger followed up that article with another titled [Physical Activity and Weight Regain](https://web.archive.org/web/20170713101253/http://weightology.net:80/weightologyweekly/index.php/free-content/free-content/volume-1-issue-10-insulin-physical-activity-and-weight-regain/physical-activity-and-weight-regain/). Both are excellent and worth reading.
+
+![](./img/stand-sign.jpg)
+
+_[Photo](https://www.flickr.com/photos/mc_speedy/7471866830/) by MC Speedy. Don't sit so much. Standing is a start. Walk a bit. Take the stairs._ 
 
 
 ### Reconciling My Views with NEAT
 
 
-When one starts a fat loss plan it is important to know what can cause failure. If we know that NEAT declines and that we can greatly increase the chances of keeping off lost weight, then **gradually building habits that increase our NEAT throughout the diet is an essential strategy.** Focus on the food first. Then as the pounds start coming off direct your attention more towards increasing movement.
+When one starts a fat loss plan it is important to know what can cause failure. If we know that NEAT declines and that we can greatly increase the chances of keeping off lost weight, then **gradually building habits that increase our NEAT throughout the diet is an essential strategy.**
+
+Focus on the food first. Then as the pounds start coming off direct your attention more towards increasing movement.
 
 ---
 

@@ -15,7 +15,13 @@ At the start of autumn, I posted [Fall Strategies For Nutrition and Fitness](/20
 
 > I believe many of today's health problems, especially cancer and obesity, are a result not allowing the body to go into a repair mode during the colder months. Repair means more sleep, less carbs and less exposure to blue light.
 
-The focus of winter is fat loss, injury recovery, and rest. ![seattle-snowman](./img/seattle-snowman.jpg) _Kerry Park 2008 Snow Storm by MAS (can you see the Space Needle?)_ Here are my winter nutrition and fitness strategies.
+The focus of winter is fat loss, injury recovery, and rest.
+
+![seattle-snowman](./img/seattle-snowman.jpg)
+
+_Kerry Park 2008 Snow Storm by MAS (can you see the Space Needle?)_
+
+Here are my winter nutrition and fitness strategies.
 
 1.  **Sleep More** - Continue loading up on sleep. Less daylight means energy conservation. This is the season for rest and repair. Longer sleep will boost your immune system, too. I have blackout blinds in my room and zero electronics. I'm now having the deepest and most restful sleep of my life.
 2.  **Removal of All Sugars** - OK, not all sugars. The only acceptable sugar will be the small amount in the occasional piece of dark chocolate (73% or higher). Nothing else. That includes alcohol.

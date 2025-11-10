@@ -15,13 +15,23 @@ I thought I'd give some updates on my fitness goals and progress.
 ### #1 Project Cardio
 
 
-After many years of doing no cardio, I decided to add some to my fitness routine. You can read my reasons in the post [Cardio Motivations and Expectations](/2018/10/cardio-motivations-and-expectations/). I quickly discovered that the elliptical machine was perfect for me. I don't hold the handles. It never felt natural. Some smarter people than me online do the same. Not holding the handles can reduce the risk of lower back pain. I've gone from 2 sessions a week at 15-20 minutes to 3 sessions at 25-30 minutes. I'm easing into it to minimize injury risk and so I don't have spikes of hunger. I've been successful on both so far. I have been more tired, but I believe that is from the super-short days we are having in the Pacific NW. In addition to the elliptical machine, I've started swimming. A few laps here and there when the pool is not crowded.
+After many years of doing no cardio, I decided to add some to my fitness routine. You can read my reasons in the post [Cardio Motivations and Expectations](/2018/10/cardio-motivations-and-expectations/).
+
+I quickly discovered that the elliptical machine was perfect for me. I don't hold the handles. It never felt natural. Some smarter people than me online do the same. Not holding the handles can reduce the risk of lower back pain.
+
+I've gone from 2 sessions a week at 15-20 minutes to 3 sessions at 25-30 minutes. I'm easing into it to minimize injury risk and so I don't have spikes of hunger. I've been successful on both so far. I have been more tired, but I believe that is from the super-short days we are having in the Pacific NW.
+
+In addition to the elliptical machine, I've started swimming. A few laps here and there when the pool is not crowded.
 
 
 ### #2 Increasing Protein
 
 
-After doing the Potato Hack and the Peasant Diet for so long, I wanted to dial up the protein to preserve muscle. I explain why in the post [Less Peasant, More Bodybuilder](/2018/09/less-peasant-more-bodybuilder/). I'm naturally not a high protein eater, but I've been getting better. Maybe too good. As good as the potato hack is, it is even better when you stack it with some high protein meals. I'm getting even leaner, which was not my intent. I wanted to add more muscle this winter. You need calories for muscle. So I have reduced my potato intake to increase my appetite a bit. This stacking potatoes with protein is a super powerful fat loss strategy. I might share more details if there is interest. It is crazy effective. _(UPDATE:  [Potatoes and Protein – A No Hunger Template For Fat Loss](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/))_
+After doing the Potato Hack and the Peasant Diet for so long, I wanted to dial up the protein to preserve muscle. I explain why in the post [Less Peasant, More Bodybuilder](/2018/09/less-peasant-more-bodybuilder/). I'm naturally not a high protein eater, but I've been getting better.
+
+Maybe too good. As good as the potato hack is, it is even better when you stack it with some high protein meals. I'm getting even leaner, which was not my intent. I wanted to add more muscle this winter. You need calories for muscle. So I have reduced my potato intake to increase my appetite a bit.
+
+This stacking potatoes with protein is a super powerful fat loss strategy. I might share more details if there is interest. It is crazy effective. _(UPDATE:  [Potatoes and Protein – A No Hunger Template For Fat Loss](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/))_
 
 
 ### #3 FMD / Protein Cycling
@@ -33,7 +43,9 @@ I already covered how I dialed in a simple way to do a 5-day Fasting Mimicking F
 ### #4 Knee Issues
 
 
-My knee is getting better. I've had some minor setbacks, but the trend is positive. I have discovered goblet box squats and single-leg exercises are helping a lot. Also one day recently, I was running late to an event where I was the host. I refuse to be late for anything and I also don't pay for parking, so I was forced to run 0.8 miles to be on time. My first run in probably a decade. I felt fine. I actually felt good. Interesting.
+My knee is getting better. I've had some minor setbacks, but the trend is positive. I have discovered goblet box squats and single-leg exercises are helping a lot.
+
+Also one day recently, I was running late to an event where I was the host. I refuse to be late for anything and I also don't pay for parking, so I was forced to run 0.8 miles to be on time. My first run in probably a decade. I felt fine. I actually felt good. Interesting.
 
 ---
 

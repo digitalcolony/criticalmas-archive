@@ -13,7 +13,15 @@ In the post [I Don't Like the Nightlife](/2008/08/i-dont-like-the-night-life/), 
 
 > There is also a type of insomnia called _early-morning awakening_. It occurs when the sleeper wakes up too early. I may have this and have learned to deal with it by going to sleep earlier.
 
-This morning I thought about food cravings and how they tend to be stronger on days when I don't get a full nights sleep. My speculation was the brain recognized it was operating at below optimal levels and therefore required more of its energy source glucose to pick up the pace. If the brain sensed it needed more fuel then perhaps the body would develop stronger cravings for simple sugars. So instead of additional sleep, the brain would get its fix via simple sugars. The end result would be that the body would store the excess calories as fat. Less sleep = more fat. This was just a theory, so I decided to research it further. Turns out there is a hormone called [ghrelin](https://en.wikipedia.org/wiki/Ghrelin) that plays a role in regulating appetite. From the Wikipedia:
+This morning I thought about food cravings and how they tend to be stronger on days when I don't get a full nights sleep. My speculation was the brain recognized it was operating at below optimal levels and therefore required more of its energy source glucose to pick up the pace.
+
+If the brain sensed it needed more fuel then perhaps the body would develop stronger cravings for simple sugars. So instead of additional sleep, the brain would get its fix via simple sugars. The end result would be that the body would store the excess calories as fat.
+
+Less sleep = more fat.
+
+This was just a theory, so I decided to research it further.
+
+Turns out there is a hormone called [ghrelin](https://en.wikipedia.org/wiki/Ghrelin) that plays a role in regulating appetite. From the Wikipedia:
 
 > Professor Cappuccio of the University of Warwick has recently discovered that short sleep duration may also lead to obesity, through an increase of appetite via hormonal changes. Lack of sleep produces ghrelin, which stimulates appetite and creates less leptin which, amongst its many other effects, suppresses appetite.
 

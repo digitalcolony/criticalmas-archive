@@ -15,7 +15,9 @@ Last June I posted a [Moving Scorecard](/2008/06/moving-scorecard/) where I tall
 ### What City?
 
 
-I am staying in Seattle. ![seattle-from-queen-anne](./img/seattle-from-queen-anne.jpg)
+I am staying in Seattle.
+
+![seattle-from-queen-anne](./img/seattle-from-queen-anne.jpg)
 
 
 ### Neighborhood?

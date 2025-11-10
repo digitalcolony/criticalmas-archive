@@ -9,7 +9,11 @@ description: "On my recent trip to Los Angeles, I met up with a friend that grew
 commentCount: 6
 ---
 
-On my recent trip to Los Angeles, I met up with a friend that grew up on Oahu. She taught me about the traditional Hawaiian dish of [Lau Lau](https://en.wikipedia.org/wiki/Laulau). It is very simple to make provided you don't mind waiting 3 hours for it to steam cook. **Summary**: _The traditional Hawaiian dish._ ![lau-lau1](./img/lau-lau1.jpg)
+On my recent trip to Los Angeles, I met up with a friend that grew up on Oahu. She taught me about the traditional Hawaiian dish of [Lau Lau](https://en.wikipedia.org/wiki/Laulau). It is very simple to make provided you don't mind waiting 3 hours for it to steam cook.
+
+**Summary**: _The traditional Hawaiian dish._
+
+![lau-lau1](./img/lau-lau1.jpg)
 
 
 #### Ingredients
@@ -38,7 +42,15 @@ On my recent trip to Los Angeles, I met up with a friend that grew up on Oahu. S
 8.  Steam for 3 hours.
 9.  Unwrap and eat!
 
-Preparation time: 30 minute(s) Cooking time: 3 hour(s) Culinary tradition: Hawaiian Note: I have made this dish 3 times now. I prefer to have twice as many pieces of pork butt and sweet potatoes as beef. Personal preference is best. ![lau-lau3](./img/lau-lau3.jpg) ![lau-lau4](./img/lau-lau4.jpg)
+Preparation time: 30 minute(s)
+
+Cooking time: 3 hour(s) Culinary tradition: Hawaiian
+
+Note: I have made this dish 3 times now. I prefer to have twice as many pieces of pork butt and sweet potatoes as beef. Personal preference is best.
+
+![lau-lau3](./img/lau-lau3.jpg)
+
+![lau-lau4](./img/lau-lau4.jpg)
 
 ---
 

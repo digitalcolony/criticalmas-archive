@@ -9,7 +9,9 @@ description: "Last October, after many years of rejecting cardio, I stated that 
 commentCount: 6
 ---
 
-Last October, after many years of rejecting cardio, I stated that I would be [Starting Over in Cardio](/2018/10/starting-over-in-cardio/). I outlined how I became anti-cardio in the post [Understanding my Bias Against Cardio](/2018/10/understanding-my-bias-against-cardio/). And I posted on why my belief that _cardio-is-crap_ got challenged deeply in the post [Searching For The Cardio Code](/2018/10/searching-for-the-cardio-code/). That post got a lot of comments, which at times got quite heated, on the cardio debate. My position all along has been I don't know who is right. Each side makes a compelling argument to me. Each side is represented by people far smarter than me on this topic. So instead of picking which side is correct, I framed the choice on what would be the consequences if either side is wrong.
+Last October, after many years of rejecting cardio, I stated that I would be [Starting Over in Cardio](/2018/10/starting-over-in-cardio/). I outlined how I became anti-cardio in the post [Understanding my Bias Against Cardio](/2018/10/understanding-my-bias-against-cardio/). And I posted on why my belief that _cardio-is-crap_ got challenged deeply in the post [Searching For The Cardio Code](/2018/10/searching-for-the-cardio-code/). That post got a lot of comments, which at times got quite heated, on the cardio debate.
+
+My position all along has been I don't know who is right. Each side makes a compelling argument to me. Each side is represented by people far smarter than me on this topic. So instead of picking which side is correct, I framed the choice on what would be the consequences if either side is wrong.
 
 -   If the HIT people are right and cardio is a myth and not necessary for heart health, then not doing cardio would free up a bunch of time and depending on your choice of cardio might reduce wear-and-tear on the joints. The [wear-and-tear argument has its own critics](/2013/07/what-i-learned-about-running-and-injuries/).
 -   If the pro-cardio people are right and cardio is essential for optimal heart function, then not doing cardio could be quite damaging as one ages.
@@ -20,20 +22,38 @@ Faced with those two choices, I decided to pursue cardio. Better to risk my join
 ### My Experiences
 
 
-I started cardio by walking an inclined treadmill. I quickly discovered that I could not get my heart rate up into the cardio zone doing this activity. I would have to run, but I don't trust my left knee to run. So I moved to the elliptical trainer which I like (once I stopped holding onto the handles). Today I do between 12 and 20 minutes on the elliptical 3 times per week. More time when the weather is worse. When I do the shorter 12 minutes, I go faster. I aim for a heart rate of about 130 bpm. Granted this is less than the amount the pro-cardio people want you do, but since I'm only half persuaded by their arguments, I'll do half their recommendation. 🧐 BTW, I still get about 10,000 steps a day, but I do not consider that cardio. On the initial post, I speculated 4 possible benefits:
+I started cardio by walking an inclined treadmill. I quickly discovered that I could not get my heart rate up into the cardio zone doing this activity. I would have to run, but I don't trust my left knee to run. So I moved to the elliptical trainer which I like (once I stopped holding onto the handles).
+
+Today I do between 12 and 20 minutes on the elliptical 3 times per week. More time when the weather is worse. When I do the shorter 12 minutes, I go faster. I aim for a heart rate of about 130 bpm. Granted this is less than the amount the pro-cardio people want you do, but since I'm only half persuaded by their arguments, I'll do half their recommendation. 🧐
+
+BTW, I still get about 10,000 steps a day, but I do not consider that cardio.
+
+On the initial post, I speculated 4 possible benefits:
 
 1.  Cardio as Heart Insurance
 2.  Cardio as a Mild Energy Booster
 3.  Cardio for Fat Loss
 4.  Sweat (detox pathway)
 
-The first is unknowable. And I have not found an energy boost or additional fat loss. As for sweat, I did at first, but barely any now. That is either me becoming more conditioned or the gym is running more fans now or both. But I did see one huge benefit that I did not expect. My breathing improved. Now when I get off the elliptical and head over to do weight training or push-ups, I can increase my intensity without getting exertion headaches. Now in true HIT gyms, this is not an issue, because they correctly [keep the temperature much cooler](/2013/08/why-i-traded-volume-for-intensity-at-the-glitter-gym/) than regular glitter gyms. In my gym, I can now tolerate the 68-71F degrees they set the temp at. And because I can handle the higher temperature, I can lift more weight (pounds or volume). So by rejecting the HIT anti-cardio thesis, I was able to improve my breathing, which helped me increase the intensity in my HIT lifts. I didn't see that one coming, but I'm glad I discovered it.
+The first is unknowable. And I have not found an energy boost or additional fat loss. As for sweat, I did at first, but barely any now. That is either me becoming more conditioned or the gym is running more fans now or both.
+
+But I did see one huge benefit that I did not expect. My breathing improved. Now when I get off the elliptical and head over to do weight training or push-ups, I can increase my intensity without getting exertion headaches.
+
+Now in true HIT gyms, this is not an issue, because they correctly [keep the temperature much cooler](/2013/08/why-i-traded-volume-for-intensity-at-the-glitter-gym/) than regular glitter gyms. In my gym, I can now tolerate the 68-71F degrees they set the temp at. And because I can handle the higher temperature, I can lift more weight (pounds or volume).
+
+So by rejecting the HIT anti-cardio thesis, I was able to improve my breathing, which helped me increase the intensity in my HIT lifts. I didn't see that one coming, but I'm glad I discovered it.
 
 
 ### Going Forward
 
 
-I can see now that I'm becoming more conditioned and I'm having to go faster and faster on the elliptical to get my heart rate up. Going back to the tips in the original post from the comments, I might look into getting a weighted vest this coming fall. My verdict is cardio is right for me. I'm hedging the two camps and seeing benefit from that decision. ![cardio then and now](./img/cardio.jpg) _Verdict rendered._
+I can see now that I'm becoming more conditioned and I'm having to go faster and faster on the elliptical to get my heart rate up. Going back to the tips in the original post from the comments, I might look into getting a weighted vest this coming fall.
+
+My verdict is cardio is right for me. I'm hedging the two camps and seeing benefit from that decision.
+
+![cardio then and now](./img/cardio.jpg)
+
+_Verdict rendered._
 
 ---
 

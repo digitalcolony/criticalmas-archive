@@ -17,13 +17,37 @@ Seems I'm in a bad place where my current health goals are conflicting with each
 4.  Bring sugar cravings down to summer 2012 levels
 5.  Increase body temperature ["Turn Up The Heat" Experiment](/2013/03/diet-recovery-2-and-the-turn-up-the-heat-experiment/)
 
-To reduce headaches, I have decided to gradually cut back on caffeine. I even recently sold my espresso machine. However, lower caffeine always has an appetite-stimulating effect, especially sugar. It was last October when I cut out coffee that my sugar cravings spiked. I also feel that losing 10 pounds will reduce pain more. That might not be true, but I suspect it will help. Less neck stiffness will help me resume doing a few sprints a week, which should help with the 10-pound weight loss. Catch 22. The most effective ways to lose weight in the short term I have found are reducing carbs, more caffeine, and intermittent fasting. However, to increase body temperature higher carbs, fewer stimulants and less fasting are recommended. And increasing body temperature could be - in the long run - decrease my headaches and increase metabolism. A short term side effect of attempting to increase body temperature is increased headaches and brain fog. I have never found aspirin, Aleve, Tylenol or Advil to work for headaches. The only thing that helps even a little is caffeine. I also believe that the neck tightness is playing a role with the headaches. ![](./img/2-guns.jpg) _Photo by Don_
+To reduce headaches, I have decided to gradually cut back on caffeine. I even recently sold my espresso machine.
+
+However, lower caffeine always has an appetite-stimulating effect, especially sugar. It was last October when I cut out coffee that my sugar cravings spiked.
+
+I also feel that losing 10 pounds will reduce pain more. That might not be true, but I suspect it will help.
+
+Less neck stiffness will help me resume doing a few sprints a week, which should help with the 10-pound weight loss. Catch 22.
+
+The most effective ways to lose weight in the short term I have found are reducing carbs, more caffeine, and intermittent fasting.
+
+However, to increase body temperature higher carbs, fewer stimulants and less fasting are recommended.
+
+And increasing body temperature could be - in the long run - decrease my headaches and increase metabolism.
+
+A short term side effect of attempting to increase body temperature is increased headaches and brain fog.
+
+I have never found aspirin, Aleve, Tylenol or Advil to work for headaches. The only thing that helps even a little is caffeine.
+
+I also believe that the neck tightness is playing a role with the headaches.
+
+![](./img/2-guns.jpg)
+
+_Photo by Don_
 
 
 ### A Mexican Standoff
 
 
-The good news is my average intake of coffee has dropped from 3 in March to 2 in April. I've also reduced my sugar intake as I transition from ice cream to [kefir](/2013/03/making-dairy-kefir-is-super-easy/). My neck and shoulder pain is actually showing a little progress. I think it was the increased MSM dose (thanks Glenn). The bad news is I've gained 3 more pounds with no reduction in my headache numbers. It looks like my short term goals and long term goals are in conflict. This has been stressful. Until I put this post together I didn't realize just how conflicting they were. Unless someone has a better idea, I think I'm going to use this plan:
+The good news is my average intake of coffee has dropped from 3 in March to 2 in April. I've also reduced my sugar intake as I transition from ice cream to [kefir](/2013/03/making-dairy-kefir-is-super-easy/). My neck and shoulder pain is actually showing a little progress. I think it was the increased MSM dose (thanks Glenn). The bad news is I've gained 3 more pounds with no reduction in my headache numbers.
+
+It looks like my short term goals and long term goals are in conflict. This has been stressful. Until I put this post together I didn't realize just how conflicting they were. Unless someone has a better idea, I think I'm going to use this plan:
 
 1.  Drop coffee levels slowly to 1.0 - 1.5 a day.
 2.  Increase morning fasting hours.

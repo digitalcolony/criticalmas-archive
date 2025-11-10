@@ -9,7 +9,15 @@ description: "I stumbled upon an interesting audiobook recently. !The Talent Cod
 commentCount: 2
 ---
 
-I stumbled upon an interesting audiobook recently. ![The Talent Code: Greatness Isn't Born. It's Grown. Here's How.](https://images-na.ssl-images-amazon.com/images/I/41wbdfKZBsL.jpg) _The Talent Code: Greatness Isn't Born. It's Grown. Here's How. by Daniel Coyle_ is about talent and how it is formed. In the book, we learn that talent is not something you are born with and it is not something that happens overnight. It also doesn't come from endless hours of practice. It comes from deliberate practice. Deliberate practice is a practice that causes one to struggle, make mistakes quickly, and then recover quickly (learn). The book makes the case that this is the quickest way to build talent. Simply rehearsing a skill without struggle or error does not build the neural pathways nearly as quickly. So repeated studying is less effective for learning than study followed by quizzes. Most of the examples focused on athletes and musicians. This book is essential for parents, coaches, and younger people wishing to develop a specific talent. The only thing I would have liked to have seen in this book would have been a case study of using deliberate practice with someone over 30 that was unrelated to sports or music. JUNE 2013 UPDATE: Check out this podcast interview on SportsCoachRadio with Daniel Coyle.
+I stumbled upon an interesting audiobook recently.
+
+![The Talent Code: Greatness Isn't Born. It's Grown. Here's How.](https://images-na.ssl-images-amazon.com/images/I/41wbdfKZBsL.jpg) _The Talent Code: Greatness Isn't Born. It's Grown. Here's How. by Daniel Coyle_ is about talent and how it is formed. In the book, we learn that talent is not something you are born with and it is not something that happens overnight. It also doesn't come from endless hours of practice. It comes from deliberate practice.
+
+Deliberate practice is a practice that causes one to struggle, make mistakes quickly, and then recover quickly (learn). The book makes the case that this is the quickest way to build talent. Simply rehearsing a skill without struggle or error does not build the neural pathways nearly as quickly. So repeated studying is less effective for learning than study followed by quizzes.
+
+Most of the examples focused on athletes and musicians. This book is essential for parents, coaches, and younger people wishing to develop a specific talent. The only thing I would have liked to have seen in this book would have been a case study of using deliberate practice with someone over 30 that was unrelated to sports or music.
+
+JUNE 2013 UPDATE: Check out this podcast interview on SportsCoachRadio with Daniel Coyle.
 
 ---
 

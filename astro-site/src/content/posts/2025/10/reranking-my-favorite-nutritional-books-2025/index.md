@@ -9,43 +9,69 @@ description: "Earlier this year, I posted Cringe, describing how some older post
 commentCount: 10
 ---
 
-Earlier this year, I posted [Cringe](/2025/03/cringe/), describing how some older posts on this blog have outdated views on nutrition and fitness. Many of those posts covered books that I read and liked at the time, but now consider awful. It got me thinking about how I would rank the best books today. Since books can be persuasive when we read them, I decided to limit this list to books I read at least three years ago and have successfully tested the principles. **This list comprises books that have been beneficial to me.** Over the years, I have read many books that seemed reasonable in the short term, but as time passed, they ultimately proved to be either forgettable or inaccurate.
+Earlier this year, I posted [Cringe](/2025/03/cringe/), describing how some older posts on this blog have outdated views on nutrition and fitness. Many of those posts covered books that I read and liked at the time, but now consider awful.
+
+It got me thinking about how I would rank the best books today. Since books can be persuasive when we read them, I decided to limit this list to books I read at least three years ago and have successfully tested the principles.
+
+**This list comprises books that have been beneficial to me.** Over the years, I have read many books that seemed reasonable in the short term, but as time passed, they ultimately proved to be either forgettable or inaccurate.
 
 
 ### #1 The Potato Hack - Weight Loss Simplified by Tim Steele
 
 
-I used the Potato Hack to jumpstart a diet that led to a 40-pound weight loss, and I've maintained that weight loss for over six years now. Other sites mention different variations of the Potato Diet, but miss the point on how a true Potato Hack works and why it leads to long-term fat loss. I loved the book and diet so much that I took over hosting the [PotatoHack.com](https://potatohack.com/) website for the author. Recently, I began adding other coding projects to the domain, including _[Time Deck](https://time.potatohack.com/)_ and [_Fitness_](https://calc.potatohack.com/) _[Calculators.](https://calc.potatohack.com/)_
+I used the Potato Hack to jumpstart a diet that led to a 40-pound weight loss, and I've maintained that weight loss for over six years now.
+
+Other sites mention different variations of the Potato Diet, but miss the point on how a true Potato Hack works and why it leads to long-term fat loss.
+
+I loved the book and diet so much that I took over hosting the [PotatoHack.com](https://potatohack.com/) website for the author. Recently, I began adding other coding projects to the domain, including _[Time Deck](https://time.potatohack.com/)_ and [_Fitness_](https://calc.potatohack.com/) _[Calculators.](https://calc.potatohack.com/)_
 
 
 ### #2 The Hungry Brain: Outsmarting the Instincts That Make Us Overeat by Stephan Guyenet
 
 
-I was fortunate to have met Stephan Guyenet twice in my Paleo days here in Seattle. I followed his work and witnessed how he developed his ideas through articles and podcasts, including his insights on how the hyperpalatability of foods contributes to increased appetite and obesity. By the time I read The Hungry Brain, I had been thinking about and practicing the concepts for a few years. Reading his ideas and dismissing them is easy, but actually applying the concept of deliberately reducing flavor to retrain the brain’s perception of hunger became the foundation of my [Modern Peasant Diet](/2016/11/designing-modern-peasant-diet/). I practiced this daily throughout my diet phase, and it has since become a lasting habit. The Potato Diet gets a positive mention in the book.
+I was fortunate to have met Stephan Guyenet twice in my Paleo days here in Seattle. I followed his work and witnessed how he developed his ideas through articles and podcasts, including his insights on how the hyperpalatability of foods contributes to increased appetite and obesity.
+
+By the time I read The Hungry Brain, I had been thinking about and practicing the concepts for a few years. Reading his ideas and dismissing them is easy, but actually applying the concept of deliberately reducing flavor to retrain the brain’s perception of hunger became the foundation of my [Modern Peasant Diet](/2016/11/designing-modern-peasant-diet/). I practiced this daily throughout my diet phase, and it has since become a lasting habit.
+
+The Potato Diet gets a positive mention in the book.
 
 
 ### #3 Forever Fat Loss - Ari Whitten
 
 
-The three big ideas I recall from Forever Fat Loss were to use higher volume, higher protein, and lower flavor to trigger "forever" fat loss. It was this book primarily that led me to create the Potatoes & Protein Diet. As I was getting leaner on potatoes, I wanted to counteract the loss of muscle, so I started adding protein-rich foods on top of my potatoes. [Potatoes and Protein – A No Hunger Template For Fat Loss](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/)
+The three big ideas I recall from Forever Fat Loss were to use higher volume, higher protein, and lower flavor to trigger "forever" fat loss. It was this book primarily that led me to create the Potatoes & Protein Diet. As I was getting leaner on potatoes, I wanted to counteract the loss of muscle, so I started adding protein-rich foods on top of my potatoes.
+
+[Potatoes and Protein – A No Hunger Template For Fat Loss](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/)
 
 
 ### #4 12 Paleo Myths: Eat Better Than A Caveman - Matt Stone
 
 
-When I read this book in 2014, I still believed that the Paleo diet was generally beneficial, although I felt that low-carb interpretations had unfortunately overshadowed it. I hadn’t explored other criticisms at the time. _12 Paleo Myths_ challenged many of Paleo’s key claims, and I found its arguments quite convincing. While I don’t agree with many of Stone’s views, I believe that without _12 Paleo Myths_, I might have delayed progressing on my current path by several years.
+When I read this book in 2014, I still believed that the Paleo diet was generally beneficial, although I felt that low-carb interpretations had unfortunately overshadowed it.
+
+I hadn’t explored other criticisms at the time. _12 Paleo Myths_ challenged many of Paleo’s key claims, and I found its arguments quite convincing. While I don’t agree with many of Stone’s views, I believe that without _12 Paleo Myths_, I might have delayed progressing on my current path by several years.
 
 
 ### #5 SuperFoods Rx: Fourteen Foods That Will Change Your Life by Steven G. Pratt
 
 
-In 2007, I rekindled my interest in nutrition. It was a topic I hadn't given much thought to since college. My idea was to use nutrient-dense foods to prevent illness. If you dive into the archives, you will see several posts regarding that quest. [SuperFoods Rx](/2007/10/are-these-the-14-superfoods/) was the first book on that topic. I later read more. This is probably not even the best SuperFoods book. Maybe [Bowden's is better](/2008/03/150-superfoods-because-14-just-wasnt-enough/). However, it was at this point that my interest was sparked, leading me to learn more about food and cooking. Favoring nutrient-dense foods is now a habit.
+In 2007, I rekindled my interest in nutrition. It was a topic I hadn't given much thought to since college. My idea was to use nutrient-dense foods to prevent illness. If you dive into the archives, you will see several posts regarding that quest.
+
+[SuperFoods Rx](/2007/10/are-these-the-14-superfoods/) was the first book on that topic. I later read more. This is probably not even the best SuperFoods book. Maybe [Bowden's is better](/2008/03/150-superfoods-because-14-just-wasnt-enough/). However, it was at this point that my interest was sparked, leading me to learn more about food and cooking.
+
+Favoring nutrient-dense foods is now a habit.
 
 
 ### Honorable Mentions
 
 
-I want to mention two books that I read more recently that made an impact on me, but it is too soon to tell if either will stand the test of time like the books I listed above: [The End of Craving](/2024/10/the-end-of-craving/) and Proteinaholic. I never posted on Proteinaholic, but the short version is that the author advocates for a whole-food, plant-based diet. He argues that excessive animal protein may be more detrimental than animal fat. I acknowledge that I might be biased in believing this message, because [my current diet](/2025/07/what-i-eat-and-what-i-dont-eat-2025-edition/) already follows his advice. I also find this current obsession with MOAR PROTEIN to be increasingly ridiculous. ![](./img/potato-reader.jpg) What nutritional books have stood the test of time with you?
+I want to mention two books that I read more recently that made an impact on me, but it is too soon to tell if either will stand the test of time like the books I listed above: [The End of Craving](/2024/10/the-end-of-craving/) and Proteinaholic.
+
+I never posted on Proteinaholic, but the short version is that the author advocates for a whole-food, plant-based diet. He argues that excessive animal protein may be more detrimental than animal fat. I acknowledge that I might be biased in believing this message, because [my current diet](/2025/07/what-i-eat-and-what-i-dont-eat-2025-edition/) already follows his advice. I also find this current obsession with MOAR PROTEIN to be increasingly ridiculous.
+
+![](./img/potato-reader.jpg)
+
+What nutritional books have stood the test of time with you?
 
 ---
 

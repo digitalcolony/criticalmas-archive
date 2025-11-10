@@ -9,7 +9,21 @@ description: "I recently got nailed with a $1500 car repair bill. The big ticket
 commentCount: 26
 ---
 
-I recently got nailed with a $1500 car repair bill. The big ticket item was replacing an EGR Valve. Now I know very little about cars and tend to tune out when mechanics start getting technical, so I didn't recognize that this was the third time that I had to have my EGR Valve replaced in the last 3 years. Now I keep meticulous records on my beloved VW Golf TDI, which I've named Silver Surfer. By meticulous records, I mean that I have this bulging folder with every receipt going all the way back to September 2001 when I bought the car. Clearly my system failed. Even knowing nothing about cars, I should have caught that the same part was being replaced 3 times in such a short period. Something else was causing the part to fail. My thick folder of receipts from six different mechanics across two states was too cumbersome to be useful. So today I spent a few hours doing what I should have done years ago. I created a spreadsheet for every service call done to my car. I created it using the spreadsheet option on Google Drive, which is free. [![Car repair Spreadsheet](./img/tdi-ss.png "Car repair Spreadsheet")](https://docs.google.com/spreadsheet/ccc?key=0Ah7un7bmW3oBdGlBVXI4MW03VW5oWXg2V0c1b2phSmc&usp=sharing) After I created my auto spreadsheet, I chatted with my mechanic about Google Drive. Then I shared the sheet with them. Now he can see the what work has been done, when it was done and who did it. That is another diagnostic tool they can use the next time my car needs to be serviced. And because they know I'm tracking every action, they will be less likely to inflate the service requirements. Even the act of creating this spreadsheet has made me more knowledgeable about cars. I was forced to look up a few items to increase my understanding before entering the data. I can now start intelligently being proactive about the needs of my car and not just blindly trusting the mechanic. If you drive a car, I highly recommend that you create a quick spreadsheet for your car. You could save thousands. I would have.
+I recently got nailed with a $1500 car repair bill. The big ticket item was replacing an EGR Valve. Now I know very little about cars and tend to tune out when mechanics start getting technical, so I didn't recognize that this was the third time that I had to have my EGR Valve replaced in the last 3 years.
+
+Now I keep meticulous records on my beloved VW Golf TDI, which I've named Silver Surfer. By meticulous records, I mean that I have this bulging folder with every receipt going all the way back to September 2001 when I bought the car.
+
+Clearly my system failed.
+
+Even knowing nothing about cars, I should have caught that the same part was being replaced 3 times in such a short period. Something else was causing the part to fail. My thick folder of receipts from six different mechanics across two states was too cumbersome to be useful. So today I spent a few hours doing what I should have done years ago. I created a spreadsheet for every service call done to my car. I created it using the spreadsheet option on Google Drive, which is free.
+
+[![Car repair Spreadsheet](./img/tdi-ss.png "Car repair Spreadsheet")](https://docs.google.com/spreadsheet/ccc?key=0Ah7un7bmW3oBdGlBVXI4MW03VW5oWXg2V0c1b2phSmc&usp=sharing)
+
+After I created my auto spreadsheet, I chatted with my mechanic about Google Drive. Then I shared the sheet with them. Now he can see the what work has been done, when it was done and who did it. That is another diagnostic tool they can use the next time my car needs to be serviced. And because they know I'm tracking every action, they will be less likely to inflate the service requirements.
+
+Even the act of creating this spreadsheet has made me more knowledgeable about cars. I was forced to look up a few items to increase my understanding before entering the data. I can now start intelligently being proactive about the needs of my car and not just blindly trusting the mechanic.
+
+If you drive a car, I highly recommend that you create a quick spreadsheet for your car. You could save thousands. I would have.
 
 ---
 

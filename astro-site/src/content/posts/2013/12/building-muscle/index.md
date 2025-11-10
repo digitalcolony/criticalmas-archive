@@ -9,11 +9,21 @@ description: "Time to head over to Conditioning Research to read Hypertrophy tra
 commentCount: 13
 ---
 
-Time to head over to Conditioning Research to read [Hypertrophy training - What does the evidence say?](http://conditioningresearch.blogspot.com/2013/12/hypertrophy-training-what-does-evidence.html) Chris provides an overview of what the scientific evidence says is required to gain muscle. It isn't about compound exercises or high volume. It is about recruiting muscle fibers. Your muscles don't know if that recruitment is coming from free weights, body weight or a machine. But your joints sure do.
+Time to head over to Conditioning Research to read [Hypertrophy training - What does the evidence say?](http://conditioningresearch.blogspot.com/2013/12/hypertrophy-training-what-does-evidence.html)
+
+Chris provides an overview of what the scientific evidence says is required to gain muscle. It isn't about compound exercises or high volume. It is about recruiting muscle fibers. Your muscles don't know if that recruitment is coming from free weights, body weight or a machine. But your joints sure do.
 
 > _**Conclusions**: Evidence supports that persons should train to the highest intensity of effort, thus recruiting as many motor units and muscle fibres as possible, self-selecting a load and repetition range, and performing single sets for each exercise. No specific resistance type appears more advantageous than another, and persons should consider the inclusion of concentric, eccentric and isometric actions within their training regime, at a repetition duration that maintains muscular tension._ 
 
-Sorry to keep preaching the HIT gospel, but if one wants to safely recruit the maximum number of muscle fibers that means one should choose exercises that for safety reasons don't force the lifter to reduce fiber activation. This is the beauty of HIT. By using machines, one is free to slow down the movement to maintain muscular tension without increasing safety risks. Once you get past "must squat" bro-mentality and start to view exercise as an investor this all becomes clear. Gaining muscle is about a risk-reward profile. The young man is too focused on the reward without fully understanding or measuring the risk. CrossFit and Olympic lifts sure do look cool and they produce some amazing athletes, but the failures are hidden or explained away. We need to step back and reexamine exactly what the body needs to give the reward of muscle and then find the lowest risk path to get there. The article Chris put together says the research tells us it is about muscle fiber activation. It is not about momentum lifts. It is not about volume either. Once you understand this concept, the genius of Arthur Jones becomes crystal clear. ![weight machine](http://farm4.staticflickr.com/3819/9246565057_eda0e0e5d5.jpg) [photo](http://www.flickr.com/photos/kaysha/9246565057/) by kaysha
+Sorry to keep preaching the HIT gospel, but if one wants to safely recruit the maximum number of muscle fibers that means one should choose exercises that for safety reasons don't force the lifter to reduce fiber activation. This is the beauty of HIT. By using machines, one is free to slow down the movement to maintain muscular tension without increasing safety risks.
+
+Once you get past "must squat" bro-mentality and start to view exercise as an investor this all becomes clear. Gaining muscle is about a risk-reward profile. The young man is too focused on the reward without fully understanding or measuring the risk. CrossFit and Olympic lifts sure do look cool and they produce some amazing athletes, but the failures are hidden or explained away. We need to step back and reexamine exactly what the body needs to give the reward of muscle and then find the lowest risk path to get there.
+
+The article Chris put together says the research tells us it is about muscle fiber activation. It is not about momentum lifts. It is not about volume either. Once you understand this concept, the genius of Arthur Jones becomes crystal clear.
+
+![weight machine](http://farm4.staticflickr.com/3819/9246565057_eda0e0e5d5.jpg)
+
+[photo](http://www.flickr.com/photos/kaysha/9246565057/) by kaysha
 
 ---
 

@@ -9,7 +9,13 @@ description: "I arrived at my Glitter Gym a little before 8 AM this morning. It 
 commentCount: 4
 ---
 
-I arrived at my Glitter Gym a little before 8 AM this morning. It was quiet. There was a lady reading a magazine on a stair-stepper. In the pin weight machine area there was some old-timer _blasting_ his triceps. The free weight room - aka My House - was empty. This is the post-holiday, post-blizzard effect. Come January 1st, the masses will descend on Glitter Gyms across the country. New Years Resolutions will awaken the amateurs with a determination that "_this is the year they finally get in shape_". I wish them the best of luck. Really, I do. I have tremendous respect for people who start a weight training program. I also have tremendous sympathy that most will follow ridiculous work out plans that leave them sore and not much stronger. Some quick advice for the newbies in the free weight room.
+I arrived at my Glitter Gym a little before 8 AM this morning. It was quiet. There was a lady reading a magazine on a stair-stepper. In the pin weight machine area there was some old-timer _blasting_ his triceps. The free weight room - aka My House - was empty.
+
+This is the post-holiday, post-blizzard effect. Come January 1st, the masses will descend on Glitter Gyms across the country. New Years Resolutions will awaken the amateurs with a determination that "_this is the year they finally get in shape_".
+
+I wish them the best of luck. Really, I do. I have tremendous respect for people who start a weight training program. I also have tremendous sympathy that most will follow ridiculous work out plans that leave them sore and not much stronger.
+
+Some quick advice for the newbies in the free weight room.
 
 1.  Rack your weights. Even if nobody else does, always be considerate.
 2.  The free weight room is for lifting free weights. It is not for [stretching](/2008/09/tales-from-the-glitter-gym-nonsense/) or [hitting on members of the opposite sex](/2008/07/tales-from-the-glitter-gym-the-pick-up/).
@@ -17,7 +23,13 @@ I arrived at my Glitter Gym a little before 8 AM this morning. It was quiet. The
 4.  Leave your iPod at home while you are learning your way around the gym.
 5.  Don't wear [running shoes](/2008/06/intervention-at-the-glitter-gym/).
 
-The good thing about newbies in the gym is they provide excellent material for [Tales From the Glitter Gym](https://criticalmas.org/tag/glitter-gym/). :) BTW, there was a Glitter Gym Holiday miracle today. The [105-pound dumbbells](/2008/11/tales-from-the-glitter-gym-the-105-pound-dumbbells/) have been returned to the rack! Thank you Santa. ![gym](./img/5513197198_434030c85d_z.jpg) _[Photo](https://flic.kr/p/9pbzs7) by W\_Minshull_
+The good thing about newbies in the gym is they provide excellent material for [Tales From the Glitter Gym](https://criticalmas.org/tag/glitter-gym/). :)
+
+BTW, there was a Glitter Gym Holiday miracle today. The [105-pound dumbbells](/2008/11/tales-from-the-glitter-gym-the-105-pound-dumbbells/) have been returned to the rack! Thank you Santa.
+
+![gym](./img/5513197198_434030c85d_z.jpg)
+
+_[Photo](https://flic.kr/p/9pbzs7) by W\_Minshull_
 
 ---
 

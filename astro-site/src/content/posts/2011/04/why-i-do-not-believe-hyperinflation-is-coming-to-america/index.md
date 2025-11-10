@@ -9,13 +9,23 @@ description: "Over the past month I have read several articles by people smarter
 commentCount: 9
 ---
 
-Over the past month I have read several articles by people smarter than me that believe hyperinflation or even sustained very high inflation is coming to America. Despite all the great arguments, I still have a fundamental problem with the thesis. How can a society continue to pay ever increasing amounts when wages are static or declining? Where are people going to get the money?
+Over the past month I have read several articles by people smarter than me that believe hyperinflation or even sustained very high inflation is coming to America. Despite all the great arguments, I still have a fundamental problem with the thesis. How can a society continue to pay ever increasing amounts when wages are static or declining?
+
+Where are people going to get the money?
 
 1.  Not from wage increases, as severe currency devaluation would lead to rising costs that would certainly lead to more unemployment and further downward pressure on earnings.
 2.  Credit? If the currency started tanking, there is no way the banks would keep open lines of cheap credit. Credit cards and revolving credit would cease to work. Why would a bank loan out $100 only to get paid back with a devalued currency? They own the hard assets. What is a fair legal interest rate in a hyper-inflationary scenario? That was a joke. I think their self preservation strategy will be to starve the economy of credit. Without an expansion of credit, I don't see how hyperinflation can happen.
 3.  Savings? Who has liquid savings in this country? Are we all going to run on the bank? Wouldn't that drive the value of cash higher, especially if the bank pulls back on credit?
 
-![](http://farm4.static.flickr.com/3288/2693551009_f873f8a058.jpg "zimbabwe money") _[Fifty Billion Dollars](http://www.flickr.com/photos/villes/2693551009/in/photostream/) by ZeroOne_ If the citizens do not have the money or credit to buy gas at $15 a gallon, they won't. There will be an immediate demand collapse and prices will fall. The only way hyperinflation can sustain itself is if there is a [feedback loop that connects wages to prices](/2011/02/could-inflation-in-america-get-argentina-bad/). In Zimbabwe, a country with hyperinflation, over 80% of the population is unemployed, so the government can print money and hand it out to the population. They don't have credit and aren't a real player in the global economy. We aren't Zimbabwe. We are highly dependent upon credit, very tied into the global economy and without a way to tie wages to inflation. Price pressures lead to margin collapse, layoffs and demand reduction. This reduces monetary velocity and causes prices to fall.
+![](http://farm4.static.flickr.com/3288/2693551009_f873f8a058.jpg "zimbabwe money")
+
+_[Fifty Billion Dollars](http://www.flickr.com/photos/villes/2693551009/in/photostream/) by ZeroOne_
+
+If the citizens do not have the money or credit to buy gas at $15 a gallon, they won't. There will be an immediate demand collapse and prices will fall. The only way hyperinflation can sustain itself is if there is a [feedback loop that connects wages to prices](/2011/02/could-inflation-in-america-get-argentina-bad/).
+
+In Zimbabwe, a country with hyperinflation, over 80% of the population is unemployed, so the government can print money and hand it out to the population. They don't have credit and aren't a real player in the global economy. We aren't Zimbabwe. We are highly dependent upon credit, very tied into the global economy and without a way to tie wages to inflation.
+
+Price pressures lead to margin collapse, layoffs and demand reduction. This reduces monetary velocity and causes prices to fall.
 
 ---
 

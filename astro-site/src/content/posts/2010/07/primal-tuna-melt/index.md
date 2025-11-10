@@ -29,7 +29,11 @@ Who needs bread? Not me. I created a primal tuna melt using a carved out red bel
 4.  Top with sliced Cheese
 5.  Broil until done.
 
-UPDATE (July 28, 2010): Because the cheese melts so fast, I have found heating the pepper for a few minutes prior to Step 2 improves the flavor. ![](./img/primal-tuna-melt.jpg "primal-tuna-melt") Prep Time: 5 min Cooking Time: 10 min
+UPDATE (July 28, 2010): Because the cheese melts so fast, I have found heating the pepper for a few minutes prior to Step 2 improves the flavor.
+
+![](./img/primal-tuna-melt.jpg "primal-tuna-melt")
+
+Prep Time: 5 min Cooking Time: 10 min
 
 ---
 

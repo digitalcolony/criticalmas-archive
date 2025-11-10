@@ -9,7 +9,17 @@ description: "When I arrived at my gate at the DFW (Dallas Fort-Worth) airport, 
 commentCount: 4
 ---
 
-When I arrived at my gate at the DFW (Dallas Fort-Worth) airport, I walked past a stunningly beautiful woman. Magazine cover quality. Two minutes later, a better looking woman walked by. And then a third. My only trips to Texas have been confined to airports, so I have no idea what exists past the security gate. Thanks to my fellow [considerate](/2008/12/paying-to-be-considerate/) passengers that packed the cabin of the plane tighter than a Peruvian bus, I now had almost 2 hours until my connecting plane departed. So I went for a stroll around my gate. To kill time at the airport, I like to see where the other planes are going. I walked down the line reading the signs. Oklahoma City, Calgary, Denver and then Sao Paulo, Brazil. Brazil! Immediately I had an Ah-ha moment. Now it all made sense. My head spun around to the seating area for that flight. Unlike the seating area for the Oklahoma City flight, which looked like it could have been a team of world class belly floppers, this area was _The Beautiful People_. Waiting to escape Texas, I saw those 3 ladies, plus a few more. Mystery solved. ![](./img/adriana-lima.jpeg "adriana-lima") _Brazilian model Adriana Lima. No one going to Oklahoma City (or Seattle) looked this good._
+When I arrived at my gate at the DFW (Dallas Fort-Worth) airport, I walked past a stunningly beautiful woman. Magazine cover quality. Two minutes later, a better looking woman walked by. And then a third. My only trips to Texas have been confined to airports, so I have no idea what exists past the security gate.
+
+Thanks to my fellow [considerate](/2008/12/paying-to-be-considerate/) passengers that packed the cabin of the plane tighter than a Peruvian bus, I now had almost 2 hours until my connecting plane departed. So I went for a stroll around my gate. To kill time at the airport, I like to see where the other planes are going. I walked down the line reading the signs.
+
+Oklahoma City, Calgary, Denver and then Sao Paulo, Brazil. Brazil! Immediately I had an Ah-ha moment. Now it all made sense.
+
+My head spun around to the seating area for that flight. Unlike the seating area for the Oklahoma City flight, which looked like it could have been a team of world class belly floppers, this area was _The Beautiful People_. Waiting to escape Texas, I saw those 3 ladies, plus a few more. Mystery solved.
+
+![](./img/adriana-lima.jpeg "adriana-lima")
+
+_Brazilian model Adriana Lima. No one going to Oklahoma City (or Seattle) looked this good._
 
 ---
 

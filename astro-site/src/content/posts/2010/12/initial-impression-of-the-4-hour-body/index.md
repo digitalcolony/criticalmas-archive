@@ -9,7 +9,11 @@ description: "Today The 4-Hour Body was released on Amazon and other book stores
 commentCount: 1
 ---
 
-Today _The 4-Hour Body_ was released on Amazon and other book stores. I happened to be near a Barnes & Noble, so I stopped in to scan the book. This is my initial impression. ![The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman](https://images-na.ssl-images-amazon.com/images/I/416CwiZ96sL.jpg) The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman by Timothy Ferriss is a beast of a book. It is really a textbook. After scanning the book for more than 10 minutes, I came to the conclusion that Tim Ferriss and I are on similar paths and we each draw from many of the same mentors. Some ideas that popped out in the book and his recent [podcast interview](http://robbwolf.com/2010/12/14/the-paleo-solution-episode-58-tim-ferriss-edition/):
+Today _The 4-Hour Body_ was released on Amazon and other book stores. I happened to be near a Barnes & Noble, so I stopped in to scan the book. This is my initial impression.
+
+![The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman](https://images-na.ssl-images-amazon.com/images/I/416CwiZ96sL.jpg) The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman by Timothy Ferriss is a beast of a book. It is really a textbook. After scanning the book for more than 10 minutes, I came to the conclusion that Tim Ferriss and I are on similar paths and we each draw from many of the same mentors.
+
+Some ideas that popped out in the book and his recent [podcast interview](http://robbwolf.com/2010/12/14/the-paleo-solution-episode-58-tim-ferriss-edition/):
 
 -   Paleolithic and cyclical ketogenic diet. I've been all over the paleo diet and have been planning on starting a cyclical ketogenic diet on December 22nd (start of winter).
 -   Cold Weather training. [You know I like that.](https://criticalmas.org/best-of/cold-weather-training/)

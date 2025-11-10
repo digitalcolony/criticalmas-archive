@@ -13,7 +13,15 @@ Back in January I posted [Pig Uterus Recipe: An Offal Idea](/2012/01/pig-uterus-
 
 > When I went to _Ranch 99_, I knew wanted a new kitchen challenge. Something that I never had before. Something exotic. When I saw the package of pork uterus, I hesitated for a moment and then threw it in the cart.
 
-The rest of the post was how I attempted to make a curry using the pig uterus. The result was that I over cooked the uterus slightly and it had a rubbery taste. Still it didn't taste bad enough to prevent me from finishing the dish. In the comments, I got feedback that I needed to do a fast cook. I put off trying this dish until last night. Things didn't go well. I did the fast cook and it tasted awful. It smelled bad too. I can usually power through most dishes, but this one went into the trash. When it comes to cooking pig uterus, I'm going to surrender on this dish. If I see it at a restaurant I would try it just to know if it is possible to make this dish taste good. I'm skeptical. ![pig-uterus](./img/pig-uterus.jpg) _Onions, garlic, ginger, mushrooms and oyster sauce couldn't save this dish._
+The rest of the post was how I attempted to make a curry using the pig uterus. The result was that I over cooked the uterus slightly and it had a rubbery taste. Still it didn't taste bad enough to prevent me from finishing the dish. In the comments, I got feedback that I needed to do a fast cook. I put off trying this dish until last night.
+
+Things didn't go well.
+
+I did the fast cook and it tasted awful. It smelled bad too. I can usually power through most dishes, but this one went into the trash. When it comes to cooking pig uterus, I'm going to surrender on this dish. If I see it at a restaurant I would try it just to know if it is possible to make this dish taste good. I'm skeptical.
+
+![pig-uterus](./img/pig-uterus.jpg)
+
+_Onions, garlic, ginger, mushrooms and oyster sauce couldn't save this dish._
 
 ---
 

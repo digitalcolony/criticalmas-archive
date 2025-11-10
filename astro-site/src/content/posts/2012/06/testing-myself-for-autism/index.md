@@ -9,14 +9,30 @@ description: "One of my interests is economics and one of my favorite economists
 commentCount: 17
 ---
 
-One of my interests is economics and one of my favorite economists is Tyler Cowen. I love his interviews on the [Econ Talk podcast](http://www.econtalk.org/). This summer I've read three of his books. One of the books is titled Create Your Own Economy: The Path to Prosperity in a Disordered World. At first, I didn't know where this book was going. It began with a long discussion of the autism spectrum. Then it connected how those on the autism spectrum often excel at categorizing and organizing data relationships, which is characteristic of the Internet itself. ![Create Your Own Economy: The Path to Prosperity in a Disordered World](https://images-na.ssl-images-amazon.com/images/I/41cVES4I2gL.jpg) _Create Your Own Economy: The Path to Prosperity in a Disordered World by Tyler Cowen_ _Create Your Own Economy_ is three years old so many of us are more knowledgeable about social networking today than when it was published. I still enjoyed the book and ended up learning more about autism than economics. Instead of viewing autism and Aspergers as something you have or don't have, the book explains there exists a wide spectrum. Until I read this book, I thought I had nothing in common with autistic individuals. I find social interactions mostly easy. But I also have other traits, such as strong data analysis skills and pattern recognition. I often notice a change that others don't recognize. I can smell coffee roasting from a mile away and sometimes I can detect sounds that escape others. Some of my blog readers might recall how I obsessed over a [spacing issue](/2012/05/spacing-out-on-extra-spaces/) with the layout of this blog. When I look at a menu, my first task is usually to find spelling errors and not to pick out what I want to order. So this morning I took the Autism Spectrum Quotient Test. Here are the score brackets for the test.
+One of my interests is economics and one of my favorite economists is Tyler Cowen. I love his interviews on the [Econ Talk podcast](http://www.econtalk.org/). This summer I've read three of his books. One of the books is titled Create Your Own Economy: The Path to Prosperity in a Disordered World. At first, I didn't know where this book was going. It began with a long discussion of the autism spectrum. Then it connected how those on the autism spectrum often excel at categorizing and organizing data relationships, which is characteristic of the Internet itself.
+
+![Create Your Own Economy: The Path to Prosperity in a Disordered World](https://images-na.ssl-images-amazon.com/images/I/41cVES4I2gL.jpg) _Create Your Own Economy: The Path to Prosperity in a Disordered World by Tyler Cowen_
+
+_Create Your Own Economy_ is three years old so many of us are more knowledgeable about social networking today than when it was published. I still enjoyed the book and ended up learning more about autism than economics. Instead of viewing autism and Aspergers as something you have or don't have, the book explains there exists a wide spectrum.
+
+Until I read this book, I thought I had nothing in common with autistic individuals. I find social interactions mostly easy. But I also have other traits, such as strong data analysis skills and pattern recognition. I often notice a change that others don't recognize. I can smell coffee roasting from a mile away and sometimes I can detect sounds that escape others. Some of my blog readers might recall how I obsessed over a [spacing issue](/2012/05/spacing-out-on-extra-spaces/) with the layout of this blog. When I look at a menu, my first task is usually to find spelling errors and not to pick out what I want to order.
+
+So this morning I took the Autism Spectrum Quotient Test. Here are the score brackets for the test.
 
 -   0 - 10 Low
 -   11 - 22 Average (Male Average is 17, Female Average is 15)
 -   23 - 31 Above Average
 -   32 - 50 High
 
-The test states that those with [Asperger Syndrome](https://en.wikipedia.org/wiki/Asperger_syndrome) or high functioning autistic people score about 35. **I scored a 24, which places me in the Above Average category.** Had I taken this test prior to reading Tyler's book, this might have alarmed me. But I learned in _Create Your Own Economy_ that having some autistic characteristics can be leveraged and extremely valuable in the digital age. ![Autism](./img/5298663895_18b6d89510_o.gif) _[Photo](https://flic.kr/p/95e3b4) by hepingting_ My only concern after taking this quiz is how I can go about improving my relationships in a way that is most effective for me. Kind of like how I hacked my diet and exercise. Find the rules that yield the maximum gains, implement, and test. Spoken like someone with slightly above average autism tendencies. :) **UPDATE October 2014:** Retook the quiz and got an 18.
+The test states that those with [Asperger Syndrome](https://en.wikipedia.org/wiki/Asperger_syndrome) or high functioning autistic people score about 35. **I scored a 24, which places me in the Above Average category.** Had I taken this test prior to reading Tyler's book, this might have alarmed me. But I learned in _Create Your Own Economy_ that having some autistic characteristics can be leveraged and extremely valuable in the digital age.
+
+![Autism](./img/5298663895_18b6d89510_o.gif)
+
+_[Photo](https://flic.kr/p/95e3b4) by hepingting_
+
+My only concern after taking this quiz is how I can go about improving my relationships in a way that is most effective for me. Kind of like how I hacked my diet and exercise. Find the rules that yield the maximum gains, implement, and test. Spoken like someone with slightly above average autism tendencies. :)
+
+**UPDATE October 2014:** Retook the quiz and got an 18.
 
 ---
 

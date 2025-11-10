@@ -9,11 +9,15 @@ description: "When I first picked up this book I didn't think it would hold that
 commentCount: 2
 ---
 
-When I first picked up this book I didn't think it would hold that many interesting ideas about the psychology of eating. I was wrong. ![Mindless Eating: Why We Eat More Than We Think](https://images-na.ssl-images-amazon.com/images/I/51TFRGSOMjL._SL500_.jpg) Mindless Eating: Why We Eat More Than We Think by Brian Wansink should be read by anyone that has ever dieted or is ready to begin a diet. The motto for the book is:
+When I first picked up this book I didn't think it would hold that many interesting ideas about the psychology of eating. I was wrong.
+
+![Mindless Eating: Why We Eat More Than We Think](https://images-na.ssl-images-amazon.com/images/I/51TFRGSOMjL._SL500_.jpg) Mindless Eating: Why We Eat More Than We Think by Brian Wansink should be read by anyone that has ever dieted or is ready to begin a diet. The motto for the book is:
 
 > The best diet is the one you don't know you are on.
 
-The author has set up many interesting studies regarding what causes us to increase our caloric intake at the psychological level. If the mind can trick us into consuming an extra 100-200 calories a day that will result in a weight gain of 10 pounds a year. If we are aware of the mind tricks then we can reduce 100-200 calories from baseline, resulting in a 10-pound weight loss. One study covered the effects of larger packages (Costco size).
+The author has set up many interesting studies regarding what causes us to increase our caloric intake at the psychological level. If the mind can trick us into consuming an extra 100-200 calories a day that will result in a weight gain of 10 pounds a year. If we are aware of the mind tricks then we can reduce 100-200 calories from baseline, resulting in a 10-pound weight loss.
+
+One study covered the effects of larger packages (Costco size).
 
 > We all consume more from big packages, whatever the product. Give people a large bag of dog food, they pour more. Give them a large bottle of liquid plant food they pour more. Give them a large shampoo bottle or container of laundry detergent, they pour more.
 
@@ -24,7 +28,9 @@ Did you know that the more people you eat with the more calories you will consum
 3.  Avoid additional helpings by leaving some food on the plate.
 4.  Decide how much you will eat prior to the start of the meal.
 
-There is also an outstanding section on the effects parents have on their children's eating habits. A baby can sense food aversion from a parent and develop the same aversion. That chapter is full of tips parents can use to expose their kids to a diverse healthy diet. I highly recommend _Mindless Eating_.
+There is also an outstanding section on the effects parents have on their children's eating habits. A baby can sense food aversion from a parent and develop the same aversion. That chapter is full of tips parents can use to expose their kids to a diverse healthy diet.
+
+I highly recommend _Mindless Eating_.
 
 ---
 

@@ -9,14 +9,30 @@ description: "This post is for members, organizers, and employees of Meetup.com.
 commentCount: 11
 ---
 
-This post is for members, organizers, and employees of Meetup.com. If that doesn't describe you, you can stop reading now. Meetup.com is a way to get away from the computer and meet people in your community. The strength of Meetup is you meet around a hobby. For me, it is primarily coffee. Since early this year I have taken over as the organizer for the [Coffee Club of Seattle](https://www.meetup.com/seattle-coffee-club/), which has about 600 members. Most of the events that I can organize have a limited number of slots that range between 10 and 25. You just can't have 600 people crashing a coffee shop at the same time. Therein lies the problem. We have far more members than slots, which means those that respond first get the slots. Those that don't get to their email in time, never come and eventually move away from the group. I have come up with solutions to this problem and emailed my ideas to both Meetup and the Meetup development team. I've received supportive responses, dismissive responses, and no responses. Here are the suggestions that I have sent to Meetup over the last year. NONE HAVE BEEN IMPLEMENTED.
+This post is for members, organizers, and employees of Meetup.com. If that doesn't describe you, you can stop reading now.
+
+Meetup.com is a way to get away from the computer and meet people in your community. The strength of Meetup is you meet around a hobby. For me, it is primarily coffee.
+
+Since early this year I have taken over as the organizer for the [Coffee Club of Seattle](https://www.meetup.com/seattle-coffee-club/), which has about 600 members. Most of the events that I can organize have a limited number of slots that range between 10 and 25. You just can't have 600 people crashing a coffee shop at the same time. Therein lies the problem. We have far more members than slots, which means those that respond first get the slots. Those that don't get to their email in time, never come and eventually move away from the group.
+
+I have come up with solutions to this problem and emailed my ideas to both Meetup and the Meetup development team. I've received supportive responses, dismissive responses, and no responses. Here are the suggestions that I have sent to Meetup over the last year. NONE HAVE BEEN IMPLEMENTED.
 
 1.  **Sub-Groups** - My group has 600 members. I need the ability to break the group into sub-groups and then send email invites to just that sub-group. Seattle is a large metro. I'd like to be able to tag members "eastside" "northside", etc. Each group could create and set as many tags as they want. Maybe a chess group could tag members by level of play and then invite just the appropriate level. Some of the singles groups need ways to tag by age and sex.
 2.  **Target New Members** - The strength of Meetup is finding new people. The weakness of the Email Invite is there is still no way to target new members. I want the ability to email invite new members first and then throw it open to the regulars.
 3.  **Exclude No-Shows** - When someone RSVP's YES and then doesn't come, it means that slot could have been taken by someone else. If someone does this a few times, then I don't want them to receive an invite. Meetup's only solution is to kick them out of the group. A bit harsh. Why not have an option on the email invite to exclude those with \[X\] no-shows? Let the organizer set \[X\] based on the event.
 4.  **Add the Day of the Week to All Email Invites** - Why this suggestion was ignored is proof Meetup doesn't care. Every email invite looks like this: When: May 21, 2009, 7:30 PM. The first thing EVERY user then has to do is see WHAT DAY OF THE WEEK is May 21st. Every programming language has a method called to add DAY OF THE WEEK. This is the easiest fix. Add the !@#$% day of the week! When: THURSDAY, May 21, 2009, 7:30 PM.
 
-Request #1 does require some effort. Requests #2 and #3 shouldn't be hard to code. Request #4 could be done in 5 minutes. I'd settle for #2, #3, and #4. Meetup does have an API, which means a programmer can build an application around their method calls. Hey, I can program. I've got experience coding against APIs by Yahoo!, Amazon, and a few others. Unfortunately, there is no method for sending the actual invite. I emailed the Meetup Development team requesting they expose this method and I never even got a return email. ![](http://farm4.static.flickr.com/3130/2845637227_f2dba69ea4.jpg "Fail Road") _Photo [Fail Rd](http://www.flickr.com/photos/fireflythegreat/2845637227/) by fireflythegreat_ Meetup is not a free service. The coffee group pays Meetup $144 a year. Facebook is a free service. I don't want to move our group to Facebook, but if Meetup can't be used to target new members in larger groups then it has failed its mission. UPDATE: Request #4 was agreed to and implemented.
+Request #1 does require some effort. Requests #2 and #3 shouldn't be hard to code. Request #4 could be done in 5 minutes. I'd settle for #2, #3, and #4.
+
+Meetup does have an API, which means a programmer can build an application around their method calls. Hey, I can program. I've got experience coding against APIs by Yahoo!, Amazon, and a few others. Unfortunately, there is no method for sending the actual invite. I emailed the Meetup Development team requesting they expose this method and I never even got a return email.
+
+![](http://farm4.static.flickr.com/3130/2845637227_f2dba69ea4.jpg "Fail Road")
+
+_Photo [Fail Rd](http://www.flickr.com/photos/fireflythegreat/2845637227/) by fireflythegreat_
+
+Meetup is not a free service. The coffee group pays Meetup $144 a year. Facebook is a free service. I don't want to move our group to Facebook, but if Meetup can't be used to target new members in larger groups then it has failed its mission.
+
+UPDATE: Request #4 was agreed to and implemented.
 
 ---
 

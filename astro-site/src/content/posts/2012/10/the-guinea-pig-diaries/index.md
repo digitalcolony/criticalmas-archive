@@ -9,7 +9,13 @@ description: "During a recent trip to the library, I spied this book out of the 
 commentCount: 4
 ---
 
-During a recent trip to the library, I spied this book out of the corner of my eye under _Staff Picks_. Just look at that cover. I had to read it. ![The Guinea Pig Diaries: My Life as an Experiment](https://images-na.ssl-images-amazon.com/images/I/51EO-jUc6zL.jpg) _The Guinea Pig Diaries: My Life as an Experiment by A. J. Jacobs_ I pride myself on my nutritional experiments. Seems I've been thinking way too small. Writer A.J. Jacobs is much more imaginative. In this book, he did experiments where he spent a month as if he were George Washington, living by his _110 Rules of Civility and Decent Behaviour in Company and Conversation_. Another month he practiced Radical Honesty, where he had no filters on what he thought and what he said. My favorite chapter was _The Unitasker_, where he went to great lengths to perform only a single task at a time. This includes wearing a blindfold while talking on the phone, to prevent his eyes from engaging in another task. This book was very funny. If you are looking for a quick enjoyable read, check out _The Guinea Pig Diaries_. I hadn't really thought too much about extending my personal experiments into social experiments, although in a future post I will share a body language trick I developed to make strangers walking past you on the street more likely to smile.
+During a recent trip to the library, I spied this book out of the corner of my eye under _Staff Picks_. Just look at that cover. I had to read it.
+
+![The Guinea Pig Diaries: My Life as an Experiment](https://images-na.ssl-images-amazon.com/images/I/51EO-jUc6zL.jpg) _The Guinea Pig Diaries: My Life as an Experiment by A. J. Jacobs_
+
+I pride myself on my nutritional experiments. Seems I've been thinking way too small. Writer A.J. Jacobs is much more imaginative. In this book, he did experiments where he spent a month as if he were George Washington, living by his _110 Rules of Civility and Decent Behaviour in Company and Conversation_. Another month he practiced Radical Honesty, where he had no filters on what he thought and what he said. My favorite chapter was _The Unitasker_, where he went to great lengths to perform only a single task at a time. This includes wearing a blindfold while talking on the phone, to prevent his eyes from engaging in another task.
+
+This book was very funny. If you are looking for a quick enjoyable read, check out _The Guinea Pig Diaries_. I hadn't really thought too much about extending my personal experiments into social experiments, although in a future post I will share a body language trick I developed to make strangers walking past you on the street more likely to smile.
 
 ---
 

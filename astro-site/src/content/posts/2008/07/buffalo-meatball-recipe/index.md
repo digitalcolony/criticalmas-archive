@@ -9,7 +9,11 @@ description: "Call me Omega 3 man. None of that corn-fed, hormone-filled beef fo
 commentCount: 7
 ---
 
-Call me [Omega 3](https://en.wikipedia.org/wiki/Omega-3_fatty_acid) man. None of that corn-fed, hormone-filled beef for me. No thanks. I'll take the grass-fed buffalo any day. After averaging several recipes together and checking what I had in my kitchen, I developed this buffalo meatball recipe. Simple and delicious. ![](./img/meatballs.jpg) _Photo is titled Meatball Army from Flickr user Mr. Usaji. His photo of meatball preparation was much better than mine._
+Call me [Omega 3](https://en.wikipedia.org/wiki/Omega-3_fatty_acid) man. None of that corn-fed, hormone-filled beef for me. No thanks. I'll take the grass-fed buffalo any day. After averaging several recipes together and checking what I had in my kitchen, I developed this buffalo meatball recipe. Simple and delicious.
+
+![](./img/meatballs.jpg)
+
+_Photo is titled Meatball Army from Flickr user Mr. Usaji. His photo of meatball preparation was much better than mine._
 
 -   1 pound ground buffalo
 -   4oz ricotta cheese
@@ -18,7 +22,9 @@ Call me [Omega 3](https://en.wikipedia.org/wiki/Omega-3_fatty_acid) man. None of
 -   salt
 -   1 clove garlic diced or pressed
 
-Preheat oven to 400 degrees F. Mix above ingredients in a bowl. Roll mix into walnut size meatballs. Lightly coat pan with oil. Place meatballs on the tray. Cook for 23 minutes. Done. If pressed for time, you can cook in a lightly oiled pan for about 10 minutes. I tried both ways and slightly preferred the taste of the oven cooked buffalo meatballs.
+Preheat oven to 400 degrees F. Mix above ingredients in a bowl. Roll mix into walnut size meatballs. Lightly coat pan with oil. Place meatballs on the tray. Cook for 23 minutes. Done.
+
+If pressed for time, you can cook in a lightly oiled pan for about 10 minutes. I tried both ways and slightly preferred the taste of the oven cooked buffalo meatballs.
 
 ---
 

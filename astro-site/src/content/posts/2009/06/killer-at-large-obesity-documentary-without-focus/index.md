@@ -9,7 +9,13 @@ description: "Last night I watched the documentary Killer at Large: Why Obesity 
 commentCount: 15
 ---
 
-Last night I watched the documentary _Killer at Large: Why Obesity is America's Greatest Threat_. Although I will give this film a slight _thumbs-up_, it has problems. _Killer at Large_ tries to tackle every angle of the obesity story in 100 minutes. That is simply an impossible task. ![Killer at Large](https://images-na.ssl-images-amazon.com/images/I/41fcwyn8x7L.jpg) Maybe the goal of the filmmaker was less to answer the question in the title but to start many conversations on the topic. If that is the case, here goes mine. Here is what I liked about _Killer at Large_.
+Last night I watched the documentary _Killer at Large: Why Obesity is America's Greatest Threat_. Although I will give this film a slight _thumbs-up_, it has problems. _Killer at Large_ tries to tackle every angle of the obesity story in 100 minutes. That is simply an impossible task.
+
+![Killer at Large](https://images-na.ssl-images-amazon.com/images/I/41fcwyn8x7L.jpg)
+
+Maybe the goal of the filmmaker was less to answer the question in the title but to start many conversations on the topic. If that is the case, here goes mine.
+
+Here is what I liked about _Killer at Large_.
 
 -   Brian Wansink author of [Mindless Eating](/2008/05/mindless-eating/) spends a few minutes discussing the psychology of eating. The information in _Mindless Eating_ will do more to help the health of the individual than all that political nonsense. Taking personal responsibility is far more important than if your elected representative took campaign money from Big Food.
 -   Michael Pollan of [Omnivore's Dilemma](/2008/07/the-omnivores-dilemma/) and [In Defense of Food](/2008/07/in-defense-of-food/) explains the relationship between oil, pesticides, corn, and obesity.

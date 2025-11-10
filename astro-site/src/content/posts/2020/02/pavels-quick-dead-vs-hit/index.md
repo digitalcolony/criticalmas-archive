@@ -12,7 +12,19 @@ Greg left an interesting comment on the post [Notes on Pavel’s – The Quick a
 
 > Pavel’s anti-glycolytic training protocol attempts to minimize glycolysis since, he says, it releases acid, ammonia, and other metabolites that induce cellular damage and create other hormonal problems (such as increased cortisol). Slow lifting seems to \*embrace\* the glycolytic state. Any thoughts on the divergent philosophies of the two approaches?
 
-Way back in June of 2011, I did a 2-part post titled [Training to Failure or Training to Quit](/2011/03/training-failure-training-quit/). In that post, I explained that Pavel's audience is made up of people in fields that can't afford to have down days. If you are a firefighter, cop, soldier, or in-season athlete, you probably should not be doing exercise routines that leave you wiped out the next day or longer. Imagine storming into a fire to save a kid three flights up the day after doing a HIT Leg Press to negative failure. Yikes. But you still need to develop the strength, so Pavel in the Q&D and some of his other work builds programs that increase strength but not at the expense of being wiped out for your task the next day. ![](./img/hit-vs-pavel.png) _This was my MS Paint explanation. HIT has fewer workouts, so you can go deeper below your baseline. It is the workout efficient route, but you pay for it with longer recoveries._  Both are valid paths to get stronger. Once you solve for safety, finding the path that captures your interest the most (until it doesn't) is probably the best plan. For me I drifted away from HIT to failure for a few reasons:
+Way back in June of 2011, I did a 2-part post titled [Training to Failure or Training to Quit](/2011/03/training-failure-training-quit/). In that post, I explained that Pavel's audience is made up of people in fields that can't afford to have down days.
+
+If you are a firefighter, cop, soldier, or in-season athlete, you probably should not be doing exercise routines that leave you wiped out the next day or longer. Imagine storming into a fire to save a kid three flights up the day after doing a HIT Leg Press to negative failure. Yikes.
+
+But you still need to develop the strength, so Pavel in the Q&D and some of his other work builds programs that increase strength but not at the expense of being wiped out for your task the next day.
+
+![](./img/hit-vs-pavel.png)
+
+_This was my MS Paint explanation. HIT has fewer workouts, so you can go deeper below your baseline. It is the workout efficient route, but you pay for it with longer recoveries._ 
+
+Both are valid paths to get stronger. Once you solve for safety, finding the path that captures your interest the most (until it doesn't) is probably the best plan.
+
+For me I drifted away from HIT to failure for a few reasons:
 
 1.  I like going to the gym, especially in the Seattle winter when the sun rarely makes an appearance. More workouts are better for me now.
 2.  Like Greg, I am a 6 '2 ectomorph. Everything I've read (including Body By Science) suggests we do better with more volume and not one-set to failure. This is still a debated point, but I'll side with more volume for now.
@@ -29,7 +41,9 @@ There were 3 things in The Quick & The Dead routine that interested me.
 2.  Short sets with longer rest to greatly reduce soreness, which would allow for faster recovery and more trips to the gym.
 3.  A sneaky way to get volume. 10 sets of 10 reps = **100 reps**. Because they are space out with longer rests, the volume doesn't crush you. Remember the old 20-rep squat routines? Imagine attempting 5 sets of 20-reps. You couldn't sit the next day. With the Q&D, I'm dialing up the volume without the soreness.
 
-I know there are some readers of this site that know more of the under-the-hood details of HIT that might be able to defend it against Pavel's characterization, but it rings true to me. HIT - when I followed it to the letter - left me feeling like I'd been run over by a car. And I liked it back then. It was novel. But like every other training plan, it loses its shine, and you look for something else. Q&D is the new shiny tool right now.
+I know there are some readers of this site that know more of the under-the-hood details of HIT that might be able to defend it against Pavel's characterization, but it rings true to me.
+
+HIT - when I followed it to the letter - left me feeling like I'd been run over by a car. And I liked it back then. It was novel. But like every other training plan, it loses its shine, and you look for something else. Q&D is the new shiny tool right now.
 
 ---
 

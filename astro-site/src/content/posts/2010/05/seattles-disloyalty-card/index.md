@@ -9,7 +9,21 @@ description: "Seattle now has something called a Disloyalty Card, which is an id
 commentCount: 11
 ---
 
-Seattle now has something called a _Disloyalty Card_, which is an idea to promote the independent coffee shop. The idea started in London and the way it works is you visit the ten coffee shops on the card. At each place, order and drink and receive a stamp. When the card is completed (10 stamps), you can redeem it for a free drink at the place you choose. I love the idea of getting coffee fans outside their comfort zone and trying new places. This is exactly what the _Coffee Club of Seattle_ has been promoting for almost four years now. In a given month we may visit 3 to 5 independent coffee shops around the Seattle metro area. **The 10 Coffee Shops on the Seattle Disloyalty Card** \[table id=8/\] You should be able to pick up your Disloyalty Card from any of those locations. I'm already halfway done with my first card! ![](http://farm4.static.flickr.com/3309/4632426980_ca7db57ea6.jpg "seattle disloyalty card") _Sources:_ [Local coffeehouses offer disloyalty card, encourage customers to shop around](http://seattletimes.nwsource.com/html/coffeecity/2011596620_seattle_cafes_join_disloyalty.html) - Coffee City story detailing how the Seattle Disloyalty Card got started.
+Seattle now has something called a _Disloyalty Card_, which is an idea to promote the independent coffee shop. The idea started in London and the way it works is you visit the ten coffee shops on the card. At each place, order and drink and receive a stamp. When the card is completed (10 stamps), you can redeem it for a free drink at the place you choose.
+
+I love the idea of getting coffee fans outside their comfort zone and trying new places. This is exactly what the _Coffee Club of Seattle_ has been promoting for almost four years now. In a given month we may visit 3 to 5 independent coffee shops around the Seattle metro area.
+
+**The 10 Coffee Shops on the Seattle Disloyalty Card**
+
+\[table id=8/\]
+
+You should be able to pick up your Disloyalty Card from any of those locations. I'm already halfway done with my first card!
+
+![](http://farm4.static.flickr.com/3309/4632426980_ca7db57ea6.jpg "seattle disloyalty card")
+
+_Sources:_
+
+[Local coffeehouses offer disloyalty card, encourage customers to shop around](http://seattletimes.nwsource.com/html/coffeecity/2011596620_seattle_cafes_join_disloyalty.html) - Coffee City story detailing how the Seattle Disloyalty Card got started.
 
 ---
 

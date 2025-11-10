@@ -9,7 +9,9 @@ description: "Reading a different kind of cookbook this weekend. !Man Eating Bug
 commentCount: 4
 ---
 
-Reading a _different_ kind of cookbook this weekend. ![Man Eating Bugs: The Art and Science of Eating Insects](https://images-na.ssl-images-amazon.com/images/I/51T1L8DngRL.jpg)  
+Reading a _different_ kind of cookbook this weekend.
+
+![Man Eating Bugs: The Art and Science of Eating Insects](https://images-na.ssl-images-amazon.com/images/I/51T1L8DngRL.jpg)  
 Man Eating Bugs: The Art and Science of Eating Insects by Peter Menzel
 
 ---

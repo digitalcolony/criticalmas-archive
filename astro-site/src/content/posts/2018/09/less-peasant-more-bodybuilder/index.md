@@ -8,7 +8,21 @@ description: "In previous posts, I've discussed my version of the Peasant Diet. 
 commentCount: 3
 ---
 
-In previous posts, I've discussed my version of the Peasant Diet. Check out [How I Used the Peasant Diet to Lean Out](/2017/09/used-peasant-diet-lean/) which was posted a year ago. In that post, I covered how I used a diet of high-volume unprocessed food - mostly carbs - to drop from 222 to 200 pounds without feeling hunger. I strongly believe that if you design a diet that minimizes hunger, you will minimize the risk of regaining the weight. After an inactive winter due to an injury, it would have been normal for me to gain some weight back. But I didn't. By April, I was down to 197. That is when I [declared victory](/2018/04/declaring-victory-how-i-lost-and-kept-off-25-pounds/). I had lost weight without experiencing hunger and I was able to maintain that loss for a year even during a period where I was sidelined with an injury. I consider 197 to be the upper bound of my ideal weight. The Peasant Diet was a great tool to get to that point, but as I recovered from my injury, I knew my activity would increase. I'd likely regain some muscle and get leaner. As you get leaner, you need higher levels of protein to preserve lean muscle mass. This was discussed in my [P-Ratio post](/2017/08/high-volume-high-protein-foods-fat-loss/). So starting in July, I began increasing protein and scaling back on potatoes. It is working. I'm down to 192 and look great. I know winter is coming, but I think I'm ready for it, just like I was last year. The skills I learned from the Peasant Diet easily apply to the higher-protein version (Bodybuilder). ![Seattle fall](./img/seattle-fall-1.jpg) _Seattle fall photo I took years ago._
+In previous posts, I've discussed my version of the Peasant Diet. Check out [How I Used the Peasant Diet to Lean Out](/2017/09/used-peasant-diet-lean/) which was posted a year ago. In that post, I covered how I used a diet of high-volume unprocessed food - mostly carbs - to drop from 222 to 200 pounds without feeling hunger.
+
+I strongly believe that if you design a diet that minimizes hunger, you will minimize the risk of regaining the weight.
+
+After an inactive winter due to an injury, it would have been normal for me to gain some weight back. But I didn't. By April, I was down to 197. That is when I [declared victory](/2018/04/declaring-victory-how-i-lost-and-kept-off-25-pounds/).
+
+I had lost weight without experiencing hunger and I was able to maintain that loss for a year even during a period where I was sidelined with an injury. I consider 197 to be the upper bound of my ideal weight.
+
+The Peasant Diet was a great tool to get to that point, but as I recovered from my injury, I knew my activity would increase. I'd likely regain some muscle and get leaner. As you get leaner, you need higher levels of protein to preserve lean muscle mass. This was discussed in my [P-Ratio post](/2017/08/high-volume-high-protein-foods-fat-loss/).
+
+So starting in July, I began increasing protein and scaling back on potatoes. It is working. I'm down to 192 and look great. I know winter is coming, but I think I'm ready for it, just like I was last year. The skills I learned from the Peasant Diet easily apply to the higher-protein version (Bodybuilder).
+
+![Seattle fall](./img/seattle-fall-1.jpg)
+
+_Seattle fall photo I took years ago._
 
 ---
 

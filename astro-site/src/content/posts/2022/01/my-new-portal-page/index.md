@@ -8,7 +8,19 @@ description: "In my last post, I mentioned my portal site MichaelAllenSmith.com 
 commentCount: 7
 ---
 
-In my [last post](/2022/01/why-am-i-still-using-wordpress-if-it-is-a-bloated-mess/), I mentioned my portal site [MichaelAllenSmith.com](https://michaelallensmith.com/) needed to be rewritten because it was an ugly version of [my GitPage](https://digitalcolony.github.io/). I completed that task yesterday and did a few changes this morning. It went so fast because I discovered a [Pico.CSS](https://picocss.com/), which is a minimal CSS framework that doesn't require learning classes. Out of the box, you have a sharp-looking HTML site that is responsive and supports dark mode. I love it. If you know basic HTML but don't want to waste hours tweaking CSS, I highly recommend looking at Pico.CSS. [Simple.css](https://simplecss.org/) is another classless framework that I will likely try out for a future project. I did make one addition. The first photo of me on a bike had an old-timey frame that I scanned in. I liked that look, so I created a CSS class that allowed me to apply that same frame look to the other photos. ![me on a bike](./img/mas-bike.jpg) My goal with the rewrite was to have a page that introduced me and not just a list of websites that I built. I also get alerts every month or two where someone with my exact name got arrested. I wanted to clarify that my record is clean and I'm not the alleged criminal should someone be looking for them. Let me know what you think. [MichaelAllenSmith.com](https://michaelallensmith.com/)
+In my [last post](/2022/01/why-am-i-still-using-wordpress-if-it-is-a-bloated-mess/), I mentioned my portal site [MichaelAllenSmith.com](https://michaelallensmith.com/) needed to be rewritten because it was an ugly version of [my GitPage](https://digitalcolony.github.io/).
+
+I completed that task yesterday and did a few changes this morning. It went so fast because I discovered a [Pico.CSS](https://picocss.com/), which is a minimal CSS framework that doesn't require learning classes. Out of the box, you have a sharp-looking HTML site that is responsive and supports dark mode.
+
+I love it. If you know basic HTML but don't want to waste hours tweaking CSS, I highly recommend looking at Pico.CSS. [Simple.css](https://simplecss.org/) is another classless framework that I will likely try out for a future project.
+
+I did make one addition. The first photo of me on a bike had an old-timey frame that I scanned in. I liked that look, so I created a CSS class that allowed me to apply that same frame look to the other photos.
+
+![me on a bike](./img/mas-bike.jpg)
+
+My goal with the rewrite was to have a page that introduced me and not just a list of websites that I built. I also get alerts every month or two where someone with my exact name got arrested. I wanted to clarify that my record is clean and I'm not the alleged criminal should someone be looking for them.
+
+Let me know what you think. [MichaelAllenSmith.com](https://michaelallensmith.com/)
 
 ---
 

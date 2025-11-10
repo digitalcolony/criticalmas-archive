@@ -9,13 +9,21 @@ description: "There are endless debates on how to lose weight. I'm bored of them
 commentCount: 11
 ---
 
-There are endless debates on how to lose weight. I'm bored of them because people have lost weight using numerous diets: [low-fat](/2022/02/in-defense-of-low-fat-dieting/), low-carb, vegan, keto, fasting, and even a [Twinkie Diet](/2013/05/the-twinkie-diet-proved-nothing/). It is the wrong area of focus. The statistic nutritional researchers cite often is that 80% of people who lose weight on a diet will regain it (and often more) within 4-5 years. Assuming one is even successful on their diet and they have an 80% chance of failing to maintain the loss, should they even try? That was the question I posted in this [2021 post](/2021/06/should-one-ever-diet/). One might think there is no harm in trying, but if dieting reduces metabolism, they could end up back at their starting heavier weight in a worse position. I decided to diet and I was successful. In the 2021 post, I credited my success to eating lower-flavor foods that were higher in volume and fiber and tended to have fewer calories. I also shifted to higher protein as I neared my ideal weight. Although I think that primarily explains the fat loss and the lack of hunger, it probably wasn't the full story.
+There are endless debates on how to lose weight. I'm bored of them because people have lost weight using numerous diets: [low-fat](/2022/02/in-defense-of-low-fat-dieting/), low-carb, vegan, keto, fasting, and even a [Twinkie Diet](/2013/05/the-twinkie-diet-proved-nothing/). It is the wrong area of focus. The statistic nutritional researchers cite often is that 80% of people who lose weight on a diet will regain it (and often more) within 4-5 years.
+
+Assuming one is even successful on their diet and they have an 80% chance of failing to maintain the loss, should they even try? That was the question I posted in this [2021 post](/2021/06/should-one-ever-diet/). One might think there is no harm in trying, but if dieting reduces metabolism, they could end up back at their starting heavier weight in a worse position.
+
+I decided to diet and I was successful.
+
+In the 2021 post, I credited my success to eating lower-flavor foods that were higher in volume and fiber and tended to have fewer calories. I also shifted to higher protein as I neared my ideal weight. Although I think that primarily explains the fat loss and the lack of hunger, it probably wasn't the full story.
 
 
 ### Seed Oils
 
 
-In 2022, I posted [The Seed Oil Debate Revisited](/2022/09/the-seed-oil-debate-revisited/). Two of the four reasons I discussed are relevant to this post. Do seed oils reduce metabolism? Do seed oils increase appetite? Exfatloss did a great post recently on [Modern PUFA Theory](https://www.exfatloss.com/p/a-reply-to-dynomights-thoughts-on), which covers both of those questions. Read it all, because he is bringing up points that the seed oil defenders are ignoring. I went through strict PUFA removal starting in 2013. Later I added back nuts and seeds. My body temperature increased from 97F to 99F (it was 98.4 for years, but has increased more recently). Can I give credit to the removal of processed linoleic acid? Is body temperature even the correct way to measure metabolic rate? I'm borrowing this idea from the Ray Peat camp.
+In 2022, I posted [The Seed Oil Debate Revisited](/2022/09/the-seed-oil-debate-revisited/). Two of the four reasons I discussed are relevant to this post. Do seed oils reduce metabolism? Do seed oils increase appetite?
+
+Exfatloss did a great post recently on [Modern PUFA Theory](https://www.exfatloss.com/p/a-reply-to-dynomights-thoughts-on), which covers both of those questions. Read it all, because he is bringing up points that the seed oil defenders are ignoring. I went through strict PUFA removal starting in 2013. Later I added back nuts and seeds. My body temperature increased from 97F to 99F (it was 98.4 for years, but has increased more recently). Can I give credit to the removal of processed linoleic acid? Is body temperature even the correct way to measure metabolic rate? I'm borrowing this idea from the Ray Peat camp.
 
 
 ### Microplastics
@@ -29,13 +37,27 @@ And...
 
 > Preliminary research suggests that microplastics may interfere with lipid metabolism, potentially contributing to the development of dyslipidemia (abnormal levels of lipids in the blood) and increasing the risk of metabolic diseases like obesity and cardiovascular disorders.
 
-What was I doing to address this problem? I started frequently donating blood in 2010 to reduce iron levels. Microplastics or other endocrine disruptors were not even on my radar at that time. Then for a few years, I frequently went to the sauna. My body was purging things that could potentially be reducing my metabolic rate. A great video on the topic is from Miche, Ph.D. which focuses on pesticides. [Speed Up Your Metabolism: New Research You’ve Never Heard of | 8 Science-Supported Tips](https://veganmiche.blog/2022/10/08/speed-up-your-metabolism-new-research-youve-never-heard-of-8-science-supported-tips/) This confirmed my hunch that saunas and donating blood are tools for removing these metabolic-lowering compounds. Donating plasma is better, but I can't in my area because they only take plasma from blood type AB (I'm B+). ![](./img/obi-pixel8propix-PMnbMcJeftk-unsplash.jpg) _Donating blood by_ [_Obi - @pixel8propix_](https://unsplash.com/@obionyeador?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+What was I doing to address this problem? I started frequently donating blood in 2010 to reduce iron levels. Microplastics or other endocrine disruptors were not even on my radar at that time. Then for a few years, I frequently went to the sauna. My body was purging things that could potentially be reducing my metabolic rate.
+
+A great video on the topic is from Miche, Ph.D. which focuses on pesticides. [Speed Up Your Metabolism: New Research You’ve Never Heard of | 8 Science-Supported Tips](https://veganmiche.blog/2022/10/08/speed-up-your-metabolism-new-research-youve-never-heard-of-8-science-supported-tips/)
+
+This confirmed my hunch that saunas and donating blood are tools for removing these metabolic-lowering compounds. Donating plasma is better, but I can't in my area because they only take plasma from blood type AB (I'm B+).
+
+![](./img/obi-pixel8propix-PMnbMcJeftk-unsplash.jpg)
+
+_Donating blood by_ [_Obi - @pixel8propix_](https://unsplash.com/@obionyeador?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 
 ### What Gets Credit?
 
 
-I've maintained my 40-pound weight loss for almost 5 years now effortlessly. How important are seed oil and microplastic removal to metabolic health, dieting, and weight maintenance? I don't know, so I'll continue eating the [same diet](/2024/03/whats-inside-my-pantry-and-fridge/)\*. I'll still avoid seed oils. Every 56 days, I will donate a pint of blood. And a few times a month, I will spend 20 minutes in a sauna. I would do more saunas, but it is [bad for my skin](/2019/01/regular-sauna-use-the-good-the-bad-and-the-ugly/). I hope we learn more about this in the coming years. What are your thoughts? _\* I still eat fish in the form of sardines, which is likely a source of microplastics. I also supplement with chlorella and spirulina, which probably mitigates some of the problem, as does [cilantro](/2021/10/joe-rogan-sardines-and-arsenic/)._
+I've maintained my 40-pound weight loss for almost 5 years now effortlessly.
+
+How important are seed oil and microplastic removal to metabolic health, dieting, and weight maintenance? I don't know, so I'll continue eating the [same diet](/2024/03/whats-inside-my-pantry-and-fridge/)\*. I'll still avoid seed oils. Every 56 days, I will donate a pint of blood. And a few times a month, I will spend 20 minutes in a sauna. I would do more saunas, but it is [bad for my skin](/2019/01/regular-sauna-use-the-good-the-bad-and-the-ugly/).
+
+I hope we learn more about this in the coming years. What are your thoughts?
+
+_\* I still eat fish in the form of sardines, which is likely a source of microplastics. I also supplement with chlorella and spirulina, which probably mitigates some of the problem, as does [cilantro](/2021/10/joe-rogan-sardines-and-arsenic/)._
 
 ---
 

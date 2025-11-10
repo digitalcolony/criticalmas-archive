@@ -9,20 +9,42 @@ description: "For the second edition of making natto, I traded my homemade incub
 commentCount: 22
 ---
 
-For the second edition of making natto, I traded my homemade incubator (Styrofoam cooler with a light bulb) for a slow cooker. You can read about that in the post [How to Ferment Natto](/2013/12/natto/). This one didn't go so well. Natto needs a stable temperature between 100-113 F for optimal fermentation. Slow cookers, even on the warm setting, will get too hot with the lid closed. So I placed a dish towel over the slow cooker and set the control to WARM. At first, it was losing too much heat, so I added a second dish towel. This seemed to be working. It kept a perfect temperature of 106 F for the first 8 hours. Then I went to sleep. When I woke up and checked on the natto, the temperature had jumped to 131 F. I was able to get the temperature back down to a safe range for the last few hours, but the damage was done. Natto that exceeds the optimal temperature range doesn't have the slimy gooey texture that makes it natto. It tastes rather bland and boring. I'm thinking that the high temperatures either killed or greatly damaged the natto culture. ![natto-ferment](./img/natto-ferment.jpg) You can see that the natto started at 106 F and then spiked to 131 F. Not sure if the humidity plays a role in natto fermentation, but you can see it got to 99% under the dish towels. Not sure why it spiked. I'm guessing that the water bath evaporated and this made the inside of the slow cooker hotter. This is an old slow cooker I got at a yard sale for $5. I suppose at this point, I could pimp out my slow cooker by adding some electronics to get an optimal temperature, but I have zero skills in electronics. Plus, I already have that working incubator method. But I do like the elegance of using the slow cooker. **UPDATE May 2016:** This recipe was sent to me, and I felt it was worth sharing.
+For the second edition of making natto, I traded my homemade incubator (Styrofoam cooler with a light bulb) for a slow cooker. You can read about that in the post [How to Ferment Natto](/2013/12/natto/). This one didn't go so well.
+
+Natto needs a stable temperature between 100-113 F for optimal fermentation. Slow cookers, even on the warm setting, will get too hot with the lid closed. So I placed a dish towel over the slow cooker and set the control to WARM.
+
+At first, it was losing too much heat, so I added a second dish towel. This seemed to be working. It kept a perfect temperature of 106 F for the first 8 hours. Then I went to sleep. When I woke up and checked on the natto, the temperature had jumped to 131 F. I was able to get the temperature back down to a safe range for the last few hours, but the damage was done.
+
+Natto that exceeds the optimal temperature range doesn't have the slimy gooey texture that makes it natto. It tastes rather bland and boring. I'm thinking that the high temperatures either killed or greatly damaged the natto culture.
+
+![natto-ferment](./img/natto-ferment.jpg)
+
+You can see that the natto started at 106 F and then spiked to 131 F. Not sure if the humidity plays a role in natto fermentation, but you can see it got to 99% under the dish towels. Not sure why it spiked. I'm guessing that the water bath evaporated and this made the inside of the slow cooker hotter. This is an old slow cooker I got at a yard sale for $5.
+
+I suppose at this point, I could pimp out my slow cooker by adding some electronics to get an optimal temperature, but I have zero skills in electronics. Plus, I already have that working incubator method. But I do like the elegance of using the slow cooker.
+
+**UPDATE May 2016:** This recipe was sent to me, and I felt it was worth sharing.
 
 
 ### Elana's Natto Recipe
 
 
-I've been making natto successfully for a year now, given the ease of using the Instant Pot pressure cooker/yogurt maker to do it with. Here's the process: Soak 350 grams beans Thursday morning in lots of water, just drain them from soaker to mesh steamer insert Friday, and pressure steam for 45 minutes with 1.5 cups of water below, with a 20 minute cooldown after completion before releasing steam. The start to finish on that is about 75 minutes but it's all unattended. Then Friday sometime:
+I've been making natto successfully for a year now, given the ease of using the Instant Pot pressure cooker/yogurt maker to do it with. Here's the process:
+
+Soak 350 grams beans Thursday morning in lots of water, just drain them from soaker to mesh steamer insert Friday, and pressure steam for 45 minutes with 1.5 cups of water below, with a 20 minute cooldown after completion before releasing steam. The start to finish on that is about 75 minutes but it's all unattended.
+
+Then Friday sometime:
 
 1.  boil for 5 minutes spoons or a paddle to stir the natto in, and a plate to act as a spoon rest.
 2.  Pull the insert, and dump all but a few tablespoons of the liquid out of the pot.
 3.  I dump (lazy here) full package of store bought natto into pot, use paddle to stir and mix well with steamed beans
 4.  ...and set the instant pot to yogurt setting for 24 hours to 36 hours, finishing at a convenient time for you.
 
-That takes about 20 minutes. Finally Saturday or worst case Sunday morning, boil a couple spoons and paddles a small plate to use as a spoon rest, and the first glass storage tray. Every 5 minutes remove the current tray to cool, drop the next tray in to boil, and load the cooled tray with 1/4 of the beans. Total time elapsed about 30 minutes but with lots of time for chores along the way. I haven't been boiling the plastic lids, but have had no problems as they're not touching the beans. The output has been fine, four glass trays of four servings each. Let them rest in the refrigerator for two days, then freeze all but the next to be eaten. I'm not sure I'd bother without the pressure steamer/yogurt maker though. Having it all be one pot with minimal fuss is what beats the local market in Japantown San Francisco at three packages for USD 2.00.
+That takes about 20 minutes. Finally Saturday or worst case Sunday morning, boil a couple spoons and paddles a small plate to use as a spoon rest, and the first glass storage tray. Every 5 minutes remove the current tray to cool, drop the next tray in to boil, and load the cooled tray with 1/4 of the beans. Total time elapsed about 30 minutes but with lots of time for chores along the way. I haven't been boiling the plastic lids, but have had no problems as they're not touching the beans.
+
+The output has been fine, four glass trays of four servings each. Let them rest in the refrigerator for two days, then freeze all but the next to be eaten.
+
+I'm not sure I'd bother without the pressure steamer/yogurt maker though. Having it all be one pot with minimal fuss is what beats the local market in Japantown San Francisco at three packages for USD 2.00.
 
 ---
 

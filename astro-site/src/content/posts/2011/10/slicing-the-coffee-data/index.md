@@ -9,12 +9,22 @@ description: "Ever since I started collecting data to track my headaches, I have
 commentCount: 11
 ---
 
-Ever since I started collecting data to track [my headaches](/2011/08/hunting-headaches-take-3/), I have not seen a connection between coffee intake and headaches. Seven months of data and no relationship. Until now. I think I see a pattern and it isn't what I expected. \[table id=14 /\] The table above shows that low coffee intake actually results in a slightly higher headache intensity. Note that these headaches are in the middle of the night. They feel nothing like caffeine withdrawal headaches, yet caffeine intake makes them go away quicker. Now for the pattern I spotted. Over the past 7 months, I collected data for 102 days where I track the time I drank my last coffee for the day.
+Ever since I started collecting data to track [my headaches](/2011/08/hunting-headaches-take-3/), I have not seen a connection between coffee intake and headaches. Seven months of data and no relationship. Until now. I think I see a pattern and it isn't what I expected.
+
+\[table id=14 /\]
+
+The table above shows that low coffee intake actually results in a slightly higher headache intensity. Note that these headaches are in the middle of the night. They feel nothing like caffeine withdrawal headaches, yet caffeine intake makes them go away quicker.
+
+Now for the pattern I spotted. Over the past 7 months, I collected data for 102 days where I track the time I drank my last coffee for the day.
 
 -   81 days my last coffee was **after Noon** with a Headache Intensity of **1.1**.
 -   21 days my last coffee was **before Noon** with a Headache Intensity of **2.2**.
 
-Based off this sample, **I can expect to reduce my headache intensity by 50% if I have an espresso after Noon**. Of the 5 killer headaches I had during this period (5/5), only one of those dates did I have an afternoon espresso. Since I also believe that high caffeine levels result in reduced sleep quality and may be contributing at least partially to the core headache problems, I think the best strategy for me is to reduce my morning coffee intake and delay my last espresso into mid-afternoon. Of course I could be wrong on all this. Additional testing should answer this question.
+Based off this sample, **I can expect to reduce my headache intensity by 50% if I have an espresso after Noon**. Of the 5 killer headaches I had during this period (5/5), only one of those dates did I have an afternoon espresso.
+
+Since I also believe that high caffeine levels result in reduced sleep quality and may be contributing at least partially to the core headache problems, I think the best strategy for me is to reduce my morning coffee intake and delay my last espresso into mid-afternoon.
+
+Of course I could be wrong on all this. Additional testing should answer this question.
 
 ---
 

@@ -9,7 +9,11 @@ description: "Two years ago I posted a recipe for Beef Heart Stew. Although it w
 commentCount: 1
 ---
 
-Two years ago I posted a recipe for [Beef Heart Stew](/2011/04/beef-heart-stew/). Although it was better than my beef heart curry attempt, it was just “_offal good_“, not “_awfully good_“. So I revisited this recipe and came up with something far better. This time I added some potatoes and red wine. I also removed the Thai peppers, added cumin and extended the cooking time. **Summary**: _A rich stew made from beef heart using a slow cooker._ ![beef-heart-stew](./img/beef-heart-stew.jpg)
+Two years ago I posted a recipe for [Beef Heart Stew](/2011/04/beef-heart-stew/). Although it was better than my beef heart curry attempt, it was just “_offal good_“, not “_awfully good_“. So I revisited this recipe and came up with something far better. This time I added some potatoes and red wine. I also removed the Thai peppers, added cumin and extended the cooking time.
+
+**Summary**: _A rich stew made from beef heart using a slow cooker._
+
+![beef-heart-stew](./img/beef-heart-stew.jpg)
 
 
 #### Ingredients

@@ -10,9 +10,15 @@ commentCount: 4
 
 I've been following health and fitness news for many years now. One topic that has always puzzled me is the Obesity Paradox. To get us all up to speed, I asked Poe AI to explain the term.
 
-> The obesity paradox is a term used to describe the observation that, in some populations, individuals who are overweight or obese actually have better health outcomes than those who are of normal weight. This phenomenon has been observed in a number of chronic diseases, including heart failure, chronic kidney disease, and type 2 diabetes. The paradoxical finding is that individuals who are overweight or obese have a lower risk of mortality compared to those who are of normal weight, despite the fact that being overweight or obese is a known risk factor for developing these diseases in the first place. This finding is paradoxical because it appears to contradict the widely held belief that maintaining a healthy weight is essential for good health. The obesity paradox has also been observed in the context of longevity, with **some studies suggesting that individuals who are overweight or mildly obese may actually have a lower risk of mortality than those of normal or low weight.** However, this relationship between weight and longevity is complex and may vary depending on a variety of factors, such as age, sex, and overall health status.
+> The obesity paradox is a term used to describe the observation that, in some populations, individuals who are overweight or obese actually have better health outcomes than those who are of normal weight. This phenomenon has been observed in a number of chronic diseases, including heart failure, chronic kidney disease, and type 2 diabetes.
+> 
+> The paradoxical finding is that individuals who are overweight or obese have a lower risk of mortality compared to those who are of normal weight, despite the fact that being overweight or obese is a known risk factor for developing these diseases in the first place. This finding is paradoxical because it appears to contradict the widely held belief that maintaining a healthy weight is essential for good health.
+> 
+> The obesity paradox has also been observed in the context of longevity, with **some studies suggesting that individuals who are overweight or mildly obese may actually have a lower risk of mortality than those of normal or low weight.** However, this relationship between weight and longevity is complex and may vary depending on a variety of factors, such as age, sex, and overall health status.
 
-How could this ever be true? How is it possible that all the behaviors that we know to lead to poor chronic health not have negative consequences with regard to longevity? It turns out there may be no Obesity Paradox after all. It may have been a measurement problem. The article [Excess weight, obesity more deadly than previously believed](https://www.colorado.edu/today/2023/02/23/excess-weight-obesity-more-deadly-previously-believed) states:
+How could this ever be true? How is it possible that all the behaviors that we know to lead to poor chronic health not have negative consequences with regard to longevity?
+
+It turns out there may be no Obesity Paradox after all. It may have been a measurement problem. The article [Excess weight, obesity more deadly than previously believed](https://www.colorado.edu/today/2023/02/23/excess-weight-obesity-more-deadly-previously-believed) states:
 
 > Excess weight or obesity boosts risk of death by anywhere from 22% to 91%—significantly more than previously believed—while the mortality risk of being slightly underweight has likely been overestimated, according to new CU Boulder research.
 
@@ -24,7 +30,11 @@ Of course. When people that have been obese develop chronic health conditions su
 
 > Masters pointed out that a lifetime carrying excess weight can lead to illnesses that, paradoxically, lead to rapid weight loss. If BMI data is captured during this time, it can skew study results.
 
-Those deaths are then not counted against the high BMI group. Not only did the high BMI group purge many of the sickest from their numbers, but those individuals got added to the low BMI group. ![](./img/heavy-woman.jpg) _image created with stable-diffusion XL_
+Those deaths are then not counted against the high BMI group. Not only did the high BMI group purge many of the sickest from their numbers, but those individuals got added to the low BMI group.
+
+![](./img/heavy-woman.jpg)
+
+_image created with stable-diffusion XL_
 
 
 ### Healthy at any size?
@@ -32,9 +42,13 @@ Those deaths are then not counted against the high BMI group. Not only did the h
 
 In the last decade, we have been hammered with the message that one can be healthy at any size. This was mostly based on the Obesity Paradox, which if this research holds up, appears to be a measurement problem.
 
-> When re-crunching the numbers without these biases, he found not a U-shape but a straight upward line, with those with low BMI (18.5–22.5) having the lowest mortality risk. While previous research estimated 2 to 3% of U.S. adult deaths were due to high BMI, his study pegs the toll at eight times that.
+> When re-crunching the numbers without these biases, he found not a U-shape but a straight upward line, with those with low BMI (18.5–22.5) having the lowest mortality risk.
+> 
+> While previous research estimated 2 to 3% of U.S. adult deaths were due to high BMI, his study pegs the toll at eight times that.
 
-What if there is no obesity paradox? Read the [article](https://www.colorado.edu/today/2023/02/23/excess-weight-obesity-more-deadly-previously-believed). Let me know your thoughts. Common sense and my own bias (22.9 BMI) lead me to believe it is correct.
+What if there is no obesity paradox?
+
+Read the [article](https://www.colorado.edu/today/2023/02/23/excess-weight-obesity-more-deadly-previously-believed). Let me know your thoughts. Common sense and my own bias (22.9 BMI) lead me to believe it is correct.
 
 ---
 

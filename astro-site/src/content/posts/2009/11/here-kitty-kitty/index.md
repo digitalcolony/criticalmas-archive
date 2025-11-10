@@ -9,7 +9,9 @@ description: "Here is a preview of an upcoming post. !mas-tiger-500 --- Comments
 commentCount: 2
 ---
 
-Here is a preview of an upcoming post. ![mas-tiger-500](./img/mas-tiger-500.jpg "mas-tiger-500")
+Here is a preview of an upcoming post.
+
+![mas-tiger-500](./img/mas-tiger-500.jpg "mas-tiger-500")
 
 ---
 

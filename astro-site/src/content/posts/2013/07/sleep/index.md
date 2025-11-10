@@ -9,4 +9,6 @@ description: "Found this street art near the Space Needle. !tv-says-sleep"
 commentCount: 0
 ---
 
-Found this street art near the Space Needle. ![tv-says-sleep](./img/tv-says-sleep.jpg)
+Found this street art near the Space Needle.
+
+![tv-says-sleep](./img/tv-says-sleep.jpg)

@@ -15,13 +15,19 @@ I never planned to write a post defending _Bulletproof Coffee_, but it seems a f
 2.  Although I never tried _Upgraded Coffee_, I know from my 15 years experience as a home coffee roaster that the beans Dave Asprey is sourcing are very high quality.
 3.  I didn't get a cognitive boost from MCT oil, but I was already in the habit of consuming short chain saturated fats every morning.
 
-The point of my post was that you could use the foundation of what Dave Asprey learned about coffee to "roll your own" _Bulletproof Coffee_ by roasting your own coffee at home and if like me you prefer your coffee black - to consume the short chain fats separately. At that point you can honestly compare your new coffee experience with whatever you were doing beforehand. For me I didn't experience any additional benefits, however I've already been consuming high end coffee for many years. And I've been eating a tablespoons of coconut oil many mornings since I read the first edition of [Perfect Health Diet](/2012/06/deep-nutrition-perfect-health-diet-and-the-end-of-overeating/) in 2010. I didn't notice any benefit from the MCT, but maybe I would have had I not already been waking up to a spoonful of coconut oil. ![ballard-coffee-works](./img/ballard-coffee-works.jpg)
+The point of my post was that you could use the foundation of what Dave Asprey learned about coffee to "roll your own" _Bulletproof Coffee_ by roasting your own coffee at home and if like me you prefer your coffee black - to consume the short chain fats separately. At that point you can honestly compare your new coffee experience with whatever you were doing beforehand.
+
+For me I didn't experience any additional benefits, however I've already been consuming high end coffee for many years. And I've been eating a tablespoons of coconut oil many mornings since I read the first edition of [Perfect Health Diet](/2012/06/deep-nutrition-perfect-health-diet-and-the-end-of-overeating/) in 2010. I didn't notice any benefit from the MCT, but maybe I would have had I not already been waking up to a spoonful of coconut oil.
+
+![ballard-coffee-works](./img/ballard-coffee-works.jpg)
 
 
 ### The Butter
 
 
-The frothed unsalted butter is really a replacement for cream, which I never add to my coffee. And although I greatly prefer black coffee, frothed unsalted butter when compared to cream is fine. When I was cutting back on espresso, I used this technique as a way to reduce the flavor stimulus. But I am not your normal coffee drinker. If you like cream in your coffee, you will likely enjoy the taste of _Bulletproof Coffee_. It is probably is frustrating to Dave that many of the critics of the recipe seemed to have failed following the instructions. Salted butter. Swapping ingredients. Not measuring anything. The fairest way to review it would be to follow the directions exactly and then compare it a cup of coffee with cream or half & half. Even my comparison to black coffee in the original post wasn't relevant.
+The frothed unsalted butter is really a replacement for cream, which I never add to my coffee. And although I greatly prefer black coffee, frothed unsalted butter when compared to cream is fine. When I was cutting back on espresso, I used this technique as a way to reduce the flavor stimulus. But I am not your normal coffee drinker. If you like cream in your coffee, you will likely enjoy the taste of _Bulletproof Coffee_.
+
+It is probably is frustrating to Dave that many of the critics of the recipe seemed to have failed following the instructions. Salted butter. Swapping ingredients. Not measuring anything. The fairest way to review it would be to follow the directions exactly and then compare it a cup of coffee with cream or half & half. Even my comparison to black coffee in the original post wasn't relevant.
 
 
 ### The Mold
@@ -33,7 +39,9 @@ As for the mold free claims, I don’t know enough science to understand that ar
 ### Butter Believer
 
 
-The site _Butter Believer_ took the title of the post I did back in June 2012 and came up with their own coffee recipe. It wasn't just an [alternate recipe](http://butterbeliever.com/better-than-bulletproof-coffee/), it also was a completely different nutritional approach. Whereas _Bulletproof Coffee_ was about burning fat by depriving the body of glucose, the _Butter Believer_ version is more in line with the Ray Peat, Matt Stone and Danny Roddy view of metabolism that says running on glucose is superior for metabolic and hormonal reasons. This post is long enough already, so I’ll shelf that debate. Which is better? It probably depends upon the individual. Try them both. Which recipe tastes better? Which one do you feel better on? I understand the strengths of both approaches, so if I were a person who enjoyed both, I’d likely cycle between them, but I'm not, so I'll keep drinking my coffee black.
+The site _Butter Believer_ took the title of the post I did back in June 2012 and came up with their own coffee recipe. It wasn't just an [alternate recipe](http://butterbeliever.com/better-than-bulletproof-coffee/), it also was a completely different nutritional approach. Whereas _Bulletproof Coffee_ was about burning fat by depriving the body of glucose, the _Butter Believer_ version is more in line with the Ray Peat, Matt Stone and Danny Roddy view of metabolism that says running on glucose is superior for metabolic and hormonal reasons. This post is long enough already, so I’ll shelf that debate.
+
+Which is better? It probably depends upon the individual. Try them both. Which recipe tastes better? Which one do you feel better on? I understand the strengths of both approaches, so if I were a person who enjoyed both, I’d likely cycle between them, but I'm not, so I'll keep drinking my coffee black.
 
 
 ### Last Words

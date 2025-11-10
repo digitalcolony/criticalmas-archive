@@ -14,17 +14,39 @@ If we dive back into the archives of this site, you will see that I am a long-ti
 -   [Responding to a CrossFit Enthusiast](/2012/02/responding-to-a-crossfit-enthusiast/)
 -   [CrossFit is Not AntiFragile](/2014/08/crossfit-anti-fragile/)
 
-The short version is that I view CrossFit as something that looks fun, but the injury risk is too high. Ballistic movements under load for reps may yield great results in the short term, but one poorly formed rep could leave you sidelined for months nursing an injury. There are safer ways to get fit. I still believe that to be true. I don't see CrossFit nearly as popular with health influencers as it was a decade ago. Here is a Google Trend for the word CrossFit. Interest peaked in July 2013 and has been in decline ever since. Did everyone get hurt? ![](./img/crossfit-trend.png) _CrossFit Google Trend decline_ Other than bro lifting (squat, deadlift, bench), I would say today the hot topic is some form of martial arts. Joe Rogan, Andrew Huberman, Lex Fridman, Mark Bell, and other podcasters with large audiences are discussing some form of martial arts regularly. In June, Elon Musk challenged Mark Zuckerburg to an MMA-style battle. It's everywhere.
+The short version is that I view CrossFit as something that looks fun, but the injury risk is too high. Ballistic movements under load for reps may yield great results in the short term, but one poorly formed rep could leave you sidelined for months nursing an injury. There are safer ways to get fit. I still believe that to be true.
+
+I don't see CrossFit nearly as popular with health influencers as it was a decade ago. Here is a Google Trend for the word CrossFit. Interest peaked in July 2013 and has been in decline ever since. Did everyone get hurt?
+
+![](./img/crossfit-trend.png)
+
+_CrossFit Google Trend decline_
+
+Other than bro lifting (squat, deadlift, bench), I would say today the hot topic is some form of martial arts. Joe Rogan, Andrew Huberman, Lex Fridman, Mark Bell, and other podcasters with large audiences are discussing some form of martial arts regularly.
+
+In June, Elon Musk challenged Mark Zuckerburg to an MMA-style battle. It's everywhere.
 
 
 ### Not For Me
 
 
-Based on my CrossFit view, you can probably guess my opinion of martial arts. It looks cool and fun, but the risk of injury is way too high for me to consider. It's CrossFit while getting punched in the face. If I were a kid again, I absolutely would be interested. Kids get in more fights than adults by far. Having the skills to defend yourself in middle or high school would be useful. Even the confidence building would be beneficial. However, when you get hurt at a younger age, you heal super fast. Not so much when we get older. From [Approaching Weight Lifting Like An Investor](/2022/11/approaching-weight-lifting-like-an-investor/):
+Based on my CrossFit view, you can probably guess my opinion of martial arts. It looks cool and fun, but the risk of injury is way too high for me to consider. It's CrossFit while getting punched in the face.
 
-> In 1988, I had knee surgery. Not the sleek arthroscopic knee surgeries we have now, but one where they cut open my leg, ground down some bone, and then put me in a full leg cast, which I wore for months. The next year, I ran a sub-4 hour marathon having never run a single race before. Fast forward to May 2021, I had the opportunity to try and kick a field goal after a fancy dinner held on Century Field, which is where the Seattle Seahawks play. Although I made the field goal, I got a high hamstring tear. It still isn’t fully healed. For the first year, I could only drive my car for 10 minutes before the pain would arrive. I don’t know if I’ll ever be 100%. All the sports massages and daily PT exercises have made my recovery painfully slow. That’s the cold reality of aging and recoverability.
+If I were a kid again, I absolutely would be interested. Kids get in more fights than adults by far. Having the skills to defend yourself in middle or high school would be useful. Even the confidence building would be beneficial.
 
-Of course, there will always be examples of people at every age who are successful with martial arts, but I understand survivorship bias. You aren't seeing the countless examples of those who got hurt and never returned. Martial arts are a skill. Skills take a lot of time to develop. Even if I still had teenage recoverability, I simply don't have the interest in devoting the time that would be required to get decent. In 2007, I came to the same conclusion with skiing. It was fun, but because I was only skiing at most once a season, I wasn't improving, nor did I care to spend the time and money to get better. I haven't gone skiing since.
+However, when you get hurt at a younger age, you heal super fast. Not so much when we get older. From [Approaching Weight Lifting Like An Investor](/2022/11/approaching-weight-lifting-like-an-investor/):
+
+> In 1988, I had knee surgery. Not the sleek arthroscopic knee surgeries we have now, but one where they cut open my leg, ground down some bone, and then put me in a full leg cast, which I wore for months. The next year, I ran a sub-4 hour marathon having never run a single race before.
+> 
+> Fast forward to May 2021, I had the opportunity to try and kick a field goal after a fancy dinner held on Century Field, which is where the Seattle Seahawks play. Although I made the field goal, I got a high hamstring tear. It still isn’t fully healed. For the first year, I could only drive my car for 10 minutes before the pain would arrive. I don’t know if I’ll ever be 100%. All the sports massages and daily PT exercises have made my recovery painfully slow.
+> 
+> That’s the cold reality of aging and recoverability.
+
+Of course, there will always be examples of people at every age who are successful with martial arts, but I understand survivorship bias. You aren't seeing the countless examples of those who got hurt and never returned.
+
+Martial arts are a skill. Skills take a lot of time to develop. Even if I still had teenage recoverability, I simply don't have the interest in devoting the time that would be required to get decent.
+
+In 2007, I came to the same conclusion with skiing. It was fun, but because I was only skiing at most once a season, I wasn't improving, nor did I care to spend the time and money to get better. I haven't gone skiing since.
 
 
 ### Protect My Family?
@@ -34,19 +56,29 @@ But martial arts are more than exercise, you say. You may need to fight to prote
 
 > If you are walking down a sidewalk and are approaching a group of loud and apparently intoxicated males, cross to the other side of the street immediately. If anyone tries to start a fight with you, the first step should be “choke them with heel dust”.
 
-Since middle school, I haven't been in a single fight. Not even close. I can't even recall seeing a fight. I live in a safe neighborhood and don't go out at night. But if a conflict were about to happen, I would take McGuff's advice and flee. Facebook CEO Mark Zuckerberg tore his ACL while sparring. Dr. Shawn Baker injured his neck doing jiu-jitsu, causing nerve issues that required stem cell therapy. It's hard to flee or "protect your family" if you're being pushed around in a wheelchair. ![](./img/zuck-injury-acl.jpg) _Zuck after his sparring injury._
+Since middle school, I haven't been in a single fight. Not even close. I can't even recall seeing a fight. I live in a safe neighborhood and don't go out at night. But if a conflict were about to happen, I would take McGuff's advice and flee.
+
+Facebook CEO Mark Zuckerberg tore his ACL while sparring. Dr. Shawn Baker injured his neck doing jiu-jitsu, causing nerve issues that required stem cell therapy. It's hard to flee or "protect your family" if you're being pushed around in a wheelchair.
+
+![](./img/zuck-injury-acl.jpg)
+
+_Zuck after his sparring injury._
 
 
 ### You Are Not Joe Rogan
 
 
-Joe Rogan started martial arts at the age of 13. He has been at it for more than 40 years. He has seen or participated in thousands of fights. The skills he has developed over a lifetime have made martial arts far safer for him than someone equal to his age just getting started. And if Rogan did get injured, he has the financial resources to get the best doctors and medical procedures that money can buy. Meanwhile, we average folks wait weeks or longer just to get an appointment with our plan-assigned doctor. If I hurt my neck or tore my ACL, I'm not flying down to Panama for cutting-edge treatments. I still need to cook my meals and go to work on Monday.
+Joe Rogan started martial arts at the age of 13. He has been at it for more than 40 years. He has seen or participated in thousands of fights. The skills he has developed over a lifetime have made martial arts far safer for him than someone equal to his age just getting started.
+
+And if Rogan did get injured, he has the financial resources to get the best doctors and medical procedures that money can buy. Meanwhile, we average folks wait weeks or longer just to get an appointment with our plan-assigned doctor. If I hurt my neck or tore my ACL, I'm not flying down to Panama for cutting-edge treatments. I still need to cook my meals and go to work on Monday.
 
 
 ### Last Words
 
 
-I can only think of one situation where I would take up martial arts. If I were on trial and facing potential jail time, I would want to enter prison with some fighting skills. Am I wrong on this topic?
+I can only think of one situation where I would take up martial arts. If I were on trial and facing potential jail time, I would want to enter prison with some fighting skills.
+
+Am I wrong on this topic?
 
 ---
 

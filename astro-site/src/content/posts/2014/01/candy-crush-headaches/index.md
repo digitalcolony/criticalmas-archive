@@ -9,11 +9,27 @@ description: "I hesitate to post this, but I need to hear from others. As some o
 commentCount: 23
 ---
 
-I hesitate to post this, but I need to hear from others. As some of you know I sometimes experience night headaches that wake me up in the early hours of the morning. When I [stopped quantified self](/2013/11/quantifiable-self-form-journaling/), my rate of headaches dropped considerably. For a few months things were going OK. Then I read about how the [Candy Crush Saga](https://en.wikipedia.org/wiki/Candy_Crush_Saga) game was sweeping the country in popularity. Normally I don't play video games, but I like to have some awareness of popular pop culture. For example, I watched an episode of Jersey Shore just so I would know what a [Snooki](https://en.wikipedia.org/wiki/Snookie) was. With video games, I watched my nephews play _Call of Duty_ and I myself played a few rounds of _Angry Birds_. So I decided to see what _Candy Crush_ was all about. ![Candy Crush headache](./img/candy-crush450.jpg) _Candy Crush Saga - The crack of video games_ _Candy Crush_ turned out to be the most addicting game I've ever played. And I don't even like video games. When I installed it, I figured I'd knock out a few levels and then never play again. Like I did with _Bejeweled_ a decade ago. That was the plan. But this games gets in your head. I couldn't stop playing. Thankfully, I never connected the game with others on Facebook. During the month of December I installed and uninstalled the game three times. I watched video tutorials on YouTube to guide me through levels. I was seeking out _Candy Crush_ tips from friends and family. And I was getting way more headaches. I was fully prepared to blame the increase in headaches on the season. Shorter days means I tend to consume more caffeine and caffeine in high levels is a known trigger for me. But I uninstalled _Candy Crush_ two weeks ago and my headaches have dropped all the way down to pre-_Candy Crush_ levels. The article [13 Surprising Headaches Triggers](http://www.care2.com/greenliving/13-surprising-headache-triggers.html) by Diana Vilibert provided a clue.
+I hesitate to post this, but I need to hear from others. As some of you know I sometimes experience night headaches that wake me up in the early hours of the morning. When I [stopped quantified self](/2013/11/quantifiable-self-form-journaling/), my rate of headaches dropped considerably. For a few months things were going OK.
+
+Then I read about how the [Candy Crush Saga](https://en.wikipedia.org/wiki/Candy_Crush_Saga) game was sweeping the country in popularity.
+
+Normally I don't play video games, but I like to have some awareness of popular pop culture. For example, I watched an episode of Jersey Shore just so I would know what a [Snooki](https://en.wikipedia.org/wiki/Snookie) was. With video games, I watched my nephews play _Call of Duty_ and I myself played a few rounds of _Angry Birds_. So I decided to see what _Candy Crush_ was all about.
+
+![Candy Crush headache](./img/candy-crush450.jpg)
+
+_Candy Crush Saga - The crack of video games_
+
+_Candy Crush_ turned out to be the most addicting game I've ever played. And I don't even like video games. When I installed it, I figured I'd knock out a few levels and then never play again. Like I did with _Bejeweled_ a decade ago. That was the plan. But this games gets in your head. I couldn't stop playing. Thankfully, I never connected the game with others on Facebook.
+
+During the month of December I installed and uninstalled the game three times. I watched video tutorials on YouTube to guide me through levels. I was seeking out _Candy Crush_ tips from friends and family. And I was getting way more headaches. I was fully prepared to blame the increase in headaches on the season. Shorter days means I tend to consume more caffeine and caffeine in high levels is a known trigger for me. But I uninstalled _Candy Crush_ two weeks ago and my headaches have dropped all the way down to pre-_Candy Crush_ levels.
+
+The article [13 Surprising Headaches Triggers](http://www.care2.com/greenliving/13-surprising-headache-triggers.html) by Diana Vilibert provided a clue.
 
 > If you’you've ever found yourself slouching over your phone playing Candy Crush for hours, you may want to give it a rest. The brightness of your screen activates the retina and the nerves behind the eye, which can cause eye strain and head pain—and the same goes for your laptop.
 
-I was playing _Candy Crush_ from my iPod, which is a device I mostly use for music and only look at briefly. I was suddenly spending an hour or two, often before bed bent over playing. During the time I was playing the games the most, I got what I am calling _Candy Crush Elbow_. Crushing candy is tough work. ;) I've been clean and _Candy Crush_ sober for two weeks now and am feeling better. Anyone else get headaches from this game or others?
+I was playing _Candy Crush_ from my iPod, which is a device I mostly use for music and only look at briefly. I was suddenly spending an hour or two, often before bed bent over playing. During the time I was playing the games the most, I got what I am calling _Candy Crush Elbow_. Crushing candy is tough work. ;)
+
+I've been clean and _Candy Crush_ sober for two weeks now and am feeling better. Anyone else get headaches from this game or others?
 
 ---
 

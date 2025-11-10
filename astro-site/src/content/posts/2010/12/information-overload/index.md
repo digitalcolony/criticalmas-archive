@@ -8,7 +8,13 @@ description: "In the last week I have stumbled upon so many great web sites full
 commentCount: 6
 ---
 
-In the last week I have stumbled upon so many great web sites full of content that I want to read. I have never been under this heavy of an information overload. I've spent so much time trying to figure out how to filter out the noise that I wasn't prepared to mainline so much signal. How do you deal with an overload of quality information? Any tips would be appreciated. ![](http://farm1.static.flickr.com/184/399559209_0cb89ac4c2_z.jpg?zz=1 "overload") _Photo [overloaded: from the back](http://www.flickr.com/photos/leprecon/399559209/in/photostream/) by woowoowoo_
+In the last week I have stumbled upon so many great web sites full of content that I want to read. I have never been under this heavy of an information overload. I've spent so much time trying to figure out how to filter out the noise that I wasn't prepared to mainline so much signal.
+
+How do you deal with an overload of quality information? Any tips would be appreciated.
+
+![](http://farm1.static.flickr.com/184/399559209_0cb89ac4c2_z.jpg?zz=1 "overload")
+
+_Photo [overloaded: from the back](http://www.flickr.com/photos/leprecon/399559209/in/photostream/) by woowoowoo_
 
 ---
 

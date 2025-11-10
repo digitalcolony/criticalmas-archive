@@ -9,7 +9,27 @@ description: "Earlier this year, I read the book The Power of When after hearing
 commentCount: 8
 ---
 
-Earlier this year, I read the book _The Power of When_ after hearing the author on a podcast interview. ![Power of When](./img/power-of-when-book.jpg) _The Power of When: Discover Your Chronotype--and the Best Time to Eat Lunch, Ask for a Raise, Have Sex, Write a Novel, Take Your Meds, and More by Michael Breus Ph.D._ Before I tell you the gem piece of advice I discovered for myself, I will briefly cover what the book is about. The premise is we all have some variation of four different sleep types. Each of these sleep types gets an animal designation. By discovering your sleep type, this book guides you with advice on how to structure your life better. This is not a deep book and I have no idea if you will any get benefits from the ideas in _The Power of When_. I did. It was an idea so obvious that once I read it, I knew it would solve some of my problems and make my life better. I'm a morning person. A Lion. For many years now my routine has been to start the day off strong and hopefully lock in the gains before the evening arrives. By the time evening has arrived, my productivity is much lower. My strategy has been to win early. Winning early for me also meant working out early. **Two or three times a week for more than a decade I have been at the gym in the morning. _The Power of When_ explained to me that was a mistake.** Because I am a morning person, I should do all my project work in the morning and instead exercise in the late afternoon or early evening. By structuring my day in this manner, ALL my mornings would be scheduled for projects and when the late afternoon arrived instead of going into zombie mode, I would go to the gym for an alertness pickup. It all made sense. On the days when I did my morning lifting, I tended to be more tired, more hungry, and less focused. I ate more meals throughout the day. I tend to eat more when I'm tired, as I almost never nap. Doing this week in and week out for so many years has likely caused me to consume more calories than I needed. I started the late afternoon workout protocol around April and it is working great. I've completed more work on my projects and I've reduced the number of calories I consume on the days I workout. Start removing a few hundred calories a week and pretty soon you'll start to notice the results. I've lost 20 pounds in the last few months. This was one of the factors. I'll cover the others in an upcoming post.
+Earlier this year, I read the book _The Power of When_ after hearing the author on a podcast interview.
+
+![Power of When](./img/power-of-when-book.jpg)
+
+_The Power of When: Discover Your Chronotype--and the Best Time to Eat Lunch, Ask for a Raise, Have Sex, Write a Novel, Take Your Meds, and More by Michael Breus Ph.D._
+
+Before I tell you the gem piece of advice I discovered for myself, I will briefly cover what the book is about. The premise is we all have some variation of four different sleep types. Each of these sleep types gets an animal designation. By discovering your sleep type, this book guides you with advice on how to structure your life better.
+
+This is not a deep book and I have no idea if you will any get benefits from the ideas in _The Power of When_. I did. It was an idea so obvious that once I read it, I knew it would solve some of my problems and make my life better.
+
+I'm a morning person. A Lion. For many years now my routine has been to start the day off strong and hopefully lock in the gains before the evening arrives. By the time evening has arrived, my productivity is much lower. My strategy has been to win early.
+
+Winning early for me also meant working out early. **Two or three times a week for more than a decade I have been at the gym in the morning. _The Power of When_ explained to me that was a mistake.** Because I am a morning person, I should do all my project work in the morning and instead exercise in the late afternoon or early evening.
+
+By structuring my day in this manner, ALL my mornings would be scheduled for projects and when the late afternoon arrived instead of going into zombie mode, I would go to the gym for an alertness pickup.
+
+It all made sense.
+
+On the days when I did my morning lifting, I tended to be more tired, more hungry, and less focused. I ate more meals throughout the day. I tend to eat more when I'm tired, as I almost never nap. Doing this week in and week out for so many years has likely caused me to consume more calories than I needed.
+
+I started the late afternoon workout protocol around April and it is working great. I've completed more work on my projects and I've reduced the number of calories I consume on the days I workout. Start removing a few hundred calories a week and pretty soon you'll start to notice the results. I've lost 20 pounds in the last few months. This was one of the factors. I'll cover the others in an upcoming post.
 
 ---
 

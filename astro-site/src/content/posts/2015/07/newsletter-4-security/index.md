@@ -8,13 +8,19 @@ description: "It has been a while since Newsletter #3 - Eliminate. For #4, I wan
 commentCount: 4
 ---
 
-It has been a while since [Newsletter #3 - Eliminate](/2015/02/newsletter-3-eliminate/). For #4, I wanted to take a break from fitness and nutrition for one issue and focus on a topic that we can all benefit from. With all the data breaches and hacking that has taken place in this year, I thought a Security theme newsletter would be good to share. Regular readers may have already read those posts and implemented the ideas, but if you haven't, this might be a good time to start locking down your digital security.
+It has been a while since [Newsletter #3 - Eliminate](/2015/02/newsletter-3-eliminate/). For #4, I wanted to take a break from fitness and nutrition for one issue and focus on a topic that we can all benefit from. With all the data breaches and hacking that has taken place in this year, I thought a Security theme newsletter would be good to share.
+
+Regular readers may have already read those posts and implemented the ideas, but if you haven't, this might be a good time to start locking down your digital security.
 
 
 #### [http://eepurl.com/bs9JYX](http://eepurl.com/bs9JYX)
 
 
-If you have any additional ideas on Security, drop a comment. This is an ongoing battle. ![newsletter](./img/15743483265_1aca718cd2_z.jpg) _[Photo](https://flic.kr/p/pZct5D) by Dennis Skley_
+If you have any additional ideas on Security, drop a comment. This is an ongoing battle.
+
+![newsletter](./img/15743483265_1aca718cd2_z.jpg)
+
+_[Photo](https://flic.kr/p/pZct5D) by Dennis Skley_
 
 ---
 

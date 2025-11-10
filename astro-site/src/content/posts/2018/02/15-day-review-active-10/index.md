@@ -8,7 +8,23 @@ description: "This is a follow-up to the post Active 10 vs 10,000 Steps a Day. 
 commentCount: 13
 ---
 
-This is a follow-up to the post [Active 10 vs 10,000 Steps a Day](/2018/01/active-10-vs-10000-steps-day/). I wanted to see how well the Active 10 app would work. Below are two screenshots. The first is the Active 10 app and the second is the iOS Health data. ![](./img/active10.jpg) _Active 10_ ![](./img/steps.jpg) _iOS Health_ As you can see from my data, I had 7 days this month where I completed 30-40 minutes of brisk walking. Due to my knee issues, I never walked fast enough that I would have considered it brisk. Maybe just short of brisk? I never got out of breath or even close. Yet, the app gave me credit for brisk walking. The app gives credit for minutes of brisk walking and blocks of 10-minute brisk walking. You can make the minutes easily without making the 3-blocks. The app is more concerned with consecutive walking. What I discovered was that urban hiking is problematic to reach these 10-minute blocks, because we stop for cars and wait for the light to change. This stop is enough to reset the block. Historical data is a bit light. There is no way for me to dig deeper into the data for past days. I can see the minutes earned, but not how many 10-minute blocks I earned. You can only see the block earned on the current day. I will be uninstalling the app for a few reasons:
+This is a follow-up to the post [Active 10 vs 10,000 Steps a Day](/2018/01/active-10-vs-10000-steps-day/).
+
+I wanted to see how well the Active 10 app would work. Below are two screenshots. The first is the Active 10 app and the second is the iOS Health data.
+
+![](./img/active10.jpg) _Active 10_
+
+![](./img/steps.jpg) _iOS Health_
+
+As you can see from my data, I had 7 days this month where I completed 30-40 minutes of brisk walking. Due to my knee issues, I never walked fast enough that I would have considered it brisk. Maybe just short of brisk? I never got out of breath or even close. Yet, the app gave me credit for brisk walking.
+
+The app gives credit for minutes of brisk walking and blocks of 10-minute brisk walking. You can make the minutes easily without making the 3-blocks.
+
+The app is more concerned with consecutive walking. What I discovered was that urban hiking is problematic to reach these 10-minute blocks, because we stop for cars and wait for the light to change. This stop is enough to reset the block.
+
+Historical data is a bit light. There is no way for me to dig deeper into the data for past days. I can see the minutes earned, but not how many 10-minute blocks I earned. You can only see the block earned on the current day.
+
+I will be uninstalling the app for a few reasons:
 
 1.  I'm getting credit for brisk walking that I do not consider to be brisk. Perhaps I am too fit for this app? And if I am too fit, then likely so are the readers of this site.
 2.  I walk mostly in the city and I do not want to be hit by a car, so getting the blocks for me could be a dangerous goal.

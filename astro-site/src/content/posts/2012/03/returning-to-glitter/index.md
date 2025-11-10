@@ -9,7 +9,13 @@ description: "Yesterday was the first day that could be described as a perfect s
 commentCount: 16
 ---
 
-Yesterday was the first day that could be described as a perfect spring day for Seattle. Because of the cold temperatures and rain, it had been over a week since my last [Outdoor HIT Workout](/2011/11/escaping-the-glitter-taking-high-intensity-training-outdoors/). Instead of being pleased with the chance to return to the park, I realized I was tired of doing body weight exercises in the park. I missed the Glitter Gym. Since I left the Glitter Gym last October, a new Glitter Gym opened within walking distance of my home. I joined up. Although my Outdoor HIT experiment proved that one could safely and effectively workout without equipment, I was ready to return to the glitter. ![](http://farm8.staticflickr.com/7012/6796788769_810c517dc4.jpg "weights") _Photo by [Alyson Hurt](http://www.flickr.com/photos/alykat/6796788769/in/photostream/)_
+Yesterday was the first day that could be described as a perfect spring day for Seattle. Because of the cold temperatures and rain, it had been over a week since my last [Outdoor HIT Workout](/2011/11/escaping-the-glitter-taking-high-intensity-training-outdoors/). Instead of being pleased with the chance to return to the park, I realized I was tired of doing body weight exercises in the park. I missed the Glitter Gym.
+
+Since I left the Glitter Gym last October, a new Glitter Gym opened within walking distance of my home. I joined up. Although my Outdoor HIT experiment proved that one could safely and effectively workout without equipment, I was ready to return to the glitter.
+
+![](http://farm8.staticflickr.com/7012/6796788769_810c517dc4.jpg "weights")
+
+_Photo by [Alyson Hurt](http://www.flickr.com/photos/alykat/6796788769/in/photostream/)_
 
 ---
 

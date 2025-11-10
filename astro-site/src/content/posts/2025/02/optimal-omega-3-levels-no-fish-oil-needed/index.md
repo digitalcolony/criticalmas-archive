@@ -9,7 +9,13 @@ description: "Time to take a victory lap. I had my first Omega-3 test done and t
 commentCount: 11
 ---
 
-Time to take a victory lap. I had my first Omega-3 test done and the numbers look good. ![](./img/omega3.jpg)![](./img/ratio.jpg)![](./img/transfat.jpg) I gave my numbers to ChatGPT and asked it to compare them to the American average.
+Time to take a victory lap.
+
+I had my first Omega-3 test done and the numbers look good.
+
+![](./img/omega3.jpg)![](./img/ratio.jpg)![](./img/transfat.jpg)
+
+I gave my numbers to ChatGPT and asked it to compare them to the American average.
 
 
 ### **Related Averages in the U.S.:**
@@ -29,21 +35,39 @@ Time to take a victory lap. I had my first Omega-3 test done and the numbers loo
 ### Paleo Was Wrong
 
 
-Why the victory lap? Let's go back to 2013 and read my post [Quantifying PUFA, Expert Opinion, and My Conclusion](/2013/12/quantifying-pufa-expert-opinion/). Paleo was the rage and despite massive evidence that many traditional cultures ate diets rich in complex carbs, they had embraced all the low-carb lies. They recognized modern diets were too high in Omega-6 fats, so they said to remove seed oils. This was a good first step, but they kept demonizing carbs and preaching MOAR meat - both pork and chicken can be high in Omega-6. The math never made sense to me.
+Why the victory lap? Let's go back to 2013 and read my post [Quantifying PUFA, Expert Opinion, and My Conclusion](/2013/12/quantifying-pufa-expert-opinion/).
 
-> ...the real problem might be what is already stored in our fat tissues. We not only need to minimize the PUFA we eat but get rid of years of eating excess PUFA to optimize metabolism. According to Ray Peat, this process can take four years. That is four years of eating very low PUFA while the body processes the PUFA stored in fat. When I ran the numbers, I concluded that to get to optimal low PUFA levels, a higher carb and lower fat diet made the most sense. You could construct a low-carb diet with low PUFA levels, but it would be challenging and quite restrictive. Restrictive diets are fine for a month or two, but a year or more? No thanks.
+Paleo was the rage and despite massive evidence that many traditional cultures ate diets rich in complex carbs, they had embraced all the low-carb lies. They recognized modern diets were too high in Omega-6 fats, so they said to remove seed oils. This was a good first step, but they kept demonizing carbs and preaching MOAR meat - both pork and chicken can be high in Omega-6.
 
-I'd love to go back to my old Paleo and Weston A Price groups and have them get tested. I bet my mostly SMASH\* carb-rich/lower fat diet would destroy their numbers. _\* SMASH stands for salmon, mackerel, anchovies, sardines and herring._
+The math never made sense to me.
+
+> ...the real problem might be what is already stored in our fat tissues. We not only need to minimize the PUFA we eat but get rid of years of eating excess PUFA to optimize metabolism. According to Ray Peat, this process can take four years.
+> 
+> That is four years of eating very low PUFA while the body processes the PUFA stored in fat.
+> 
+> When I ran the numbers, I concluded that to get to optimal low PUFA levels, a higher carb and lower fat diet made the most sense. You could construct a low-carb diet with low PUFA levels, but it would be challenging and quite restrictive. Restrictive diets are fine for a month or two, but a year or more? No thanks.
+
+I'd love to go back to my old Paleo and Weston A Price groups and have them get tested. I bet my mostly SMASH\* carb-rich/lower fat diet would destroy their numbers.
+
+_\* SMASH stands for salmon, mackerel, anchovies, sardines and herring._
 
 
 ### But Fish Oil?
 
 
-I've been a fish oil skeptic for 15 years. Assuming you get a fish oil that isn't rancid, does fish oil fix a problem or mask one? Or maybe it does both? From my post [Fish Oil is so 2010](/2013/08/fish-oil-2010/):
+I've been a fish oil skeptic for 15 years. Assuming you get a fish oil that isn't rancid, does fish oil fix a problem or mask one? Or maybe it does both?
 
-> A lot of the early logic behind supplementing with fish oil, which is rich in Omega-3, was to improve our Omega-6 to Omega-3 ratio. The higher the ratio, the worse your health outcome. There are two ways to lower that ratio. Either work at reducing Omega-6 or increase Omega-3. There is no profit motive in the first suggestion and plenty in the second. An industry was born and fish oil was their product. There were a few problems, though. Simply increasing Omega-3 doesn’t address the excess Omega 6, which is likely the actual problem. In other words, this is a numerator problem, not a denominator one.
+From my post [Fish Oil is so 2010](/2013/08/fish-oil-2010/):
 
-It's easy to pop a few fish oil tablets. It takes planning and effort to avoid Omega-6 fats in modern society. I suppose if I ate a crappy diet, I would take fish oil and hope that the brand that I "researched" was legit. But because my diet strictly limits seed oils and processed foods, I don't need fish oil. Plus, I eat fish. To deal with heavy metals and environmental toxins in seafood, I donate blood every 70 days. I'll get my 6-gallon pin in April. After putting this post together, I discovered that I bought the _Omega-3 Index Plus Report_ and not the _Omega-3 Complete Report_, which has even more data. Next time.
+> A lot of the early logic behind supplementing with fish oil, which is rich in Omega-3, was to improve our Omega-6 to Omega-3 ratio. The higher the ratio, the worse your health outcome. There are two ways to lower that ratio. Either work at reducing Omega-6 or increase Omega-3. There is no profit motive in the first suggestion and plenty in the second. An industry was born and fish oil was their product.
+> 
+> There were a few problems, though. Simply increasing Omega-3 doesn’t address the excess Omega 6, which is likely the actual problem. In other words, this is a numerator problem, not a denominator one.
+
+It's easy to pop a few fish oil tablets. It takes planning and effort to avoid Omega-6 fats in modern society. I suppose if I ate a crappy diet, I would take fish oil and hope that the brand that I "researched" was legit. But because my diet strictly limits seed oils and processed foods, I don't need fish oil. Plus, I eat fish.
+
+To deal with heavy metals and environmental toxins in seafood, I donate blood every 70 days. I'll get my 6-gallon pin in April.
+
+After putting this post together, I discovered that I bought the _Omega-3 Index Plus Report_ and not the _Omega-3 Complete Report_, which has even more data. Next time.
 
 ---
 

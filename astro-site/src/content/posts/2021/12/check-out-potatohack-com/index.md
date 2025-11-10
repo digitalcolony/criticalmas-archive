@@ -9,7 +9,13 @@ description: "A few weekends ago, I completed Net Ninja's tutorial of Bootstrap 
 commentCount: 6
 ---
 
-A few weekends ago, I completed Net Ninja's tutorial of Bootstrap 5 on YouTube. I learned just enough to make a website that isn't hideous. After I had a decent-looking potato portal, I hired an artist on Fiverr to create a custom potato drawing. Here is the new [PotatoHack.com](https://potatohack.com). The website is static HTML that is published from my [GitHub repo](https://github.com/digitalcolony/potatohack.com) via Netlify. [Like my radio site](/2021/07/made-in-the-spirit-of-the-early-web/) and this blog, PotatoHack.com is 100% non-commercial and uses no tracking. ![happy potato](./img/potato-happy700.jpg) I'm sure I made an error or two. If you have any feedback or corrections, let me know. Also, type in a bad link to see the custom 404 page. I had a crying potato image made as well. 🤣
+A few weekends ago, I completed Net Ninja's tutorial of Bootstrap 5 on YouTube. I learned just enough to make a website that isn't hideous. After I had a decent-looking potato portal, I hired an artist on Fiverr to create a custom potato drawing.
+
+Here is the new [PotatoHack.com](https://potatohack.com). The website is static HTML that is published from my [GitHub repo](https://github.com/digitalcolony/potatohack.com) via Netlify. [Like my radio site](/2021/07/made-in-the-spirit-of-the-early-web/) and this blog, PotatoHack.com is 100% non-commercial and uses no tracking.
+
+![happy potato](./img/potato-happy700.jpg)
+
+I'm sure I made an error or two. If you have any feedback or corrections, let me know. Also, type in a bad link to see the custom 404 page. I had a crying potato image made as well. 🤣
 
 ---
 

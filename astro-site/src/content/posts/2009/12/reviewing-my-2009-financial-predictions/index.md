@@ -41,7 +41,9 @@ Asset prices are still falling. Credit is being yanked from the system at a hist
 
 > **30-Year Bond** This is the most important number. If it ramps America is hosed. Bernanke is using [Quantitative Easing](https://en.wikipedia.org/wiki/Quantitative_easing) to push this number down. It is working for now. If it fails, look out below. I plan to have a post on this topic soon. Im going to bet against the grossly incompetent Bernanke and go with **4%**.
 
-**Nailed this one too.** Bernanke failed with his Quantitative Easing. The 30 yield went from 2.8% to 4.7%. Even though I missed oil and gold big time, I did have a caveat.
+**Nailed this one too.** Bernanke failed with his Quantitative Easing. The 30 yield went from 2.8% to 4.7%.
+
+Even though I missed oil and gold big time, I did have a caveat.
 
 > My picks for Gold and Oil are pure guesses and not true predictions. We are in uncharted economic territory now. Currencies are being devalued everywhere and at different rates. Everything else listed is a prediction.
 

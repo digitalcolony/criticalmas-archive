@@ -13,7 +13,7 @@ Below is a snippet of code showing how to retrieve the page source of a web page
 
 using System.Net;
 using System.Xml;
-using System.IO; 
+using System.IO;
 
 string url = "http://yahoo.com";
 

@@ -11,7 +11,43 @@ commentCount: 9
 
 I was at dinner with some friends recently when one of the girls told me about a _scientific fitness program_. The girl was young, healthy and appeared quite fit. I also know from her very unique career that she is hard working and ambitious. I was interested in learning more about the program and she was interested in telling me about it.
 
-> HER: My gym has this scientific program and they guaranteed results. ME (THINKING): _Whenever the term scientific gets thrown around in fitness, I get a little skeptical._ HER: Every trainer hired in my gym has a bachelors degree and not just some certification. ME (THINKING): _Some of the best trainers I know have degrees outside of fitness and then passed a certification program later. However, I do know a guy with a Nutrition and Human Physiology degree that doesn't even understand [somatypes](/2008/04/calculate-your-grecian-ideal/)._ HER: They designed the program so you never peak. You keep making gains. ME: That is impossible. If there really was a way the human body could continue making gains forever, there would be some guy benching 3,000 pounds and running a 3 minute mile. HER: Well, the program was designed in this University and they have test results confirming the program. ME (THINKING): _Got to love those University studies where they take a bunch of 20 year old, healthy college kids and run them around and low and behold they get fit. Amazing!_ _Human beings have known inherently how to move and be fit for thousands of years. Now we suddenly need degreed experts to design_ _scientific programs? If you are top athlete or training at an elite level - sure. But if you're Bob from Accounting and can't do a girls push-up, you don't need science, you need a boot in the ass._ HER: I ran the numbers and even though this gym was $300 a month, it would have cost me $600 to hire a personal trainer. ME (THINKING): _How can a gym make money hiring degreed trainers for half the billable of certified trainers and guarantee results? Oh, I see what they are doing._ HER: It was so tough. They kept at you. Pushing and pushing. They did not let up on you the entire workout. They knew how to keep you moving. ME: But you dropped out of the plan, right? HER: Yes. How did you know? ME: You were too sore to move your arms and legs. You couldn't go back to the gym if you wanted. Correct? HER: Yes. I was so sore. They really worked me out. ME: They had you doing high-reps, didn't they? HER: Yes. Super high reps, with almost no rest. It was a great plan, I need to start back up with them and be more serious. ME (THINKING): _Poor girl. That gym should be burned to ground._
+> HER: My gym has this scientific program and they guaranteed results.
+> 
+> ME (THINKING): _Whenever the term scientific gets thrown around in fitness, I get a little skeptical._
+> 
+> HER: Every trainer hired in my gym has a bachelors degree and not just some certification.
+> 
+> ME (THINKING): _Some of the best trainers I know have degrees outside of fitness and then passed a certification program later. However, I do know a guy with a Nutrition and Human Physiology degree that doesn't even understand [somatypes](/2008/04/calculate-your-grecian-ideal/)._
+> 
+> HER: They designed the program so you never peak. You keep making gains.
+> 
+> ME: That is impossible. If there really was a way the human body could continue making gains forever, there would be some guy benching 3,000 pounds and running a 3 minute mile.
+> 
+> HER: Well, the program was designed in this University and they have test results confirming the program.
+> 
+> ME (THINKING): _Got to love those University studies where they take a bunch of 20 year old, healthy college kids and run them around and low and behold they get fit. Amazing!_
+> 
+> _Human beings have known inherently how to move and be fit for thousands of years. Now we suddenly need degreed experts to design_ _scientific programs? If you are top athlete or training at an elite level - sure. But if you're Bob from Accounting and can't do a girls push-up, you don't need science, you need a boot in the ass._
+> 
+> HER: I ran the numbers and even though this gym was $300 a month, it would have cost me $600 to hire a personal trainer.
+> 
+> ME (THINKING): _How can a gym make money hiring degreed trainers for half the billable of certified trainers and guarantee results? Oh, I see what they are doing._
+> 
+> HER: It was so tough. They kept at you. Pushing and pushing. They did not let up on you the entire workout. They knew how to keep you moving.
+> 
+> ME: But you dropped out of the plan, right?
+> 
+> HER: Yes. How did you know?
+> 
+> ME: You were too sore to move your arms and legs. You couldn't go back to the gym if you wanted. Correct?
+> 
+> HER: Yes. I was so sore. They really worked me out.
+> 
+> ME: They had you doing high-reps, didn't they?
+> 
+> HER: Yes. Super high reps, with almost no rest. It was a great plan, I need to start back up with them and be more serious.
+> 
+> ME (THINKING): _Poor girl. That gym should be burned to ground._
 
 Our scientific gym came up with a great business model. Charge $300 a month to use facilities where degreed trainers behave like drill sergeants and make their clients so sore they can't return to the gym. The clients believe THEY FAILED the program, not that the program failed them. They even tell their friends how amazing it is. So sad.
 

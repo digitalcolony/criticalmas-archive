@@ -9,13 +9,19 @@ description: "Yeah, I said I was going away for good in March, but I'm back. I a
 commentCount: 11
 ---
 
-Yeah, I said I was going away for good in March, but I'm back. I am not committing to regular blogging. If something of interest strikes me and I want to share, I'll publish something. That might mean days, weeks, or months between posts. I like how GettingStronger.org and 180DegreeHealth both remain active, even though at times months can pass with no new posts. Then all of sudden, a new post appears. I think that model will give this blog more flexibility. Now I'll bring you up to date on what I've been doing the last few months.
+Yeah, I said I was going away for good in March, but I'm back. I am not committing to regular blogging. If something of interest strikes me and I want to share, I'll publish something. That might mean days, weeks, or months between posts.
+
+I like how GettingStronger.org and 180DegreeHealth both remain active, even though at times months can pass with no new posts. Then all of sudden, a new post appears. I think that model will give this blog more flexibility.
+
+Now I'll bring you up to date on what I've been doing the last few months.
 
 
 #### Speed and Traffic
 
 
-All my websites are much faster now, especially outside of North America. Even though it has been months since you saw anything new on this site, I've been tweaking the performance. I have a CDN (Content Delivery Network) for the site now, which means parts of this site load from servers closest to the reader. The result is my traffic never went down. It actually went up slightly. Pages should load much faster in Europe and Asia now.
+All my websites are much faster now, especially outside of North America. Even though it has been months since you saw anything new on this site, I've been tweaking the performance. I have a CDN (Content Delivery Network) for the site now, which means parts of this site load from servers closest to the reader.
+
+The result is my traffic never went down. It actually went up slightly. Pages should load much faster in Europe and Asia now.
 
 
 #### Medium
@@ -44,7 +50,11 @@ I've done really well in the past few months. I'll save that story for my next p
 #### Going Forward
 
 
-I know a lot of readers come here for fitness posts. I think that topic has been well covered and I don't think there will be many more posts on fitness. Beyond staying safe and staying interested, is there really more to say? I am still interested in Nutrition but I also have [concerns](/2017/03/stepping-aside-nutritional-blogging/) about posting things health-related, so I will do my best to discuss this topic in an honest and transparent way. ![](./img/seattle-awesome-3.jpg)
+I know a lot of readers come here for fitness posts. I think that topic has been well covered and I don't think there will be many more posts on fitness. Beyond staying safe and staying interested, is there really more to say?
+
+I am still interested in Nutrition but I also have [concerns](/2017/03/stepping-aside-nutritional-blogging/) about posting things health-related, so I will do my best to discuss this topic in an honest and transparent way.
+
+![](./img/seattle-awesome-3.jpg)
 
 ---
 

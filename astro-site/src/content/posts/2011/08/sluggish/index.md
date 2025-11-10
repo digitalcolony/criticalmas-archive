@@ -9,7 +9,13 @@ description: "I haven't posted much this week, because I'm feeling really sluggi
 commentCount: 13
 ---
 
-I haven't posted much this week, because I'm feeling really sluggish. I've dropped my daily coffee intake to a single espresso (double ristretto). That might not seem extreme to some, but I live in Seattle and [INeedCoffee](https://ineedcoffee.com)! Today is Day 5 of just 1 espresso. Below is a chart of my coffee intake going back to March 24th. For fun I added a 3 Day Moving Average. ![](./img/daily_coffee__3_day_moving_average.png "daily_coffee__3_day_moving_average") In other news, I messed up on my [30 Day No Dairy Experiment](/2011/08/hunting-headaches-take-3/). I bought some dark chocolate on sale, and I didn't realize until a week later that one of the bars had milk fat. Then Sunday I was out with friends and I ordered a gyro salad without thinking that it had feta cheese on it. So I had to restart the clock on that experiment too. Today is also day 5 with no dairy. No dairy and low caffeine, besides making me sluggish, is giving me sugar cravings. I've made [almond butter cookies](/2022/03/grain-free-and-dairy-free-almond-butter-cookies-recipe/) three times this week.
+I haven't posted much this week, because I'm feeling really sluggish. I've dropped my daily coffee intake to a single espresso (double ristretto). That might not seem extreme to some, but I live in Seattle and [INeedCoffee](https://ineedcoffee.com)! Today is Day 5 of just 1 espresso. Below is a chart of my coffee intake going back to March 24th. For fun I added a 3 Day Moving Average.
+
+![](./img/daily_coffee__3_day_moving_average.png "daily_coffee__3_day_moving_average")
+
+In other news, I messed up on my [30 Day No Dairy Experiment](/2011/08/hunting-headaches-take-3/). I bought some dark chocolate on sale, and I didn't realize until a week later that one of the bars had milk fat. Then Sunday I was out with friends and I ordered a gyro salad without thinking that it had feta cheese on it. So I had to restart the clock on that experiment too. Today is also day 5 with no dairy.
+
+No dairy and low caffeine, besides making me sluggish, is giving me sugar cravings. I've made [almond butter cookies](/2022/03/grain-free-and-dairy-free-almond-butter-cookies-recipe/) three times this week.
 
 ---
 

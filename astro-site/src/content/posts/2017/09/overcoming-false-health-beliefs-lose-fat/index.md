@@ -8,7 +8,17 @@ description: "Before I go into my recent fat loss success, I want to go back 9 y
 commentCount: 3
 ---
 
-Before I go into my recent fat loss success, I want to go back 9 years ago to the post [I Don’t Want To Ride A Donkey Down The Grand Canyon!](/2008/08/i-dont-want-to-ride-a-donkey-down-the-grand-canyon/) It is a short post and the details aren't that important, but the mindset belief I was holding back then is instructive. In 2008, my weight dropped to 200 pounds after being weight stable at 208-212 for years. Even though I was losing fat via a significant change in my diet, at the time I interpreted that loss alarmingly. I feared I might be losing muscle. Why did I view my fat loss with concern and not with celebration? I had conflicting health goals. I wanted muscle and size, but I also wanted to eat healthier. Longtime readers will recall that my initial motivation was to not get sick from colds and I decided to seek out "superfoods" to accomplish that goal. Turns out that home cooking a bunch of nutritious foods and eating out less has the effect of reducing calories and causing fat loss. Did I lose muscle? No. In fact, once I dropped a few more pounds of fat, I discovered the muscles I spent that previous 10 years building were now more visible. Once that clicked inside my head, I embraced getting leaner and proceeded to get into the best shape of my life. However, when I think back to the 1999-2008 era, I wanted to be BOTH muscular and lean. I had photos of Evander Holyfield and Laird Hamilton in my home gym. Whenever I consciously decided to lean out during that period, it never lasted for long, because I deeply believed I needed to gain more muscle and weight. At almost every meal, I'd eat a little more. It was something I didn't think about. It had become instinct. I could have spent nearly a decade with an amazing physique, but a false belief held me back.
+Before I go into my recent fat loss success, I want to go back 9 years ago to the post [I Don’t Want To Ride A Donkey Down The Grand Canyon!](/2008/08/i-dont-want-to-ride-a-donkey-down-the-grand-canyon/) It is a short post and the details aren't that important, but the mindset belief I was holding back then is instructive.
+
+In 2008, my weight dropped to 200 pounds after being weight stable at 208-212 for years. Even though I was losing fat via a significant change in my diet, at the time I interpreted that loss alarmingly. I feared I might be losing muscle.
+
+Why did I view my fat loss with concern and not with celebration? I had conflicting health goals. I wanted muscle and size, but I also wanted to eat healthier. Longtime readers will recall that my initial motivation was to not get sick from colds and I decided to seek out "superfoods" to accomplish that goal. Turns out that home cooking a bunch of nutritious foods and eating out less has the effect of reducing calories and causing fat loss.
+
+Did I lose muscle? No. In fact, once I dropped a few more pounds of fat, I discovered the muscles I spent that previous 10 years building were now more visible. Once that clicked inside my head, I embraced getting leaner and proceeded to get into the best shape of my life.
+
+However, when I think back to the 1999-2008 era, I wanted to be BOTH muscular and lean. I had photos of Evander Holyfield and Laird Hamilton in my home gym. Whenever I consciously decided to lean out during that period, it never lasted for long, because I deeply believed I needed to gain more muscle and weight. At almost every meal, I'd eat a little more. It was something I didn't think about. It had become instinct.
+
+I could have spent nearly a decade with an amazing physique, but a false belief held me back.
 
 
 ### Rejecting the Delicate Metabolism Theme
@@ -20,23 +30,41 @@ Fast forward to the present. In the post [Mostly Weight Stable Regardless of Di
 -   2008-2012: Avg 195 (diet was Paleo/ WAPF with IF)
 -   2013-2017: Avg 222 estimate (+/- 5 pounds) (diet was WAPF + Ray Peat with very little IF)
 
-It was a knee injury in 2013 that triggered my weight gain, but it was this belief I had that caloric restriction would wreck my metabolism and probably result in more weight gain that kept me at the higher weight. My understanding of metabolism turned out to be another false belief. I touched on how I lost faith in Matt Stone's view of metabolism in the post [Directionally Accurate and Metabolic Unicorns](/2017/08/directionally-accurate-metabolic-unicorns/). I still agree with him on a number of issues but his _Metabolic Zone_ post which I discussed in the post [Is There a Metabolic Unicorn?](/2017/02/is-there-a-metabolic-unicorn/) was so incredulous it forced me to revisit the topic again.
+It was a knee injury in 2013 that triggered my weight gain, but it was this belief I had that caloric restriction would wreck my metabolism and probably result in more weight gain that kept me at the higher weight.
+
+My understanding of metabolism turned out to be another false belief. I touched on how I lost faith in Matt Stone's view of metabolism in the post [Directionally Accurate and Metabolic Unicorns](/2017/08/directionally-accurate-metabolic-unicorns/). I still agree with him on a number of issues but his _Metabolic Zone_ post which I discussed in the post [Is There a Metabolic Unicorn?](/2017/02/is-there-a-metabolic-unicorn/) was so incredulous it forced me to revisit the topic again.
 
 
 ### New View of Metabolism
 
 
-Yes, metabolism drops when we diet. The primary reason is a lower body weight reduces our energy needs. In short, this means that I need fewer calories at 200 than I did at 222. The reduction in energy needs is mostly explained by the reduction in weight. However, the body becomes more efficient when we diet, so our metabolism is a little bit lower at the same weight than the person that never dieted. For a detailed explanation of that process listen to [SNR #65: Lyle McDonald – Fat Loss Adaptations, Water Retention & Leptin](http://sigmanutrition.com/episode65/). How do we prevent or minimize the odds that we regain weight at this lower metabolic rate? The key here might be increasing NEAT, which I covered in the post [The Role of Exercise in Preventing Weight Regain](/2017/03/exercise-weight-regain/). I shared my NEAT experience in the post [The Power of 10,000 Steps a Day in Charts](/2017/08/power-10000-steps-day-charts/). ![](./img/avg-steps-per-day-draw.png) Two other articles that helped remold my view of metabolism: [True or False? Losing Your Weight Slowly Will Yield Better (Long-Term) Results Than Rapid Weight Loss - Another Common Weight Loss Myth Debunked by Science?!](http://suppversity.blogspot.de/2015/08/true-or-false-losing-your-weight-slowly.html) - The article shatters the myth that losing weight quickly will lead to a higher probability of weight regain. If you believe - like I did for years - that one needed to lose weight very slowly to prevent metabolic damage, constructing a diet that SLOWLY drops weight is difficult and hard to stay motivated on. I liked this quote from the article:
+Yes, metabolism drops when we diet. The primary reason is a lower body weight reduces our energy needs. In short, this means that I need fewer calories at 200 than I did at 222. The reduction in energy needs is mostly explained by the reduction in weight. However, the body becomes more efficient when we diet, so our metabolism is a little bit lower at the same weight than the person that never dieted.
+
+For a detailed explanation of that process listen to [SNR #65: Lyle McDonald – Fat Loss Adaptations, Water Retention & Leptin](http://sigmanutrition.com/episode65/).
+
+How do we prevent or minimize the odds that we regain weight at this lower metabolic rate? The key here might be increasing NEAT, which I covered in the post [The Role of Exercise in Preventing Weight Regain](/2017/03/exercise-weight-regain/). I shared my NEAT experience in the post [The Power of 10,000 Steps a Day in Charts](/2017/08/power-10000-steps-day-charts/).
+
+![](./img/avg-steps-per-day-draw.png)
+
+Two other articles that helped remold my view of metabolism:
+
+[True or False? Losing Your Weight Slowly Will Yield Better (Long-Term) Results Than Rapid Weight Loss - Another Common Weight Loss Myth Debunked by Science?!](http://suppversity.blogspot.de/2015/08/true-or-false-losing-your-weight-slowly.html) - The article shatters the myth that losing weight quickly will lead to a higher probability of weight regain. If you believe - like I did for years - that one needed to lose weight very slowly to prevent metabolic damage, constructing a diet that SLOWLY drops weight is difficult and hard to stay motivated on. I liked this quote from the article:
 
 > ...the rapid weight loss success on very low calorie diets is, as Martin et al. rightly point out, "presumably intrinsically rewarding and builds self-efficacy because behaviour change is proximally associated with a large and meaningful reward" (Martin. 2014).
 
-[Is Metabolic Adaptation Real? Study 1 of ?](http://carbsanity.blogspot.com/2016/11/is-metabolic-adaptation-real-study-1-of.html) is by CarbSane and tackles the narrative that regaining weight is an inevitable outcome from dieting. Finally, I want to mention that I saw a slide from a recent health presentation that showed that if one is able to keep off weight for one year after dieting that the base metabolic rises to almost the same metabolic rate one would have if they had never gained and dieted. Once all my metabolic concerns were addressed, I designed my diet, followed it, and dropped 24 pounds. All since the middle of March.
+[Is Metabolic Adaptation Real? Study 1 of ?](http://carbsanity.blogspot.com/2016/11/is-metabolic-adaptation-real-study-1-of.html) is by CarbSane and tackles the narrative that regaining weight is an inevitable outcome from dieting.
+
+Finally, I want to mention that I saw a slide from a recent health presentation that showed that if one is able to keep off weight for one year after dieting that the base metabolic rises to almost the same metabolic rate one would have if they had never gained and dieted.
+
+Once all my metabolic concerns were addressed, I designed my diet, followed it, and dropped 24 pounds. All since the middle of March.
 
 
 ### Last Words
 
 
-In this post, I mentioned two cases where false stories were preventing me from making health gains. First I stayed heavier because of a fear of losing muscle and then I stayed heavier because I feared I would damage my metabolism and gain back more weight. Once I knew that my metabolism would be fine at a lower weight and I knew that I didn't have to lose weight slowly, I looked into the main reason for regain. That seemed to be a resumption in old eating patterns and a reduction in NEAT. Solving the first required a new story (coming soon) and the second accountability via 10,000 steps a day.
+In this post, I mentioned two cases where false stories were preventing me from making health gains. First I stayed heavier because of a fear of losing muscle and then I stayed heavier because I feared I would damage my metabolism and gain back more weight.
+
+Once I knew that my metabolism would be fine at a lower weight and I knew that I didn't have to lose weight slowly, I looked into the main reason for regain. That seemed to be a resumption in old eating patterns and a reduction in NEAT. Solving the first required a new story (coming soon) and the second accountability via 10,000 steps a day.
 
 ---
 

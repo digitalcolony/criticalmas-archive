@@ -15,7 +15,9 @@ Due to my [headache struggles](/2011/08/hunting-headaches-take-3/) this summer, 
 2.  Dr. Doug McGuff (Body by Science)
 3.  John Little (Max Contraction Training, Body By Science)
 
-[De Vany](/2010/12/the-new-evolution-diet/) uses a 15-8-4 protocol when lifting weights. The 15 rep set is done using a lighter weight with the goal of exhausting the slow-twitch muscle fibers. I borrowed this idea. 15 is boring, so I dropped this number down to 10. From there, I increased the weight and did a _Super Slow_ (Body By Science) set. At the end of the set, instead of lowering the weight, I held a [Static Contraction](/2011/05/max-contraction-training/) for 10-20 more seconds. That idea is from John Little. The exercises performed:
+[De Vany](/2010/12/the-new-evolution-diet/) uses a 15-8-4 protocol when lifting weights. The 15 rep set is done using a lighter weight with the goal of exhausting the slow-twitch muscle fibers. I borrowed this idea. 15 is boring, so I dropped this number down to 10. From there, I increased the weight and did a _Super Slow_ (Body By Science) set. At the end of the set, instead of lowering the weight, I held a [Static Contraction](/2011/05/max-contraction-training/) for 10-20 more seconds. That idea is from John Little.
+
+The exercises performed:
 
 1.  Leg Press
 2.  Seated Row
@@ -23,7 +25,11 @@ Due to my [headache struggles](/2011/08/hunting-headaches-take-3/) this summer, 
 4.  Bicep Machine
 5.  Dips
 
-Each exercise was done to failure. I couldn't even complete the Dips. I was toast. I still am toast. I'll probably be toast tomorrow. ![gym](./img/gym.jpg) _[Photo](https://flic.kr/p/5CZUrS) by Martin Abegglen_
+Each exercise was done to failure. I couldn't even complete the Dips. I was toast. I still am toast. I'll probably be toast tomorrow.
+
+![gym](./img/gym.jpg)
+
+_[Photo](https://flic.kr/p/5CZUrS) by Martin Abegglen_
 
 ---
 

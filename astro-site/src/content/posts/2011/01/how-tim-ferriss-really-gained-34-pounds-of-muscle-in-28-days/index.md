@@ -9,7 +9,11 @@ description: "Although I plan to do a full review once I've finished reading the
 commentCount: 21
 ---
 
-Although I plan to do a full review once I've finished reading the 4-Hour Body, I have to stop and comment on the chapter _From Geek to Freak_. In this chapter author Tim Ferriss gained 34 pounds of muscle in 28 days. It is a trick and I'm going to tell you how he really did it. ![The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman](https://images-na.ssl-images-amazon.com/images/I/41cNfXkcF8L.jpg) _The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman by Timothy Ferriss_ Before I expose the trick, let me say that I believe everything Tim posted about having his measurements validated by the Human Performance Laboratory. I also agree that **his training and eating protocol are solid programs for gaining mass**. It's the expectation that bothers me. Gaining 34 pounds of muscle in a month is not even close to being a realistic goal. I wish it were.
+Although I plan to do a full review once I've finished reading the 4-Hour Body, I have to stop and comment on the chapter _From Geek to Freak_. In this chapter author Tim Ferriss gained 34 pounds of muscle in 28 days. It is a trick and I'm going to tell you how he really did it.
+
+![The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman](https://images-na.ssl-images-amazon.com/images/I/41cNfXkcF8L.jpg) _The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman by Timothy Ferriss_
+
+Before I expose the trick, let me say that I believe everything Tim posted about having his measurements validated by the Human Performance Laboratory. I also agree that **his training and eating protocol are solid programs for gaining mass**. It's the expectation that bothers me. Gaining 34 pounds of muscle in a month is not even close to being a realistic goal. I wish it were.
 
 
 ### #1 The Easiest Way to Gain Muscle is to Regain Muscle
@@ -37,13 +41,21 @@ On page 154 Tim Ferriss wrote:
 
 > I have legally used low-dose anabolic steroids and other growth agents under medical supervision both before and after joint surgeries.
 
-Has he used **any other steroids**? Ever? Legal where? How long before? How long after? That sentence seems like an awkward way to end a path of questioning. I don't know if Tim Ferriss ever took anabolic steroids outside of his joint surgeries. The way that sentence was written makes me suspicious. Does anyone remember the original Body For Life contest back in 1997? A few of the male competitors made amazing transformations in 12 weeks. So much so that when pressed they confessed to prior steroid use. At the time I was living in Florida and I met a bodybuilder that was working on getting into the _Body For Life_ contest. He stopped taking steroids and stopped lifting weights. He was working on his _before_ photo. He knew that regaining his muscle would be no problem for the contest. How Tim gained muscle from high school to 1999 is the least relevant part of this story. I only bring it up because this is the part some people will focus on. Muscle is muscle regardless of how it is built.
+Has he used **any other steroids**? Ever? Legal where? How long before? How long after? That sentence seems like an awkward way to end a path of questioning. I don't know if Tim Ferriss ever took anabolic steroids outside of his joint surgeries. The way that sentence was written makes me suspicious.
+
+Does anyone remember the original Body For Life contest back in 1997? A few of the male competitors made amazing transformations in 12 weeks. So much so that when pressed they confessed to prior steroid use. At the time I was living in Florida and I met a bodybuilder that was working on getting into the _Body For Life_ contest. He stopped taking steroids and stopped lifting weights. He was working on his _before_ photo. He knew that regaining his muscle would be no problem for the contest.
+
+How Tim gained muscle from high school to 1999 is the least relevant part of this story. I only bring it up because this is the part some people will focus on. Muscle is muscle regardless of how it is built.
 
 
 ### #3 Lean Mass and Water
 
 
-Here is a secret that the supplement companies don't want you to know about. It has to do with how lean body mass is calculated. By super-hydrating, you will increase your lean mass. Brad Pilon exposed how this was done in a video last year. In a single workout, he was able to increase his lean mass by 8 pounds. The gain was all water, but since none of it was fat, it is counted as lean mass. Not lean muscle. Lean mass. This is one trick used to sell muscle-gaining supplements. _How I Gained 8 lbs of LEAN MASS From Just 1 Crazy Workout (JAN 2020: video no longer on YouTube)_ Let's review Tim's sentence about his hydration tricks again.
+Here is a secret that the supplement companies don't want you to know about. It has to do with how lean body mass is calculated. By super-hydrating, you will increase your lean mass. Brad Pilon exposed how this was done in a video last year. In a single workout, he was able to increase his lean mass by 8 pounds. The gain was all water, but since none of it was fat, it is counted as lean mass. Not lean muscle. Lean mass. This is one trick used to sell muscle-gaining supplements.
+
+_How I Gained 8 lbs of LEAN MASS From Just 1 Crazy Workout (JAN 2020: video no longer on YouTube)_
+
+Let's review Tim's sentence about his hydration tricks again.
 
 > Using dehydration techniques commonly practiced by elite powerlifters and Olympic wrestlers, I lost 28 pounds in 18 hours, weighed in at 165 pounds, and then hyperhydrated back to 193 pounds.
 
@@ -53,7 +65,9 @@ Did he gain 28 pounds of lean mass in 18 hours? Yes, but it was all water.
 ### Putting it All Together
 
 
-Tim's weight in his own words went from 152 to 193 back down to 146. He then _gained_ 34 pounds of muscle in 4 weeks. No, he didn't. He regained it using some combination of lost muscle from previous gains and hydration. One summer I had my left leg in a cast. I lost a lot of muscle, but once the cast came off I made miraculous muscle gains. There was no miracle. It was just my leg returning to where it left off before the cast. Tim's experiment was a grand version of the same thing. I'm not a hater. I am a fan of Tim Ferriss. He is the brother I wish I had, however, this chapter is a hoax. Gaining muscle takes time and effort. Once you get past your beginner gains, it can be a slow process. Don't be fooled by ridiculous claims. It is usually someone trying to profit from your desire to take a shortcut.
+Tim's weight in his own words went from 152 to 193 back down to 146. He then _gained_ 34 pounds of muscle in 4 weeks. No, he didn't. He regained it using some combination of lost muscle from previous gains and hydration. One summer I had my left leg in a cast. I lost a lot of muscle, but once the cast came off I made miraculous muscle gains. There was no miracle. It was just my leg returning to where it left off before the cast. Tim's experiment was a grand version of the same thing.
+
+I'm not a hater. I am a fan of Tim Ferriss. He is the brother I wish I had, however, this chapter is a hoax. Gaining muscle takes time and effort. Once you get past your beginner gains, it can be a slow process. Don't be fooled by ridiculous claims. It is usually someone trying to profit from your desire to take a shortcut.
 
 ---
 

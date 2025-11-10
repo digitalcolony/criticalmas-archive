@@ -9,13 +9,21 @@ description: "A little over two years ago I became interested in metabolism. In 
 commentCount: 20
 ---
 
-A little over two years ago I became interested in metabolism. In the post [Diet Recovery 2 and the “Turn Up the Heat” Experiment](/2013/03/diet-recovery-2-and-the-turn-up-the-heat-experiment/) I explained my thinking at the time. Back then I was not a believer that a higher body temperature would benefit my health or that it was even possible. But I kept an open mind and began an experiment. Using the ideas from Matt Stone's books _Diet Recovery 2_ and _Eat For Heat_, I was able to increase my body temperature from 97.0 F to 98.5 F. Now that I've had and maintained this gain for over a year, I want to share my thoughts on this experiment. ![Eat for Heat: The Metabolic Approach to Food and Drink](https://images-na.ssl-images-amazon.com/images/I/51mEYxblm0L.jpg) _Eat for Heat: The Metabolic Approach to Food and Drink by Matt Stone_
+A little over two years ago I became interested in metabolism. In the post [Diet Recovery 2 and the “Turn Up the Heat” Experiment](/2013/03/diet-recovery-2-and-the-turn-up-the-heat-experiment/) I explained my thinking at the time. Back then I was not a believer that a higher body temperature would benefit my health or that it was even possible. But I kept an open mind and began an experiment.
+
+Using the ideas from Matt Stone's books _Diet Recovery 2_ and _Eat For Heat_, I was able to increase my body temperature from 97.0 F to 98.5 F. Now that I've had and maintained this gain for over a year, I want to share my thoughts on this experiment.
+
+![Eat for Heat: The Metabolic Approach to Food and Drink](https://images-na.ssl-images-amazon.com/images/I/51mEYxblm0L.jpg) _Eat for Heat: The Metabolic Approach to Food and Drink by Matt Stone_
 
 
 ### Are Higher Temps Better?
 
 
-Before I get into the how, allow me to cover the why. I was skeptical that a warmer temperature would mean much, but I feel calmer. My sleep is deeper. My fingers and toes which used to always be cold rarely are anymore. I did gain weight during this period, but not much. Maybe 10-20 pounds, which isn't a lot given my height (6'3 or 189 cm). And although a warmer body temperature should be better for one's immune system, I got sick more frequently last year. But who knows if I would have been worse off with a lower-body temp. This experiment has made me a believer that increasing one's body temperature is beneficial. Better sleep and warm fingers sold me.
+Before I get into the how, allow me to cover the why. I was skeptical that a warmer temperature would mean much, but I feel calmer. My sleep is deeper. My fingers and toes which used to always be cold rarely are anymore.
+
+I did gain weight during this period, but not much. Maybe 10-20 pounds, which isn't a lot given my height (6'3 or 189 cm). And although a warmer body temperature should be better for one's immune system, I got sick more frequently last year. But who knows if I would have been worse off with a lower-body temp.
+
+This experiment has made me a believer that increasing one's body temperature is beneficial. Better sleep and warm fingers sold me.
 
 
 ### What I Believe Worked For Me
@@ -32,13 +40,19 @@ I tried several things and now that enough time has passed I can reflect on what
 7.  Detaching from the outcome. After the first month when I saw no benefit, I stopped daily tracking, but I kept doing the experiment. Then when I took measurements at greater intervals I saw the progress. 97.0 --> 97.5  --> 97.9 --> 98.1 --> 98.4 --> 98.5 F
 8.  Less fasting.
 
-I never did get in the habit of eating carbs upon waking. I suspect it would have been beneficial, but given that I prefer to eat right before sleep, it wasn't the best strategy for me. ![seattle-sleep](./img/seattle-sleep.jpg)
+I never did get in the habit of eating carbs upon waking. I suspect it would have been beneficial, but given that I prefer to eat right before sleep, it wasn't the best strategy for me.
+
+![seattle-sleep](./img/seattle-sleep.jpg)
 
 
 ### Cause and Effect?
 
 
-Did my higher body temp help me sleep better or did better sleep habits increase body temp? Did calmness increase the body temp or the other way around? No idea. There are a lot of variables at play here, so I hesitate to tell anyone to follow a simple recipe and they will get the same result as me. I've done a lot of health experiments that turned out to be quite silly. Not this one. I do believe that my higher body temperature has been beneficial. UPDATE July 2022: [Seed Oils, Blood Donations, and Body Temperature](/2022/07/seed-oils-blood-donations-and-body-temperature/)
+Did my higher body temp help me sleep better or did better sleep habits increase body temp? Did calmness increase the body temp or the other way around? No idea. There are a lot of variables at play here, so I hesitate to tell anyone to follow a simple recipe and they will get the same result as me.
+
+I've done a lot of health experiments that turned out to be quite silly. Not this one. I do believe that my higher body temperature has been beneficial.
+
+UPDATE July 2022: [Seed Oils, Blood Donations, and Body Temperature](/2022/07/seed-oils-blood-donations-and-body-temperature/)
 
 ---
 

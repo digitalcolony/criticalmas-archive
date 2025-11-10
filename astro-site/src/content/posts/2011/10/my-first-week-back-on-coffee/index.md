@@ -9,17 +9,27 @@ description: "In the post What I Learned During My Coffee Detox, I covered the r
 commentCount: 3
 ---
 
-In the post [What I Learned During My Coffee Detox](/2011/09/what-i-learned-during-my-coffee-detox/), I covered the results that I experienced by gradually lowering and eventually taking a full 2 weeks off from coffee. As informative as that test was, I have learned more about how my body reacts to coffee since I resumed espresso drinking just a week ago. The [comment by _Txomin_](/2011/09/what-i-learned-during-my-coffee-detox/#comment-9538) really resonated with me.
+In the post [What I Learned During My Coffee Detox](/2011/09/what-i-learned-during-my-coffee-detox/), I covered the results that I experienced by gradually lowering and eventually taking a full 2 weeks off from coffee. As informative as that test was, I have learned more about how my body reacts to coffee since I resumed espresso drinking just a week ago.
+
+The [comment by _Txomin_](/2011/09/what-i-learned-during-my-coffee-detox/#comment-9538) really resonated with me.
 
 > A 30 day experimental window might be sufficient for foodstuffs. It is definitely insufficient for addictive substances.
 
-Although my total caffeine detox project exceeded 30 days, the full coffee detox was just 14 days. During that time, I still getting some caffeine from tea and dark chocolate. Because I was doing 30 day food allergy tests at the same time, I applied the same principle to coffee. That was wrong. **Food allergy tests are used to measure adverse responses to protein. Coffee is not a protein. It is an addictive substance.** I think _Txomin_ is correct and that 30 days is likely insufficient. My first week back on espresso was highly educational for me. Here is what I learned.
+Although my total caffeine detox project exceeded 30 days, the full coffee detox was just 14 days. During that time, I still getting some caffeine from tea and dark chocolate. Because I was doing 30 day food allergy tests at the same time, I applied the same principle to coffee. That was wrong. **Food allergy tests are used to measure adverse responses to protein. Coffee is not a protein. It is an addictive substance.** I think _Txomin_ is correct and that 30 days is likely insufficient.
+
+My first week back on espresso was highly educational for me. Here is what I learned.
 
 
 ### Taste Surprise
 
 
-I fully expected the first espresso I had would taste amazing. It didn't. Nor did the 2nd, 3rd or 4th espresso. It was a let down. I was hoping that the 2 weeks off would have reset my palate. Either the espresso in Seattle just had an off week or I needed a longer detox. Maybe both combined with elevated expectations? I did talk with a top barista who told me he routinely will take a month off from coffee to reset his palate. 14 days was probably not long enough. ![](http://farm7.static.flickr.com/6175/6179755430_2d81962731.jpg "Milstead espresso") _My first cafe espresso after the detox was "OK"._
+I fully expected the first espresso I had would taste amazing. It didn't. Nor did the 2nd, 3rd or 4th espresso. It was a let down. I was hoping that the 2 weeks off would have reset my palate. Either the espresso in Seattle just had an off week or I needed a longer detox. Maybe both combined with elevated expectations?
+
+I did talk with a top barista who told me he routinely will take a month off from coffee to reset his palate. 14 days was probably not long enough.
+
+![](http://farm7.static.flickr.com/6175/6179755430_2d81962731.jpg "Milstead espresso")
+
+_My first cafe espresso after the detox was "OK"._
 
 
 ### The Napping Link

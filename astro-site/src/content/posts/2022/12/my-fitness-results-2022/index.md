@@ -9,13 +9,27 @@ description: "In March, I posted My 2022 Fitness Plan. How well did I stick to t
 commentCount: 11
 ---
 
-In March, I posted [My 2022 Fitness Plan](/2022/03/my-2022-fitness-plan/). How well did I stick to the plan? Mostly pretty well, but I had an injury that slowed my progress. I did return to the gym and most weeks I went 3 times, which was the plan. I focused on exercises for taller lifters (goblet squats and incline DB presses) as well as some classic HIT machine work (super slow and static holds). My recovery continues to get worse every year, so I'm reducing intensity and volume below what I want. I failed this year on Zone 2 cardio. I'm only doing exercises in my gym where I can nasal breathe. And although most of the year I walked 10,000 steps a day outdoors, I would consider that to be less than Zone 2 requirements. I continued doing a yoga workout every single morning. I also substituted pilates and stretching routines some of the time. I started with Amazon Prime courses and then moved on to YouTube. My flexibility, mobility, and posture have all improved this year. I only wish I had started this daily practice 20 years ago.
+In March, I posted [My 2022 Fitness Plan](/2022/03/my-2022-fitness-plan/). How well did I stick to the plan? Mostly pretty well, but I had an injury that slowed my progress.
+
+I did return to the gym and most weeks I went 3 times, which was the plan. I focused on exercises for taller lifters (goblet squats and incline DB presses) as well as some classic HIT machine work (super slow and static holds). My recovery continues to get worse every year, so I'm reducing intensity and volume below what I want.
+
+I failed this year on Zone 2 cardio. I'm only doing exercises in my gym where I can nasal breathe. And although most of the year I walked 10,000 steps a day outdoors, I would consider that to be less than Zone 2 requirements.
+
+I continued doing a yoga workout every single morning. I also substituted pilates and stretching routines some of the time. I started with Amazon Prime courses and then moved on to YouTube. My flexibility, mobility, and posture have all improved this year. I only wish I had started this daily practice 20 years ago.
 
 
 ### Injury of the Year
 
 
-My injury this year was "turf toe", which I got from doing a yoga toe stretch. It is the pose where you are sitting back on your glutes, which are resting on your heels. This stretches the toes. ![](./img/toe-stretch-turf-toe.jpg) I did a routine where this stretch was held for about 40 seconds. If you are a 100-pound pixie yoga girl, that is probably fine. If you are a 6' 2+ dude weighing 180, maybe 40 seconds is too much for a beginner? I then made the injury worse by misdiagnosing it for a few weeks, and straining the toes further. Eventually, I bought some pricey carbon fiber insoles for my shoes to prevent the toe from bending. And almost two months later, I was healed. During this period, my step count dropped to under 4,000 a day. I worked around the injury as well as I could at the gym.
+My injury this year was "turf toe", which I got from doing a yoga toe stretch. It is the pose where you are sitting back on your glutes, which are resting on your heels. This stretches the toes.
+
+![](./img/toe-stretch-turf-toe.jpg)
+
+I did a routine where this stretch was held for about 40 seconds. If you are a 100-pound pixie yoga girl, that is probably fine. If you are a 6' 2+ dude weighing 180, maybe 40 seconds is too much for a beginner?
+
+I then made the injury worse by misdiagnosing it for a few weeks, and straining the toes further. Eventually, I bought some pricey carbon fiber insoles for my shoes to prevent the toe from bending. And almost two months later, I was healed.
+
+During this period, my step count dropped to under 4,000 a day. I worked around the injury as well as I could at the gym.
 
 
 ### My Rapamycin Experiment
@@ -25,13 +39,27 @@ I mentioned this May 2021 injury in a [recent post](/2022/11/approaching-weight-
 
 > I had the opportunity to try and kick a field goal after a fancy dinner held on Century Field, which is where the Seattle Seahawks play. Although I made the field goal, I got a high hamstring tear. It still isn’t fully healed.
 
-After hearing Dr. Matt Kaeberlein on [Stem Talk #139](https://www.ihmc.us/stemtalk/episode-139/) and [Tim Ferriss #610](https://tim.blog/2022/07/27/matt-kaeberlein-life-extension/), I decided to try Rapamycin to see if it would help clear up the inflammation from my hamstring injury. I was out of ideas and since I am near the same age as Kaeberlein and he was able to clear his injury with Rapamycin; I had to try it. I used a 10 mg dose once a week, which was the same dose Kaeberlein used. I did this for about 3 months. During this time, I felt no improvement in my hamstring. The only thing I noticed was I needed to shave daily (instead of on alternate days) and my fingernails were growing faster. I stopped the cycle and my "turf toe" injury got better quickly and my shaving schedule went back to alternate days. I did read a Reddit post where someone suspected their injury was slower to heal with Rapamycin. Rapamycin may be amazing for longevity, but it failed to help me with my issue of concern. I don't know if my right hamstring will ever be 100%.
+After hearing Dr. Matt Kaeberlein on [Stem Talk #139](https://www.ihmc.us/stemtalk/episode-139/) and [Tim Ferriss #610](https://tim.blog/2022/07/27/matt-kaeberlein-life-extension/), I decided to try Rapamycin to see if it would help clear up the inflammation from my hamstring injury. I was out of ideas and since I am near the same age as Kaeberlein and he was able to clear his injury with Rapamycin; I had to try it.
+
+I used a 10 mg dose once a week, which was the same dose Kaeberlein used. I did this for about 3 months. During this time, I felt no improvement in my hamstring. The only thing I noticed was I needed to shave daily (instead of on alternate days) and my fingernails were growing faster. I stopped the cycle and my "turf toe" injury got better quickly and my shaving schedule went back to alternate days. I did read a Reddit post where someone suspected their injury was slower to heal with Rapamycin.
+
+Rapamycin may be amazing for longevity, but it failed to help me with my issue of concern. I don't know if my right hamstring will ever be 100%.
 
 
 ### 2022 Lessons
 
 
-I tried a massage gun to help with muscle tightness. Even at the lowest setting for a minimal time, it produced soreness and no relief. After a few weeks of experimenting, I sold my Theragun at a small loss. [I fixed my numb feet and toes via calf stretching.](/2022/12/another-solution-for-numb-feet-and-toes/) Although my flexibility and mobility have gotten much better, yoga has taught me that my balance needs a lot of work. That will be a focus in 2023. If you have any tips or resources on balance improvement, please drop a comment. If I'm going to do cardio, I need to find something that interests me that I can do outside. I was stumped for ideas until I heard [Peter Attia #225](https://peterattiamd.com/michaeleaster/). In that show, they discussed rucking. Of course! This will be perfect for me since I already walk a lot and I'm not interested in running at this time. I rucked in the military. Cardio with core strength and no pounding on the knees. I'll start rucking in early 2023 with a backpack and some books. I believe in earning your gear, so I won't consider buying a dedicated ruck until I build a habit with what I already own. I continued [daily cold showers](/2022/04/cold-showers-do-get-easier/). Another year has passed and I continue to be lean and weight stable at 180. Effortless. The [potato hack](https://potatohack.com/) was a brilliant teacher.
+I tried a massage gun to help with muscle tightness. Even at the lowest setting for a minimal time, it produced soreness and no relief. After a few weeks of experimenting, I sold my Theragun at a small loss.
+
+[I fixed my numb feet and toes via calf stretching.](/2022/12/another-solution-for-numb-feet-and-toes/)
+
+Although my flexibility and mobility have gotten much better, yoga has taught me that my balance needs a lot of work. That will be a focus in 2023. If you have any tips or resources on balance improvement, please drop a comment.
+
+If I'm going to do cardio, I need to find something that interests me that I can do outside. I was stumped for ideas until I heard [Peter Attia #225](https://peterattiamd.com/michaeleaster/). In that show, they discussed rucking. Of course! This will be perfect for me since I already walk a lot and I'm not interested in running at this time. I rucked in the military. Cardio with core strength and no pounding on the knees. I'll start rucking in early 2023 with a backpack and some books. I believe in earning your gear, so I won't consider buying a dedicated ruck until I build a habit with what I already own.
+
+I continued [daily cold showers](/2022/04/cold-showers-do-get-easier/).
+
+Another year has passed and I continue to be lean and weight stable at 180. Effortless. The [potato hack](https://potatohack.com/) was a brilliant teacher.
 
 ---
 

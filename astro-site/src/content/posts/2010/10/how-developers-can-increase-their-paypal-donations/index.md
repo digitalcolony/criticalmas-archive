@@ -9,7 +9,15 @@ description: "In the last year, I have donated money to four developers via PayP
 commentCount: 5
 ---
 
-In the last year, I have donated money to four developers via PayPal. Their code was of benefit to me and they had established a relationship with PayPal. Putting a few bucks in their tin was easy for me to do. Of the four developers, one did something that I deeply appreciated. **He thanked me.** When we are out in public and we give money to tip jars or the open guitar case of a street musician, we get thanked either verbally or with a smiling nod. This is polite behavior. If developers wish to increase their PayPal donations, I highly recommend thanking the people who voluntarily give you money. A simple thank you email takes no more than 30 seconds, but it lets that person know your appreciation. Earlier this year, I added a PayPal donation setup on my coding site. Of all my sites it is one where a donation system seems the most appropriate. Developers can cut and paste my code into their projects and bill their clients or employers. If they deem the code helpful, I wanted a way for them to tip me. I've received 4 donations and I've sent each one a quick _thank you_ email. My email _thank yous_ probably won't increase the number of donations I get, but it may make that person feel better about donating to another developer. And you might be that developer. So I encourage all developers that accept PayPal donations to say **_thank you_**.
+In the last year, I have donated money to four developers via PayPal. Their code was of benefit to me and they had established a relationship with PayPal. Putting a few bucks in their tin was easy for me to do. Of the four developers, one did something that I deeply appreciated. **He thanked me.**
+
+When we are out in public and we give money to tip jars or the open guitar case of a street musician, we get thanked either verbally or with a smiling nod. This is polite behavior. If developers wish to increase their PayPal donations, I highly recommend thanking the people who voluntarily give you money. A simple thank you email takes no more than 30 seconds, but it lets that person know your appreciation.
+
+Earlier this year, I added a PayPal donation setup on my coding site. Of all my sites it is one where a donation system seems the most appropriate. Developers can cut and paste my code into their projects and bill their clients or employers. If they deem the code helpful, I wanted a way for them to tip me.
+
+I've received 4 donations and I've sent each one a quick _thank you_ email.
+
+My email _thank yous_ probably won't increase the number of donations I get, but it may make that person feel better about donating to another developer. And you might be that developer. So I encourage all developers that accept PayPal donations to say **_thank you_**.
 
 ---
 

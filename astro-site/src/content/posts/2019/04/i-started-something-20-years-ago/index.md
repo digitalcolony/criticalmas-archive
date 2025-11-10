@@ -9,7 +9,19 @@ description: "Today my coffee website INeedCoffee.com turns 20 years old. !ineed
 commentCount: 2
 ---
 
-Today my coffee website [INeedCoffee.com](https://ineedcoffee.com/) turns [20 years old](https://ineedcoffee.com/20-years-of-ineedcoffee/). ![ineedcoffee 20 comic](./img/ineedcoffee-20-comic.jpg) I don't know of another active independent coffee blog on the Internet that has lasted as long. There are two in Canada that are older, but neither are active (CoffeeKid and the other I forgot). Scott Adams has talked about the power of combining two unrelated skills. Pick two things that you aren't elite in, but with work, you can be in the top 25%. Where those two skills intersect, something of tremendous value can be created. I'm not the best web developer or the top coffee expert, but my knowledge in both those silos is in the top 25%. Now if you stack those two skills with the fact I never quit _(Duolingo streak is currently at 1209 days)_, you have a recipe for a coffee website that has been popular for two decades. What skills do you have and where do they intersect? Is there something interesting in that spot? If you have any ideas on how I can make INeedCoffee better (or this site), leave a comment. The next 20 years starts today. 😎
+Today my coffee website [INeedCoffee.com](https://ineedcoffee.com/) turns [20 years old](https://ineedcoffee.com/20-years-of-ineedcoffee/).
+
+![ineedcoffee 20 comic](./img/ineedcoffee-20-comic.jpg)
+
+I don't know of another active independent coffee blog on the Internet that has lasted as long. There are two in Canada that are older, but neither are active (CoffeeKid and the other I forgot).
+
+Scott Adams has talked about the power of combining two unrelated skills. Pick two things that you aren't elite in, but with work, you can be in the top 25%. Where those two skills intersect, something of tremendous value can be created. I'm not the best web developer or the top coffee expert, but my knowledge in both those silos is in the top 25%.
+
+Now if you stack those two skills with the fact I never quit _(Duolingo streak is currently at 1209 days)_, you have a recipe for a coffee website that has been popular for two decades.
+
+What skills do you have and where do they intersect? Is there something interesting in that spot?
+
+If you have any ideas on how I can make INeedCoffee better (or this site), leave a comment. The next 20 years starts today. 😎
 
 ---
 

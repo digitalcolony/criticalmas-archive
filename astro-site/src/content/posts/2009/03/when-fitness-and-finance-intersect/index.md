@@ -9,7 +9,17 @@ description: "Over the past month I've noticed my Glitter Gym has become less cr
 commentCount: 1
 ---
 
-Over the past month I've noticed my [_Glitter Gym_](/2006/02/glitter-and-rust/) has become less crowded. Each week I see less and less people. There are less members around in the mornings, late afternoons and even the weekend. Many of the people who go to my _Glitter Gym_ hire personal trainers. When times are tough, people cut back on their personal trainer time. That is why my gym is emptying out. I know a personal trainer in North Seattle that **lost half his billable hours this year**. This isn't some punk kid with a newly minted certification. He has years of experience and in normal times - a full client list. ![](http://farm1.static.flickr.com/146/346990046_de4bbeca6b.jpg "getting huge") _Photo [getting-huge](http://www.flickr.com/photos/ericmcgregor/346990046/) by Flickr user ericmcgregor._ One of the better trainers at my gym started doing high intensity 30 minute workouts for his clients. _Can't afford an hour? How about an extreme 30 minute workout? No talk. Lift and move. Go!_ The ironic thing is he will be taking a slight pay cut, but his clients will most likely do better under the budget option. Besides the fact these trainers are are losing a lot of billable income, the other sad part is these same clients that spent hundreds and even thousands learning from these trainers, aren't taking responsibility for their own fitness. As far as I can see, these people have stopped working out. They are gone. They never developed self motivation. From my post [My Thoughts on Hiring a Person Trainer](/2009/03/my-thoughts-on-hiring-a-personal-trainer/):
+Over the past month I've noticed my [_Glitter Gym_](/2006/02/glitter-and-rust/) has become less crowded. Each week I see less and less people. There are less members around in the mornings, late afternoons and even the weekend. Many of the people who go to my _Glitter Gym_ hire personal trainers. When times are tough, people cut back on their personal trainer time. That is why my gym is emptying out.
+
+I know a personal trainer in North Seattle that **lost half his billable hours this year**. This isn't some punk kid with a newly minted certification. He has years of experience and in normal times - a full client list.
+
+![](http://farm1.static.flickr.com/146/346990046_de4bbeca6b.jpg "getting huge")
+
+_Photo [getting-huge](http://www.flickr.com/photos/ericmcgregor/346990046/) by Flickr user ericmcgregor._
+
+One of the better trainers at my gym started doing high intensity 30 minute workouts for his clients. _Can't afford an hour? How about an extreme 30 minute workout? No talk. Lift and move. Go!_ The ironic thing is he will be taking a slight pay cut, but his clients will most likely do better under the budget option.
+
+Besides the fact these trainers are are losing a lot of billable income, the other sad part is these same clients that spent hundreds and even thousands learning from these trainers, aren't taking responsibility for their own fitness. As far as I can see, these people have stopped working out. They are gone. They never developed self motivation. From my post [My Thoughts on Hiring a Person Trainer](/2009/03/my-thoughts-on-hiring-a-personal-trainer/):
 
 > Motivation takes practice. Having a trainer push you, especially when you first start an exercise plan, can be very helpful. As one makes progress, self motivation should come easier. My advice is not to become completely dependent on a trainer for motivation. Push yourself. Just like any other exercise, it takes practice.
 

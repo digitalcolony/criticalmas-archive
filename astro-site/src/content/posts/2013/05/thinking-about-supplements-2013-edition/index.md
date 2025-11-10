@@ -9,13 +9,17 @@ description: "Last July I posted Thinking About Supplements - 2012 Edition. Alth
 commentCount: 30
 ---
 
-Last July I posted [Thinking About Supplements - 2012 Edition](/2012/07/thinking-about-supplements-2012-edition/). Although I still fancy myself as someone who is mostly anti-supplements, the evidence suggests otherwise. I do take supplements daily, but what I take changes over time. Someday I fully expect we will have [gadgets that alert us to every nutrient deficiency in real time](/2012/08/the-healthy-optimist/), but in the meantime we guess. I could spend hundreds of dollars on tests to get snapshots, but I'd rather direct that money on a nutrient-dense and diverse diet and then self-monitor as best as I can. The 2012 post explains why I don't like fish oil, multi-vitamins, or whey protein powder. Those views have not changed.
+Last July I posted [Thinking About Supplements - 2012 Edition](/2012/07/thinking-about-supplements-2012-edition/). Although I still fancy myself as someone who is mostly anti-supplements, the evidence suggests otherwise. I do take supplements daily, but what I take changes over time. Someday I fully expect we will have [gadgets that alert us to every nutrient deficiency in real time](/2012/08/the-healthy-optimist/), but in the meantime we guess. I could spend hundreds of dollars on tests to get snapshots, but I'd rather direct that money on a nutrient-dense and diverse diet and then self-monitor as best as I can.
+
+The 2012 post explains why I don't like fish oil, multi-vitamins, or whey protein powder. Those views have not changed.
 
 
 ### Supplements I Lost Faith in Last Year
 
 
-**5-HTP** - I was enamored with the brain supplements last year, especially L-Tyrosine. But I learned from Dr. Dan Kalish why L-Tyrosine needed to be balanced out with 5-HTP. See the post [Safe Uses of 5-HTP and L-Tyrosine](/2012/07/safe-use-of-5-htp-and-l-tyrosine/). The problem is that even at the lowest dose, my sleep quality was worse with 5-HTP. Not at first, but I have enough data to confirm that fact now. Without 5-HTP, I cut way back on L-Tyrosine and only use it on days when my caffeine levels are low and my mood is poor. I also became concerned that using 5-HTP might not be safe and using it to boost serotonin might be unwise. Here are some links to articles that question the conventional understanding of serotonin.
+**5-HTP** - I was enamored with the brain supplements last year, especially L-Tyrosine. But I learned from Dr. Dan Kalish why L-Tyrosine needed to be balanced out with 5-HTP. See the post [Safe Uses of 5-HTP and L-Tyrosine](/2012/07/safe-use-of-5-htp-and-l-tyrosine/). The problem is that even at the lowest dose, my sleep quality was worse with 5-HTP. Not at first, but I have enough data to confirm that fact now. Without 5-HTP, I cut way back on L-Tyrosine and only use it on days when my caffeine levels are low and my mood is poor.
+
+I also became concerned that using 5-HTP might not be safe and using it to boost serotonin might be unwise. Here are some links to articles that question the conventional understanding of serotonin.
 
 -   [Serotonin: The Misery Hormone](https://web.archive.org/web/20130804072113/http://www.dannyroddy.com/main/2011/12/12/serotonin-the-misery-hormone.html) by Danny Roddy
 -   [Serotonin, depression, and aggression: The problem of brain energy](http://raypeat.com/articles/articles/serotonin.shtml) by Dr. Ray Peat
@@ -27,13 +31,27 @@ Last July I posted [Thinking About Supplements - 2012 Edition](/2012/07/thinking
 ### Supplements I am Testing or Considering Testing
 
 
-**Pantothenic Acid (Vitamin B5)** - I started taking B5 after [Pauline](/2012/11/sarno-back-pain-and-coffee/#comment-15356) tipped me off that it could help with adrenals. Too soon to tell if it is helping, but it is cheap insurance. **Rhodiola (Rhodiola Rosea)** - I was taking this as a tea during my caffeine detox period, but I've found making the tea too inconvenient, so I am considering using the supplement version. Rhodiola is supposed to help with stress and muscle recovery. **MSM** - [Glenn](/2013/03/neck-and-shoulder-fixes-one-month-report/#comment-18815) tipped me off to this supplement for helping with tight shoulders. At a low dose, I felt nothing, but at a high dose, I think it is working. Since going from 1 capsule a day to 6-8 capsules, my shoulders are far less tight. At the time I upped the dose, I didn't try anything else new, so I'm going to keep using this supplement because it appears to be working. :) **Creatine Monohydrate** - I stopped taking creatine almost immediately after last year's post because I wanted to isolate all weight gains to the [ice cream experiment](/2013/03/ending-the-ice-cream-experiment/). Then I forgot all about it until last night when I listened to _SportsCoachRadio's_ podcast show _Creatine: All About The Go-To Sports Nutrition Supplement_ (DEC 2021: link broken). Now I understand the supplement more and will resume taking it. **Calcium-D-Glucarate** - Dave Asprey recently talked about this supplement in a podcast. I've never taken a calcium supplement because I figured I was getting plenty with my higher-than-average dairy intake. However, the problem with dairy is it can be high in estrogen  What is interesting about this article is that this form of calcium is it supposedly **removes excess estrogen** from the body. To what degree it does it better than other forms of calcium, I am not sure. Because it is cheap, I am considering taking it. ![Natrol Calcium D-glucarate 500 mg Tablets, 60-Count](https://images-na.ssl-images-amazon.com/images/I/41%2BHn2DXtPL.jpg)
+**Pantothenic Acid (Vitamin B5)** - I started taking B5 after [Pauline](/2012/11/sarno-back-pain-and-coffee/#comment-15356) tipped me off that it could help with adrenals. Too soon to tell if it is helping, but it is cheap insurance.
+
+**Rhodiola (Rhodiola Rosea)** - I was taking this as a tea during my caffeine detox period, but I've found making the tea too inconvenient, so I am considering using the supplement version. Rhodiola is supposed to help with stress and muscle recovery.
+
+**MSM** - [Glenn](/2013/03/neck-and-shoulder-fixes-one-month-report/#comment-18815) tipped me off to this supplement for helping with tight shoulders. At a low dose, I felt nothing, but at a high dose, I think it is working. Since going from 1 capsule a day to 6-8 capsules, my shoulders are far less tight. At the time I upped the dose, I didn't try anything else new, so I'm going to keep using this supplement because it appears to be working. :)
+
+**Creatine Monohydrate** - I stopped taking creatine almost immediately after last year's post because I wanted to isolate all weight gains to the [ice cream experiment](/2013/03/ending-the-ice-cream-experiment/). Then I forgot all about it until last night when I listened to _SportsCoachRadio's_ podcast show _Creatine: All About The Go-To Sports Nutrition Supplement_ (DEC 2021: link broken). Now I understand the supplement more and will resume taking it.
+
+**Calcium-D-Glucarate** - Dave Asprey recently talked about this supplement in a podcast. I've never taken a calcium supplement because I figured I was getting plenty with my higher-than-average dairy intake. However, the problem with dairy is it can be high in estrogen  What is interesting about this article is that this form of calcium is it supposedly **removes excess estrogen** from the body. To what degree it does it better than other forms of calcium, I am not sure. Because it is cheap, I am considering taking it.
+
+![Natrol Calcium D-glucarate 500 mg Tablets, 60-Count](https://images-na.ssl-images-amazon.com/images/I/41%2BHn2DXtPL.jpg)
 
 
 ### Supplements I Still Take
 
 
-Mostly the same from the [2012 Edition](/2012/07/thinking-about-supplements-2012-edition/), which included magnesium, copper, selenium, and Vitamin D3. I also still consume food supplements of gelatin powder and kelp tablets. I still think whey protein is a rip-off. You are better off eating ice cream or [dairy kefir](/2013/03/making-dairy-kefir-is-super-easy/). How about you? Any new supplements you like? Any you lost faith in?
+Mostly the same from the [2012 Edition](/2012/07/thinking-about-supplements-2012-edition/), which included magnesium, copper, selenium, and Vitamin D3. I also still consume food supplements of gelatin powder and kelp tablets.
+
+I still think whey protein is a rip-off. You are better off eating ice cream or [dairy kefir](/2013/03/making-dairy-kefir-is-super-easy/).
+
+How about you? Any new supplements you like? Any you lost faith in?
 
 ---
 

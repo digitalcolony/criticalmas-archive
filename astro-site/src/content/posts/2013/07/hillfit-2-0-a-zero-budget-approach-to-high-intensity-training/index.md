@@ -9,7 +9,17 @@ description: "In early 2011, I became a convert to High Intensity Training. Unli
 commentCount: 13
 ---
 
-In early 2011, I became a convert to High Intensity Training. Unlike traditional strength-building protocols, HIT focuses on using slow controlled movements, less volume, and higher intensity. Safety is a priority. Movements have a low-skill component, so they are ideal for lifters at all stages of their fitness journey. My introduction to HIT came from the book Body By Science and two workouts from legendary trainer [Greg Anderson](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) (RIP). As amazing as these resources were for me, they aren't going to be ideal for everyone. HIT gyms and HIT trainers are rare to find and can be costly. Even regular gyms can be expensive and inconvenient. And the book _Body By Science_ is still geared at someone with access to good equipment at a gym. What High Intensity Training needed was a cost-effective way to get people to benefit immediately with minimal expense. Enter Hillfit. In January 2012, I reviewed the first version of the 52-page e-book in the post [Hillfit: Strength is Not just For Hikers](/2012/01/hillfit-strength-is-not-just-for-hikers/). This book made the case that the best equipment you can bring to your sport, be it hiking or whatever, is stronger muscles. And using the principles of High Intensity Training, author Chris Highcock has developed a way to build strength at home safely - no gym required. ![Wall Sit](./img/WallsitSideview.png) _One of the exercises highlighted in Hillfit is the Wall Sit. (photo from [Wikipedia](https://en.wikipedia.org/wiki/Wall_sit))_ This year Hillfit was completely rewritten as Hillfit 2.0. The new e-book is now 121 pages and includes guest essays by several top fitness professionals including Bill DeSimone, Skyler Tanner, and James Steele II. Some of the highlights in this version that I liked include:
+In early 2011, I became a convert to High Intensity Training. Unlike traditional strength-building protocols, HIT focuses on using slow controlled movements, less volume, and higher intensity. Safety is a priority. Movements have a low-skill component, so they are ideal for lifters at all stages of their fitness journey.
+
+My introduction to HIT came from the book Body By Science and two workouts from legendary trainer [Greg Anderson](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) (RIP). As amazing as these resources were for me, they aren't going to be ideal for everyone. HIT gyms and HIT trainers are rare to find and can be costly. Even regular gyms can be expensive and inconvenient. And the book _Body By Science_ is still geared at someone with access to good equipment at a gym.
+
+What High Intensity Training needed was a cost-effective way to get people to benefit immediately with minimal expense. Enter Hillfit. In January 2012, I reviewed the first version of the 52-page e-book in the post [Hillfit: Strength is Not just For Hikers](/2012/01/hillfit-strength-is-not-just-for-hikers/). This book made the case that the best equipment you can bring to your sport, be it hiking or whatever, is stronger muscles. And using the principles of High Intensity Training, author Chris Highcock has developed a way to build strength at home safely - no gym required.
+
+![Wall Sit](./img/WallsitSideview.png)
+
+_One of the exercises highlighted in Hillfit is the Wall Sit. (photo from [Wikipedia](https://en.wikipedia.org/wiki/Wall_sit))_
+
+This year Hillfit was completely rewritten as Hillfit 2.0. The new e-book is now 121 pages and includes guest essays by several top fitness professionals including Bill DeSimone, Skyler Tanner, and James Steele II. Some of the highlights in this version that I liked include:
 
 -   A discussion on who the target audience is for the book. It is not for the elite audience but for the majority of us "who inhabit the middle of the bell curve, not the far edge!" This is important. Too many elite fitness bloggers take the approach that if they can do it, so can others, and they proceed to advise clients an excessive volume of exercise, which is often not sustainable or even safe
 -   **"train as much as necessary, not as much as possible"** - Perhaps the best quote was ever written on fitness.
@@ -28,7 +38,13 @@ I did have one minor issue with the book. I felt James Steele's case against car
 ### Summary
 
 
-If you are looking for a way to get strong at home with zero expense that is safe and effective, consider checking out Hillfit 2.0. ![Hill Fit](./img/hill-fit-500.jpg "Hill Fit") _Disclosure: I received a copy of Hillfit in exchange for feedback on a draft version._ UPDATE 2024: Hillfit is now back online and available for [free download](https://github.com/Hillfit) on GitHub.
+If you are looking for a way to get strong at home with zero expense that is safe and effective, consider checking out Hillfit 2.0.
+
+![Hill Fit](./img/hill-fit-500.jpg "Hill Fit")
+
+_Disclosure: I received a copy of Hillfit in exchange for feedback on a draft version._
+
+UPDATE 2024: Hillfit is now back online and available for [free download](https://github.com/Hillfit) on GitHub.
 
 ---
 

@@ -9,7 +9,15 @@ description: "Back in February I started a test I called Chlorination Eliminati
 commentCount: 7
 ---
 
-Back in February I started a test I called [Chlorination Elimination Experimentation](/2012/02/chlorination-elimination-experimentation/). I wanted to see if using a shower filter that removed chlorine could positively impact my skin. I was a bit skeptical, but it was too cheap of an experiment not to try. So do I have the skin of angel now? Nope. Everything is still the same. I still get a slightly dry spot above my right eyebrow. Nothing has changed. I also speculated in the post update that the chlorine in the water could be a factor in my [headaches](https://criticalmas.org/tag/headaches/). My average headache intensity for the 75 days using the filter is 1.4/5.0. The 75 days prior to the installing the filter it was a little lower at 1.1/5.0. So this experiment showed there is no measurable connection between chlorine and my sinus headaches. My results are just that - my results. Two weekends ago I met a guy who is super sensitive to water and soap. He uses a filter and swears by it. His skin gets red and inflamed without his shower filter. So perform your own tests. I will continue to use the filter. Maybe the benefits take longer than 3 months to see? ![](http://farm3.staticflickr.com/2481/3762676524_582085f539.jpg "shower") _[Photo](http://www.flickr.com/photos/stevendepolo/3762676524/in/photostream/) by Steven Depolo_
+Back in February I started a test I called [Chlorination Elimination Experimentation](/2012/02/chlorination-elimination-experimentation/). I wanted to see if using a shower filter that removed chlorine could positively impact my skin. I was a bit skeptical, but it was too cheap of an experiment not to try. So do I have the skin of angel now? Nope. Everything is still the same. I still get a slightly dry spot above my right eyebrow. Nothing has changed.
+
+I also speculated in the post update that the chlorine in the water could be a factor in my [headaches](https://criticalmas.org/tag/headaches/). My average headache intensity for the 75 days using the filter is 1.4/5.0. The 75 days prior to the installing the filter it was a little lower at 1.1/5.0. So this experiment showed there is no measurable connection between chlorine and my sinus headaches.
+
+My results are just that - my results. Two weekends ago I met a guy who is super sensitive to water and soap. He uses a filter and swears by it. His skin gets red and inflamed without his shower filter. So perform your own tests. I will continue to use the filter. Maybe the benefits take longer than 3 months to see?
+
+![](http://farm3.staticflickr.com/2481/3762676524_582085f539.jpg "shower")
+
+_[Photo](http://www.flickr.com/photos/stevendepolo/3762676524/in/photostream/) by Steven Depolo_
 
 ---
 

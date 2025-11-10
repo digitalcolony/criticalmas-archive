@@ -9,7 +9,15 @@ description: "Satisfaction was one of my favorite books that I read in 2008, so 
 commentCount: 2
 ---
 
-[Satisfaction](/2008/11/satisfaction-the-science-of-true-fulfillment/) was one of my favorite books that I read in 2008, so I decided to read the author's follow up book. ![Iconoclast: A Neuroscientist Reveals How to Think Differently](https://images-na.ssl-images-amazon.com/images/I/415tqBGwMOL.jpg) _Iconoclast: A Neuroscientist Reveals How to Think Differently by Gregory Berns_ was great. It was even better than his last book. From a brain science perspective, the author explains how to think differently. Iconoclast thinking involves having a different perspective, calming the biological fear response, and having social intelligence. In most people, those three traits conflict with each other, which is why iconoclast thinking is rare. One of the most interesting points that the author repeatedly gets across is that the brain is "_a lazy piece of meat_". From an evolutionary standpoint, the brain is designed to be energy efficient. As we get older and have more life experiences, our brain starts categorizing. The more categories, the less work the brain needs to do when future stimulus arrives. And as we age, this categorization process is so robust that creativity often decreases. It is a biological response to conserve energy. The book goes into strategies to overcome our biology in order to think differently (novelty). The second part of the book explains why novelty triggers a fear response which can restrict action. And the last part of the book covers the social aspects to sharing iconoclast thinking with others. Great book. Highly recommended.
+[Satisfaction](/2008/11/satisfaction-the-science-of-true-fulfillment/) was one of my favorite books that I read in 2008, so I decided to read the author's follow up book.
+
+![Iconoclast: A Neuroscientist Reveals How to Think Differently](https://images-na.ssl-images-amazon.com/images/I/415tqBGwMOL.jpg) _Iconoclast: A Neuroscientist Reveals How to Think Differently by Gregory Berns_ was great. It was even better than his last book. From a brain science perspective, the author explains how to think differently. Iconoclast thinking involves having a different perspective, calming the biological fear response, and having social intelligence. In most people, those three traits conflict with each other, which is why iconoclast thinking is rare.
+
+One of the most interesting points that the author repeatedly gets across is that the brain is "_a lazy piece of meat_". From an evolutionary standpoint, the brain is designed to be energy efficient. As we get older and have more life experiences, our brain starts categorizing. The more categories, the less work the brain needs to do when future stimulus arrives. And as we age, this categorization process is so robust that creativity often decreases. It is a biological response to conserve energy.
+
+The book goes into strategies to overcome our biology in order to think differently (novelty). The second part of the book explains why novelty triggers a fear response which can restrict action. And the last part of the book covers the social aspects to sharing iconoclast thinking with others.
+
+Great book. Highly recommended.
 
 ---
 

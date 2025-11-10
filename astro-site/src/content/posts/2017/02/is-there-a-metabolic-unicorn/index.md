@@ -9,7 +9,9 @@ description: "I want to use this post to start a discussion on metabolism. I'm g
 commentCount: 37
 ---
 
-I want to use this post to start a discussion on metabolism. I'm going to cover what I believe to be true and what I'm skeptical about. I hope to get some good comments because this is a topic I find extremely interesting and yet I don't fully understand. I'm going to break this discussion into 2 parts:
+I want to use this post to start a discussion on metabolism. I'm going to cover what I believe to be true and what I'm skeptical about. I hope to get some good comments because this is a topic I find extremely interesting and yet I don't fully understand.
+
+I'm going to break this discussion into 2 parts:
 
 1.  Bringing a low metabolism back up to normal.
 2.  Getting lean by jacking a metabolism with high caloric intake.
@@ -20,7 +22,11 @@ When I first started reading the blogs on metabolism, I was only thinking about 
 ### Increasing a Low Metabolism
 
 
-Years ago I was constantly experimenting with new nutritional ideas. One of the ideas that crossed my path was the idea that body temperature could be a metric of health. In 2013, I posted an [overview of the book Diet Recovery 2](/2013/03/diet-recovery-2-and-the-turn-up-the-heat-experiment/) by Matt Stone. In that post, I summarized the things that can reduce metabolism. They are calorie restriction, especially yo-yo diet, excessive exercise - especially chronic cardio, poor sleep, long term low carb dieting, drinking too many liquids, and consuming too many PUFAs (polyunsaturated fats). The book made a strong case that too often when we plateau in meeting our health goals, we are encouraged to double down and go more strict, but in doing this we can make our metabolism fall even further. My summary of the corrective advice in the book was:
+Years ago I was constantly experimenting with new nutritional ideas. One of the ideas that crossed my path was the idea that body temperature could be a metric of health. In 2013, I posted an [overview of the book Diet Recovery 2](/2013/03/diet-recovery-2-and-the-turn-up-the-heat-experiment/) by Matt Stone. In that post, I summarized the things that can reduce metabolism.
+
+They are calorie restriction, especially yo-yo diet, excessive exercise - especially chronic cardio, poor sleep, long term low carb dieting, drinking too many liquids, and consuming too many PUFAs (polyunsaturated fats).
+
+The book made a strong case that too often when we plateau in meeting our health goals, we are encouraged to double down and go more strict, but in doing this we can make our metabolism fall even further. My summary of the corrective advice in the book was:
 
 > Eat more calories. Get off the treadmill. Sleep more. Stop fearing carbs. Quit drinking so many beverages, especially water. And embrace saturated fats over PUFA.
 
@@ -28,13 +34,27 @@ I also used this analogy in that post:
 
 > Following this advice you are very likely to gain weight at first, but that is OK. Think of the leaky boat analogy. Yes you can paddle it real hard and hope you’ll get across the lake or you can be patient, make the repairs and then make the journey safer and with less effort.
 
-The book and the advice rang true to me. I saw numerous examples of people that were exercising hard and restricting their diet, but falling short of their goals. Exercising and dietary restriction were likely no longer undervalued options. Their metabolism was responding by slowing as a defensive technique. Using the techniques in the book, I was able to increase my body temperate from 97.0°F to 98.5°F. My sleep went from 6.5 hours with several wakings to 8 hours solid. I did gain some weight (~10 pounds) as expected, but at my height (6'2.5 or 189 cm), I'm still lean (not ripped). At this point in the story, I am a believer. My exercise is lower, my sleep is great, my skin is no longer dry and I almost never get the headaches that used to wake me up in the middle of the night. I'm willing to accept that my analysis of what happened to me is flawed. Maybe I feel better for unrelated reasons? I don't know, but for now, I will credit an increased metabolism as measured by a higher body temperature.
+The book and the advice rang true to me. I saw numerous examples of people that were exercising hard and restricting their diet, but falling short of their goals. Exercising and dietary restriction were likely no longer undervalued options. Their metabolism was responding by slowing as a defensive technique.
+
+Using the techniques in the book, I was able to increase my body temperate from 97.0°F to 98.5°F. My sleep went from 6.5 hours with several wakings to 8 hours solid. I did gain some weight (~10 pounds) as expected, but at my height (6'2.5 or 189 cm), I'm still lean (not ripped).
+
+At this point in the story, I am a believer. My exercise is lower, my sleep is great, my skin is no longer dry and I almost never get the headaches that used to wake me up in the middle of the night. I'm willing to accept that my analysis of what happened to me is flawed. Maybe I feel better for unrelated reasons? I don't know, but for now, I will credit an increased metabolism as measured by a higher body temperature.
 
 
 ### Jacking a Normal Metabolism
 
 
-Last week Matt Stone posted [The Metabolic Zone](https://web.archive.org/web/20210423080517/https://180degreehealth.com/metabolic-zone/), which is about eating A LOT of calories consistently to force the body metabolism higher, which will have the effect of lowering one's fat setpoint, which will trigger a loss of body fat. The post further explains that one must keep eating in excess or the fat loss will cease. He even links to a blog post of a man that is claiming he got lean by eating 6,000 calories a day. After reading the article three times and the comments, this is how I felt. ![](./img/so-youre-telling-me.jpg) As I explained in the first part, I understand how a stressed body that is deficient in sleep, calories, nutrients and is perhaps exercising too much would need to change direction and do the unconventional approach to get back to normal. And that doing so would likely result in some weight gain. I get that part. When you've painted yourself into a metabolic corner, it makes sense to me why one would need to eat in excess ... for a while. My skepticism is that a Metabolic Unicorn exists where one can eat in excess to get lean. Not to get back to a healthy spot so one can pursue a more sustainable weight loss program, but to gorge one's self to achieve leanness. Although the body might generate a little more heat, it also has the ability to store those calories as excess fat. The metabolic effect here would have to be massive, right? The article acknowledges my skepticism:
+Last week Matt Stone posted [The Metabolic Zone](https://web.archive.org/web/20210423080517/https://180degreehealth.com/metabolic-zone/), which is about eating A LOT of calories consistently to force the body metabolism higher, which will have the effect of lowering one's fat setpoint, which will trigger a loss of body fat. The post further explains that one must keep eating in excess or the fat loss will cease. He even links to a blog post of a man that is claiming he got lean by eating 6,000 calories a day.
+
+After reading the article three times and the comments, this is how I felt.
+
+![](./img/so-youre-telling-me.jpg)
+
+As I explained in the first part, I understand how a stressed body that is deficient in sleep, calories, nutrients and is perhaps exercising too much would need to change direction and do the unconventional approach to get back to normal. And that doing so would likely result in some weight gain. I get that part. When you've painted yourself into a metabolic corner, it makes sense to me why one would need to eat in excess ... for a while.
+
+My skepticism is that a Metabolic Unicorn exists where one can eat in excess to get lean. Not to get back to a healthy spot so one can pursue a more sustainable weight loss program, but to gorge one's self to achieve leanness. Although the body might generate a little more heat, it also has the ability to store those calories as excess fat. The metabolic effect here would have to be massive, right?
+
+The article acknowledges my skepticism:
 
 > No one has officially found the Metabolic Zone scientifically. Right now we’re operating on signs, evidence, rumors, logic, hearsay, and anecdotes. But I’m back in it, and back on it.
 

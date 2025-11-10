@@ -9,13 +9,17 @@ description: "I am back from my 9 day trip to Central Ohio. When I last visited 
 commentCount: 14
 ---
 
-I am back from my 9 day trip to Central Ohio. When I last visited Ohio 3 years ago, I wasn't full Paleo/Primal. My focus back then was on reducing bread, not eliminating it. I also was not paying attention to cooking oils. My diet got super clean after returning from my [2009 New Orleans](/2009/03/new-orleans-2009/) trip. Since then my only trip outside the Pacific Northwest has been the month I spent in [Southeast Asia](/2010/01/planes-trains-and-elephants-my-2009-asia-trip-overview/). What did I learn? Eating clean in Thailand and Cambodia is MUCH EASIER than eating clean in Ohio. The basic dish I had in Thailand, Cambodia, and Malaysia was meat plus veggies plus white rice. Add in some coconut milk and you have an extremely nutritious and toxin-free meal.
+I am back from my 9 day trip to Central Ohio. When I last visited Ohio 3 years ago, I wasn't full Paleo/Primal. My focus back then was on reducing bread, not eliminating it. I also was not paying attention to cooking oils. My diet got super clean after returning from my [2009 New Orleans](/2009/03/new-orleans-2009/) trip. Since then my only trip outside the Pacific Northwest has been the month I spent in [Southeast Asia](/2010/01/planes-trains-and-elephants-my-2009-asia-trip-overview/).
+
+What did I learn? Eating clean in Thailand and Cambodia is MUCH EASIER than eating clean in Ohio. The basic dish I had in Thailand, Cambodia, and Malaysia was meat plus veggies plus white rice. Add in some coconut milk and you have an extremely nutritious and toxin-free meal.
 
 
 ### The 4 Toxins
 
 
-Whenever I leave my kitchen, I expect to take a hit nutritionally. My goal is not to maximize nutrition on the road, but to minimize toxins. Some people believe that everything in moderation is OK. I find these people are never the pillars of excellent health. **Moderation is not an acceptable strategy for toxins.** Unless one has a serious food allergy, trace exposure is probably fine and maybe even beneficial ([hormesis](http://gettingstronger.org/hormesis/)). Anything more than trace exposure is not healthy. I see the 4 main toxins as:
+Whenever I leave my kitchen, I expect to take a hit nutritionally. My goal is not to maximize nutrition on the road, but to minimize toxins. Some people believe that everything in moderation is OK. I find these people are never the pillars of excellent health. **Moderation is not an acceptable strategy for toxins.** Unless one has a serious food allergy, trace exposure is probably fine and maybe even beneficial ([hormesis](http://gettingstronger.org/hormesis/)). Anything more than trace exposure is not healthy.
+
+I see the 4 main toxins as:
 
 1.  Gluten
 2.  [Veggie Oils](https://perfecthealthdiet.com/2011/01/why-we-get-fat-food-toxins/) (canola, soybean, corn, etc)
@@ -39,7 +43,17 @@ Despite picking the best food options available and cooking some of my own meals
 ### What Went Wrong
 
 
-I figured out early on that not only is Ohio 20 years behind Seattle in espresso but they also are still stuck in the 1990s low-fat lipid hypothesis thinking when it comes to nutrition. Cholesterol and saturated fats are still considered evil, despite all the evidence now showing their innocence in causing heart disease. The real evil, which is the highly inflammatory vegetable oils are everywhere. I tried my best to avoid what I could, but it was a near-impossible task. Within days, my skin got extremely dry with signs of inflammation. I even looked a little puffy. Prior to changing my diet, I had dry skin and flaking for almost 20 years. All my skin issues went away when I went Paleo. Now they were returning within days. I dodged gluten like Neo from the Matrix, but it was everywhere. Far more than I expected. It seemed Ohio was just beginning to hear about the damage caused by wheat. On the [Kbler-Ross model](https://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model), Ohio is still mainly in the _Denial_ phase when it comes to the damage caused by gluten. Through great effort, I was able to dodge gluten right up until my last full day. Then I got nailed with an Asian salad. I looked closely at it and did not see the broken-up Ramen noodles in it. Only after finishing a sizable portion did I learn they were in the dish. The dried cranberries masked their taste. My stomach hurt and I had a splitting headache that lasted all night long. ![Dodging Gluten in Ohio](./img/matrix-neo-dodge-bullet.jpg "Dodging Gluten in Ohio") _Dodging Gluten in Ohio_ My back also started to hurt towards the end of my visit. There is nothing wrong with my back. It was a [stress response](/2011/02/the-psychology-of-back-pain/) to my lack of control over my diet. I was on edge that the next meal would make me sick.
+I figured out early on that not only is Ohio 20 years behind Seattle in espresso but they also are still stuck in the 1990s low-fat lipid hypothesis thinking when it comes to nutrition. Cholesterol and saturated fats are still considered evil, despite all the evidence now showing their innocence in causing heart disease.
+
+The real evil, which is the highly inflammatory vegetable oils are everywhere. I tried my best to avoid what I could, but it was a near-impossible task. Within days, my skin got extremely dry with signs of inflammation. I even looked a little puffy. Prior to changing my diet, I had dry skin and flaking for almost 20 years. All my skin issues went away when I went Paleo. Now they were returning within days.
+
+I dodged gluten like Neo from the Matrix, but it was everywhere. Far more than I expected. It seemed Ohio was just beginning to hear about the damage caused by wheat. On the [Kbler-Ross model](https://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model), Ohio is still mainly in the _Denial_ phase when it comes to the damage caused by gluten. Through great effort, I was able to dodge gluten right up until my last full day. Then I got nailed with an Asian salad. I looked closely at it and did not see the broken-up Ramen noodles in it. Only after finishing a sizable portion did I learn they were in the dish. The dried cranberries masked their taste. My stomach hurt and I had a splitting headache that lasted all night long.
+
+![Dodging Gluten in Ohio](./img/matrix-neo-dodge-bullet.jpg "Dodging Gluten in Ohio")
+
+_Dodging Gluten in Ohio_
+
+My back also started to hurt towards the end of my visit. There is nothing wrong with my back. It was a [stress response](/2011/02/the-psychology-of-back-pain/) to my lack of control over my diet. I was on edge that the next meal would make me sick.
 
 
 ### Last Words

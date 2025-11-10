@@ -9,14 +9,26 @@ description: "Until I had Sam Adams, I didn't believe that beer could taste good
 commentCount: 12
 ---
 
-Until I had Sam Adams, I didn't believe that beer could taste good. It opened my eyes to a world of beer in a way that local roasted coffee opened my eyes to quality coffee. When I arrived in Florida, a co-worker took me to the [Oak Barrel Tavern](/2008/03/ybor-city-scrapbook-1994-1998/), which had 35 beers from around the world. From there I progressed to the microbreweries. ![steamworks](./img/steamworks.jpg) _Steamworks Brewing Co in Vancouver, BC_ In a matter of 4 years, I went from disliking beer to planning my travel around visiting microbreweries. For over a decade, I went to numerous microbreweries. I almost always tried the sampler tray. From the Blonde Ale to the Imperial Stout, if a beer was well brewed and unique, I enjoyed it. I've been to microbreweries as far away as Kennebunkport, Maine and Auckland, New Zealand. It was fun, but it is time to say goodbye to beer. There are 4 reasons why I've decided to stop drinking beer.
+Until I had Sam Adams, I didn't believe that beer could taste good. It opened my eyes to a world of beer in a way that local roasted coffee opened my eyes to quality coffee. When I arrived in Florida, a co-worker took me to the [Oak Barrel Tavern](/2008/03/ybor-city-scrapbook-1994-1998/), which had 35 beers from around the world. From there I progressed to the microbreweries.
+
+![steamworks](./img/steamworks.jpg)
+
+_Steamworks Brewing Co in Vancouver, BC_
+
+In a matter of 4 years, I went from disliking beer to planning my travel around visiting microbreweries. For over a decade, I went to numerous microbreweries. I almost always tried the sampler tray. From the Blonde Ale to the Imperial Stout, if a beer was well brewed and unique, I enjoyed it. I've been to microbreweries as far away as Kennebunkport, Maine and Auckland, New Zealand. It was fun, but it is time to say goodbye to beer.
+
+There are 4 reasons why I've decided to stop drinking beer.
 
 1.  95% of the offerings are no longer unique to me. I've tried hundreds of stouts. The odds that the next stout I try is going to amaze or even impress me is becoming more rare. Brewpubs tend to offer poor food choices. If the beer isn't impressing me and I don't care for the food, then why am I still seeking the next great ale?
 2.  Hops are highly estrogenic. [Estrogens](/2009/04/revisiting-the-warrior-diet/) are not good for testosterone levels.
 3.  Gluten intolerance. I am pretty sure that I have some level of gluten intolerance. Mine surfaces as screaming headaches. Since going mostly [paleo](/2009/01/maybe-i-think-too-much-but-some-things-wrong/) in my diet, whenever I go back to any food with gluten, I get brutal headaches. While in Thailand, I took a break from the great Asian cuisine and had pizza. It crushed me like I drank 3 double IPAs.
 4.  Carbs. I don't need the carbs. I prefer being lean to the taste of ANY beer.
 
-My last beer was in September, so this post isn't the result of weekend activities. People have asked me about wine. I have had headaches with wine as well, however when I think back to the times I've had wine, it was usually when I had gluten rich foods such as bread and pasta. Maybe wine would be better for me, but I'm not that motivated to try any alcohol at this time. Water is fine with me. ![water-8-5](./img/water-8-5.jpg) _From the movie 8 1/2_
+My last beer was in September, so this post isn't the result of weekend activities. People have asked me about wine. I have had headaches with wine as well, however when I think back to the times I've had wine, it was usually when I had gluten rich foods such as bread and pasta. Maybe wine would be better for me, but I'm not that motivated to try any alcohol at this time. Water is fine with me.
+
+![water-8-5](./img/water-8-5.jpg)
+
+_From the movie 8 1/2_
 
 ---
 

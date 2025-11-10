@@ -39,7 +39,9 @@ In the last few years, I've read quite a few books that are related to finance. 
 ### A Little Bit of Everything
 
 
-![More Than You Know: Finding Financial Wisdom in Unconventional Places (Updated and Expanded) (Columbia Business School Publishing)](https://images-na.ssl-images-amazon.com/images/I/51B2Yk%2BHjAL.jpg) _More Than You Know: Finding Financial Wisdom in Unconventional Places (Updated and Expanded) (Columbia Business School Publishing) by Michael J. Mauboussin_ is a great mix of philosophy, psychology and statistics easily explained across 30 essays. If your reading time is limited and you want to expose yourself to a little of each of these topics, then this is the book you want. What finance books would you add to the list?
+![More Than You Know: Finding Financial Wisdom in Unconventional Places (Updated and Expanded) (Columbia Business School Publishing)](https://images-na.ssl-images-amazon.com/images/I/51B2Yk%2BHjAL.jpg) _More Than You Know: Finding Financial Wisdom in Unconventional Places (Updated and Expanded) (Columbia Business School Publishing) by Michael J. Mauboussin_ is a great mix of philosophy, psychology and statistics easily explained across 30 essays. If your reading time is limited and you want to expose yourself to a little of each of these topics, then this is the book you want.
+
+What finance books would you add to the list?
 
 ---
 

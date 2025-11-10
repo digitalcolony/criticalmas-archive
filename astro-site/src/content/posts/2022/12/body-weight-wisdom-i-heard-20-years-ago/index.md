@@ -8,7 +8,19 @@ description: "Twenty years ago, I was living in a gated community near San Diego
 commentCount: 21
 ---
 
-Twenty years ago, I was living in a gated community near San Diego. One of the homeowners on my block was named Mike. He was about 20 years older than me. One day we were having a brief conversation by the mailbox. He made a comment about my weightlifting. I had converted my single-car garage into a free weight gym and a few times a week, one could hear [Marilyn Manson](/2008/04/mascene-20-the-marilyn-manson-workout-mix/) playing over the sound of weights clanging. Mike wasn't shaped like the other homeowners. He was stocky and although overweight looked to have some muscle. ![](./img/16201131265_3c7633e154_c.jpg) _Part of my home gym._ I asked Mike if he lifted weights. He told me that he didn't, but did in college when he wrestled. He told me that lifting weights makes him too heavy. I've thought about this brief conversation at least 500 times over the past 20 years and my interpretation has changed as I've gotten older. My initial response was how misguided he was. Muscle is awesome. Mike had a natural foundation. He could regain his college muscle quickly and be jacked. The found muscle would help him burn more calories and trim him down a bit. Even if his weight went up a bit, his body fat percentage would certainly drop as he would see a rise in lean body mass. In 2018, I posted [My Wrong Advice For the Big Guys](/2018/09/my-wrong-advice-for-the-big-guys/). For many years, I believed big guys were at a natural advantage for getting jacked and that getting jacked would be an easier path to getting lean. I was wrong.
+Twenty years ago, I was living in a gated community near San Diego. One of the homeowners on my block was named Mike. He was about 20 years older than me. One day we were having a brief conversation by the mailbox.
+
+He made a comment about my weightlifting. I had converted my single-car garage into a free weight gym and a few times a week, one could hear [Marilyn Manson](/2008/04/mascene-20-the-marilyn-manson-workout-mix/) playing over the sound of weights clanging. Mike wasn't shaped like the other homeowners. He was stocky and although overweight looked to have some muscle.
+
+![](./img/16201131265_3c7633e154_c.jpg)
+
+_Part of my home gym._
+
+I asked Mike if he lifted weights. He told me that he didn't, but did in college when he wrestled. He told me that lifting weights makes him too heavy. I've thought about this brief conversation at least 500 times over the past 20 years and my interpretation has changed as I've gotten older.
+
+My initial response was how misguided he was. Muscle is awesome. Mike had a natural foundation. He could regain his college muscle quickly and be jacked. The found muscle would help him burn more calories and trim him down a bit. Even if his weight went up a bit, his body fat percentage would certainly drop as he would see a rise in lean body mass.
+
+In 2018, I posted [My Wrong Advice For the Big Guys](/2018/09/my-wrong-advice-for-the-big-guys/). For many years, I believed big guys were at a natural advantage for getting jacked and that getting jacked would be an easier path to getting lean. I was wrong.
 
 > Unknown to me, the bodybuilding trainers discovered through observation and experimentation that it was actually much harder to build muscle on a body with extra weight. When given the task of training a big guy, they would direct them to cardio and fixing their diet until enough progress was made before hitting the iron.
 
@@ -18,7 +30,17 @@ Even if I still believed that big guys have an advantage, now that I'm the same 
 ### Accidental Understanding
 
 
-I'm going to do a follow-up post on the history of my weight and the lessons learned along the way, but I wanted to share my conversation with Mike first. When we had the mailbox chat, I weighed 205 and I was on a quest to get to 225. I was chasing the physiques of [Evander Holyfield and Laird Hamilton](/2007/03/fitness-role-models/). 205 felt fine to me. It was what I knew. Then starting in late 2013, I began experiencing knee pain. My activity level collapsed. My appetite didn't and my weight gradually increased to 222. When you are 6' 2, adding 20 pounds is not as noticeable as would be on a shorter individual. But weighing an extra 20 pounds didn't feel comfortable. A few years later, I jumped on the [potato hack](https://potatohack.com/) with the goal of getting back to 200. I blew past 200 and landed at 180, which was not planned, but turned out to be ideal for me. This is where I've been for a few years now. Being 180 feels great. I move better and even though I had some injuries this year, I would not have wanted to experience them at a weight of 20 or 40 pounds heavier. At 200+ pounds, I never stuck to a yoga practice for more than a week. At 180, I haven't missed a single morning in 424 days. Movement feels better. Mike's concern about not getting heavier was valid. He probably knew from his prior experiences that once he starts slamming the weights, his appetite would rise, and although his biceps would be popping out of his shirt, he may have needed to get pants a little bigger. His life experience, which I did not appreciate at the time, was more concerned with the downside of being heavier at his age and not the upside valued by the younger man. I understand now.
+I'm going to do a follow-up post on the history of my weight and the lessons learned along the way, but I wanted to share my conversation with Mike first.
+
+When we had the mailbox chat, I weighed 205 and I was on a quest to get to 225. I was chasing the physiques of [Evander Holyfield and Laird Hamilton](/2007/03/fitness-role-models/). 205 felt fine to me. It was what I knew.
+
+Then starting in late 2013, I began experiencing knee pain. My activity level collapsed. My appetite didn't and my weight gradually increased to 222. When you are 6' 2, adding 20 pounds is not as noticeable as would be on a shorter individual. But weighing an extra 20 pounds didn't feel comfortable.
+
+A few years later, I jumped on the [potato hack](https://potatohack.com/) with the goal of getting back to 200. I blew past 200 and landed at 180, which was not planned, but turned out to be ideal for me. This is where I've been for a few years now.
+
+Being 180 feels great. I move better and even though I had some injuries this year, I would not have wanted to experience them at a weight of 20 or 40 pounds heavier. At 200+ pounds, I never stuck to a yoga practice for more than a week. At 180, I haven't missed a single morning in 424 days. Movement feels better.
+
+Mike's concern about not getting heavier was valid. He probably knew from his prior experiences that once he starts slamming the weights, his appetite would rise, and although his biceps would be popping out of his shirt, he may have needed to get pants a little bigger. His life experience, which I did not appreciate at the time, was more concerned with the downside of being heavier at his age and not the upside valued by the younger man. I understand now.
 
 ---
 

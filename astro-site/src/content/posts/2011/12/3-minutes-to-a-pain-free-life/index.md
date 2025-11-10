@@ -13,7 +13,13 @@ I want to thank Jason for recommending this book in the comments on my [Health G
 
 > I haven't been very disciplined about doing posture exercises over the years. I think I need to discover a _High Intensity_ approach. Find a few core exercises that yield maximum benefit in the shortest time. If I need to spend 20-40 minutes several times a week, I'll likely fail.
 
-A 3-minute protocol almost seems too good to be true. Was it? ![3 Minutes to a Pain-Free Life: The Groundbreaking Program for Total Body Pain Prevention and Rapid Relief](https://images-na.ssl-images-amazon.com/images/I/51CWMJ531HL.jpg) _3 Minutes to a Pain-Free Life: The Groundbreaking Program for Total Body Pain Prevention and Rapid Relief by Joseph Weisberg_ takes a unique time-efficient approach to undoing the damage modern life inflicts upon our skeleton. We sit far too much and our movement is not varied. The result is poor posture and pain. Instead of following a program that takes 30-60 minutes, one that I might do once a week, _3 Minutes_ uses a 6 exercise routine that is to be done daily that takes as the title suggests just 3 minutes. I've had mixed results with stretching and alignment exercises in the past. This book held a clue on why my results were so inconsistent. These stretches should be held from 30-60 seconds. Not less and not more. In the past, I would get impatient the more I did a program and would start to accelerate the routine. That is usually when I stopped seeing benefits and would quit. A friend of mine told me that the 6 Exercises were very similar to the ones used at the start of her yoga class.
+A 3-minute protocol almost seems too good to be true. Was it?
+
+![3 Minutes to a Pain-Free Life: The Groundbreaking Program for Total Body Pain Prevention and Rapid Relief](https://images-na.ssl-images-amazon.com/images/I/51CWMJ531HL.jpg) _3 Minutes to a Pain-Free Life: The Groundbreaking Program for Total Body Pain Prevention and Rapid Relief by Joseph Weisberg_ takes a unique time-efficient approach to undoing the damage modern life inflicts upon our skeleton. We sit far too much and our movement is not varied. The result is poor posture and pain.
+
+Instead of following a program that takes 30-60 minutes, one that I might do once a week, _3 Minutes_ uses a 6 exercise routine that is to be done daily that takes as the title suggests just 3 minutes. I've had mixed results with stretching and alignment exercises in the past. This book held a clue on why my results were so inconsistent. These stretches should be held from 30-60 seconds. Not less and not more. In the past, I would get impatient the more I did a program and would start to accelerate the routine. That is usually when I stopped seeing benefits and would quit.
+
+A friend of mine told me that the 6 Exercises were very similar to the ones used at the start of her yoga class.
 
 1.  Bow
 2.  Arch (called the Cat Pose in yoga)
@@ -22,7 +28,9 @@ A 3-minute protocol almost seems too good to be true. Was it? ![3 Minutes to a P
 5.  Split
 6.  Sky Reach
 
-![Bow Stretch](./img/1-Bow-500.jpg "Bow Stretch") ![sky reach](./img/6-sky-reach-500.jpg "sky reach")
+![Bow Stretch](./img/1-Bow-500.jpg "Bow Stretch")
+
+![sky reach](./img/6-sky-reach-500.jpg "sky reach")
 
 
 ### Additional Exercises
@@ -34,7 +42,13 @@ Besides the 6 basic required exercises, _3 Minutes_ lists a bunch of other exerc
 ### My 30 Day Results
 
 
-The book stresses that you must do the exercises in order and do them every day. I complied. It was very easy to take the time to do the routine. Often a song would come on the radio and I'd be finished before the next song started. The greatest benefit I have received from the routine is my shoulder mobility is much greater. I am a big fan of the Sky Reach exercise. The Bow and Natural Squat were also beneficial. The best exercise is the one in the section on fixing the mid-back rounding. I could see changes in my posture in less than a week. The area that hasn't helped so far has been the neck exercises. My neck is still very stiff. I'm going to keep at the routine, but I may seek out new exercises for the neck if things don't improve by the end of this year. My only issue with the book is the same issue I have with 99% of all books that prescribe a daily routine. They need to have posters or printable versions of the routine that I can refer to while stretching. Flipping through a book looking for the next exercise is a hassle. At the 2004 Arnold Expo, I had a conversation with Pavel where I suggested he sell poster versions of his _Relax into Stretch_ and _Super Joints_ books. He liked the idea, but it never happened. I highly recommend the book _3 Minutes to a Pain-Free Life_. It is the only program that I have ever been able to stick to on a daily basis. It has already made a positive impact on my shoulders and mid-back. With time, I hope my neck mobility sees similar progress.
+The book stresses that you must do the exercises in order and do them every day. I complied. It was very easy to take the time to do the routine. Often a song would come on the radio and I'd be finished before the next song started. The greatest benefit I have received from the routine is my shoulder mobility is much greater. I am a big fan of the Sky Reach exercise. The Bow and Natural Squat were also beneficial.
+
+The best exercise is the one in the section on fixing the mid-back rounding. I could see changes in my posture in less than a week. The area that hasn't helped so far has been the neck exercises. My neck is still very stiff. I'm going to keep at the routine, but I may seek out new exercises for the neck if things don't improve by the end of this year.
+
+My only issue with the book is the same issue I have with 99% of all books that prescribe a daily routine. They need to have posters or printable versions of the routine that I can refer to while stretching. Flipping through a book looking for the next exercise is a hassle. At the 2004 Arnold Expo, I had a conversation with Pavel where I suggested he sell poster versions of his _Relax into Stretch_ and _Super Joints_ books. He liked the idea, but it never happened.
+
+I highly recommend the book _3 Minutes to a Pain-Free Life_. It is the only program that I have ever been able to stick to on a daily basis. It has already made a positive impact on my shoulders and mid-back. With time, I hope my neck mobility sees similar progress.
 
 ---
 

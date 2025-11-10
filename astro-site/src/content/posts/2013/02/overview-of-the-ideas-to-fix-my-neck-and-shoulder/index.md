@@ -9,7 +9,9 @@ description: "I'm sorry this post has taken so long. When I asked for ideas to H
 commentCount: 19
 ---
 
-I'm sorry this post has taken so long. When I asked for ideas to [Help me Fix My Neck and Shoulders](/2012/12/help-me-fix-my-neck-and-shoulders/), I got way more feedback than I ever expected. To say I was overwhelmed would be an understatement. I actually got more ideas than I could ever implement. The more I started exploring these ideas and their criticisms, the more confused I got. Below is a list of the ideas I received from the comments broken down into groups. Before I list out the ideas, I think I may have asked the wrong question. It isn't just about fixing the problem, but identifying what causes it and what could have prevented it. I still don't know why my neck and shoulders are tight. I can assume it is because I work at a desk, but others that work at a desk don't experience the same level of tightness. The correct way to solve this problem is to isolate the cause first, which is something I haven't figured out. To date, I have just dived headfirst into finding the cure and it has gotten me nowhere.
+I'm sorry this post has taken so long. When I asked for ideas to [Help me Fix My Neck and Shoulders](/2012/12/help-me-fix-my-neck-and-shoulders/), I got way more feedback than I ever expected. To say I was overwhelmed would be an understatement. I actually got more ideas than I could ever implement. The more I started exploring these ideas and their criticisms, the more confused I got. Below is a list of the ideas I received from the comments broken down into groups.
+
+Before I list out the ideas, I think I may have asked the wrong question. It isn't just about fixing the problem, but identifying what causes it and what could have prevented it. I still don't know why my neck and shoulders are tight. I can assume it is because I work at a desk, but others that work at a desk don't experience the same level of tightness. The correct way to solve this problem is to isolate the cause first, which is something I haven't figured out. To date, I have just dived headfirst into finding the cure and it has gotten me nowhere.
 
 
 ### Mobility
@@ -39,7 +41,11 @@ Could the [back pain I cured via Dr. Sarno](/2011/02/the-psychology-of-back-pain
 4.  Theracane
 5.  Yoga needles on a rubber pad
 
-I have not tried #1 or #2 yet. As for #3, I do need to reupholster my computer chair, but I have no clue how to do it. Maybe I'll just buy a new chair. Seems wasteful though. I liked the Theracane but found it too addicting and it didn't have any long-term benefits. I also went to a store and tried all the different Yoga needle mats and pillows. Couldn't feel anything, so I didn't buy one. ![](./img/this-way-that-way.jpg) corner of this way street and that way street signs in Texas small town _[Photo](http://www.flickr.com/photos/lori_greig/5331407245/in/photostream/) by Lori Greig_
+I have not tried #1 or #2 yet. As for #3, I do need to reupholster my computer chair, but I have no clue how to do it. Maybe I'll just buy a new chair. Seems wasteful though. I liked the Theracane but found it too addicting and it didn't have any long-term benefits. I also went to a store and tried all the different Yoga needle mats and pillows. Couldn't feel anything, so I didn't buy one.
+
+![](./img/this-way-that-way.jpg) corner of this way street and that way street signs in Texas small town
+
+_[Photo](http://www.flickr.com/photos/lori_greig/5331407245/in/photostream/) by Lori Greig_
 
 
 ### Dietary
@@ -48,7 +54,9 @@ I have not tried #1 or #2 yet. As for #3, I do need to reupholster my computer 
 1.  Foods that are inflammatory. 
 2.  Caffeine?
 
-I have yet to find a food that triggers inflammation. Doesn't mean that one doesn't exist, just means I haven't found it. I could start by doing a nightshade elimination diet, which many people with pain have found helpful. The book _Trigger Point Therapy for Headaches and Migraines: Your Self -Treatment Workbook for Pain Relief_ by Valerie DeLaune said this about caffeine:
+I have yet to find a food that triggers inflammation. Doesn't mean that one doesn't exist, just means I haven't found it. I could start by doing a nightshade elimination diet, which many people with pain have found helpful.
+
+The book _Trigger Point Therapy for Headaches and Migraines: Your Self -Treatment Workbook for Pain Relief_ by Valerie DeLaune said this about caffeine:
 
 > Caffeine causes a persistent contracture of muscle fibers (sometimes referred to as “_caffeine rigor_”) and increases muscle tension and trigger point irritability...
 
@@ -84,7 +92,9 @@ As I've stated many times on this blog, my track record with health professional
 ### Since December
 
 
-Since my _Help Me_ post, I have continued doing neck mobility and the _3 Minutes_ routine. I have also experimented with the ball massage, foam rollers, and spent a few weeks attempting to do Trigger Point Therapy. None of has helped. In fact, I think the Trigger Point work made things worse, which I covered in the post [Kefir, Caffeine, and Trigger Point Therapy](/2013/01/kefir-caffeine-and-trigger-point-therapy/). I have also resumed doing shoulder presses at the gym. I falsely associated that movement with tight shoulders. It appears to be innocent. My plan now is to learn about Feldenkrais, continue the _3 Minutes_ routine, do some isometric neck exercises, and fix my chair. Then I'll attempt to take a nap on the floor at first - with and without a pillow. That should be a good start. I'll also prepare a nightshade elimination test along with exploring a low inflammation diet, although I don't think that is the cause. The "caffeine rigor" thing is puzzling to me as are the roots of the tightness.
+Since my _Help Me_ post, I have continued doing neck mobility and the _3 Minutes_ routine. I have also experimented with the ball massage, foam rollers, and spent a few weeks attempting to do Trigger Point Therapy. None of has helped. In fact, I think the Trigger Point work made things worse, which I covered in the post [Kefir, Caffeine, and Trigger Point Therapy](/2013/01/kefir-caffeine-and-trigger-point-therapy/). I have also resumed doing shoulder presses at the gym. I falsely associated that movement with tight shoulders. It appears to be innocent.
+
+My plan now is to learn about Feldenkrais, continue the _3 Minutes_ routine, do some isometric neck exercises, and fix my chair. Then I'll attempt to take a nap on the floor at first - with and without a pillow. That should be a good start. I'll also prepare a nightshade elimination test along with exploring a low inflammation diet, although I don't think that is the cause. The "caffeine rigor" thing is puzzling to me as are the roots of the tightness.
 
 ---
 

@@ -9,7 +9,9 @@ description: "There was a time when I really loved running. Well, I loved it dur
 commentCount: 19
 ---
 
-There was a time when I really [loved running](/2008/03/the-runner-1989-1995/). Well, I loved it during those rare times when my body wasn't in pain, which was not as often as I would have liked. By the middle of 1995, I gave up running. It was just too hard on my 6-foot 2.5-inch body. The first clue that I probably shouldn't be doing distance running came in 1992. The USA Olympic trials for the Men's Marathon came to my hometown of Columbus, Ohio. I clearly remember flipping through the program, which highlighted the 125 runners that were invited. Only one runner was over 6 feet tall and he didn't place in the top 3. If [14.5%](https://web.archive.org/web/20171115084844/http://gladwell.com:80/blink/why-do-we-love-tall-men/) of all men in America are over 6 feet tall, why were less than 1% of our elite distance runners that tall? Some of us gravitate towards other sports that reward height, but the rest of us just experience too much pain when we run.
+There was a time when I really [loved running](/2008/03/the-runner-1989-1995/). Well, I loved it during those rare times when my body wasn't in pain, which was not as often as I would have liked. By the middle of 1995, I gave up running. It was just too hard on my 6-foot 2.5-inch body.
+
+The first clue that I probably shouldn't be doing distance running came in 1992. The USA Olympic trials for the Men's Marathon came to my hometown of Columbus, Ohio. I clearly remember flipping through the program, which highlighted the 125 runners that were invited. Only one runner was over 6 feet tall and he didn't place in the top 3. If [14.5%](https://web.archive.org/web/20171115084844/http://gladwell.com:80/blink/why-do-we-love-tall-men/) of all men in America are over 6 feet tall, why were less than 1% of our elite distance runners that tall? Some of us gravitate towards other sports that reward height, but the rest of us just experience too much pain when we run.
 
 
 ### Sprinting is Superior
@@ -21,7 +23,9 @@ For the past few years, I've been a regular reader of _Conditioning Research_, w
 -   [Exercise and brain health : just sprint for new mitochondria?](http://conditioningresearch.blogspot.com/2011/10/exercise-and-brain-health-just-sprint.html)\- Sprinting or interval training may protect the brain from dementia or other central nervous system diseases by increasing mitochondrial biogenesis in the brain.
 -   [Is sprint exercise a leptin signaling mimetic](http://conditioningresearch.blogspot.jp/2011/09/is-sprint-exercise-leptin-signaling.html) - By sprinting in a fasted state you could trigger the leptin hormone which controls appetite.
 
-A few months ago, I got fired up to start sprinting. Right from the beginning, I was having pain issues. I adjusted my warm-up and tried to improve my stride. It helped, but whenever I tried to dial up the intensity, something would happen and I'd be sidelined. I understood why distance running was hell on my tall physique, but why was sprinting a problem? Thankfully, the search engines were able to answer this question for me. From the article [Taking Sprinting to New Heights](http://www.slate.com/articles/sports/fivering_circus/2008/08/taking_sprinting_to_new_heights.html) by Edward McClelland:
+A few months ago, I got fired up to start sprinting. Right from the beginning, I was having pain issues. I adjusted my warm-up and tried to improve my stride. It helped, but whenever I tried to dial up the intensity, something would happen and I'd be sidelined.
+
+I understood why distance running was hell on my tall physique, but why was sprinting a problem? Thankfully, the search engines were able to answer this question for me. From the article [Taking Sprinting to New Heights](http://www.slate.com/articles/sports/fivering_circus/2008/08/taking_sprinting_to_new_heights.html) by Edward McClelland:
 
 > Traditionally, height has been seen as a detriment to sprinting. The formula for speed is stride length times stride rate. If the longest legs always won the race, then Yao Ming would have the world record in the 100, and lions wouldn't eat giraffes.
 
@@ -35,7 +39,17 @@ The article discusses how 6-foot-5 Usain Bolt became an amazing sprinter only af
 ### Running Up That Hill
 
 
-The problem with running for tall people is the long stride. One way to shorten the stride is to wear minimalist shoes. That is a good start, but the best way I discovered is to **just run uphill**. Unlike my first two hometowns of Columbus, OH, and St. Petersburg, FL, which were flat as a pancake, Seattle has some amazing hills inside the city. One of those hills just happens to be less than 100 meters from my front door. ![run-uphill](./img/run-uphill.jpg) _My uphill running course._ I'm not the first to figure this out. _Conditioning Research_ also did a post on hill sprints titled [The single best exercise](http://conditioningresearch.blogspot.com/2011/05/single-best-exercise.html). For the past month or so, I've been experimenting with **just running uphill**. My body loves it. My stride is shorter, the intensity is much greater than flat ground sprinting and my body doesn't take a pounding when my foot lands. And it is time efficient. I'm using Phil Campbell's Peak 8 protocol as a template. Go all out for 30 seconds and then rest for 90 seconds. Repeat this 8 times. For me, this means sprinting uphill and then slowly walking back downhill to ready myself for the next sprint. I'm easing into this program and expect to be at 8 sets within two weeks. I'm running again. Only this time, I feel great.
+The problem with running for tall people is the long stride. One way to shorten the stride is to wear minimalist shoes. That is a good start, but the best way I discovered is to **just run uphill**. Unlike my first two hometowns of Columbus, OH, and St. Petersburg, FL, which were flat as a pancake, Seattle has some amazing hills inside the city. One of those hills just happens to be less than 100 meters from my front door.
+
+![run-uphill](./img/run-uphill.jpg)
+
+_My uphill running course._
+
+I'm not the first to figure this out. _Conditioning Research_ also did a post on hill sprints titled [The single best exercise](http://conditioningresearch.blogspot.com/2011/05/single-best-exercise.html). For the past month or so, I've been experimenting with **just running uphill**. My body loves it. My stride is shorter, the intensity is much greater than flat ground sprinting and my body doesn't take a pounding when my foot lands. And it is time efficient.
+
+I'm using Phil Campbell's Peak 8 protocol as a template. Go all out for 30 seconds and then rest for 90 seconds. Repeat this 8 times. For me, this means sprinting uphill and then slowly walking back downhill to ready myself for the next sprint. I'm easing into this program and expect to be at 8 sets within two weeks.
+
+I'm running again. Only this time, I feel great.
 
 ---
 

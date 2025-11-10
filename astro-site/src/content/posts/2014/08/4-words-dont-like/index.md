@@ -15,7 +15,9 @@ Recently I was asked if there were any words I don't like. Four words came to 
 ### #1 Google (verb form, to search)
 
 
-You will never hear me say "Google it". **Google does not equal search.** It is one component of search, but not the only one. It is my default search engine at home, but I don't start every search there. I search books on Amazon, movies on IMDB, history on Wikipedia, breaking news on Twitter, photos on Flickr and friends on Facebook. I could probably rattle off 20 more examples where I don't start my search on Google. I use the word search, because it has a broader and more accurate meaning than the verb form of Google. Mark Cuban did a good post on the [change in search](http://blogmaverick.com/2014/01/18/is-search-changing/).
+You will never hear me say "Google it". **Google does not equal search.** It is one component of search, but not the only one. It is my default search engine at home, but I don't start every search there. I search books on Amazon, movies on IMDB, history on Wikipedia, breaking news on Twitter, photos on Flickr and friends on Facebook. I could probably rattle off 20 more examples where I don't start my search on Google.
+
+I use the word search, because it has a broader and more accurate meaning than the verb form of Google. Mark Cuban did a good post on the [change in search](http://blogmaverick.com/2014/01/18/is-search-changing/).
 
 
 ### #2 Ink (verb form, business use)
@@ -31,7 +33,11 @@ The word busy is not only [overused](/2006/06/are-you-really-busy/) when applie
 
 > Being busy is a form of laziness - lazy thinking and indiscriminate action.
 
-And if it is used repeatedly as an excuse for not engaging in social relationships, then it can come off as insulting. ![busy](./img/6238196642_42f74994bd_z.jpg) _[Busy](https://flic.kr/p/avfoww) by thesaltr_
+And if it is used repeatedly as an excuse for not engaging in social relationships, then it can come off as insulting.
+
+![busy](./img/6238196642_42f74994bd_z.jpg)
+
+_[Busy](https://flic.kr/p/avfoww) by thesaltr_
 
 
 ### #4 Befriend
@@ -43,7 +49,9 @@ I don't care for the word befriend, because it sounds sinister. Let me explain. 
 ### Other Words?
 
 
-Did I make the case for any of my four words? Do you have any words you'd like to add to the dislike list? UPDATE: My least favorite is actually "you should". Did an [entire post](/2014/10/worst-advice-always-starts/) on that.
+Did I make the case for any of my four words? Do you have any words you'd like to add to the dislike list?
+
+UPDATE: My least favorite is actually "you should". Did an [entire post](/2014/10/worst-advice-always-starts/) on that.
 
 ---
 

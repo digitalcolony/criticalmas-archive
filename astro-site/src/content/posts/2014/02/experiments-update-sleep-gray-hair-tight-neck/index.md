@@ -15,13 +15,23 @@ This will be a quick post on the status of my latest experiments. I've been sick
 ### Sleep
 
 
-There are two current experiments related to sleep. The first I outlined in the post [An Amazing "Back to Sleep" Hack](/2014/01/amazing-back-sleep-hack/) which involves dissolving a pinch of sugar and salt under the tongue to help go back to sleep. This trick continues to work wonders. This might be the **best hack** I've stumbled on since I started my renewed interest in health in 2007. Well except for eliminating wheat. The second hack was mentioned in the comments of that post. It involves consuming tablespoons of honey prior to bed for deep sleep. I've tried this three times and it hasn't helped a bit. But in fairness to this sleep hack, it might be better for those that have trouble initially falling asleep, which has never been my issue. ![MAS Sleeping ](./img/michael_sleeping.jpg) _Lil' MAS sleeping_
+There are two current experiments related to sleep. The first I outlined in the post [An Amazing "Back to Sleep" Hack](/2014/01/amazing-back-sleep-hack/) which involves dissolving a pinch of sugar and salt under the tongue to help go back to sleep. This trick continues to work wonders. This might be the **best hack** I've stumbled on since I started my renewed interest in health in 2007. Well except for eliminating wheat.
+
+The second hack was mentioned in the comments of that post. It involves consuming tablespoons of honey prior to bed for deep sleep. I've tried this three times and it hasn't helped a bit. But in fairness to this sleep hack, it might be better for those that have trouble initially falling asleep, which has never been my issue.
+
+![MAS Sleeping ](./img/michael_sleeping.jpg)
+
+_Lil' MAS sleeping_
 
 
 ### Gray Hair
 
 
-In the post [Reversing Gray Hair? Part 2](/2013/09/reversing-gray-hair-part-2/), I theorized along with some commenters that a combination of L-Tyrosine and Copper might stall the progression or even reverse gray hair. Five months have passed since that post and I have been diligent about taking both those supplements. For me the result has been the gray is coming faster than before. I don't think the supplements caused the acceleration, but for now it appears they aren't doing what the experiment hoped they would do. Oh well, bring on the gray. With my longer thick hair, I'll probably end up looking like [Bill Fleckenstein](http://www.businessinsider.com/heres-how-legednary-hedge-funder-bill-fleckenstein-is-investing-right-now-2010-9). Going forward I'll continue taking copper for its [heart health benefits](http://wholehealthsource.blogspot.com/2010/04/copper-and-cardiovascular-disease.html), but I'll probably only use L-Tyrosine when I reduce my coffee levels.
+In the post [Reversing Gray Hair? Part 2](/2013/09/reversing-gray-hair-part-2/), I theorized along with some commenters that a combination of L-Tyrosine and Copper might stall the progression or even reverse gray hair. Five months have passed since that post and I have been diligent about taking both those supplements. For me the result has been the gray is coming faster than before. I don't think the supplements caused the acceleration, but for now it appears they aren't doing what the experiment hoped they would do.
+
+Oh well, bring on the gray. With my longer thick hair, I'll probably end up looking like [Bill Fleckenstein](http://www.businessinsider.com/heres-how-legednary-hedge-funder-bill-fleckenstein-is-investing-right-now-2010-9).
+
+Going forward I'll continue taking copper for its [heart health benefits](http://wholehealthsource.blogspot.com/2010/04/copper-and-cardiovascular-disease.html), but I'll probably only use L-Tyrosine when I reduce my coffee levels.
 
 
 ### Tight Neck

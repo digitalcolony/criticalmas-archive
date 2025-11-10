@@ -20,25 +20,43 @@ The first [comment by Derek](/2019/04/millennials-have-killed-the-glitter-gym/#c
 
 > This phone-obsession phenomenon is definitely not exclusive to millennials–they are just more obvious. I’ve seen 60 year olds terrified to set their phone down for 10 minutes for fear of missing ‘something’.
 
-Well, it happened. I am now the last person left in my gym that keeps their phone in their pocket and is not wearing headphones. In what other ways has my gym changed since that post?
+Well, it happened. I am now the last person left in my gym that keeps their phone in their pocket and is not wearing headphones.
+
+In what other ways has my gym changed since that post?
 
 
 ### The Silver Sneakers Are Gone
 
 
-One of the things I loved about my gym was seeing and chatting with the older members. These Silver Sneakers are primarily from the [Silent Generation](https://en.wikipedia.org/wiki/Silent_Generation). They were a joy to be around. They are now gone. COVID fear - even with Omicron - has kept this group from returning to my gym. I ran into one of my favorite Silver Sneakers at the grocery store. She loved going to the gym every day. She was a big Alabama fan and we used to have friendly banter on college football. Her husband passed away and now she is too afraid to return to the gym.
+One of the things I loved about my gym was seeing and chatting with the older members. These Silver Sneakers are primarily from the [Silent Generation](https://en.wikipedia.org/wiki/Silent_Generation). They were a joy to be around. They are now gone. COVID fear - even with Omicron - has kept this group from returning to my gym.
+
+I ran into one of my favorite Silver Sneakers at the grocery store. She loved going to the gym every day. She was a big Alabama fan and we used to have friendly banter on college football. Her husband passed away and now she is too afraid to return to the gym.
 
 
 ### Gen X Has Left the Weight Room
 
 
-I see some of my fellow Gen X on cardio machines, but I am now the old man in the free weight room. I expected this would happen. Seattle is a young city and I see lifters taking far too much risk with their exercise selection as they get older. **The exercises that build you up when you are young are the same ones that break you when you age.** Lifters don't want to hear this message. I have more than a decade of posts and comments on this very topic. I [stopped barbell back squatting](/2012/06/i-no-longer-give-a-squat-about-the-squat/) and most benches. I survived. Those that kept slamming the Big-3 lifts past 40 stopped coming to the gym. Young lifters think their life priorities changed. I know that isn't true. People that spent two decades developing the discipline to lift don't walk away from weight training unless they are in pain. Some might, but not the majority. ![weights](./img/brett-jordan-xboI4P4OprI-unsplash.jpg) _Photo by [Brett Jordan](https://unsplash.com/@brett_jordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+I see some of my fellow Gen X on cardio machines, but I am now the old man in the free weight room. I expected this would happen. Seattle is a young city and I see lifters taking far too much risk with their exercise selection as they get older. **The exercises that build you up when you are young are the same ones that break you when you age.**
+
+Lifters don't want to hear this message. I have more than a decade of posts and comments on this very topic. I [stopped barbell back squatting](/2012/06/i-no-longer-give-a-squat-about-the-squat/) and most benches. I survived.
+
+Those that kept slamming the Big-3 lifts past 40 stopped coming to the gym. Young lifters think their life priorities changed. I know that isn't true. People that spent two decades developing the discipline to lift don't walk away from weight training unless they are in pain. Some might, but not the majority.
+
+![weights](./img/brett-jordan-xboI4P4OprI-unsplash.jpg)
+
+_Photo by [Brett Jordan](https://unsplash.com/@brett_jordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 
 ### The Gym is Quiet
 
 
-Now that everyone - except me - comes to the gym with their own headphones and smartphone, my gym has turned the music down extremely low. Combine that with the fact there is almost zero socialization since the Silver Sneakers left and you end up with an eerily quiet gym. My neighborhood library branch is now louder than my gym. I actually don't mind the silence. I've never worn headphones in the free weight room. Cardio machines, sure, but not around the weights. I've seen too many [crazy things in the free weight room](https://criticalmas.org/best-of/tales-from-the-glitter-gym/). I want to be present and alert to my surroundings. Plus I'm OK with listening to my own thoughts. I don't need to inflict hearing damage to muster up the motivation to knock out one more rep. I'm the old-timer that goes into the free weight room to lift, not to tweak a Spotify playlist. 👴🏼
+Now that everyone - except me - comes to the gym with their own headphones and smartphone, my gym has turned the music down extremely low. Combine that with the fact there is almost zero socialization since the Silver Sneakers left and you end up with an eerily quiet gym.
+
+My neighborhood library branch is now louder than my gym.
+
+I actually don't mind the silence. I've never worn headphones in the free weight room. Cardio machines, sure, but not around the weights. I've seen too many [crazy things in the free weight room](https://criticalmas.org/best-of/tales-from-the-glitter-gym/). I want to be present and alert to my surroundings. Plus I'm OK with listening to my own thoughts. I don't need to inflict hearing damage to muster up the motivation to knock out one more rep.
+
+I'm the old-timer that goes into the free weight room to lift, not to tweak a Spotify playlist. 👴🏼
 
 
 ### Masks and Mouth Breathing
@@ -50,7 +68,9 @@ There are a few healthy young people in my gym still wearing masks. I'm not goin
 ### How About Your Gym?
 
 
-I sometimes miss the pre-smartphone days, but I'm OK with the current situation. I have the discipline to keep showing up and the knowledge not to hurt myself. My younger self would likely not have been as motivated in today's modern gym. Has your gym turned into a zombie iPhone dance?
+I sometimes miss the pre-smartphone days, but I'm OK with the current situation. I have the discipline to keep showing up and the knowledge not to hurt myself. My younger self would likely not have been as motivated in today's modern gym.
+
+Has your gym turned into a zombie iPhone dance?
 
 ---
 

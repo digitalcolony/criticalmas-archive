@@ -9,7 +9,19 @@ description: "About five years ago, I read the first edition of The Warrior Diet
 commentCount: 6
 ---
 
-About five years ago, I read the first edition of _The Warrior Diet_. At the time I just shook my head thinking that this diet would not only be impossibly hard to follow but that it couldn't be true. Up until I read _The Warrior Diet_, all diets that I had been exposed to either relied on caloric restriction and or reducing the insulin response. _The Warrior Diet_ went further than just minimizing insulin and went after other hormones such as estrogen, testosterone, and glucagon via aggressive daily caloric cycling and food choices. I recall the book being trashed by some of the writers I was following at the time, but most of their complaints dealt with the fact one couldn't build muscle on the diet (bulk up) and that the exercise plan in the last chapters was poorly written. Since my only goal five years ago was to gain muscle, I promptly ignored everything I read in the book and continued eating 6 protein meals a day. A little over a year ago I was exposed to the hormonal aspect to fat loss again from different sources. This time I was more receptive to the information. I decided to read the 2nd edition of _The Warrior Diet_. ![The Warrior Diet: Switch on Your Biological Powerhouse For High Energy, Explosive Strength, and a Leaner, Harder Body](https://images-na.ssl-images-amazon.com/images/I/51ATqNfOQUL.jpg) _The Warrior Diet: Switch on Your Biological Powerhouse For High Energy, Explosive Strength, and a Leaner, Harder Body by Ori Hofmekler_ isn't for everyone. _The Warrior Diet_ involves caloric cycling. For most people, this style of dieting represents a radical departure. That could be just what you need or you could throw down the book as I did five years ago. The way I would approach this book is by learning the hormonal aspect of fat loss and then slowly trying to incorporate some of those strategies into your life. The diet involves manipulating hormones through under-eating and overeating phases. And since people in modern society get uncomfortable when they experience hunger, it can take a lot of effort and unlearning a bit of nutritional nonsense to be comfortable in a hungry state. Ori Hofmekler for years has been at the forefront of exposing estrogens in our food and environmental toxins. Although he wrote an entire book on that topic, this book provides information on foods to avoid (soy, processed meats, licorice) and foods that are anti-estrogenic. Here are some anti-estrogenic foods mentioned in the book:
+About five years ago, I read the first edition of _The Warrior Diet_. At the time I just shook my head thinking that this diet would not only be impossibly hard to follow but that it couldn't be true. Up until I read _The Warrior Diet_, all diets that I had been exposed to either relied on caloric restriction and or reducing the insulin response. _The Warrior Diet_ went further than just minimizing insulin and went after other hormones such as estrogen, testosterone, and glucagon via aggressive daily caloric cycling and food choices.
+
+I recall the book being trashed by some of the writers I was following at the time, but most of their complaints dealt with the fact one couldn't build muscle on the diet (bulk up) and that the exercise plan in the last chapters was poorly written. Since my only goal five years ago was to gain muscle, I promptly ignored everything I read in the book and continued eating 6 protein meals a day.
+
+A little over a year ago I was exposed to the hormonal aspect to fat loss again from different sources. This time I was more receptive to the information. I decided to read the 2nd edition of _The Warrior Diet_.
+
+![The Warrior Diet: Switch on Your Biological Powerhouse For High Energy, Explosive Strength, and a Leaner, Harder Body](https://images-na.ssl-images-amazon.com/images/I/51ATqNfOQUL.jpg)
+
+_The Warrior Diet: Switch on Your Biological Powerhouse For High Energy, Explosive Strength, and a Leaner, Harder Body by Ori Hofmekler_ isn't for everyone. _The Warrior Diet_ involves caloric cycling. For most people, this style of dieting represents a radical departure. That could be just what you need or you could throw down the book as I did five years ago.
+
+The way I would approach this book is by learning the hormonal aspect of fat loss and then slowly trying to incorporate some of those strategies into your life. The diet involves manipulating hormones through under-eating and overeating phases. And since people in modern society get uncomfortable when they experience hunger, it can take a lot of effort and unlearning a bit of nutritional nonsense to be comfortable in a hungry state.
+
+Ori Hofmekler for years has been at the forefront of exposing estrogens in our food and environmental toxins. Although he wrote an entire book on that topic, this book provides information on foods to avoid (soy, processed meats, licorice) and foods that are anti-estrogenic. Here are some anti-estrogenic foods mentioned in the book:
 
 1.  cruciferous vegetables
 2.  omega-3 oils
@@ -19,7 +31,9 @@ About five years ago, I read the first edition of _The Warrior Diet_. At the tim
 6.  dairy products from grass-fed animals
 7.  chamomile
 
-I walked away with several tips on improving my diet and more concerned than ever about environmental toxins. [Warrior Diet Notes](./img/WarriorDiet.txt)
+I walked away with several tips on improving my diet and more concerned than ever about environmental toxins.
+
+[Warrior Diet Notes](./img/WarriorDiet.txt)
 
 ---
 

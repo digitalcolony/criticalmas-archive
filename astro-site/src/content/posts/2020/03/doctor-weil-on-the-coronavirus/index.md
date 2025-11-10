@@ -21,7 +21,13 @@ In order to get it from garlic, the garlic needs to be chopped up and exposed to
 
 > Allinase is destroyed once the garlic is heated above 117 °F/ 47 °C for wet heat and 150 °F/ 66 °C for dry heat.
 
-Dr. Weil read a letter from a Chinese doctor that mentions a county in China with 1.3 million people where most of the garlic is produced. There hasn't been a single case of Coronavirus there, even though 30,000 of their residents work in the Wuhan region. Those residents consume a lot of garlic. What other tips would you add to this list? ![](./img/shelley-pauls-garlic.jpg) _Photo by [Shelley Pauls](https://unsplash.com/@shelleypauls)_
+Dr. Weil read a letter from a Chinese doctor that mentions a county in China with 1.3 million people where most of the garlic is produced. There hasn't been a single case of Coronavirus there, even though 30,000 of their residents work in the Wuhan region. Those residents consume a lot of garlic.
+
+What other tips would you add to this list?
+
+![](./img/shelley-pauls-garlic.jpg)
+
+_Photo by [Shelley Pauls](https://unsplash.com/@shelleypauls)_
 
 ---
 

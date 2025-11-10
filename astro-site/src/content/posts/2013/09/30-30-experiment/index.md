@@ -9,7 +9,21 @@ description: "I've started a new experiment. This time I will be testing an idea
 commentCount: 15
 ---
 
-I've started a new experiment. This time I will be testing an idea from Tim Ferriss. Upon waking I will consume 30 grams of protein within 30 minutes. In the book [The 4 Hour Body](/2010/12/initial-impression-of-the-4-hour-body/), Ferriss mentions how this trick helps accelerate fat burning. By starting the day off with a high dose of protein, Ferriss has found that it has an appetite suppressing effect which results in an easier path to fat loss. _4HourLife_ has some ideas on how to get those 30 grams. For me, even though I think whey protein is the one of most hyped overrated supplements, I bought some to make this experiment easier. ![The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman](https://images-na.ssl-images-amazon.com/images/I/41DeCVMleRL.jpg) _The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman by Timothy Ferriss_ This experiment is a radical change for me. I've never started my day off immediately with food. In the past few years, I've gone hours before consuming calories. Besides seeing if the 30-30 method could control my appetite, I also selected this experiment because it will help me be morning compliant with an idea from the Ray Peat crowd. They warn against consuming coffee on an empty stomach as it can trigger stress hormones. I started this experiment on Friday September 20th. Way too soon to tell if it is having an effect. I'm only interested in losing 10 pounds. Unless I get a negative response, which I don't expect, I'll keep this experiment going for at least 60 days. I wonder how well the 30-30 plan works for the last 10 pounds? Has anyone experimented with it? I'd especially like to hear from those that normally would skip breakfast. 2017 UPDATE: 4HourLife removed their 30 grams of protein post. Here is an archived screen shot: ![](./img/30-grams-of-protein.png)
+I've started a new experiment. This time I will be testing an idea from Tim Ferriss. Upon waking I will consume 30 grams of protein within 30 minutes. In the book [The 4 Hour Body](/2010/12/initial-impression-of-the-4-hour-body/), Ferriss mentions how this trick helps accelerate fat burning.
+
+By starting the day off with a high dose of protein, Ferriss has found that it has an appetite suppressing effect which results in an easier path to fat loss. _4HourLife_ has some ideas on how to get those 30 grams. For me, even though I think whey protein is the one of most hyped overrated supplements, I bought some to make this experiment easier.
+
+![The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman](https://images-na.ssl-images-amazon.com/images/I/41DeCVMleRL.jpg) _The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman by Timothy Ferriss_
+
+This experiment is a radical change for me. I've never started my day off immediately with food. In the past few years, I've gone hours before consuming calories. Besides seeing if the 30-30 method could control my appetite, I also selected this experiment because it will help me be morning compliant with an idea from the Ray Peat crowd. They warn against consuming coffee on an empty stomach as it can trigger stress hormones.
+
+I started this experiment on Friday September 20th. Way too soon to tell if it is having an effect. I'm only interested in losing 10 pounds. Unless I get a negative response, which I don't expect, I'll keep this experiment going for at least 60 days.
+
+I wonder how well the 30-30 plan works for the last 10 pounds? Has anyone experimented with it? I'd especially like to hear from those that normally would skip breakfast.
+
+2017 UPDATE: 4HourLife removed their 30 grams of protein post. Here is an archived screen shot:
+
+![](./img/30-grams-of-protein.png)
 
 ---
 

@@ -9,11 +9,23 @@ description: "MAY 2019: This video debunked many of the claims in The Vegetarian
 commentCount: 10
 ---
 
-**MAY 2019: [This video](https://www.youtube.com/watch?v=oMuxgAbHgJA) debunked many of the claims in The Vegetarian Myth.** I wish this book was around when I first looked into starting a vegetarian diet. ![The Vegetarian Myth: Food, Justice, and Sustainability](https://images-na.ssl-images-amazon.com/images/I/51w3alQAXmL.jpg) _The Vegetarian Myth: Food, Justice, and Sustainability by Lierre Keith_ is a good book from a 20 year vegan who returned to meat. The author writes in a **highly respectful and caring voice** to those readers who may be following a vegetarian diet. The book covers environmental issues, nutrition, mental health, and the politics of big agriculture. It is not preachy at all. It is written in a conversational yet informative manner. This book is not perfect. For some reason, there is no index in the back of the book. I'll never understand why an editor of a non-fiction book would exclude an index. If I want to revisit the pages on serotonin and tryptophan, I have to thumb through each page hoping those words catch my eye. I would hope that if there is a second edition an index is added. I also didn't like the last chapter. Instead of being a concise summary, it was just a rambling incoherent dialog with feminist opinions that seems completely out of place in a book on food. **If you read this book, skip the last chapter.** Despite the last chapter, I think this is a very good resource for someone who is considering or having doubts about their vegetarian diet. This book is your second opinion. Because our [diet can be our identity](/2010/08/diet-as-identity/), we tend to seek out information that confirms instead of challenging our choices. This is called confirmation bias. It can be dangerous not to test your assumptions, especially if your early ones are incorrect.
+**MAY 2019: [This video](https://www.youtube.com/watch?v=oMuxgAbHgJA) debunked many of the claims in The Vegetarian Myth.**
+
+I wish this book was around when I first looked into starting a vegetarian diet.
+
+![The Vegetarian Myth: Food, Justice, and Sustainability](https://images-na.ssl-images-amazon.com/images/I/51w3alQAXmL.jpg) _The Vegetarian Myth: Food, Justice, and Sustainability by Lierre Keith_ is a good book from a 20 year vegan who returned to meat. The author writes in a **highly respectful and caring voice** to those readers who may be following a vegetarian diet. The book covers environmental issues, nutrition, mental health, and the politics of big agriculture. It is not preachy at all. It is written in a conversational yet informative manner.
+
+This book is not perfect. For some reason, there is no index in the back of the book. I'll never understand why an editor of a non-fiction book would exclude an index. If I want to revisit the pages on serotonin and tryptophan, I have to thumb through each page hoping those words catch my eye. I would hope that if there is a second edition an index is added. I also didn't like the last chapter. Instead of being a concise summary, it was just a rambling incoherent dialog with feminist opinions that seems completely out of place in a book on food. **If you read this book, skip the last chapter.**
+
+Despite the last chapter, I think this is a very good resource for someone who is considering or having doubts about their vegetarian diet. This book is your second opinion. Because our [diet can be our identity](/2010/08/diet-as-identity/), we tend to seek out information that confirms instead of challenging our choices. This is called confirmation bias. It can be dangerous not to test your assumptions, especially if your early ones are incorrect.
 
 > It aint what you dont know that gets you into trouble. Its what you know for sure that just aint so. - Mark Twain
 
-If you don't have the time to read this book, let me point you to two podcast interviews the author did about the _Vegetarian Myth_. Primal Body, Primal Mind Podcast - Scroll down to May 5, 2010. (interview removed from page as of December 2020) Former 20-Year Vegan Lierre Keith Now Advocates Omnivorism (Episode 334) - Interview with Jimmy Moore. (search on iTunes, link down as of June 2019)
+If you don't have the time to read this book, let me point you to two podcast interviews the author did about the _Vegetarian Myth_.
+
+Primal Body, Primal Mind Podcast - Scroll down to May 5, 2010. (interview removed from page as of December 2020)
+
+Former 20-Year Vegan Lierre Keith Now Advocates Omnivorism (Episode 334) - Interview with Jimmy Moore. (search on iTunes, link down as of June 2019)
 
 ---
 

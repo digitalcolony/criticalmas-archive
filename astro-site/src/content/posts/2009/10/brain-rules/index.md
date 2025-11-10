@@ -9,7 +9,9 @@ description: "This was another brain book that Amazon recommended for me. !Brain
 commentCount: 0
 ---
 
-This was another brain book that Amazon recommended for me. ![Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School](https://images-na.ssl-images-amazon.com/images/I/41p5X--JvhL.jpg) Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School is by John Medina who happens to live in Seattle and hold a faculty position at Seattle Pacific University, which is in my neighborhood. Brain Rules is divided into 12 chapters. Each chapter covers one aspect of your brain. The first half of the book covered material that I had mostly learned from other books. The second half of the book is what got me interested. My three favorite chapters were:
+This was another brain book that Amazon recommended for me.
+
+![Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School](https://images-na.ssl-images-amazon.com/images/I/41p5X--JvhL.jpg) Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School is by John Medina who happens to live in Seattle and hold a faculty position at Seattle Pacific University, which is in my neighborhood. Brain Rules is divided into 12 chapters. Each chapter covers one aspect of your brain. The first half of the book covered material that I had mostly learned from other books. The second half of the book is what got me interested. My three favorite chapters were:
 
 -   Chapter 8 - An excellent overview about how stress affects the learning process. The book explains why good students that come from homes where the parents are going through divorce can stop learning.
 -   Chapter 11 - Girls are better at language skills than boys and boys are better at math. Or are they? This chapter describes a strategy for teaching girls math to put them on par with boys.

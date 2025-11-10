@@ -9,7 +9,33 @@ description: "For several years now I have been aware of Hyperlipid. It is a tec
 commentCount: 8
 ---
 
-For several years now I have been aware of [Hyperlipid](https://high-fat-nutrition.blogspot.com/). It is a technical nutritional blog that is highly regarded, especially in the low-carb community. I've always felt there was something worth learning, but it was beyond my comprehension level. So I was happy to discover a podcast interview with Peter of Hyperlipid on the Peak Human podcast. [Peak Human #133 Peter from Hyperlipid](https://www.peak-human.com/post/peter-from-hyperlipid-on-are-medical-professionals-giving-the-absolutely-wrong-advice) The podcast was quite approachable to those of us without a biochemistry background. Although I am not low-carb, the information covered on the show further supports the case that linoleic acid in seed oil is the primary driver of obesity. I took some notes of the ideas I found to be the most important. Carbs are not the problem. Although carbs cause the increase of insulin which drives fat into fat cells, Peter points out that the fat signals when this process is to stop. Saturated fat signals for this process to stop once the cell is full, whereas linoleic acid stops the stop signal. This is a breakdown of how the fat cells communicate satiety with the brain. This is problematic in a modern world when so many of our fat calories are coming from seed oils because linoleic acid prevents the satiety signal. We keep eating. This is super interesting. I was already aware of the inflammatory issues and even how high levels of PUFA in our fat cells can reduce our metabolic health and even [mimic hibernation](/2021/04/escaping-pufa-hibernation/). And now satiety itself is negatively impacted. Satiety is a topic of nutrition that has been most important to me, as I used my [potatoes and protein diet](/2018/12/potatoes-and-protein-two-attacks-on-hunger/) to crush my appetite. Not only was my diet working via high volume (boiled potatoes) and high protein but because I also restricted seed oils, I was able to reach satiety sooner. Carbs are intensely fattening in the presence of linoleic acid. Carbs bump up insulin and then the linoleic acid blocks the satiety signal. I loved the show. It is always refreshing to hear a knowledgeable low-carb person that doesn't peddle misinformation about carbohydrates. Peter even briefly mentions how starch-based diets can be effective. The key of course to keep the fat levels very low in the presence of carbs. Peter states to get weight loss quickly, one needs to either remove carbs or linoleic acid. A low-carb diet that avoids higher PUFA sources takes the first path and a low-fat whole foods diet takes the second. I like to cycle between the two approaches. Maybe a low-carb lunch followed by a dinner lower in fat. Low linoleic acid for both. More fat in the winter. More carbs in the summer. See my 2013 post [Approaching Nutrition From an Investor Mindset](/2013/04/approaching-nutrition-from-an-investors-mindset/) for a deeper explanation of how I think about this topic. ![french fries](./img/louis-hansel-880b45lhxCo-unsplash-scaled-e1636332908799.jpg) _Boiled potatoes are great. French fries are awful. Photo by [Louis Hansel](https://unsplash.com/@louishansel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._
+For several years now I have been aware of [Hyperlipid](https://high-fat-nutrition.blogspot.com/). It is a technical nutritional blog that is highly regarded, especially in the low-carb community. I've always felt there was something worth learning, but it was beyond my comprehension level. So I was happy to discover a podcast interview with Peter of Hyperlipid on the Peak Human podcast.
+
+[Peak Human #133 Peter from Hyperlipid](https://www.peak-human.com/post/peter-from-hyperlipid-on-are-medical-professionals-giving-the-absolutely-wrong-advice)
+
+The podcast was quite approachable to those of us without a biochemistry background. Although I am not low-carb, the information covered on the show further supports the case that linoleic acid in seed oil is the primary driver of obesity.
+
+I took some notes of the ideas I found to be the most important.
+
+Carbs are not the problem. Although carbs cause the increase of insulin which drives fat into fat cells, Peter points out that the fat signals when this process is to stop. Saturated fat signals for this process to stop once the cell is full, whereas linoleic acid stops the stop signal. This is a breakdown of how the fat cells communicate satiety with the brain.
+
+This is problematic in a modern world when so many of our fat calories are coming from seed oils because linoleic acid prevents the satiety signal. We keep eating.
+
+This is super interesting. I was already aware of the inflammatory issues and even how high levels of PUFA in our fat cells can reduce our metabolic health and even [mimic hibernation](/2021/04/escaping-pufa-hibernation/). And now satiety itself is negatively impacted.
+
+Satiety is a topic of nutrition that has been most important to me, as I used my [potatoes and protein diet](/2018/12/potatoes-and-protein-two-attacks-on-hunger/) to crush my appetite. Not only was my diet working via high volume (boiled potatoes) and high protein but because I also restricted seed oils, I was able to reach satiety sooner.
+
+Carbs are intensely fattening in the presence of linoleic acid. Carbs bump up insulin and then the linoleic acid blocks the satiety signal.
+
+I loved the show. It is always refreshing to hear a knowledgeable low-carb person that doesn't peddle misinformation about carbohydrates. Peter even briefly mentions how starch-based diets can be effective. The key of course to keep the fat levels very low in the presence of carbs.
+
+Peter states to get weight loss quickly, one needs to either remove carbs or linoleic acid. A low-carb diet that avoids higher PUFA sources takes the first path and a low-fat whole foods diet takes the second.
+
+I like to cycle between the two approaches. Maybe a low-carb lunch followed by a dinner lower in fat. Low linoleic acid for both. More fat in the winter. More carbs in the summer. See my 2013 post [Approaching Nutrition From an Investor Mindset](/2013/04/approaching-nutrition-from-an-investors-mindset/) for a deeper explanation of how I think about this topic.
+
+![french fries](./img/louis-hansel-880b45lhxCo-unsplash-scaled-e1636332908799.jpg)
+
+_Boiled potatoes are great. French fries are awful. Photo by [Louis Hansel](https://unsplash.com/@louishansel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._
 
 ---
 

@@ -32,7 +32,11 @@ My second real fitness mentor is Art De Vany. Like Pavel, Art does not advocate 
 -   He mentions safety concerns in the last repetition. Breaking form and gritting your teeth as you go for muscular failure can result in injury.
 -   He mentions that the brain records every failure and that the goal should be to seek success.
 
-De Vany confirmed with me what I had learned from Pavel. ![failure](./img/failure.jpg) _[Photo](https://flic.kr/p/aeZWUY) by Tomasz Stasiuk_
+De Vany confirmed with me what I had learned from Pavel.
+
+![failure](./img/failure.jpg)
+
+_[Photo](https://flic.kr/p/aeZWUY) by Tomasz Stasiuk_
 
 
 ### Enter Dr. Doug McGuff
@@ -59,13 +63,21 @@ It really is an interesting way to look at the flip side of Pavel and De Vany's 
 ### Survivorship Bias and Safety Concerns
 
 
-Pavel's argument about how the strongest people don't train to failure is weak. There is a survivorship bias with lifting an extreme volume of weight. The freaks of nature will always be able to recover faster than us mortals. If a body can tolerate high weights on high volume, then it would necessitate reducing intensity in order to squeeze in more workouts. Pavel also works with elite military and law enforcement, both of which weed out all but the most gifted candidates. The fact they don't train to failure is not relevant. De Vany's safety concerns are addressed in the High-Intensity community. Machines and slow movements prevent bad form. High Intensity also has its own breathing techniques and jaw position that differs from conventional weight training to prevent teeth mashing or holding of the breath. Watch [this video](http://www.youtube.com/watch?v=o3wwW_UMmyc) and notice how the lifter keeps his head in a locked position and does rapid breaths to prevent grunting or passing out. His movement is always controlled and bad form impossible. I agree that going to this level of failure using free weights is not safe.
+Pavel's argument about how the strongest people don't train to failure is weak. There is a survivorship bias with lifting an extreme volume of weight. The freaks of nature will always be able to recover faster than us mortals. If a body can tolerate high weights on high volume, then it would necessitate reducing intensity in order to squeeze in more workouts. Pavel also works with elite military and law enforcement, both of which weed out all but the most gifted candidates. The fact they don't train to failure is not relevant.
+
+De Vany's safety concerns are addressed in the High-Intensity community. Machines and slow movements prevent bad form. High Intensity also has its own breathing techniques and jaw position that differs from conventional weight training to prevent teeth mashing or holding of the breath. Watch [this video](http://www.youtube.com/watch?v=o3wwW_UMmyc) and notice how the lifter keeps his head in a locked position and does rapid breaths to prevent grunting or passing out. His movement is always controlled and bad form impossible. I agree that going to this level of failure using free weights is not safe.
 
 
 ### What Shall I Do?
 
 
-I went from a training protocol that never went to failure to one that always does. If De Vany's point about neurological failure is accurate, then I should be concerned. In nutrition, De Vany makes a solid case for not overloading one form of metabolism (glucose vs fat) and instead diversify for resilience. Perhaps a similar approach is needed here at the neurological level? Could altering the success and failure outcomes be the best hedge? I suppose Dr. McGuff would advise me to train my skills to success. But what if I don't participate in any other activities besides pushing weight at the gym? Do I need to find some movement-based activity outside the gym that I can train to successful outcomes? Maybe a _sane_ version of _CrossFit_? :shock: Or the other option would be to occasionally take a break from High-Intensity Training and cycle in a few Pavel 5x5 workouts. What do you think? JUNE 2011 UPDATE: [Training to Failure or Training to Quit Part 2](/2011/06/training-to-failure-or-training-to-quit-part-2/)
+I went from a training protocol that never went to failure to one that always does. If De Vany's point about neurological failure is accurate, then I should be concerned. In nutrition, De Vany makes a solid case for not overloading one form of metabolism (glucose vs fat) and instead diversify for resilience. Perhaps a similar approach is needed here at the neurological level? Could altering the success and failure outcomes be the best hedge?
+
+I suppose Dr. McGuff would advise me to train my skills to success. But what if I don't participate in any other activities besides pushing weight at the gym? Do I need to find some movement-based activity outside the gym that I can train to successful outcomes? Maybe a _sane_ version of _CrossFit_? :shock: Or the other option would be to occasionally take a break from High-Intensity Training and cycle in a few Pavel 5x5 workouts.
+
+What do you think?
+
+JUNE 2011 UPDATE: [Training to Failure or Training to Quit Part 2](/2011/06/training-to-failure-or-training-to-quit-part-2/)
 
 ---
 

@@ -9,17 +9,27 @@ description: "Pavel published a new book last year titled The Quick and the Dead
 commentCount: 29
 ---
 
-Pavel published a new book last year titled The Quick and the Dead - Total Training for the Advanced Minimalist. After [his appearance on Joe Rogan](https://www.youtube.com/watch?v=Rm0GNWSKzYs) recently, I discovered a copy in my local library. In this post, I will give a review/summary of the book and my initial experiences with the workout plan. ![Pavel - Quick & Dead](./img/pavel_quick-and-dead.jpg) _The Quick and the Dead: Total Training for the Advanced Minimalist_
+Pavel published a new book last year titled The Quick and the Dead - Total Training for the Advanced Minimalist. After [his appearance on Joe Rogan](https://www.youtube.com/watch?v=Rm0GNWSKzYs) recently, I discovered a copy in my local library.
+
+In this post, I will give a review/summary of the book and my initial experiences with the workout plan.
+
+![Pavel - Quick & Dead](./img/pavel_quick-and-dead.jpg)
+
+_The Quick and the Dead: Total Training for the Advanced Minimalist_
 
 
 ### Explosive Strength
 
 
-The theme of the Q&D is how to develop explosive strength. I don't play any sports or do martial arts, so I initially thought this book would be of no interest to me. But Pavel made a case that in addition to the benefits we normally associate with explosive training, it also has a powerful anti-aging health benefit. First, we lose speed, then strength, and then endurance. Muscle fiber loss happens in a preferential manner where the Type 2 fibers go first. He cites that an 80-year old sedentary man will have lost half the Type 2 fibers he had at age 30. Power or explosive training helps defend and restore this loss.
+The theme of the Q&D is how to develop explosive strength. I don't play any sports or do martial arts, so I initially thought this book would be of no interest to me. But Pavel made a case that in addition to the benefits we normally associate with explosive training, it also has a powerful anti-aging health benefit.
+
+First, we lose speed, then strength, and then endurance. Muscle fiber loss happens in a preferential manner where the Type 2 fibers go first. He cites that an 80-year old sedentary man will have lost half the Type 2 fibers he had at age 30. Power or explosive training helps defend and restore this loss.
 
 > A World War II vet not prone to babying himself or others, Prof. Yakovlev prescribed accelerations as the number one exercise choice for the elderly to stimulate both the plastic and the energetic processes (in other words, muscle building and aerobic). Beefing up one's mitochondria and fast-twitch fibers with power training is a great prescription for turning back the clock.
 
-Pavel also has charts describing the improvements the different forms of exercise have on different aspects of fitness. Power training does as well as Strength training on hypertrophy plus has the benefit of improving Aerobic Power almost as much as endurance training. In other words, it is an efficient mode of exercise.
+Pavel also has charts describing the improvements the different forms of exercise have on different aspects of fitness. Power training does as well as Strength training on hypertrophy plus has the benefit of improving Aerobic Power almost as much as endurance training.
+
+In other words, it is an efficient mode of exercise.
 
 
 ### Respect the Rest
@@ -29,13 +39,17 @@ The big idea from the Q&D to me was how we need to allow sufficient time between
 
 > Acid is the enemy of both tension and relaxation, drawing one into the stiff no-man's land in between. It muffles the brain's commands to the muscles, inhibits all three energy systems, and interferes with contraction and relaxation - read: strength and speed - in many ways.
 
-Pavel likes 3 minutes between sets of the same muscle group. That seems like a long time, but it makes sense. The book has a lot of supporting science and charts. I didn't dive too deep into those pages. I figured I'd just test it out for myself. More on that later. I also thought about how increased rest times would have the spillover effect of reducing injury rates, as we ideally would begin each set ready to give 100% without fatigue impacting our form.
+Pavel likes 3 minutes between sets of the same muscle group. That seems like a long time, but it makes sense. The book has a lot of supporting science and charts. I didn't dive too deep into those pages. I figured I'd just test it out for myself. More on that later.
+
+I also thought about how increased rest times would have the spillover effect of reducing injury rates, as we ideally would begin each set ready to give 100% without fatigue impacting our form.
 
 
 ### Push-Ups and Kettlebell Swings
 
 
-Like Pavel's other books, the Q&D is focused on just 2 exercises. One push and one pull. To build explosive strength, power push-ups and kettlebell swings are used. Cycle between the 2 exercises to make the most use of your time. Do 10 sets of 10 reps of each inside a 3-minute set.
+Like Pavel's other books, the Q&D is focused on just 2 exercises. One push and one pull. To build explosive strength, power push-ups and kettlebell swings are used.
+
+Cycle between the 2 exercises to make the most use of your time. Do 10 sets of 10 reps of each inside a 3-minute set.
 
 -   Start your timer.
 -   Do 10 explosive power pushups.
@@ -43,13 +57,25 @@ Like Pavel's other books, the Q&D is focused on just 2 exercises. One push and o
 -   Then wait to the 3-minute mark to begin the 2nd cycle.
 -   Do 10 cycles.
 
-The entire workout takes 30 minutes. There is a lot of pages on how to know when to add bands to your push-up or increase the weight of the kettlebell. I skipped over most of that. I'll use intuition. Get the book if diving into these details is important to you. Train every other day or 3 times a week.
+The entire workout takes 30 minutes.
+
+There is a lot of pages on how to know when to add bands to your push-up or increase the weight of the kettlebell. I skipped over most of that. I'll use intuition. Get the book if diving into these details is important to you.
+
+Train every other day or 3 times a week.
 
 
 ### 2 Weeks of Q&D
 
 
-Pavel had a bunch of pages that were too deep into the details for my interest level. I figured I would just test it out for myself. The Q&D seemed like a solid plan. I ease into everything, so for the first week, I increased the sets from 4 to 5 to 7. The first thing I discovered is I am not used to waiting around that long between sets. It seemed like an eternity at my glitter gym. The second thing I discovered was I did not get any soreness (DOMS), but I did get tired, so I felt like I both got a great workout and there was nothing holding me back to return to the gym in 48 hours. For week 2, I wasn't a good comrade. I increased my reps to 15 for both the push-up and the 2-handed kettlebell swing, while keeping each set at 3 minutes. This had the benefit of me not waiting around as much and I felt 5 sets was enough. For me, I felt like I got more out of the 15-rep sets than the 10. However, I felt a little sore. I'll keep tinkering with the Q&D. I'll experiment with 12-reps next. I like it so far. I don't want to use push-up bands, but I suspect I'll need them soon. Either that or a weighted vest. Off to eBay? Pavel doesn't like machines. I don't know how much of that opinion is marketing and how much is real. I get how the guy that made kettlebells famous in the USA would want to dismiss machines. But, for our needs, I'm wondering if you could pair 2 machines (a push and a pull) and get the same benefit? Maybe even cables? For now, I'll stick the push-up and kettlebell swing, but I'll likely experiment with other pairs later.
+Pavel had a bunch of pages that were too deep into the details for my interest level. I figured I would just test it out for myself. The Q&D seemed like a solid plan.
+
+I ease into everything, so for the first week, I increased the sets from 4 to 5 to 7. The first thing I discovered is I am not used to waiting around that long between sets. It seemed like an eternity at my glitter gym. The second thing I discovered was I did not get any soreness (DOMS), but I did get tired, so I felt like I both got a great workout and there was nothing holding me back to return to the gym in 48 hours.
+
+For week 2, I wasn't a good comrade. I increased my reps to 15 for both the push-up and the 2-handed kettlebell swing, while keeping each set at 3 minutes. This had the benefit of me not waiting around as much and I felt 5 sets was enough. For me, I felt like I got more out of the 15-rep sets than the 10. However, I felt a little sore.
+
+I'll keep tinkering with the Q&D. I'll experiment with 12-reps next. I like it so far. I don't want to use push-up bands, but I suspect I'll need them soon. Either that or a weighted vest. Off to eBay?
+
+Pavel doesn't like machines. I don't know how much of that opinion is marketing and how much is real. I get how the guy that made kettlebells famous in the USA would want to dismiss machines. But, for our needs, I'm wondering if you could pair 2 machines (a push and a pull) and get the same benefit? Maybe even cables? For now, I'll stick the push-up and kettlebell swing, but I'll likely experiment with other pairs later.
 
 
 ### Thoughts?

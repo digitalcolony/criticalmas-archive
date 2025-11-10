@@ -9,12 +9,36 @@ description: "It has been a long time since I last posted on gluten. I thought t
 commentCount: 13
 ---
 
-It has been a long time since I last posted on gluten. I thought the topic was finished for me, but unfortunately, it is not. I need to return. Or like the quote from _The Godfather 3_ said: _Just when I thought I was out, they pull me back in._ ![Godfather 3 quote](./img/godfather-3-just-when-i-thought.jpg) In December 2016, I posted [Gluten / Wheat – The Final Chapter](/2016/12/gluten-wheat-final-chapter/). Read the full post for my experience on this topic. The short version is that after gradually reintroducing wheat into my diet after 5 years of being gluten-free, I felt fine. The only explanation that made sense to me was that I had cured myself, but I was even skeptical of that response. I was guessing. All I knew was I felt much better eating wheat products than I did when I started the journey. And since resiliency (both health and cultural) were important to me, I didn't question the positive turn of events. Last month, after many years of avoiding doctors (except for gym injuries), I got some blood work done. I was feeling very tired and having some digestive issues. These changes were gradual. They happened over the course of a year or two. You may recall my post about switching to [cold brew coffee to help with stomach issues](/2018/12/coffee-tests-on-an-empty-stomach/). Eventually, that trick stopped working as well. What did I learn from the doctor? Two things:
+It has been a long time since I last posted on gluten. I thought the topic was finished for me, but unfortunately, it is not. I need to return. Or like the quote from _The Godfather 3_ said:
+
+_Just when I thought I was out, they pull me back in._
+
+![Godfather 3 quote](./img/godfather-3-just-when-i-thought.jpg)
+
+In December 2016, I posted [Gluten / Wheat – The Final Chapter](/2016/12/gluten-wheat-final-chapter/). Read the full post for my experience on this topic.
+
+The short version is that after gradually reintroducing wheat into my diet after 5 years of being gluten-free, I felt fine. The only explanation that made sense to me was that I had cured myself, but I was even skeptical of that response.
+
+I was guessing. All I knew was I felt much better eating wheat products than I did when I started the journey. And since resiliency (both health and cultural) were important to me, I didn't question the positive turn of events.
+
+Last month, after many years of avoiding doctors (except for gym injuries), I got some blood work done. I was feeling very tired and having some digestive issues. These changes were gradual. They happened over the course of a year or two. You may recall my post about switching to [cold brew coffee to help with stomach issues](/2018/12/coffee-tests-on-an-empty-stomach/). Eventually, that trick stopped working as well.
+
+What did I learn from the doctor? Two things:
 
 1.  My iron levels were low. I had just donated blood the week before, so this did not concern me. But I have decided to stop donating for now. My 5-gallon pin will need to wait.
 2.  I **tested positive for Celiac**. Not a little. But a lot. My Tissue Transglutaminase Antibody IGA was elevated at a level of **76.77** which is a strong positive with a normal range of 0-20 units.
 
-I did not see this coming. I looked to see if this test was accurate and all I found were cases of False Negatives, meaning true Celiacs that tested inside the Normal range. I didn't see cases, like mine, where the results were "strong positive" that were really fine. A family member told me that she saw a TV show where people that gave up Gluten for long periods of time can lose their ability to process it once it gets reintroduced. The theory makes sense, but my search skills failed to find any support for that explanation. I've now been almost 4 weeks without any Gluten. I've also stopped consuming secondary grains _(non-gluten grains suck as buckwheat, brown rice, quinoa)_ for now as there are bloggers that advise this could accelerate the healing. Is it true? Not a clue. What I do know is that I would much rather test ideas that are subtractive (removing items from a diet) than additive (adding medicines). The Gluten landscape online is more confusing than ever. You don't know who to trust. According to some sources, I may not feel any different for 3 or more months. Fortunately for me, I have amazing dietary skills. I know how to follow a restrictive diet, be it vegetarian, Paleo, or [Peasant](/2016/11/designing-modern-peasant-diet/). If you have any advice or experience on this topic, drop me a comment. I have started supplementing L-Glutamine, as I've seen that tip repeated a few times.
+I did not see this coming.
+
+I looked to see if this test was accurate and all I found were cases of False Negatives, meaning true Celiacs that tested inside the Normal range. I didn't see cases, like mine, where the results were "strong positive" that were really fine.
+
+A family member told me that she saw a TV show where people that gave up Gluten for long periods of time can lose their ability to process it once it gets reintroduced. The theory makes sense, but my search skills failed to find any support for that explanation.
+
+I've now been almost 4 weeks without any Gluten. I've also stopped consuming secondary grains _(non-gluten grains suck as buckwheat, brown rice, quinoa)_ for now as there are bloggers that advise this could accelerate the healing. Is it true? Not a clue. What I do know is that I would much rather test ideas that are subtractive (removing items from a diet) than additive (adding medicines).
+
+The Gluten landscape online is more confusing than ever. You don't know who to trust. According to some sources, I may not feel any different for 3 or more months. Fortunately for me, I have amazing dietary skills. I know how to follow a restrictive diet, be it vegetarian, Paleo, or [Peasant](/2016/11/designing-modern-peasant-diet/).
+
+If you have any advice or experience on this topic, drop me a comment. I have started supplementing L-Glutamine, as I've seen that tip repeated a few times.
 
 ---
 

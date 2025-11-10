@@ -20,19 +20,31 @@ I'm going to go through each of these in detail.
 ### Before You Exercise
 
 
-These are the articles that make the case that exercise is good for health. This is what the general unfit population needs to hear. Clearly not readers of this blog. Some people need to be reminded, scared or motivated into taking action. There are so many of these stories, but they wash right over me. Since I have no desire to convince anyone they need to exercise, I have zero interest in this category.
+These are the articles that make the case that exercise is good for health. This is what the general unfit population needs to hear. Clearly not readers of this blog. Some people need to be reminded, scared or motivated into taking action.
+
+There are so many of these stories, but they wash right over me. Since I have no desire to convince anyone they need to exercise, I have zero interest in this category.
 
 
 ### While You Exercise
 
 
-This is the bulk of the conversations. The endless debate on which type of exercise is better or safer or more effective. How many times per week? How many reps, sets, minutes, or whatever? Running vs Biking. HIT vs CrossFit. Yoga vs Hot Yoga. I spent 20 years in this category. It exhausted me more than any workout. People ask me to post more on fitness like I did a few years ago. I don't because I've said all I need to say. Find something that interests you, stay safe, and be consistent.
+This is the bulk of the conversations. The endless debate on which type of exercise is better or safer or more effective. How many times per week? How many reps, sets, minutes, or whatever? Running vs Biking. HIT vs CrossFit. Yoga vs Hot Yoga.
+
+I spent 20 years in this category. It exhausted me more than any workout. People ask me to post more on fitness like I did a few years ago. I don't because I've said all I need to say. Find something that interests you, stay safe, and be consistent.
 
 
 ### After You Exercise
 
 
-Finally, there is the least discussed aspect of fitness. Recovery. How can we best recover? I feel like this is where are all the true gains are yet to be discovered. Right now this topic gets lip service. Get good sleep, don't stress out, and don't play in traffic. As we get older, our ability to recover from a workout takes longer. I'm very interested in figuring out innovative ways to reduce this time period. If you assume that there are different ways to exercise that get results, then figuring out how to optimally recover from that exercise stimulus becomes the most interesting part of the puzzle. This is where my interest is now. ![legos-bench-press](./img/legos-bench-press.jpg) _[Photo credit](https://flic.kr/p/9pbzs7)_
+Finally, there is the least discussed aspect of fitness. Recovery. How can we best recover? I feel like this is where are all the true gains are yet to be discovered. Right now this topic gets lip service. Get good sleep, don't stress out, and don't play in traffic.
+
+As we get older, our ability to recover from a workout takes longer. I'm very interested in figuring out innovative ways to reduce this time period. If you assume that there are different ways to exercise that get results, then figuring out how to optimally recover from that exercise stimulus becomes the most interesting part of the puzzle.
+
+This is where my interest is now.
+
+![legos-bench-press](./img/legos-bench-press.jpg)
+
+_[Photo credit](https://flic.kr/p/9pbzs7)_
 
 ---
 

@@ -9,7 +9,13 @@ description: "Last September when I restarted my 401K plan at my company I put 1
 commentCount: 3
 ---
 
-Last September when I restarted my 401K plan at my company I put 100% of my investment in the _Cash Fixed Fund_ account. This sparked a conversion with a _financial planner_, who felt he could show me the errors of my way. He didn't know who he was taking to. After repeating the [industry lie](/2008/03/investing-in-stocks-for-the-long-term/), I told him the [statistical case](/2008/04/secular-bear-market-or-range-bound/) on why the market would more likely go down than up and why buy and hold strategies fail in secular bear markets. Instead of having an engaging discussion on the stock market, he shook his head as if I were a child and disengaged. Well I got laid off a few weeks ago and yesterday I received my 401K statement. The statement lists the returns for all the investment options I had at my disposal. My _Cash Fixed Fund_ earned just a 0.97% return. But that was enough to make it the best performing fund on the list. Every other fund lost money. All the stock funds lost between 8% and 17% during that same time period. All the bond funds lost money too. So did the packaged allocations, including the _Conservative_ option which lost over 3%. When do you invest in stocks? Go read [The Simplest Investing Rule](/2008/04/the-simplest-investing-rule/) and watch the video. Also follow the link provided by Jim H. in the first comment. ![Good-Fellas-Shinebox](./img/Good-Fellas-Shinebox.jpg)
+Last September when I restarted my 401K plan at my company I put 100% of my investment in the _Cash Fixed Fund_ account. This sparked a conversion with a _financial planner_, who felt he could show me the errors of my way. He didn't know who he was taking to. After repeating the [industry lie](/2008/03/investing-in-stocks-for-the-long-term/), I told him the [statistical case](/2008/04/secular-bear-market-or-range-bound/) on why the market would more likely go down than up and why buy and hold strategies fail in secular bear markets. Instead of having an engaging discussion on the stock market, he shook his head as if I were a child and disengaged.
+
+Well I got laid off a few weeks ago and yesterday I received my 401K statement. The statement lists the returns for all the investment options I had at my disposal. My _Cash Fixed Fund_ earned just a 0.97% return. But that was enough to make it the best performing fund on the list. Every other fund lost money. All the stock funds lost between 8% and 17% during that same time period. All the bond funds lost money too. So did the packaged allocations, including the _Conservative_ option which lost over 3%.
+
+When do you invest in stocks? Go read [The Simplest Investing Rule](/2008/04/the-simplest-investing-rule/) and watch the video. Also follow the link provided by Jim H. in the first comment.
+
+![Good-Fellas-Shinebox](./img/Good-Fellas-Shinebox.jpg)
 
 ---
 

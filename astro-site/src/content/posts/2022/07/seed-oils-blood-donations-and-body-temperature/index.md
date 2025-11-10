@@ -13,7 +13,9 @@ Back in 2015, I shared the success I had with raising my body temperature. I was
 
 > 97.0 –> 97.5 –> 97.9 –> 98.1 –> 98.4 –> 98.5 F
 
-I list several reasons in the post [How I Raised My Body Temperature](/2015/07/how-i-raised-my-body-temperature/). On that list of reasons was my drastic reduction of PUFA. Over the years, I began to think it was the most important variable. This view was supported last year. In my post [Body Temperature and Vegetable Oil](/2021/01/body-temperature-and-vegetable-oil/), I discussed an article on FireInTheBottle.
+I list several reasons in the post [How I Raised My Body Temperature](/2015/07/how-i-raised-my-body-temperature/). On that list of reasons was my drastic reduction of PUFA. Over the years, I began to think it was the most important variable.
+
+This view was supported last year. In my post [Body Temperature and Vegetable Oil](/2021/01/body-temperature-and-vegetable-oil/), I discussed an article on FireInTheBottle.
 
 > By 2013, I had already eliminated the use of vegetable oils. However, growing up I had my fair share of vegetable oils and other sources of PUFA. And my body temperature was always around 96.9 – 97.1F whenever I went to donate blood. So I began an experiment to be hyper diligent about removing PUFA from my diet. I made sure nothing I consumed had vegetable oil in it. I also removed nuts and seeds from my diet.
 
@@ -21,11 +23,31 @@ And.
 
 > When I engaged in the experiment, I knew that the information was speculative, but the _This is Your Body Temperature on Vegetable Oil_ article shares the story of a population that was exposed to vegetable oil in recent years that experienced the exact opposite of what happened to me. Their body temperatures fell rapidly.
 
-I still think this is the most plausible explanation, but there might be another one. What I am about to suggest is pure speculation. Did regularly donating blood cause my body temperature to rise? The article [Regular Blood Donations Can Reduce Toxic Forever Chemicals in the Bloodstream: Study](https://theswaddle.com/regular-blood-donations-can-reduce-toxic-forever-chemicals-in-the-bloodstream-study/) got me thinking about this alternative hypothesis.
+I still think this is the most plausible explanation, but there might be another one. What I am about to suggest is pure speculation. Did regularly donating blood cause my body temperature to rise?
 
-> They’re in the air. They’re in the water. They’re in the food we consume. And now, they’re in our blood. They are perfluoroalkyl and polyfluoroalkyl substances (PFAS) or “forever” chemicals — substances that make up plastic and never degrade. They’ve been linked to numerous health conditions: they contaminate the delicate balance of gut microbiomes, cause asthma and other lung diseases, and now they’re in our bloodstream where they’re difficult to remove. A landmark trial has now found that donating blood regularly can cleanse the bloodstream of PFAS — a finding that marks the first time we’ve figured out how to rid the body of forever chemicals that have entered seemingly, well, forever.
+The article [Regular Blood Donations Can Reduce Toxic Forever Chemicals in the Bloodstream: Study](https://theswaddle.com/regular-blood-donations-can-reduce-toxic-forever-chemicals-in-the-bloodstream-study/) got me thinking about this alternative hypothesis.
 
-The article dives into the numbers on both donating blood and plasma. _Plasma donations work better._ I'm interested in trying a plasma donation, but not until the mask mandate is lifted at Bloodworks Northwest. Plasma donations take 90+ minutes. During this same period that I removed seed oils, I was aggressively donating blood every 56 days. Over the 2010-2020 decade, I donated 5+ gallons of blood (5 in Washington and a few pints in California). ![5 gallons blood](./img/5-gallons.jpg) Do these forever chemicals impact metabolism? I don't know, but it is a question worth researching. Please read [The Environmental Contaminant Theory of Obesity](/2022/03/the-environmental-contaminant-theory-of-obesity/). I think it is the most important post I've had on this blog in a long time. Part 6 of the Slime Mold Time Mold series discusses these forever chemicals as a possible explanation for the rise in obesity. If the average human has about 10 pints of blood and I donated 5+ gallons, I was able to replace all my blood 4 times over. Did this purge of forever chemicals elevate my metabolism? I see a few smart people arguing about the increase in obesity. Is it the rise in calories or the fall in metabolism? Can't it be both? As we age, body temperatures tend to fall. Mine increased. Was it the elimination of seed oils or blood donations or something else? I don't know. Even if blood donations don't result in any increase in body temperature, the evidence continues to mount regarding the health benefits for the donor. It is a win for you and the recipient. If you are a frequent blood donor, did your body temperature rise? Drop a comment with the details. UPDATE: A new study was just published on the potential health risks associated with these "forever chemicals". From [Exposure to perfluoroalkyl substances and risk of hepatocellular carcinoma in a multiethnic cohort](https://www.jhep-reports.eu/article/S2589-5559\(22\)00122-7/fulltext):
+> They’re in the air. They’re in the water. They’re in the food we consume. And now, they’re in our blood. They are perfluoroalkyl and polyfluoroalkyl substances (PFAS) or “forever” chemicals — substances that make up plastic and never degrade. They’ve been linked to numerous health conditions: they contaminate the delicate balance of gut microbiomes, cause asthma and other lung diseases, and now they’re in our bloodstream where they’re difficult to remove.
+> 
+> A landmark trial has now found that donating blood regularly can cleanse the bloodstream of PFAS — a finding that marks the first time we’ve figured out how to rid the body of forever chemicals that have entered seemingly, well, forever.
+
+The article dives into the numbers on both donating blood and plasma. _Plasma donations work better._ I'm interested in trying a plasma donation, but not until the mask mandate is lifted at Bloodworks Northwest. Plasma donations take 90+ minutes.
+
+During this same period that I removed seed oils, I was aggressively donating blood every 56 days. Over the 2010-2020 decade, I donated 5+ gallons of blood (5 in Washington and a few pints in California).
+
+![5 gallons blood](./img/5-gallons.jpg)
+
+Do these forever chemicals impact metabolism? I don't know, but it is a question worth researching. Please read [The Environmental Contaminant Theory of Obesity](/2022/03/the-environmental-contaminant-theory-of-obesity/). I think it is the most important post I've had on this blog in a long time. Part 6 of the Slime Mold Time Mold series discusses these forever chemicals as a possible explanation for the rise in obesity.
+
+If the average human has about 10 pints of blood and I donated 5+ gallons, I was able to replace all my blood 4 times over. Did this purge of forever chemicals elevate my metabolism?
+
+I see a few smart people arguing about the increase in obesity. Is it the rise in calories or the fall in metabolism? Can't it be both? As we age, body temperatures tend to fall. Mine increased. Was it the elimination of seed oils or blood donations or something else? I don't know.
+
+Even if blood donations don't result in any increase in body temperature, the evidence continues to mount regarding the health benefits for the donor. It is a win for you and the recipient.
+
+If you are a frequent blood donor, did your body temperature rise? Drop a comment with the details.
+
+UPDATE: A new study was just published on the potential health risks associated with these "forever chemicals". From [Exposure to perfluoroalkyl substances and risk of hepatocellular carcinoma in a multiethnic cohort](https://www.jhep-reports.eu/article/S2589-5559\(22\)00122-7/fulltext):
 
 > Exposure to per- and polyfluoroalkyl substances (PFAS), a class of persistent organic pollutants, is ubiquitous. Animal studies suggest that PFAS may increase risk of fatty liver and hepatocellular carcinoma (HCC) via impacts on hepatic lipid, amino acid, and glucose metabolism, but human data is lacking.
 

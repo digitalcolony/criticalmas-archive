@@ -9,12 +9,26 @@ description: "I've always had trouble napping. I could be dead tired and in need
 commentCount: 9
 ---
 
-I've always had trouble napping. I could be dead tired and in need of a nap, but I'll close my eyes and nothing will happen. Sometimes my mind will race. Sometimes it won't. I would say the odds of me being able to fall asleep for 20-40 minutes were about 10-20% until recently. The fact I have trouble napping seems odd because I am a champion night sleeper. At night, I tend to fall asleep within a minute of closing my eyes, usually around 10:30 PM. From there I often sleep a solid 8 hours. A few years ago I used to wake up early and be unable to fall back asleep. I've reduced that problem a lot and recently have been using the [sugar/salt sleep hack](/2014/01/amazing-back-sleep-hack/) with amazing back-to-sleep success. In the past 5 years, my night sleep has gotten better and better, yet napping success has remained a mystery. However, recently I theorized that the techniques I use for successful night sleep are the wrong strategies for napping.
+I've always had trouble napping. I could be dead tired and in need of a nap, but I'll close my eyes and nothing will happen. Sometimes my mind will race. Sometimes it won't. I would say the odds of me being able to fall asleep for 20-40 minutes were about 10-20% until recently. The fact I have trouble napping seems odd because I am a champion night sleeper.
+
+At night, I tend to fall asleep within a minute of closing my eyes, usually around 10:30 PM. From there I often sleep a solid 8 hours. A few years ago I used to wake up early and be unable to fall back asleep. I've reduced that problem a lot and recently have been using the [sugar/salt sleep hack](/2014/01/amazing-back-sleep-hack/) with amazing back-to-sleep success.
+
+In the past 5 years, my night sleep has gotten better and better, yet napping success has remained a mystery. However, recently I theorized that the techniques I use for successful night sleep are the wrong strategies for napping.
 
 -   Completely dark environment with blackout blinds
 -   Completely quiet environment
 
-Since napping takes place when the sun is out and there is activity, does it make sense to make your napping environment the same as your nighttime sleeping environment? I started to think it didn't. So I began experimenting. For the past few weeks, I have been napping next to a window with some light coming in and I make sure there is some background music. The music is played at a low volume. I often use the site Calm.com for background noise. Then I close my eyes and imagine a cat napping. And it is working. ![rainman-napping](./img/rainman-napping.jpg) _My old cat Rainman napping away in the sunlight._  A few days ago, I tried to go back to my old way of napping and I couldn't fall asleep. I put on some background sounds and opened the door to allow light into the room and I was able to fall asleep. Is anyone using different techniques for napping than they use for regular sleep?
+Since napping takes place when the sun is out and there is activity, does it make sense to make your napping environment the same as your nighttime sleeping environment? I started to think it didn't. So I began experimenting. For the past few weeks, I have been napping next to a window with some light coming in and I make sure there is some background music. The music is played at a low volume. I often use the site Calm.com for background noise.
+
+Then I close my eyes and imagine a cat napping. And it is working.
+
+![rainman-napping](./img/rainman-napping.jpg)
+
+_My old cat Rainman napping away in the sunlight._ 
+
+A few days ago, I tried to go back to my old way of napping and I couldn't fall asleep. I put on some background sounds and opened the door to allow light into the room and I was able to fall asleep.
+
+Is anyone using different techniques for napping than they use for regular sleep?
 
 ---
 

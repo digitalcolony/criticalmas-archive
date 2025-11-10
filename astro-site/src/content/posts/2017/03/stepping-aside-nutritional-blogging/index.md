@@ -9,7 +9,21 @@ description: "The deeper I get into nutrition, the more I realize I have no busi
 commentCount: 8
 ---
 
-The deeper I get into nutrition, the more I realize I have no business blogging about it. There are nutritional researchers and bloggers online that are far more knowledgeable than me. There are also some charlatans that appear to be experts. I no longer want people to trust that this blog can tell the difference between the two groups. I've been fooled a few times and although I'd like to think I'm smarter now and won't be fooled by others, I can't promise that. Something CarbSane said on a podcast really struck me. She said that health bloggers have a tendency to over report their successes and under report their failures. As much as I wish that wasn't true with me, it has been. When things were going their best were the times I posted the most. I had things figured out. When things didn't go as well, I spent more time looking for answers and less time posting. But the reader doesn't see both sides and this could be problematic if they were inspired to take the same path as me based on my writing. I don't want that to happen. My journey went from finding the optimal diet to constructing a diet that was likely not "too wrong". The funny thing is when I go through 15 years of data, I see that I was weight stable within 10% and usually 5% despite following wildly different diets. So I'm thinking my energy would be better spent focusing on something else. Best of luck meeting your nutritional goals and not getting fooled by the charlatans. ![](./img/end-sign-alan-levine.jpg) [Photo](https://www.flickr.com/photos/cogdog/14969158593/) by Alan Levine
+The deeper I get into nutrition, the more I realize I have no business blogging about it.
+
+There are nutritional researchers and bloggers online that are far more knowledgeable than me. There are also some charlatans that appear to be experts. I no longer want people to trust that this blog can tell the difference between the two groups. I've been fooled a few times and although I'd like to think I'm smarter now and won't be fooled by others, I can't promise that.
+
+Something CarbSane said on a podcast really struck me. She said that health bloggers have a tendency to over report their successes and under report their failures. As much as I wish that wasn't true with me, it has been.
+
+When things were going their best were the times I posted the most. I had things figured out. When things didn't go as well, I spent more time looking for answers and less time posting. But the reader doesn't see both sides and this could be problematic if they were inspired to take the same path as me based on my writing. I don't want that to happen.
+
+My journey went from finding the optimal diet to constructing a diet that was likely not "too wrong". The funny thing is when I go through 15 years of data, I see that I was weight stable within 10% and usually 5% despite following wildly different diets. So I'm thinking my energy would be better spent focusing on something else.
+
+Best of luck meeting your nutritional goals and not getting fooled by the charlatans.
+
+![](./img/end-sign-alan-levine.jpg)
+
+[Photo](https://www.flickr.com/photos/cogdog/14969158593/) by Alan Levine
 
 ---
 

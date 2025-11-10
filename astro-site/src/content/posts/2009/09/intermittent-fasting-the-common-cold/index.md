@@ -13,7 +13,19 @@ Last week when I realized that I was starting to [get sick](/2009/09/return-to-s
 
 > Feed a cold, starve a fever.
 
-The starve a fever part makes perfect sense. A fever often comes with nausea and lack of appetite. The body is sending a signal, which adults often ignore, to not eat. Children and animals have the wisdom to not force down food at these times. But what about the common cold? On with the test. On Day 2 of the sickness, I did a 16 hour Intermittent Fast. Although I was able to deal with the hunger, I was completely without focus. Usually I notice deeper focus when fasting. I think of the hunter-gather hungry looking for new sources of food. The brain understands the survival dilemma and provides the focus needed. I've done 40+ IFs and this was the first time I didn't get the focus. Walking didn't help. I had to sit and I had to eat. ![](http://farm2.static.flickr.com/1424/627226315_325aa7b527.jpg "Focus") _Photo [focus](http://www.flickr.com/photos/ihtatho/627226315/) by ihtatho_ On Day 3, I woke up to the same level of sickness that I normally would feel at that point of the cold cycle. In other words, the fast did not help kill the virus. I probably would have been better off eating more anti-viral foods. Today was Day 6 and I was 90% better when I woke up, so I decided to see if I could accelerate the end of the cold virus with a fast. I did much better than Day 3, but got lightheaded about 3 miles away from my house. I had intended to hike 10 miles, but realized it wasn't going to happen. I returned home and relaxed for a few hours. Doing an Intermittent Fast while I had a cold did not work for me. I am a huge proponent of IF, but I do not think it is wise to do if you have the common cold. I started thinking about this from an evolutionary perspective and it made sense. If a member of the tribe was sick, they wouldn't be invited on the hunt (or gather). Instead, they would be treated back to health so they could participate in future food gathering for the benefit of the group.
+The starve a fever part makes perfect sense. A fever often comes with nausea and lack of appetite. The body is sending a signal, which adults often ignore, to not eat. Children and animals have the wisdom to not force down food at these times. But what about the common cold? On with the test.
+
+On Day 2 of the sickness, I did a 16 hour Intermittent Fast. Although I was able to deal with the hunger, I was completely without focus. Usually I notice deeper focus when fasting. I think of the hunter-gather hungry looking for new sources of food. The brain understands the survival dilemma and provides the focus needed. I've done 40+ IFs and this was the first time I didn't get the focus. Walking didn't help. I had to sit and I had to eat.
+
+![](http://farm2.static.flickr.com/1424/627226315_325aa7b527.jpg "Focus")
+
+_Photo [focus](http://www.flickr.com/photos/ihtatho/627226315/) by ihtatho_
+
+On Day 3, I woke up to the same level of sickness that I normally would feel at that point of the cold cycle. In other words, the fast did not help kill the virus. I probably would have been better off eating more anti-viral foods.
+
+Today was Day 6 and I was 90% better when I woke up, so I decided to see if I could accelerate the end of the cold virus with a fast. I did much better than Day 3, but got lightheaded about 3 miles away from my house. I had intended to hike 10 miles, but realized it wasn't going to happen. I returned home and relaxed for a few hours.
+
+Doing an Intermittent Fast while I had a cold did not work for me. I am a huge proponent of IF, but I do not think it is wise to do if you have the common cold. I started thinking about this from an evolutionary perspective and it made sense. If a member of the tribe was sick, they wouldn't be invited on the hunt (or gather). Instead, they would be treated back to health so they could participate in future food gathering for the benefit of the group.
 
 ---
 

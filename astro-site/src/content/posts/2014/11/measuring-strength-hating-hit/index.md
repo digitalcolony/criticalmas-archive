@@ -9,20 +9,34 @@ description: "I am so sick of the logic used in articles written by \"strength\"
 commentCount: 11
 ---
 
-I am so sick of the logic used in articles written by "strength" coaches to dismiss High Intensity Training. The articles all go something like this:
+I am so sick of the logic used in articles written by "strength" coaches to dismiss High Intensity Training.
+
+The articles all go something like this:
 
 1.  Using higher volume and lower intensity produces greater strength gains than using HIT.
 2.  Strength is measured by PR (personal records) in classic bodybuilding exercises such as the bench press, squat, and dead lift.
 
-The first problem with these articles and their studies is that injury risk is ignored. But, I've gone down that path many times before. Let us for a moment imagine a world where nobody gets hurt. Every rep is perfect. Rainbows and unicorns. The movements used to measure strength have a skill component. To develop a skill requires repetition. If you go to failure or use other HIT methods, such as removing momentum, you will not develop the skill portion of the lift. So then when you go back to test your "strength" via PR in the classic metrics, of course, the number will be lower. That doesn't mean HIT is worse for strength. It means HIT is worse for developing the skills used in classic bodybuilding exercises. As it should be. "Strength" coaches observe this and conclude that HIT sucks for strength. No, it sucks for skill development! I'm not a strength scholar, but this formula quickly came to me.
+The first problem with these articles and their studies is that injury risk is ignored. But, I've gone down that path many times before. Let us for a moment imagine a world where nobody gets hurt. Every rep is perfect. Rainbows and unicorns.
+
+The movements used to measure strength have a skill component. To develop a skill requires repetition. If you go to failure or use other HIT methods, such as removing momentum, you will not develop the skill portion of the lift. So then when you go back to test your "strength" via PR in the classic metrics, of course, the number will be lower. That doesn't mean HIT is worse for strength. It means HIT is worse for developing the skills used in classic bodybuilding exercises. As it should be.
+
+"Strength" coaches observe this and conclude that HIT sucks for strength. No, it sucks for skill development! I'm not a strength scholar, but this formula quickly came to me.
 
 > Weight Lifted = Strength + Skill
 
-Anyone with a basic understanding of algebra can see that one can have the same or even greater levels of strength and still lift less weight if they haven't developed the skill component of the lift. I provided an example in the post [More Bench Press Nonsense](/2013/03/more-bench-press-nonsense/).
+Anyone with a basic understanding of algebra can see that one can have the same or even greater levels of strength and still lift less weight if they haven't developed the skill component of the lift.
+
+I provided an example in the post [More Bench Press Nonsense](/2013/03/more-bench-press-nonsense/).
 
 > To demonstrate just how much skill is a factor, I’ll provide an example of the opposite. After a decade of bench pressing, I was able to increase my bench by 30 pounds in a single week. Did I gain 30 pounds of strength? No. I read a really well written article about elbow position for tall lifters. After reading the article, I went to the gym and tested it out. **My SKILL in the bench press went up by 30 pounds. My strength was the same.** 
 
-![free-weights](./img/free-weights.jpg) _[Photo](https://flic.kr/p/hYuBDZ) by Jeff Blackler_ Maybe someone has figured out a better way to measure strength. Everything I read about comparing which strength protocol is best uses skill-based movements as metrics to make their case. When I bring this argument up, the Bros are quick to dismiss the skill component of their lift as tiny. I beg to differ. Anyone who has watched world-class lifters can see the tremendous amount of skill they have in timing the movement of the weight. It is the marriage of strength and optimal momentum. Note that I am not saying HIT is better for strength than traditional bodybuilding methods. I don't know. I am saying there is a measurement problem. But I honestly don't care. I no longer need to quantify strength. How close I am to my [muscular potential](/2014/06/muscular-potential-reality-part-2-hardgainer-edition/) is all that is important. If I get this right, then I should be strong enough, even if I can't demonstrate that fact in the squat rack. But if you need to wrap yourself up in a number to tell the world how strong you are, [knock yourself out bro](/2014/11/knock-bro/)!
+![free-weights](./img/free-weights.jpg)
+
+_[Photo](https://flic.kr/p/hYuBDZ) by Jeff Blackler_
+
+Maybe someone has figured out a better way to measure strength. Everything I read about comparing which strength protocol is best uses skill-based movements as metrics to make their case. When I bring this argument up, the Bros are quick to dismiss the skill component of their lift as tiny. I beg to differ. Anyone who has watched world-class lifters can see the tremendous amount of skill they have in timing the movement of the weight. It is the marriage of strength and optimal momentum.
+
+Note that I am not saying HIT is better for strength than traditional bodybuilding methods. I don't know. I am saying there is a measurement problem. But I honestly don't care. I no longer need to quantify strength. How close I am to my [muscular potential](/2014/06/muscular-potential-reality-part-2-hardgainer-edition/) is all that is important. If I get this right, then I should be strong enough, even if I can't demonstrate that fact in the squat rack. But if you need to wrap yourself up in a number to tell the world how strong you are, [knock yourself out bro](/2014/11/knock-bro/)!
 
 ---
 

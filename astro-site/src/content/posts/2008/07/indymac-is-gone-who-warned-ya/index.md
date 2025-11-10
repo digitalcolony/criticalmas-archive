@@ -13,7 +13,9 @@ On 3/17/2008 I posted [IndyMac I'm Never Coming Back](/2008/03/indymac-im-never-
 
 > IndyMac has the lowest rating a bank can receive with _Safe and Sound_ ratings. After seeing Bear Stearns implode in days, I didnt need much encouragement to close that account out immediately.
 
-Then on 7/2/2008, I followed it up with [IndyMAC - Dead Bank Walking?](/2008/07/indymac-dead-bank-walking/) Tonight after the market closed the FDIC came in and [closed IndyMAC](http://www.fdic.gov/bank/individual/failed/IndyMac.html). This is the 2nd largest bank closure in United States history. My guess is there is a [much bigger bank](/2008/06/i-wouldnt-bank-there/) in wings that will go under. I'll repeat the question:
+Then on 7/2/2008, I followed it up with [IndyMAC - Dead Bank Walking?](/2008/07/indymac-dead-bank-walking/)
+
+Tonight after the market closed the FDIC came in and [closed IndyMAC](http://www.fdic.gov/bank/individual/failed/IndyMac.html). This is the 2nd largest bank closure in United States history. My guess is there is a [much bigger bank](/2008/06/i-wouldnt-bank-there/) in wings that will go under. I'll repeat the question:
 
 
 ### **Do you know [how safe your bank](https://web.archive.org/web/20200113205727/https://www.bankrate.com/rates/safe-sound/bank-ratings-search.aspx) is?**

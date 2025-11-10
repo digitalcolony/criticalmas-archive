@@ -9,7 +9,13 @@ description: "Just when I thought I was invincible, I got my first cold in 18+ m
 commentCount: 2
 ---
 
-Just when I thought I was [invincible](/2009/06/another-reason-i-no-longer-get-sick/), I got my first cold in 18+ months. To say I am stunned would be an understatement. I've been getting plenty of sleep and eating a wide variety of healthy food. The kicker is that I wasn't around anyone this week who was sick. I am a detective without any clues. ![](http://farm3.static.flickr.com/2357/2496547410_14559063e4.jpg "33/365 Down with the Sickness") _Photo 33/365 Down with the Sickness by Svenstorm_ Unlike my previous colds, I seem to progress through the symptoms much faster. Sleep has been tough, but I am loading up on the anti-viral foods (garlic, onions, peppers). I am taking no medicine, as I do not want the drugs to interfere with the body's natural methods of healing. By tomorrow, I should be OK.
+Just when I thought I was [invincible](/2009/06/another-reason-i-no-longer-get-sick/), I got my first cold in 18+ months. To say I am stunned would be an understatement. I've been getting plenty of sleep and eating a wide variety of healthy food. The kicker is that I wasn't around anyone this week who was sick. I am a detective without any clues.
+
+![](http://farm3.static.flickr.com/2357/2496547410_14559063e4.jpg "33/365 Down with the Sickness")
+
+_Photo 33/365 Down with the Sickness by Svenstorm_
+
+Unlike my previous colds, I seem to progress through the symptoms much faster. Sleep has been tough, but I am loading up on the anti-viral foods (garlic, onions, peppers). I am taking no medicine, as I do not want the drugs to interfere with the body's natural methods of healing. By tomorrow, I should be OK.
 
 ---
 

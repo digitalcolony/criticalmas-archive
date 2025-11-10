@@ -9,13 +9,33 @@ description: "Normally I don't read T-Nation, but an article being shared on Twi
 commentCount: 29
 ---
 
-Normally I don't read T-Nation, but an article being shared on Twitter caught my eye. I knew it was going to be lacking, but I had to look. The article is titled _6 Reasons Why You're Always Hurt_ (JUNE 2024: article is no longer online). Can you guess what reason didn't made the list? Exercise selection. Never in the article does the idea that some exercises are more prone to injury risk than others make it to print. Another article that begins with the assumption that one must squat and deadlift. Because you know, you have to. Uggh. The article is answering the wrong fitness question. The problem with weight training is something that took me a long time to learn myself. Built into almost every discussion on how to gain strength and size in the gym is the assumption that one should use the protocol that gets the most results. Risk is not even factored in. I've said it before, but I favor an approach that yields the highest percentage of success, not necessarily the most results for a handful of outliers. Classic free weight training protocols often dismiss injury risk as failures of the individual. See my post [Fitness Professionals Fail to Understand Survivorship Bias](/2013/09/fitness-blogging-disclosures/) for a deeper discussion. There is a poll on the site asking readers to vote on their level of injury. ![poll-vote](./img/poll-vote.png) So in the quest for more muscle, 84% of T-Nation readers are having some form of injury. This is all unnecessary. I'm not going to go through the case for High-Intensity Training again. Been there, done that. If you are interested, read _Body By Science_ (machines) or [Hillfit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/) (bodyweight). **Even if traditional weight lifting is twice as effective as HIT, which I don't believe, the math is not in your favor on a long enough timeline, because it has a much higher rate of injury.** Because HIT uses very low skill movements done slowly that allow the exercise to be taken to failure safely, the risk of injury is almost 0%. So even if you never hit your true potential, which I don't believe, you also avoid the risks that cause the pain and sideline one with an injury. Let us for the sake of argument say that compound weight lifting is twice as effective as HIT. I don't believe that, but let us start with that assumption because I don't feel like arguing the point anymore. But the injury rate for the "twice as effective" is 84%. The bro-tards don't see it, but as their training timeline extends they are running headfirst into math. They are getting older, the weights are getting heavier and the stakes are getting higher. Why spend thousands of hours training to be brawny at 30 only to be broken at 40?
+Normally I don't read T-Nation, but an article being shared on Twitter caught my eye. I knew it was going to be lacking, but I had to look. The article is titled _6 Reasons Why You're Always Hurt_ (JUNE 2024: article is no longer online).
+
+Can you guess what reason didn't made the list? Exercise selection.
+
+Never in the article does the idea that some exercises are more prone to injury risk than others make it to print. Another article that begins with the assumption that one must squat and deadlift. Because you know, you have to. Uggh. The article is answering the wrong fitness question.
+
+The problem with weight training is something that took me a long time to learn myself. Built into almost every discussion on how to gain strength and size in the gym is the assumption that one should use the protocol that gets the most results. Risk is not even factored in. I've said it before, but I favor an approach that yields the highest percentage of success, not necessarily the most results for a handful of outliers. Classic free weight training protocols often dismiss injury risk as failures of the individual. See my post [Fitness Professionals Fail to Understand Survivorship Bias](/2013/09/fitness-blogging-disclosures/) for a deeper discussion.
+
+There is a poll on the site asking readers to vote on their level of injury.
+
+![poll-vote](./img/poll-vote.png)
+
+So in the quest for more muscle, 84% of T-Nation readers are having some form of injury. This is all unnecessary. I'm not going to go through the case for High-Intensity Training again. Been there, done that. If you are interested, read _Body By Science_ (machines) or [Hillfit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/) (bodyweight).
+
+**Even if traditional weight lifting is twice as effective as HIT, which I don't believe, the math is not in your favor on a long enough timeline, because it has a much higher rate of injury.** Because HIT uses very low skill movements done slowly that allow the exercise to be taken to failure safely, the risk of injury is almost 0%. So even if you never hit your true potential, which I don't believe, you also avoid the risks that cause the pain and sideline one with an injury.
+
+Let us for the sake of argument say that compound weight lifting is twice as effective as HIT. I don't believe that, but let us start with that assumption because I don't feel like arguing the point anymore. But the injury rate for the "twice as effective" is 84%. The bro-tards don't see it, but as their training timeline extends they are running headfirst into math. They are getting older, the weights are getting heavier and the stakes are getting higher.
+
+Why spend thousands of hours training to be brawny at 30 only to be broken at 40?
 
 
 ### Think Like an Investor
 
 
-Common advice in investing is that young people can take greater risks. They have a long time horizon and can start over should they lose money. As the investor gets older, the portfolio gets moved to more conservative investments. This protects the downside and locks in the gains made when they were younger. This is common wisdom and most people understand it. Yet this same lesson applies to weight training as well. Why subject yourself to excessive injury risk when you are older and have already made significant gains? Why not lock in those gains by reducing risk? Step out of the squat rack and head over to the leg press. It isn't as glamorous, but neither are injuries.
+Common advice in investing is that young people can take greater risks. They have a long time horizon and can start over should they lose money. As the investor gets older, the portfolio gets moved to more conservative investments. This protects the downside and locks in the gains made when they were younger. This is common wisdom and most people understand it. Yet this same lesson applies to weight training as well.
+
+Why subject yourself to excessive injury risk when you are older and have already made significant gains? Why not lock in those gains by reducing risk? Step out of the squat rack and head over to the leg press. It isn't as glamorous, but neither are injuries.
 
 ---
 

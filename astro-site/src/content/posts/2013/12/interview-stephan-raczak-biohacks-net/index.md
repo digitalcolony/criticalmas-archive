@@ -9,7 +9,9 @@ description: "In October I got to meet Stephan Raczak of Biohacks.net when he vi
 commentCount: 3
 ---
 
-In October I got to meet Stephan Raczak of Biohacks.net when he visited me in Seattle. During our visit he [interviewed me](https://web.archive.org/web/20160315221609/http://biohacks.net/interview-with-criticalmas/), so I thought it might be interesting to interview him. I read very few sites in the fitness domain, _Biohacks_ is one that I do. The posts on _Biohacks_ are interesting and well researched. Enough background, here is the interview. ![Biohacks.net](./img/biohacks-ss.jpg)
+In October I got to meet Stephan Raczak of Biohacks.net when he visited me in Seattle. During our visit he [interviewed me](https://web.archive.org/web/20160315221609/http://biohacks.net/interview-with-criticalmas/), so I thought it might be interesting to interview him. I read very few sites in the fitness domain, _Biohacks_ is one that I do. The posts on _Biohacks_ are interesting and well researched. Enough background, here is the interview.
+
+![Biohacks.net](./img/biohacks-ss.jpg)
 
 
 ### Tell us about yourself and your blog Biohacks.net.
@@ -61,7 +63,9 @@ In general, I have found that if you want to quantify, don’t track several var
 
 Fitness mentors: Bodybuilder Dorian Yates, Boxing coach Ross Enamait, Gymnast Ido Portal, Powerlifter Dan Green, Strongman Misha Koklyaev, MMA fighter Fedor Emelianenko, Youtuber Daniel Vadnal etc
 
-The one common trait shared by all of the guys above is that they simply DO and talk less shit: **Acta Non Verba!** They are incredibly focused on their goals, don't get distracted by others, bust their asses, and wake up every morning trying to become a better version of themselves.
+The one common trait shared by all of the guys above is that they simply DO and talk less shit: **Acta Non Verba!**
+
+They are incredibly focused on their goals, don't get distracted by others, bust their asses, and wake up every morning trying to become a better version of themselves.
 
 Life mentors: Comedian George Carlin, Podcaster Joe Rogan, Blogger Scott H Young, Author Tim Ferriss, Philosopher Plato, Author Hermann Hesse, Political Activist Lyndon LaRouche, Physicist Richard Feynman
 

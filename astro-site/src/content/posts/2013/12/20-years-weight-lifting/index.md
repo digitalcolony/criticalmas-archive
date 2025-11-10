@@ -9,19 +9,29 @@ description: "Although I actually started lifting weights on a regular basis aft
 commentCount: 17
 ---
 
-Although I actually started lifting weights on a regular basis after I moved to Florida in June 1994, I do recall going to the old Ohio State student weight room a few times during winter break of 1993. The old weight room looked nothing like what is available to the students today. The old gym was an embarrassment. Anyway, that was 20 years ago this month. For this post I thought I'd recall my journey. Who were my mentors, what gyms did I go to and what my training philosophies were. I'll touch on what I got right and what I got wrong based off my current understanding of fitness. Hopefully, some younger lifter can walk away with a lesson or two.
+Although I actually started lifting weights on a regular basis after I moved to Florida in June 1994, I do recall going to the old Ohio State student weight room a few times during winter break of 1993. The old weight room looked nothing like what is available to the students today. The old gym was an embarrassment. Anyway, that was 20 years ago this month.
+
+For this post I thought I'd recall my journey. Who were my mentors, what gyms did I go to and what my training philosophies were. I'll touch on what I got right and what I got wrong based off my current understanding of fitness. Hopefully, some younger lifter can walk away with a lesson or two.
 
 
 ### Initial Motivation
 
 
-One day in study hall during my junior year of high school, a gym teacher was leading a class of about 15 boys from the weight room back to the gym. This meant the class had to walk through the study hall. Sharing my table in study hall was a cute freshman girl. When Troy from the gym class walked by, she let out a moan. I looked over at her and could tell she wanted Troy BAD! Troy was the only one in the group that I recall having built any muscle. She wanted Troy. Troy had muscle. I needed to gain muscle. Lesson learned. You'd think I'd start lifting weights that day, but I didn't. Maybe it was laziness or maybe I made excuses that I didn't have access to a gym or both. This was pre-Internet and pre-[Hillfit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/). I hated push-ups and didn't even know what a squat was. The one thing I could do well was run. So all I did was distance running.
+One day in study hall during my junior year of high school, a gym teacher was leading a class of about 15 boys from the weight room back to the gym. This meant the class had to walk through the study hall. Sharing my table in study hall was a cute freshman girl. When Troy from the gym class walked by, she let out a moan. I looked over at her and could tell she wanted Troy BAD! Troy was the only one in the group that I recall having built any muscle.
+
+She wanted Troy. Troy had muscle. I needed to gain muscle. Lesson learned.
+
+You'd think I'd start lifting weights that day, but I didn't. Maybe it was laziness or maybe I made excuses that I didn't have access to a gym or both. This was pre-Internet and pre-[Hillfit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/). I hated push-ups and didn't even know what a squat was. The one thing I could do well was run. So all I did was distance running.
 
 
 ### College
 
 
-In the first paragraph, I mentioned how the old student gym at Ohio State was awful. This is not to be confused with the gyms available to the football team or other sports. Those gyms I'm sure are very nice. The problem with the old student gym was it was very small. For a university with over 50,000 students, it was ridiculously small, but worse is it was used for classes. This meant it had very limited hours. Most students that looked into using it quickly gave up. _Since my graduation, I have learned that OSU students now have a very nice modern gym._ If you combine the hassles of the OSU gym with my lack of energy from distance running and a vegetarian diet, you can see why I didn't pursue weight lifting then. In the post [The Runner 1989-1995](/2008/03/the-runner-1989-1995/), I covered my running and triathlon experience in more detail. The important line from that post:
+In the first paragraph, I mentioned how the old student gym at Ohio State was awful. This is not to be confused with the gyms available to the football team or other sports. Those gyms I'm sure are very nice. The problem with the old student gym was it was very small. For a university with over 50,000 students, it was ridiculously small, but worse is it was used for classes. This meant it had very limited hours. Most students that looked into using it quickly gave up.
+
+_Since my graduation, I have learned that OSU students now have a very nice modern gym._
+
+If you combine the hassles of the OSU gym with my lack of energy from distance running and a vegetarian diet, you can see why I didn't pursue weight lifting then. In the post [The Runner 1989-1995](/2008/03/the-runner-1989-1995/), I covered my running and triathlon experience in more detail. The important line from that post:
 
 > During my triathlon training I stumbled upon the book Optimum Sports Nutrition by Dr. Michael Colgan. In the book the doctor explained how weight training can give endurance athletes a competitive edge. I used that wisdom and started lifting weights as a way to avoid the pain of running.
 
@@ -31,7 +41,13 @@ It was actually a line from that nutrition book that finally inspired me to star
 ### Florida
 
 
-When I arrived in Florida I joined a gym and started training three times a week. My initial source of "knowledge" was _Muscle & Fitness_ magazine. Many people now called this rag _Muscle & Fiction_ as most of the articles are for steroid monsters and not the average lifter. Later I found _Muscle Media 2000_. My go-to book was _Getting Stronger_ by Bill Pearl, which became my foundation. During this time I did 3 sets of 8-12 reps for many exercises. Body part splits across days. ![Getting Stronger : Weight Training for Men and Women](https://images-na.ssl-images-amazon.com/images/I/51YY7EKKP0L.jpg) _Getting Stronger: Weight Training for Men and Women by Bill Pearl_ While in Florida, I gained the muscle that I should have gained in high school and college. I went to several gyms in the Tampa Bay area, most of them were the old school rust gyms, which are almost all gone now. Back then I got it into my head that free weights were superior to machines because the machines are used by beginners and those people don't seem as strong. I wouldn't figure out the error in this thinking until 2010, but I'm getting ahead of myself. I also focused more on the frequency of workouts and volume. I did get injured from time to time, but I was young and bounced back rather quickly.
+When I arrived in Florida I joined a gym and started training three times a week. My initial source of "knowledge" was _Muscle & Fitness_ magazine. Many people now called this rag _Muscle & Fiction_ as most of the articles are for steroid monsters and not the average lifter. Later I found _Muscle Media 2000_. My go-to book was _Getting Stronger_ by Bill Pearl, which became my foundation. During this time I did 3 sets of 8-12 reps for many exercises. Body part splits across days.
+
+![Getting Stronger : Weight Training for Men and Women](https://images-na.ssl-images-amazon.com/images/I/51YY7EKKP0L.jpg)
+
+_Getting Stronger: Weight Training for Men and Women by Bill Pearl_
+
+While in Florida, I gained the muscle that I should have gained in high school and college. I went to several gyms in the Tampa Bay area, most of them were the old school rust gyms, which are almost all gone now. Back then I got it into my head that free weights were superior to machines because the machines are used by beginners and those people don't seem as strong. I wouldn't figure out the error in this thinking until 2010, but I'm getting ahead of myself. I also focused more on the frequency of workouts and volume. I did get injured from time to time, but I was young and bounced back rather quickly.
 
 
 ### Dot-Com Pain
@@ -43,13 +59,35 @@ I moved to the Washington DC metro area during the dot-com days. Traffic was hel
 ### California and Pavel
 
 
-My first year in San Diego had me slowly getting back into lifting. Maybe a few times a month, sometimes more. My workouts lacked focus. Then in May 2001, I bought a home and converted the single car garage into a gym. I decked my home gym out with a squat rack, 2 sets of PowerBlocks, a dip stand, thick barbells, and a bunch of other accessories. I had a huge whiteboard where I could write down my workout numbers. ![gym-whiteboard](./img/gym-whiteboard.jpg) _My home gym whiteboard_ Almost immediately after I set up my gym, Pavel's Power to the People showed up in the mail. It changed everything. I wrote an entire post just about my long history with that book titled [Power to the People - 10 Years Later](/2011/03/power-people-10-years/). The short version is I gained muscle and got into great shape. I began preaching the gospel of low reps and heavy weights to anyone that would listen. Then I started experiencing injuries when I tried to push the volume. I followed mostly a fish plus a vegetarian diet. Lots of soy and grains. I'm still abusing caffeine and I'm still getting frequent back pain. ![Power to the People! : Russian Strength Training Secrets for Every American](https://images-na.ssl-images-amazon.com/images/I/51wb9n9P1hL.jpg) _Power to the People! : Russian Strength Training Secrets for Every American by Pavel Tsatsouline_ At a certain point, I realized that I wasn't gaining any more muscle. I seemed to top at 210. I joined the Army weighing a scrawny 156, so I should have been pleased, but I wasn't. My [fitness idols](/2007/03/fitness-role-models/) boxer Evander Holyfield and surfer Laird Hamilton were more muscular than me. Years later I would post on how those idols were [unrealistic](/2012/03/fitness-role-models-revisited/) for my frame. Excessive lifting resulted in wrist surgery, which sidelined me for several months. And months before I'd move to Seattle, I [completely threw out my back](/2007/04/no-more-morning-dead-lifts/) doing a warm-up deadlift. ![Wrist Surgery](./img/mas-wrist.jpg) _A high volume approach to Power to the People resulted in wrist surgery._
+My first year in San Diego had me slowly getting back into lifting. Maybe a few times a month, sometimes more. My workouts lacked focus. Then in May 2001, I bought a home and converted the single car garage into a gym. I decked my home gym out with a squat rack, 2 sets of PowerBlocks, a dip stand, thick barbells, and a bunch of other accessories. I had a huge whiteboard where I could write down my workout numbers.
+
+![gym-whiteboard](./img/gym-whiteboard.jpg)
+
+_My home gym whiteboard_
+
+Almost immediately after I set up my gym, Pavel's Power to the People showed up in the mail. It changed everything. I wrote an entire post just about my long history with that book titled [Power to the People - 10 Years Later](/2011/03/power-people-10-years/). The short version is I gained muscle and got into great shape. I began preaching the gospel of low reps and heavy weights to anyone that would listen.
+
+Then I started experiencing injuries when I tried to push the volume. I followed mostly a fish plus a vegetarian diet. Lots of soy and grains. I'm still abusing caffeine and I'm still getting frequent back pain.
+
+![Power to the People! : Russian Strength Training Secrets for Every American](https://images-na.ssl-images-amazon.com/images/I/51wb9n9P1hL.jpg)
+
+_Power to the People! : Russian Strength Training Secrets for Every American by Pavel Tsatsouline_
+
+At a certain point, I realized that I wasn't gaining any more muscle. I seemed to top at 210. I joined the Army weighing a scrawny 156, so I should have been pleased, but I wasn't. My [fitness idols](/2007/03/fitness-role-models/) boxer Evander Holyfield and surfer Laird Hamilton were more muscular than me. Years later I would post on how those idols were [unrealistic](/2012/03/fitness-role-models-revisited/) for my frame. Excessive lifting resulted in wrist surgery, which sidelined me for several months. And months before I'd move to Seattle, I [completely threw out my back](/2007/04/no-more-morning-dead-lifts/) doing a warm-up deadlift.
+
+![Wrist Surgery](./img/mas-wrist.jpg)
+
+_A high volume approach to Power to the People resulted in wrist surgery._
 
 
 ### Seattle and HIT
 
 
-My first few years of lifting in Seattle were mostly very conservative Pavel style low-rep workouts. I started paying more attention to safety. I reduced the weight and increased the time between sets. I fell into a rhythm that was more motivated by not getting hurt than making gains. Then a combination of three things happened that changed everything. I read about High-Intensity Training on [Conditioning Research](http://conditioningresearch.blogspot.com/search/label/HIT), got ahold of a library copy of Body By Science, and an email invitation from Seattle-based HIT trainer [Greg Anderson to workout at his gym](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/). I've written numerous posts on why I love HIT. My intensity is far greater now than when I was doing "functional" compound movements and I never get hurt in the gym. But to understand why HIT works has a lot to do with unlearning things that are considered gospel in the weightlifting community. Machines are not inferior, provided they are used properly. Weight is merely one metric to measure and likely isn't as important as TUL and rep speed. Momentum is not strength. Nor is it a skill. My go-to resources for HIT besides _Body By Science_ are [Hillfit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/), which is for those that want to use bodyweight exercises at home, and [The New High Intensity Training](/2011/05/the-new-high-intensity-training/) by Darden, just ignore his nutrition advice.
+My first few years of lifting in Seattle were mostly very conservative Pavel style low-rep workouts. I started paying more attention to safety. I reduced the weight and increased the time between sets. I fell into a rhythm that was more motivated by not getting hurt than making gains. Then a combination of three things happened that changed everything. I read about High-Intensity Training on [Conditioning Research](http://conditioningresearch.blogspot.com/search/label/HIT), got ahold of a library copy of Body By Science, and an email invitation from Seattle-based HIT trainer [Greg Anderson to workout at his gym](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/).
+
+I've written numerous posts on why I love HIT. My intensity is far greater now than when I was doing "functional" compound movements and I never get hurt in the gym. But to understand why HIT works has a lot to do with unlearning things that are considered gospel in the weightlifting community. Machines are not inferior, provided they are used properly. Weight is merely one metric to measure and likely isn't as important as TUL and rep speed. Momentum is not strength. Nor is it a skill.
+
+My go-to resources for HIT besides _Body By Science_ are [Hillfit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/), which is for those that want to use bodyweight exercises at home, and [The New High Intensity Training](/2011/05/the-new-high-intensity-training/) by Darden, just ignore his nutrition advice.
 
 
 ### Last Words

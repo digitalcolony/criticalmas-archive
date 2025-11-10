@@ -8,7 +8,19 @@ description: "I made a few changes to the blog this year. The first thing I did 
 commentCount: 8
 ---
 
-I made a few changes to the blog this year. The first thing I did was remove all the analytics. I had been using Google Analytics (with anonymized IP addresses) to see how much traffic I was getting. Cloudflare offers a crude form of traffic that is enough for me. I wish more sites would just anonymize IP Addresses for their metrics and then this plague of Accept Cookie pop-ups could go away. This summer, I went through hundreds of posts and removed any and all affiliate links. As a customer, I love Amazon, but I'd rather have your comment than send you away for the possibility of a 30 cent commission. I hope I removed them all. There are almost 16 years worth of posts. For a deeper explanation of my motivation see the post [Made in the Spirit of the Early Web](/2021/07/made-in-the-spirit-of-the-early-web/). I also opened up comments on all but 12 posts. I had previously closed comments on posts older than a few years but decided that no longer made sense. The SPAM filters are amazing now and even if one gets through, I can remove it quickly. Also, most readers of this site enter the site from an older post. Getting modern feedback on a post that is 5, 10, or 15 years old could be beneficial. I am also now testing a Related Posts section that will appear under most entries. If it is valuable, I'll keep it. Do you have any feedback or ideas for the blog? Drop a comment.
+I made a few changes to the blog this year.
+
+The first thing I did was remove all the analytics. I had been using Google Analytics (with anonymized IP addresses) to see how much traffic I was getting. Cloudflare offers a crude form of traffic that is enough for me. I wish more sites would just anonymize IP Addresses for their metrics and then this plague of Accept Cookie pop-ups could go away.
+
+This summer, I went through hundreds of posts and removed any and all affiliate links. As a customer, I love Amazon, but I'd rather have your comment than send you away for the possibility of a 30 cent commission. I hope I removed them all. There are almost 16 years worth of posts.
+
+For a deeper explanation of my motivation see the post [Made in the Spirit of the Early Web](/2021/07/made-in-the-spirit-of-the-early-web/).
+
+I also opened up comments on all but 12 posts. I had previously closed comments on posts older than a few years but decided that no longer made sense. The SPAM filters are amazing now and even if one gets through, I can remove it quickly. Also, most readers of this site enter the site from an older post. Getting modern feedback on a post that is 5, 10, or 15 years old could be beneficial.
+
+I am also now testing a Related Posts section that will appear under most entries. If it is valuable, I'll keep it.
+
+Do you have any feedback or ideas for the blog? Drop a comment.
 
 ---
 

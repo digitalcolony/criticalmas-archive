@@ -9,7 +9,17 @@ description: "If you have an interest in fitness, then I highly recommend watchi
 commentCount: 11
 ---
 
-If you have an interest in fitness, then I highly recommend watching _Bigger, Stronger, Faster_. I rarely watch the same film more than once. I've seen this one three times already. It is a keeper. ![Bigger, Stronger, Faster*](https://images-na.ssl-images-amazon.com/images/I/51ukTt8tfaL.jpg) _Bigger, Stronger, Faster\*_ is a documentary about heroes, family, strength, and steroids. If your only source of information about the dangers of steroids has been the mass media, you've been misled. This documentary provides not just a balanced view of the health risks of steroids but goes much deeper into ethics. There is also an excellent section that exposes the before and after photo shoots used by supplement companies used to sell products. Besides the medical angle, BSF tells the story of three brothers that grew up in the 1980s. They had their heroes and their heroes told them not to take steroids because steroids were cheating. The brothers wanted to get big and strong, so they started lifting weights and even pursued powerlifting. As these men grew up they learned their idols were juicing. How they each responded was an excellent story in itself. Guys understand how women can get poor body images by being continually exposed to supermodels, Hollywood actresses, and other extreme measures of beauty. _Bigger, Stronger, Faster_ covers the much less discussed male body image issues, including a section on how the GI Joe doll has gotten much more muscular since the 1960s. **Bigger, Strong, Faster is a must-see.**
+If you have an interest in fitness, then I highly recommend watching _Bigger, Stronger, Faster_. I rarely watch the same film more than once. I've seen this one three times already. It is a keeper.
+
+![Bigger, Stronger, Faster*](https://images-na.ssl-images-amazon.com/images/I/51ukTt8tfaL.jpg)
+
+_Bigger, Stronger, Faster\*_ is a documentary about heroes, family, strength, and steroids. If your only source of information about the dangers of steroids has been the mass media, you've been misled. This documentary provides not just a balanced view of the health risks of steroids but goes much deeper into ethics. There is also an excellent section that exposes the before and after photo shoots used by supplement companies used to sell products.
+
+Besides the medical angle, BSF tells the story of three brothers that grew up in the 1980s. They had their heroes and their heroes told them not to take steroids because steroids were cheating. The brothers wanted to get big and strong, so they started lifting weights and even pursued powerlifting. As these men grew up they learned their idols were juicing. How they each responded was an excellent story in itself.
+
+Guys understand how women can get poor body images by being continually exposed to supermodels, Hollywood actresses, and other extreme measures of beauty. _Bigger, Stronger, Faster_ covers the much less discussed male body image issues, including a section on how the GI Joe doll has gotten much more muscular since the 1960s.
+
+**Bigger, Strong, Faster is a must-see.**
 
 ---
 

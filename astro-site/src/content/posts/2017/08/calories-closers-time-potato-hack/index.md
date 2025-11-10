@@ -13,19 +13,55 @@ Tim Steele, the author of The Potato Hack, has created an event called End of Su
 
 > As summer winds down, I thought this would be a great time to get everyone together for a couple days of potato hackin’. Who’s in?
 
-I'm in! Back in November 2015, I did my first Potato Hack day. I detailed that experience and the math in the post [No Hunger Games - A Day of Just Boiled Potatoes](/2015/11/no-hunger-games-a-day-of-just-boiled-potatoes/), Since then I have completed 2 extended Potato Hacks of 3 and 4 days. I'm hoping to make 5 days this time. For the record, Day 2 is the hardest for me. In a normal week, I spread out my meals of cold-boiled potatoes. This is a great maintenance strategy for weight, but not nearly as powerful as doing the full day or a multi-day hack. It is so much more than calories. You are building mental toughness by forgoing food flavor novelty. Think of this as a muscle most people will never exercise. Building that muscle will have benefits beyond your physique. It will make other challenges of willpower seem less difficult or even trivial If you want all the details about The Potato Hack, read the book by Tim Steele. I own the Kindle version. The book is both informative and motivating. ![Potato Hack Diet book](./img/potato-hack-diet.jpg) _The Potato Hack: Weight Loss Simplified_ In the post, [The Potato Diet is a Calorie Savings Account](/2016/11/potato-diet-calorie-savings-account/), I gave the logical argument on why a potato hack is such a benefit in an environment of foods engineered to be increasingly more and more flavorful. Now I want to make the case from a different angle. But before I do, I need to clear the room. If you already are at your perfect Adonis weight, have perfect food willpower, or still hold delusions that carbs are evil, you can stop ready now. This post isn't for you.
+I'm in!
+
+Back in November 2015, I did my first Potato Hack day. I detailed that experience and the math in the post [No Hunger Games - A Day of Just Boiled Potatoes](/2015/11/no-hunger-games-a-day-of-just-boiled-potatoes/), Since then I have completed 2 extended Potato Hacks of 3 and 4 days. I'm hoping to make 5 days this time. For the record, Day 2 is the hardest for me.
+
+In a normal week, I spread out my meals of cold-boiled potatoes. This is a great maintenance strategy for weight, but not nearly as powerful as doing the full day or a multi-day hack.
+
+It is so much more than calories.
+
+You are building mental toughness by forgoing food flavor novelty. Think of this as a muscle most people will never exercise. Building that muscle will have benefits beyond your physique. It will make other challenges of willpower seem less difficult or even trivial
+
+If you want all the details about The Potato Hack, read the book by Tim Steele. I own the Kindle version. The book is both informative and motivating.
+
+![Potato Hack Diet book](./img/potato-hack-diet.jpg)
+
+_The Potato Hack: Weight Loss Simplified_
+
+In the post, [The Potato Diet is a Calorie Savings Account](/2016/11/potato-diet-calorie-savings-account/), I gave the logical argument on why a potato hack is such a benefit in an environment of foods engineered to be increasingly more and more flavorful.
+
+Now I want to make the case from a different angle. But before I do, I need to clear the room. If you already are at your perfect Adonis weight, have perfect food willpower, or still hold delusions that carbs are evil, you can stop ready now. This post isn't for you.
 
 
 ### The Potato Hack Mindset
 
 
-Most of us have been in a situation where we were having a meal at a nicer restaurant where someone brought along young children. Maybe they were your kids. Then those children proceeded to throw a tantrum when the place didn't serve chicken nuggets or macaroni or whatever they demanded at that moment. We forgive the children. They are growing. Both physically and emotionally. But we're no different as adults. We just hide it better. **Instead of throwing spoons on the floor for not getting the one dish we want, we insist that every meal we have must be something that tastes good.** But because so many foods now taste good to us and we control our own money, we never have to experience that internal tantrum. In many ways we are as emotionally weak about food as the toddler, we are just able to hide it better. Food is for survival first. Your survival does not depend on how much you like the food. If you are carrying extra weight it is because you took more calories and more flavor from the environment than you needed. **Your silent tantrum was to keep eating more and more flavors.** You got heavy. You got weak. The Potato Hack is much more than a means to lose a few pounds. It is about resetting your relationship with food. You will recognize the power flavorful food has over your thinking. It is time to get the upper hand. Most people laugh when I tell them about The Potato Hack. It is a defensive laugh. We laugh at ideas that threaten our identity and those that might expose our own weaknesses. **The weakness here is how our brains have been wired by modern society to seek out highly flavorful food at every damn meal.** **It is time to kill the weakness. The potato is our weapon!** 
+Most of us have been in a situation where we were having a meal at a nicer restaurant where someone brought along young children. Maybe they were your kids. Then those children proceeded to throw a tantrum when the place didn't serve chicken nuggets or macaroni or whatever they demanded at that moment.
+
+We forgive the children. They are growing. Both physically and emotionally. But we're no different as adults. We just hide it better. **Instead of throwing spoons on the floor for not getting the one dish we want, we insist that every meal we have must be something that tastes good.** But because so many foods now taste good to us and we control our own money, we never have to experience that internal tantrum. In many ways we are as emotionally weak about food as the toddler, we are just able to hide it better.
+
+Food is for survival first. Your survival does not depend on how much you like the food. If you are carrying extra weight it is because you took more calories and more flavor from the environment than you needed. **Your silent tantrum was to keep eating more and more flavors.** You got heavy. You got weak.
+
+The Potato Hack is much more than a means to lose a few pounds. It is about resetting your relationship with food. You will recognize the power flavorful food has over your thinking. It is time to get the upper hand.
+
+Most people laugh when I tell them about The Potato Hack. It is a defensive laugh. We laugh at ideas that threaten our identity and those that might expose our own weaknesses. **The weakness here is how our brains have been wired by modern society to seek out highly flavorful food at every damn meal.** **It is time to kill the weakness. The potato is our weapon!** 
 
 
 ### Research Later, Start Now!
 
 
-People like us that read and write health blogs have this tendency to research things to death. Unless it is a difficult problem, it usually isn't necessary. It is often an avoidance strategy. We haven't started, but we're looking into it. Maybe next week or after this milestone. Research some more. My advice is to start now. Go get your potatoes now and start. Research during the hack. It will be more motivating that way. You'll be fine. You'll be better than fine. Need some motivation? A kick in the ass? Watch this speech from the movie _Glengarry Glen Ross_. It is about sales and excuses. For me, it is about toughening up and taking charge. Stop being weak. ![brass balls - glengarry glen ross](./img/alec-baldwin-glengarry-glen-ross-brass-balls.jpg) _[Always Be Closing (HD)](https://youtu.be/GrhSLf0I-HM) \- Language NSFW._  Whose with me? Who will earn their Brass Potatoes? I'm starting on Tuesday. Calories are for Closers!
+People like us that read and write health blogs have this tendency to research things to death. Unless it is a difficult problem, it usually isn't necessary. It is often an avoidance strategy. We haven't started, but we're looking into it. Maybe next week or after this milestone. Research some more.
+
+My advice is to start now. Go get your potatoes now and start. Research during the hack. It will be more motivating that way. You'll be fine. You'll be better than fine.
+
+Need some motivation? A kick in the ass? Watch this speech from the movie _Glengarry Glen Ross_. It is about sales and excuses. For me, it is about toughening up and taking charge. Stop being weak.
+
+![brass balls - glengarry glen ross](./img/alec-baldwin-glengarry-glen-ross-brass-balls.jpg)
+
+_[Always Be Closing (HD)](https://youtu.be/GrhSLf0I-HM) \- Language NSFW._ 
+
+Whose with me? Who will earn their Brass Potatoes? I'm starting on Tuesday. Calories are for Closers!
 
 ---
 

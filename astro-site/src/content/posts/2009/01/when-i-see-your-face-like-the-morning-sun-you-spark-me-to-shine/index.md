@@ -9,7 +9,11 @@ description: "It has been several months since my last latte art attempt. Since 
 commentCount: 5
 ---
 
-It has been several months since my last latte art attempt. Since I only drink espresso, I rarely get a chance to make lattes. Then I woke up the other day and saw a new post at [Naug's Latte Art Blog](http://latte-art-newbie.blogspot.com/2009/01/another-try-not-bad-not-bad.html) and was inspired. I invited some friends over and with low expectations, I cranked out this attempt. Not bad after almost a four month hiatus. ![latte-art](./img/latte-art.jpg)
+It has been several months since my last latte art attempt. Since I only drink espresso, I rarely get a chance to make lattes. Then I woke up the other day and saw a new post at [Naug's Latte Art Blog](http://latte-art-newbie.blogspot.com/2009/01/another-try-not-bad-not-bad.html) and was inspired.
+
+I invited some friends over and with low expectations, I cranked out this attempt. Not bad after almost a four month hiatus.
+
+![latte-art](./img/latte-art.jpg)
 
 ---
 

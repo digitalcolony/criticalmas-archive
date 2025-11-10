@@ -9,7 +9,11 @@ description: "In the post Approaching Fat Loss Like an Investor, the concept tha
 commentCount: 7
 ---
 
-In the post [Approaching Fat Loss Like an Investor](/2015/01/approaching-fat-loss-like-investor/#comments), the concept that "eating clean" can have mixed results was briefly mentioned. What does it mean to "eat clean"? In the most simple terms, it means restricting or eliminating nutrient poor foods. How one defines nutrient poor will depend upon their nutritional biases. A typical Paleo definition of eating clean usually involves eliminating or greatly restricting sugar, processed carbs and industrial seed oils. Stricter ones might go further and restrict dairy and starchy sources of carbs. Other diet camps will have their own definitions. On the surface it seems like "eating clean" would be a good thing. Assuming you picked a good diet, you are tossing out the bad foods. This brings up a few problems.
+In the post [Approaching Fat Loss Like an Investor](/2015/01/approaching-fat-loss-like-investor/#comments), the concept that "eating clean" can have mixed results was briefly mentioned.
+
+What does it mean to "eat clean"? In the most simple terms, it means restricting or eliminating nutrient poor foods. How one defines nutrient poor will depend upon their nutritional biases. A typical Paleo definition of eating clean usually involves eliminating or greatly restricting sugar, processed carbs and industrial seed oils. Stricter ones might go further and restrict dairy and starchy sources of carbs. Other diet camps will have their own definitions.
+
+On the surface it seems like "eating clean" would be a good thing. Assuming you picked a good diet, you are tossing out the bad foods. This brings up a few problems.
 
 1.  Many good foods get labeled as bad foods to present a simple albeit false nutritional narrative. The food you are removing might actually be beneficial.
 2.  Unless steps are taken, nutrient diversification falls. If you just remove "bad food" from your diet without other changes, you will be getting more calories and nutrients from the same foods. Those foods might be wonderful, but they provide nutrients you are already receiving. If we think like investors, we can see our food portfolio has become less diversified.
@@ -27,7 +31,11 @@ Both sides are getting this wrong. One side creates fairy tales demonizing foods
 3.  Recognize that most of the gains will come early. The longer you are on a restrictive diet, the less benefit you will get. Don't make the mistake of "doubling down" when things stop working. The path you are taking is no longer undervalued. Lock in those gains by adding back some of the foods you removed, even if in very small portions. In the absence of a real food allergy this can build resiliency.
 4.  Note that it is possible to eat too clean. It happened to me. I actually had to dirty up my diet with glorious ice cream when I became underweight. My clean diet resulted in an appetite that was too low for me.
 
-If you think about food as valuations, the picture gets more clear. When my skin was red and dry, wheat had a negative valuation. Beef liver, which I had not consumed since early childhood, had a high valuation. Cutting out the grains and adding offal wasn't ortherexic, it was an example of the correct way to "eat clean" for me at that time. ![reverse indy](./img/reverse-indy.jpg) If you are considering "eating clean", think about this screen still from Raiders of the Lost Ark. Indiana Jones is taking the valuable treasure and replacing it with worthless sand. If you decide to "eat clean" and remove the worthless sand, what treasures are you going to add that you aren't already eating?
+If you think about food as valuations, the picture gets more clear. When my skin was red and dry, wheat had a negative valuation. Beef liver, which I had not consumed since early childhood, had a high valuation. Cutting out the grains and adding offal wasn't ortherexic, it was an example of the correct way to "eat clean" for me at that time.
+
+![reverse indy](./img/reverse-indy.jpg)
+
+If you are considering "eating clean", think about this screen still from Raiders of the Lost Ark. Indiana Jones is taking the valuable treasure and replacing it with worthless sand. If you decide to "eat clean" and remove the worthless sand, what treasures are you going to add that you aren't already eating?
 
 ---
 

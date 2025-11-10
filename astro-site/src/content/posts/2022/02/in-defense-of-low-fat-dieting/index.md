@@ -8,13 +8,35 @@ description: "Low carb diets can work. When you reduce the number of carbs you e
 commentCount: 9
 ---
 
-Low carb diets can work. When you reduce the number of carbs you eat, you can absolutely lose weight. There are a few reasons. Most processed foods are higher in carbs and foods lower in carbs are often higher in protein. Higher protein diets reduce appetite. Fewer calories are consumed and weight loss occurs. We all know this. Yet the fact that low-carb diets can work for many people doesn't mean that low-fat diets can't work also. Unfortunately, many high profile low carb voices feel the need to lie about low-fat diets as a reason for going low carb. The big lie repeated by low-carb fans is that we as a society tried a low-fat diet and we all got fatter. No, we didn't. We may have consumed a bunch of low-fat crackers, but total fat consumption never went down. In fact, added fat consumption went up throughout the so-called "low-fat era" of the 1980s and 1990s. Reference: [Fat, Added Fat, and Obesity in America](https://wholehealthsource.blogspot.com/2015/11/fat-added-fat-and-obesity-in-america.html). **Society swapped healthy whole food fats for seed oils and we all got fatter. Then carbs got framed for the crime.** Many low-carb zealots continue to lump all carbs together. Mountain Dew is the same as quinoa to them. Which is ludicrous. People fail on low-fat diets because they consume too many of their calories as processed and don't eat enough protein and/or fiber. All this is solvable. My [Peasant Diet](/2016/11/designing-modern-peasant-diet/) and [Potatoes & Protein Diet](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/) both are whole food low-fat diets that remove processed foods and increase both protein and fiber. They worked great. Starting with a classic [Potato Hack](https://criticalmas.org/best-of/potato-hack-diet/) + Peasant Diet and then moving to Potatoes & Protein, I went from 222 to 180 without experiencing hunger and I've kept the weight off for years now. _(height 6'2.5 or 189 cm)_ ![potatoes-protein](./img/potatoes-protein.jpg) I solved the classic criticism of low-fat dieting which is hunger. If you fill your belly with whole foods that have a lower calorie density that also have protein and fiber, you feel satiety. You get full with fewer calories. Here is the other thing to consider. When you are dieting and not weight stable, a low-fat diet isn't really that low-fat. Why? Because the fat isn't on your plate, it's on your body. I'll use an extreme example to illustrate. Boiled potatoes have basically zero fat, so when you do a Potato Hack, you are consuming 0% fat. Super low fat, right? Take a look at the [math behind one of my potato hacks](/2017/08/math-behind-potato-hack/) when I weighed 200 pounds. I'll use the Mifflin-St. Jeor formula from that post. It was the most conservative for this example.
+Low carb diets can work. When you reduce the number of carbs you eat, you can absolutely lose weight. There are a few reasons. Most processed foods are higher in carbs and foods lower in carbs are often higher in protein. Higher protein diets reduce appetite. Fewer calories are consumed and weight loss occurs.
+
+We all know this.
+
+Yet the fact that low-carb diets can work for many people doesn't mean that low-fat diets can't work also. Unfortunately, many high profile low carb voices feel the need to lie about low-fat diets as a reason for going low carb.
+
+The big lie repeated by low-carb fans is that we as a society tried a low-fat diet and we all got fatter. No, we didn't. We may have consumed a bunch of low-fat crackers, but total fat consumption never went down. In fact, added fat consumption went up throughout the so-called "low-fat era" of the 1980s and 1990s. Reference: [Fat, Added Fat, and Obesity in America](https://wholehealthsource.blogspot.com/2015/11/fat-added-fat-and-obesity-in-america.html).
+
+**Society swapped healthy whole food fats for seed oils and we all got fatter. Then carbs got framed for the crime.**
+
+Many low-carb zealots continue to lump all carbs together. Mountain Dew is the same as quinoa to them. Which is ludicrous. People fail on low-fat diets because they consume too many of their calories as processed and don't eat enough protein and/or fiber. All this is solvable.
+
+My [Peasant Diet](/2016/11/designing-modern-peasant-diet/) and [Potatoes & Protein Diet](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/) both are whole food low-fat diets that remove processed foods and increase both protein and fiber. They worked great. Starting with a classic [Potato Hack](https://criticalmas.org/best-of/potato-hack-diet/) + Peasant Diet and then moving to Potatoes & Protein, I went from 222 to 180 without experiencing hunger and I've kept the weight off for years now. _(height 6'2.5 or 189 cm)_
+
+![potatoes-protein](./img/potatoes-protein.jpg)
+
+I solved the classic criticism of low-fat dieting which is hunger. If you fill your belly with whole foods that have a lower calorie density that also have protein and fiber, you feel satiety. You get full with fewer calories.
+
+Here is the other thing to consider. When you are dieting and not weight stable, a low-fat diet isn't really that low-fat. Why? Because the fat isn't on your plate, it's on your body.
+
+I'll use an extreme example to illustrate. Boiled potatoes have basically zero fat, so when you do a Potato Hack, you are consuming 0% fat. Super low fat, right? Take a look at the [math behind one of my potato hacks](/2017/08/math-behind-potato-hack/) when I weighed 200 pounds. I'll use the Mifflin-St. Jeor formula from that post. It was the most conservative for this example.
 
 -   1162 calories consumed (4 pounds of boiled potatoes, cooled overnight)
 -   2395 calories burned via metabolism and light exercise
 -   1233 calorie deficit
 
-Although I consumed 0% fat, I was getting a little more than 50% of my calories from fat. Not from my plate, but from my body. This is what we want. I'm puzzled when I hear these low-carb "gurus" talk about how one needs to eat a bunch of fat to become a fat burner. I clearly didn't. Once I reached my ideal weight and I was no longer pulling fat calories from my body, I increased them in my diet. Low-fat diets are a great tool for losing weight, provided the carbs are not processed.
+Although I consumed 0% fat, I was getting a little more than 50% of my calories from fat. Not from my plate, but from my body. This is what we want. I'm puzzled when I hear these low-carb "gurus" talk about how one needs to eat a bunch of fat to become a fat burner. I clearly didn't.
+
+Once I reached my ideal weight and I was no longer pulling fat calories from my body, I increased them in my diet. Low-fat diets are a great tool for losing weight, provided the carbs are not processed.
 
 ---
 

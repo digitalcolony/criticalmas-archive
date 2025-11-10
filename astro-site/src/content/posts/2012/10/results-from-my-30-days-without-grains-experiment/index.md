@@ -9,12 +9,20 @@ description: "I was just reminded that I never posted the outcome to My Current 
 commentCount: 6
 ---
 
-I was just reminded that I never posted the outcome to [My Current Experiment: 30 Days Without Any Grains](/2012/08/my-current-experiment-30-days-without-any-grains/). There was a data issue with this test. On September 1st, I got exposed to gluten at a gyro restaurant. That experience led me to post [Commercial Gyro Meat is Absolutely Not Gluten Free](/2012/09/commercial-gyro-meat-is-absolutely-not-gluten-free/). Even though the test was contaminated, I continued completing the 30 days. What I learned was interesting.
+I was just reminded that I never posted the outcome to [My Current Experiment: 30 Days Without Any Grains](/2012/08/my-current-experiment-30-days-without-any-grains/). There was a data issue with this test. On September 1st, I got exposed to gluten at a gyro restaurant. That experience led me to post [Commercial Gyro Meat is Absolutely Not Gluten Free](/2012/09/commercial-gyro-meat-is-absolutely-not-gluten-free/). Even though the test was contaminated, I continued completing the 30 days.
+
+What I learned was interesting.
 
 1.  My skin inflammation was not affected by this test.
 2.  When I reintroduced the Gluten-Free brownie, it triggered a night headache. I did this twice.
 
-The gluten-free brownie uses sorghum and millet. I can say with confidence now that I have a **secondary grain intolerance**. This would also explain why I have felt awful both times I sampled gluten-free beers, as they often use sorghum. I would count this test as successful. I learned something new about about myself. No more gluten-free treats for me. When it comes to treats, I'll stick to [ice cream](/2012/07/why-ice-cream-is-better-than-protein-powder/). This is the power of running experiments. ![](http://farm7.staticflickr.com/6051/6305889782_7986f21feb_z.jpg "Sorgum") _[Sorghum](http://www.flickr.com/photos/fluffymuppet/6305889782/in/photostream/) by Emma Cooper_
+The gluten-free brownie uses sorghum and millet. I can say with confidence now that I have a **secondary grain intolerance**. This would also explain why I have felt awful both times I sampled gluten-free beers, as they often use sorghum. I would count this test as successful. I learned something new about about myself. No more gluten-free treats for me. When it comes to treats, I'll stick to [ice cream](/2012/07/why-ice-cream-is-better-than-protein-powder/).
+
+This is the power of running experiments.
+
+![](http://farm7.staticflickr.com/6051/6305889782_7986f21feb_z.jpg "Sorgum")
+
+_[Sorghum](http://www.flickr.com/photos/fluffymuppet/6305889782/in/photostream/) by Emma Cooper_
 
 ---
 

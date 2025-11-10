@@ -8,7 +8,13 @@ description: "![](http://farm1.static.flickr.com/105/367425390722352b6ac.jpg \"c
 commentCount: 8
 ---
 
-![](http://farm1.static.flickr.com/105/367425390_722352b6ac.jpg "calendar") _[Photo](http://www.flickr.com/photos/joelanman/367425390/in/set-72157594221750301) by Joe Lanman_ Yesterday I started a quest to go **30 days with no sugar**. I eat [pretty clean](/2010/03/what-i-eat-and-what-i-dont-eat-march-2010-edition/) already, but I do have the occasional dark chocolate bar and ice cream treat. This 30 day quest was inspired by paleo podcaster [Andy Deas](http://robbwolf.com/2010/05/11/the-paleolithic-solution-episode-27/), who just completed 30 days without sugar, alcohol and caffeine. I have no plans to give up or even cut back on caffeine. My last beer was in September, so giving up alcohol will be easy. During the 30 days, I won't consume any artificial sweeteners either. I know from observation that most people believe that they eat healthier than they really do. I have named this phenomena, **caloric amnesia**. We vividly recall all the healthy things we eat, but our memory fades on how often or how much bad stuff we consume. It would be arrogant of me to assume that I don't have at least a mild case of caloric amnesia. The only way to test this is to go a full month without sugar.
+![](http://farm1.static.flickr.com/105/367425390_722352b6ac.jpg "calendar")
+
+_[Photo](http://www.flickr.com/photos/joelanman/367425390/in/set-72157594221750301) by Joe Lanman_
+
+Yesterday I started a quest to go **30 days with no sugar**. I eat [pretty clean](/2010/03/what-i-eat-and-what-i-dont-eat-march-2010-edition/) already, but I do have the occasional dark chocolate bar and ice cream treat. This 30 day quest was inspired by paleo podcaster [Andy Deas](http://robbwolf.com/2010/05/11/the-paleolithic-solution-episode-27/), who just completed 30 days without sugar, alcohol and caffeine. I have no plans to give up or even cut back on caffeine. My last beer was in September, so giving up alcohol will be easy. During the 30 days, I won't consume any artificial sweeteners either.
+
+I know from observation that most people believe that they eat healthier than they really do. I have named this phenomena, **caloric amnesia**. We vividly recall all the healthy things we eat, but our memory fades on how often or how much bad stuff we consume. It would be arrogant of me to assume that I don't have at least a mild case of caloric amnesia. The only way to test this is to go a full month without sugar.
 
 ---
 

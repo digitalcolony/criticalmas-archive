@@ -9,7 +9,13 @@ description: "Every so often I'll get inspired to make a dish that requires stoc
 commentCount: 5
 ---
 
-Every so often I'll get inspired to make a dish that requires stock before I have time to pull one out of the freezer. When this happens, I create a little warm water bath for the jar inside the sink. This process seems to take forever. I'm always adding more warm water to speed up the process. Today I faced the same dilemma and thought there had to be a better way. That is when I read about the idea of steaming the frozen jar. I was skeptical, but I needed to know. So I placed a steamer on the bottom of my large stock pot, added some water, put in a frozen jar of my [beef broth](/2011/04/homemade-beef-broth/) and turned on the heat. ![Thaw Stock](./img/stock-thaw.jpg) It worked. In about 30 minutes with no work on my part, the entire jar was thawed. No more warm water baths! Do you know any other ways to quickly thaw frozen liquids?
+Every so often I'll get inspired to make a dish that requires stock before I have time to pull one out of the freezer. When this happens, I create a little warm water bath for the jar inside the sink. This process seems to take forever. I'm always adding more warm water to speed up the process. Today I faced the same dilemma and thought there had to be a better way.
+
+That is when I read about the idea of steaming the frozen jar. I was skeptical, but I needed to know. So I placed a steamer on the bottom of my large stock pot, added some water, put in a frozen jar of my [beef broth](/2011/04/homemade-beef-broth/) and turned on the heat.
+
+![Thaw Stock](./img/stock-thaw.jpg)
+
+It worked. In about 30 minutes with no work on my part, the entire jar was thawed. No more warm water baths! Do you know any other ways to quickly thaw frozen liquids?
 
 ---
 

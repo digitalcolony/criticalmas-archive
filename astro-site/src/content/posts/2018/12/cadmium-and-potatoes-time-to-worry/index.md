@@ -9,15 +9,21 @@ description: "Recently, I got an alarming comment on an older post informing me
 commentCount: 7
 ---
 
-Recently, I got an alarming [comment on an older post](/2018/04/toxic-load-and-low-carb-dieting/#comment-26374) informing me that potatoes are high in cadmium. As someone who has been preaching the benefits of the [Potato Hack](https://criticalmas.org/best-of/potato-hack-diet/) for a while, I wanted to dig further into this potential risk. I looked for a list of foods with the highest levels of cadmium, but could not find one. _(**UPDATE**: Mimi found a 211-page PDF with some numbers. Cadmium info starts on Page 17). (**UPDATE July 2022:** The FDA pulled the PDF off their website.)_ What I found was a lot of discussions related to processed baby foods and chocolate. From the article, [WHY SHOULD WE WORRY ABOUT LEAD AND CADMIUM?](https://www.asyousow.org/our-work/environmental-health/toxic-enforcement/lead-and-cadmium-in-food/lead-and-cadmium-in-food-faqs/)
+Recently, I got an alarming [comment on an older post](/2018/04/toxic-load-and-low-carb-dieting/#comment-26374) informing me that potatoes are high in cadmium. As someone who has been preaching the benefits of the [Potato Hack](https://criticalmas.org/best-of/potato-hack-diet/) for a while, I wanted to dig further into this potential risk.
+
+I looked for a list of foods with the highest levels of cadmium, but could not find one. _(**UPDATE**: Mimi found a 211-page PDF with some numbers. Cadmium info starts on Page 17). (**UPDATE July 2022:** The FDA pulled the PDF off their website.)_ What I found was a lot of discussions related to processed baby foods and chocolate. From the article, [WHY SHOULD WE WORRY ABOUT LEAD AND CADMIUM?](https://www.asyousow.org/our-work/environmental-health/toxic-enforcement/lead-and-cadmium-in-food/lead-and-cadmium-in-food-faqs/)
 
 > Lead and cadmium in food are ubiquitous and do not seem to discriminate between natural, certified organic, and non-organic products. One or both of these metals have been found in various foods including baby foods (made with carrots, peaches, pears, sweet potatoes), dietary supplements, vitamins, protein powders, seaweed snacks, ginger cookies, packaged peaches/pears, various fruit juices, as well as chocolate.
 
-The article explains how the equipment used to process foods could be a contributing source of cadmium in processed foods. But potatoes like other vegetables can also hold cadmium due to the application of pesticides or phosphate fertilizer. How much? I can't find that answer. It likely varies based on the soil and application of those fertilizers. The article [4 Healthy Foods That Contain Dangerous “Heavy Metals”](https://web.archive.org/web/20201128051510/https://naturalnewsblogs.com/4-healthy-foods-contain-dangerous-heavy-metals/) states:
+The article explains how the equipment used to process foods could be a contributing source of cadmium in processed foods. But potatoes like other vegetables can also hold cadmium due to the application of pesticides or phosphate fertilizer. How much? I can't find that answer. It likely varies based on the soil and application of those fertilizers.
+
+The article [4 Healthy Foods That Contain Dangerous “Heavy Metals”](https://web.archive.org/web/20201128051510/https://naturalnewsblogs.com/4-healthy-foods-contain-dangerous-heavy-metals/) states:
 
 > Vegetables most at risk are potatoes, celery and cabbage...
 
-Their potato advice is to pick organic, wash them with filtered water, and peel them. In addition to eating cadmium, smokers and those who deal with toxic waste are going to have higher exposure. Cadmium is also present in many alcoholic drinks because it is found in the coating of copper, iron, and steel containers used in making alcoholic beverages. I don't have the full text for the study _of cadmium levels in wine, beer,_ and _other alcoholic beverages: possible sources of contamination_, but the conclusion is clear.
+Their potato advice is to pick organic, wash them with filtered water, and peel them.
+
+In addition to eating cadmium, smokers and those who deal with toxic waste are going to have higher exposure. Cadmium is also present in many alcoholic drinks because it is found in the coating of copper, iron, and steel containers used in making alcoholic beverages. I don't have the full text for the study _of cadmium levels in wine, beer,_ and _other alcoholic beverages: possible sources of contamination_, but the conclusion is clear.
 
 > Because alcoholic beverages are widely consumed, they contribute a large fraction of cadmium intake, and therefore, strict control of this element is advisable.
 
@@ -29,7 +35,9 @@ I reached out to Tim Steele, the author of _The Potato Hack: Weight Loss Simplif
 
 > Cadmium bioavailability from animal-based foods may be higher than that from vegetable-based foods. There appears to be something in plants that **inhibits cadmium absorption**.
 
-So absolute levels of cadmium will be different from the levels we absorb. The fact we are getting our cadmium from potatoes (a vegetable) makes it less bioavailable. That article is well worth reading in full because it makes a case indirectly against a carnivore diet if you are concerned about cadmium. Organ meats have high levels of cadmium, but when mixed with veggies, the absorption levels drop significantly. Here is another quote from the article that made me feel better about my massive intake of potatoes.
+So absolute levels of cadmium will be different from the levels we absorb. The fact we are getting our cadmium from potatoes (a vegetable) makes it less bioavailable. That article is well worth reading in full because it makes a case indirectly against a carnivore diet if you are concerned about cadmium. Organ meats have high levels of cadmium, but when mixed with veggies, the absorption levels drop significantly.
+
+Here is another quote from the article that made me feel better about my massive intake of potatoes.
 
 > Even if a vegetarian diet contains more lead and cadmium than a mixed diet, it is not certain that it will give rise to higher uptake of the metals, because **the absorption of lead and cadmium is inhibited by plant components such as fiber and phytate**.
 
@@ -69,7 +77,9 @@ A well-known benefit of donating blood is reducing heavy metal load. Help someon
 
 Going back to the [original comment](/2018/04/toxic-load-and-low-carb-dieting/#comment-26374) from Mark that kicked off this post, he listed some supplement ideas he has used successfully.
 
-> Plantarum a probiotic safely removes it, along with old spent iron zinc and some heavy metals, who knows what else?? I found it removes scar tissue big time, I’m talking old cartilage, bone, organs, synapse toxins, all tissue! So much so my diet required some extra elements: Molybdinium chelate(100mcg) , diatomaceous earth, natrual source vitamin C, L lysine, vanadium, L tyrosine, Boron, magnesiumchloride, Calcium Flouride, teaspoons of EVOO(olive oil), all once or twice a week, lots of veg(no dark greens), red potatoes, sweet potatoes, white rice, NO GLUTEN from Wheat, no instant coffee, no tap water, no heavy cigarette papers or throat burning smoke medium!
+> Plantarum a probiotic safely removes it, along with old spent iron zinc and some heavy metals, who knows what else?? I found it removes scar tissue big time, I’m talking old cartilage, bone, organs, synapse toxins, all tissue!
+> 
+> So much so my diet required some extra elements: Molybdinium chelate(100mcg) , diatomaceous earth, natrual source vitamin C, L lysine, vanadium, L tyrosine, Boron, magnesiumchloride, Calcium Flouride, teaspoons of EVOO(olive oil), all once or twice a week, lots of veg(no dark greens), red potatoes, sweet potatoes, white rice, NO GLUTEN from Wheat, no instant coffee, no tap water, no heavy cigarette papers or throat burning smoke medium!
 
 The article _Probiotics REMOVE heavy metals from your body_ (UPDATE FEB 2022: link down) covers _L. plantarum_ and _B. coagulans_ and how they could remove cadmium from the body. The other supplement ideas you can look into yourself.
 
@@ -77,7 +87,17 @@ The article _Probiotics REMOVE heavy metals from your body_ (UPDATE FEB 2022: l
 ### My Take Away
 
 
-I'm not concerned about cadmium in potatoes, because I peel the potatoes and cadmium is not as bioavailable in veggies. Cadmium is also present in many foods, especially processed and alcohol. Both of which I mostly avoid. I'm also guessing most of the readers of this site are fellow non-smokers, which is a good thing here. These days I'm hitting the sauna 5-6 times a week. I've also donated almost 5 gallons of blood since 2010. Both will benefit me against metal intake. The one thing I am going to change in my diet is when I do consume organ meat, I will also add kale to protect myself against cadmium. One final thought. Even if there is a slightly elevated risk of excessive cadmium while potato hacking, consider how many fewer calories per day you will be consuming when the hack takes you to your ideal weight. Those excess calories that you will not be consuming would have certainly have some cadmium in them. So in the long run, you would have less total cadmium exposure. Using myself as an example. I used the potato hack to drop 25 pounds. As a moderately active person, I need [16 calories per pound](https://www.livestrong.com/article/285862-how-many-calories-do-i-need-to-maintain-my-currrent-weight/) of weight daily. This means I'm consuming 400 fewer calories a day than a pre-Potato hack. That is 400 fewer calories of food EVERY SINGLE DAY that would have had some cadmium in it. Being leaner is almost always the best path to being healthy. ![](./img/4499242134_167ddd0655_z.jpg) I only spent a few hours on this topic. If I got anything wrong or you have more to add, please drop a comment.
+I'm not concerned about cadmium in potatoes, because I peel the potatoes and cadmium is not as bioavailable in veggies. Cadmium is also present in many foods, especially processed and alcohol. Both of which I mostly avoid. I'm also guessing most of the readers of this site are fellow non-smokers, which is a good thing here.
+
+These days I'm hitting the sauna 5-6 times a week. I've also donated almost 5 gallons of blood since 2010. Both will benefit me against metal intake. The one thing I am going to change in my diet is when I do consume organ meat, I will also add kale to protect myself against cadmium.
+
+One final thought. Even if there is a slightly elevated risk of excessive cadmium while potato hacking, consider how many fewer calories per day you will be consuming when the hack takes you to your ideal weight. Those excess calories that you will not be consuming would have certainly have some cadmium in them. So in the long run, you would have less total cadmium exposure.
+
+Using myself as an example. I used the potato hack to drop 25 pounds. As a moderately active person, I need [16 calories per pound](https://www.livestrong.com/article/285862-how-many-calories-do-i-need-to-maintain-my-currrent-weight/) of weight daily. This means I'm consuming 400 fewer calories a day than a pre-Potato hack. That is 400 fewer calories of food EVERY SINGLE DAY that would have had some cadmium in it. Being leaner is almost always the best path to being healthy.
+
+![](./img/4499242134_167ddd0655_z.jpg)
+
+I only spent a few hours on this topic. If I got anything wrong or you have more to add, please drop a comment.
 
 ---
 

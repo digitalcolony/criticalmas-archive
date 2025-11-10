@@ -9,7 +9,15 @@ description: "In May, I posted Thinking About Supplements - 2013 Edition. Perhap
 commentCount: 14
 ---
 
-In May, I posted [Thinking About Supplements - 2013 Edition](/2013/05/thinking-about-supplements-2013-edition/). Perhaps a better title would have been _Guessing About Supplements_? For me and probably most consumers, when it comes to supplements, we do our best and try not to get suckered into wasting our money on worthless crap. But we continue to waste money. We are hopeful that next pill or powder will make a measurable difference, but it rarely does, so we continue to get scammed. For the most part, I am anti-supplement, yet I still have a collection of vitamins, minerals and "other" that I take. To reconcile this inconsistency, I tell myself that my current batch of supplements are being tested to eliminate the possibility they might work. And if they don't I won't repurchase them in the future. Then I'll be free. Of course when the future does come, I buy different supplements and repeat the process. It is silly guess work. This ties into a book that Examine just released this week that goes into the research behind all the supplements. They rate the supplements and provide scores. ![Examine Supplement Guide](/i/examine-supplement.png) _The Supplement-Goals Reference Guide from Examine_
+In May, I posted [Thinking About Supplements - 2013 Edition](/2013/05/thinking-about-supplements-2013-edition/). Perhaps a better title would have been _Guessing About Supplements_? For me and probably most consumers, when it comes to supplements, we do our best and try not to get suckered into wasting our money on worthless crap. But we continue to waste money. We are hopeful that next pill or powder will make a measurable difference, but it rarely does, so we continue to get scammed.
+
+For the most part, I am anti-supplement, yet I still have a collection of vitamins, minerals and "other" that I take. To reconcile this inconsistency, I tell myself that my current batch of supplements are being tested to eliminate the possibility they might work. And if they don't I won't repurchase them in the future. Then I'll be free. Of course when the future does come, I buy different supplements and repeat the process.
+
+It is silly guess work. This ties into a book that Examine just released this week that goes into the research behind all the supplements. They rate the supplements and provide scores.
+
+![Examine Supplement Guide](/i/examine-supplement.png)
+
+_The Supplement-Goals Reference Guide from Examine_
 
 
 ### Am I Wasting My Money?
@@ -23,7 +31,15 @@ Here are the latest supplements I am trying and what I learned from _The Supplem
 -   **Creatine Monohydrate** - Talk about a supplement with a glowing report card. More **A** grades than an honor roll student. _The Supplement-Goals Reference Guide_ has provided me with many reasons to take creatine other than building muscle. Plus it is super cheap. Solid win.
 -   **Calcium-D-Glucarate** - This does not appear in the book, but there is a page on the Examine website which says "_Using calcium-D-glucarate as a daily preventative supplement does not appear to be a prudent idea, due to its lack of reliability even in theory and high doses used._" Good thing I ended up not buying this supplement, plus I get a tremendous amount of calcium from my dairy rich diet.
 
-The supplement that I have flip-flopped on the most is [BCAA](/2013/07/bcaa-again/). Art De Vany recently convinced me to give it yet another try. I haven't noticed anything like he describes. Had I consulted the good book, I would have saved my money. There is nothing mentioned about BCAA suppressing appetite, because it doesn't for mortals. Maybe for De Vany, but not for me. One supplement that Dave Asprey hypes is L-Glutamine. I found it completely useless. The good book is on my side. I could have saved money here as well. Did nothing for my headaches or building muscle. I'll be using _The Supplement-Goals Reference Guide_  going forward the next time I start to fall for the hype of some supplement. I'm certain it will save me money. _Disclosure: I received a free copy of the e-book and am an affiliate._  2019 UPDATE: My affiliate link was taken down without notice. Not sure why. I don't think you need to buy the book though anymore. They seem to be freely posting enough information for you to make better informed decisions.
+The supplement that I have flip-flopped on the most is [BCAA](/2013/07/bcaa-again/). Art De Vany recently convinced me to give it yet another try. I haven't noticed anything like he describes. Had I consulted the good book, I would have saved my money. There is nothing mentioned about BCAA suppressing appetite, because it doesn't for mortals. Maybe for De Vany, but not for me.
+
+One supplement that Dave Asprey hypes is L-Glutamine. I found it completely useless. The good book is on my side. I could have saved money here as well. Did nothing for my headaches or building muscle.
+
+I'll be using _The Supplement-Goals Reference Guide_  going forward the next time I start to fall for the hype of some supplement. I'm certain it will save me money.
+
+_Disclosure: I received a free copy of the e-book and am an affiliate._ 
+
+2019 UPDATE: My affiliate link was taken down without notice. Not sure why. I don't think you need to buy the book though anymore. They seem to be freely posting enough information for you to make better informed decisions.
 
 ---
 

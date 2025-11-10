@@ -9,11 +9,35 @@ description: "As much as a bad user interface annoys me, I really enjoy discover
 commentCount: 3
 ---
 
-As much as a bad user interface annoys me, I really enjoy discovering an excellent U/I. While in Thailand and Cambodia, I noticed a brilliant user interface. They place a second counter on traffic lights. When a light turns green or red, there is a second counter to the side of it. You know exactly when the light will change. ![siem-reap-traffic-light](./img/siem-reap-traffic-light.jpg) _11 Seconds left on this green light in Siem Reap, Cambodia_ Here in the States, people use red lights to apply makeup, drink coffee and light their smokes. Having a second counter on the light would give our multi-tasking drivers a visible indicator on how much time they have before the guy behind them blasts his horn. I love it. ![bangkok-traffic-light](./img/bangkok-traffic-light.jpg) _9 seconds left on this red light in Bangkok, Thailand_ TheTailGunner mentioned a potential downside. He saw drivers gunning their cars a second or two ahead of time. So a red light with 1 or 2 seconds left is equal to a green light. At first I conceded this point, but when I went back to the intersection to witness the traffic dance, I noticed that in heavy traffic it is more likely that the side with the green light will run the first second or two of the red light. During light traffic, the side waiting for the light change will advance prematurely, but not during heavy traffic. Since cars take a second or two to move from a dead stop until they are in the intersection, more cars get through each light cycle. What appears unsafe at first, somehow works. As much as I loved the user interface of intersections, I need to give a slam on menus and restaurant ordering in Thailand and Cambodia. As I've stated before, most of the people in Thailand [do not speak English](/2009/11/one-night-in-bangkok-and-the-worlds-your-oyster/). However, they do know numbers. Cambodians speak much better English. One thing both countries have in common was that almost every menu for sit down restaurants, be they Thai, Indian or whatever, had a sequential number system beside each dish.
+As much as a bad user interface annoys me, I really enjoy discovering an excellent U/I. While in Thailand and Cambodia, I noticed a brilliant user interface. They place a second counter on traffic lights. When a light turns green or red, there is a second counter to the side of it. You know exactly when the light will change.
 
-> EXAMPLE: 4 - Pad Thai with Shrimp 5 - Pad Thai with Chicken
+![siem-reap-traffic-light](./img/siem-reap-traffic-light.jpg)
 
-Now the silly American in me would order #4 and then point to the line in the menu. Since many can't speak English and they all understand numbers, this to me seems the logical way to order. Nope. I don't even know why they put the numbers in the menu. We always had to have that moment where nobody understood anyone until they came around to write down what I was pointing at on the menu. They would write the entire name of the dish down. Never once did they write the number. ![chiang-mai-menu](./img/chiang-mai-menu.jpg) _A numbered menu from Chiang Mai, Thailand_ One of the reasons the United States is a business success is because we use numbers and acronyms. We are able to communicate a lot of information quickly and without error. I had a few orders that came back different than what I ordered. Using the number system would have eliminated those mistakes. Come on Thailand and Cambodia, you like numbers when you drive, use the ones on your menus.
+_11 Seconds left on this green light in Siem Reap, Cambodia_
+
+Here in the States, people use red lights to apply makeup, drink coffee and light their smokes. Having a second counter on the light would give our multi-tasking drivers a visible indicator on how much time they have before the guy behind them blasts his horn. I love it.
+
+![bangkok-traffic-light](./img/bangkok-traffic-light.jpg)
+
+_9 seconds left on this red light in Bangkok, Thailand_
+
+TheTailGunner mentioned a potential downside. He saw drivers gunning their cars a second or two ahead of time. So a red light with 1 or 2 seconds left is equal to a green light. At first I conceded this point, but when I went back to the intersection to witness the traffic dance, I noticed that in heavy traffic it is more likely that the side with the green light will run the first second or two of the red light. During light traffic, the side waiting for the light change will advance prematurely, but not during heavy traffic. Since cars take a second or two to move from a dead stop until they are in the intersection, more cars get through each light cycle. What appears unsafe at first, somehow works.
+
+As much as I loved the user interface of intersections, I need to give a slam on menus and restaurant ordering in Thailand and Cambodia. As I've stated before, most of the people in Thailand [do not speak English](/2009/11/one-night-in-bangkok-and-the-worlds-your-oyster/). However, they do know numbers. Cambodians speak much better English. One thing both countries have in common was that almost every menu for sit down restaurants, be they Thai, Indian or whatever, had a sequential number system beside each dish.
+
+> EXAMPLE:
+> 
+> 4 - Pad Thai with Shrimp
+> 
+> 5 - Pad Thai with Chicken
+
+Now the silly American in me would order #4 and then point to the line in the menu. Since many can't speak English and they all understand numbers, this to me seems the logical way to order. Nope. I don't even know why they put the numbers in the menu. We always had to have that moment where nobody understood anyone until they came around to write down what I was pointing at on the menu. They would write the entire name of the dish down. Never once did they write the number.
+
+![chiang-mai-menu](./img/chiang-mai-menu.jpg)
+
+_A numbered menu from Chiang Mai, Thailand_
+
+One of the reasons the United States is a business success is because we use numbers and acronyms. We are able to communicate a lot of information quickly and without error. I had a few orders that came back different than what I ordered. Using the number system would have eliminated those mistakes. Come on Thailand and Cambodia, you like numbers when you drive, use the ones on your menus.
 
 ---
 

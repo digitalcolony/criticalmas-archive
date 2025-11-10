@@ -8,19 +8,35 @@ description: "Two weeks later and I'm still 199 and holding. As the temperature
 commentCount: 11
 ---
 
-Two weeks later and I'm still [199 and holding](/2017/09/199-and-holding/). As the temperatures and hours of sunshine have dropped, my appetite has increased. Now I have a new theory that I'll run past my super smart commenters. Almost a decade ago I began the practice of cold temperature exposure, which I document on the [Cold Weather Exposure](https://criticalmas.org/best-of/cold-weather-training/) page. It has been one of my proudest health achievements. After 7 years in San Diego, I trained my body to throw off heat as the temperature dropped. My comfort range has greatly expanded. I even have developed a slight disdain for healthy young men that dress for winter in mildly chilly weather. [The Temperature Wimps of San Francisco](/2014/09/temperature-wimps-san-francisco/) is a post that best captures my feelings on this topic. ![](./img/65F-sunny-so-cold-300x225.jpg)
+Two weeks later and I'm still [199 and holding](/2017/09/199-and-holding/). As the temperatures and hours of sunshine have dropped, my appetite has increased. Now I have a new theory that I'll run past my super smart commenters.
+
+Almost a decade ago I began the practice of cold temperature exposure, which I document on the [Cold Weather Exposure](https://criticalmas.org/best-of/cold-weather-training/) page. It has been one of my proudest health achievements. After 7 years in San Diego, I trained my body to throw off heat as the temperature dropped. My comfort range has greatly expanded.
+
+I even have developed a slight disdain for healthy young men that dress for winter in mildly chilly weather. [The Temperature Wimps of San Francisco](/2014/09/temperature-wimps-san-francisco/) is a post that best captures my feelings on this topic.
+
+![](./img/65F-sunny-so-cold-300x225.jpg)
 
 
 ### Is Cold Exposure Good For Fat Loss?
 
 
-The topic of burning fat using cold exposure has been batted around for several years now. The consensus has turned against the idea. Probably the best article I've read on the topic is [Cold Showers for Weight Loss: Do They Work?](https://muscleevo.net/cold-showers-weight-loss/), which (spoiler alert) says they don't. The short version is the math doesn't work in your favor. And I agree with the conclusions, but I my view is a bit more complex. If you are a dumpy couch potato with a lot of weight to lose, not only do you need to exercise and tighten up your diet, but I also think there is a benefit to toughening up in general. Expanding one's temperature zone via cold exposure is one method. A cold shower is not going to make you ripped, but the mental strength you build from actions that push your comfort zone will make developing more effective dietary and exercise habits easier. _Side note: The people most claiming to get fat loss benefits from cold exposure seem to be thick-wristed (endomorphic) men between 20-40 years old with 50 - 100 pounds to lose. Perhaps their body responds better in some way? Perhaps the combination of more muscle and more surface area works in their favor?_ 
+The topic of burning fat using cold exposure has been batted around for several years now. The consensus has turned against the idea. Probably the best article I've read on the topic is [Cold Showers for Weight Loss: Do They Work?](https://muscleevo.net/cold-showers-weight-loss/), which (spoiler alert) says they don't.
+
+The short version is the math doesn't work in your favor. And I agree with the conclusions, but I my view is a bit more complex.
+
+If you are a dumpy couch potato with a lot of weight to lose, not only do you need to exercise and tighten up your diet, but I also think there is a benefit to toughening up in general. Expanding one's temperature zone via cold exposure is one method. A cold shower is not going to make you ripped, but the mental strength you build from actions that push your comfort zone will make developing more effective dietary and exercise habits easier.
+
+_Side note: The people most claiming to get fat loss benefits from cold exposure seem to be thick-wristed (endomorphic) men between 20-40 years old with 50 - 100 pounds to lose. Perhaps their body responds better in some way? Perhaps the combination of more muscle and more surface area works in their favor?_ 
 
 
 ### Increase the Heat?
 
 
-As much as I like engaging in cold exposure, I also recognize it is not a zero effort endeavor. There is a willpower cost. That could be the cold shower or be underdressing for that long walk in the chilly air. Right now my primary goal is to drop weight. Maybe just 10 pounds, but they are the last 10 pounds, which are the hardest 10 pounds. I'm going to need all my willpower. With that said, I'm thinking of going warmer this winter than I normally would. Not wimpy like everyone else, but less extreme. Somewhere in the middle and just for this winter or until I've reached and locked in my ideal weight for a month or two. Good idea?
+As much as I like engaging in cold exposure, I also recognize it is not a zero effort endeavor. There is a willpower cost. That could be the cold shower or be underdressing for that long walk in the chilly air. Right now my primary goal is to drop weight. Maybe just 10 pounds, but they are the last 10 pounds, which are the hardest 10 pounds. I'm going to need all my willpower.
+
+With that said, I'm thinking of going warmer this winter than I normally would. Not wimpy like everyone else, but less extreme. Somewhere in the middle and just for this winter or until I've reached and locked in my ideal weight for a month or two.
+
+Good idea?
 
 ---
 

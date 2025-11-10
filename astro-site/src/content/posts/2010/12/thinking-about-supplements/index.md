@@ -9,7 +9,15 @@ description: "I am not a big believer in supplements. For the most part, I see t
 commentCount: 12
 ---
 
-I am not a big believer in supplements. For the most part, I see the supplement industry as a bunch of charlatans selling the modern version of snake oil. **The supplement industry profits by exploiting your health fears and then pointing to themselves as the solution.** People are all too eager to pay for the fantasy that some supplement will stop them from getting sick or give them ripped abs. When it comes to your health, I believe that money is better spent on quality food, cooking equipment, and nutritional education. Are all supplements bad? I don't know. My guess is there is more about nutrition that we don't know than what we do. There is a long history of supplements that were the rage that we now know are worthless. _Remember in the early 1990s how chromium picolinate was going to make us lean?_ Everything mankind has needed to survive has been found in food. I don't believe we are as smart as Mother Nature. I'm not alone in this belief. Michael Pollan wrote an entire book on this topic called [In Defense of Food](/2008/07/in-defense-of-food/). ![](./img/nervous-pills.jpg) _by Peter Konnecke_ What supplements do I take?
+I am not a big believer in supplements. For the most part, I see the supplement industry as a bunch of charlatans selling the modern version of snake oil. **The supplement industry profits by exploiting your health fears and then pointing to themselves as the solution.** People are all too eager to pay for the fantasy that some supplement will stop them from getting sick or give them ripped abs. When it comes to your health, I believe that money is better spent on quality food, cooking equipment, and nutritional education.
+
+Are all supplements bad? I don't know. My guess is there is more about nutrition that we don't know than what we do. There is a long history of supplements that were the rage that we now know are worthless. _Remember in the early 1990s how chromium picolinate was going to make us lean?_ Everything mankind has needed to survive has been found in food. I don't believe we are as smart as Mother Nature. I'm not alone in this belief. Michael Pollan wrote an entire book on this topic called [In Defense of Food](/2008/07/in-defense-of-food/).
+
+![](./img/nervous-pills.jpg)
+
+_by Peter Konnecke_
+
+What supplements do I take?
 
 -   **Vitamin D3** - During the winter months, I take Vitamin D3, because I can not get it from sunlight, living north of the 37th parallel. Ironically, I am posting this today as [a new study](http://www.medscape.com/viewarticle/733318) has just come out saying that supplemental Vitamin D may not be necessary. I follow a few blogs written by trusted PhDs. I'll be interested to read their analysis.
 -   **Fish Oil** - I am slowly phasing this supplement out. It is primarily used to correct Omega-6 to Omega-3 ratios. Since I source high-quality meat and have removed all seed oils from my diet, my n-6 to n-3 ratio is quite favorable. There is also an endless debate on which fish oils are good for you and which are terrible. I'd rather eat a can of sardines.
@@ -25,7 +33,9 @@ One supplement that I will probably try.
 
 -   **BCAA** - I've been reading about how branched-chain amino acids benefit the body during fasted resistance training, which I do. Art De Vany and Martin Berkham (LeanGains) are both proponents of BCAA supplementation.
 
-I want to conclude by emphasizing that I am not certain whether supplements are effective. I suspect the majority don't. I'd rather focus my energy on eating a varied diet of clean, healthy food. How about you? What supplements do you believe work?
+I want to conclude by emphasizing that I am not certain whether supplements are effective. I suspect the majority don't. I'd rather focus my energy on eating a varied diet of clean, healthy food.
+
+How about you? What supplements do you believe work?
 
 ---
 

@@ -15,7 +15,15 @@ I completed my [30 Days Without Sugar](/2010/05/30-days-without-sugar/) challeng
 3.  Fewer Headaches
 4.  Gut Health
 
-When I dropped gluten from my diet I saw benefits in all these metrics. Not for sugar. Up until the very last week, I saw no improvement in my health by going to a zero sugar diet. On the last week, I did notice a slight amount of fat loss. Very slight. It may have had nothing to do with sugar. ![](http://farm5.static.flickr.com/4015/4675125425_b46d14da42.jpg "salted caramel ice cream") _[Salted Caramel Ice Cream](http://www.flickr.com/photos/digitalcolony/4675125425/) covered in espresso_ Going forward I will adopt a more seasonal approach to sugar. During the summer months, I will have my ice cream and dark chocolate. During the winter months, I will keep my sugar intake to as close to zero as possible. This matches the food supply cycles of our evolutionary past. Note that my results should not be extrapolated to others. Removing gluten had a far greater positive effect on my health than removing sugar. You may be different. Do your own tests.
+When I dropped gluten from my diet I saw benefits in all these metrics. Not for sugar. Up until the very last week, I saw no improvement in my health by going to a zero sugar diet. On the last week, I did notice a slight amount of fat loss. Very slight. It may have had nothing to do with sugar.
+
+![](http://farm5.static.flickr.com/4015/4675125425_b46d14da42.jpg "salted caramel ice cream")
+
+_[Salted Caramel Ice Cream](http://www.flickr.com/photos/digitalcolony/4675125425/) covered in espresso_
+
+Going forward I will adopt a more seasonal approach to sugar. During the summer months, I will have my ice cream and dark chocolate. During the winter months, I will keep my sugar intake to as close to zero as possible. This matches the food supply cycles of our evolutionary past.
+
+Note that my results should not be extrapolated to others. Removing gluten had a far greater positive effect on my health than removing sugar. You may be different. Do your own tests.
 
 ---
 

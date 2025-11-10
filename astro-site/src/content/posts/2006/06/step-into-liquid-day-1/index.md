@@ -9,6 +9,14 @@ description: "Today I took my 2 hour surfing lesson at the Eli Howard Surf Schoo
 commentCount: 0
 ---
 
-Today I took my 2 hour surfing lesson at the [Eli Howard Surf School](https://www.elihoward.com/). It went much better than my snowboarding experience. I rode several waves to shore on the long foam surfboard provided by the school. I don't have any photos of my first day of surfing, so go to Laird Hamilton's website and check out his photos. We're both 6'3 and 215 pounds. Should be close enough. Right? **Legacy Comments** Matt
+Today I took my 2 hour surfing lesson at the [Eli Howard Surf School](https://www.elihoward.com/). It went much better than my snowboarding experience. I rode several waves to shore on the long foam surfboard provided by the school.
 
-> Man, I really envy you. I had every intention to take surfing lessons while I was in SoCal, but never got around to it. I'm real impressed that you are spending your SOG wisely. Keep the learnings coming!
+I don't have any photos of my first day of surfing, so go to Laird Hamilton's website and check out his photos. We're both 6'3 and 215 pounds. Should be close enough. Right?
+
+**Legacy Comments**
+
+Matt
+
+> Man, I really envy you. I had every intention to take surfing lessons while I was in SoCal, but never got around to it.
+> 
+> I'm real impressed that you are spending your SOG wisely. Keep the learnings coming!

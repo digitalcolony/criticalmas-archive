@@ -9,11 +9,33 @@ description: "I didn't want to title this blog \"My Last Fitness Post\", but it 
 commentCount: 9
 ---
 
-I didn't want to title this blog "My Last Fitness Post", but it could end up being my last post about getting stronger. It has been a long journey, but I've found the answer. Maybe not for you, but for me. Don't get hurt. That is it. Pick safe exercises. Challenge yourself. Allow time for recovery. Trust the process. Stop modeling yourself after outliers. Understand survivorship bias. _Body By Science, [Hillfit 2.0](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/), and [Foundation Training](/2013/08/foundation-training-is-highly-effective/)._ Once you've solved for safety, there is no magical plan. Do whatever holds your interest. Just don't get hurt. When the fitness bros beat their chest about optimal this or that, keep in mind that the assumption with all their nonsense is that one can not get hurt if one has good form. This is a ludicrous assumption. Also, spare me the link about how a group of 20 untrained college aged men got marginally better results doing _whatever_ for 16 weeks. Fitness to me isn't measured in weeks, it is measured in decades.
+I didn't want to title this blog "My Last Fitness Post", but it could end up being my last post about getting stronger. It has been a long journey, but I've found the answer. Maybe not for you, but for me.
+
+Don't get hurt. That is it.
+
+Pick safe exercises. Challenge yourself. Allow time for recovery. Trust the process. Stop modeling yourself after outliers. Understand survivorship bias.
+
+_Body By Science, [Hillfit 2.0](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/), and [Foundation Training](/2013/08/foundation-training-is-highly-effective/)._
+
+Once you've solved for safety, there is no magical plan. Do whatever holds your interest. Just don't get hurt.
+
+When the fitness bros beat their chest about optimal this or that, keep in mind that the assumption with all their nonsense is that one can not get hurt if one has good form. This is a ludicrous assumption.
+
+Also, spare me the link about how a group of 20 untrained college aged men got marginally better results doing _whatever_ for 16 weeks. Fitness to me isn't measured in weeks, it is measured in decades.
 
 > You study other men and you find out what makes them weak and then you don’t do that. — Jay Leno
 
-What makes them weak is not pursuing fitness or pursuing it too hard. The way to win is to not lose. Patience beats "No Pain, No Gain". Maybe not in the short run, but eventually. At this stage, I think I've said all I have to on the topic. I no longer feel the need to [convince others](/2014/11/knock-bro/). It is exhausting and I no longer care. Fitness is not my career. I am a hobbyist. I have other hobbies. It is time to move on. I won fitness. My best fitness posts are archived on the [Fitness Insights](https://criticalmas.org/best-of/fitness-insights/) page. ![drops mic](./img/3400482826_4debaa6b18_z.jpg) _[Photo](https://flic.kr/p/6bun5f) by Robert Bejil_
+What makes them weak is not pursuing fitness or pursuing it too hard. The way to win is to not lose.
+
+Patience beats "No Pain, No Gain". Maybe not in the short run, but eventually.
+
+At this stage, I think I've said all I have to on the topic. I no longer feel the need to [convince others](/2014/11/knock-bro/). It is exhausting and I no longer care. Fitness is not my career. I am a hobbyist. I have other hobbies. It is time to move on. I won fitness.
+
+My best fitness posts are archived on the [Fitness Insights](https://criticalmas.org/best-of/fitness-insights/) page.
+
+![drops mic](./img/3400482826_4debaa6b18_z.jpg)
+
+_[Photo](https://flic.kr/p/6bun5f) by Robert Bejil_
 
 ---
 

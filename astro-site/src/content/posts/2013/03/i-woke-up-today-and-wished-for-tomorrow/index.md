@@ -9,13 +9,21 @@ description: "Slowly I could feel myself waking up. Yet another headache. And ju
 commentCount: 28
 ---
 
-Slowly I could feel myself waking up. Yet another [headache](/2013/03/hunting-headaches-2-years-later/). And just like every other morning when a headache wakes me, I peek at my watch. I hope it reads 6 something. 5 something at the worst. This morning I wasn't so fortunate. 3:40 AM. Intensity a 4 out of 5, which means falling back asleep was not going to happen. My neck which was feeling fine since I had a two hour massage on Sunday was now feeling worse than ever. Another wasted day in front of me. The headache will vanish in a few hours, but I'll be exhausted the rest of the day. And although I'll attempt to take nap, there is a 90% chance I won't be able to fall asleep. My body will crave coffee to fight the brain fog, but it is the coffee that is most likely suspect that caused the headache.
+Slowly I could feel myself waking up. Yet another [headache](/2013/03/hunting-headaches-2-years-later/). And just like every other morning when a headache wakes me, I peek at my watch. I hope it reads 6 something. 5 something at the worst. This morning I wasn't so fortunate. 3:40 AM. Intensity a 4 out of 5, which means falling back asleep was not going to happen. My neck which was feeling fine since I had a two hour massage on Sunday was now feeling worse than ever.
+
+Another wasted day in front of me. The headache will vanish in a few hours, but I'll be exhausted the rest of the day. And although I'll attempt to take nap, there is a 90% chance I won't be able to fall asleep. My body will crave coffee to fight the brain fog, but it is the coffee that is most likely suspect that caused the headache.
 
 
 ### Taking a Break
 
 
-I'm going to take a week or three off from blogging. Trying to tame my coffee and [sugar](/2013/03/ending-the-ice-cream-experiment/) addictions with brain fog and headaches makes it hard to put together posts. I'm certain I've forgotten a few topics that I said I would blog about. If you have any suggestions or reminders, please leave a comment. ![MAS Fishing](./img/mas-fishing.jpg) _Blog break time. Not really going fishing though._  Post title is from the Marilyn Manson song Use Your Fist And Not Your Mouth.
+I'm going to take a week or three off from blogging. Trying to tame my coffee and [sugar](/2013/03/ending-the-ice-cream-experiment/) addictions with brain fog and headaches makes it hard to put together posts. I'm certain I've forgotten a few topics that I said I would blog about. If you have any suggestions or reminders, please leave a comment.
+
+![MAS Fishing](./img/mas-fishing.jpg)
+
+_Blog break time. Not really going fishing though._ 
+
+Post title is from the Marilyn Manson song Use Your Fist And Not Your Mouth.
 
 ---
 

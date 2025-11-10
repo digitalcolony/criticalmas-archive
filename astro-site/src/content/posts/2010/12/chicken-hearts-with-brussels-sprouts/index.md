@@ -9,7 +9,13 @@ description: "Version 1 = Chicken Hearts + Bacon + Apples + Onions. Version 2 = 
 commentCount: 2
 ---
 
-Version 1 = [Chicken Hearts + Bacon + Apples + Onions](/2010/12/chicken-hearts-bacon-apples-onions/). Version 2 = swap out the apples for Brussels sprouts. The dish was outstanding. For whatever reason, the chicken hearts tasted much better. It had none of the liver like gamy and bitter tastes that were slightly present before. The meat was sweeter and more tasty. The Brussels sprouts worked just as well as the apples. I plan to make this dish again soon. ![chicken-hearts-bacon](./img/chicken-hearts-bacon.jpg)
+Version 1 = [Chicken Hearts + Bacon + Apples + Onions](/2010/12/chicken-hearts-bacon-apples-onions/).
+
+Version 2 = swap out the apples for Brussels sprouts.
+
+The dish was outstanding. For whatever reason, the chicken hearts tasted much better. It had none of the liver like gamy and bitter tastes that were slightly present before. The meat was sweeter and more tasty. The Brussels sprouts worked just as well as the apples. I plan to make this dish again soon.
+
+![chicken-hearts-bacon](./img/chicken-hearts-bacon.jpg)
 
 ---
 

@@ -9,7 +9,13 @@ description: "Yeah, home prices are falling. That is old news. I'm more interest
 commentCount: 2
 ---
 
-Yeah, home prices are falling. That is old news. I'm more interested in what is going on in the rental market. When I went looking for a rental unit back in May, there was little offered and the prices were somewhat higher than I would have liked. ![](./img/for-rent-sign.jpg) _Photo For Rent - Reduced??!! by Flickr user Kelly Sims_ Since moving to the Upper Queen Anne area of Seattle in May, I have noticed more and more places available for rent in my neighborhood. Places with FOR RENT signs that filled in days, now have the sign out for weeks. I was talking with MarketMan about this recently and here are our thoughts.
+Yeah, home prices are falling. That is old news. I'm more interested in what is going on in the rental market. When I went looking for a rental unit back in May, there was little offered and the prices were somewhat higher than I would have liked.
+
+![](./img/for-rent-sign.jpg)
+
+_Photo For Rent - Reduced??!! by Flickr user Kelly Sims_
+
+Since moving to the Upper Queen Anne area of Seattle in May, I have noticed more and more places available for rent in my neighborhood. Places with FOR RENT signs that filled in days, now have the sign out for weeks. I was talking with MarketMan about this recently and here are our thoughts.
 
 1.  Younger adults are staying longer or moving back in with their parents. As job opportunities for recent graduates dry up, it is becoming more acceptable to stay with mom and dad for an extra year or two.
 2.  Getting a roommate is becoming more popular. With sites like Craigslist, it is very easy for homeowners struggling to make mortgage payments to rent out a room. The renter saves money and doesn't enter the traditional rental market.

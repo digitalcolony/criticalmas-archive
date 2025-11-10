@@ -9,7 +9,15 @@ description: "The book Lights Out: Sleep, Sugar and Survival has already had an 
 commentCount: 2
 ---
 
-The book [Lights Out: Sleep, Sugar and Survival](/2010/05/lights-out-sleep-sugar-and-survival/) has already had an impact on me. The book helped me understand the connection between light and hormones. Artificial lighting has lengthened the day and caused our hormones to believe it is summer all the time. With summer comes the hormonal signals to consume carbohydrates and lots of them. When modern societies are always in growth mode, the result is obesity and cancer. ![Night-time Magic..](http://farm4.static.flickr.com/3044/3104766775_03238d7626.jpg) _Photo [Night-time Magic..](http://www.flickr.com/photos/sss-showcase/3104766775/ "Night-time Magic.. by SonOfJordan") by SonOfJordan_ Staying up late or sleeping in an environment with blue spectrum light is not good for our health. I always wondered why getting sleep before midnight was somehow more valuable than sleeping in late. The hormone prolactin, which is often thought of in its role in nursing, also has a role in sleep. Anything we do to delay the release of melatonin (staying up late, sleeping under blue light) will delay prolactin. The book _Lights Out_ goes on to explain how pushing the prolactin into the daytime will suppresses your leptin signal. The result is your appetite for sugar stays on throughout the daytime and into the night. After reading the book, I made a few changes.
+The book [Lights Out: Sleep, Sugar and Survival](/2010/05/lights-out-sleep-sugar-and-survival/) has already had an impact on me. The book helped me understand the connection between light and hormones. Artificial lighting has lengthened the day and caused our hormones to believe it is summer all the time. With summer comes the hormonal signals to consume carbohydrates and lots of them. When modern societies are always in growth mode, the result is obesity and cancer.
+
+![Night-time Magic..](http://farm4.static.flickr.com/3044/3104766775_03238d7626.jpg)
+
+_Photo [Night-time Magic..](http://www.flickr.com/photos/sss-showcase/3104766775/ "Night-time Magic.. by SonOfJordan") by SonOfJordan_
+
+Staying up late or sleeping in an environment with blue spectrum light is not good for our health. I always wondered why getting sleep before midnight was somehow more valuable than sleeping in late. The hormone prolactin, which is often thought of in its role in nursing, also has a role in sleep. Anything we do to delay the release of melatonin (staying up late, sleeping under blue light) will delay prolactin. The book _Lights Out_ goes on to explain how pushing the prolactin into the daytime will suppresses your leptin signal. The result is your appetite for sugar stays on throughout the daytime and into the night.
+
+After reading the book, I made a few changes.
 
 1.  I changed to a single very low wattage light bulb for my room.
 2.  I installed [f.lux](https://justgetflux.com/) on both my computers. It blocks blue spectrum light from sunset to sunrise. This has had a tremendous effect.

@@ -9,7 +9,9 @@ description: "I've been preaching the gospel of low carbohydrate diets now for t
 commentCount: 3
 ---
 
-I've been preaching the gospel of low carbohydrate diets now for two years and intermittent fasting for almost as long. Several people I know have gotten much leaner following either or both strategies. However, some people perceive low-carb and/or IF as too difficult for them. Why? I am sure there are a few reasons, but one I want to highlight is an idea presented in the book [Lights Out](/2010/05/lights-out-sleep-sugar-and-survival/). Cryptochromes are blue-light photoreceptors. These receptors tell our body when the sun is up and when is not. The study Regulation of the Mammalian Circadian Clock by Cryptochrome explains these as:
+I've been preaching the gospel of low carbohydrate diets now for two years and intermittent fasting for almost as long. Several people I know have gotten much leaner following either or both strategies. However, some people perceive low-carb and/or IF as too difficult for them. Why?
+
+I am sure there are a few reasons, but one I want to highlight is an idea presented in the book [Lights Out](/2010/05/lights-out-sleep-sugar-and-survival/). Cryptochromes are blue-light photoreceptors. These receptors tell our body when the sun is up and when is not. The study Regulation of the Mammalian Circadian Clock by Cryptochrome explains these as:
 
 > Cryptochromes were found to be expressed in all tissues; however, expression was high in the retina and restricted to the inner retina in both mice and humans.
 
@@ -17,7 +19,19 @@ These blue light receptors help humans sync with their circadian rhythm. The cir
 
 > A circadian rhythm is a roughly 24-hour cycle in the biochemical, physiological, or behavioural processes of living entities, including plants, animals, fungi and cyanobacteria.
 
-The main driver for this process is daylight. More specifically, blue light. Long days mean long exposure to blue light. This tells the body that it is summer and to get carbohydrates to fatten up for the winter. Before agriculture, winter meant food sources were scarce. During that time we'd sleep more and burn off the fat we gained during the summer. This process worked well until the invention of artificial lighting. Artificial lighting also has a blue light and blue light suppresses melatonin. Melatonin not only helps us sleep and is a powerful antioxidant, but it also helps us control our appetite for carbohydrates. Modern man has fooled our receptors into believing it is now summer all year long. ![tired-man-at-desk-at-night](./img/tired-man-at-desk-at-night.jpg) _A man bathed in blue light suppresses his melatonin levels, which increases his appetite for carbohydrates. Years of doing this can lead to obesity and a host of other health problems. Sleep is not the enemy._ When I first approached low-carb dieting and Intermittent Fasting, I was going to bed around 10 PM in a room that was pitch black. There wasn't a sliver of light in that room. I had zero electronics in the room. I slept great and somehow after a lifetime of carbohydrate abuse, I suddenly had willpower. Some of the people I know who can't execute a low-carb diet or Intermittent Fasting are night owls. They stay up late and are bathed in artificial lighting from computers and TV. They go to bed often after midnight and don't sleep in pure darkness. Their brain is telling them it is summer, don't go to sleep, and to NOT RESTRICT carbohydrates. How can we use this information to our benefit?
+The main driver for this process is daylight. More specifically, blue light. Long days mean long exposure to blue light. This tells the body that it is summer and to get carbohydrates to fatten up for the winter. Before agriculture, winter meant food sources were scarce. During that time we'd sleep more and burn off the fat we gained during the summer.
+
+This process worked well until the invention of artificial lighting. Artificial lighting also has a blue light and blue light suppresses melatonin. Melatonin not only helps us sleep and is a powerful antioxidant, but it also helps us control our appetite for carbohydrates. Modern man has fooled our receptors into believing it is now summer all year long.
+
+![tired-man-at-desk-at-night](./img/tired-man-at-desk-at-night.jpg)
+
+_A man bathed in blue light suppresses his melatonin levels, which increases his appetite for carbohydrates. Years of doing this can lead to obesity and a host of other health problems. Sleep is not the enemy._
+
+When I first approached low-carb dieting and Intermittent Fasting, I was going to bed around 10 PM in a room that was pitch black. There wasn't a sliver of light in that room. I had zero electronics in the room. I slept great and somehow after a lifetime of carbohydrate abuse, I suddenly had willpower.
+
+Some of the people I know who can't execute a low-carb diet or Intermittent Fasting are night owls. They stay up late and are bathed in artificial lighting from computers and TV. They go to bed often after midnight and don't sleep in pure darkness. Their brain is telling them it is summer, don't go to sleep, and to NOT RESTRICT carbohydrates.
+
+How can we use this information to our benefit?
 
 1.  The room you sleep in should be as dark as possible without the glow of electronics. Strength coach Charles Poliquin tells his athletes, many of whom travel across time zones to competitive events, to unplug everything in their hotel room and make the room as dark as possible to facilitate great sleep.
 2.  Reduce blue light exposure after 10 PM in the summer, and earlier in the winter. There are companies out there now that sell [light products](https://www.lowbluelights.com/) that reduce or block exposure to blue light. On both of my computers, I have [f.lux](https://justgetflux.com/) installed. It blocks blue light when the sunsets. It is a free download.

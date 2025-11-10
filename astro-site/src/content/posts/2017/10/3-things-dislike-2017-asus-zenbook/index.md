@@ -9,7 +9,13 @@ description: "Two months ago I bought a 13.3-inch ASUS ZenBook laptop. For the 
 commentCount: 0
 ---
 
-Two months ago I bought a 13.3-inch ASUS ZenBook laptop. For the most part, I am very pleased with the performance of the laptop, but there a few things I dislike. We got off to a rocky start when I had issues with the display that was too dark to read. ASUS support was useless and clueless to help me.  Fortunately, I was able to fix the display issues. I posted how I did it on Medium. **[My new ASUS Zenbook was too dark. How I fixed it.](https://medium.com/@CriticalMAS/my-new-asus-zenbook-was-too-dark-how-i-fixed-it-5be99d95d46d)** I was able to fix the brightness issue, but I have 3 more things that I dislike that I want others considering a Zenbook to be aware of.
+Two months ago I bought a 13.3-inch ASUS ZenBook laptop. For the most part, I am very pleased with the performance of the laptop, but there a few things I dislike.
+
+We got off to a rocky start when I had issues with the display that was too dark to read. ASUS support was useless and clueless to help me.  Fortunately, I was able to fix the display issues. I posted how I did it on Medium.
+
+**[My new ASUS Zenbook was too dark. How I fixed it.](https://medium.com/@CriticalMAS/my-new-asus-zenbook-was-too-dark-how-i-fixed-it-5be99d95d46d)**
+
+I was able to fix the brightness issue, but I have 3 more things that I dislike that I want others considering a Zenbook to be aware of.
 
 
 ### #1 The Fingerprint Reader
@@ -38,4 +44,12 @@ This has to be the dumbest keyboard thing I have seen in many years. In order to
 ### My Next Move
 
 
-Perhaps I need to buy a USB Keyboard with actual up and down volume buttons and attach it to my Zenbook? That would solve two of my problems. I could use the keyboard at home and use the ASUS keyboard when out. ![ASUS Zenbook laptop](./img/asus-zenbook-13.jpg) _ASUS ZenBook UX330UA-AH54 13.3-inch LCD Ultra-Slim Laptop_ UPDATE: I went to Best Buy and chatted with a sales rep. He showed me that all Windows laptops require hitting the Function key and another key to adjust the volume. Asus happens to spread it out further than other laptops. One of the makers (maybe HP or Dell?) uses the F2, which means one could much easier adjust the volume with a single hand. Anywho...I bought a USB laptop and am typing away happily on it right now.
+Perhaps I need to buy a USB Keyboard with actual up and down volume buttons and attach it to my Zenbook? That would solve two of my problems. I could use the keyboard at home and use the ASUS keyboard when out.
+
+![ASUS Zenbook laptop](./img/asus-zenbook-13.jpg)
+
+_ASUS ZenBook UX330UA-AH54 13.3-inch LCD Ultra-Slim Laptop_
+
+UPDATE: I went to Best Buy and chatted with a sales rep. He showed me that all Windows laptops require hitting the Function key and another key to adjust the volume. Asus happens to spread it out further than other laptops. One of the makers (maybe HP or Dell?) uses the F2, which means one could much easier adjust the volume with a single hand.
+
+Anywho...I bought a USB laptop and am typing away happily on it right now.

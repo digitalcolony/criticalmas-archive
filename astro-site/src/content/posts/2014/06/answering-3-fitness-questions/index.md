@@ -13,7 +13,13 @@ I received an email with three fitness questions. Instead of responding privatel
 
 > 1) You say that you do your strength building exercises to failure. Do you literally mean that you do one rep every 5-7 days? Or do you have a few minutes rest and do a few in one session?
 
-One rep is for static holds. If you are lifting slow, be it 5, 10 or 30 seconds, you will do more than 1 rep. If you are going to failure, you will only need to do 1 set. If you are an ectomorph or workout in an environment that limits your intensity, such as being an a hot environment, you can decrease the intensity and increase the sets. Still lift slow though. I cover this more in the post [Is High Intensity Training Best For Ectomorphs?](/2012/08/is-high-intensity-training-best-for-ectomorphs/) The most important thing about HIT is selecting safe exercises with low skill requirements and doing them slowly in a way that minimizes momentum. Experiment with rep speed (and static holds) and number of sets. Then allow time for recovery. Most fitness protocols advise more workouts per week, but they are also recommending exercises with a higher skill component. The more complex the exercise, the more practice is needed, which means more volume and reduced intensity. With HIT we eliminate the need to practice the skill of the movement, so the volume requirements aren't needed, which allows us to focus on increasing intensity. Thus we only need to workout every 5 or 7 days.
+One rep is for static holds. If you are lifting slow, be it 5, 10 or 30 seconds, you will do more than 1 rep. If you are going to failure, you will only need to do 1 set.
+
+If you are an ectomorph or workout in an environment that limits your intensity, such as being an a hot environment, you can decrease the intensity and increase the sets. Still lift slow though. I cover this more in the post [Is High Intensity Training Best For Ectomorphs?](/2012/08/is-high-intensity-training-best-for-ectomorphs/)
+
+The most important thing about HIT is selecting safe exercises with low skill requirements and doing them slowly in a way that minimizes momentum. Experiment with rep speed (and static holds) and number of sets. Then allow time for recovery.
+
+Most fitness protocols advise more workouts per week, but they are also recommending exercises with a higher skill component. The more complex the exercise, the more practice is needed, which means more volume and reduced intensity. With HIT we eliminate the need to practice the skill of the movement, so the volume requirements aren't needed, which allows us to focus on increasing intensity. Thus we only need to workout every 5 or 7 days.
 
 > 2) I don't go to a gym. Is there an equivalent to this great body weight squat that you can do for upper body? Just say if one of your recommended books would help answer that.
 
@@ -21,7 +27,11 @@ Yes. Push-ups and Chin-ups, either done very slowly or as a static hold. The boo
 
 > 3) Going all-out. I have been doing 2 hill sprints per week - 8 reps till failure for 30 seconds, 90 seconds rest. Also, one strength building session which is to failure too. Thoughts? Too much? OK? I'm in great shape and in my early 30s.
 
-I am not an expert in running, but I think you are on the right path, especially with the uphill portion. The only pain free running I've done since 1995 has been sprinting uphill. See my post [Running Up That Hill - Sprinting Salvation For Tall People](/2012/01/running-up-that-hill-sprinting-salvation-for-tall-people/). My only suggestion is to space out the days between your HIT workout and your sprints. Try and make sure your legs are somewhat recovered before tearing up that hill. Maybe one of my running readers can help out with question #3? How does a runner gauge "too much" before it becomes a problem? [![runners-seattle](./img/runners-seattle.jpg)](./img/runners-seattle.jpg)
+I am not an expert in running, but I think you are on the right path, especially with the uphill portion. The only pain free running I've done since 1995 has been sprinting uphill. See my post [Running Up That Hill - Sprinting Salvation For Tall People](/2012/01/running-up-that-hill-sprinting-salvation-for-tall-people/). My only suggestion is to space out the days between your HIT workout and your sprints. Try and make sure your legs are somewhat recovered before tearing up that hill.
+
+Maybe one of my running readers can help out with question #3? How does a runner gauge "too much" before it becomes a problem?
+
+[![runners-seattle](./img/runners-seattle.jpg)](./img/runners-seattle.jpg)
 
 ---
 

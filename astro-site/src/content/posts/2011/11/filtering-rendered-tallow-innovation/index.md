@@ -9,7 +9,13 @@ description: "Today when I was finished rendering tallow in my Crock Pot, I atte
 commentCount: 5
 ---
 
-Today when I was finished [rendering tallow](/2011/02/rendering-beef-tallow-in-a-crock-pot/) in my Crock Pot, I attempted to filter it using a coffee filter. In the past, this has worked. But for some odd reason today the tallow did not want to go through the filter. So I quickly came up with an alternate solution that I ended up liking better. For years I've held onto a [Vietnamese Coffee](https://ineedcoffee.com/brew-vietnamese-coffee/) filter. I think I used it once. When you have a [kick ass espresso machine](https://ineedcoffee.com/rancilio-silvia-espresso-machine-tips/), all other coffee gear gets buried away. Anyway, I used the Vietnamese coffee filter and it worked great. Not 100%, but good enough for me. I guess cheese cloth would be ideal, but when you don't have any and you need to go MacGyver, it works! ![render-fat-1](./img/render-fat-1.jpg) ![render-fat-2](./img/render-fat-2.jpg)
+Today when I was finished [rendering tallow](/2011/02/rendering-beef-tallow-in-a-crock-pot/) in my Crock Pot, I attempted to filter it using a coffee filter. In the past, this has worked. But for some odd reason today the tallow did not want to go through the filter. So I quickly came up with an alternate solution that I ended up liking better.
+
+For years I've held onto a [Vietnamese Coffee](https://ineedcoffee.com/brew-vietnamese-coffee/) filter. I think I used it once. When you have a [kick ass espresso machine](https://ineedcoffee.com/rancilio-silvia-espresso-machine-tips/), all other coffee gear gets buried away. Anyway, I used the Vietnamese coffee filter and it worked great. Not 100%, but good enough for me. I guess cheese cloth would be ideal, but when you don't have any and you need to go MacGyver, it works!
+
+![render-fat-1](./img/render-fat-1.jpg)
+
+![render-fat-2](./img/render-fat-2.jpg)
 
 ---
 

@@ -13,7 +13,11 @@ I promised I would do an update on my post from April 2014 titled [I Love My Ch
 
 > Penny for penny, the Acer Chromebook C720 is the BEST piece of technology I’ve ever owned.
 
-I still agree with that statement, although the Kindle Fire is damn close. However, technology changes quickly, so although I would absolutely still buy a Chromebook, it isn't perfect. Before I go into what I have found lacking, I want to cover how I was able to do things I didn't think possible at first using a Chromebook. ![](./img/chromebook-coffeebook.jpg) _My Chromebook now has some coffee stickers!_
+I still agree with that statement, although the Kindle Fire is damn close. However, technology changes quickly, so although I would absolutely still buy a Chromebook, it isn't perfect. Before I go into what I have found lacking, I want to cover how I was able to do things I didn't think possible at first using a Chromebook.
+
+![](./img/chromebook-coffeebook.jpg)
+
+_My Chromebook now has some coffee stickers!_
 
 
 #### #1 Photo Editing
@@ -25,7 +29,11 @@ Pixlr Editor is a godsend. A browser-based photo editing tool that is not only f
 #### #2 Database Management
 
 
-If you have web hosting, many providers offer _phpMyAdmin_, which is a poorly named tool that helps you manage MySQL. _Why didn't they name it phpMySQL?_ Anyway as good as it is, I absolutely love _DbNinja_. You place the code on a hidden folder on your website, connect databases, and query away. All free and secure. One weekend I tested about 5-7 database management tools, _DbNinja_ even though it was browser-based, beat every single one. No Windows or Mac needed. **UPDATE July 2021:** DbNinja site is down. Not sure if it is still supported.
+If you have web hosting, many providers offer _phpMyAdmin_, which is a poorly named tool that helps you manage MySQL. _Why didn't they name it phpMySQL?_ Anyway as good as it is, I absolutely love _DbNinja_. You place the code on a hidden folder on your website, connect databases, and query away. All free and secure.
+
+One weekend I tested about 5-7 database management tools, _DbNinja_ even though it was browser-based, beat every single one. No Windows or Mac needed.
+
+**UPDATE July 2021:** DbNinja site is down. Not sure if it is still supported.
 
 
 #### #3 Coding
@@ -43,25 +51,37 @@ I got way more than $200 use out of my Chromebook and I continue to use it daily
 #### #1 Get More Memory - 2 GB is Not Enough
 
 
-In my original Chromebook post, I was happy with the 2 GB of RAM. And it was fine for a long time, but the more I pushed my Chromebook, the more it started to hang and crash. It could be a sign my Chromebook is getting old or that websites are now pushing more and more client-side code onto browsers. Or both. Anyway, absolutely get 4 GB or more RAM. The good news is you can now get much faster Chromebooks with 4 GB of RAM for the same price or less than what I got back in 2014.
+In my original Chromebook post, I was happy with the 2 GB of RAM. And it was fine for a long time, but the more I pushed my Chromebook, the more it started to hang and crash. It could be a sign my Chromebook is getting old or that websites are now pushing more and more client-side code onto browsers. Or both.
+
+Anyway, absolutely get 4 GB or more RAM. The good news is you can now get much faster Chromebooks with 4 GB of RAM for the same price or less than what I got back in 2014.
 
 
 #### #2 Skype - Not Even Web Skype
 
 
-I understand that a Chromebook can not install any programs and that includes Skype. But Google blocks Chromebook users from accessing the browser-based version of Skype. I know they want us to all use Google Hangouts, but this seems wrong. What if Microsoft blocked a Google product on Windows? I use Google Hangouts every week, but because it isn't perfect I need to have Skype on standby, but because my Chromebook doesn't support Skype, I need to have my Kindle Fire charged and ready to go just in case. **UPDATE:** See Dan's comment below for a better explanation of why Skype is not on Chromebook and how it may be coming as new Chromebooks begin to support Android apps.
+I understand that a Chromebook can not install any programs and that includes Skype. But Google blocks Chromebook users from accessing the browser-based version of Skype. I know they want us to all use Google Hangouts, but this seems wrong. What if Microsoft blocked a Google product on Windows?
+
+I use Google Hangouts every week, but because it isn't perfect I need to have Skype on standby, but because my Chromebook doesn't support Skype, I need to have my Kindle Fire charged and ready to go just in case.
+
+**UPDATE:** See Dan's comment below for a better explanation of why Skype is not on Chromebook and how it may be coming as new Chromebooks begin to support Android apps.
 
 
 #### #3 FTP
 
 
-I'm frankly surprised that I haven't been able to find a working intuitive secure FTP solution. There is an extension in the Chrome Web Store called _sFTP_ that I couldn't get to work. Considering the hundreds of low reviews it has received, I am not alone. There are some web page solutions that look like they were coded in the late 1990s. None of the ones I found had an SSL certificate. They looked sketchy. I couldn't trust them with my server password. If someone knows a free solution like _DbNinja_, where I can install the program on my server and access it via a hidden link, please leave a comment.
+I'm frankly surprised that I haven't been able to find a working intuitive secure FTP solution. There is an extension in the Chrome Web Store called _sFTP_ that I couldn't get to work. Considering the hundreds of low reviews it has received, I am not alone.
+
+There are some web page solutions that look like they were coded in the late 1990s. None of the ones I found had an SSL certificate. They looked sketchy. I couldn't trust them with my server password.
+
+If someone knows a free solution like _DbNinja_, where I can install the program on my server and access it via a hidden link, please leave a comment.
 
 
 #### Chromebooks Are Awesome
 
 
-Most people I am guessing would be much better off with a Chromebook. Dollar for dollar they can't be beaten. A lot of software is browser-based now. Recently I have been debating on getting a 2nd Chromebook or a Windows 10 laptop. I haven't decided yet. There are some coding projects that would go much smoother on a Windows laptop, but they cost more. I do like the Acer Chromebook 14. And HP makes a slick 11.6 inch Chromebook if you want something super portable.
+Most people I am guessing would be much better off with a Chromebook. Dollar for dollar they can't be beaten. A lot of software is browser-based now. Recently I have been debating on getting a 2nd Chromebook or a Windows 10 laptop. I haven't decided yet. There are some coding projects that would go much smoother on a Windows laptop, but they cost more.
+
+I do like the Acer Chromebook 14. And HP makes a slick 11.6 inch Chromebook if you want something super portable.
 
 ---
 

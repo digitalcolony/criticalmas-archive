@@ -9,7 +9,25 @@ description: "A few years ago, I read something Precision Nutrition posted about
 commentCount: 14
 ---
 
-A few years ago, I read something Precision Nutrition posted about how the people with the best and the worst physiques tend to eat the same meals over and over. It is an interesting concept to ponder and I think about that observation frequently. On one end of the spectrum, we see people that are grossly overweight. To be extremely heavy requires a significant number of calories. This requires either planning or shortcuts. A heavy person knows that a pint of ice cream or a pizza is more likely to fill them up and turn off the hunger signals than healthy meals. So over time, they gravitate to staple high-calorie meals they don't need to think about. This is what Precision Nutrition discovered with their clients. At the other end of the spectrum are the athletes and successful dieters. To be lean in a modern environment of endless food choices and limited time also requires shortcuts. This is where meal planning and building staples becomes important. Constructing a staple that is low in calories and high is satiety is the goal. Preferably it needs to something that is quick to assemble or something you can make in larger quantities. Once you have this staple, repeat it throughout the week. How many times is up to you. Without staples, every meal becomes a decision. A choice to eat something different. A chance to use food as more than fuel, but also for entertainment and novelty. Sometimes you'll make good decisions and sometimes you won't. You'll be fighting against an environment where most people are losing. You may not be able to hold onto or achieve the leanness you desire. With staples, you carve out calorie deficits through the week. Little to no planning is required. Build your staples. Decide and execute. Repeatably lock in those deficits. I learned the magic of staples during the [Potato Hack](https://criticalmas.org/best-of/potato-hack-diet/) and as I've gotten leaner, I've built upon that diet with [Potatoes and Protein](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/). It hits satiety from two angles (food volume -aka _volumetrics_\- and increased protein). Most dieters either fail to lose weight or to keep it off. They aren't making strategic use of high-satiety staples. They are using willpower and hope. That rarely works. ![potatoes-protein](./img/potatoes-protein.jpg) _I list a few of the staples I eat on the post [Potatoes and Protein – A No Hunger Template For Fat Loss](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/)._
+A few years ago, I read something Precision Nutrition posted about how the people with the best and the worst physiques tend to eat the same meals over and over. It is an interesting concept to ponder and I think about that observation frequently.
+
+On one end of the spectrum, we see people that are grossly overweight. To be extremely heavy requires a significant number of calories. This requires either planning or shortcuts. A heavy person knows that a pint of ice cream or a pizza is more likely to fill them up and turn off the hunger signals than healthy meals. So over time, they gravitate to staple high-calorie meals they don't need to think about. This is what Precision Nutrition discovered with their clients.
+
+At the other end of the spectrum are the athletes and successful dieters. To be lean in a modern environment of endless food choices and limited time also requires shortcuts. This is where meal planning and building staples becomes important.
+
+Constructing a staple that is low in calories and high is satiety is the goal. Preferably it needs to something that is quick to assemble or something you can make in larger quantities. Once you have this staple, repeat it throughout the week. How many times is up to you.
+
+Without staples, every meal becomes a decision. A choice to eat something different. A chance to use food as more than fuel, but also for entertainment and novelty. Sometimes you'll make good decisions and sometimes you won't. You'll be fighting against an environment where most people are losing. You may not be able to hold onto or achieve the leanness you desire.
+
+With staples, you carve out calorie deficits through the week. Little to no planning is required. Build your staples. Decide and execute. Repeatably lock in those deficits.
+
+I learned the magic of staples during the [Potato Hack](https://criticalmas.org/best-of/potato-hack-diet/) and as I've gotten leaner, I've built upon that diet with [Potatoes and Protein](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/). It hits satiety from two angles (food volume -aka _volumetrics_\- and increased protein).
+
+Most dieters either fail to lose weight or to keep it off. They aren't making strategic use of high-satiety staples. They are using willpower and hope. That rarely works.
+
+![potatoes-protein](./img/potatoes-protein.jpg)
+
+_I list a few of the staples I eat on the post [Potatoes and Protein – A No Hunger Template For Fat Loss](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/)._
 
 ---
 

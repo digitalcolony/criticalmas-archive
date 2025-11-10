@@ -19,7 +19,13 @@ I have been a paid subscriber of XM Radio since June 2004. For the most part I a
 6.  The most important reason is that XM Radio has fraudulently charged my credit card twice, lied to me and has not apologized or made peace with me. I was forced to cancel my credit card number and file fraud charges on them. The full details are on the post [Filing Fraud Charges Against XM Radio](/2009/05/filing-fraud-charges-against-xm-radio/).
 7.  Seattle has at least three good commercial free radio stations on the FM dial. 88.5 has dance music, 89.5 has jazz when NPR isn't on and 90.3 has a killer selection of indie music. There may be more good stations, but I haven't ventured past 90.3.
 
-There you have it Sirius XM. I predict your company will go into bankruptcy. When people like me that have been early supporters and die hard backers of your technology walk away angry - you have problems. After you go through bankruptcy, fire Mel Karmazin, bring the call centers back to the States and emerge as a new company I might forgive you. Until that happens, you're dead to me. ![XM-Radio](./img/XM-Radio.jpg) _[Photo](https://flic.kr/p/4DiZ68) by Tom Magliery_
+There you have it Sirius XM. I predict your company will go into bankruptcy. When people like me that have been early supporters and die hard backers of your technology walk away angry - you have problems.
+
+After you go through bankruptcy, fire Mel Karmazin, bring the call centers back to the States and emerge as a new company I might forgive you. Until that happens, you're dead to me.
+
+![XM-Radio](./img/XM-Radio.jpg)
+
+_[Photo](https://flic.kr/p/4DiZ68) by Tom Magliery_
 
 ---
 

@@ -9,7 +9,15 @@ description: "If my Seattle peeps need a fun way to spend an afternoon with the 
 commentCount: 5
 ---
 
-If my Seattle peeps need a fun way to spend an afternoon with the family, head out to Redmond and visit the South 47 Farm. They have crops you can pick, animals to pet and a huge corn maze. They actually carved up a full maze covering 5.5 acres in a corn field. The maze has shortcuts, clues, hidden signs and many dead ends. Good times! ![south-47-3](./img/south-47-3.jpg) ![south-47-2](./img/south-47-2.jpg) ![south-47-1](./img/south-47-1.jpg) ![south-47-4](./img/south-47-4.jpg)
+If my Seattle peeps need a fun way to spend an afternoon with the family, head out to Redmond and visit the South 47 Farm. They have crops you can pick, animals to pet and a huge corn maze. They actually carved up a full maze covering 5.5 acres in a corn field. The maze has shortcuts, clues, hidden signs and many dead ends. Good times!
+
+![south-47-3](./img/south-47-3.jpg)
+
+![south-47-2](./img/south-47-2.jpg)
+
+![south-47-1](./img/south-47-1.jpg)
+
+![south-47-4](./img/south-47-4.jpg)
 
 ---
 

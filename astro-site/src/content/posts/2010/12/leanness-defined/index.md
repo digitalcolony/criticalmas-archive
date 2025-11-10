@@ -9,7 +9,9 @@ description: "I'm the rare individual who believes the obesity rates in America
 commentCount: 10
 ---
 
-I'm the rare individual who believes the obesity rates in America are overstated. We aren't as fat and unhealthy as the government numbers suggest. They are using the [BMI](/2009/05/the-bmi-is-still-bs/), which in my opinion is a near worthless metric. I've discussed this before. Today I want to cover the other end of the spectrum: leanness. What does it mean to be lean? The best definition and labeling system I have read comes from the article [Shredded in 6 Days](http://web.archive.org/web/20140728141640/http://www.t-nation.com/free_online_article/sports_body_training_performance_diet_mass/shredded_in_6_days) by Christian Thibaudeau and Chris Shugart. In this article the authors lay down 4 levels of leanness along with photos. Here are the 4 levels.
+I'm the rare individual who believes the obesity rates in America are overstated. We aren't as fat and unhealthy as the government numbers suggest. They are using the [BMI](/2009/05/the-bmi-is-still-bs/), which in my opinion is a near worthless metric. I've discussed this before. Today I want to cover the other end of the spectrum: leanness.
+
+What does it mean to be lean? The best definition and labeling system I have read comes from the article [Shredded in 6 Days](http://web.archive.org/web/20140728141640/http://www.t-nation.com/free_online_article/sports_body_training_performance_diet_mass/shredded_in_6_days) by Christian Thibaudeau and Chris Shugart. In this article the authors lay down 4 levels of leanness along with photos. Here are the 4 levels.
 
 -   Level 1 - Flat stomach with no ab definition.
 -   Level 2 - Level 1 + some upper ab definition.

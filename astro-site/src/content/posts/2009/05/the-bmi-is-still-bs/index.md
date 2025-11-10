@@ -9,9 +9,13 @@ description: "I now weigh 197 pounds. This means my BMI (Body Mass Index) is now
 commentCount: 4
 ---
 
-I now weigh 197 pounds. This means my BMI (Body Mass Index) is now 24.9. For the first time in over a decade, I am no longer _Overweight_. BMI Formula for Adults:
+I now weigh 197 pounds. This means my BMI (Body Mass Index) is now 24.9. For the first time in over a decade, I am no longer _Overweight_.
 
-> BMI = ( Weight in Pounds / ( Height in inches ) x ( Height in inches ) ) x 703 BMI = ( Weight in Pounds / ( Height in inches ^ 2) ) x 703
+BMI Formula for Adults:
+
+> BMI = ( Weight in Pounds / ( Height in inches ) x ( Height in inches ) ) x 703
+> 
+> BMI = ( Weight in Pounds / ( Height in inches ^ 2) ) x 703
 
 BMI Chart:
 
@@ -20,7 +24,15 @@ BMI Chart:
 -   25.0 - 29.9 Overweight
 -   30.0 + Obese
 
-Actually, with rounding, I am one cashew away from returning to _Overweight_. The example I always cite to dismiss the BMI is Mike Tyson. At his fighting peak, he was considered obese by the BMI scale. The BMI scale treats muscle no differently than fat. It is an over-hyped metric for measuring leanness. One of the movies getting press today is X-Men Origins: Wolverine. Hugh Jackman is my height (6' 2 .5) and weighs 210 pounds. Everyone is interested in finding out how he got in such great shape. He is _Overweight_ by BMI standards with a BMI of 26.6. How should one measure leanness? I used to believe in body fat tests, but they vary too much by the method and who is administering the test. I like the Frankie Method. There is a good trainer at my former gym named Frankie. His metric in a single question. **_Can you see your abs? If no, then you are too fat._** Gotta love New York Frankie. UPDATE (5/10/2009): Updated formula per Jim's comment.
+Actually, with rounding, I am one cashew away from returning to _Overweight_.
+
+The example I always cite to dismiss the BMI is Mike Tyson. At his fighting peak, he was considered obese by the BMI scale. The BMI scale treats muscle no differently than fat. It is an over-hyped metric for measuring leanness.
+
+One of the movies getting press today is X-Men Origins: Wolverine. Hugh Jackman is my height (6' 2 .5) and weighs 210 pounds. Everyone is interested in finding out how he got in such great shape. He is _Overweight_ by BMI standards with a BMI of 26.6.
+
+How should one measure leanness? I used to believe in body fat tests, but they vary too much by the method and who is administering the test. I like the Frankie Method. There is a good trainer at my former gym named Frankie. His metric in a single question. **_Can you see your abs? If no, then you are too fat._** Gotta love New York Frankie.
+
+UPDATE (5/10/2009): Updated formula per Jim's comment.
 
 ---
 

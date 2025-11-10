@@ -9,12 +9,20 @@ description: "Since going caffeine-free just over a week ago, I have noticed an 
 commentCount: 16
 ---
 
-Since going caffeine-free just over a week ago, I have noticed an odd side effect: I'm super hungry. Even though I eat right before I go to bed\*\*, I get massively hungry in the middle of the night. I tried to correct this by eating even more before bed, but it isn't working so far. During my waking hours, I have been eating more. My body is craving sugar, so I have happily been eating lots of [ice cream](/2012/07/why-ice-cream-is-better-than-protein-powder/). One would expect that this would lead to weight gain. It hasn't. I've dropped a few pounds since this experiment started. So in summary:
+Since going caffeine-free just over a week ago, I have noticed an odd side effect: I'm super hungry. Even though I eat right before I go to bed\*\*, I get massively hungry in the middle of the night. I tried to correct this by eating even more before bed, but it isn't working so far.
+
+During my waking hours, I have been eating more. My body is craving sugar, so I have happily been eating lots of [ice cream](/2012/07/why-ice-cream-is-better-than-protein-powder/). One would expect that this would lead to weight gain. It hasn't. I've dropped a few pounds since this experiment started. So in summary:
 
 -   No Caffeine has resulted in worse sleep. My 8 hours rested is now 6.5 hours tired.
 -   More food and sugar have resulted in a few pounds of weight loss.
 
-Nothing is making sense anymore. Although my sleep is still poor, my mornings are improving slightly. One positive benefit I am seeing is more energy in the afternoon. This is usually when I am fighting to stay awake. Yesterday, I got more productive work done in the PM than in the AM. As a morning person, whose first real job was [Army Basic Training](/2008/04/military-mas/), I can say that never happens. I think I will make it 15 days caffeine-free. _\*\* Please don't tell me eating before bad is metabolically damaging. That is nonsense. Read [Is Late Night Eating Better for Fat Loss and Health?](https://web.archive.org/web/20171207020149/http://www.leangains.com:80/2011/06/is-late-night-eating-better-for-fat.html) on Leangains. The best eating schedule is the one that results in the deepest sleep. For me, it is having a full belly._
+Nothing is making sense anymore.
+
+Although my sleep is still poor, my mornings are improving slightly. One positive benefit I am seeing is more energy in the afternoon. This is usually when I am fighting to stay awake. Yesterday, I got more productive work done in the PM than in the AM. As a morning person, whose first real job was [Army Basic Training](/2008/04/military-mas/), I can say that never happens.
+
+I think I will make it 15 days caffeine-free.
+
+_\*\* Please don't tell me eating before bad is metabolically damaging. That is nonsense. Read [Is Late Night Eating Better for Fat Loss and Health?](https://web.archive.org/web/20171207020149/http://www.leangains.com:80/2011/06/is-late-night-eating-better-for-fat.html) on Leangains. The best eating schedule is the one that results in the deepest sleep. For me, it is having a full belly._
 
 ---
 

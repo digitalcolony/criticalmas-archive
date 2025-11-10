@@ -19,7 +19,9 @@ Last Friday was my 20th Intermittent Fast. What started out as unthinkably diffi
 
 > I consider IF to be amazing success if for no other reason, I am no longer a slave to eating by the clock. If I come across poor food options, I can now choose to eat nothing. Hunger is now an acceptable feeling. Because I am now comfortable being hungry, I am longer pressured to eat fast. Taking the time to prepare a healthy meal even if it means waiting another hour is no longer a dilemma.
 
-2009 has started as a rough year for me on the exercise side of the health equation. Most of this year I've had back problems and some shoulder pain. I'm working on those with very low-impact stretching, yoga and alignment exercises. I've had back problems in the past and been sidelined with injury. And every time that has happened I've gained weight. Not this time. Not only have I not gained weight through inactivity, I've actually gotten leaner this year.
+2009 has started as a rough year for me on the exercise side of the health equation. Most of this year I've had back problems and some shoulder pain. I'm working on those with very low-impact stretching, yoga and alignment exercises. I've had back problems in the past and been sidelined with injury. And every time that has happened I've gained weight. Not this time.
+
+Not only have I not gained weight through inactivity, I've actually gotten leaner this year.
 
 ---
 

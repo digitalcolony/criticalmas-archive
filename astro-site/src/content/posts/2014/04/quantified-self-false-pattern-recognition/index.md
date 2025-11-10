@@ -13,7 +13,23 @@ I was watching Episode 3 of the [new Cosmos show](https://en.wikipedia.org/wiki/
 
 > The human talent for pattern recognition is a two-edged sword. We're especially good at finding patterns, even when they aren't really there -- something known as "false pattern recognition."
 
-The show was about how our distant ancestors looked up into the night sky and tried to draw meaning from what they saw when a comet passed overhead. But this quote could easily apply to a modern man tracking a few points of data in a spreadsheet and trying to find some hidden meaning. I tracked my headaches, sleep quality, and coffee intake for 2.5 years trying to find patterns. The [single pattern](/2013/09/hunting-headaches-ending-hunt/) I found was a decrease in headache frequency when I sharply reduced my coffee intake. Look at the chart below. ![headache-coffee](./img/headache-coffee.png) This was my comet in the sky. And guess what? The pattern was false. From the moment I stopped doing Quantified Self my headaches plummeted and I didn't change my coffee intake. Except for the month when I was playing [Candy Crush](/2014/01/candy-crush-headaches/), the headaches have almost all but disappeared. **I don't think I've had a single headache this entire year that has woke me up in the middle of the night that was intense enough to prevent me from returning to sleep.** During the 2.5-year Quantified Self experiment, I averaged 7.5 bad headaches a month. Why have the headaches disappeared? And how did they disappear all while consuming high levels of coffee? I don't have a spreadsheet to tell you the answer, but I'll speak from the gut. The headaches came from stress. One huge source of the stress was Quantified Self. Tracking something daily that I was failing at publicly clearly played a role. How did I deal with stress? The dopamine hit of another espresso always made me feel a little bit better. But the fact I couldn't control my coffee intake also made me feel worse. So when I was able to better manage stress and reduce my coffee levels, my headache levels dropped. **Coffee was likely a symptom and not the cause.** Today I am drinking a fair amount of coffee. My sleep is perfect and my headaches seem to be gone. Had I not rejected Quantified Self, I never would have learned that coffee intake was a false pattern recognition. I also suspect a lot of the conclusions others are drawing from their Quantified Self experiments are false pattern recognitions. The rest of the quote from Neil deGrasse Tyson:
+The show was about how our distant ancestors looked up into the night sky and tried to draw meaning from what they saw when a comet passed overhead. But this quote could easily apply to a modern man tracking a few points of data in a spreadsheet and trying to find some hidden meaning.
+
+I tracked my headaches, sleep quality, and coffee intake for 2.5 years trying to find patterns. The [single pattern](/2013/09/hunting-headaches-ending-hunt/) I found was a decrease in headache frequency when I sharply reduced my coffee intake. Look at the chart below.
+
+![headache-coffee](./img/headache-coffee.png)
+
+This was my comet in the sky. And guess what? The pattern was false.
+
+From the moment I stopped doing Quantified Self my headaches plummeted and I didn't change my coffee intake. Except for the month when I was playing [Candy Crush](/2014/01/candy-crush-headaches/), the headaches have almost all but disappeared. **I don't think I've had a single headache this entire year that has woke me up in the middle of the night that was intense enough to prevent me from returning to sleep.** During the 2.5-year Quantified Self experiment, I averaged 7.5 bad headaches a month.
+
+Why have the headaches disappeared? And how did they disappear all while consuming high levels of coffee? I don't have a spreadsheet to tell you the answer, but I'll speak from the gut. The headaches came from stress. One huge source of the stress was Quantified Self. Tracking something daily that I was failing at publicly clearly played a role.
+
+How did I deal with stress? The dopamine hit of another espresso always made me feel a little bit better. But the fact I couldn't control my coffee intake also made me feel worse. So when I was able to better manage stress and reduce my coffee levels, my headache levels dropped. **Coffee was likely a symptom and not the cause.**
+
+Today I am drinking a fair amount of coffee. My sleep is perfect and my headaches seem to be gone. Had I not rejected Quantified Self, I never would have learned that coffee intake was a false pattern recognition. I also suspect a lot of the conclusions others are drawing from their Quantified Self experiments are false pattern recognitions.
+
+The rest of the quote from Neil deGrasse Tyson:
 
 > We hunger for significance, for signs that our personal existence is of some special meaning to the universe. To that end, we're all too eager to deceive ourselves and others.
 

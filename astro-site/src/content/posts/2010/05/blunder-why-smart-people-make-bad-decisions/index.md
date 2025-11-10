@@ -9,7 +9,11 @@ description: "A great quick read. !Blunder: Why Smart People Make Bad Decisions 
 commentCount: 0
 ---
 
-A great quick read. ![Blunder: Why Smart People Make Bad Decisions](https://images-na.ssl-images-amazon.com/images/I/41SC81toNDL.jpg) Blunder: Why Smart People Make Bad Decisions by Zachary Shoreis is both a history and a psychology book. Chapters are broken down by cognition traps and a historical example. Great stuff. The conclusion of the book provides advice on avoiding blunders.
+A great quick read.
+
+![Blunder: Why Smart People Make Bad Decisions](https://images-na.ssl-images-amazon.com/images/I/41SC81toNDL.jpg) Blunder: Why Smart People Make Bad Decisions by Zachary Shoreis is both a history and a psychology book. Chapters are broken down by cognition traps and a historical example. Great stuff.
+
+The conclusion of the book provides advice on avoiding blunders.
 
 > ...make a realistic effort to slow our rush to judgment before all the relevant facts are in. If we could grow more comfortable with the uncertainty around us, our daily blunders would not be as great. All kinds of daily interactions would be altered if we suspended our insufficiently informed conclusions over why others act the way they do.
 

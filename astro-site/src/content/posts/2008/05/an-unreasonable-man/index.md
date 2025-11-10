@@ -9,7 +9,11 @@ description: "While at the library I was thumbing through the documentaries and 
 commentCount: 2
 ---
 
-While at the library I was thumbing through the documentaries and came across one on Ralph Nader. I knew a little bit about the man, but not too much. Considering my interests are more financial and less political these days, I didn't have high expectations. I was wrong. ![An Unreasonable Man](https://images-na.ssl-images-amazon.com/images/I/51tmepFe9cL._SL500_.jpg) _An Unreasonable Man_ was an outstanding biography of a man who has dedicated his life to improving the lives of others. I'm not saying I'm a Nader fan, but I am a fan of his drive and passion for pursuing his causes. The documentary wasn't completely balanced, so don't expect to walk away informed. You learn more about the man than the policies. The DVD comes with a bonus disc which was equally as good. There is an especially good section on how voting third party historically is a better catalyst for change than voting for the _lesser of two evils_.
+While at the library I was thumbing through the documentaries and came across one on Ralph Nader. I knew a little bit about the man, but not too much. Considering my interests are more financial and less political these days, I didn't have high expectations. I was wrong.
+
+![An Unreasonable Man](https://images-na.ssl-images-amazon.com/images/I/51tmepFe9cL._SL500_.jpg) _An Unreasonable Man_ was an outstanding biography of a man who has dedicated his life to improving the lives of others. I'm not saying I'm a Nader fan, but I am a fan of his drive and passion for pursuing his causes. The documentary wasn't completely balanced, so don't expect to walk away informed. You learn more about the man than the policies.
+
+The DVD comes with a bonus disc which was equally as good. There is an especially good section on how voting third party historically is a better catalyst for change than voting for the _lesser of two evils_.
 
 ---
 

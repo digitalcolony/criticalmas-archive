@@ -9,7 +9,21 @@ description: "During my trip to Ohio, I noticed an interesting pattern regarding
 commentCount: 6
 ---
 
-During my trip to Ohio, I noticed an interesting pattern regarding my [nighttime headaches](/2011/10/health-goals-late-2011-edition/). When I stayed with my mom, with the exception of the [gluten poisoning](/2011/12/paleo-in-ohio-adventures-in-inflammation/) night, I didn't get headaches. When I stayed with my sister, I got headaches. My mom runs a humidifier in the house, whereas my sister doesn't. Sounds like I just discovered my next test. Before running out to buy a humidifier, I checked online to see if anyone had built their own. In the description of [this video](http://www.youtube.com/watch?v=HyEmJINcfLA), there is a link to a homemade humidifier from 1918. ![1918 Homemade Humidifier](./img/homemadehumd_19896_md.gif "1918 Homemade Humidifier") _[1918 Homemade Humidifier](http://etc.usf.edu/clipart/19800/19896/homemadehumd_19896.htm)_ The premise is you hang a towel down into water. The water will wick up the towel. Air will pass through the towel and humidify the air. At least that is how I understand the theory. My room is very dry right right now. On Tuesday I had a brutal headache, so I decided to try my hand at this project. ![MacGyver Humidifier](./img/macgyver-humidifier.jpg "MacGyver Humidifier") _MacGyver Humidifier_ I was skeptical it would work, but after about an hour I could feel the water making its way several inches up the towel. Pretty cool. I really hesitate to get excited, but I had amazing night of sleep last night. Testing will continue.
+During my trip to Ohio, I noticed an interesting pattern regarding my [nighttime headaches](/2011/10/health-goals-late-2011-edition/). When I stayed with my mom, with the exception of the [gluten poisoning](/2011/12/paleo-in-ohio-adventures-in-inflammation/) night, I didn't get headaches. When I stayed with my sister, I got headaches. My mom runs a humidifier in the house, whereas my sister doesn't. Sounds like I just discovered my next test.
+
+Before running out to buy a humidifier, I checked online to see if anyone had built their own. In the description of [this video](http://www.youtube.com/watch?v=HyEmJINcfLA), there is a link to a homemade humidifier from 1918.
+
+![1918 Homemade Humidifier](./img/homemadehumd_19896_md.gif "1918 Homemade Humidifier")
+
+_[1918 Homemade Humidifier](http://etc.usf.edu/clipart/19800/19896/homemadehumd_19896.htm)_
+
+The premise is you hang a towel down into water. The water will wick up the towel. Air will pass through the towel and humidify the air. At least that is how I understand the theory. My room is very dry right right now. On Tuesday I had a brutal headache, so I decided to try my hand at this project.
+
+![MacGyver Humidifier](./img/macgyver-humidifier.jpg "MacGyver Humidifier")
+
+_MacGyver Humidifier_
+
+I was skeptical it would work, but after about an hour I could feel the water making its way several inches up the towel. Pretty cool. I really hesitate to get excited, but I had amazing night of sleep last night. Testing will continue.
 
 ---
 

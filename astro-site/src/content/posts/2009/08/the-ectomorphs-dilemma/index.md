@@ -9,13 +9,39 @@ description: "About 10 years ago, I came up with a phrase to best describe the c
 commentCount: 16
 ---
 
-About 10 years ago, I came up with a phrase to best describe the choice ectomorphs must make when pursing their fitness goals. Before diving into the topic, review the image below to show the different somatypes. ![somatypes](./img/somatypes.jpg) _Image from How to Eat Right For Your Body Type by Dr. John Berardi. Typically Ectomorphs are taller and Endomorphs are shorter. Other than that this image is a good representation of somatypes._ Mesomorphs are ideal candidates for both losing fat and gaining muscle. Endomorphs may never sport washboard abs, but they tend to gain muscle easily. **When it comes to gaining muscle, the Ectomorph has been dealt the worst hand.** It is possible, but it comes at a price and therein lies the dilemma. The Ectomorphs Dilemma: Do you want to look good with your shirt on or with your shirt off? The quest for muscle on the ectomorph frame will require lots of calories. Not all will be directed at muscle growth. Some will end up as fat. The upside is your chest to waist ratio will improve. The downside is your waist size will increase. In other words, you'll look good in a shirt, but not as good at the beach. Or you could choose the 6-pack abs and end up with a physique that looks great on the beach, but [_stick boy_](/2008/09/the-stick-boy-explained/) in a shirt. **This is what I call The Ectomorphs Dilemma.** ![bruce-lee-bw](./img/bruce-lee-bw.jpg "bruce-lee-bw") _Bruce Lee is an Ectomorph that pursued leanness._ ![bruce-lee-suit](./img/bruce-lee-suit.jpg "bruce-lee-suit") _A shirt and jacket completely hides the strength of Bruce Lee._ How did I answer the Ectomorphs Dilemma? From 2001-2008, I decided to pursue muscle over fat loss. Since gaining muscle is much harder than leaning out (especially for the ectomorph), I always figured that I could _do it later_. Well, _later_ has arrived. For years my weight was steady at 208. Since leaning out this year, my new normal weight is 193. Did I lose muscle? Possibly, but it all could just be a visual illusion. Let me explain. There are 3 types of fat.
+About 10 years ago, I came up with a phrase to best describe the choice ectomorphs must make when pursing their fitness goals. Before diving into the topic, review the image below to show the different somatypes.
+
+![somatypes](./img/somatypes.jpg)
+
+_Image from How to Eat Right For Your Body Type by Dr. John Berardi. Typically Ectomorphs are taller and Endomorphs are shorter. Other than that this image is a good representation of somatypes._
+
+Mesomorphs are ideal candidates for both losing fat and gaining muscle. Endomorphs may never sport washboard abs, but they tend to gain muscle easily. **When it comes to gaining muscle, the Ectomorph has been dealt the worst hand.** It is possible, but it comes at a price and therein lies the dilemma.
+
+The Ectomorphs Dilemma: Do you want to look good with your shirt on or with your shirt off?
+
+The quest for muscle on the ectomorph frame will require lots of calories. Not all will be directed at muscle growth. Some will end up as fat. The upside is your chest to waist ratio will improve. The downside is your waist size will increase. In other words, you'll look good in a shirt, but not as good at the beach. Or you could choose the 6-pack abs and end up with a physique that looks great on the beach, but [_stick boy_](/2008/09/the-stick-boy-explained/) in a shirt. **This is what I call The Ectomorphs Dilemma.**
+
+![bruce-lee-bw](./img/bruce-lee-bw.jpg "bruce-lee-bw")
+
+_Bruce Lee is an Ectomorph that pursued leanness._
+
+![bruce-lee-suit](./img/bruce-lee-suit.jpg "bruce-lee-suit")
+
+_A shirt and jacket completely hides the strength of Bruce Lee._
+
+How did I answer the Ectomorphs Dilemma? From 2001-2008, I decided to pursue muscle over fat loss. Since gaining muscle is much harder than leaning out (especially for the ectomorph), I always figured that I could _do it later_. Well, _later_ has arrived. For years my weight was steady at 208. Since leaning out this year, my new normal weight is 193. Did I lose muscle? Possibly, but it all could just be a visual illusion. Let me explain.
+
+There are 3 types of fat.
 
 1.  [Visceral](https://en.wikipedia.org/wiki/Visceral_fat#visceral_fat) - This is the fat between the organs that is also known as "belly fat".
 2.  [Subcutaneous](https://en.wikipedia.org/wiki/Subcutaneous_fat) - This is the fat just beneath the skin.
 3.  [Intramuscular](https://en.wikipedia.org/wiki/Intramuscular_fat) - Located throughout the skeleton.
 
-Although it may look as if I've lost muscle, I think all I really lost was intramuscular fat. This was confirmed Friday when I reviewed some material from fitness guru Art De Vany. In a presentation he stated that working out in a [fasted state](https://criticalmas.org/tag/intermittent-fasting/) does a great job of targeting intramuscular fat. And since I typically do one fasted weight workout per week, this means I am specifically targeting intramuscular fat. This may sound like good news on the surface, but I don't think it is for the ectomorph. Sure we want less visceral and subcutaneous fat, but a little more upper body intramuscular fat would help us fill out our shirts better without increasing our waist size. Starting this week, I am ceasing fasted weight workouts. On days when I do Intermittent Fasts, I will stick to just walking. On weight days, I will resume post workout protein shakes. This is just a test and I'm not sure if I have the science right, but I love a good [experiment](/2008/12/no-jacket-required/)! I'd be interested in hearing feedback from other lean Ectomorphs.
+Although it may look as if I've lost muscle, I think all I really lost was intramuscular fat. This was confirmed Friday when I reviewed some material from fitness guru Art De Vany. In a presentation he stated that working out in a [fasted state](https://criticalmas.org/tag/intermittent-fasting/) does a great job of targeting intramuscular fat. And since I typically do one fasted weight workout per week, this means I am specifically targeting intramuscular fat.
+
+This may sound like good news on the surface, but I don't think it is for the ectomorph. Sure we want less visceral and subcutaneous fat, but a little more upper body intramuscular fat would help us fill out our shirts better without increasing our waist size.
+
+Starting this week, I am ceasing fasted weight workouts. On days when I do Intermittent Fasts, I will stick to just walking. On weight days, I will resume post workout protein shakes. This is just a test and I'm not sure if I have the science right, but I love a good [experiment](/2008/12/no-jacket-required/)! I'd be interested in hearing feedback from other lean Ectomorphs.
 
 ---
 

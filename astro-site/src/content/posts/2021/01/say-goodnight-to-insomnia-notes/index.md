@@ -9,7 +9,9 @@ description: "There have been three times in my life when I experienced the type
 commentCount: 5
 ---
 
-There have been three times in my life when I experienced the type of insomnia where I can't fall asleep. Around 2005, 2015, and this month. This month was by far the worst case. I have had struggles with [waking up too early](/2014/10/better-sleep-early-riser/), but at least then I was able to "lock-in" hours of sleep by just getting to bed earlier. This month I had a few nights of 2, 3, 4, and even one night with absolutely no sleep. During one of those nights, I downloaded _Say Goodnight to Insomnia_ on my Kindle, which uses a CBT-I (Cognitive Behavioral Therapy for Insomnia) approach to overcoming insomnia. Immediately, my sleep improved. Here are my [Oura Ring](/2020/09/oura-ring-sleep-tracker-42-day-review/) sleep scores for this time period.
+There have been three times in my life when I experienced the type of insomnia where I can't fall asleep. Around 2005, 2015, and this month. This month was by far the worst case. I have had struggles with [waking up too early](/2014/10/better-sleep-early-riser/), but at least then I was able to "lock-in" hours of sleep by just getting to bed earlier.
+
+This month I had a few nights of 2, 3, 4, and even one night with absolutely no sleep. During one of those nights, I downloaded _Say Goodnight to Insomnia_ on my Kindle, which uses a CBT-I (Cognitive Behavioral Therapy for Insomnia) approach to overcoming insomnia. Immediately, my sleep improved. Here are my [Oura Ring](/2020/09/oura-ring-sleep-tracker-42-day-review/) sleep scores for this time period.
 
  
 
@@ -57,19 +59,45 @@ There have been three times in my life when I experienced the type of insomnia w
 
 **82**
 
-I read the book on January 12th. For reference, my monthly average _sleep score_ has been around 80 since August. It appears that the book has made an immediate positive impact. Here are some of the ideas that helped me the most. ![say goodnight to insomnia](./img/say-goodnight-to-insomnia.jpg)
+I read the book on January 12th. For reference, my monthly average _sleep score_ has been around 80 since August. It appears that the book has made an immediate positive impact. Here are some of the ideas that helped me the most.
+
+![say goodnight to insomnia](./img/say-goodnight-to-insomnia.jpg)
 
 
 ### Sleeping Pills are not the answers
 
 
-At one point, the book states that the risk of taking sleeping pills nightly was not much less than smoking a pack of cigarettes a day. If you fall asleep in less than 20 minutes with the aid of a sleeping pill, it was due to the placebo effect, as no sleeping pill can work that fast. Some classes of sleeping pills cloud our thinking into believing we were asleep when we weren't. The hangover effect of sleeping pills can be worse than the impairment caused by insomnia People with a history of addiction to alcohol, nicotine, or caffeine are more prone to become addicted to sleeping pills. If you use sleeping pills, limit to no more than twice a week and never on consecutive nights.
+At one point, the book states that the risk of taking sleeping pills nightly was not much less than smoking a pack of cigarettes a day.
+
+If you fall asleep in less than 20 minutes with the aid of a sleeping pill, it was due to the placebo effect, as no sleeping pill can work that fast.
+
+Some classes of sleeping pills cloud our thinking into believing we were asleep when we weren't.
+
+The hangover effect of sleeping pills can be worse than the impairment caused by insomnia
+
+People with a history of addiction to alcohol, nicotine, or caffeine are more prone to become addicted to sleeping pills.
+
+If you use sleeping pills, limit to no more than twice a week and never on consecutive nights.
 
 
 ### Correct Your Thoughts About Sleep
 
 
-Insomnia is a learned problem caused by thoughts and behaviors and can be overcome only by addressing its underlying causes, which are thoughts and behaviors. Performance doesn't suffer much after a night of poor sleep. Repetitive tasks and those that require a lot of creativity will, but everything in between typically won't. Core sleep needs are just 5.5 hours a night. Most of us will function fine at this level. Creating anxiety that we aren't getting enough sleep has the result of making it even more difficult to sleep. A way to reduce negative thoughts and anxiety about sleep is by telling yourself that you can operate fine on core levels of sleep. Negative emotions surrounding sleep have the effect of increasing heart rate, blood pressure, muscle tension, breathing rate, and speeds up brain waves. Many of the negative emotions we have regarding sleep come to us in the quiet darkness and can seem normal and appropriate. But they are often distorted or incorrect. In most cases, the worst scenario from a lack of sleep is a poor mood. Page 84 has a section on positive sleep thoughts one can use to replace the negative sleep thoughts. A few of them include:
+Insomnia is a learned problem caused by thoughts and behaviors and can be overcome only by addressing its underlying causes, which are thoughts and behaviors.
+
+Performance doesn't suffer much after a night of poor sleep. Repetitive tasks and those that require a lot of creativity will, but everything in between typically won't.
+
+Core sleep needs are just 5.5 hours a night. Most of us will function fine at this level. Creating anxiety that we aren't getting enough sleep has the result of making it even more difficult to sleep.
+
+A way to reduce negative thoughts and anxiety about sleep is by telling yourself that you can operate fine on core levels of sleep.
+
+Negative emotions surrounding sleep have the effect of increasing heart rate, blood pressure, muscle tension, breathing rate, and speeds up brain waves.
+
+Many of the negative emotions we have regarding sleep come to us in the quiet darkness and can seem normal and appropriate. But they are often distorted or incorrect.
+
+In most cases, the worst scenario from a lack of sleep is a poor mood.
+
+Page 84 has a section on positive sleep thoughts one can use to replace the negative sleep thoughts. A few of them include:
 
 1.  My performance will not suffer if I get core sleep.
 2.  If I didn't sleep well last night, I am more likely to sleep well tonight due to a biological pressure to recover my core sleep.
@@ -79,19 +107,33 @@ Insomnia is a learned problem caused by thoughts and behaviors and can be overco
 ### Sleep Promoting Habits
 
 
-The book focuses on increasing sleep efficiency not increasing the hours slept. Initially. Sleep efficiency is about increasing the percentage of the time you are asleep in bed and not awake. This means getting up at the same time daily. If you can't fall asleep in 20-30 minutes, get out of bed and go into another room and do something light (reading, crossword puzzles, etc) until sleep pressure builds. Then try again. By doing this you are breaking the association of your bed with insomnia. Initially, you may end up with less sleep, but the goal is to retrain the association you have with your bed as the place for sleep and not stress. Naps less than 45 minutes and before 4 PM can be beneficial.
+The book focuses on increasing sleep efficiency not increasing the hours slept. Initially. Sleep efficiency is about increasing the percentage of the time you are asleep in bed and not awake.
+
+This means getting up at the same time daily. If you can't fall asleep in 20-30 minutes, get out of bed and go into another room and do something light (reading, crossword puzzles, etc) until sleep pressure builds. Then try again.
+
+By doing this you are breaking the association of your bed with insomnia. Initially, you may end up with less sleep, but the goal is to retrain the association you have with your bed as the place for sleep and not stress.
+
+Naps less than 45 minutes and before 4 PM can be beneficial.
 
 
 ### Lifestyle
 
 
-Exercising 3-6 hours before sleep is optimal. Exercising too close to bed may result in too high of a body temperature for falling asleep. Complex carbs help by increasing serotonin. Foods high in protein (such as meat) can inhibit the synthesis of serotonin, making sleep more difficult. Sleeping in a room warm makes it harder to sleep, as it impacts deep sleep and increases nighttime awakenings.
+Exercising 3-6 hours before sleep is optimal. Exercising too close to bed may result in too high of a body temperature for falling asleep.
+
+Complex carbs help by increasing serotonin. Foods high in protein (such as meat) can inhibit the synthesis of serotonin, making sleep more difficult.
+
+Sleeping in a room warm makes it harder to sleep, as it impacts deep sleep and increases nighttime awakenings.
 
 
 ### Relaxation Response
 
 
-Learn how to relax muscles through the body. Establish a relaxed breathing pattern. (Slower, deeper) Focus thoughts on a neutral and repetitive word such as one, relax, peace, or heavy. Combine with positive visual imagery (vacation spot, mountain, etc).
+Learn how to relax muscles through the body.
+
+Establish a relaxed breathing pattern. (Slower, deeper)
+
+Focus thoughts on a neutral and repetitive word such as one, relax, peace, or heavy. Combine with positive visual imagery (vacation spot, mountain, etc).
 
 
 ### Think Away the Stress
@@ -109,13 +151,23 @@ When going to bed or if you awaken in the middle of the night, positive thoughts
 ### What Has Worked For Me (so far)
 
 
-I mostly have good sleep hygiene. I had already been following most of the easy tips you see in most articles online. The big thing for me was staying in bed after 30 minutes of not sleeping. Then I would judge myself and get upset. Then I started to get anxious just thinking about going to sleep, which reinforced my insomnia. As someone that consumes a lot of health podcasts focusing on optimizing sleep, understanding how missing sleep was not a big deal was a message I needed to hear. It relaxed me a lot and reminded me that this was the message I read back in 2005 that helped. I also stopped focusing on medicating my sleep. I don't have sleeping pills, although I have been buying every supplement under the sun as well as 2 different forms of melatonin. The author of the book doesn't like melatonin\*\*. Neither do I. So I stopped looking for the perfect stack of supplements and took full responsibility for my thoughts that were preventing me from sleeping. Also, now if I feel a surge of stress from not falling asleep, I withhold judgment and just observe it with curiosity. Are you real? What are you trying to say? This simple act has been effective for me as I exposed the stress as empty and without fangs. It stopped showing up. I also now have a plan if I can't fall asleep in 30 minutes. I have books ready and a place to sit that is quiet with low lighting. It has all been decided in advance. I don't need to go online searching for answers.
+I mostly have good sleep hygiene. I had already been following most of the easy tips you see in most articles online. The big thing for me was staying in bed after 30 minutes of not sleeping. Then I would judge myself and get upset. Then I started to get anxious just thinking about going to sleep, which reinforced my insomnia.
+
+As someone that consumes a lot of health podcasts focusing on optimizing sleep, understanding how missing sleep was not a big deal was a message I needed to hear. It relaxed me a lot and reminded me that this was the message I read back in 2005 that helped.
+
+I also stopped focusing on medicating my sleep. I don't have sleeping pills, although I have been buying every supplement under the sun as well as 2 different forms of melatonin. The author of the book doesn't like melatonin\*\*. Neither do I. So I stopped looking for the perfect stack of supplements and took full responsibility for my thoughts that were preventing me from sleeping.
+
+Also, now if I feel a surge of stress from not falling asleep, I withhold judgment and just observe it with curiosity. Are you real? What are you trying to say? This simple act has been effective for me as I exposed the stress as empty and without fangs. It stopped showing up.
+
+I also now have a plan if I can't fall asleep in 30 minutes. I have books ready and a place to sit that is quiet with low lighting. It has all been decided in advance. I don't need to go online searching for answers.
 
 
 ### Last Words
 
 
-I highly recommend _Say Goodnight to Insomnia_. The notes above were the items most important to me. There is a lot more in the book. _\*\* The author states that many claims on the benefits of melatonin were exaggerated and based on studies that were conducted by a scientist that owned a company that sold melatonin. He further states there are numerous studies showing melatonin has no consistent benefit on sleep. The book was published in 1998 and revised in 2009, so his view may or may not be different today._
+I highly recommend _Say Goodnight to Insomnia_. The notes above were the items most important to me. There is a lot more in the book.
+
+_\*\* The author states that many claims on the benefits of melatonin were exaggerated and based on studies that were conducted by a scientist that owned a company that sold melatonin. He further states there are numerous studies showing melatonin has no consistent benefit on sleep. The book was published in 1998 and revised in 2009, so his view may or may not be different today._
 
 ---
 

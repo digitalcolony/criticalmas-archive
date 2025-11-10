@@ -15,37 +15,69 @@ Over the years, I've gone from a standard American diet to a long fling with veg
 ### Childhood
 
 
-Spaghetti was regular pasta, regular ground beef and regular pasta sauce. ![](./img/spaghetti-box.jpg "spaghetti-box") [![](./img/ground-beef.jpg "ground-beef")](./img/ground-beef.jpg) ![](./img/spaghetti-sauce.jpg "spaghetti-sauce")
+Spaghetti was regular pasta, regular ground beef and regular pasta sauce.
+
+![](./img/spaghetti-box.jpg "spaghetti-box")
+
+[![](./img/ground-beef.jpg "ground-beef")](./img/ground-beef.jpg)
+
+![](./img/spaghetti-sauce.jpg "spaghetti-sauce")
 
 
 ### College
 
 
-It was during this time there were a few _e.coli_ scares and the nation was just becoming aware of the health safety issues with factory farmed ground beef. It was then that I removed the ground beef from my spaghetti. ![](./img/spaghetti-box.jpg "spaghetti-box") ![](./img/spaghetti-sauce.jpg "spaghetti-sauce")
+It was during this time there were a few _e.coli_ scares and the nation was just becoming aware of the health safety issues with factory farmed ground beef. It was then that I removed the ground beef from my spaghetti.
+
+![](./img/spaghetti-box.jpg "spaghetti-box")
+
+![](./img/spaghetti-sauce.jpg "spaghetti-sauce")
 
 
 ### Post College
 
 
-Whole grains became the rage. I swapped out the regular spaghetti for whole wheat spaghetti. ![](./img/spaghetti-box-wheat.jpg "spaghetti-box-wheat") ![](./img/spaghetti-sauce.jpg "spaghetti-sauce")
+Whole grains became the rage. I swapped out the regular spaghetti for whole wheat spaghetti.
+
+![](./img/spaghetti-box-wheat.jpg "spaghetti-box-wheat")
+
+![](./img/spaghetti-sauce.jpg "spaghetti-sauce")
 
 
 ### Rejecting Gluten
 
 
-Once I became convinced of the dangers of gluten, I replaced the whole wheat pasta with [spaghetti squash](/2009/12/making-spaghetti-squash-the-1-page-zero-ad-tutorial/). ![spag-squash](./img/spag-squash.jpg) ![](./img/spaghetti-sauce.jpg "spaghetti-sauce")
+Once I became convinced of the dangers of gluten, I replaced the whole wheat pasta with [spaghetti squash](/2009/12/making-spaghetti-squash-the-1-page-zero-ad-tutorial/).
+
+![spag-squash](./img/spag-squash.jpg)
+
+![](./img/spaghetti-sauce.jpg "spaghetti-sauce")
 
 
 ### Embracing Paleo
 
 
-Once I was able to locate sources of quality grass pastured ground beef, I added that back into the spaghetti. ![pasture-cow](./img/pasture-cow.jpg) [photo](http://www.flickr.com/photos/ammichaels/5047413459/in/photostream/) by cheeseslave ![spag-squash](./img/spag-squash.jpg) ![](./img/spaghetti-sauce.jpg "spaghetti-sauce")
+Once I was able to locate sources of quality grass pastured ground beef, I added that back into the spaghetti.
+
+![pasture-cow](./img/pasture-cow.jpg)
+
+[photo](http://www.flickr.com/photos/ammichaels/5047413459/in/photostream/) by cheeseslave
+
+![spag-squash](./img/spag-squash.jpg)
+
+![](./img/spaghetti-sauce.jpg "spaghetti-sauce")
 
 
 ### Eliminating Seed and Grain Oils
 
 
-Turns out the innocent jars of spaghetti sauce aren't that innocent. Almost every brand on the shelf contains corn, canola or safflower oil. All are high in Omega-6 ratios and are implicated in several health problems. Many contain corn syrup. Now although I could make my own, there are jars of pasta sauce that use extra virgin olive oil and have no added sugar. The photo of the jar below is an example and not a specific endorsement. ![pasture-cow](./img/pasture-cow.jpg) ![spag-squash](./img/spag-squash.jpg) ![](./img/spaghetti-sauce-good.jpg "spaghetti-sauce-good")
+Turns out the innocent jars of spaghetti sauce aren't that innocent. Almost every brand on the shelf contains corn, canola or safflower oil. All are high in Omega-6 ratios and are implicated in several health problems. Many contain corn syrup. Now although I could make my own, there are jars of pasta sauce that use extra virgin olive oil and have no added sugar. The photo of the jar below is an example and not a specific endorsement.
+
+![pasture-cow](./img/pasture-cow.jpg)
+
+![spag-squash](./img/spag-squash.jpg)
+
+![](./img/spaghetti-sauce-good.jpg "spaghetti-sauce-good")
 
 
 ### End of the Journey?

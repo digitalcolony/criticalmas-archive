@@ -9,11 +9,17 @@ description: "Thanks to Diana's comment, I was tipped off to the July 2014 Surv
 commentCount: 15
 ---
 
-Thanks to [Diana's comment](/2015/09/intermittent-fasting-context-is-likely-important/#comment-25030), I was tipped off to the July 2014 _Survival of the Smartest_ lecture ([p1](https://youtu.be/6qUSvzUj6jo), [p2](https://youtu.be/rm0MG_zYIdQ)). It fits in with the discussion on why Intermittent Fasting can feel good in the short term but can be stressful to one's health as one ages. In this post, I am going to save you two hours. I watched the lecture twice and took notes. Before Diana's comment, I was unaware of Dr. Schwarzbein, but I have since learned that she has influenced Matt Stone, an author whom I've referenced a few times on this site. Schwarzbein shows up in Diet Recovery 2.
+Thanks to [Diana's comment](/2015/09/intermittent-fasting-context-is-likely-important/#comment-25030), I was tipped off to the July 2014 _Survival of the Smartest_ lecture ([p1](https://youtu.be/6qUSvzUj6jo), [p2](https://youtu.be/rm0MG_zYIdQ)). It fits in with the discussion on why Intermittent Fasting can feel good in the short term but can be stressful to one's health as one ages.
+
+In this post, I am going to save you two hours. I watched the lecture twice and took notes. Before Diana's comment, I was unaware of Dr. Schwarzbein, but I have since learned that she has influenced Matt Stone, an author whom I've referenced a few times on this site. Schwarzbein shows up in Diet Recovery 2.
 
 > She states that running on adrenaline and wearing yourself out actually feels really good – whereas rebuilding feels kinda lousy.
 
-This sentence sets the stage for understanding the lecture. What feels good and what is good for your body might be two different things, especially in the short term. When we push dietary habits such as low-calorie, low-carb, or fasting that accelerate the usage of stress hormones we run the risk of running into health problems. Not at first, but later. ![diet-recovery2](./img/diet-recovery2.jpg) _Diet Recovery 2 by Matt Stone_
+This sentence sets the stage for understanding the lecture. What feels good and what is good for your body might be two different things, especially in the short term. When we push dietary habits such as low-calorie, low-carb, or fasting that accelerate the usage of stress hormones we run the risk of running into health problems. Not at first, but later.
+
+![diet-recovery2](./img/diet-recovery2.jpg)
+
+_Diet Recovery 2 by Matt Stone_
 
 
 ### Lecture Notes
@@ -25,7 +31,11 @@ Some of these sentences are taken verbatim from slides or Dr. Schwarzbein and so
 ### Building or Using
 
 
-The starting premise of the talk is that **our metabolism is either in a building or using state**. To stay healthy, you must replace or restore the hormones you have used or depleted. When you use them at a greater rate than you build you are breaking down. This is accelerated aging. It feels good to break down until it doesn't. This is the body compensating for your survival.  **Breaking down at a rate greater than one can rebuild is inviting degenerative disease. Our ability to rebuild is reduced as we age.**  At one point Dr. Schwarzbein states that breaking down triggers rebuilding until about age 35 in women and 40 in men. After this point, our body greatly loses its ability to rebuild. Breaking down becomes aging.
+The starting premise of the talk is that **our metabolism is either in a building or using state**.
+
+To stay healthy, you must replace or restore the hormones you have used or depleted. When you use them at a greater rate than you build you are breaking down. This is accelerated aging. It feels good to break down until it doesn't. This is the body compensating for your survival. 
+
+**Breaking down at a rate greater than one can rebuild is inviting degenerative disease. Our ability to rebuild is reduced as we age.**  At one point Dr. Schwarzbein states that breaking down triggers rebuilding until about age 35 in women and 40 in men. After this point, our body greatly loses its ability to rebuild. Breaking down becomes aging.
 
 -   Insulin is a major rebuilding hormone. “insulin is your best friend”
 -   Adrenaline, Noradrenaline, and Cortisol are major using hormones.
@@ -58,7 +68,17 @@ Reaching for chemicals to feel better is a sign there is something wrong with yo
 ### Fasting, Low Carb
 
 
-You can deplete your glycogen stores at night depending on how many complex carbs you had that day. Reduced carbs and fasting can make one more prone to hypoglycemia at night, which is one thing that can wake you up. Symptoms can come on slowly. It may not happen the first time but might happen gradually over the years. After glycogen is depleted. Hormones are used to make sugar from amino acids. It can take 72 hours to get into fat stores. When fat is being broken down the body is still in using mode (not rebuilding proteins). If the body goes into stored fat that means insulin has gone down and adrenaline, noradrenaline, and cortisol have gone up. The body is on the using side of physiology. Not a place to live. This is for emergencies. You don’t want to go into ketosis. It is all about breaking down. And breaking down can feel good (nicotine, caffeine). Low-carb dieters are inducing diabetes. They are lowering their insulin and raising their adrenaline, noradrenaline, and cortisol. That drives gluconeogenesis and they start to become hyperglycemic. Eating carbs reverses the process. When you go low-carb, cortisol goes up. Early tests will show this, but cortisol levels will drop if prolonged. This could lead to adrenal burnout.
+You can deplete your glycogen stores at night depending on how many complex carbs you had that day. Reduced carbs and fasting can make one more prone to hypoglycemia at night, which is one thing that can wake you up. Symptoms can come on slowly. It may not happen the first time but might happen gradually over the years.
+
+After glycogen is depleted. Hormones are used to make sugar from amino acids. It can take 72 hours to get into fat stores. When fat is being broken down the body is still in using mode (not rebuilding proteins).
+
+If the body goes into stored fat that means insulin has gone down and adrenaline, noradrenaline, and cortisol have gone up. The body is on the using side of physiology. Not a place to live. This is for emergencies.
+
+You don’t want to go into ketosis. It is all about breaking down. And breaking down can feel good (nicotine, caffeine).
+
+Low-carb dieters are inducing diabetes. They are lowering their insulin and raising their adrenaline, noradrenaline, and cortisol. That drives gluconeogenesis and they start to become hyperglycemic. Eating carbs reverses the process.
+
+When you go low-carb, cortisol goes up. Early tests will show this, but cortisol levels will drop if prolonged. This could lead to adrenal burnout.
 
 
 ### Degenerative Diseases
@@ -84,13 +104,17 @@ All autoimmune diseases live on the using side of metabolism.
 ### Living Longer in a Healthy State
 
 
-Dr. Schwarzbein states humans used to live to at most about 50 and if your goal is to live to 50 years old you can do whatever you want to do. However, if you want to live longer you’ve got to honor physiology and biochemistry. Losing weight is not how you stay healthy. Being healthy is how you lose weight.
+Dr. Schwarzbein states humans used to live to at most about 50 and if your goal is to live to 50 years old you can do whatever you want to do. However, if you want to live longer you’ve got to honor physiology and biochemistry.
+
+Losing weight is not how you stay healthy. Being healthy is how you lose weight.
 
 
 ### Last Words
 
 
-These notes are just an overview. If you are interested in the details, especially regarding diabetes, watch Part 2. The lecture inspired me to seek out more information, so I've just started reading _The Schwarzbein Principle II_. As a male over 40 years old who consumes a fair amount of caffeine, Dr. Schwarzbein has got my attention. ![schwarzbein-principle-2](./img/schwarzbein-principle-2.jpg) _The Schwarzbein Principle II, The "Transition": A Regeneration Program to Prevent and Reverse Accelerated Aging by Diana Schwarzbein_
+These notes are just an overview. If you are interested in the details, especially regarding diabetes, watch Part 2. The lecture inspired me to seek out more information, so I've just started reading _The Schwarzbein Principle II_. As a male over 40 years old who consumes a fair amount of caffeine, Dr. Schwarzbein has got my attention.
+
+![schwarzbein-principle-2](./img/schwarzbein-principle-2.jpg) _The Schwarzbein Principle II, The "Transition": A Regeneration Program to Prevent and Reverse Accelerated Aging by Diana Schwarzbein_
 
 ---
 

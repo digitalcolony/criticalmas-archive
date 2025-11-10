@@ -8,7 +8,11 @@ description: "This is a guest recipe from Ann who was commenting on the post Nat
 commentCount: 10
 ---
 
-_This is a guest recipe from Ann who was commenting on the post [Natto 2: Fermentation Boogaloo](/2013/12/natto-2-fermentation-boogaloo/)._ ![natto](./img/Optimized-IMG_0229.jpg) _Natto_
+_This is a guest recipe from Ann who was commenting on the post [Natto 2: Fermentation Boogaloo](/2013/12/natto-2-fermentation-boogaloo/)._
+
+![natto](./img/Optimized-IMG_0229.jpg)
+
+_Natto_
 
 
 ### What You Need

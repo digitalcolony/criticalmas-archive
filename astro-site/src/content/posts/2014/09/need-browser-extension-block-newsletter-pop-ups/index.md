@@ -9,13 +9,27 @@ description: "I am so sick of the trend that every site have a newsletter and th
 commentCount: 15
 ---
 
-I am so sick of the trend that every site have a newsletter and that they launch a pop-up window in your face 2 seconds after you visit their page. The pitch is that if you like what you see, you should sign up for the newsletter so you don't miss anything. Well, I can't see the page, because this annoying pop-up screen is blocking me from the reason I came to the site in the first place. Giving over your name and email is a sign of trust. I don't trust someone who bombards me the second I arrive. Therefore I'll never sign up for those emails. Most of the time, I'll just hit back on the browser and get the same information from another, less needy site. Doing this increases their bounce rate and could lower their search engine rankings. The social media pimps tell us that blasting your readers with these pop-ups gets more conversions. That might be true, but I am wondering about the quality of those subscribers that freely give their email to sites after a 2 second introduction. Are they even going to read the newsletter? How many newsletters do they get each week? I have a newsletter for this site and for [INeedCoffee](https://ineedcoffee.com). I still need to send the first issue for both. :) You'll note that my form is off to the side. It is there if you want it. I do not want to hit people over the head, because I don't want to be hit over the head. I will always prefer RSS anyway. I think newsletters are a fad and as more and more sites drown their visitors with more and more newsletters, this method will get played out and sites will move onto something else. Investing so much time and effort into how the message is delivered instead of the message itself isn't that interesting to me. ![Stop it!](./img/133203964_ba9f86e180_z.jpg) _[Photo](https://flic.kr/p/cLGU5) by somewheregladlybeyond_ 
+I am so sick of the trend that every site have a newsletter and that they launch a pop-up window in your face 2 seconds after you visit their page. The pitch is that if you like what you see, you should sign up for the newsletter so you don't miss anything. Well, I can't see the page, because this annoying pop-up screen is blocking me from the reason I came to the site in the first place.
+
+Giving over your name and email is a sign of trust. I don't trust someone who bombards me the second I arrive. Therefore I'll never sign up for those emails. Most of the time, I'll just hit back on the browser and get the same information from another, less needy site. Doing this increases their bounce rate and could lower their search engine rankings.
+
+The social media pimps tell us that blasting your readers with these pop-ups gets more conversions. That might be true, but I am wondering about the quality of those subscribers that freely give their email to sites after a 2 second introduction. Are they even going to read the newsletter? How many newsletters do they get each week?
+
+I have a newsletter for this site and for [INeedCoffee](https://ineedcoffee.com). I still need to send the first issue for both. :) You'll note that my form is off to the side. It is there if you want it. I do not want to hit people over the head, because I don't want to be hit over the head. I will always prefer RSS anyway.
+
+I think newsletters are a fad and as more and more sites drown their visitors with more and more newsletters, this method will get played out and sites will move onto something else. Investing so much time and effort into how the message is delivered instead of the message itself isn't that interesting to me.
+
+![Stop it!](./img/133203964_ba9f86e180_z.jpg)
+
+_[Photo](https://flic.kr/p/cLGU5) by somewheregladlybeyond_ 
 
 
 ### Extension Developer We Need Your Help!
 
 
-I'm not a developer for browser extensions, but here is how I imagine it would be coded. Most of the sites that bombard us with their newsletter pop-ups are running WordPress. Most of those sites use a handful of plugins to assault us with their newsletter offers. The code generated runs on the client. The extension would detect the function calls of the most commonly used plugins and rewrite the code to perform no task. So when the page loads, the pop-up code fires, but does nothing. Can this be done? I think so. We already have [ad blockers](https://adblockplus.org/) that detect and block the most common ad networks. If this already exists, please tell me where to download. If you code it, I will promote it.
+I'm not a developer for browser extensions, but here is how I imagine it would be coded. Most of the sites that bombard us with their newsletter pop-ups are running WordPress. Most of those sites use a handful of plugins to assault us with their newsletter offers. The code generated runs on the client. The extension would detect the function calls of the most commonly used plugins and rewrite the code to perform no task. So when the page loads, the pop-up code fires, but does nothing.
+
+Can this be done? I think so. We already have [ad blockers](https://adblockplus.org/) that detect and block the most common ad networks. If this already exists, please tell me where to download. If you code it, I will promote it.
 
 ---
 

@@ -19,19 +19,39 @@ It has been 3 years since my last "What I Eat..." update. If you want to follow 
 ### What I Don't Eat
 
 
-My 2017 Avoid list has gotten smaller. Now, the only thing that I go out of my way to avoid are industrial seed oils. What this means primarily is I avoid fried food when I'm eating out. No french fries ever. I choose foods that will require the least amount of frying. At home, I can use safer fats such as coconut oil or butter. After following the nutritional blogosphere battles for almost 10 years now and reading numerous perspectives from people much smarter than me, I've decided that excess PUFA (poly-unsaturated fats) are [The Common Enemy in Nutrition](/2013/11/common-enemy-nutrition/). The only real debate is defining excessive. _![](./img/583px-Fries_cooking.jpg)_ _By [Hayford Peirce](https://en.wikipedia.org/wiki/User:Hayford_Peirce "en:User:Hayford Peirce") - Own work, CC BY-SA 3.0_ Diet colas are still on the list, but I don't think they are as dangerous as their critics claim. I just don't think sugar colas are that bad in moderation. Plus, my personal observation is that in the short run, diet colas can suppress your desire for something sweet, but the effect wears off quickly, and I've found myself much more hungry later. So the short-term calorie deficit later becomes a surplus. My guess is our response is highly personal. For me, diet colas were a waste of money.
+My 2017 Avoid list has gotten smaller. Now, the only thing that I go out of my way to avoid are industrial seed oils. What this means primarily is I avoid fried food when I'm eating out. No french fries ever. I choose foods that will require the least amount of frying. At home, I can use safer fats such as coconut oil or butter.
+
+After following the nutritional blogosphere battles for almost 10 years now and reading numerous perspectives from people much smarter than me, I've decided that excess PUFA (poly-unsaturated fats) are [The Common Enemy in Nutrition](/2013/11/common-enemy-nutrition/). The only real debate is defining excessive.
+
+_![](./img/583px-Fries_cooking.jpg)_
+
+_By [Hayford Peirce](https://en.wikipedia.org/wiki/User:Hayford_Peirce "en:User:Hayford Peirce") - Own work, CC BY-SA 3.0_
+
+Diet colas are still on the list, but I don't think they are as dangerous as their critics claim. I just don't think sugar colas are that bad in moderation. Plus, my personal observation is that in the short run, diet colas can suppress your desire for something sweet, but the effect wears off quickly, and I've found myself much more hungry later. So the short-term calorie deficit later becomes a surplus. My guess is our response is highly personal. For me, diet colas were a waste of money.
 
 
 ### Neutral Foods
 
 
-I moved Wheat from Avoid to Neutral in this edition. For a more detailed explanation, see the post [Gluten / Wheat - The Final Chapter.](/2016/12/gluten-wheat-final-chapter/) I still think there are many unanswered questions about wheat, and I'm not recommending others eat or not eat wheat. Do your own research. These days I eat a little wheat each week, not all is bread. I've become a fan of farro and will be trying other grains soon. I debated on if I should move Alcohol back to the Avoid list. My reactions have been primarily negative and always unpredictable. I could be fine with a few ounces of a cider or craft beer, or I could have a sinus headache for 18 hours. I've found no rhyme or reason, and trust me, I've looked. I've dug far too deep into this topic. Peanuts and nut butters are on the neutral list. They contain a high amount of PUFA, so I would consume them only minimally. Processed foods are a tool. If you are highly active and need a lot of calories, I don't see a problem with them. However, when you aren't active and you start to displace nutritious food, that can be a problem.
+I moved Wheat from Avoid to Neutral in this edition. For a more detailed explanation, see the post [Gluten / Wheat - The Final Chapter.](/2016/12/gluten-wheat-final-chapter/) I still think there are many unanswered questions about wheat, and I'm not recommending others eat or not eat wheat. Do your own research. These days I eat a little wheat each week, not all is bread. I've become a fan of farro and will be trying other grains soon.
+
+I debated on if I should move Alcohol back to the Avoid list. My reactions have been primarily negative and always unpredictable. I could be fine with a few ounces of a cider or craft beer, or I could have a sinus headache for 18 hours. I've found no rhyme or reason, and trust me, I've looked. I've dug far too deep into this topic.
+
+Peanuts and nut butters are on the neutral list. They contain a high amount of PUFA, so I would consume them only minimally.
+
+Processed foods are a tool. If you are highly active and need a lot of calories, I don't see a problem with them. However, when you aren't active and you start to displace nutritious food, that can be a problem.
 
 
 ### What I Eat
 
 
-In this edition, I added oranges and tangerines to the list. It was the only food in my adult life that I knew was healthy, yet I didn't like the taste. Now I enjoy the taste. For that story, see the post [Overcoming My Only Irrational Food Fear](/2015/11/overcoming-my-only-irrational-food-fear/). Pretty much everything else is fair game. There is a downside to having an overly expansive diet. We see it everywhere. People either eat food with little nutrition or they eat too much food and gain weight. Restrictive eating is a tool that has been used successfully by many people, but it is not for me. In my next post, I am going to cover how I resolved to have an expansive diet without eating like crap or eating too much.
+In this edition, I added oranges and tangerines to the list. It was the only food in my adult life that I knew was healthy, yet I didn't like the taste. Now I enjoy the taste. For that story, see the post [Overcoming My Only Irrational Food Fear](/2015/11/overcoming-my-only-irrational-food-fear/).
+
+Pretty much everything else is fair game.
+
+There is a downside to having an overly expansive diet. We see it everywhere. People either eat food with little nutrition or they eat too much food and gain weight. Restrictive eating is a tool that has been used successfully by many people, but it is not for me.
+
+In my next post, I am going to cover how I resolved to have an expansive diet without eating like crap or eating too much.
 
 ---
 

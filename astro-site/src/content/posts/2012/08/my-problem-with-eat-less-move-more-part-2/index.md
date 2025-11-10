@@ -23,7 +23,17 @@ Judging from the comments on [My Problem With “Eat Less Move More”](/2012/08
 ### Seeking Nutritional Alpa
 
 
-I'm not a dietitian and I do not have a client list. My approach to nutrition assumes incomplete knowledge and comes from an investor mindset. The term [alpha](https://en.wikipedia.org/wiki/Alpha_\(investment\)) in finance means **return in excess of the compensation for the risk borne**. From a nutritional standpoint, we know that some foods are far more nutrient dense than others. We also know that some foods are more toxic. Those foods might have equal calories. I believe from my own personal experience and talking with others that finding those foods with a greater alpha do a far better job of reducing hunger at equal caloric rates. ![beef-stock](./img/beef-stock.jpg) _Beef Stock is a food with a high nutritional alpha._ I think that a strategy of removing foods with negative alpha (grains, veggie oils, soy) and adding [foods with positive alpha](/2011/06/high-velocity-super-warrior-foods/) will increase the **probability of success** more than taking on calorie restriction head on. Did for me. The hunger I experienced when eating bread (negative alpha) was much greater than when I gave it up. Losing 20 pounds without bread was significantly easier than losing just 5 pounds when I did eat bread. The challenge in fighting obesity is not continually explaining the minority of successes, but figuring out how to increase the number of successes in a way that works with the body. Blaming the individual isn't helpful. 2017 UPDATE: [The Role of Exercise in Preventing Weight Gain](/2017/03/exercise-weight-regain/)
+I'm not a dietitian and I do not have a client list. My approach to nutrition assumes incomplete knowledge and comes from an investor mindset. The term [alpha](https://en.wikipedia.org/wiki/Alpha_\(investment\)) in finance means **return in excess of the compensation for the risk borne**. From a nutritional standpoint, we know that some foods are far more nutrient dense than others. We also know that some foods are more toxic. Those foods might have equal calories. I believe from my own personal experience and talking with others that finding those foods with a greater alpha do a far better job of reducing hunger at equal caloric rates.
+
+![beef-stock](./img/beef-stock.jpg)
+
+_Beef Stock is a food with a high nutritional alpha._
+
+I think that a strategy of removing foods with negative alpha (grains, veggie oils, soy) and adding [foods with positive alpha](/2011/06/high-velocity-super-warrior-foods/) will increase the **probability of success** more than taking on calorie restriction head on. Did for me. The hunger I experienced when eating bread (negative alpha) was much greater than when I gave it up. Losing 20 pounds without bread was significantly easier than losing just 5 pounds when I did eat bread.
+
+The challenge in fighting obesity is not continually explaining the minority of successes, but figuring out how to increase the number of successes in a way that works with the body. Blaming the individual isn't helpful.
+
+2017 UPDATE: [The Role of Exercise in Preventing Weight Gain](/2017/03/exercise-weight-regain/)
 
 ---
 

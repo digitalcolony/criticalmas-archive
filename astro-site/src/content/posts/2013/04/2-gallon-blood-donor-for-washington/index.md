@@ -8,7 +8,11 @@ description: "I've now donated 2 gallons of blood for Washington. I can add the 
 commentCount: 4
 ---
 
-I've now donated 2 gallons of blood for Washington. I can add the new pin next to my [other blood pins](/2012/01/now-a-1-gallon-blood-donor-in-2-states/) ![2 gallons down ](./img/IMG_2836.jpg). ![Donate Blood](./img/IMG_2832.jpg)
+I've now donated 2 gallons of blood for Washington. I can add the new pin next to my [other blood pins](/2012/01/now-a-1-gallon-blood-donor-in-2-states/)
+
+![2 gallons down ](./img/IMG_2836.jpg).
+
+![Donate Blood](./img/IMG_2832.jpg)
 
 ---
 

@@ -8,23 +8,39 @@ description: "For years, I've run into the same problem: I link to an online fit
 commentCount: 5
 ---
 
-For years, I've run into the same problem: I link to an online fitness calculator, and after a few years, the link stops working. I update it, but eventually, it breaks again, and the cycle repeats. One day, I would code my own fitness calculator site. Not only would the links on my site not break, but I could create calculators with a better user interface that weren't dumb. By not dumb, I mean that if I enter my height on one calculator, it should also be remembered by a second calculator. If I come back months later, it should remember my height. Another thing I dislike about most online calculators is that you need to hit submit for each numerical change. Formula-based forms should be dynamic. Well, I finally coded my own set of fitness calculators. I haven't seen anything as good as these. It features Light/Dark mode, values persist across sessions, and calculators. You can also download the entire site as a progressive web app to your desktop. Instead of buying another domain, I set up a subdomain on potatohack.com and named the collection "Potato Hack Fitness Calculators." Users looking to calculate their BMI or BMR may take an extra click and learn about the [Potato Hack](https://potatohack.com/).
+For years, I've run into the same problem: I link to an online fitness calculator, and after a few years, the link stops working. I update it, but eventually, it breaks again, and the cycle repeats.
+
+One day, I would code my own fitness calculator site.
+
+Not only would the links on my site not break, but I could create calculators with a better user interface that weren't dumb. By not dumb, I mean that if I enter my height on one calculator, it should also be remembered by a second calculator. If I come back months later, it should remember my height.
+
+Another thing I dislike about most online calculators is that you need to hit submit for each numerical change. Formula-based forms should be dynamic.
+
+Well, I finally coded my own set of fitness calculators. I haven't seen anything as good as these. It features Light/Dark mode, values persist across sessions, and calculators. You can also download the entire site as a progressive web app to your desktop.
+
+Instead of buying another domain, I set up a subdomain on potatohack.com and named the collection "Potato Hack Fitness Calculators." Users looking to calculate their BMI or BMR may take an extra click and learn about the [Potato Hack](https://potatohack.com/).
 
 
 #### [calc.potatohack.com](https://calc.potatohack.com)
 
 
-![](./img/og-image-1024x538.png) _Potato Hack Fitness Calculators is hosted as a static site built with Astro and hosted for free on Netlify._
+![](./img/og-image-1024x538.png)
+
+_Potato Hack Fitness Calculators is hosted as a static site built with Astro and hosted for free on Netlify._
 
 
 ### Vibe Coding
 
 
-Vibe coding is a new term that involves directing a coding AI to create what you want, rather than entering code directly yourself. I pay for GitHub Copilot, which hosts most of the major AI models. For this project, I mostly used Claude 4.0 in Agent mode. Agent mode means I hand over control to my IDE (VS Code) to the AI Agent, and it does the work with minimal input from me. The first step was to visit Claude.ai and have it create a Project Requirement Document.
+Vibe coding is a new term that involves directing a coding AI to create what you want, rather than entering code directly yourself. I pay for GitHub Copilot, which hosts most of the major AI models. For this project, I mostly used Claude 4.0 in Agent mode. Agent mode means I hand over control to my IDE (VS Code) to the AI Agent, and it does the work with minimal input from me.
+
+The first step was to visit Claude.ai and have it create a Project Requirement Document.
 
 > Help me create a Project Requirement document for a web app I want to create. Interview me.
 
-At this point, I was prompted with many questions, which I answered, and the requirements document was created. I took this document back to VS Code and fed it to GitHub CoPilot, and it started generating code. I went back and forth with coding requests, saving my code to GitHub as new features or changes were added. I had most of the site finished in under three hours. I later had it add some more calculators.
+At this point, I was prompted with many questions, which I answered, and the requirements document was created. I took this document back to VS Code and fed it to GitHub CoPilot, and it started generating code.
+
+I went back and forth with coding requests, saving my code to GitHub as new features or changes were added. I had most of the site finished in under three hours. I later had it add some more calculators.
 
 
 ### Feedback?

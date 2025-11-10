@@ -9,11 +9,17 @@ description: "A year ago, it seemed that everyone thought oil prices would conti
 commentCount: 3
 ---
 
-A year ago, it seemed that everyone thought oil prices would continue to rise. I heard predictions for $200 and even $300 a barrel. Who would have guessed one year ago that oil would be down to $55? That would be me. From my 2008 Predictions post on _MarketTicker_ on 12/27/2007:
+A year ago, it seemed that everyone thought oil prices would continue to rise. I heard predictions for $200 and even $300 a barrel. Who would have guessed one year ago that oil would be down to $55? That would be me.
+
+From my 2008 Predictions post on _MarketTicker_ on 12/27/2007:
 
 > OIL = $55 President Mitt
 
-Although I was wrong about Romney winning the 2008 election, I accurately predicted that oil would reach $55 by the end of 2008. This calls for a celebration dance. ![](./img/banana010.gif "banana010") I promise not to bring out the dancing banana until the S&P 500 hits 600 or Paulson is lynched. Whichever comes first.
+Although I was wrong about Romney winning the 2008 election, I accurately predicted that oil would reach $55 by the end of 2008. This calls for a celebration dance.
+
+![](./img/banana010.gif "banana010")
+
+I promise not to bring out the dancing banana until the S&P 500 hits 600 or Paulson is lynched. Whichever comes first.
 
 ---
 

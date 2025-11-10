@@ -11,19 +11,33 @@ commentCount: 10
 
 After reading the latest post by Matt Stone titled [Why Are Central Americans so Fat?](https://web.archive.org/web/20210423082311/https://180degreehealth.com/central-americans-fat/), I wanted to clarify my usage of the term Peasant Diet. After discussing the high levels of obesity in Central America, he states:
 
-> I’m fully over my whole “I’ll just eat like the locals!” sentiments. Western food is awesome. There’s a reason why only peasants eat peasant diets. They suck. And while peasant diets may be associated with leanness, I’m definitely not seeing it in Central America.
+> I’m fully over my whole “I’ll just eat like the locals!” sentiments. Western food is awesome. There’s a reason why only peasants eat peasant diets. They suck.
+> 
+> And while peasant diets may be associated with leanness, I’m definitely not seeing it in Central America.
 
 I'm a fan of the Peasant Diet and I often agree with Matt Stone, so I want to reconcile the difference. In my post [Designing a Modern Peasant Diet](/2016/11/designing-modern-peasant-diet/), I made the distinction between a peasant and a poor person.
 
 > When I think of a poor person today and imagine their diet, I see a lot of processed foods. They are likely to be overweight or even obese. The foods are highly flavorful, calorie dense and hyper-palatable. However, when I imagine a peasant I see a diet of boring staples. The foods are low in flavor and have a low calorie density.
 
-Of course, I was describing an American poor person. However, the problem I suspected was true in Central America was confirmed to be true. They are consuming a large amount of industrial seed oils. This would be detrimental to healthy metabolism and it is a problem that would build over time, which is exactly what Matt Stone is seeing in Central America. His article also outlines a few other possible causes, but dietary fats are the one I want to address for my Modern Peasant Diet. ![](./img/hard-boiled-eggs.jpg) _[Hard-boiled eggs](https://www.flickr.com/photos/pixellou/5923330134/) by Lisa Williams_
+Of course, I was describing an American poor person. However, the problem I suspected was true in Central America was confirmed to be true.
+
+They are consuming a large amount of industrial seed oils. This would be detrimental to healthy metabolism and it is a problem that would build over time, which is exactly what Matt Stone is seeing in Central America. His article also outlines a few other possible causes, but dietary fats are the one I want to address for my Modern Peasant Diet.
+
+![](./img/hard-boiled-eggs.jpg)
+
+_[Hard-boiled eggs](https://www.flickr.com/photos/pixellou/5923330134/) by Lisa Williams_
 
 
 ### Cooking Methods
 
 
-When making potatoes or legumes, I am boiling or using a pressure cooker. Most of the time, I do not add any fat. If I do add fat, I use butter or coconut oil, both saturated. Probably the bulk of my fats come from dairy. Also saturated. I usually boil my eggs. When I bake chicken, I do my best to remove excess fat before consuming it. My strong hunch is that on days when I do a Peasant Diet, my fat intake - even at a higher caloric level - is lower than the average Central American. And my PUFA intake is trace compared to theirs. Following a Modern Peasant Diet several meals a week has helped me lean out and maintain that leanness with minimal planning, effort, or money. It is also possible that cycling in a few palatable meals a week (which I refer to as World Cuisine in [The POWS Food Pyramid](/2017/01/pows-food-pyramid/) post) helps me maintain a higher metabolism than someone following a Peasant approach all the time for weeks, months or years.
+When making potatoes or legumes, I am boiling or using a pressure cooker. Most of the time, I do not add any fat. If I do add fat, I use butter or coconut oil, both saturated. Probably the bulk of my fats come from dairy. Also saturated.
+
+I usually boil my eggs. When I bake chicken, I do my best to remove excess fat before consuming it.
+
+My strong hunch is that on days when I do a Peasant Diet, my fat intake - even at a higher caloric level - is lower than the average Central American. And my PUFA intake is trace compared to theirs.
+
+Following a Modern Peasant Diet several meals a week has helped me lean out and maintain that leanness with minimal planning, effort, or money. It is also possible that cycling in a few palatable meals a week (which I refer to as World Cuisine in [The POWS Food Pyramid](/2017/01/pows-food-pyramid/) post) helps me maintain a higher metabolism than someone following a Peasant approach all the time for weeks, months or years.
 
 ---
 

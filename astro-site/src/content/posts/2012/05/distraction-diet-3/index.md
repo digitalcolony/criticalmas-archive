@@ -22,13 +22,27 @@ Ideas 1-3 are going well and I plan to do better on Idea 4. I also have some new
 ### Smarter Social Networking
 
 
-Having a presence on Facebook, Twitter, Google Plus and now Pinterest can be a real time suck. This year I have stopped using Google Plus and Pinterest for myself. I still connect briefly to manage new links for the [INeedCoffee](https://ineedcoffee.com) account, but my personal connection to those two sites has ended. I might do a separate post on why I dislike Pinterest. Google Plus means well, but I grew tired of it quickly. For Twitter, all my accounts automatically post links to new blog entries and I have an RSS feed that returns a search of when any of my accounts are mentioned. So my time on Twitter is minimal. For the most part I find that Twitter is a bunch of people talking with very few listening. The noise is deafening. Facebook is the best social network, but you need a browser extension to make it that way. Once I installed and configured the [FB Purity extension](http://www.fbpurity.com/), the noise level on Facebook dropped considerably. I can block specific post types, change the font, hide ads and best of all block posts with certain keywords. I never see birthday posts or anything related to voting or local sports teams. [![](./img/fb-purity-ss.jpg "FB Purity")](./img/fb-purity-ss-large.png) _Click image for larger view of FB Purity settings._
+Having a presence on Facebook, Twitter, Google Plus and now Pinterest can be a real time suck. This year I have stopped using Google Plus and Pinterest for myself. I still connect briefly to manage new links for the [INeedCoffee](https://ineedcoffee.com) account, but my personal connection to those two sites has ended. I might do a separate post on why I dislike Pinterest. Google Plus means well, but I grew tired of it quickly.
+
+For Twitter, all my accounts automatically post links to new blog entries and I have an RSS feed that returns a search of when any of my accounts are mentioned. So my time on Twitter is minimal. For the most part I find that Twitter is a bunch of people talking with very few listening. The noise is deafening.
+
+Facebook is the best social network, but you need a browser extension to make it that way. Once I installed and configured the [FB Purity extension](http://www.fbpurity.com/), the noise level on Facebook dropped considerably. I can block specific post types, change the font, hide ads and best of all block posts with certain keywords. I never see birthday posts or anything related to voting or local sports teams.
+
+[![](./img/fb-purity-ss.jpg "FB Purity")](./img/fb-purity-ss-large.png)
+
+_Click image for larger view of FB Purity settings._
 
 
 ### The Opposite of Distracted is Focused
 
 
-Probably the greatest piece of advice I got from Tim Ferriss author of [The 4-Hour Workweek](/2007/12/defending-the-4-hour-workweek/) was how it is important to _define_ what is meaningful to you BEFORE you _eliminate_ distractions. The reason is when you remove a distraction without defining what is important, you run the risk of filling it with a new distraction. So one of the main keys to eliminating distractions is becoming more focused on what is important to us. After you've defined what is important, how does one go about increasing focus? Caffeine, meditation, exercise and memory games all come to mind. I have a notebook that I pull down every so often where all I do is multiplication of 2 and 3 digit numbers. Instead of writing down every step, I use math tricks that force me to use my working memory to break up the steps and perform the calculation in my head. This it is tough at first, but you get faster over time. Strengthening the connection between short-term and long-term memory will increase focus. As great as the Internet can be, the downside is our short term memories are constantly being filled and emptied with every mouse click. Nicholas Carr covers this in depth in the book [The Shallows](/2010/08/the-shallows-what-the-internet-is-doing-to-our-brains/). I believe developing stronger focusing skills are a necessary component of any distraction diet.
+Probably the greatest piece of advice I got from Tim Ferriss author of [The 4-Hour Workweek](/2007/12/defending-the-4-hour-workweek/) was how it is important to _define_ what is meaningful to you BEFORE you _eliminate_ distractions. The reason is when you remove a distraction without defining what is important, you run the risk of filling it with a new distraction. So one of the main keys to eliminating distractions is becoming more focused on what is important to us.
+
+After you've defined what is important, how does one go about increasing focus? Caffeine, meditation, exercise and memory games all come to mind.
+
+I have a notebook that I pull down every so often where all I do is multiplication of 2 and 3 digit numbers. Instead of writing down every step, I use math tricks that force me to use my working memory to break up the steps and perform the calculation in my head. This it is tough at first, but you get faster over time.
+
+Strengthening the connection between short-term and long-term memory will increase focus. As great as the Internet can be, the downside is our short term memories are constantly being filled and emptied with every mouse click. Nicholas Carr covers this in depth in the book [The Shallows](/2010/08/the-shallows-what-the-internet-is-doing-to-our-brains/). I believe developing stronger focusing skills are a necessary component of any distraction diet.
 
 
 ### NZT-48?

@@ -9,7 +9,13 @@ description: "The past few months, I've been studying the sovereign debt situati
 commentCount: 11
 ---
 
-The past few months, I've been studying the sovereign debt situation around the globe and have come to the conclusion things are likely to get ugly. Life as we know it is mathematically unsustainable. Governments, be they federal or local, may collapse. This means government services such as water, sewage, and electricity, could have interruptions. The riots we are seeing in Greece are likely to spread as governments fail to keep the promises of the past. Taking more personal responsibility for one's survival seems like a prudent idea. Even though I enjoyed the story [Emergency](/2009/06/emergency-this-book-will-save-your-life/) by Neil Strauss, I wanted more of a manual to urban survival. ![When All Hell Breaks Loose](https://images-na.ssl-images-amazon.com/images/I/51UBPOGFKPL.jpg) _When All Hell Breaks Loose by Cody Lundin_ is exactly the book I was looking for. In fact, it was more. The beginning of the book goes straight into the psychological aspects of dealing with survival. To assume you or anyone else is going to remain calm and act completely rational in a crisis is a bad assumption. Cody Lundin takes you through what is required for survival in order of importance. Having a fully stocked cabinet of ammunition and dual citizenship to some remote country is worthless if you freeze to death or run out of water. _When All Hell Breaks Loose_ breaks it down into a Pyramid of Needs required to survive.
+The past few months, I've been studying the sovereign debt situation around the globe and have come to the conclusion things are likely to get ugly. Life as we know it is mathematically unsustainable. Governments, be they federal or local, may collapse. This means government services such as water, sewage, and electricity, could have interruptions. The riots we are seeing in Greece are likely to spread as governments fail to keep the promises of the past.
+
+Taking more personal responsibility for one's survival seems like a prudent idea. Even though I enjoyed the story [Emergency](/2009/06/emergency-this-book-will-save-your-life/) by Neil Strauss, I wanted more of a manual to urban survival.
+
+![When All Hell Breaks Loose](https://images-na.ssl-images-amazon.com/images/I/51UBPOGFKPL.jpg) _When All Hell Breaks Loose by Cody Lundin_ is exactly the book I was looking for. In fact, it was more. The beginning of the book goes straight into the psychological aspects of dealing with survival. To assume you or anyone else is going to remain calm and act completely rational in a crisis is a bad assumption.
+
+Cody Lundin takes you through what is required for survival in order of importance. Having a fully stocked cabinet of ammunition and dual citizenship to some remote country is worthless if you freeze to death or run out of water. _When All Hell Breaks Loose_ breaks it down into a Pyramid of Needs required to survive.
 
 1.  Positive Attitude
 2.  Clothing, Oxygen, sleep, water
@@ -19,7 +25,11 @@ The past few months, I've been studying the sovereign debt situation around the 
 6.  cooking
 7.  transportation
 
-In most cases, survival doesn't mean living off the land until the end of time. It might mean going without essential services for hours, days, or weeks. You can't trust that the social safety net will always be there to rescue you. Taking responsibility for your own safety and the safety of your family should be your first goal. The first thing I did this week was to buy and fill two 7-gallon water containers. My roommates bought 2 as well. Humans need 1-3 gallons of water a day. If an earthquake hits Seattle and water lines are cut, I can now survive longer than I could last week. And that is the essence of my survival strategy. Each week I will take an idea or two from the book and implement it. ![Reliance Products Aqua-Tainer 7 Gallon Rigid Water Container](https://images-na.ssl-images-amazon.com/images/I/51eQTk17%2BgL.jpg) Reliance Products Aqua-Tainer 7 Gallon Rigid Water Container
+In most cases, survival doesn't mean living off the land until the end of time. It might mean going without essential services for hours, days, or weeks. You can't trust that the social safety net will always be there to rescue you. Taking responsibility for your own safety and the safety of your family should be your first goal.
+
+The first thing I did this week was to buy and fill two 7-gallon water containers. My roommates bought 2 as well. Humans need 1-3 gallons of water a day. If an earthquake hits Seattle and water lines are cut, I can now survive longer than I could last week. And that is the essence of my survival strategy. Each week I will take an idea or two from the book and implement it.
+
+![Reliance Products Aqua-Tainer 7 Gallon Rigid Water Container](https://images-na.ssl-images-amazon.com/images/I/51eQTk17%2BgL.jpg) Reliance Products Aqua-Tainer 7 Gallon Rigid Water Container
 
 ---
 

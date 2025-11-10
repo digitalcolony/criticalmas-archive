@@ -15,7 +15,13 @@ Seattle's Muse Coffee just started serving Affogato this week. What is an affoga
 #### [An Introduction to Affogato (Recipes and Tips)](https://ineedcoffee.com/an-introduction-to-affogato-recipes-and-tips/)
 
 
-![](http://farm3.static.flickr.com/2633/3750525874_379ed71f6b.jpg "affogato espresso gelato") _Sources:_ Muse Coffee - Queen Anne coffee shop. [Affogato](https://en.wikipedia.org/wiki/Affogato) - Wikipedia page.
+![](http://farm3.static.flickr.com/2633/3750525874_379ed71f6b.jpg "affogato espresso gelato")
+
+_Sources:_
+
+Muse Coffee - Queen Anne coffee shop.
+
+[Affogato](https://en.wikipedia.org/wiki/Affogato) - Wikipedia page.
 
 ---
 

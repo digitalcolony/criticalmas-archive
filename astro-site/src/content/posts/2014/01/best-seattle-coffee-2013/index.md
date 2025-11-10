@@ -9,7 +9,19 @@ description: "In 2012, I did something unique to Best of lists. I listed my bias
 commentCount: 5
 ---
 
-In 2012, I did something unique to **Best of** lists. I listed my biases, preferences and **quantified my results**. Check out the post [192 Espressos](/2012/12/192-espressos-the-best-of-seattle-coffee-2012/) if you want to see how to do a Best of list properly. For 2013, I decided to put away the spreadsheet and not rank any espresso. It was liberating. There is a downside to [quantifiable self](/2013/11/quantifiable-self-form-journaling/). Instead of focusing solely on the espresso quality, my cafe experiences would also be influenced by customer service. To me customer service is more than just being friendly when I hand my cash over. It extends to all forms of customer communication from pricing to social media communication. Some coffee shops are open and transparent, whereas others couldn't care less. As a customer who has many choices, I like to know what my choices are and what they will cost me. When cafes announce new coffees on Twitter or Facebook, I appreciate that and take notice. My drink is espresso. I prefer lighter roasts. When it comes to coffee shops, I find myself more drawn to places where I have a choice of espressos and that choice changes from time to time. I live in Ballard. Last year I visited more coffee shops. This year I spent more money at my favorite ones. For the record, I drank way more than 192 espressos. Probably closer to 500 this year. That is because I sold my espresso machine. A foolish move on my part. ![Toast Ballard](http://farm8.staticflickr.com/7388/9938224045_0f0e39daa6_z.jpg) _Toast Ballard - 3 espressos, 3 different roasters and those roasters rotate._ Enough background. Here are my **non-data** driven rankings for the Best of Seattle Coffee 2013.
+In 2012, I did something unique to **Best of** lists. I listed my biases, preferences and **quantified my results**. Check out the post [192 Espressos](/2012/12/192-espressos-the-best-of-seattle-coffee-2012/) if you want to see how to do a Best of list properly.
+
+For 2013, I decided to put away the spreadsheet and not rank any espresso. It was liberating. There is a downside to [quantifiable self](/2013/11/quantifiable-self-form-journaling/). Instead of focusing solely on the espresso quality, my cafe experiences would also be influenced by customer service.
+
+To me customer service is more than just being friendly when I hand my cash over. It extends to all forms of customer communication from pricing to social media communication. Some coffee shops are open and transparent, whereas others couldn't care less. As a customer who has many choices, I like to know what my choices are and what they will cost me. When cafes announce new coffees on Twitter or Facebook, I appreciate that and take notice.
+
+My drink is espresso. I prefer lighter roasts. When it comes to coffee shops, I find myself more drawn to places where I have a choice of espressos and that choice changes from time to time. I live in Ballard. Last year I visited more coffee shops. This year I spent more money at my favorite ones. For the record, I drank way more than 192 espressos. Probably closer to 500 this year. That is because I sold my espresso machine. A foolish move on my part.
+
+![Toast Ballard](http://farm8.staticflickr.com/7388/9938224045_0f0e39daa6_z.jpg)
+
+_Toast Ballard - 3 espressos, 3 different roasters and those roasters rotate._
+
+Enough background. Here are my **non-data** driven rankings for the Best of Seattle Coffee 2013.
 
 1.  Neptune Coffee
 2.  Ballard Coffee Works
@@ -17,7 +29,13 @@ In 2012, I did something unique to **Best of** lists. I listed my biases, prefer
 4.  Black Coffee Co-op
 5.  Caffe Delia
 
-Neptune Coffee is the runaway winner this year. They offer two espressos from the two best roasters in Seattle (Kuma and Velton). The coffees change every week too. They communicate to their customer via Twitter whenever they get a new coffee. They are super friendly and super talented. This isn't just my opinion, a lot of the members of the [Coffee Club of Seattle](https://www.meetup.com/seattle-coffee-club/) feel the same way. 2014 starts tomorrow. Once again I will not be quantifying my espresso experience. ![Kuma Geisha](https://farm8.staticflickr.com/7354/10391930335_b154f90782_z.jpg) _Best espresso of the year: Kuma's Esmeralda Geisha Panama_
+Neptune Coffee is the runaway winner this year. They offer two espressos from the two best roasters in Seattle (Kuma and Velton). The coffees change every week too. They communicate to their customer via Twitter whenever they get a new coffee. They are super friendly and super talented. This isn't just my opinion, a lot of the members of the [Coffee Club of Seattle](https://www.meetup.com/seattle-coffee-club/) feel the same way.
+
+2014 starts tomorrow. Once again I will not be quantifying my espresso experience.
+
+![Kuma Geisha](https://farm8.staticflickr.com/7354/10391930335_b154f90782_z.jpg)
+
+_Best espresso of the year: Kuma's Esmeralda Geisha Panama_
 
 ---
 

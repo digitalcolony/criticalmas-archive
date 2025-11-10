@@ -9,7 +9,21 @@ description: "When people ask me why I like Seattle so much more than California
 commentCount: 7
 ---
 
-When people ask me why I like Seattle so much more than California my first response is that I drive far less in Seattle. There are other reasons, but that always comes to mind first. Recently I did I calculation where I determined that my average daily mileage in Seattle was half that of San Diego and here in the San Francisco Bay Area. I used to enjoy driving, but as I've gotten older it has become cumbersome. I'm certain that my left knee pain is from twenty plus years of driving a stick shift. As much as I dislike driving something changed this year. I installed the application [Waze](https://www.waze.com/) three months ago. It is a traffic application that merges your data with the data of other drivers and helps you find the fastest path in real time. It alerts you to accidents and even police sightings. ![waze](./img/waze.jpg) _[Photo](https://flic.kr/p/qfZMmP) by Travis Wise_ For the first month, I would only turn on Waze occasionally. If I needed directions or was curious why traffic was slower than expected. Then I saw the scoreboard. There is a screen that lists the number of points I've earned and the points of 23 of my friends. When I started I was near the bottom, but as the weeks went by I saw my ranking climb. I've now passed all but seven of my friends. In addition to points, Waze has five levels. I recently moved to the third level which is Waze Warrior. I think I'll achieve the Waze Knight level sometime in June. I went from dreading getting in my car to checking my score each morning and calculating when I would pass the next friend on my list. Besides the rankings, I am now sharing traffic reports with other drivers who can "thank me". When I go to a business I can add a photo if one doesn't exist. This helps other drivers spot locations quicker. It really is silly that giving me points to do something I dislike can make the task much more enjoyable, but it has. I'm wondering how else I can use point seeking to improve my life. What tasks have you tried to gamify and has it helped?
+When people ask me why I like Seattle so much more than California my first response is that I drive far less in Seattle. There are other reasons, but that always comes to mind first. Recently I did I calculation where I determined that my average daily mileage in Seattle was half that of San Diego and here in the San Francisco Bay Area. I used to enjoy driving, but as I've gotten older it has become cumbersome. I'm certain that my left knee pain is from twenty plus years of driving a stick shift.
+
+As much as I dislike driving something changed this year. I installed the application [Waze](https://www.waze.com/) three months ago. It is a traffic application that merges your data with the data of other drivers and helps you find the fastest path in real time. It alerts you to accidents and even police sightings.
+
+![waze](./img/waze.jpg)
+
+_[Photo](https://flic.kr/p/qfZMmP) by Travis Wise_
+
+For the first month, I would only turn on Waze occasionally. If I needed directions or was curious why traffic was slower than expected. Then I saw the scoreboard. There is a screen that lists the number of points I've earned and the points of 23 of my friends. When I started I was near the bottom, but as the weeks went by I saw my ranking climb. I've now passed all but seven of my friends.
+
+In addition to points, Waze has five levels. I recently moved to the third level which is Waze Warrior. I think I'll achieve the Waze Knight level sometime in June. I went from dreading getting in my car to checking my score each morning and calculating when I would pass the next friend on my list.
+
+Besides the rankings, I am now sharing traffic reports with other drivers who can "thank me". When I go to a business I can add a photo if one doesn't exist. This helps other drivers spot locations quicker.
+
+It really is silly that giving me points to do something I dislike can make the task much more enjoyable, but it has. I'm wondering how else I can use point seeking to improve my life. What tasks have you tried to gamify and has it helped?
 
 ---
 

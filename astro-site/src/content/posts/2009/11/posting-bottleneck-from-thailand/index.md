@@ -9,7 +9,9 @@ description: "I am behind on my trip blog posts. The primary reason is the uploa
 commentCount: 2
 ---
 
-I am behind on my trip blog posts. The primary reason is the upload speeds in Thailand (to my American servers) are horrific. This means the photos are being uploaded at a painfully slow rate. Most are failing. Unless I get faster upload speeds soon, I may need to do mini-galleries here and then work on the full galleries back in Seattle.
+I am behind on my trip blog posts. The primary reason is the upload speeds in Thailand (to my American servers) are horrific. This means the photos are being uploaded at a painfully slow rate. Most are failing.
+
+Unless I get faster upload speeds soon, I may need to do mini-galleries here and then work on the full galleries back in Seattle.
 
 ---
 

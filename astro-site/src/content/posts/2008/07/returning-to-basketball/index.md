@@ -9,11 +9,19 @@ description: "When I was a kid one of the sports I participated in was basketbal
 commentCount: 7
 ---
 
-When I was a kid one of the sports I participated in was basketball. It suited me a lot better than soccer or baseball. Although I was never a great player it was a lot of fun. Once I got to college one of my many rentals was a house that had a slab of concrete in the back. It was supposed to be a foundation for a garage or something. But it never got built so me and my roommates (_including frequent commenter Dhammy_) built a basketball court. We played all the time. After we moved got evicted from that place I stopped playing. Last year I started reading Arthur De Vany's work on Evolutionary Fitness. He is a big fan of basketball playing as an ideal exercise. Here is what he stated in his original thesis:
+When I was a kid one of the sports I participated in was basketball. It suited me a lot better than soccer or baseball. Although I was never a great player it was a lot of fun.
+
+Once I got to college one of my many rentals was a house that had a slab of concrete in the back. It was supposed to be a foundation for a garage or something. But it never got built so me and my roommates (_including frequent commenter Dhammy_) built a basketball court. We played all the time. After we moved got evicted from that place I stopped playing.
+
+Last year I started reading Arthur De Vany's work on Evolutionary Fitness. He is a big fan of basketball playing as an ideal exercise. Here is what he stated in his original thesis:
 
 > Pro basketball is not an aerobic sport, it actually is an anaerobic sport full of power moves, quick bursts, sprints, and leaps mixed in with half time rest, quarter breaks, pauses, free throws, time outs, and bench time. What NBA players have is the ability to use these brief intervals to quickly recover their phosphate energy stores (they use the alactic pathway discussed below). NBA athletes and NFL defensive backs provide evidence that power law training makes you powerful and lean. NBA players are the leanest and most powerful in any professional sport (their body fat is around 5 to 7 percent).
 
-In a nutshell, basketball is the anti-treadmill. It is anything but steady state aerobics and because of the pacing basketball players are the leanest. While walking around my neighborhood I noticed there were some basketball courts behind the school next to my building. Nobody is ever using them and the gate is never locked. So I bought a basketball today and ended my basketball retirement. It sure beats driving an hour to hike up a mountain. :) ![mas-basketball](./img/mas-basketball.jpg)
+In a nutshell, basketball is the anti-treadmill. It is anything but steady state aerobics and because of the pacing basketball players are the leanest.
+
+While walking around my neighborhood I noticed there were some basketball courts behind the school next to my building. Nobody is ever using them and the gate is never locked. So I bought a basketball today and ended my basketball retirement. It sure beats driving an hour to hike up a mountain. :)
+
+![mas-basketball](./img/mas-basketball.jpg)
 
 ---
 

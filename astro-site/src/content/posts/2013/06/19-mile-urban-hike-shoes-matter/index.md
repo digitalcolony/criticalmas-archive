@@ -9,11 +9,23 @@ description: "Last year I bought a pair of minimal shoes that I loved immediatel
 commentCount: 10
 ---
 
-Last year I bought a pair of minimal shoes that I loved immediately. The brand was Onitsuka Tiger. Super thin sole. The sole was actually too thin to do my [uphill sprints](/2012/01/running-up-that-hill-sprinting-salvation-for-tall-people/) with, but that didn't matter, because they were perfect for walking, which is what I really care about. Well, it turns out they weren't perfect. The shoes aren't that sturdy. Holes near the heal started appearing within a few months. They were falling apart fast. I decided I'd get a better-made shoe and reserve the Tiger for the gym when I do leg presses. After seeking recommendations from my local Paleo group, I purchased a pair of Merrell Minimal shoes. Super light and super comfortable. And they have an orange sole, which I love. However, I noticed that when I'd walk for more than an hour or two, I felt a little achy. It took me several months to figure out that my stride had lengthened. One of the benefits I first experienced when I embraced minimal shoes was a shorter stride. From my 2009 post [Learning How to Walk Again](/2009/08/learning-how-to-walk-again/):
+Last year I bought a pair of minimal shoes that I loved immediately. The brand was Onitsuka Tiger. Super thin sole. The sole was actually too thin to do my [uphill sprints](/2012/01/running-up-that-hill-sprinting-salvation-for-tall-people/) with, but that didn't matter, because they were perfect for walking, which is what I really care about.
+
+Well, it turns out they weren't perfect. The shoes aren't that sturdy. Holes near the heal started appearing within a few months. They were falling apart fast. I decided I'd get a better-made shoe and reserve the Tiger for the gym when I do leg presses.
+
+After seeking recommendations from my local Paleo group, I purchased a pair of Merrell Minimal shoes. Super light and super comfortable. And they have an orange sole, which I love. However, I noticed that when I'd walk for more than an hour or two, I felt a little achy. It took me several months to figure out that my stride had lengthened. One of the benefits I first experienced when I embraced minimal shoes was a shorter stride.
+
+From my 2009 post [Learning How to Walk Again](/2009/08/learning-how-to-walk-again/):
 
 > Going from running shoes to super thin shoes means I now walk slower and cover less distance. This feels more natural. I think the most I have urban hiked in my Diesel shoes has been 10 miles. **Unlike past urban hikes, I felt no lower back pain.**
 
-Monday I decided to shelf the Merrell shoes and pull the Tiger out of walking retirement. My stride shortened and I felt great enough to cover 19.1 miles. My original plan was just to hike 10 miles. The Merrell shoes are better built, but I feel better after walking with the Tiger. Does there exist a super-thin shoe that is well made? Not Vibram 5 Fingers, but a real shoe. ![urban-hike-19](./img/urban-hike-19.png) _My [19.1 mile](http://www.gmap-pedometer.com/?r=5964688) Urban Hike through Seattle._
+Monday I decided to shelf the Merrell shoes and pull the Tiger out of walking retirement. My stride shortened and I felt great enough to cover 19.1 miles. My original plan was just to hike 10 miles. The Merrell shoes are better built, but I feel better after walking with the Tiger.
+
+Does there exist a super-thin shoe that is well made? Not Vibram 5 Fingers, but a real shoe.
+
+![urban-hike-19](./img/urban-hike-19.png)
+
+_My [19.1 mile](http://www.gmap-pedometer.com/?r=5964688) Urban Hike through Seattle._
 
 ---
 

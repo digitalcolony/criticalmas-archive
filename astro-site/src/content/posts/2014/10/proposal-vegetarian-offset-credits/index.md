@@ -11,9 +11,27 @@ commentCount: 15
 
 I've had this thought for a while. It is an offshoot of an idea in my post [Approaching Nutrition From An Investor's Mindset](/2013/04/approaching-nutrition-from-an-investors-mindset/).
 
-> When you are investing the goal is to put your money into something undervalued and then get out before it becomes overvalued. In other words, buy low and sell high. The more undervalued the investment, the less risk one takes. If we think about this nutritionally, we benefit most from the nutrients and foods that we are deficient in. A fast food junkie will likely benefit from a vegetarian diet and a vegetarian will likely benefit from a Paleo diet. For a while.
+> When you are investing the goal is to put your money into something undervalued and then get out before it becomes overvalued. In other words, buy low and sell high. The more undervalued the investment, the less risk one takes. If we think about this nutritionally, we benefit most from the nutrients and foods that we are deficient in. A fast food junkie will likely benefit from a vegetarian diet and a vegetarian will likely benefit from a Paleo diet.
+> 
+> For a while.
 
-My proposal addresses two different groups of people who might have compromised health. The fast food eater that consumes a lot of muscle meat and the strict vegetarian (more likely a vegan). **Each group could benefit the other by swapping roles for a day.**  An ethical vegan would be able to eat animal protein for a day and still be within their moral guidelines provided they were able to convince a fast food eater to eat vegetarian/vegan for a day. They might even prepare the meals to assure that the fast food eater stays away from animal protein. The fast food person gets a break from meat and loads up on fruits, veggies and legumes. The vegan can now consume some animal protein for a day and shore up any nutritional deficiencies they might have developed. The impact to the planet is neutral, yet both parties should be nutritionally better off. Actually, I am guessing the vegan would consume grass pastured or more humane forms of animal protein, so the ecological effect would be a net positive. Or the vegan could throw a dinner party for 6 heavy meat eaters and build up 2 days of animal protein credit at once to be spent at their leisure. You could do this once a week, once a month or once a year. Before I get vegan rage, this is just a thought experiment. Not every vegan or fast food eater will have nutritional deficiencies. But if you do, this is not a bad way to do some nutritional diplomacy with _"the enemy"_. Good idea? ![fast food](./img/2501155494_a944f81017_z.jpg) _[Photo](https://flic.kr/p/4P25oA) by Derek_ ![salad](./img/2329612512_b46cca6e13_z.jpg) _Photo by Harald Walker (no longer on Flickr)_
+My proposal addresses two different groups of people who might have compromised health. The fast food eater that consumes a lot of muscle meat and the strict vegetarian (more likely a vegan). **Each group could benefit the other by swapping roles for a day.** 
+
+An ethical vegan would be able to eat animal protein for a day and still be within their moral guidelines provided they were able to convince a fast food eater to eat vegetarian/vegan for a day. They might even prepare the meals to assure that the fast food eater stays away from animal protein. The fast food person gets a break from meat and loads up on fruits, veggies and legumes. The vegan can now consume some animal protein for a day and shore up any nutritional deficiencies they might have developed.
+
+The impact to the planet is neutral, yet both parties should be nutritionally better off. Actually, I am guessing the vegan would consume grass pastured or more humane forms of animal protein, so the ecological effect would be a net positive. Or the vegan could throw a dinner party for 6 heavy meat eaters and build up 2 days of animal protein credit at once to be spent at their leisure.
+
+You could do this once a week, once a month or once a year. Before I get vegan rage, this is just a thought experiment. Not every vegan or fast food eater will have nutritional deficiencies. But if you do, this is not a bad way to do some nutritional diplomacy with _"the enemy"_.
+
+Good idea?
+
+![fast food](./img/2501155494_a944f81017_z.jpg)
+
+_[Photo](https://flic.kr/p/4P25oA) by Derek_
+
+![salad](./img/2329612512_b46cca6e13_z.jpg)
+
+_Photo by Harald Walker (no longer on Flickr)_
 
 ---
 

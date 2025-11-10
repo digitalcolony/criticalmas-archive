@@ -15,25 +15,35 @@ I am a big fan of [making ferments](https://criticalmas.org/best-of/fermentation
 ### #1 Fear of Mold
 
 
-This is the easiest concern to address and it the one often brought up by those new to the world of fermentation. If veggies are exposed to the open air, they will mold over time. However, if the veggies are submerged underwater and allowed time to ferment mold shouldn't occur. But what sometimes happens is the veggies at the top do become exposed to air and some mold can form. There are a few ways to prevent this. One is to have a weight or croc hold the veggies down so they remain under the liquid. A second approach to periodically push the veggies down during the fermentation period. Worst-case scenario is if you lose the battle to mold, you can always throw out the top inch of veggies and use the rest. And if you are still concerned, use the remaining veggies in a heated soup. You won't get the probiotic benefit, but the food won't go to waste either. Refrigeration is a recent technology when it comes to the history of food preservation. Before it arrived, cultures from all over the world independently figured out how to harness fermentation to preserve veggies post harvest.
+This is the easiest concern to address and it the one often brought up by those new to the world of fermentation. If veggies are exposed to the open air, they will mold over time. However, if the veggies are submerged underwater and allowed time to ferment mold shouldn't occur. But what sometimes happens is the veggies at the top do become exposed to air and some mold can form.
+
+There are a few ways to prevent this. One is to have a weight or croc hold the veggies down so they remain under the liquid. A second approach to periodically push the veggies down during the fermentation period. Worst-case scenario is if you lose the battle to mold, you can always throw out the top inch of veggies and use the rest. And if you are still concerned, use the remaining veggies in a heated soup. You won't get the probiotic benefit, but the food won't go to waste either.
+
+Refrigeration is a recent technology when it comes to the history of food preservation. Before it arrived, cultures from all over the world independently figured out how to harness fermentation to preserve veggies post harvest.
 
 
 ### #2 Hypothyroidism and Goitrogenic Veggies
 
 
-My understanding of this topic is limited, but there are many that state that fermenting cabbage increases goitrogens, which could be issue with people experiencing hypothyroidism. If this is you, do your own research. If you still want to ferment, you can just forgo the cabbage and ferment other veggies. Maybe my [Fermented Carrots and Ginger](/2012/02/fermented-carrots-and-ginger-recipe/) recipe? Problem solved. ![fermented-carrots](./img/fermented-carrots.jpg)
+My understanding of this topic is limited, but there are many that state that fermenting cabbage increases goitrogens, which could be issue with people experiencing hypothyroidism. If this is you, do your own research. If you still want to ferment, you can just forgo the cabbage and ferment other veggies. Maybe my [Fermented Carrots and Ginger](/2012/02/fermented-carrots-and-ginger-recipe/) recipe? Problem solved.
+
+![fermented-carrots](./img/fermented-carrots.jpg)
 
 
 ### #3 Lactic Acid and Inefficient Metabolism
 
 
-The Ray Peat camp of nutrition dislikes fermentation because of the lactic acid and the negative effect it has on metabolism. This is a complicated topic, so I'll refer you to these articles. _A Bioenergic View of High Fat Diets_ by Danny Roddy, [Altitude and Mortality](http://raypeat.com/articles/aging/altitude-mortality.shtml) by Dr. Ray Peat and [Lactate vs. CO2 in wounds, sickness, and aging; the other approach to cancer](http://raypeat.com/articles/articles/lactate.shtml) by Dr. Ray Peat. My quick takeaway is:
+The Ray Peat camp of nutrition dislikes fermentation because of the lactic acid and the negative effect it has on metabolism. This is a complicated topic, so I'll refer you to these articles.
+
+_A Bioenergic View of High Fat Diets_ by Danny Roddy, [Altitude and Mortality](http://raypeat.com/articles/aging/altitude-mortality.shtml) by Dr. Ray Peat and [Lactate vs. CO2 in wounds, sickness, and aging; the other approach to cancer](http://raypeat.com/articles/articles/lactate.shtml) by Dr. Ray Peat. My quick takeaway is:
 
 1.  Fermented foods are rich in lactic acid.
 2.  Excess lactic acid can be stressful for the cells.
 3.  Lactic acid and carbon dioxide have opposing effects. (Lactic acid = bad, CO2 = good)
 
-I have no way of knowing what the quantifiable negative effect of eating a small plate of kimchi or drinking a few ounces of kefir daily has on metabolism. But for this post, let us assume fermented foods are negative for cell metabolism. Other than cutting out fermented foods (ain't going to happen), how can we boost the carbon dioxide side of the equation? The first idea is from Danny's article. Avoid high-fat diets. Other ideas I've read about include consuming [baking soda](http://web.archive.org/web/20150327152158/http://blog.arkofwellness.com/baking-soda/), getting sufficient calcium and supplemental salt. I can do that.
+I have no way of knowing what the quantifiable negative effect of eating a small plate of kimchi or drinking a few ounces of kefir daily has on metabolism. But for this post, let us assume fermented foods are negative for cell metabolism. Other than cutting out fermented foods (ain't going to happen), how can we boost the carbon dioxide side of the equation?
+
+The first idea is from Danny's article. Avoid high-fat diets. Other ideas I've read about include consuming [baking soda](http://web.archive.org/web/20150327152158/http://blog.arkofwellness.com/baking-soda/), getting sufficient calcium and supplemental salt. I can do that.
 
 
 ### #4 Fear of a Toxic Planet
@@ -43,7 +53,9 @@ Dave Asprey (The Bulletproof Exec) wrote [this comment](/2012/06/better-than-bul
 
 > The big question to ask yourself with your kimchee is what species of microbes are present in your ferment. Many fermented veggies are very high in histamine and other biogenic amines, and some species of lacto bacteria actually cause peroxynitrite formation in the gut. We've changed the earth’s biome with excessive spraying of several mutagenic fungicides and the microbes have responded by increasing the number of types of toxins they generate, as all microbes do when stressed.
 
-Of course, I don't know what species are in my kimchi. Almost nobody does. Yet people keep fermenting and they seem to be doing fine. Although I like a lot of what Dave talks about when it comes to fitness and mindfulness, I'm skeptical of his negative opinion of fermented veggies. But for this post, let us assume that those of us making fermented veggies now have mutagenic harmful microbes in our gut flora. And let us assume that we are experiencing no symptoms of discomfort that we can detect. I'm still not concerned, because in a few years the **Human Microbiome Project** will be completed. I discussed this in the post [The Healthy Optimist](/2012/08/the-healthy-optimist/).
+Of course, I don't know what species are in my kimchi. Almost nobody does. Yet people keep fermenting and they seem to be doing fine. Although I like a lot of what Dave talks about when it comes to fitness and mindfulness, I'm skeptical of his negative opinion of fermented veggies.
+
+But for this post, let us assume that those of us making fermented veggies now have mutagenic harmful microbes in our gut flora. And let us assume that we are experiencing no symptoms of discomfort that we can detect. I'm still not concerned, because in a few years the **Human Microbiome Project** will be completed. I discussed this in the post [The Healthy Optimist](/2012/08/the-healthy-optimist/).
 
 > There are 100 trillion bacteria in your body. What it is made up of is still a mystery, but not for long. [The Human Microbiome Project](https://en.wikipedia.org/wiki/Human_Microbiome_Project) is a 5 year project where the goal is to sequence all that data.
 

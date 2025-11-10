@@ -9,7 +9,15 @@ description: "I wanted to learn more about personal branding, so I read this boo
 commentCount: 5
 ---
 
-I wanted to learn more about personal branding, so I read this book. ![Me 2.0: Build a Powerful Brand to Achieve Career Success](https://images-na.ssl-images-amazon.com/images/I/51ZD0VmtMhL.jpg) Me 2.0: Build a Powerful Brand to Achieve Career Success by Dan Schawbel is about personal branding for the Millennial generation. Yeah, I am Generation X, so I knew going into this book that I wasn't the target audience. The last time I read a book that focused on the Millennial generation, I gave a [scathing review](/2009/03/grown-up-digital-is-an-awful-book/). Fortunately Me 2.0 provides solid advice in a friendly conversational writing style. Because of my branding problems with Coffee Hero and this site, I wanted to take a step back and reassess things. This book helped me do that, but I fully expect this to be an ongoing process. Me 2.0 begins with a Brand Discovery process that I found very helpful. The second half covers more of how to execute that brand strategy. Even though Me 2.0 is directly speaking to the Millennial generation, I think most of the advice can transcend generations, especially if you are currently out of work and need to re-brand yourself in a competitive job market. One of the exercises in the book is to ask this question to friends and co-workers:
+I wanted to learn more about personal branding, so I read this book.
+
+![Me 2.0: Build a Powerful Brand to Achieve Career Success](https://images-na.ssl-images-amazon.com/images/I/51ZD0VmtMhL.jpg) Me 2.0: Build a Powerful Brand to Achieve Career Success by Dan Schawbel is about personal branding for the Millennial generation. Yeah, I am Generation X, so I knew going into this book that I wasn't the target audience. The last time I read a book that focused on the Millennial generation, I gave a [scathing review](/2009/03/grown-up-digital-is-an-awful-book/).
+
+Fortunately Me 2.0 provides solid advice in a friendly conversational writing style. Because of my branding problems with Coffee Hero and this site, I wanted to take a step back and reassess things. This book helped me do that, but I fully expect this to be an ongoing process. Me 2.0 begins with a Brand Discovery process that I found very helpful. The second half covers more of how to execute that brand strategy.
+
+Even though Me 2.0 is directly speaking to the Millennial generation, I think most of the advice can transcend generations, especially if you are currently out of work and need to re-brand yourself in a competitive job market.
+
+One of the exercises in the book is to ask this question to friends and co-workers:
 
 > What are the top 5 personality attributes others use to describe me?
 

@@ -9,7 +9,9 @@ description: "My coffee site, INeedCoffee, needed a better search engine. I ha
 commentCount: 5
 ---
 
-My coffee site, [INeedCoffee,](https://ineedcoffee.com/) needed a better search engine. I had thrown some basic SQL together when the site was launched back in 1999. It did an OK job when the site didn’t have much content. Over the years, the quality of search results has deteriorated. So I did what any coder would do: I looked for a free solution. Google did a better job searching my site than my own code, so I looked at their _Google Custom Search_ solution. I didn’t like their free ad version, and I didn’t want to pay them $100 each and every year for the non-ad version. I decided that not only could I write my own search engine that was just as fast, but I could also deliver better results to the users. After all, I knew my content better than anyone else.
+My coffee site, [INeedCoffee,](https://ineedcoffee.com/) needed a better search engine. I had thrown some basic SQL together when the site was launched back in 1999. It did an OK job when the site didn’t have much content. Over the years, the quality of search results has deteriorated. So I did what any coder would do: I looked for a free solution.
+
+Google did a better job searching my site than my own code, so I looked at their _Google Custom Search_ solution. I didn’t like their free ad version, and I didn’t want to pay them $100 each and every year for the non-ad version. I decided that not only could I write my own search engine that was just as fast, but I could also deliver better results to the users. After all, I knew my content better than anyone else.
 
 
 ### Assigning a Quality Score
@@ -76,11 +78,11 @@ The most straightforward approach I could think of for getting search results wa
 
 DECLARE ContentCursor CURSOR FAST\_FORWARD FOR
 SELECT url, title, longDesc, quality, page
-FROM Articles 
+FROM Articles
 
 DECLARE SearchWordCursor CURSOR DYNAMIC FOR
 SELECT word, position FROM #searchWords
-OPEN SearchWordCursor 
+OPEN SearchWordCursor
 
 OPEN ContentCursor
 FETCH NEXT FROM ContentCursor 
@@ -111,9 +113,9 @@ BEGIN
         BEGIN
             INSERT INTO #searchResults 
             VALUES (@url, @title, @longDesc, @quality, @score)
-        END                    
+        END
 
-        FETCH NEXT FROM SearchWordCursor 
+FETCH NEXT FROM SearchWordCursor 
         INTO @word, @position
     END
     FETCH NEXT FROM ContentCursor 
@@ -130,7 +132,9 @@ DEALLOCATE SearchWordCursor
 ### Working With the Results
 
 
-Before dropping both temp tables, here is the query used to return the search results. If you look at the SQL above, you will see that it is possible (likely) that a search hit will take place on both the title and the page content. I ran some tests and determined that a search hit against a word in the title was 10 times more important than the content, so I multiply the score by ten if there is a title match. I use a GROUP BY clause in the SQL to flatten the results. Then, the results are returned in order of highest to lowest scores.
+Before dropping both temp tables, here is the query used to return the search results. If you look at the SQL above, you will see that it is possible (likely) that a search hit will take place on both the title and the page content. I ran some tests and determined that a search hit against a word in the title was 10 times more important than the content, so I multiply the score by ten if there is a title match.
+
+I use a GROUP BY clause in the SQL to flatten the results. Then, the results are returned in order of highest to lowest scores.
 
 SELECT TOP 20 S.url, S.title, S.longDesc, 
       S.quality, SUM(S.score) AS Score
@@ -148,7 +152,9 @@ I ran numerous tests comparing my search engine to Google. My hand-coded INeedCo
 ### Code
 
 
-All the above code is available on [GitHub](https://github.com/digitalcolony/sql-server-search-engine). \* _https://stackoverflow.com/questions/2647/how-do-i-split-a-string-so-i-can-access-item-x/2681#2681_
+All the above code is available on [GitHub](https://github.com/digitalcolony/sql-server-search-engine).
+
+\* _https://stackoverflow.com/questions/2647/how-do-i-split-a-string-so-i-can-access-item-x/2681#2681_
 
 ---
 

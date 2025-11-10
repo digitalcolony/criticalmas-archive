@@ -9,7 +9,15 @@ description: "Yesterday I cooked up some ground pork and cabbage. This is a low 
 commentCount: 11
 ---
 
-Yesterday I cooked up some ground pork and cabbage. This is a low carb twist on a classic Irish dish that uses potatoes. If you just got back from lifting weights at the gym, add the potatoes back into the recipe. Otherwise proceed as described. Before I get to the recipe, I want to discuss the economics of this recipe. The pound of ground pork came from local pastured farm and cost me just $4. All the veggies and spices combined cost about $1.50. The total cost of this dish was $5.50 and it made 3 servings. **That works out to less than $2 a serving.** I could have added more onions or even potatoes if I wanted to stretch out the servings for even greater value. Whenever the media reports that poor people can't afford to eat healthy, I just shake my head in frustration. They are repeating the same old disempowering message, which is simply not true. **Summary**: _A low-carb twist on a classic Irish dish._ ![ground-pork](./img/ground-pork.jpg)
+Yesterday I cooked up some ground pork and cabbage. This is a low carb twist on a classic Irish dish that uses potatoes. If you just got back from lifting weights at the gym, add the potatoes back into the recipe. Otherwise proceed as described.
+
+Before I get to the recipe, I want to discuss the economics of this recipe. The pound of ground pork came from local pastured farm and cost me just $4. All the veggies and spices combined cost about $1.50. The total cost of this dish was $5.50 and it made 3 servings. **That works out to less than $2 a serving.** I could have added more onions or even potatoes if I wanted to stretch out the servings for even greater value.
+
+Whenever the media reports that poor people can't afford to eat healthy, I just shake my head in frustration. They are repeating the same old disempowering message, which is simply not true.
+
+**Summary**: _A low-carb twist on a classic Irish dish._
+
+![ground-pork](./img/ground-pork.jpg)
 
 
 #### Ingredients

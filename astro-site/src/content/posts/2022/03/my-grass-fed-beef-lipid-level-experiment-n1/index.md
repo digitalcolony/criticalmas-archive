@@ -9,7 +9,17 @@ description: "In July 2020, I posted how was able to optimize my Lipid Levels in
 commentCount: 19
 ---
 
-In July 2020, I posted how was able to optimize my Lipid Levels in [Lipid Levels on 2 (mostly) Pesco-Vegan Meals a Day](/2020/07/lipid-levels-on-2-mostly-pesco-vegan-meals-a-day/). You can go to the post for the raw numbers, but the short version is my numbers went from OK to Optimal when I decreased my meat consumption. I haven't talked about this, but at the beginning of last summer, I did a bunch of Zoomer food sensitivity tests. The results indicated that I had a leaky gut. I had both known food sensitivity issues (gluten) and a few I didn't know about. The ones I didn't know about were not strong signals. I was advised to follow an elimination diet for a few months. Let my gut heal and then slowly introduce the foods (except gluten). For the last 5 months of 2021, I avoided nightshades, dairy, eggs, soy, most legumes (except lentils), spinach, buckwheat, quinoa, brown rice, peanuts, almonds, walnuts, seaweed, and avocados. Some of these restrictions were specific to the results of my Zoomer tests. The foods listed above were some of the staples I used to lean out on my [Peasant Diet](/2022/02/food-inflation-is-not-a-concern-on-the-peasant-diet/). No potatoes! 😱 With all these foods removed, I needed a source of calories, so I added more meat. Specifically, I added grass-fed beef. I had some organic chicken, but the majority was beef. This year, I slowly reintroduced all the foods except gluten, buckwheat, and almonds with no issues. I also got a new Lipid Panel.
+In July 2020, I posted how was able to optimize my Lipid Levels in [Lipid Levels on 2 (mostly) Pesco-Vegan Meals a Day](/2020/07/lipid-levels-on-2-mostly-pesco-vegan-meals-a-day/). You can go to the post for the raw numbers, but the short version is my numbers went from OK to Optimal when I decreased my meat consumption.
+
+I haven't talked about this, but at the beginning of last summer, I did a bunch of Zoomer food sensitivity tests. The results indicated that I had a leaky gut. I had both known food sensitivity issues (gluten) and a few I didn't know about. The ones I didn't know about were not strong signals. I was advised to follow an elimination diet for a few months. Let my gut heal and then slowly introduce the foods (except gluten).
+
+For the last 5 months of 2021, I avoided nightshades, dairy, eggs, soy, most legumes (except lentils), spinach, buckwheat, quinoa, brown rice, peanuts, almonds, walnuts, seaweed, and avocados. Some of these restrictions were specific to the results of my Zoomer tests.
+
+The foods listed above were some of the staples I used to lean out on my [Peasant Diet](/2022/02/food-inflation-is-not-a-concern-on-the-peasant-diet/). No potatoes! 😱
+
+With all these foods removed, I needed a source of calories, so I added more meat. Specifically, I added grass-fed beef. I had some organic chicken, but the majority was beef.
+
+This year, I slowly reintroduced all the foods except gluten, buckwheat, and almonds with no issues. I also got a new Lipid Panel.
 
 
 ### ![💻](https://s.w.org/images/core/emoji/13.1.0/svg/1f4bb.svg) Let’s See the New Numbers!
@@ -69,7 +79,9 @@ Two of the metrics moved in better directions (mildly), while the others got not
 ### 🗣 Discussion
 
 
-For more than a decade now, I've been a witness to the Lipid debates between the Paleo + Weston Price groups and Mainstream + Vegan advice. And as I've said before, there are very smart people on both sides of the argument. I need to parse out what is best for me and separate the good arguments from the bad. Here are some arguments I've heard defending a higher meat diet from those proponents and how they relate to me.
+For more than a decade now, I've been a witness to the Lipid debates between the Paleo + Weston Price groups and Mainstream + Vegan advice. And as I've said before, there are very smart people on both sides of the argument. I need to parse out what is best for me and separate the good arguments from the bad.
+
+Here are some arguments I've heard defending a higher meat diet from those proponents and how they relate to me.
 
 
 ##### People that eat a lot of meat also eat a lot of processed foods.
@@ -87,7 +99,9 @@ I have been weight stable for a few years now at about 15% body fat. My activity
 ##### Grass-Fed Organic meat doesn't impact lipid panels like conventional meat.
 
 
-As stated above, I consumed grass-fed organic meat during this period. Because my diet was so restrictive, I cooked almost every meal myself during the meat phase. I used low-temperature cooking too (in liquid or pressure cooker). I consumed no processed meat and no pork.
+As stated above, I consumed grass-fed organic meat during this period. Because my diet was so restrictive, I cooked almost every meal myself during the meat phase. I used low-temperature cooking too (in liquid or pressure cooker).
+
+I consumed no processed meat and no pork.
 
 
 ##### Lipid Panel numbers are not important. Just look at the TG: HDL Ratio and the Hemoglobin A1c.
@@ -99,13 +113,21 @@ If this is true, then I'm in a better position than the top levels numbers look.
 ##### It is all genetics.
 
 
-According to 23 and Me, I am likely to weigh more on a diet high in saturated fat. I'm not sure this is relevant to this discussion though, as my weight was constant on both diets. Also, it doesn't speak directly to heart health. ![cow pasture](./img/cow-pasture.jpg) _by Edwin Austin Abbey_
+According to 23 and Me, I am likely to weigh more on a diet high in saturated fat. I'm not sure this is relevant to this discussion though, as my weight was constant on both diets. Also, it doesn't speak directly to heart health.
+
+![cow pasture](./img/cow-pasture.jpg)
+
+_by Edwin Austin Abbey_
 
 
 ### 🏃🏼‍♂️ Going Forward
 
 
-To me, it looks like I did better when I had more legumes than beef. I've already reduced my beef intake by about 70%. I'll continue to add grass-fed organic extra-lean ground beef to my mostly veggie soups. It is also possible that the numbers that got worse could have been as a result of the removal of healthy foods (legumes, quinoa) and not the addition of more meat. 🤔 Let me know if my interpretation of these numbers is correct. Your feedback is appreciated. I trust the commenters on my blog more than whatever doctor-of-the-month Kaiser has assigned to me.
+To me, it looks like I did better when I had more legumes than beef. I've already reduced my beef intake by about 70%. I'll continue to add grass-fed organic extra-lean ground beef to my mostly veggie soups.
+
+It is also possible that the numbers that got worse could have been as a result of the removal of healthy foods (legumes, quinoa) and not the addition of more meat. 🤔
+
+Let me know if my interpretation of these numbers is correct. Your feedback is appreciated. I trust the commenters on my blog more than whatever doctor-of-the-month Kaiser has assigned to me.
 
 ---
 

@@ -15,7 +15,9 @@ Probably the most asked question to me about making kimchi or sauerkraut is abou
 ### 1/2 Tablespoon Salt Per Pound of Vegetables
 
 
-I met someone who attended a fermentation competition. While he was there he chatted up a lot of the competitors and tasted their recipes. He shared with me that the most common salt ratio used today is 1/2 tablespoon per pound of vegetables. This is lower than what it was just years ago. I like this ratio as a starting point and I never go lower, because the result lacks the flavor and texture I enjoy. If you are salt sensitive, by all means, go lower. There are a few cases where I will increase this salt ratio.
+I met someone who attended a fermentation competition. While he was there he chatted up a lot of the competitors and tasted their recipes. He shared with me that the most common salt ratio used today is 1/2 tablespoon per pound of vegetables. This is lower than what it was just years ago. I like this ratio as a starting point and I never go lower, because the result lacks the flavor and texture I enjoy. If you are salt sensitive, by all means, go lower.
+
+There are a few cases where I will increase this salt ratio.
 
 1.  **Spicier** - I've made [kimchi](/2011/03/kimchi-101/) over 100 times. When I was trying to increase the heat, I kept adding more Korean red pepper flakes but it didn't seem to stay on my tongue. The spiciness of the kimchi was disappearing too fast. When I increased the salt level from 1/2 to 3/4 Tablespoon per pound, I found I could use fewer Korean red pepper flakes for the spicy level that was more consistent. If you want your ferment to hold the heat better, my advice is to slightly increase the salt level.
 2.  **Warm Kitchen** - Once summer hits and our fermenting environment gets warm, I like to increase the salt level. This will slow down the ferment and allow more flavor to develop. It never gets too hot in Seattle, so my upper limit in August is 3/4 Tablespoon per pound. Play with this ratio and dial in what works best for you.
@@ -26,7 +28,11 @@ I met someone who attended a fermentation competition. While he was there he cha
 ### Impatient?
 
 
-If you want the benefits of higher salt levels, but are impatient and want to speed up your ferments, the trick is to add anti-microbial ingredients. Garlic, ginger, peppers, and especially [dill](/2011/07/dill-and-caraway-sauerkraut/) will increase the speed of the ferment. At the same salt level, I've taken 4 weeks to make sauerkraut using juniper berries and only 6 days using dill. ![bucket-ferments](./img/bucket-ferments.jpg) _Making some ferments._
+If you want the benefits of higher salt levels, but are impatient and want to speed up your ferments, the trick is to add anti-microbial ingredients. Garlic, ginger, peppers, and especially [dill](/2011/07/dill-and-caraway-sauerkraut/) will increase the speed of the ferment. At the same salt level, I've taken 4 weeks to make sauerkraut using juniper berries and only 6 days using dill.
+
+![bucket-ferments](./img/bucket-ferments.jpg)
+
+_Making some ferments._
 
 ---
 

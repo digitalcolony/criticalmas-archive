@@ -9,7 +9,13 @@ description: "This recipe was originally published in June 2011. It was updated 
 commentCount: 14
 ---
 
-_This recipe was originally published in June 2011. It was updated in March 2022._ Here is my go-to recipe when I want something sweet. It is Almond Butter Cookies made without any grains or dairy. ![almond-butter-cookies](./img/almond-butter-cookies.jpg) _Almond butter cookies without grain or dairy_
+_This recipe was originally published in June 2011. It was updated in March 2022._
+
+Here is my go-to recipe when I want something sweet. It is Almond Butter Cookies made without any grains or dairy.
+
+![almond-butter-cookies](./img/almond-butter-cookies.jpg)
+
+_Almond butter cookies without grain or dairy_
 
 
 ### Ingredients
@@ -31,7 +37,13 @@ _This recipe was originally published in June 2011. It was updated in March 2022
 4.  Once the oven is ready, cook for 12 to 14 minutes. All ovens are different.
 5.  Let cookies cool for at least 10 minutes.
 
-That is it. This is a super simple recipe that is hard to screw up. You can add chocolate chips if you like, I found they dominate the almond butter flavor. You can also add cinnamon, but anything more than 1/4 teaspoon will make the cookies taste too much like cinnamon cookies. The original recipes did not use salt and had less sugar. In baking, I learned that sugar not only provides sweetness but helps baked items retain moisture. The result is the cookies are a little less dry and crumbly now. The salt accents the flavor and is considered an essential tool for baking. ![almond butter cookies](./img/51935432606_36a183ce8c_c.jpg) _2022 Almond Butter Cookies_
+That is it. This is a super simple recipe that is hard to screw up. You can add chocolate chips if you like, I found they dominate the almond butter flavor. You can also add cinnamon, but anything more than 1/4 teaspoon will make the cookies taste too much like cinnamon cookies.
+
+The original recipes did not use salt and had less sugar. In baking, I learned that sugar not only provides sweetness but helps baked items retain moisture. The result is the cookies are a little less dry and crumbly now. The salt accents the flavor and is considered an essential tool for baking.
+
+![almond butter cookies](./img/51935432606_36a183ce8c_c.jpg)
+
+_2022 Almond Butter Cookies_
 
 ---
 

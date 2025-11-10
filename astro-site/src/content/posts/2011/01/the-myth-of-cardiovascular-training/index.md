@@ -14,7 +14,19 @@ In a [previous post](/2008/10/why-do-i-diss-cardio/), I stated there were only t
 > 1.  Endurance training.
 > 2.  Fat loss.
 
-Sport-specific endurance training makes sense. For fat loss, cardio is the least effective strategy. Someone told me that I forgot to include the third reason, which is cardiovascular fitness. My opinion is that steady-state aerobics is absolutely not necessary for cardiovascular fitness. Not smoking and brief high-intensity weight lifting are all you need for a healthy heart. ![](https://farm5.static.flickr.com/4027/5143865454_3b4875cb93.jpg "heart") _[Photo](https://www.flickr.com/photos/kayveeinc/5143865454/in/photostream/) by KayVee.INC_ When I was in college I ran two [sub-4 hour marathons](/2008/03/the-runner-1989-1995/) and had a resting heart rate in the 50s. Since the late 90s, I haven't run at all. Not a single block. I go for [long and short walks](https://criticalmas.org/best-of/urban-hiking/) plus I lift weights. I only lift weights 1 or 2 times a week and then for less than 30 minutes. **I haven't broken a sweat exercising in many years.** Even though I am older and exercise far less than I used to, I am in the best shape of my life and **my resting heart rate is still in the 50s**. How is this possible? People tend to make the mistake of treating the human body like a machine. Whereas a machine will have an optimal operating environment, for survival purposes a human being must be able to perform across a wide range of energy demands. Nature is not static, nor is it linear. **In nature, the duration and intensity of movement are highly varied with a bias toward energy conservation.** Steady-state aerobics violates these principles. A healthy human heart has a varied beat. Back when I was a runner I bought a heart rate monitor. I was young and dumb. Although the heart rate monitor was a useless training tool, I did learn something by wearing it. When running for distance, your heart rate will fall into a narrow zone. The variations disappear. This is not healthy. Art De Vany in his [podcast interview](https://www.econtalk.org/de-vany-on-steroids-baseball-and-evolutionary-fitness/) with Russ Roberts explained how a varied heartbeat is essential for cardiovascular health.
+Sport-specific endurance training makes sense. For fat loss, cardio is the least effective strategy. Someone told me that I forgot to include the third reason, which is cardiovascular fitness. My opinion is that steady-state aerobics is absolutely not necessary for cardiovascular fitness. Not smoking and brief high-intensity weight lifting are all you need for a healthy heart.
+
+![](https://farm5.static.flickr.com/4027/5143865454_3b4875cb93.jpg "heart")
+
+_[Photo](https://www.flickr.com/photos/kayveeinc/5143865454/in/photostream/) by KayVee.INC_
+
+When I was in college I ran two [sub-4 hour marathons](/2008/03/the-runner-1989-1995/) and had a resting heart rate in the 50s. Since the late 90s, I haven't run at all. Not a single block. I go for [long and short walks](https://criticalmas.org/best-of/urban-hiking/) plus I lift weights. I only lift weights 1 or 2 times a week and then for less than 30 minutes. **I haven't broken a sweat exercising in many years.** Even though I am older and exercise far less than I used to, I am in the best shape of my life and **my resting heart rate is still in the 50s**.
+
+How is this possible? People tend to make the mistake of treating the human body like a machine. Whereas a machine will have an optimal operating environment, for survival purposes a human being must be able to perform across a wide range of energy demands. Nature is not static, nor is it linear. **In nature, the duration and intensity of movement are highly varied with a bias toward energy conservation.** Steady-state aerobics violates these principles.
+
+A healthy human heart has a varied beat. Back when I was a runner I bought a heart rate monitor. I was young and dumb. Although the heart rate monitor was a useless training tool, I did learn something by wearing it. When running for distance, your heart rate will fall into a narrow zone. The variations disappear. This is not healthy.
+
+Art De Vany in his [podcast interview](https://www.econtalk.org/de-vany-on-steroids-baseball-and-evolutionary-fitness/) with Russ Roberts explained how a varied heartbeat is essential for cardiovascular health.
 
 > Human heartbeat somewhat chaotic--a lot of different controllers acting on it simultaneously; it's a lot of feedback loops and controllers affecting it. Fractal heartbeat is a sign of an adaptive, complex dynamics within the heart; makes it resistant to shock and to stress. **If you jog excessively, you train the chaos out of your heartbeat--it becomes a metronome.** The two forms of death from heart failure are, one, too little chaos in the heart, and two, too much randomness--not chaos but white noise.
 
@@ -22,7 +34,13 @@ A common mistake is believing that resistance training does not provide cardiova
 
 > Cardiovascular benefits have also been observed from resistance training, such as improvements in peak oxygen uptake, stroke volume, and cardiac output ([12](https://pubmed.ncbi.nlm.nih.gov/2017011/)). An additional benefit for cardiac rehabilitation patients is the efficacy of resistance training in improving cardiovascular disease risk factors such as hypertension, dyslipidemia, and insulin sensitivity.
 
-The belief that one could isolate and train just the aerobic pathway originated in the mid-1960s by Dr. Kenneth Cooper. Even though science has since proven that this is impossible, gyms and trainers keep the myth alive that you need to do more cardio. It is not necessary and potentially harmful. Want a healthy heart? Get off the treadmill. Focus on brief periods of intensity and not duration. Embrace variety in movement and energy demand and reject fixed movement steady-state exercises. UPDATE 2018: [Understanding My Bias Against Cardio](/2018/10/understanding-my-bias-against-cardio/) UPDATE 2019: [👨‍⚖️Rendering a Verdict on Cardio](/2019/07/rendering-a-verdict-on-cardio/)
+The belief that one could isolate and train just the aerobic pathway originated in the mid-1960s by Dr. Kenneth Cooper. Even though science has since proven that this is impossible, gyms and trainers keep the myth alive that you need to do more cardio. It is not necessary and potentially harmful.
+
+Want a healthy heart? Get off the treadmill. Focus on brief periods of intensity and not duration. Embrace variety in movement and energy demand and reject fixed movement steady-state exercises.
+
+UPDATE 2018: [Understanding My Bias Against Cardio](/2018/10/understanding-my-bias-against-cardio/)
+
+UPDATE 2019: [👨‍⚖️Rendering a Verdict on Cardio](/2019/07/rendering-a-verdict-on-cardio/)
 
 ---
 

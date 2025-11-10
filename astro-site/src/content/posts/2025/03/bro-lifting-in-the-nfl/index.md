@@ -8,11 +8,19 @@ description: "Tim Ferriss recently had an excellent show related to injuries and
 commentCount: 6
 ---
 
-Tim Ferriss recently had an excellent show related to injuries and recovery. [_Dr. Keith Baar, UC Davis — Simple Exercises That Can Repair Tendons (Tennis Elbow, etc.), Collagen Fact vs. Fiction, Isometrics vs. Eccentrics, JAK Inhibitors, Growth Hormone vs. IGF-1, The Anti-RICE Protocol, and How to Use Load as an Anti-Inflammatory (#797)._](https://tim.blog/2025/02/26/dr-keith-baar/) Although much of the podcast focused on practical methods for using isometric loads to enhance strength and speed up injury recovery, Dr. Baar shared an insightful observation about NFL players, highlighting their approach to strength training and risk management.
+Tim Ferriss recently had an excellent show related to injuries and recovery.
 
-> I’ve done lots of NFL consulting, and I always go into the weight room and I always see the rookies and the second-year players are over in the squat racks doing all kinds of dynamic movements. All pro veterans, they’re all over in the machines because they know that those machines are going to keep them healthy. Those machines are going to get them that $30 million contract. Yeah, you might get a half a step faster by being over there, but for the veteran, they know that if they’re available for 16 games of the year, they’re going to get their next contract because they’re going to perform at a high level.
+[_Dr. Keith Baar, UC Davis — Simple Exercises That Can Repair Tendons (Tennis Elbow, etc.), Collagen Fact vs. Fiction, Isometrics vs. Eccentrics, JAK Inhibitors, Growth Hormone vs. IGF-1, The Anti-RICE Protocol, and How to Use Load as an Anti-Inflammatory (#797)._](https://tim.blog/2025/02/26/dr-keith-baar/)
 
-Sorry bros. Even the NFL doesn't believe you MUST SQUAT to be strong and elite. Minimizing injury risk is the path to a longer career. ![](./img/must-squat.jpg)
+Although much of the podcast focused on practical methods for using isometric loads to enhance strength and speed up injury recovery, Dr. Baar shared an insightful observation about NFL players, highlighting their approach to strength training and risk management.
+
+> I’ve done lots of NFL consulting, and I always go into the weight room and I always see the rookies and the second-year players are over in the squat racks doing all kinds of dynamic movements. All pro veterans, they’re all over in the machines because they know that those machines are going to keep them healthy. Those machines are going to get them that $30 million contract.
+> 
+> Yeah, you might get a half a step faster by being over there, but for the veteran, they know that if they’re available for 16 games of the year, they’re going to get their next contract because they’re going to perform at a high level.
+
+Sorry bros. Even the NFL doesn't believe you MUST SQUAT to be strong and elite. Minimizing injury risk is the path to a longer career.
+
+![](./img/must-squat.jpg)
 
 ---
 

@@ -9,37 +9,55 @@ description: "It had been several months since I saw my friend. She looked at me
 commentCount: 13
 ---
 
-It had been several months since I saw my friend. She looked at me and asked if I got taller. Another friend a few weeks before that commented that my posture looked better. Improving my posture has always been a second-tier health goal of mine. I'll get excited to try something and then a few weeks later, I'm off on some other goal. It is my belief that if we have to consciously make corrections all day long to our posture that we just get burned out and give up over time. For a positive posture change to occur that would be lasting, there needed to be a way that didn't require constantly thinking about it. Last year, I listened to the audiobook _Life Force: How New Breakthroughs in Precision Medicine Can Transform the Quality of Your Life & Those You Love_ by Tony Robbins and Peter H. Diamandis. Most of the book is dedicated to health technology breakthroughs that are either coming soon or are available now for wealthy individuals. But there was one thing Robbins talked about that grabbed my immediate interest - a back stretcher.
+It had been several months since I saw my friend. She looked at me and asked if I got taller. Another friend a few weeks before that commented that my posture looked better.
+
+Improving my posture has always been a second-tier health goal of mine. I'll get excited to try something and then a few weeks later, I'm off on some other goal. It is my belief that if we have to consciously make corrections all day long to our posture that we just get burned out and give up over time. For a positive posture change to occur that would be lasting, there needed to be a way that didn't require constantly thinking about it.
+
+Last year, I listened to the audiobook _Life Force: How New Breakthroughs in Precision Medicine Can Transform the Quality of Your Life & Those You Love_ by Tony Robbins and Peter H. Diamandis. Most of the book is dedicated to health technology breakthroughs that are either coming soon or are available now for wealthy individuals. But there was one thing Robbins talked about that grabbed my immediate interest - a back stretcher.
 
 
 ### #1 Back Stretcher
 
 
-Robbins mentioned the Backbridge, which is a device for stretching your back. Use it a few minutes a day, twice a day. I didn't drop the $140 on the device and instead found a $15 substitute on Amazon by Moocoo. ![](./img/back-stretcher.jpg) The back stretcher has 3 settings. I started on Level 1 and at first it was challenging to hold the stretch for a few minutes, but I kept at it twice a day for weeks. Then I moved to Level 2 for a while and now I'm at Level 3. Level 3 is now effortless for me, so I only use it a few times a week. This product works.
+Robbins mentioned the Backbridge, which is a device for stretching your back. Use it a few minutes a day, twice a day. I didn't drop the $140 on the device and instead found a $15 substitute on Amazon by Moocoo.
+
+![](./img/back-stretcher.jpg)
+
+The back stretcher has 3 settings. I started on Level 1 and at first it was challenging to hold the stretch for a few minutes, but I kept at it twice a day for weeks. Then I moved to Level 2 for a while and now I'm at Level 3. Level 3 is now effortless for me, so I only use it a few times a week. This product works.
 
 
 ### #2 Shoulder Hangs
 
 
-About 3 months ago, I started seeing content related to Shoulder Hangs (aka Bar Hangs). I started with 30 seconds for a few weeks and then gradually increased the hang to a minute. I do them every single day. I can feel my upper back and shoulders open up. It is an amazing stretch. If you don't have access to a bar, there are yoga poses that will help. Puppy pose, sphinx, and "thread the needle" come to mind. I do all these - and more - daily.
+About 3 months ago, I started seeing content related to Shoulder Hangs (aka Bar Hangs). I started with 30 seconds for a few weeks and then gradually increased the hang to a minute. I do them every single day. I can feel my upper back and shoulders open up. It is an amazing stretch.
+
+If you don't have access to a bar, there are yoga poses that will help. Puppy pose, sphinx, and "thread the needle" come to mind. I do all these - and more - daily.
 
 
 ### #3 Pushups and Yoga Blocks
 
 
-When I first committed to doing yoga every day, starting in October 2021, one of the courses on Amazon Prime recommended yoga blocks. I used them for a few classes initially, but after a while, I didn't need them. Then one morning my wrists were sore and I got the idea to use the blocks to relieve the pressure on my wrists when I did pushups. That worked great and it also allowed me to do a deeper pushup that stretched my chest better. Accidental win. An alternative move would be the Corner Pectoral Stretch, which I sometimes do as well.
+When I first committed to doing yoga every day, starting in October 2021, one of the courses on Amazon Prime recommended yoga blocks. I used them for a few classes initially, but after a while, I didn't need them.
+
+Then one morning my wrists were sore and I got the idea to use the blocks to relieve the pressure on my wrists when I did pushups. That worked great and it also allowed me to do a deeper pushup that stretched my chest better. Accidental win.
+
+An alternative move would be the Corner Pectoral Stretch, which I sometimes do as well.
 
 
 ### Last Words
 
 
-Although I know yoga itself has helped with my posture, the big posture gains recently came from the back stretcher, shoulder hangs, and deep pushups. I don't think my posture has ever been better. It is not perfect, but it is improving. And the best part is that I don't have to think about it.
+Although I know yoga itself has helped with my posture, the big posture gains recently came from the back stretcher, shoulder hangs, and deep pushups.
+
+I don't think my posture has ever been better. It is not perfect, but it is improving. And the best part is that I don't have to think about it.
 
 
 ### (Update June 18) #4 Broomstick
 
 
-I missed a block of text when I published this post last week. Another tool I use daily for posture help is a wooden broomstick that I purchased from the garden center at Home Depot. I use it for shoulder mobility. There are numerous tutorials online. I use it first thing in the morning and a few times throughout the day. I would rank this as powerful as the back stretcher and the shoulder hangs.
+I missed a block of text when I published this post last week. Another tool I use daily for posture help is a wooden broomstick that I purchased from the garden center at Home Depot.
+
+I use it for shoulder mobility. There are numerous tutorials online. I use it first thing in the morning and a few times throughout the day. I would rank this as powerful as the back stretcher and the shoulder hangs.
 
 ---
 

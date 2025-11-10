@@ -15,7 +15,15 @@ This week I made the recipe [Unbelievable Crockpot Apple/Onion Pork Butt](http:/
 -   1 onion = $0.40
 -   1/2 can of apple juice concentrate = $0.75
 
-Total cost was $6.91 and it made 4 meals for an average meal cost of $1.73. The time it took to chop the onion, load the crock pot with pork butt and top off with apple juice was 10 minutes. I prepped the meal mid-morning and it was ready by evening. It doesn't get much easier than that. ![pork-butt](./img/pork-butt.jpg) ![pork-butt-cook](./img/pork-butt-cook.jpg) _Seems I didn't take a photo once it was finished cooking._ Even though I liked this recipe, I prefer using BBQ sauce to apple juice. I used conventional pork for this recipe. Had I ordered ahead of time and got pastured pork, the price would have been $4.59/lb. This works out to $13.81 for the entire crock pot or $3.45 per meal. Still cheap.
+Total cost was $6.91 and it made 4 meals for an average meal cost of $1.73. The time it took to chop the onion, load the crock pot with pork butt and top off with apple juice was 10 minutes. I prepped the meal mid-morning and it was ready by evening. It doesn't get much easier than that.
+
+![pork-butt](./img/pork-butt.jpg)
+
+![pork-butt-cook](./img/pork-butt-cook.jpg)
+
+_Seems I didn't take a photo once it was finished cooking._
+
+Even though I liked this recipe, I prefer using BBQ sauce to apple juice. I used conventional pork for this recipe. Had I ordered ahead of time and got pastured pork, the price would have been $4.59/lb. This works out to $13.81 for the entire crock pot or $3.45 per meal. Still cheap.
 
 ---
 

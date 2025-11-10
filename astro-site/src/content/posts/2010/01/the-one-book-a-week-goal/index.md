@@ -9,7 +9,15 @@ description: "My pal Stuart over at Brainmower announced he was setting a goal t
 commentCount: 3
 ---
 
-My pal Stuart over at _Brainmower_ announced he was setting a goal to read one book each week in 2010. This is an admirable goal, which I completed in 2008 when I read [60 books](/2008/12/best-books-of-2008/) that year. However, in 2009 I read just 30 books. Guess I slacked off? Or maybe number of books isn't the best metric to use to measure reading. ![](http://farm4.static.flickr.com/3035/2868288357_d30bea71eb.jpg "Iqra: Read") _Photo [Iqra: Read](http://www.flickr.com/photos/swamibu/2868288357/) by Swamibu_ Last year I read [Guns Germs and Steel](/2009/06/guns-germs-and-steel/) (512 pages), [Collapse](/2009/07/collapse-were-doomed/) (575 pages) and [Good Calories, Bad Calories](/2009/12/good-calories-bad-calories-is-the-best-book-ever-written-on-nutrition/) (640 pages). When I had the _1-book-a-week_ goal, I read quite a few books that were less than 250 pages. It helped me reach my goal, but I never would have tackled _Good Calories, Bad Calories_ in 2008. So the trick to meeting the _1-book-a-week_ goal for the first time is load up on short books. Short books to me are like warm up exercises. Once you've warmed up enough, take the time to tackle the longer books in your queue.
+My pal Stuart over at _Brainmower_ announced he was setting a goal to read one book each week in 2010. This is an admirable goal, which I completed in 2008 when I read [60 books](/2008/12/best-books-of-2008/) that year. However, in 2009 I read just 30 books. Guess I slacked off? Or maybe number of books isn't the best metric to use to measure reading.
+
+![](http://farm4.static.flickr.com/3035/2868288357_d30bea71eb.jpg "Iqra: Read")
+
+_Photo [Iqra: Read](http://www.flickr.com/photos/swamibu/2868288357/) by Swamibu_
+
+Last year I read [Guns Germs and Steel](/2009/06/guns-germs-and-steel/) (512 pages), [Collapse](/2009/07/collapse-were-doomed/) (575 pages) and [Good Calories, Bad Calories](/2009/12/good-calories-bad-calories-is-the-best-book-ever-written-on-nutrition/) (640 pages). When I had the _1-book-a-week_ goal, I read quite a few books that were less than 250 pages. It helped me reach my goal, but I never would have tackled _Good Calories, Bad Calories_ in 2008.
+
+So the trick to meeting the _1-book-a-week_ goal for the first time is load up on short books. Short books to me are like warm up exercises. Once you've warmed up enough, take the time to tackle the longer books in your queue.
 
 ---
 

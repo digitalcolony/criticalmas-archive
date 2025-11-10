@@ -9,7 +9,13 @@ description: "Great news! Robert Greene is going to release a new book this year
 commentCount: 2
 ---
 
-Great news! Robert Greene is going to release a new book this year. He was the author of The 48 Laws of Power, Art of Seduction, and The 33 Strategies of War. I highly recommend the first two to anyone and recommend _33 Strategies_ for those that work in managerial roles. Although I love the rich historical references in his writing, I can see how some might not find it accessible. That is about to change. Robert Greene has teamed up with rapper 50 Cent to create an urban version of The 48 Laws of Power. The new book which is coming out in September called The 50th Law. ![The 50th Law](https://images-na.ssl-images-amazon.com/images/I/41SdRONxTpL.jpg) Vibe magazine has a good interview with Robert Greene on the upcoming book. From _The 50th Law: Strategy Expert Robert Greene on the Hustler's Mind_:
+Great news! Robert Greene is going to release a new book this year. He was the author of The 48 Laws of Power, Art of Seduction, and The 33 Strategies of War. I highly recommend the first two to anyone and recommend _33 Strategies_ for those that work in managerial roles. Although I love the rich historical references in his writing, I can see how some might not find it accessible. That is about to change.
+
+Robert Greene has teamed up with rapper 50 Cent to create an urban version of The 48 Laws of Power. The new book which is coming out in September called The 50th Law.
+
+![The 50th Law](https://images-na.ssl-images-amazon.com/images/I/41SdRONxTpL.jpg)
+
+Vibe magazine has a good interview with Robert Greene on the upcoming book. From _The 50th Law: Strategy Expert Robert Greene on the Hustler's Mind_:
 
 > Essentially the hustler is a figure to me, thats very American. It goes back to the 19th Century. Its ingrained in our country. We've always kind of had that figure. But it kinda got taken to another level in urban America in the 20th century. Predominantly associated with the black hustler. The hustler is an entrepreneur. This book celebrates their mentality. These are people who are incredibly resourceful. They are incredibly inventive and creative. They just don't have the resources for anything that we consider worthy. But much of what they do is just as interesting as a business man or politician. Its working with the little you have, and making something out of it. The attitude, and the way they go about it fascinated me.
 

@@ -8,7 +8,11 @@ description: "You already know that I am a frequent blood donor. Now I can add h
 commentCount: 5
 ---
 
-You already know that I am a [frequent blood donor](/2020/02/5-gallon-blood-donation-achievement-unlocked/). Now I can add hair to my donation list. I used the last 3 years as an opportunity to grow my hair long. Yesterday, I was able to donate 14+ inches of hair to [Wigs For Kids](https://www.wigsforkids.org/). 😎 ![](./img/mas-haircut-2023-white-border-650.jpg)
+You already know that I am a [frequent blood donor](/2020/02/5-gallon-blood-donation-achievement-unlocked/). Now I can add hair to my donation list. I used the last 3 years as an opportunity to grow my hair long.
+
+Yesterday, I was able to donate 14+ inches of hair to [Wigs For Kids](https://www.wigsforkids.org/). 😎
+
+![](./img/mas-haircut-2023-white-border-650.jpg)
 
 ---
 

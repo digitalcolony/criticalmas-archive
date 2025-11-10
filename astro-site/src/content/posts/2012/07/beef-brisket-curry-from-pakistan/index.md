@@ -9,13 +9,17 @@ description: "The Perfect Pantry posted a slow cooker recipe for nihari, which i
 commentCount: 6
 ---
 
-_The Perfect Pantry_ posted a slow cooker recipe for **nihari**, which is a curry from Pakistan. It also has the nickname _"old clothes"_, which is what the beef brisket looks like when you pull the meat apart with forks after hours of co. I made this dish twice. It is super simple and I think they got the spices correct. However, I have a few ideas for making this even better.
+_The Perfect Pantry_ posted a slow cooker recipe for **nihari**, which is a curry from Pakistan. It also has the nickname _"old clothes"_, which is what the beef brisket looks like when you pull the meat apart with forks after hours of co.
+
+I made this dish twice. It is super simple and I think they got the spices correct. However, I have a few ideas for making this even better.
 
 1.  Swap out the canola oil for either a slab of butter or ghee.
 2.  Cut the garlic requirement in half, unless you really like garlic.
 3.  Instead of cooking for 9 hours on low, I cooked it for 5 1/2 hours with just the first hour on high. BTW, that is a trick I use with most slow-cooking recipes. Cooking for 9 full hours will certainly have the meat melting in your mouth, but I don't mind a little bit of chewing. Plus I subscribe to the theory that we shouldn't be overcooking our proteins.
 
-![beef-brisket-curry](./img/beef-brisket-curry.jpg) _Beef Brisket Curry_
+![beef-brisket-curry](./img/beef-brisket-curry.jpg)
+
+_Beef Brisket Curry_
 
 ---
 

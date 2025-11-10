@@ -9,31 +9,47 @@ description: "I've been thinking a lot about low effort sustainable dieting and 
 commentCount: 17
 ---
 
-I've been thinking a lot about low effort sustainable dieting and I've come up with an idea that I was certain someone else had figured out before, but I haven't seen it articulated anywhere. That either means my searching skills aren't that good or it is a terrible idea or it is brilliant. :) My thought is that the least effort approach to fat loss would be to **just count grams of protein** and nothing else. Hit your target grams and then trust that your appetite will be reduced, calorie intake will fall and fat loss will occur. Many diets count calories, which is hard work. Some diets count carbohydrates, which depending on how you do it can be successful or draining. But what many diets share in common is higher levels of protein.
+I've been thinking a lot about low effort sustainable dieting and I've come up with an idea that I was certain someone else had figured out before, but I haven't seen it articulated anywhere. That either means my searching skills aren't that good or it is a terrible idea or it is brilliant. :)
+
+My thought is that the least effort approach to fat loss would be to **just count grams of protein** and nothing else. Hit your target grams and then trust that your appetite will be reduced, calorie intake will fall and fat loss will occur. Many diets count calories, which is hard work. Some diets count carbohydrates, which depending on how you do it can be successful or draining. But what many diets share in common is higher levels of protein.
 
 
 ### Why Protein?
 
 
-Protein has been shown to have the greatest effect on reducing appetite. And not only will eating more protein suppress appetite, but it will support metabolism. A frequently cited study [A high-protein diet induces sustained reductions in appetite, ad libitum caloric intake, and body weight despite compensatory changes in diurnal plasma leptin and ghrelin concentrations](http://ajcn.nutrition.org/content/82/1/41.abstract) concluded that doubling protein from 15% to 30% reduced appetite and "results in significant weight loss". You could count calories. People do all the time. But it is more work than just counting protein and does not address appetite. Go hungry for too long and you'll binge eventually. In the end, appetite always wins. Give it protein.
+Protein has been shown to have the greatest effect on reducing appetite. And not only will eating more protein suppress appetite, but it will support metabolism. A frequently cited study [A high-protein diet induces sustained reductions in appetite, ad libitum caloric intake, and body weight despite compensatory changes in diurnal plasma leptin and ghrelin concentrations](http://ajcn.nutrition.org/content/82/1/41.abstract) concluded that doubling protein from 15% to 30% reduced appetite and "results in significant weight loss".
+
+You could count calories. People do all the time. But it is more work than just counting protein and does not address appetite. Go hungry for too long and you'll binge eventually. In the end, appetite always wins. Give it protein.
 
 
 ### How Much Protein?
 
 
-The site _Suppversity_ does a great job of pouring through the scientific research. Their article [Losing Weight Doesn't Have to Ruin Your Metabolism: No Unexpected Reduction in Energy Expenditure With Sane Weight Loss. Plus: 9 Simple Rules Every Dieter Must Follow](http://suppversity.blogspot.jp/2014/03/losing-weight-doesnt-have-to-ruin-your.html) lists some solid ideas on what works best for dieting, including increasing protein levels to 25% or greater of total calories. [Another Suppversity post](http://suppversity.blogspot.jp/2013/06/evidence-from-metabolic-ward-16-24gkg.html) more specifically makes a solid case for striving for 1.5-2.0 grams of protein per kg of body weight (not lean mass). For easy math, let us say someone weighs 200 pounds (91 kilograms). Their protein needs would be between 136 and 182 grams a day. Going back to their recommendation in the first linked article, which advises a 15% initial calorie reduction, this works out to a protein ratio of about 30% at the high end. ![eggs](./img/2735689978_949e3a02b1_z.jpg) _[Photo](https://www.flickr.com/photos/themonnie/2735689978/) by Frank Monnerjahn_
+The site _Suppversity_ does a great job of pouring through the scientific research. Their article [Losing Weight Doesn't Have to Ruin Your Metabolism: No Unexpected Reduction in Energy Expenditure With Sane Weight Loss. Plus: 9 Simple Rules Every Dieter Must Follow](http://suppversity.blogspot.jp/2014/03/losing-weight-doesnt-have-to-ruin-your.html) lists some solid ideas on what works best for dieting, including increasing protein levels to 25% or greater of total calories. [Another Suppversity post](http://suppversity.blogspot.jp/2013/06/evidence-from-metabolic-ward-16-24gkg.html) more specifically makes a solid case for striving for 1.5-2.0 grams of protein per kg of body weight (not lean mass).
+
+For easy math, let us say someone weighs 200 pounds (91 kilograms). Their protein needs would be between 136 and 182 grams a day. Going back to their recommendation in the first linked article, which advises a 15% initial calorie reduction, this works out to a protein ratio of about 30% at the high end.
+
+![eggs](./img/2735689978_949e3a02b1_z.jpg)
+
+_[Photo](https://www.flickr.com/photos/themonnie/2735689978/) by Frank Monnerjahn_
 
 
 ### This is Starting to Look Like The Zone
 
 
-The Zone Diet advises a protein ratio of 30%, which is a diet that started out well for me, but in the end became problematic. In the post [My Experiences With the Zone Diet,](/2012/06/my-experience-with-the-zone-diet/) I outlined how the frequent small meals left me hungry all the time. Besides the frequent meals, the Zone demonized too many good foods and had dieters obsessing about both carbs and fat. A quick search on fat loss and meal frequency will also show that "eating many small meals" have no metabolic edge over a less frequent eating pattern when calories are constant. Despite the [problems with The Zone](/2013/12/revisiting-improving-zone-diet/), the 30% protein recommendation seems like solid advice for fat loss.
+The Zone Diet advises a protein ratio of 30%, which is a diet that started out well for me, but in the end became problematic. In the post [My Experiences With the Zone Diet,](/2012/06/my-experience-with-the-zone-diet/) I outlined how the frequent small meals left me hungry all the time. Besides the frequent meals, the Zone demonized too many good foods and had dieters obsessing about both carbs and fat. A quick search on fat loss and meal frequency will also show that "eating many small meals" have no metabolic edge over a less frequent eating pattern when calories are constant.
+
+Despite the [problems with The Zone](/2013/12/revisiting-improving-zone-diet/), the 30% protein recommendation seems like solid advice for fat loss.
 
 
 ### Just Count Protein
 
 
-This post is just a proposal. I don't know if it will work, but it seems like a sensible indirect route to fat loss that acknowledges appetite and doesn't require counting calories. I already know the opposite is true. When I was eating clean, underweight and with low appetite, I sought out [ice cream](/2012/07/why-ice-cream-is-better-than-protein-powder/) as the food to bring my weight up. Turns out ice cream is just 5% protein. Lower the protein, increase the appetite. Right now I don't think I am getting close to 30% protein. I plan on giving this a try. What do you think?
+This post is just a proposal. I don't know if it will work, but it seems like a sensible indirect route to fat loss that acknowledges appetite and doesn't require counting calories.
+
+I already know the opposite is true. When I was eating clean, underweight and with low appetite, I sought out [ice cream](/2012/07/why-ice-cream-is-better-than-protein-powder/) as the food to bring my weight up. Turns out ice cream is just 5% protein. Lower the protein, increase the appetite. Right now I don't think I am getting close to 30% protein. I plan on giving this a try.
+
+What do you think?
 
 ---
 

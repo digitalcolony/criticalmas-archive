@@ -37,11 +37,19 @@ Coffee has zero calories as well. The only caloric drink I consume on a regular 
 
 > _7\. Eat mostly whole foods (except workout and post-workout drinks)._
 
-I'm guilty of replacing 3-6 whole food meals a week with a non-post-workout protein shake. Berardi concludes with why you need to follow the habits 90% of time before you do anything else.
+I'm guilty of replacing 3-6 whole food meals a week with a non-post-workout protein shake.
+
+Berardi concludes with why you need to follow the habits 90% of time before you do anything else.
 
 > _So what about calories, or macronutrient ratios, or any number of other things that Ive covered in other articles? The short answer is that if you arent already practicing the above-mentioned habits, and by practicing them I mean putting them to use over 90% of the time (i.e., no more than 4 meals out of an average 42 meals per week violate any of those rules), everything else is pretty pointless._
 
-![ballard-coffee-works](./img/ballard-coffee-works.jpg) _Coffee for the win!_ **Legacy Comments** Nick
+![ballard-coffee-works](./img/ballard-coffee-works.jpg)
+
+_Coffee for the win!_
+
+**Legacy Comments**
+
+Nick
 
 > Excellent post. When I was doing the low carb thing, I was eating many more meals a day. Now that I've stopped, I've gained weight. Working at an office again has been a huge impediment, but I need to get back on the many-small-meals bandwagon.
 

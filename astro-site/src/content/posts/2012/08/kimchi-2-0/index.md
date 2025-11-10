@@ -9,7 +9,13 @@ description: "I've been making kimchi on a frequent basis now for almost three y
 commentCount: 9
 ---
 
-I've been making kimchi on a frequent basis now for almost three years. Each time I make kimchi, I tweak the recipe. I'll add something new or take something out. Then I'll increase or reduce the number of other ingredients. I play with the salt level and the spiciness. My tweaking has landed me on a new recipe which I am calling **Kimchi 2.0**. As great as my old kimchi recipes have been, this one is has a more complex flavor. I love it and some of the early feedback I've gotten from friends has been very positive. ![kimchi](./img/kimchi.jpg) Here are the changes I've made.
+I've been making kimchi on a frequent basis now for almost three years. Each time I make kimchi, I tweak the recipe. I'll add something new or take something out. Then I'll increase or reduce the number of other ingredients. I play with the salt level and the spiciness. My tweaking has landed me on a new recipe which I am calling **Kimchi 2.0**.
+
+As great as my old kimchi recipes have been, this one is has a more complex flavor. I love it and some of the early feedback I've gotten from friends has been very positive.
+
+![kimchi](./img/kimchi.jpg)
+
+Here are the changes I've made.
 
 1.  **Green cabbage vs Nappa cabbage:** Koreans use Nappa cabbage and FireFly Kitchens uses green cabbage. For the most part, I actually prefer green slightly. Then I started mixing the two and came up with my ideal ratio which is 2 parts green cabbage (sliced thin) and 1 part Nappa cabbage (larger pieces).
 2.  **More Ginger, Less Garlic:** I'm learning that garlic is really not that important to kimchi. I discovered this when I ran out of garlic and continued making the kimchi. I didn't miss it at all and it turned out excellent. As for the ginger - add more.
@@ -52,7 +58,15 @@ I've been making kimchi on a frequent basis now for almost three years. Each tim
 10.  Pack kimchi into jars or crock. Make sure the containers have at least an inch at the top and that the veggies are below the waterline. That means you must use the juice from the bucket.
 11.  Allow kimchi 3-10 days to ferment (see notes below).
 
-![kimchi](./img/kimchi.jpg) Every day you will check on your kimchi. You will push the veggies down (yes, I prefer this method to adding weights, but both are fine). Starting around day 2 [taste a little bite each day](/2012/06/fermenting-vegetables-taste-as-you-go/). It will start very crunchy and then soften up. Whenever it tastes good to you is when the ferment is done. I've had summer ferments finish in 3 days and winter ones that go 2 weeks. You could go longer. As long as the veggies are below the waterline, the ferment can continue. Once you like the taste, move the kimchi into the refrigerator, where it will store fine for many months. **For a more detailed explanation of making kimchi see the post [Kimchi 101](/2011/03/kimchi-101/).**  Preparation time: 1 hour(s) Culinary tradition: Korean<
+![kimchi](./img/kimchi.jpg)
+
+Every day you will check on your kimchi. You will push the veggies down (yes, I prefer this method to adding weights, but both are fine). Starting around day 2 [taste a little bite each day](/2012/06/fermenting-vegetables-taste-as-you-go/). It will start very crunchy and then soften up. Whenever it tastes good to you is when the ferment is done. I've had summer ferments finish in 3 days and winter ones that go 2 weeks. You could go longer. As long as the veggies are below the waterline, the ferment can continue. Once you like the taste, move the kimchi into the refrigerator, where it will store fine for many months.
+
+**For a more detailed explanation of making kimchi see the post [Kimchi 101](/2011/03/kimchi-101/).** 
+
+Preparation time: 1 hour(s)
+
+Culinary tradition: Korean<
 
 ---
 

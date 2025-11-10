@@ -9,7 +9,13 @@ description: "The Diet Hack by Tim Steele was released today. He also wrote the 
 commentCount: 17
 ---
 
-_The Diet Hack_ by Tim Steele was released today. He also wrote the definitive guide to [potato dieting](https://criticalmas.org/best-of/potato-hack-diet/) called _The Potato Hack_. _The Diet Hack_ covers a lot more ground than just potatoes, but I wanted to let you know that I got a few pages of coverage in the book on the Peasant Diet! There is even a photo of me and one of my peasant dishes. 😎 ![Diet Hack by Tim Steele](./img/diet-hack-time-steele-book.jpg)_The Diet Hack by Tim Steele_ For the most part, I find Twitter to be a hostile place and I [avoid the site as much as possible these days](/2019/04/tackling-twitter-how-i-cut-my-daily-usage/). However, the genesis of the idea of pursuing this Peasant Diet came from a Twitter battle in 2016 between two bloggers I followed.
+_The Diet Hack_ by Tim Steele was released today.
+
+He also wrote the definitive guide to [potato dieting](https://criticalmas.org/best-of/potato-hack-diet/) called _The Potato Hack_. _The Diet Hack_ covers a lot more ground than just potatoes, but I wanted to let you know that I got a few pages of coverage in the book on the Peasant Diet! There is even a photo of me and one of my peasant dishes. 😎
+
+![Diet Hack by Tim Steele](./img/diet-hack-time-steele-book.jpg)_The Diet Hack by Tim Steele_
+
+For the most part, I find Twitter to be a hostile place and I [avoid the site as much as possible these days](/2019/04/tackling-twitter-how-i-cut-my-daily-usage/). However, the genesis of the idea of pursuing this Peasant Diet came from a Twitter battle in 2016 between two bloggers I followed.
 
 -   [Designing a Modern Peasant Diet](/2016/11/designing-modern-peasant-diet/)
 

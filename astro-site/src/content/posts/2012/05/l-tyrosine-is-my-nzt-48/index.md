@@ -15,19 +15,35 @@ In the previous post [Distraction Diet 3](/2012/05/distraction-diet-3/), I menti
 ### NZT-48
 
 
-NZT-48 is the drug taken by the main character in the movie _Limitless_. This fictional nootropic drug allowed the character to access 100% of his brain and accomplish amazing things in a short period of time. Of course, I'm not saying that L-Tyrosine is literally that powerful, but for me, it has had noticeable and predictable cognitive benefits. ![](./img/nzt-limitless.jpg "NZT-48") _Limitless (AMAZON USA)_
+NZT-48 is the drug taken by the main character in the movie _Limitless_. This fictional nootropic drug allowed the character to access 100% of his brain and accomplish amazing things in a short period of time. Of course, I'm not saying that L-Tyrosine is literally that powerful, but for me, it has had noticeable and predictable cognitive benefits.
+
+![](./img/nzt-limitless.jpg "NZT-48")
+
+_Limitless (AMAZON USA)_
 
 
 ### Caffeine, Mood, and L-Tyrosine
 
 
-My first exposure to L-Tyrosine was during my 2010 summer coffee detox. It was a suggestion I got from Nora Gedgaudas, the author of [Primal Body, Primal Mind](/2010/07/primal-body-primal-mind/). The idea was as you remove caffeine, adding L-Tyrosine could improve mood and help with cravings. It did, but at the time I didn't notice much more, probably because I was running at half speed due to the caffeine restriction. Earlier this year I ran into L-Tyrosine twice more. One was a post on Jimmy Moore's site about how it could [reverse gray hair](/2012/02/reversing-gray-hair/). That was interesting, but it was the second that captured my attention. I am a member of the Western Washington Paleo Enthusiasts and each month we get together for a Paleo Book club. The book selections are not just strict Paleo but come from a variety of health and fitness topics. I believe it was February that the book was _The Mood Cure_. I didn't read _The Mood Cure_. I just came to the meeting for the discussion. During the talk, I borrowed the book and did the self-tests. My results said I would benefit strongly from L-Tyrosine. So I started supplementing the next day.
+My first exposure to L-Tyrosine was during my 2010 summer coffee detox. It was a suggestion I got from Nora Gedgaudas, the author of [Primal Body, Primal Mind](/2010/07/primal-body-primal-mind/). The idea was as you remove caffeine, adding L-Tyrosine could improve mood and help with cravings. It did, but at the time I didn't notice much more, probably because I was running at half speed due to the caffeine restriction.
+
+Earlier this year I ran into L-Tyrosine twice more. One was a post on Jimmy Moore's site about how it could [reverse gray hair](/2012/02/reversing-gray-hair/). That was interesting, but it was the second that captured my attention. I am a member of the Western Washington Paleo Enthusiasts and each month we get together for a Paleo Book club. The book selections are not just strict Paleo but come from a variety of health and fitness topics. I believe it was February that the book was _The Mood Cure_.
+
+I didn't read _The Mood Cure_. I just came to the meeting for the discussion. During the talk, I borrowed the book and did the self-tests. My results said I would benefit strongly from L-Tyrosine. So I started supplementing the next day.
 
 
 ### Gray Skies Are Clearing
 
 
-2011 was not a good year for me and 2012 started out pretty rough as well. I had tons of ideas for projects, but my focus was lacking. The [INeedCoffee](https://ineedcoffee.com) redesign was taking much longer than it should have. The L-Tyrosine came at just the right time. I started seeing benefits right away. I would take a 500 mg capsule of L-Tyrosine in the morning on an empty stomach and I could feel my mood improving. Code blocks that I thought would take weeks to roll out on _INeedCoffee_ were completed in days. The mornings when I felt my thinking was fuzzy were always the mornings that I had forgotten to take the L-Tyrosine. It wasn't a stimulant or happy pill, but more like a gentle nudge in the right direction. Before anyone says the word placebo, I could rattle off a list of a hundred different supplements that I've tried over the years that I wished dearly would have delivered some benefit. But they didn't. Other than perhaps creatine monohydrate, this is the ONLY supplement I've had in the last 20 years that has an effect that is both noticeable and positive. Do your own tests. The book has a [series of quizzes](https://www.juliarosscures.com/mood-type-questionnaire/) to help the reader determine what supplement might help their mood the most. For me it was L-Tyrosine. I'd love to be able to answer more about _The Mood Cure_, but I haven't read it yet. I do plan to read it soon. It certainly earned my trust. **UPDATE JULY 2012:** If you are considering taking L-Tyrosine, please read the follow-up post [Safe Use of 5-HTP and L-Tyrosine](/2012/07/safe-use-of-5-htp-and-l-tyrosine/). Taking L-Tyrosine for long periods of time without balancing it out with 5-HTP, could lead to depleted serotonin levels.
+2011 was not a good year for me and 2012 started out pretty rough as well. I had tons of ideas for projects, but my focus was lacking. The [INeedCoffee](https://ineedcoffee.com) redesign was taking much longer than it should have. The L-Tyrosine came at just the right time. I started seeing benefits right away.
+
+I would take a 500 mg capsule of L-Tyrosine in the morning on an empty stomach and I could feel my mood improving. Code blocks that I thought would take weeks to roll out on _INeedCoffee_ were completed in days. The mornings when I felt my thinking was fuzzy were always the mornings that I had forgotten to take the L-Tyrosine. It wasn't a stimulant or happy pill, but more like a gentle nudge in the right direction.
+
+Before anyone says the word placebo, I could rattle off a list of a hundred different supplements that I've tried over the years that I wished dearly would have delivered some benefit. But they didn't. Other than perhaps creatine monohydrate, this is the ONLY supplement I've had in the last 20 years that has an effect that is both noticeable and positive.
+
+Do your own tests. The book has a [series of quizzes](https://www.juliarosscures.com/mood-type-questionnaire/) to help the reader determine what supplement might help their mood the most. For me it was L-Tyrosine. I'd love to be able to answer more about _The Mood Cure_, but I haven't read it yet. I do plan to read it soon. It certainly earned my trust.
+
+**UPDATE JULY 2012:** If you are considering taking L-Tyrosine, please read the follow-up post [Safe Use of 5-HTP and L-Tyrosine](/2012/07/safe-use-of-5-htp-and-l-tyrosine/). Taking L-Tyrosine for long periods of time without balancing it out with 5-HTP, could lead to depleted serotonin levels.
 
 ---
 

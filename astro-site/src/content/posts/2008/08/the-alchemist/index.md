@@ -9,7 +9,9 @@ description: "I'm really feel ill equipped to write a fiction book review, but I
 commentCount: 1
 ---
 
-I'm really feel ill equipped to write a fiction book review, but I will say I did enjoy this short fable. ![Alchemist - 10th Anniversary Edition, The](https://images-na.ssl-images-amazon.com/images/I/51ot7RQ%2B13L.jpg)  
+I'm really feel ill equipped to write a fiction book review, but I will say I did enjoy this short fable.
+
+![Alchemist - 10th Anniversary Edition, The](https://images-na.ssl-images-amazon.com/images/I/51ot7RQ%2B13L.jpg)  
 The Alchemist is by Paulo Coelho is a book about following your dreams. Instead of having me fumble through a poorly written review, check out this [concise review](http://web.archive.org/web/20130125050201/http://blogcritics.org:80/books/article/book-review-the-alchemist-by-paulo) by Betty Wong.
 
 ---

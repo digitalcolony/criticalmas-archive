@@ -9,12 +9,20 @@ description: "Last week I completed my second Fasting Mimicking Diet. Well kind 
 commentCount: 7
 ---
 
-Last week I completed my second Fasting Mimicking Diet. Well kind of. It was my own variation of the diet inspired by [Marc's comment](/2017/12/fasting-mimicking-diet-overview/#comment-25936) on this blog. Background info here:
+Last week I completed my second Fasting Mimicking Diet. Well kind of. It was my own variation of the diet inspired by [Marc's comment](/2017/12/fasting-mimicking-diet-overview/#comment-25936) on this blog.
+
+Background info here:
 
 -   [The Longevity Diet Book Overview](/2018/02/longevity-diet-book-overview/)
 -   [Fasting Mimicking Diet Overview](/2017/12/fasting-mimicking-diet-overview/)
 
-A true FMD actually restricts carbohydrates as well as protein. The case for restricting carbs during the 5 days didn't seem nearly as strong as the case for restricting protein, so I used my favorite food tool, which is the boiled potato to help me through the 5 days. Unlike the first FMD, I did not outright fast for the first 3 days. I wanted to experience the diet with the low level of calories while restricting protein. Using boiled potatoes and butter, I was able to keep my protein under 20 grams each day. 20 grams is a very conservative estimate I got from the 2011 Protein Cycling Diet book. _(It is for a person weighing 154 and I weight 198)_ The upside of using boiled potatoes instead of the menu ideas in the FMD book is that the potato has high volume and will limit hunger better than other foods. Plus potatoes are cheap and easy to prepare. Dr. Longo's menus are easy enough to assemble, but when you are running on low calories, who wants to prep food in that manner? That is probably why the ProLon company exists. Cooking isn't hard, but keeping the dieter out of the kitchen as much as possible is likely half the battle.
+A true FMD actually restricts carbohydrates as well as protein. The case for restricting carbs during the 5 days didn't seem nearly as strong as the case for restricting protein, so I used my favorite food tool, which is the boiled potato to help me through the 5 days.
+
+Unlike the first FMD, I did not outright fast for the first 3 days. I wanted to experience the diet with the low level of calories while restricting protein. Using boiled potatoes and butter, I was able to keep my protein under 20 grams each day. 20 grams is a very conservative estimate I got from the 2011 Protein Cycling Diet book. _(It is for a person weighing 154 and I weight 198)_
+
+The upside of using boiled potatoes instead of the menu ideas in the FMD book is that the potato has high volume and will limit hunger better than other foods. Plus potatoes are cheap and easy to prepare.
+
+Dr. Longo's menus are easy enough to assemble, but when you are running on low calories, who wants to prep food in that manner? That is probably why the ProLon company exists. Cooking isn't hard, but keeping the dieter out of the kitchen as much as possible is likely half the battle.
 
 
 ### Activity
@@ -32,7 +40,15 @@ As to be expected, I lost less weight than [my first FMD](/2018/02/completed-fir
 -   Day 6: 194   (morning after the end of FMD)
 -   Day 9: 196.5 (weekend after FMD)
 
-I did not get light-headed or cold this time, which makes sense, given both the warmer weather and more calories. I do have more thoughts on the Fasting Mimicking Diet and Dr. Longo's book in general, which I will put in a separate post. But my general take away experience is that this form of fasting will be doable for many people that could not fathom missing a single meal. ![seattle street art](./img/25344424137_e055c7906f_z.jpg) _I took this photo last month. It has nothing to do with this post._  **JULY 2018 UPDATE:** [Insulin may affect IGF-1](/2018/07/fasting-lessons-i-learned-this-month/) in ways I do not understand, so I am backing away from the Potato version of the FMD for now.
+I did not get light-headed or cold this time, which makes sense, given both the warmer weather and more calories.
+
+I do have more thoughts on the Fasting Mimicking Diet and Dr. Longo's book in general, which I will put in a separate post. But my general take away experience is that this form of fasting will be doable for many people that could not fathom missing a single meal.
+
+![seattle street art](./img/25344424137_e055c7906f_z.jpg)
+
+_I took this photo last month. It has nothing to do with this post._ 
+
+**JULY 2018 UPDATE:** [Insulin may affect IGF-1](/2018/07/fasting-lessons-i-learned-this-month/) in ways I do not understand, so I am backing away from the Potato version of the FMD for now.
 
 ---
 

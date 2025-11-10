@@ -9,4 +9,10 @@ description: "I had a chance to get inside a cage with some cats in Chiang Mai a
 commentCount: 0
 ---
 
-I had a chance to get inside a cage with some cats in Chiang Mai at Tiger Kingdom. ![mas-lion](./img/mas-lion.jpg) ![mas-tiger](./img/mas-tiger.jpg) ![mas-tiger-belly](./img/mas-tiger-belly.jpg)
+I had a chance to get inside a cage with some cats in Chiang Mai at Tiger Kingdom.
+
+![mas-lion](./img/mas-lion.jpg)
+
+![mas-tiger](./img/mas-tiger.jpg)
+
+![mas-tiger-belly](./img/mas-tiger-belly.jpg)

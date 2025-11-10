@@ -15,13 +15,21 @@ My Indian cooking project is still going strong. Yesterday I decided to make my 
 2.  Take off as much foam as you can.
 3.  Filter the rest through cheesecloth. Done!
 
-![heating-butter](./img/heating-butter.jpg) ![ghee](./img/ghee.jpg) _Isn't it pretty?_
+![heating-butter](./img/heating-butter.jpg)
+
+![ghee](./img/ghee.jpg)
+
+_Isn't it pretty?_
 
 
 ### Minor Rant
 
 
-In the past three months, I have checked out about 10 Indian cookbooks from the library. EVERY SINGLE ONE THEM is downplaying ghee. They all suggest using canola or some other vegetable oil. Like Americans, they have become saturated fat phobic. The author of one cookbook states that ghee and other fatty components of Indian cooking are somehow responsible for the diabetes crisis in India today. Huh? It is sad when traditional food preparation techniques get blamed for modern health problems. My hope is that these cookbooks that advise using canola oil over ghee are just aimed at the American audience still afraid of real fat. It would be a tragedy if our misguided view of saturated fat made it back to India because it will only make their health issues worse. **UPDATE September 2012:** I learned there exists a difference between regular clarified butter and ghee. With ghee you let the milk solids brown a little bit so it gives a toasty flavor.
+In the past three months, I have checked out about 10 Indian cookbooks from the library. EVERY SINGLE ONE THEM is downplaying ghee. They all suggest using canola or some other vegetable oil. Like Americans, they have become saturated fat phobic. The author of one cookbook states that ghee and other fatty components of Indian cooking are somehow responsible for the diabetes crisis in India today. Huh?
+
+It is sad when traditional food preparation techniques get blamed for modern health problems. My hope is that these cookbooks that advise using canola oil over ghee are just aimed at the American audience still afraid of real fat. It would be a tragedy if our misguided view of saturated fat made it back to India because it will only make their health issues worse.
+
+**UPDATE September 2012:** I learned there exists a difference between regular clarified butter and ghee. With ghee you let the milk solids brown a little bit so it gives a toasty flavor.
 
 ---
 

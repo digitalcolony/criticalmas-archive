@@ -9,25 +9,51 @@ description: "I was a bit critical of the Longevity Diet Book. Dr. Longo sold me
 commentCount: 15
 ---
 
-I was a bit critical of the Longevity Diet Book. Dr. Longo sold me on the merits of doing a Fasting Mimicking Diet during [his interview on Found My Fitness](/2017/12/fasting-mimicking-diet-overview/), but I wasn't a fan of the book. I thought it was too dumbed down and it didn't explain some core concepts I felt were important. **Book Review: [The Longevity Diet Book Overview](/2018/02/longevity-diet-book-overview/)** I didn't buy the book. I got it from the library, read it in 2 days, and then returned it. So I no longer have the book in front of me to check what I am about to post.
+I was a bit critical of the Longevity Diet Book. Dr. Longo sold me on the merits of doing a Fasting Mimicking Diet during [his interview on Found My Fitness](/2017/12/fasting-mimicking-diet-overview/), but I wasn't a fan of the book. I thought it was too dumbed down and it didn't explain some core concepts I felt were important.
+
+**Book Review: [The Longevity Diet Book Overview](/2018/02/longevity-diet-book-overview/)**
+
+I didn't buy the book. I got it from the library, read it in 2 days, and then returned it. So I no longer have the book in front of me to check what I am about to post.
 
 
 ### Non-Fasting Optimal Diet
 
 
-A few days ago, I listened to [Dr. Longo's interview with Ari Whitten](https://overcast.fm/+I32KNBuvo). In the interview, I felt Longo did a better job of explaining his standard optimal diet, which is mostly vegetarian with some fish. The diet he believes is best is low in sugar and low in saturated fat. To be clear, this is the diet you follow when you are not doing the Fasting Mimicking Diet. Longo explained his reason as being based on epidemiological studies. The populations with the longest life expectancies consume mostly seafood with little animal protein. He makes the point that organic grass-fed meat might be perfectly healthy, but we don't have data at this point to support a longevity claim for eating in that manner. Maybe I missed it in the book, but I felt he explained his reasoning better in the interview. I can respect this stance completely. Longo is an expert on what happens to the body when cells are deprived of amino acids and how we trigger repair processes. Nobody is really an expert on what the optimal diet is for longevity, so he decides that a basic Blue Zones diet is the default optimal. There may be better options, but there is no evidence yet. So if decades from now we start seeing keto people outpace the rest of us in longevity, we can reexamine the Blue Zones diet as the default optimal. Fair enough. Side note: I suspect the longevity benefits of the Blue Zones are mostly due to strong social bonds, which in my opinion would be easier to form if you lived in beautiful weather year-round along the ocean.
+A few days ago, I listened to [Dr. Longo's interview with Ari Whitten](https://overcast.fm/+I32KNBuvo). In the interview, I felt Longo did a better job of explaining his standard optimal diet, which is mostly vegetarian with some fish. The diet he believes is best is low in sugar and low in saturated fat. To be clear, this is the diet you follow when you are not doing the Fasting Mimicking Diet.
+
+Longo explained his reason as being based on epidemiological studies. The populations with the longest life expectancies consume mostly seafood with little animal protein. He makes the point that organic grass-fed meat might be perfectly healthy, but we don't have data at this point to support a longevity claim for eating in that manner. Maybe I missed it in the book, but I felt he explained his reasoning better in the interview.
+
+I can respect this stance completely. Longo is an expert on what happens to the body when cells are deprived of amino acids and how we trigger repair processes. Nobody is really an expert on what the optimal diet is for longevity, so he decides that a basic Blue Zones diet is the default optimal. There may be better options, but there is no evidence yet. So if decades from now we start seeing keto people outpace the rest of us in longevity, we can reexamine the Blue Zones diet as the default optimal. Fair enough.
+
+Side note: I suspect the longevity benefits of the Blue Zones are mostly due to strong social bonds, which in my opinion would be easier to form if you lived in beautiful weather year-round along the ocean.
 
 
 ### Is Ketosis Required?
 
 
-This is another question that came to me at the end of my Potato FMD: Do the full recovery benefits of the Fasting Mimicking Diet require the person to be in ketosis? Is that signal necessary? The hack that I have been posting about here uses potatoes to stay under 20 grams of protein, which is low calories and very low protein, but not ketogenic. [The Potato Diet Version of the Fasting Mimicking Diet](/2018/03/the-potato-diet-version-of-the-fasting-mimicking-diet/) My hack observes the low protein requirements, but not the low glucose requirements. I recall not hearing a good case on restricting glucose to trigger autophagy and apoptosis. I was more swayed by the math described in the [2011 Protein Cycling Diet book](https://proteincyclingdiet.wordpress.com/article/protein-cycling-diet-2s3nmvrwklbxs-1/). But does the ketosis signal itself play a role in repair? More specifically, ending the ketosis signal. Would someone get a greater repair response - perhaps more stem cell production - coming out of ketosis? I do not know. Anyone? My plan is to do the 2 avocados a day approach on my next FMD. Then I will be ketogenic and in full compliance. But I would still like to know. ![avocado](./img/charles-deluvio-464970-avocado.jpg) _Photo by [Charles Deluvio](https://unsplash.com/@charlesdeluvio)_
+This is another question that came to me at the end of my Potato FMD: Do the full recovery benefits of the Fasting Mimicking Diet require the person to be in ketosis? Is that signal necessary? The hack that I have been posting about here uses potatoes to stay under 20 grams of protein, which is low calories and very low protein, but not ketogenic.
+
+[The Potato Diet Version of the Fasting Mimicking Diet](/2018/03/the-potato-diet-version-of-the-fasting-mimicking-diet/)
+
+My hack observes the low protein requirements, but not the low glucose requirements. I recall not hearing a good case on restricting glucose to trigger autophagy and apoptosis. I was more swayed by the math described in the [2011 Protein Cycling Diet book](https://proteincyclingdiet.wordpress.com/article/protein-cycling-diet-2s3nmvrwklbxs-1/).
+
+But does the ketosis signal itself play a role in repair? More specifically, ending the ketosis signal. Would someone get a greater repair response - perhaps more stem cell production - coming out of ketosis? I do not know. Anyone?
+
+My plan is to do the 2 avocados a day approach on my next FMD. Then I will be ketogenic and in full compliance. But I would still like to know.
+
+![avocado](./img/charles-deluvio-464970-avocado.jpg)
+
+_Photo by [Charles Deluvio](https://unsplash.com/@charlesdeluvio)_
 
 
 ### Is it Working?
 
 
-I talked to a few people about this diet. People with issues could benefit from trying it. They showed no interest. The big reason is people want to be rewarded for making a sacrifice. With the FMD, you are taking a leap of faith that processes you don't fully understand will improve your health in some manner that you can not measure. This is not true for the truly sick. People with chronic illnesses or near the end of life will be motivated to try anything. But very few other people will. Someone asked how would I know if I benefited from the Fasting Mimicking Diet. I said I didn't know. There won't exist a copy of me that doesn't do the FMD that I can compare myself to. In the future, I believe we will have methods to measure so many health markers that we will be able to get real-time scoring of the body's repair processes. Getting those numbers will be the needed motivation for the general public. Until that day comes, I think the only people that will do this form of protein-restricted fasting will be the very ill and health geeks like ourselves. And many of us will lose interest as some other diet catches our eye.
+I talked to a few people about this diet. People with issues could benefit from trying it. They showed no interest. The big reason is people want to be rewarded for making a sacrifice. With the FMD, you are taking a leap of faith that processes you don't fully understand will improve your health in some manner that you can not measure.
+
+This is not true for the truly sick. People with chronic illnesses or near the end of life will be motivated to try anything. But very few other people will. Someone asked how would I know if I benefited from the Fasting Mimicking Diet. I said I didn't know. There won't exist a copy of me that doesn't do the FMD that I can compare myself to.
+
+In the future, I believe we will have methods to measure so many health markers that we will be able to get real-time scoring of the body's repair processes. Getting those numbers will be the needed motivation for the general public. Until that day comes, I think the only people that will do this form of protein-restricted fasting will be the very ill and health geeks like ourselves. And many of us will lose interest as some other diet catches our eye.
 
 ---
 

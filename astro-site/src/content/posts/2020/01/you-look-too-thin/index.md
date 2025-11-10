@@ -8,11 +8,33 @@ description: "On two occasions I have been told: \"You look too thin\" or \"You 
 commentCount: 8
 ---
 
-On two occasions I have been told: "You look too thin" or "You looked too thin". Once was in 2012 and the other time was early 2018. The first time I heard it, I sort of panicked. Whereas some people dread gaining weight, my fear was losing muscle. And if I dropped too much weight, then I was likely losing muscle. Having muscle has always been more important to me than being lean. Muscle is hard-won. And the clock is ticking. As a man gets older, his ability to gain muscle gets more and more difficult. The last thing this ectomorph wanted to do was lose what took so much effort to gain, especially during a period when I was still trying to add more muscle. I discussed the mindset I held way back in this 2008 post titled [I Don’t Want To Ride A Donkey Down The Grand Canyon!](/2008/08/i-dont-want-to-ride-a-donkey-down-the-grand-canyon/) Reading that post is instructive to me. I would learn shortly afterward that my thinking was flawed. Dropping an additional 10 pounds after that post didn't cause any loss of muscle. It made the muscles I had earned more visible. I looked and felt better at 190. _(my height is 6 '2.5 or 189 cm)_ But as I stated above, I did panic in 2012 when my weight dropped to 183 after someone told me I was too thin. In a [blog post](/2014/02/regained-weight-lost/) two years later, I referenced the summer of 2012 as a period where I was "underweight".
+On two occasions I have been told: "You look too thin" or "You looked too thin".
+
+Once was in 2012 and the other time was early 2018. The first time I heard it, I sort of panicked. Whereas some people dread gaining weight, my fear was losing muscle. And if I dropped too much weight, then I was likely losing muscle. Having muscle has always been more important to me than being lean.
+
+Muscle is hard-won. And the clock is ticking. As a man gets older, his ability to gain muscle gets more and more difficult. The last thing this ectomorph wanted to do was lose what took so much effort to gain, especially during a period when I was still trying to add more muscle.
+
+I discussed the mindset I held way back in this 2008 post titled [I Don’t Want To Ride A Donkey Down The Grand Canyon!](/2008/08/i-dont-want-to-ride-a-donkey-down-the-grand-canyon/) Reading that post is instructive to me. I would learn shortly afterward that my thinking was flawed. Dropping an additional 10 pounds after that post didn't cause any loss of muscle. It made the muscles I had earned more visible. I looked and felt better at 190. _(my height is 6 '2.5 or 189 cm)_
+
+But as I stated above, I did panic in 2012 when my weight dropped to 183 after someone told me I was too thin. In a [blog post](/2014/02/regained-weight-lost/) two years later, I referenced the summer of 2012 as a period where I was "underweight".
 
 > I kept losing weight. I wasn’t weighing myself very often, but I was slowly losing more weight. I was no longer weight stable at 190-195. I was below 190. By the time I got down to 185, I was getting alarmed. Then someone took a photo of me and my face looked gaunt. By early 2012, I was down to 183. My body was cold. My clean eating had become too clean.
 
-In hindsight, I can now see my panic of 2012 was just as flawed as my panic of 2008. I wasn't too thin. I may have been tired from poor sleep and maybe the method by which I lost the weight wasn't perfect, but I wasn't too thin. And wouldn't learn this lesson until 2018. In 2018, someone commented that I looked great and that a few months before I looked too thin. The comment fascinated me because I was actually 5 pounds leaner when it was said. I pondered why I would look fine at that moment but "too thin" when I was actually 5 pounds heavier. Then it all clicked. Everything made sense. 2008 and 2012. When you lose weight, your clothes get loose. And if you aren't sure you can maintain your new lower weight or you don't want to buy new clothes or both, you don't look your best. Being lean in baggy clothes provides the appearance of being too thin. Being athletic in baggy clothes provides the appearance of being weak. You can look sickly, which can be concerning to those that care about you. I looked thinner at the heavier weight because I was still wearing baggy clothes. Updating my wardrobe fixed being "too thin". The big takeaway lesson that took me more than a decade to learn is assuming that you truly aren't underweight (which is something you can check with a BMI calculator), wearing clothes that fit your new leaner body is a must. Today, I am down to 185. More on that in a future post. But unlike in 2012, I am no longer swimming in clothes that are 2 sizes too big. I'm wearing clothes that fit. As a result, I don't look gaunt or sickly. And I'm not the slightest bit stressed that I've gotten too thin. ![tape measure](./img/tape-measure.jpg)
+In hindsight, I can now see my panic of 2012 was just as flawed as my panic of 2008. I wasn't too thin. I may have been tired from poor sleep and maybe the method by which I lost the weight wasn't perfect, but I wasn't too thin. And wouldn't learn this lesson until 2018.
+
+In 2018, someone commented that I looked great and that a few months before I looked too thin. The comment fascinated me because I was actually 5 pounds leaner when it was said. I pondered why I would look fine at that moment but "too thin" when I was actually 5 pounds heavier.
+
+Then it all clicked. Everything made sense. 2008 and 2012.
+
+When you lose weight, your clothes get loose. And if you aren't sure you can maintain your new lower weight or you don't want to buy new clothes or both, you don't look your best. Being lean in baggy clothes provides the appearance of being too thin. Being athletic in baggy clothes provides the appearance of being weak. You can look sickly, which can be concerning to those that care about you.
+
+I looked thinner at the heavier weight because I was still wearing baggy clothes. Updating my wardrobe fixed being "too thin".
+
+The big takeaway lesson that took me more than a decade to learn is assuming that you truly aren't underweight (which is something you can check with a BMI calculator), wearing clothes that fit your new leaner body is a must.
+
+Today, I am down to 185. More on that in a future post. But unlike in 2012, I am no longer swimming in clothes that are 2 sizes too big. I'm wearing clothes that fit. As a result, I don't look gaunt or sickly. And I'm not the slightest bit stressed that I've gotten too thin.
+
+![tape measure](./img/tape-measure.jpg)
 
 _Photo by_ [_Siora Photography_](https://unsplash.com/@siora18?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

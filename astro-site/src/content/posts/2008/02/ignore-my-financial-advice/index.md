@@ -9,4 +9,38 @@ description: "A few people in the last month have asked me for financial advice.
 commentCount: 0
 ---
 
-A few people in the last month have asked me for financial advice. Giving financial advice is a delicate and risky endeavor. It's not like fitness or nutritional advice. If I tell an overweight person to lift weights and stop drinking alcohol, the worst thing that can happen is the person doesn't lose weight and stays home sore on a Saturday night. If you give someone well-meaning but ultimately bad financial advice, they can lose a lot of money. Money that can take years to recover. With that said, ignore my financial advice. **1- Everyone is right until they are wrong.** Bill Miller from _Legg Mason_ beat the S&P 500 for 15 consecutive years. Then he failed to beat it the last two years. Humans are horrific when it comes to [predicting](/2007/12/the-black-swan/), so we seek out gurus to lead the way. Nobody gets it right all the time. **2- Everyone has a bias.** CNBC makes money from advertising. Those advertisers want you to invest. Gurus make money from newsletters and books. Financial planners make money from commissions. My bias is ego. I want to be right and I want people to remember that [I was right](/2007/09/home-prices-a-year-later-who-was-right/). Always be aware of bias. **3- Read, Read, Read.** Study [financial history](/2007/11/when-genius-failed/), economics and [investor psychology](/2007/03/too-many-choices-the-science-of-influence/). Standing further back from the day-to-day market swings often provides a better perspective. **4- Be Aware of Confirmation Bias.** People will seek out news and information that confirms what they believe. This is true with all forms of information, be it financial, political or religious. Seeking out information that challenges your perspective is a healthy habit to develop. **5- Don't Invest in your own sector.** If you work in Health Care, don't invest in Health Care. Learn a sector that is unrelated to your income. During the dot-com bust many tech workers lost their job and their investments at the same time. Today we are seeing real estate agents that are not only unable to sell homes for their client, they are unable to sell the homes they intended to flip. Diversify your investment knowledge away from your sector. And never invest in your own company. **6- Only Bank with the Best.** Unless you've avoided the news for the past few months, then you are aware there are some banking shenanigans going on. Some banks have lots of toxic loans on their books. Banks can and will fail. Even though accounts are FDIC insured up to $100,000, I'd prefer not to go through the hassle. I saw how our government handled the Katrina disaster, so you'll understand why I'd prefer to keep my money in better banks. Keeping a thousand in cash might not be a bad idea should the ATM card for your failed bank stop working. BankRate.com provides Safe and Sound ratings for all banks. Another clue that your bank may be in trouble is the offering of higher than normal rates on CDs or deals with sovereign wealth funds. Good banks don't need _lifeline_ loans. Everything I said is probably wrong, so please ignore my financial advice. UPDATE (7/27/08): Turns out Safe and Sound may not have updated and accurate data on the health of a bank.
+A few people in the last month have asked me for financial advice. Giving financial advice is a delicate and risky endeavor. It's not like fitness or nutritional advice.
+
+If I tell an overweight person to lift weights and stop drinking alcohol, the worst thing that can happen is the person doesn't lose weight and stays home sore on a Saturday night. If you give someone well-meaning but ultimately bad financial advice, they can lose a lot of money. Money that can take years to recover.
+
+With that said, ignore my financial advice.
+
+**1- Everyone is right until they are wrong.**
+
+Bill Miller from _Legg Mason_ beat the S&P 500 for 15 consecutive years. Then he failed to beat it the last two years. Humans are horrific when it comes to [predicting](/2007/12/the-black-swan/), so we seek out gurus to lead the way. Nobody gets it right all the time.
+
+**2- Everyone has a bias.**
+
+CNBC makes money from advertising. Those advertisers want you to invest. Gurus make money from newsletters and books. Financial planners make money from commissions. My bias is ego. I want to be right and I want people to remember that [I was right](/2007/09/home-prices-a-year-later-who-was-right/). Always be aware of bias.
+
+**3- Read, Read, Read.**
+
+Study [financial history](/2007/11/when-genius-failed/), economics and [investor psychology](/2007/03/too-many-choices-the-science-of-influence/). Standing further back from the day-to-day market swings often provides a better perspective.
+
+**4- Be Aware of Confirmation Bias.**
+
+People will seek out news and information that confirms what they believe. This is true with all forms of information, be it financial, political or religious. Seeking out information that challenges your perspective is a healthy habit to develop.
+
+**5- Don't Invest in your own sector.**
+
+If you work in Health Care, don't invest in Health Care. Learn a sector that is unrelated to your income. During the dot-com bust many tech workers lost their job and their investments at the same time. Today we are seeing real estate agents that are not only unable to sell homes for their client, they are unable to sell the homes they intended to flip. Diversify your investment knowledge away from your sector. And never invest in your own company.
+
+**6- Only Bank with the Best.**
+
+Unless you've avoided the news for the past few months, then you are aware there are some banking shenanigans going on. Some banks have lots of toxic loans on their books. Banks can and will fail. Even though accounts are FDIC insured up to $100,000, I'd prefer not to go through the hassle. I saw how our government handled the Katrina disaster, so you'll understand why I'd prefer to keep my money in better banks. Keeping a thousand in cash might not be a bad idea should the ATM card for your failed bank stop working.
+
+BankRate.com provides Safe and Sound ratings for all banks. Another clue that your bank may be in trouble is the offering of higher than normal rates on CDs or deals with sovereign wealth funds. Good banks don't need _lifeline_ loans.
+
+Everything I said is probably wrong, so please ignore my financial advice.
+
+UPDATE (7/27/08): Turns out Safe and Sound may not have updated and accurate data on the health of a bank.

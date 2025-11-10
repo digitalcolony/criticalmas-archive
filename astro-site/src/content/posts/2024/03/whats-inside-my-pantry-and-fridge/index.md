@@ -9,43 +9,91 @@ description: "I posted What I Eat and What I Don't Eat - 2023 Edition six months
 commentCount: 16
 ---
 
-I posted [What I Eat and What I Don't Eat - 2023 Edition](/2023/09/what-i-eat-and-what-i-dont-eat-2023-edition/) six months ago. I plan to add a new edition later this year or next. In the meantime, I thought I'd do a show-and-tell with my pantry. These are the foods that keep me lean. They also happen to be inexpensive compared to the foods that are making so many people overweight. I primarily cook with an Instant Pot. I also use an Air Fryer and a rice cooker.
+I posted [What I Eat and What I Don't Eat - 2023 Edition](/2023/09/what-i-eat-and-what-i-dont-eat-2023-edition/) six months ago. I plan to add a new edition later this year or next. In the meantime, I thought I'd do a show-and-tell with my pantry. These are the foods that keep me lean. They also happen to be inexpensive compared to the foods that are making so many people overweight.
+
+I primarily cook with an Instant Pot. I also use an Air Fryer and a rice cooker.
 
 
 ### Pantry
 
 
-![](./img/pantry-top.jpg) Top shelf: various beans and lentils, dehydrated veggies, popcorn 2nd shelf: dried GF noodles, tomatoes, tomato paste, coconut milk, falafel mix, salsa, pasta sauce, GF pasta, sardines, dried kelp 3rd shelf: nutritional yeast, buckwheat, broccoli sprouts, seaweed, chia seeds, textured vegetable protein, steel-cut oats, quinoa, more buckwheat groats, onions, potatoes, purple yam 4th shelf (not in photo): vegetable broth, various hot sauces, spices, soy curls floor (not in photo): cases of carbonated canned water (various brands) Cabinet (no photo): white rice, brown rice, wild rice, more black lentils
+![](./img/pantry-top.jpg)
+
+Top shelf: various beans and lentils, dehydrated veggies, popcorn
+
+2nd shelf: dried GF noodles, tomatoes, tomato paste, coconut milk, falafel mix, salsa, pasta sauce, GF pasta, sardines, dried kelp
+
+3rd shelf: nutritional yeast, buckwheat, broccoli sprouts, seaweed, chia seeds, textured vegetable protein, steel-cut oats, quinoa, more buckwheat groats, onions, potatoes, purple yam
+
+4th shelf (not in photo): vegetable broth, various hot sauces, spices, soy curls
+
+floor (not in photo): cases of carbonated canned water (various brands)
+
+Cabinet (no photo): white rice, brown rice, wild rice, more black lentils
 
 
 ### Fridge
 
 
-![](./img/fridge-1.jpg) Top shelf: cold brew coffee, lime juice, corn tortillas, Fat-Free Greek yogurt, peeled garlic, spicy jam (meh) 2nd shelf: prepacked power greens, tofu, sweet peppers, a jar of flaxseeds, Korean tofu soup leftovers, rice leftovers, cherry tomatoes, more yogurt Top crisper: green onions, cilantro 3rd shelf: cooked potatoes, steel-cut oatmeal leftovers, prunes, more tofu, olives, more tomatoes, strawberries Bottom left crisper: carrots, cabbage, green peppers Bottom right crisper: apples, oranges, sumo mandarin tangerines
+![](./img/fridge-1.jpg)
+
+Top shelf: cold brew coffee, lime juice, corn tortillas, Fat-Free Greek yogurt, peeled garlic, spicy jam (meh)
+
+2nd shelf: prepacked power greens, tofu, sweet peppers, a jar of flaxseeds, Korean tofu soup leftovers, rice leftovers, cherry tomatoes, more yogurt
+
+Top crisper: green onions, cilantro
+
+3rd shelf: cooked potatoes, steel-cut oatmeal leftovers, prunes, more tofu, olives, more tomatoes, strawberries
+
+Bottom left crisper: carrots, cabbage, green peppers
+
+Bottom right crisper: apples, oranges, sumo mandarin tangerines
 
 
 ### Fridge Inside Door
 
 
-![](./img/fridge-2.jpg) Top left: natto Top right: fish sauce, tamari, various hot sauces, cold brew coffee Middle shelf: various sauces Bottom shelf: kimchi, canned flavored water
+![](./img/fridge-2.jpg)
+
+Top left: natto
+
+Top right: fish sauce, tamari, various hot sauces, cold brew coffee
+
+Middle shelf: various sauces
+
+Bottom shelf: kimchi, canned flavored water
 
 
 ### Freezer
 
 
-![](./img/freezer-1.jpg) Brussels sprouts, broccoli, hominy, Korean rice cakes, fruit mix, avocados\* _\* The avocados were going bad, so I am testing freezing them._
+![](./img/freezer-1.jpg)
+
+Brussels sprouts, broccoli, hominy, Korean rice cakes, fruit mix, avocados\*
+
+_\* The avocados were going bad, so I am testing freezing them._
 
 
 ### Freezer Inside Door
 
 
-![](./img/freezer-2.jpg) Top shelf: natto, Brussels sprouts, Korean rice cakes Bottom shelf: squash, tofu, wild blueberries, corn _UPDATE March 25, 2024: I forgot to include [Broccoli Sprouts](/2022/02/food-inflation-is-not-a-concern-on-the-peasant-diet/), which were growing by my window._
+![](./img/freezer-2.jpg)
+
+Top shelf: natto, Brussels sprouts, Korean rice cakes
+
+Bottom shelf: squash, tofu, wild blueberries, corn
+
+_UPDATE March 25, 2024: I forgot to include [Broccoli Sprouts](/2022/02/food-inflation-is-not-a-concern-on-the-peasant-diet/), which were growing by my window._
 
 
 ### Notes
 
 
-The dehydrated veggies are non-perishable food in case of emergency or if I need a pinch of veggies for soup and I don't feel like chopping up something fresh. I stopped buying meat and most dairy. I'm experimenting with a more plant-based diet. I'm only a few months into my "almost" pesco-vegan diet experiment. I'll let you know how it goes later this year or early next year. Interestingly, a YouTube channel I follow called Conquer Aging Or Die Trying! did a video recently showing the diet he has used to [reduce his biological age by 19.5 years](https://www.youtube.com/watch?v=mUEGbBEPzgo). Our diets have a lot of overlap. He appears to be a pesco-vegan. When I ran my 2022 numbers through the formula, my biological age was 17 years younger. Peasant diet for the win!
+The dehydrated veggies are non-perishable food in case of emergency or if I need a pinch of veggies for soup and I don't feel like chopping up something fresh.
+
+I stopped buying meat and most dairy. I'm experimenting with a more plant-based diet. I'm only a few months into my "almost" pesco-vegan diet experiment. I'll let you know how it goes later this year or early next year.
+
+Interestingly, a YouTube channel I follow called Conquer Aging Or Die Trying! did a video recently showing the diet he has used to [reduce his biological age by 19.5 years](https://www.youtube.com/watch?v=mUEGbBEPzgo). Our diets have a lot of overlap. He appears to be a pesco-vegan. When I ran my 2022 numbers through the formula, my biological age was 17 years younger. Peasant diet for the win!
 
 ---
 

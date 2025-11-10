@@ -9,7 +9,19 @@ description: "When the new Glitter Gym opened up I walked through the floor of e
 commentCount: 6
 ---
 
-When the new Glitter Gym opened up I walked through the floor of equipment passing judgment. Good, bad, awful, and so on. I was doing some recon on what I would use to build workouts. One piece of equipment made me laugh. It was a flat bench with an arm that held a thick black rope. The person exercising was pulling the rope, which looped back around. It looked silly. I dismissed it and continued my recon. About a month later as I was heading out of the gym, I decided I'd give it a try as a joke. I experimented with the different settings and found the two highest tension settings to be interesting. Unlike the other members of the gym that were using the easy setting for 10-15 minutes, I used the 2 highest settings and did 3 sets of 30 seconds. All out. There were also three angles you could pull the rope from. I preferred the straight vertical. It was humbling. I got a great HIIT like workout without pounding my knees. I liked it a lot better than the rowing machines, which never clicked with me. _[Endless Rope Machine Video](https://www.youtube.com/watch?v=vGHmgqJeSu0)_ Apparently these machines have been around for years, but this was the first time I had seen one. Have you tried an Endless Rope machine? What did you think? There are tutorials online showing how some people have made their own.
+When the new Glitter Gym opened up I walked through the floor of equipment passing judgment. Good, bad, awful, and so on. I was doing some recon on what I would use to build workouts. One piece of equipment made me laugh.
+
+It was a flat bench with an arm that held a thick black rope. The person exercising was pulling the rope, which looped back around. It looked silly. I dismissed it and continued my recon.
+
+About a month later as I was heading out of the gym, I decided I'd give it a try as a joke. I experimented with the different settings and found the two highest tension settings to be interesting. Unlike the other members of the gym that were using the easy setting for 10-15 minutes, I used the 2 highest settings and did 3 sets of 30 seconds. All out.
+
+There were also three angles you could pull the rope from. I preferred the straight vertical.
+
+It was humbling. I got a great HIIT like workout without pounding my knees. I liked it a lot better than the rowing machines, which never clicked with me.
+
+_[Endless Rope Machine Video](https://www.youtube.com/watch?v=vGHmgqJeSu0)_
+
+Apparently these machines have been around for years, but this was the first time I had seen one. Have you tried an Endless Rope machine? What did you think? There are tutorials online showing how some people have made their own.
 
 ---
 

@@ -9,13 +9,23 @@ description: "I've read several claims that people tend to lose strength after t
 commentCount: 8
 ---
 
-I've read several claims that people tend to lose strength after they start a [High Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) program. I started HIT in December 2010. Have I lost strength? I guess it depends on how you measure strength. My thesis is that using traditional weight lifting exercises as a metric for measuring strength is unfair when measuring the efficacy of HIT. The reason is the bench press, squat and dead lift are highly technical moves. When you stop training a technical move, you get rusty and are unable to lift as much safely. What you perceive as a loss of strength might really be loss of technique. ![weights-in-gym](./img/weights-in-gym.jpg) _[Photo](https://flic.kr/p/hJVVst) by Garen Meguerian_
+I've read several claims that people tend to lose strength after they start a [High Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) program. I started HIT in December 2010. Have I lost strength? I guess it depends on how you measure strength.
+
+My thesis is that using traditional weight lifting exercises as a metric for measuring strength is unfair when measuring the efficacy of HIT. The reason is the bench press, squat and dead lift are highly technical moves. When you stop training a technical move, you get rusty and are unable to lift as much safely. What you perceive as a loss of strength might really be loss of technique.
+
+![weights-in-gym](./img/weights-in-gym.jpg)
+
+_[Photo](https://flic.kr/p/hJVVst) by Garen Meguerian_
 
 
 ### A Tale of Two Exercises
 
 
-About 6 months after I started High Intensity Training, I took a break and did some flat bench presses. My "strength" was off considerably. I had to lower the weight by about 30 pounds. For a brief moment I was concerned. Then I realized there was no way my strength had declined. I had never felt stronger. In an instant, I knew just how worthless the bench press was for measuring chest strength. I wrote an entire post on why I believe this to be true. See [My Bench Press Sucks and I Don't Care](/2011/11/my-bench-press-sucks-and-i-dont-care/). Another strength exercise that is far less technical is the chin-up. You basically just lift yourself up and then lower yourself down. When I do a chin-up, I'm just thinking about pulling my elbows down to my side in a direct line. Unlike a bench press, I don't have to worry about safety issues. If I fail to complete the repetition, I can safely lower myself down. Today I perform chin-ups in a slower controlled manner. _None of that CrossFit Kipping nonsense \[\*\]_. Anyway, I can perform more consecutive chin-ups today than when I did traditional weight training. And I'm not using ballistic momentum movements to squeeze out extra reps. \[\*\] Before someone asks me what I have against the CrossFit Kipping pull-up, I'll refer them to an [interview with Dr. Doug McGuff](http://conditioningresearch.blogspot.jp/2009/03/interview-with-doug-mcguff.html) on _Conditioning Research_.
+About 6 months after I started High Intensity Training, I took a break and did some flat bench presses. My "strength" was off considerably. I had to lower the weight by about 30 pounds. For a brief moment I was concerned. Then I realized there was no way my strength had declined. I had never felt stronger. In an instant, I knew just how worthless the bench press was for measuring chest strength. I wrote an entire post on why I believe this to be true. See [My Bench Press Sucks and I Don't Care](/2011/11/my-bench-press-sucks-and-i-dont-care/).
+
+Another strength exercise that is far less technical is the chin-up. You basically just lift yourself up and then lower yourself down. When I do a chin-up, I'm just thinking about pulling my elbows down to my side in a direct line. Unlike a bench press, I don't have to worry about safety issues. If I fail to complete the repetition, I can safely lower myself down. Today I perform chin-ups in a slower controlled manner. _None of that CrossFit Kipping nonsense \[\*\]_. Anyway, I can perform more consecutive chin-ups today than when I did traditional weight training. And I'm not using ballistic momentum movements to squeeze out extra reps.
+
+\[\*\] Before someone asks me what I have against the CrossFit Kipping pull-up, I'll refer them to an [interview with Dr. Doug McGuff](http://conditioningresearch.blogspot.jp/2009/03/interview-with-doug-mcguff.html) on _Conditioning Research_.
 
 > You can only do kipping pull-ups or clapping pushups so long before you tear the labrum of your shoulder or injure your rotator cuff. Further, these injuries are not always acutely evident. You may tear your labrum in your 20’s and “mysteriously” end up with a frozen shoulder in your 50’s.
 

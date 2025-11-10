@@ -8,7 +8,21 @@ description: "This winter I did an experiment. I started supplementing with ging
 commentCount: 4
 ---
 
-This winter I did an experiment. I started supplementing with ginger root capsules. Every day I would take a 550 mg dose. Sometimes 2 a day. People around me were getting sick, yet I seemed immune. Invincible. Was I onto the secret for fighting off the common cold? Ginger is a powerful anti-microbial food. It makes sense that it would help. And it is so cheap to supplement with. Then with spring just around the corner, I felt something. Oh no. I got hit with a cold. The symptoms hit me hard too. I was sick for almost a week. The interesting thing I notice is that when a cold has strong symptoms, the duration tends to be shorter. When the symptoms are weak, it takes much longer to go away. Does that happen with others? Anyway, I'll keep taking my ginger root supplement. After all, I bought 3 bottles each with 100 capsules. Do you have any secret tips for preventing the common cold? It was that very question that kicked off the nutritional direction of this blog over a decade ago. At times I thought I had it figured out, but I don't. I'm still seeking the answer. ![sick](./img/sick.jpg) _[Photo Credit](https://flic.kr/p/iXrXc3)_
+This winter I did an experiment. I started supplementing with ginger root capsules. Every day I would take a 550 mg dose. Sometimes 2 a day. People around me were getting sick, yet I seemed immune. Invincible. Was I onto the secret for fighting off the common cold?
+
+Ginger is a powerful anti-microbial food. It makes sense that it would help. And it is so cheap to supplement with.
+
+Then with spring just around the corner, I felt something. Oh no. I got hit with a cold. The symptoms hit me hard too. I was sick for almost a week.
+
+The interesting thing I notice is that when a cold has strong symptoms, the duration tends to be shorter. When the symptoms are weak, it takes much longer to go away. Does that happen with others?
+
+Anyway, I'll keep taking my ginger root supplement. After all, I bought 3 bottles each with 100 capsules.
+
+Do you have any secret tips for preventing the common cold? It was that very question that kicked off the nutritional direction of this blog over a decade ago. At times I thought I had it figured out, but I don't. I'm still seeking the answer.
+
+![sick](./img/sick.jpg)
+
+_[Photo Credit](https://flic.kr/p/iXrXc3)_
 
 ---
 

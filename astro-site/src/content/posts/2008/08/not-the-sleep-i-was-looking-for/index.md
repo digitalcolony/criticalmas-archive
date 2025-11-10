@@ -9,7 +9,11 @@ description: "I picked up a book recently that I thought would provide insight a
 commentCount: 2
 ---
 
-I picked up a book recently that I thought would provide insight and tips on [improving my sleep](/2008/08/i-dont-like-the-night-life/). I should have read the reviews a little closer. ![Sleep](https://images-na.ssl-images-amazon.com/images/I/51u4eIKr46L._SL500_.jpg) _Sleep by Carlos H. Schenck_ covers all the oddities of sleep disorders. If you want to learn about sleepwalking, sexsomnia, night terrors, or any of the host of serious sleep problems, then this book will be interesting. If however, you are looking for basic help on falling asleep earlier or staying asleep longer, this book is not for you. The only useful information I found was in two paragraphs in the first 30 pages. A few years ago I read a great book on sleep. I can't recall the title, but it was chock full of information and very helpful to me.
+I picked up a book recently that I thought would provide insight and tips on [improving my sleep](/2008/08/i-dont-like-the-night-life/). I should have read the reviews a little closer.
+
+![Sleep](https://images-na.ssl-images-amazon.com/images/I/51u4eIKr46L._SL500_.jpg) _Sleep by Carlos H. Schenck_ covers all the oddities of sleep disorders. If you want to learn about sleepwalking, sexsomnia, night terrors, or any of the host of serious sleep problems, then this book will be interesting.
+
+If however, you are looking for basic help on falling asleep earlier or staying asleep longer, this book is not for you. The only useful information I found was in two paragraphs in the first 30 pages. A few years ago I read a great book on sleep. I can't recall the title, but it was chock full of information and very helpful to me.
 
 ---
 

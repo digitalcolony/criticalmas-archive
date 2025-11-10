@@ -8,7 +8,23 @@ description: "About two years ago, I started experiencing numb feet and toes. I 
 commentCount: 3
 ---
 
-About two years ago, I started experiencing numb feet and toes. I noticed it when I first woke up in the morning upon standing. As the day progressed, it became less noticeable. Wearing socks and shoes also masked the numb feeling. Like any good health hacker, I did my internet searches. I went through every item on WebMD and Healthline and none of the ideas made any sense for my situation. Feet numbness can be common in heavier people as they approach or have entered diabetes. That wasn't me. I was stumped until a friend of mine told me she fixed hers by stretching her calves and hamstrings. It couldn't be that simple. And if it were, why wasn't this idea listed on WebMD or Healthline? But for me, it was that simple. It solved the problem and I didn't even think my calves were tight. This blog has more than a decade of me tinkering around with different health experiments trying to gain a little edge here or there. This might be the greatest hack I've ever done. Maybe 2nd to the [potato hack](https://potatohack.com/)? By stretching each calf every morning, all my numbness is now gone. ![](./img/slank-board.jpg) _I bought a slant board to do goblet squats, but it is also perfect for calf stretching._ Every morning, I deeply stretch each calf for about 45 seconds. One time each. That is all I need. In the photo above, you can see the angle that I use for my stretch. The problem is gone. It took just a few days for me to tell it was starting to work. There are many ways to stretch your calf muscles. The slant board was just the best tool I had nearby. If you are feeling any foot or toe numbness, give stretching a try. Even if there is another cause, you'll be able to eliminate tight calves as a reason within a week or two. I hope the search engines bless this page and that this tip can help someone out there.
+About two years ago, I started experiencing numb feet and toes. I noticed it when I first woke up in the morning upon standing. As the day progressed, it became less noticeable. Wearing socks and shoes also masked the numb feeling.
+
+Like any good health hacker, I did my internet searches. I went through every item on WebMD and Healthline and none of the ideas made any sense for my situation. Feet numbness can be common in heavier people as they approach or have entered diabetes. That wasn't me.
+
+I was stumped until a friend of mine told me she fixed hers by stretching her calves and hamstrings. It couldn't be that simple. And if it were, why wasn't this idea listed on WebMD or Healthline? But for me, it was that simple. It solved the problem and I didn't even think my calves were tight.
+
+This blog has more than a decade of me tinkering around with different health experiments trying to gain a little edge here or there. This might be the greatest hack I've ever done. Maybe 2nd to the [potato hack](https://potatohack.com/)? By stretching each calf every morning, all my numbness is now gone.
+
+![](./img/slank-board.jpg)
+
+_I bought a slant board to do goblet squats, but it is also perfect for calf stretching._
+
+Every morning, I deeply stretch each calf for about 45 seconds. One time each. That is all I need. In the photo above, you can see the angle that I use for my stretch. The problem is gone. It took just a few days for me to tell it was starting to work.
+
+There are many ways to stretch your calf muscles. The slant board was just the best tool I had nearby. If you are feeling any foot or toe numbness, give stretching a try. Even if there is another cause, you'll be able to eliminate tight calves as a reason within a week or two.
+
+I hope the search engines bless this page and that this tip can help someone out there.
 
 ---
 

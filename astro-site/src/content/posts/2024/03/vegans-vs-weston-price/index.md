@@ -8,7 +8,9 @@ description: "There are two nutritional camps I respect who disagree with each o
 commentCount: 11
 ---
 
-There are two nutritional camps I respect who disagree with each other. I see the value in each path and will try to reconcile the differences. We all know what the vegans represent—no animal products. The vegans that I follow are the whole food plant-based ones that are nutrition first. Weston A. Price needs some explanation. Back in 2011, I covered his book in the post [Nutrition and Physical Degeneration](/2011/01/nutrition-and-physical-degeneration/).
+There are two nutritional camps I respect who disagree with each other. I see the value in each path and will try to reconcile the differences.
+
+We all know what the vegans represent—no animal products. The vegans that I follow are the whole food plant-based ones that are nutrition first. Weston A. Price needs some explanation. Back in 2011, I covered his book in the post [Nutrition and Physical Degeneration](/2011/01/nutrition-and-physical-degeneration/).
 
 > _Nutrition and Physical Degeneration by Weston A. Price_ was published in 1939 and might be more relevant today than it was back then. The story of this book is fascinating. A dentist from Cleveland traveled the world to study what different cultures ate and how it impacted their health. Dr. Price did this at a time just before the world got completely connected. He was able to see how traditional people lived. He was also able to see and measure the health consequences of people who had just been exposed to modern food.
 
@@ -20,25 +22,45 @@ And from my post [The Endgame for Paleo is WAPF](/2012/08/the-endgame-for-paleo-
 
 > As much as I like the Paleo diet as a starting point, I prefer a Weston A. Price approach to nutrition. Paleo is good at figuring out what foods to eat. Weston A Price focuses not only on food and food quality but also on food preparation. Paleo is about bringing the food back to the cave. Weston A. Price takes it from there and figures out how to extract the maximum nutrition from that food. Fermentation, soaking, sprouting, making stocks, and organ meats.
 
-In the title of that post, I used the acronym WAPF, which is for the foundation that represents the principles of Weston A. Price. At the time of those posts, I wasn't that aware of the positions of the group and lumped them together in my brain. For this post, I am not referring to the foundation, but our understanding of what Dr. Price witnessed when he traveled the world studying different cultures. Price was able to show the harmful impact processed flour, refined sugar, and processed oils had on cultures that had never been exposed to those foods. His book is full of photographic dental evidence. Price was also able to show how different cultures used whole foods local to their region to create vibrant health without knowing anything about nutritional science. Vitamins had only recently been discovered, yet these cultures knew how to prepare and combine foods in their environment to prevent deficiencies. They soaked, sprouted, and fermented their foods. They ate the entire animal nose to tail. ![](./img/weston-price.jpg)
+In the title of that post, I used the acronym WAPF, which is for the foundation that represents the principles of Weston A. Price. At the time of those posts, I wasn't that aware of the positions of the group and lumped them together in my brain. For this post, I am not referring to the foundation, but our understanding of what Dr. Price witnessed when he traveled the world studying different cultures.
+
+Price was able to show the harmful impact processed flour, refined sugar, and processed oils had on cultures that had never been exposed to those foods. His book is full of photographic dental evidence.
+
+Price was also able to show how different cultures used whole foods local to their region to create vibrant health without knowing anything about nutritional science. Vitamins had only recently been discovered, yet these cultures knew how to prepare and combine foods in their environment to prevent deficiencies. They soaked, sprouted, and fermented their foods. They ate the entire animal nose to tail.
+
+![](./img/weston-price.jpg)
 
 
 ### Weston Price in the Modern World
 
 
-I was part of a Weston Price Meetup group for a few years here in Seattle. The group is not around anymore. Every month we would get together for a potluck and socialize. We shared our grass-fed meats, local cheeses, and ferments. During this period, I learned a lot about food. If you dig through the archives of this site, you will see lots of posts on making traditional foods. Yet if you looked at my diet today, it is much closer to vegan than Weston Price. I consume even less meat than when I put out my [2023 edition of What I Eat](/2023/09/what-i-eat-and-what-i-dont-eat-2023-edition/). Why?
+I was part of a Weston Price Meetup group for a few years here in Seattle. The group is not around anymore. Every month we would get together for a potluck and socialize. We shared our grass-fed meats, local cheeses, and ferments.
+
+During this period, I learned a lot about food. If you dig through the archives of this site, you will see lots of posts on making traditional foods.
+
+Yet if you looked at my diet today, it is much closer to vegan than Weston Price. I consume even less meat than when I put out my [2023 edition of What I Eat](/2023/09/what-i-eat-and-what-i-dont-eat-2023-edition/). Why?
 
 
 ### Different Era, Different Goals, Different Strategies
 
 
-Following the traditional diets that Price was exposed to was for a different era. It was for a world where calories were scarce and extracting as much nutrition as possible was essential for survival. The wisdom on how to do that was passed down from generation to generation. Traditional cultures did not have refrigeration. To store calories in times of calorie scarcity, they banked calories with fermentation and animals. Veggies would rot, but the salt used to make sauerkraut and kimchi would preserve the food for months. Milk would spoil, but cheeses and other dairy ferments would be a store of calories for a much longer time window. The other store of calories would be from the animal meat itself. Today we don't have to bank calories based on the seasons. We can buy whatever we want from anywhere in the world 24/7/365. Nutritional deficiencies are mostly gone and we all get plenty (or too much) to eat these days. We no longer need calorie-dense dairy ferments or animal fat to survive or thrive. We also live in a modern world full of [environmental toxins](/2023/11/keto-and-carnivore-diets-were-always-a-no-for-me/). These toxins and microplastics did not exist in traditional cultures. Eating a small amount of animal fat in a clean world that is calorie-scarce would be healthier than consuming a lot of meat in a calorie-abundant polluted world. A mostly vegan diet solves these issues. You can get nutrient-dense food with fewer calories and fewer toxins. I still use the soaking, sprouting, and fermentation knowledge that I gained more than a decade ago. However, I consume far less animal fat. My blood work looks great and I'm leaner too.
+Following the traditional diets that Price was exposed to was for a different era. It was for a world where calories were scarce and extracting as much nutrition as possible was essential for survival. The wisdom on how to do that was passed down from generation to generation.
+
+Traditional cultures did not have refrigeration. To store calories in times of calorie scarcity, they banked calories with fermentation and animals. Veggies would rot, but the salt used to make sauerkraut and kimchi would preserve the food for months. Milk would spoil, but cheeses and other dairy ferments would be a store of calories for a much longer time window. The other store of calories would be from the animal meat itself.
+
+Today we don't have to bank calories based on the seasons. We can buy whatever we want from anywhere in the world 24/7/365. Nutritional deficiencies are mostly gone and we all get plenty (or too much) to eat these days. We no longer need calorie-dense dairy ferments or animal fat to survive or thrive.
+
+We also live in a modern world full of [environmental toxins](/2023/11/keto-and-carnivore-diets-were-always-a-no-for-me/). These toxins and microplastics did not exist in traditional cultures. Eating a small amount of animal fat in a clean world that is calorie-scarce would be healthier than consuming a lot of meat in a calorie-abundant polluted world.
+
+A mostly vegan diet solves these issues. You can get nutrient-dense food with fewer calories and fewer toxins. I still use the soaking, sprouting, and fermentation knowledge that I gained more than a decade ago. However, I consume far less animal fat. My blood work looks great and I'm leaner too.
 
 
 ### Last Words
 
 
-To be clear, I don't think following a traditional diet in modern times is a poor choice. For most people, it would be a great improvement over eating a diet of processed foods. I just no longer think it is optimal. Too many calories and too many environmental toxins, even if they are from nutrient-dense sources, are still going to be a problem. If we ever had some disaster scenario where global shipping was shut down and we were forced to truly live locally and work for calories in a scarce environment, I'd return to a more Price approach.
+To be clear, I don't think following a traditional diet in modern times is a poor choice. For most people, it would be a great improvement over eating a diet of processed foods. I just no longer think it is optimal. Too many calories and too many environmental toxins, even if they are from nutrient-dense sources, are still going to be a problem.
+
+If we ever had some disaster scenario where global shipping was shut down and we were forced to truly live locally and work for calories in a scarce environment, I'd return to a more Price approach.
 
 ---
 

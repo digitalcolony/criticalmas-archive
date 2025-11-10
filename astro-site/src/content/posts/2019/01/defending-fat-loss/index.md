@@ -9,14 +9,24 @@ description: "I recently received an email asking about the best way to keep wei
 commentCount: 7
 ---
 
-I recently received an email asking about the best way to keep weight off after a diet. I like the question because at its root is an understanding that once you get to your ideal weight it is too soon to declare victory. We know this because so many dieters regain the weight they lost. Often more. I've seen stats that say between 70% and 95% of dieters will eventually regain the weight they lost. I am not an expert on this topic, but I researched the hell out of this question before I even started the diet helped me lose the weight I needed to. And so far, I've been successful at keeping off the weight. My measurements:
+I recently received an email asking about the best way to keep weight off after a diet. I like the question because at its root is an understanding that once you get to your ideal weight it is too soon to declare victory. We know this because so many dieters regain the weight they lost. Often more. I've seen stats that say between 70% and 95% of dieters will eventually regain the weight they lost.
+
+I am not an expert on this topic, but I researched the hell out of this question before I even started the diet helped me lose the weight I needed to. And so far, I've been successful at keeping off the weight.
+
+My measurements:
 
 -   222 - March 2017
 -   202 - August 2017
 -   197 - April 2018
 -   194 - January 2018
 
-_(Height 6′ 2.5)_  My story is not a story of going from obese to ripped, so I don't know how valuable it will be to you. I will say that the easiest weight to lose in any diet will be the initial pounds. The hardest pounds will be at the end. For me, the fat loss was not difficult, because I designed a diet that crushed hunger, so I didn't need any willpower to consciously reduce calories. I selected foods that were high volume (boiled potatoes) and high protein (eggs, sardines, Greek yogurt, lean ground beef, legumes). But how you lose the weight is not the topic of this post. This is about defending that loss.
+_(Height 6′ 2.5)_ 
+
+My story is not a story of going from obese to ripped, so I don't know how valuable it will be to you. I will say that the easiest weight to lose in any diet will be the initial pounds. The hardest pounds will be at the end.
+
+For me, the fat loss was not difficult, because I designed a diet that crushed hunger, so I didn't need any willpower to consciously reduce calories. I selected foods that were high volume (boiled potatoes) and high protein (eggs, sardines, Greek yogurt, lean ground beef, legumes).
+
+But how you lose the weight is not the topic of this post. This is about defending that loss.
 
 
 ### #1 Don't Declare Victory Too Soon
@@ -38,25 +48,43 @@ Stepping on a scale and taking a tape measure readings a few times a week is som
 ### #3 Understand the Math of Metabolism
 
 
-Dieting makes your metabolism more efficient. This means your expected caloric burn at your goal weight will be lower than had you never gained and lost the weight. Read [Why Is It So Easy To Regain Weight?](https://weightology.net/why-is-it-so-easy-to-regain-weight/) by James Krieger for a detailed explanation. Let us say a person diets from 200 down to 170, which is the weight that person had in college. When they get down to 170, they may have to restrict their calories as if they were at 160, because the body recognizes the threat of calorie restriction and dials down metabolism as a survival strategy. How long this lower metabolism persists is still being debated and it may change from person to person based on the amount of fat loss, age, or other factors. Assume at least a year. This is another reason not to declare victory too soon. I do not know if designing a diet like I did which quiets the hunger hormones prevents this downregulation in metabolism. I suspect it can only help.
+Dieting makes your metabolism more efficient. This means your expected caloric burn at your goal weight will be lower than had you never gained and lost the weight. Read [Why Is It So Easy To Regain Weight?](https://weightology.net/why-is-it-so-easy-to-regain-weight/) by James Krieger for a detailed explanation.
+
+Let us say a person diets from 200 down to 170, which is the weight that person had in college. When they get down to 170, they may have to restrict their calories as if they were at 160, because the body recognizes the threat of calorie restriction and dials down metabolism as a survival strategy.
+
+How long this lower metabolism persists is still being debated and it may change from person to person based on the amount of fat loss, age, or other factors. Assume at least a year. This is another reason not to declare victory too soon.
+
+I do not know if designing a diet like I did which quiets the hunger hormones prevents this downregulation in metabolism. I suspect it can only help.
 
 
 ### #4 Understand P-Ratio
 
 
-I cover P-Ratio more in [High Volume or High Protein Foods For Fat Loss](/2017/08/high-volume-high-protein-foods-fat-loss/), but the short version is when we lose weight, some of the weight comes from fat and some from muscle. As one gets leaner, the body starts to burn more muscle. This is bad. The defense is to increase protein as you get leaner and keep that level of protein higher to defend that fat loss. What percent is best? Let the scale and tape measure be your guide.
+I cover P-Ratio more in [High Volume or High Protein Foods For Fat Loss](/2017/08/high-volume-high-protein-foods-fat-loss/), but the short version is when we lose weight, some of the weight comes from fat and some from muscle. As one gets leaner, the body starts to burn more muscle. This is bad.
+
+The defense is to increase protein as you get leaner and keep that level of protein higher to defend that fat loss. What percent is best? Let the scale and tape measure be your guide.
 
 
 ### #5 Document What Works (and Doesn't)
 
 
-If you have just succeeded in hitting your goal weight, it would be a great time to jot down every idea that worked for you and those that didn't. Then refer to it when you need to. Here is mine: [Fat Loss Cheatsheet: What Works and What Doesn’t (for me)](/2018/02/fat-loss-cheatsheet-works-doesnt/) I put those 1200 words down just prior to declaring victory on my diet. I've read it a few times since then. There will be nothing forgotten should I ever need to diet again. I'll have a working playbook already in hand.
+If you have just succeeded in hitting your goal weight, it would be a great time to jot down every idea that worked for you and those that didn't. Then refer to it when you need to.
+
+Here is mine: [Fat Loss Cheatsheet: What Works and What Doesn’t (for me)](/2018/02/fat-loss-cheatsheet-works-doesnt/)
+
+I put those 1200 words down just prior to declaring victory on my diet. I've read it a few times since then. There will be nothing forgotten should I ever need to diet again. I'll have a working playbook already in hand.
 
 
 ### Wrap Up
 
 
-Recently, I introduced [Potatoes and Protein – Two Attacks on Hunger](/2018/12/potatoes-and-protein-two-attacks-on-hunger/). Not only would this plan help someone lean out, but it is an excellent tool for defending fat loss. I designed it as a no-thinking cheap-as-hell way to stay lean with minimal time commitment to food preparation. These are my tips. If you have one you'd like to share, leave a comment below. ![potatoes protein](./img/p-n-p.jpg) _When a diet starts, either button is fine. But as you get leaner, hit the protein button more often. Both work!_
+Recently, I introduced [Potatoes and Protein – Two Attacks on Hunger](/2018/12/potatoes-and-protein-two-attacks-on-hunger/). Not only would this plan help someone lean out, but it is an excellent tool for defending fat loss. I designed it as a no-thinking cheap-as-hell way to stay lean with minimal time commitment to food preparation.
+
+These are my tips. If you have one you'd like to share, leave a comment below.
+
+![potatoes protein](./img/p-n-p.jpg)
+
+_When a diet starts, either button is fine. But as you get leaner, hit the protein button more often. Both work!_
 
 ---
 

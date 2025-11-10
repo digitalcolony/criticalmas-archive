@@ -9,19 +9,29 @@ description: "Two days ago I posted Just Count Protein For Fat Loss, which theor
 commentCount: 23
 ---
 
-Two days ago I posted [Just Count Protein For Fat Loss](/2014/07/just-count-protein-fat-loss/), which theorizes that the minimum effort one needs to do to lose weight is increase protein. Get the grams you need and that should reduce appetite, create a caloric deficit and trigger fat loss. Now I am thinking about timing. If I need to consume 143-191 grams of protein a day and I know roughly how many meals and snacks I will eating, then I need to be cognizant of my running protein total as the day progresses. My first day I raced to hit 144 grams before bed. Yesterday I hit 210 grams. This will take a little practice, but I am carrying around a notepad to help me.
+Two days ago I posted [Just Count Protein For Fat Loss](/2014/07/just-count-protein-fat-loss/), which theorizes that the minimum effort one needs to do to lose weight is increase protein. Get the grams you need and that should reduce appetite, create a caloric deficit and trigger fat loss.
+
+Now I am thinking about timing. If I need to consume 143-191 grams of protein a day and I know roughly how many meals and snacks I will eating, then I need to be cognizant of my running protein total as the day progresses. My first day I raced to hit 144 grams before bed. Yesterday I hit 210 grams. This will take a little practice, but I am carrying around a notepad to help me.
 
 
 ### 30 grams of Protein First
 
 
-To ensure I am both getting a high level of protein and that the protein I am getting has the best chance to curb my appetite, I've created a rule that I will eat Protein and Veggies first. I will shoot for a 30 gram minimum goal when I eat. After eating protein and veggies, I will then wait before reaching for carbs and fat. I don't think carbs and fat are bad, but I want to make sure that I am truly hungry. Several sites recommend waiting 20 minutes before getting a second helping of food. So I will consider Protein + Veggies to always be serving #1.
+To ensure I am both getting a high level of protein and that the protein I am getting has the best chance to curb my appetite, I've created a rule that I will eat Protein and Veggies first. I will shoot for a 30 gram minimum goal when I eat. After eating protein and veggies, I will then wait before reaching for carbs and fat.
+
+I don't think carbs and fat are bad, but I want to make sure that I am truly hungry. Several sites recommend waiting 20 minutes before getting a second helping of food. So I will consider Protein + Veggies to always be serving #1.
 
 
 ### Eat Staples
 
 
-I'm a food explorer, so the idea of eating the same foods over and over is not appealing on the surface. However, I've learned from a few fitness professionals that athletes that carry a low amount of body fat tend to eat many staples. In my case, I am trying to eat more protein. As many food options as there are, there isn't a lot of 30+ gram protein options. Meat, eggs, fish, protein powder and some dairy.  To get 144-191 grams of protein consumed a day will require staples. I can still be a food explorer while I get lean, I just need to eat the protein first. ![cans of tuna](./img/14004094666_b581f63f9c_z.jpg) _[Photo](https://www.flickr.com/photos/113026679@N03/14004094666/) by David Mulder._
+I'm a food explorer, so the idea of eating the same foods over and over is not appealing on the surface. However, I've learned from a few fitness professionals that athletes that carry a low amount of body fat tend to eat many staples. In my case, I am trying to eat more protein. As many food options as there are, there isn't a lot of 30+ gram protein options. Meat, eggs, fish, protein powder and some dairy.  To get 144-191 grams of protein consumed a day will require staples.
+
+I can still be a food explorer while I get lean, I just need to eat the protein first.
+
+![cans of tuna](./img/14004094666_b581f63f9c_z.jpg)
+
+_[Photo](https://www.flickr.com/photos/113026679@N03/14004094666/) by David Mulder._
 
 ---
 

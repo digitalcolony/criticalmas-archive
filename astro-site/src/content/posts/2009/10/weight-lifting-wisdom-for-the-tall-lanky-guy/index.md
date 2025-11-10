@@ -15,7 +15,9 @@ Today _T-Whatever_ released a new article titled [How Tall Guys Get Jacked](http
 2.  Play with half-reps.
 3.  When doing bench presses, use a more narrow grip to avoid having your elbows flare out.
 
-As good as the tips are, I feel the author missed the obvious one. What I have discovered in my 15 years of lifting is **the primary failure point to getting stronger is grip strength**. The tall lanky lifter has long arms and small wrists. Without a strong grip, the ectomorph will have major difficulty getting stronger. Years ago I was fortunate to run across the company [IronMind](https://ironmind.com/). They specialize in grip strength and other strongman-like equipment. They have divided hand strength into 5 areas.
+As good as the tips are, I feel the author missed the obvious one. What I have discovered in my 15 years of lifting is **the primary failure point to getting stronger is grip strength**. The tall lanky lifter has long arms and small wrists. Without a strong grip, the ectomorph will have major difficulty getting stronger.
+
+Years ago I was fortunate to run across the company [IronMind](https://ironmind.com/). They specialize in grip strength and other strongman-like equipment. They have divided hand strength into 5 areas.
 
 1.  Crushing grip - This is the classic handshake squeeze.
 2.  Pinching grip - Thumb pressing strength.
@@ -23,7 +25,25 @@ As good as the tips are, I feel the author missed the obvious one. What I have d
 4.  Extensors - How strong are the fingers when resistance prevents them from extending?
 5.  Wrist strength - Strong wrists are critical to lifting heavy weights safely.
 
-The most important two for us are **crushing grip** and **wrist strength**. For crushing grip, I highly recommend getting a Captains of Crush by Ironmind. The typical office hand gripper is only 25-35 pounds of pressure. Not enough to build any real hand strength. The Captains of Crush are for those that are serious about improving their grip strength. \[table id=1 /\] ![Captains of Crush Hand Gripper - No. 1](https://images-na.ssl-images-amazon.com/images/I/41KHQbb74lL.jpg) Captains of Crush Hand Gripper - No. 1 I own the #1 and it took me almost a year before I could close it end-to-end in either hand. Soon I will be getting the #1.5. Only 5 people on the planet have ever closed the #4. In addition to the hand gripper, there are many ways to increase your hand strength. John Brookfield wrote two great books on the topic. I own them both. ![Mastery of Hand Strength, Revised Edition](https://images-na.ssl-images-amazon.com/images/I/51JkfwhJ4RL.jpg) Mastery of Hand Strength, Revised Edition by John Brookfield ![The Grip Master's Manual](https://images-na.ssl-images-amazon.com/images/I/512J3B32Z8L.jpg) The Grip Master's Manual by John Brookfield I was also fortunate enough to meet John Brookfield at the Arnold Expo in 2004. ![mas-john-brookfield](./img/mas-john-brookfield.jpg) To build forearm and wrist strength, I highly recommend doing Farmers Walks. A Farmers Walk is when you grab a pair of heavy dumbbells and go for a walk. The heavier the dumbbell, the shorter the walk. Back in California, I used to put a 120-pound dumbbell in each hand and walk to the end of the driveway and back. I did that 10 times. Personal trainers will tell you to wear gloves or use straps. Nonsense. Read John Brookfield. Get a Captains of Crush gripper and do Farmers Walks. In no time, you'll be benching more and doing weighted pull-ups.
+The most important two for us are **crushing grip** and **wrist strength**. For crushing grip, I highly recommend getting a Captains of Crush by Ironmind. The typical office hand gripper is only 25-35 pounds of pressure. Not enough to build any real hand strength. The Captains of Crush are for those that are serious about improving their grip strength.
+
+\[table id=1 /\]
+
+![Captains of Crush Hand Gripper - No. 1](https://images-na.ssl-images-amazon.com/images/I/41KHQbb74lL.jpg) Captains of Crush Hand Gripper - No. 1
+
+I own the #1 and it took me almost a year before I could close it end-to-end in either hand. Soon I will be getting the #1.5. Only 5 people on the planet have ever closed the #4. In addition to the hand gripper, there are many ways to increase your hand strength. John Brookfield wrote two great books on the topic. I own them both.
+
+![Mastery of Hand Strength, Revised Edition](https://images-na.ssl-images-amazon.com/images/I/51JkfwhJ4RL.jpg) Mastery of Hand Strength, Revised Edition by John Brookfield
+
+![The Grip Master's Manual](https://images-na.ssl-images-amazon.com/images/I/512J3B32Z8L.jpg) The Grip Master's Manual by John Brookfield
+
+I was also fortunate enough to meet John Brookfield at the Arnold Expo in 2004.
+
+![mas-john-brookfield](./img/mas-john-brookfield.jpg)
+
+To build forearm and wrist strength, I highly recommend doing Farmers Walks. A Farmers Walk is when you grab a pair of heavy dumbbells and go for a walk. The heavier the dumbbell, the shorter the walk. Back in California, I used to put a 120-pound dumbbell in each hand and walk to the end of the driveway and back. I did that 10 times.
+
+Personal trainers will tell you to wear gloves or use straps. Nonsense. Read John Brookfield. Get a Captains of Crush gripper and do Farmers Walks. In no time, you'll be benching more and doing weighted pull-ups.
 
 ---
 

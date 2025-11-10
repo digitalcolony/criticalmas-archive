@@ -15,7 +15,19 @@ From time to time I will get emails asking me about my current thoughts related 
 2.  Effectiveness
 3.  Novelty
 
-Notice how I ordered them. This is not how most people approach fitness. Most will start with novelty. What looks cool or seems inspiring to them. Then they will figure out how to make those exercises effective. And then they will do their best to make that exercise plan safe. This to me is the big flaw with fitness. I start with safe movements. Then I figure out to make them effective. Finally, when I do seek novelty, I do it without making the exercise less safe or less effective. I don't know if this approach would have been inspiring to me when I was younger. Like most young men, I was inspired by outliers. I wanted to know how Evander Holyfield exercised, not how to minimize my risk of injury. ![](./img/holyfield.jpg) _Evander Holyfield_ I'm forever grateful that I had a few injuries under my belt before I became aware of CrossFit. I went with Body by Science and have been forever grateful. Not as glamorous and less novel, but it works for me. I've said it before, but it is worth repeating: **You will make the most gains in your exercise program by vastly reducing or eliminating injury risk.** Maybe not in the first few years, but in the long run. So instead of trying to figure out how to knock out 20 perfect kipping pull-ups, I'll be the guy doing controlled slow pulldowns.
+Notice how I ordered them. This is not how most people approach fitness. Most will start with novelty. What looks cool or seems inspiring to them. Then they will figure out how to make those exercises effective. And then they will do their best to make that exercise plan safe.
+
+This to me is the big flaw with fitness. I start with safe movements. Then I figure out to make them effective. Finally, when I do seek novelty, I do it without making the exercise less safe or less effective.
+
+I don't know if this approach would have been inspiring to me when I was younger. Like most young men, I was inspired by outliers. I wanted to know how Evander Holyfield exercised, not how to minimize my risk of injury.
+
+![](./img/holyfield.jpg)
+
+_Evander Holyfield_
+
+I'm forever grateful that I had a few injuries under my belt before I became aware of CrossFit. I went with Body by Science and have been forever grateful. Not as glamorous and less novel, but it works for me.
+
+I've said it before, but it is worth repeating: **You will make the most gains in your exercise program by vastly reducing or eliminating injury risk.** Maybe not in the first few years, but in the long run. So instead of trying to figure out how to knock out 20 perfect kipping pull-ups, I'll be the guy doing controlled slow pulldowns.
 
 ---
 

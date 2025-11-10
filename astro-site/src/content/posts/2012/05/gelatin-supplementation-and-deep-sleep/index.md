@@ -9,7 +9,9 @@ description: "A month or so ago I stumbled across a recommendation for using gel
 commentCount: 28
 ---
 
-A month or so ago I stumbled across a recommendation for using gelatin supplementation to improve sleep quality. Specifically the theory was that gelatin could minimize early morning awakenings. This idea appealed to me, since the period of my sleep that is the most fragile is that 3 AM to 5 AM period. This is when [headaches](https://criticalmas.org/tag/headaches/) will often wake me up and even on the non-headache nights, this period is the most sensitive. The article [Gelatin, stress, longevity](http://raypeat.com/articles/articles/gelatin.shtml) by Ray Peat makes a solid case for supplementing with gelatin for deeper sleep. The short explanation is that the modern diet is very heavy in muscle meats and low on the non-muscle parts of the animal. And each part has a different amino acid profile. When we favor too much muscle meat and not enough of the parts used more in traditional cuisines (think organ meats, bone broths), we are out of balance. From the article:
+A month or so ago I stumbled across a recommendation for using gelatin supplementation to improve sleep quality. Specifically the theory was that gelatin could minimize early morning awakenings. This idea appealed to me, since the period of my sleep that is the most fragile is that 3 AM to 5 AM period. This is when [headaches](https://criticalmas.org/tag/headaches/) will often wake me up and even on the non-headache nights, this period is the most sensitive.
+
+The article [Gelatin, stress, longevity](http://raypeat.com/articles/articles/gelatin.shtml) by Ray Peat makes a solid case for supplementing with gelatin for deeper sleep. The short explanation is that the modern diet is very heavy in muscle meats and low on the non-muscle parts of the animal. And each part has a different amino acid profile. When we favor too much muscle meat and not enough of the parts used more in traditional cuisines (think organ meats, bone broths), we are out of balance. From the article:
 
 > When only the muscle meats are eaten, the amino acid balance entering our blood stream is the same as that produced by extreme stress, when cortisol excess causes our muscles to be broken down to provide energy and material for repair. The formation of serotonin is increased by the excess tryptophan in muscle, and serotonin stimulates the formation of more cortisol, while the tryptophan itself, along with the excess muscle-derived cysteine, suppresses the thyroid function.
 
@@ -17,7 +19,11 @@ The article goes into scientific detail on how eating too much muscle meat, whic
 
 > For years I hadn't slept through a whole night without waking, and I was in the habit of having some juice or a little thyroid to help me go back to sleep. The first time I had several grams of gelatin just before bedtime, I slept without interruption for about 9 hours.
 
-Even though I already consume bone broths on a regular basis, I was interested in trying this supplement out. My research lead me to Great Lakes Unflavored Gelatin as a clean source of quality gelatin. So I bought a two pack from Amazon. ![](./img/gelatin.jpg "gelatin") _Great Lakes Unflavored Gelatin (AMAZON USA)_
+Even though I already consume bone broths on a regular basis, I was interested in trying this supplement out. My research lead me to Great Lakes Unflavored Gelatin as a clean source of quality gelatin. So I bought a two pack from Amazon.
+
+![](./img/gelatin.jpg "gelatin")
+
+_Great Lakes Unflavored Gelatin (AMAZON USA)_
 
 
 ### Did It Help?
@@ -28,7 +34,11 @@ I've been tracking [Sleep Quality](/2012/03/my-chamomile-tea-and-sleep-quality-e
 -   **3.77**  Gelatin
 -   **3.92**  No Gelatin
 
-My sleep quality did not improve at all with the Gelatin supplementation. In fact it was slightly worse. I don't believe the Gelatin made my sleep worse. If I extended the test out, my guess is the numbers would equal out. I may repeat this test at a later date, but I'm not expecting the gelatin to suddenly give me deep uninterrupted sleep. Gelatin has other more known benefits such as a joint repair. I'm going to continue taking the supplement, mostly on workout days or when I'm making meals that are all muscle meat with no bone broths. What I did learn was that Gelatin was not my magical sleep bullet, but I could see where others that don't make their own [bone broths](/2011/04/homemade-beef-broth/) could get those benefits. **UPDATE 2014:** I now believe my test was invalid. Either I needed a higher dose or a longer test period. Also, judging sleep quality based on that day's supplement is likely flawed. The benefit from gelatin is likely cummulative.
+My sleep quality did not improve at all with the Gelatin supplementation. In fact it was slightly worse. I don't believe the Gelatin made my sleep worse. If I extended the test out, my guess is the numbers would equal out. I may repeat this test at a later date, but I'm not expecting the gelatin to suddenly give me deep uninterrupted sleep.
+
+Gelatin has other more known benefits such as a joint repair. I'm going to continue taking the supplement, mostly on workout days or when I'm making meals that are all muscle meat with no bone broths. What I did learn was that Gelatin was not my magical sleep bullet, but I could see where others that don't make their own [bone broths](/2011/04/homemade-beef-broth/) could get those benefits.
+
+**UPDATE 2014:** I now believe my test was invalid. Either I needed a higher dose or a longer test period. Also, judging sleep quality based on that day's supplement is likely flawed. The benefit from gelatin is likely cummulative.
 
 ---
 

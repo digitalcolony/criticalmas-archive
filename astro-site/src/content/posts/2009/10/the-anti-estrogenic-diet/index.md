@@ -9,7 +9,13 @@ description: "The author of The Warrior Diet released a follow-up book that dire
 commentCount: 5
 ---
 
-The author of [The Warrior Diet](/2009/04/revisiting-the-warrior-diet/) released a follow-up book that directly addresses estrogenic foods. ![The Anti-Estrogenic Diet: How Estrogenic Foods and Chemicals Are Making You Fat and Sick](https://images-na.ssl-images-amazon.com/images/I/51m6Ec6xNTL.jpg) _The Anti-Estrogenic Diet: How Estrogenic Foods and Chemicals Are Making You Fat and Sick by Ori Hofmekler_ is a mixed bag. The book has some great information, but a lot of it was already covered in _The Warrior Diet_. It covers how estrogens in our food and environment are making us sick and overweight and what we can do about it. A simplistic overview is that we should avoid foods that are highly estrogenic and consume foods and supplements that combat estrogens. If you are following a paleo-based diet already, then there are almost no changes you'll need to make to your diet. The paleo diet is already anti-estrogenic. Here are some bullet points. Notice the overlap between this list and the notes I took for [The Warrior Diet](/2009/04/revisiting-the-warrior-diet/).
+The author of [The Warrior Diet](/2009/04/revisiting-the-warrior-diet/) released a follow-up book that directly addresses estrogenic foods.
+
+![The Anti-Estrogenic Diet: How Estrogenic Foods and Chemicals Are Making You Fat and Sick](https://images-na.ssl-images-amazon.com/images/I/51m6Ec6xNTL.jpg) _The Anti-Estrogenic Diet: How Estrogenic Foods and Chemicals Are Making You Fat and Sick by Ori Hofmekler_ is a mixed bag. The book has some great information, but a lot of it was already covered in _The Warrior Diet_. It covers how estrogens in our food and environment are making us sick and overweight and what we can do about it.
+
+A simplistic overview is that we should avoid foods that are highly estrogenic and consume foods and supplements that combat estrogens. If you are following a paleo-based diet already, then there are almost no changes you'll need to make to your diet. The paleo diet is already anti-estrogenic.
+
+Here are some bullet points. Notice the overlap between this list and the notes I took for [The Warrior Diet](/2009/04/revisiting-the-warrior-diet/).
 
 1.  Avoid soy, licorice, alcohol (especially beer).
 2.  Consume cruciferous vegetables (broccoli, cabbage).

@@ -9,7 +9,11 @@ description: "I received this recipe from a vendor at the farmers market. I used
 commentCount: 2
 ---
 
-I received this recipe from a vendor at the farmers market. I used raw milk in place of cream and adjusted the ratio of ingredients. This soup was super delicious. Give it a try. If you don't have goat sausage, go ahead and use a _quality_ pork sausage. **Summary**: _A Toscana soup recipe using a spicy goat sausage._ ![](./img/goat-soup1.jpg "goat-soup")
+I received this recipe from a vendor at the farmers market. I used raw milk in place of cream and adjusted the ratio of ingredients. This soup was super delicious. Give it a try. If you don't have goat sausage, go ahead and use a _quality_ pork sausage.
+
+**Summary**: _A Toscana soup recipe using a spicy goat sausage._
+
+![](./img/goat-soup1.jpg "goat-soup")
 
 
 #### Ingredients

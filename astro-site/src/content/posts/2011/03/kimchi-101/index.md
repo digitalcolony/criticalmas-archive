@@ -42,7 +42,9 @@ To make sure the good bacteria win the battle against the bad bacteria, you'll b
 1.  **Make a Brine** - This is the technique I used in the [Bok Choy Kimchi Recipe](/2010/04/bok-choy-kimchi-recipe/). It involved mixing a lot of sea salt into clean water and then letting the cabbage soak for a few hours. The cabbage takes in the salt. The brine is drained. I've made many excellent kimchis with this method, but it does require the most salt and the kimchi may not be as crispy as you prefer.
 2.  **Rub in By Hand** - These days I add the salt to the chopped cabbage and then rub it in by hand. Then I leave it alone for an hour. The cabbage softens during the this time. It is ready for the next step.
 
-How much salt should you use? If you look at other recipes, you will see wildly different salt recommendations. Who is right? They all are. I've done lower salt and higher salt and they both taste good. Currently I am using a little more than 1/2 tablespoon per pound of cabbage. If you have salt concerns, I have read recipes that suggest gently rinsing the cabbage after you've rubbed in the salt and allowed it to sit for a few hours. They say that the salt has done its job and can be rinsed. I have not tried this, so I can not comment. The salt has never bothered me. The [Fermentation Workshop DVD](/2011/10/the-fermentation-workshop-dvd-is-outstanding/) mentions that you can use seaweed in place of salt.
+How much salt should you use? If you look at other recipes, you will see wildly different salt recommendations. Who is right? They all are. I've done lower salt and higher salt and they both taste good. Currently I am using a little more than 1/2 tablespoon per pound of cabbage.
+
+If you have salt concerns, I have read recipes that suggest gently rinsing the cabbage after you've rubbed in the salt and allowed it to sit for a few hours. They say that the salt has done its job and can be rinsed. I have not tried this, so I can not comment. The salt has never bothered me. The [Fermentation Workshop DVD](/2011/10/the-fermentation-workshop-dvd-is-outstanding/) mentions that you can use seaweed in place of salt.
 
 
 ### Add The Other Ingredients
@@ -58,19 +60,31 @@ Some recipes say you should put the other veggies in with the cabbage when you a
 ### Mix and Pack in Jars
 
 
-Mix all the ingredients and pack tightly into jars. Make sure there is about an inch of room at the top. You also want to make sure all the veggies are underneath the water. Fermentation is anaerobic. If the veggies peek their head out then the bad bacteria could be invited back. This is a minor concern with kimchi, but important with longer ferments like sauerkraut. ![kimchi-jar](./img/kimchi-jar.jpg) _Push those veggies down. They need to be below the liquid._ For more ideas on managing multiple or larger ferments read the post [My Fermentation Station](/2011/10/my-fermentation-station/).
+Mix all the ingredients and pack tightly into jars. Make sure there is about an inch of room at the top. You also want to make sure all the veggies are underneath the water. Fermentation is anaerobic. If the veggies peek their head out then the bad bacteria could be invited back. This is a minor concern with kimchi, but important with longer ferments like sauerkraut.
+
+![kimchi-jar](./img/kimchi-jar.jpg)
+
+_Push those veggies down. They need to be below the liquid._
+
+For more ideas on managing multiple or larger ferments read the post [My Fermentation Station](/2011/10/my-fermentation-station/).
 
 
 ### Pushing Down the Kimchi
 
 
-Most recipes use some sort of weight (crock) that sits on the top. This keeps the veggies under the liquid for fermenting. Another option is to do what I do. Twice a day I push the veggies down. Doing this triggers a release of bubbles to the surface. I'm not against using the crock method, it is just that I don't have one that works well with my jar. ![kimchi-push](./img/kimchi-push.jpg) _Here I am using a coffee mug to push down the veggies._
+Most recipes use some sort of weight (crock) that sits on the top. This keeps the veggies under the liquid for fermenting. Another option is to do what I do. Twice a day I push the veggies down. Doing this triggers a release of bubbles to the surface. I'm not against using the crock method, it is just that I don't have one that works well with my jar.
+
+![kimchi-push](./img/kimchi-push.jpg)
+
+_Here I am using a coffee mug to push down the veggies._
 
 
 ### Leaving the Kimchi to Ferment
 
 
-You will want to put a plate or bowl underneath your kimchi jar, as the juices can over flow. You'll also want to cover the jars with an old towel or upside down paper bag to prevent light from hitting it. The best temperatures I've found for ferments are in the mid 60s to low 70s. Once it get warmer than that the fermentation speeds up, so you'll want to add more salt to slow things down. Cold temperature ferments are the more the traditional ones that take much longer. This leads us to the question on how long to ferment? Recipes online range from 2 days to months. I have found 6 days is my usual ferment period. Some things to consider:
+You will want to put a plate or bowl underneath your kimchi jar, as the juices can over flow. You'll also want to cover the jars with an old towel or upside down paper bag to prevent light from hitting it. The best temperatures I've found for ferments are in the mid 60s to low 70s. Once it get warmer than that the fermentation speeds up, so you'll want to add more salt to slow things down. Cold temperature ferments are the more the traditional ones that take much longer.
+
+This leads us to the question on how long to ferment? Recipes online range from 2 days to months. I have found 6 days is my usual ferment period. Some things to consider:
 
 1.  The longer the ferment, the more the cabbage will move from crisp to soggy. Not a bad thing. Just personal preference.
 2.  The warmer the area you are fermenting in, the shorter the ferment takes. This is a summer concern if you have a warm kitchen. Move your setup to a basement if you can during the heat of summer.

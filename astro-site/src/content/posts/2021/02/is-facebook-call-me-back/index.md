@@ -21,13 +21,21 @@ There are few private health groups I want to join that I believe will provide i
 ### Why did I leave?
 
 
-In normal times, I would be perfectly fine being away from what I see as mostly a toxic platform where people that once used to share what brought them joy is now mostly a way to share the news that is upsetting. But these aren't normal times. With the US elections over, maybe the hostility level has dropped on Facebook? I'm guessing so. This might be the safest time to return. At least until normal post-COVID life resumes in full. I was reviewing my 2018 reasons for leaving and with one exception (#4), most are no longer a major concern.
+In normal times, I would be perfectly fine being away from what I see as mostly a toxic platform where people that once used to share what brought them joy is now mostly a way to share the news that is upsetting. But these aren't normal times.
+
+With the US elections over, maybe the hostility level has dropped on Facebook? I'm guessing so. This might be the safest time to return. At least until normal post-COVID life resumes in full.
+
+I was reviewing my 2018 reasons for leaving and with one exception (#4), most are no longer a major concern.
 
 
 #### #1 Too Distracting
 
 
-Since I left Facebook, I developed a daily meditation and breathing practice. Every day for more than 2 years now. My ability to focus has never been greater. Before the social networks had the upper hand on my mind, but now I believe I am in control. If I see myself getting sucked in again, I could always reverse course. Of course, I would never install the mobile app and only access Facebook in a browser just like a do now for Twitter. And like Twitter, I would use the LeechBlock extension (Firefox) to restrict my daily time on the site to 15 minutes in the AM and 15 minutes in the PM. Chrome has a similar extension called StayFocusd. When there is a sense of urgency, you don't endlessly scroll. You do what you need to do and then you leave. I've been using this technique with Twitter for a few years now. It works.
+Since I left Facebook, I developed a daily meditation and breathing practice. Every day for more than 2 years now. My ability to focus has never been greater. Before the social networks had the upper hand on my mind, but now I believe I am in control. If I see myself getting sucked in again, I could always reverse course.
+
+Of course, I would never install the mobile app and only access Facebook in a browser just like a do now for Twitter. And like Twitter, I would use the LeechBlock extension (Firefox) to restrict my daily time on the site to 15 minutes in the AM and 15 minutes in the PM. Chrome has a similar extension called StayFocusd.
+
+When there is a sense of urgency, you don't endlessly scroll. You do what you need to do and then you leave. I've been using this technique with Twitter for a few years now. It works.
 
 
 #### #2 No Business Value
@@ -57,13 +65,19 @@ This bothered me a lot before I left, but I've accepted that my goal of increasi
 #### #6 Cult of the Maybes
 
 
-Since in-person events aren't happening anywhere (even on Meetup), this is a non-issue. However, post-lockdowns Facebook might actually be a decent place to schedule events as people will be eager to leave their homes. Also, Meetup.com has become far more focused on promoting mega-groups that span multiple cities and countries. The little groups are getting buried. I go into more detail on the failure of building offline tribes in my book review of [Digital Minimalism](/2019/04/digital-minimalism-focused-and-isolated/).
+Since in-person events aren't happening anywhere (even on Meetup), this is a non-issue. However, post-lockdowns Facebook might actually be a decent place to schedule events as people will be eager to leave their homes. Also, Meetup.com has become far more focused on promoting mega-groups that span multiple cities and countries. The little groups are getting buried.
+
+I go into more detail on the failure of building offline tribes in my book review of [Digital Minimalism](/2019/04/digital-minimalism-focused-and-isolated/).
 
 
 #### #7 Privacy
 
 
-I still don't trust Facebook, but they won. The rebels tried to rebel, but COVID crushed the rebellion. At least for now. I still wouldn't say anything online that I would not feel comfortable with saying to every person in the world. Since I left Facebook, the Firefox browser has released an extension that detects if Facebook is running inside a tab and [runs it in a container](https://www.mozilla.org/en-US/firefox/facebookcontainer/) to prevent actions you take outside of Facebook from being tracked. Works for me!
+I still don't trust Facebook, but they won. The rebels tried to rebel, but COVID crushed the rebellion. At least for now.
+
+I still wouldn't say anything online that I would not feel comfortable with saying to every person in the world.
+
+Since I left Facebook, the Firefox browser has released an extension that detects if Facebook is running inside a tab and [runs it in a container](https://www.mozilla.org/en-US/firefox/facebookcontainer/) to prevent actions you take outside of Facebook from being tracked. Works for me!
 
 
 #### #8 So Slow
@@ -75,7 +89,15 @@ Hopefully, the performance issues I had with Facebook Pages have been fixed. If 
 ### Just When I Thought I Was Out...
 
 
-...They pull me back in! ![Godfather 3 quote](./img/godfather-3-just-when-i-thought.jpg) I'm leaning towards rejoining Facebook this week. If I do, I'll do it gradually, by first only connecting with family and a few private health groups. Then close friends. Then if I feel comfortable, expanding my network. Pausing at each step. Thoughts? _**UPDATE March 2021:** I returned to Facebook on February 28th. Seems I did a good job of muting all the outrage jockeys a few years ago. My feed is mostly positive and I don't see many shared "news" articles. The site is still slow._
+...They pull me back in!
+
+![Godfather 3 quote](./img/godfather-3-just-when-i-thought.jpg)
+
+I'm leaning towards rejoining Facebook this week. If I do, I'll do it gradually, by first only connecting with family and a few private health groups. Then close friends. Then if I feel comfortable, expanding my network. Pausing at each step.
+
+Thoughts?
+
+_**UPDATE March 2021:** I returned to Facebook on February 28th. Seems I did a good job of muting all the outrage jockeys a few years ago. My feed is mostly positive and I don't see many shared "news" articles. The site is still slow._
 
 ---
 

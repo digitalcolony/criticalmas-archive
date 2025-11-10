@@ -9,7 +9,21 @@ description: "The month is almost half over, so I thought I'd provide a quick up
 commentCount: 20
 ---
 
-The month is almost half over, so I thought I'd provide a quick update on [My Caffeine Detox Plan](/2012/09/my-caffeine-detox-plan/). My last coffee was on September 30th. Then for a week, I continued to drink some tea. On Sunday, October 7th at Noon, I stopped consuming all tea. I've been 100% caffeine free since then. First the good news. My current coffee free streak is a new all-time record, beating my 11-day streak from last year. And this year I didn't cheat with decaf coffee. Also, my 1 week without caffeine is a new all-time record, crushing my 100-hour streak from 1997. I think I'm going to succeed in my goal of going the entire month without coffee. I'm less confident that I'll make the 15 days without caffeine goal. The first day I had a slight headache. Since then my head has been fine, but my mood has been terrible. My sleep is awful. I keep waking up early and unable to get back to sleep. This morning I woke up at 3:30 AM. The result is I'm dead tired all day long. I'm having difficulty concentrating. It doesn't help that the weather in Seattle went from a [long streak of sunny days](http://www.seattleweatherblog.com/weather-records/another-week-without-rain/) to darkness and rain. I thought this detox would get easier by day 4 or 5. It hasn't. My productivity has plummeted. The mornings are the worst. I'm going to power through today, but I don't know if I'll make it 15 days. This experiment is crushing me. Someone mentioned a concept to me called a "_healing crisis_". The premise is that symptoms get worse when you first remove something your body perceives as harmful. I did some searching and found the article [What is a Healing Crisis?](http://www.ionizers.org/healing-crisis.php) by Dr. Stanley Bass on a site selling water ionizers. :-? I'm at the point in my study of nutrition that I don't believe anybody anymore. With that said, something feels right about that article. Either that or I'm so tired that I can't determine what is credible and what isn't. This experiment has already taught me that my addiction to caffeine is much stronger than my addiction to coffee. ![](./img/green-tea.jpg) _I'm actually craving green tea more than coffee._
+The month is almost half over, so I thought I'd provide a quick update on [My Caffeine Detox Plan](/2012/09/my-caffeine-detox-plan/). My last coffee was on September 30th. Then for a week, I continued to drink some tea. On Sunday, October 7th at Noon, I stopped consuming all tea. I've been 100% caffeine free since then.
+
+First the good news. My current coffee free streak is a new all-time record, beating my 11-day streak from last year. And this year I didn't cheat with decaf coffee. Also, my 1 week without caffeine is a new all-time record, crushing my 100-hour streak from 1997. I think I'm going to succeed in my goal of going the entire month without coffee. I'm less confident that I'll make the 15 days without caffeine goal.
+
+The first day I had a slight headache. Since then my head has been fine, but my mood has been terrible. My sleep is awful. I keep waking up early and unable to get back to sleep. This morning I woke up at 3:30 AM. The result is I'm dead tired all day long. I'm having difficulty concentrating. It doesn't help that the weather in Seattle went from a [long streak of sunny days](http://www.seattleweatherblog.com/weather-records/another-week-without-rain/) to darkness and rain.
+
+I thought this detox would get easier by day 4 or 5. It hasn't. My productivity has plummeted. The mornings are the worst. I'm going to power through today, but I don't know if I'll make it 15 days. This experiment is crushing me.
+
+Someone mentioned a concept to me called a "_healing crisis_". The premise is that symptoms get worse when you first remove something your body perceives as harmful. I did some searching and found the article [What is a Healing Crisis?](http://www.ionizers.org/healing-crisis.php) by Dr. Stanley Bass on a site selling water ionizers. :-? I'm at the point in my study of nutrition that I don't believe anybody anymore. With that said, something feels right about that article. Either that or I'm so tired that I can't determine what is credible and what isn't.
+
+This experiment has already taught me that my addiction to caffeine is much stronger than my addiction to coffee.
+
+![](./img/green-tea.jpg)
+
+_I'm actually craving green tea more than coffee._
 
 ---
 

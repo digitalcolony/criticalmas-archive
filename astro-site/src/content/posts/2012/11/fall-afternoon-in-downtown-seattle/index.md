@@ -9,7 +9,11 @@ description: "Maybe it has something to do with the angle of the Earth to the Su
 commentCount: 3
 ---
 
-Maybe it has something to do with the angle of the Earth to the Sun during the winter, but I've always loved the look of Seattle on clear days from November to February. Here are some photos I took walking North on 4th Ave in Downtown Seattle. ![seattle-fall-3](./img/seattle-fall-3.jpg) ![seattle-fall-2](./img/seattle-fall-2.jpg) ![seattle-fall-4](./img/seattle-fall-4.jpg) ![seattle-fall-1](./img/seattle-fall-1.jpg) [Full Gallery](https://www.flickr.com/photos/129592470@N02/sets/72157649726898828/)
+Maybe it has something to do with the angle of the Earth to the Sun during the winter, but I've always loved the look of Seattle on clear days from November to February. Here are some photos I took walking North on 4th Ave in Downtown Seattle.
+
+![seattle-fall-3](./img/seattle-fall-3.jpg) ![seattle-fall-2](./img/seattle-fall-2.jpg) ![seattle-fall-4](./img/seattle-fall-4.jpg) ![seattle-fall-1](./img/seattle-fall-1.jpg)
+
+[Full Gallery](https://www.flickr.com/photos/129592470@N02/sets/72157649726898828/)
 
 ---
 

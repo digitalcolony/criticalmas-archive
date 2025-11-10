@@ -9,7 +9,15 @@ description: "After almost six years of listening to satellite radio, I gave it 
 commentCount: 4
 ---
 
-After almost six years of listening to satellite radio, I gave it up and returned to regular old terrestrial radio earlier this year. If you want to know the reasons, read [Why I Am Not Renewing My Sirius XM Radio Subscription](/2010/02/why-i-am-not-renewing-my-sirius-xm-radio-subscription/). How am I holding up? Here were the channels I most listened to on XM Radio and my new substitute. \[table id=5 /\] For the most part, I am pleased with the substitutes. KEXP 90.3 FM is a great station and as a result I listen to more indie rock these days. My biggest shock turned out not to be programming, but sound quality. I miss the higher quality sound of satellite radio. I am strongly considering getting [HD Radio](https://en.wikipedia.org/wiki/HD_Radio). Going from XM to FM is like going from FM to AM. Note that this post is not an endorsement of XM Radio. They are a bunch of criminals. Read the 40+ comments on [Filing Fraud Charges Against XM Radio](/2009/05/filing-fraud-charges-against-xm-radio/) before you sign up and hand them your credit card number.
+After almost six years of listening to satellite radio, I gave it up and returned to regular old terrestrial radio earlier this year. If you want to know the reasons, read [Why I Am Not Renewing My Sirius XM Radio Subscription](/2010/02/why-i-am-not-renewing-my-sirius-xm-radio-subscription/). How am I holding up?
+
+Here were the channels I most listened to on XM Radio and my new substitute.
+
+\[table id=5 /\]
+
+For the most part, I am pleased with the substitutes. KEXP 90.3 FM is a great station and as a result I listen to more indie rock these days. My biggest shock turned out not to be programming, but sound quality. I miss the higher quality sound of satellite radio. I am strongly considering getting [HD Radio](https://en.wikipedia.org/wiki/HD_Radio). Going from XM to FM is like going from FM to AM.
+
+Note that this post is not an endorsement of XM Radio. They are a bunch of criminals. Read the 40+ comments on [Filing Fraud Charges Against XM Radio](/2009/05/filing-fraud-charges-against-xm-radio/) before you sign up and hand them your credit card number.
 
 ---
 

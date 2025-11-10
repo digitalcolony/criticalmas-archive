@@ -9,11 +9,31 @@ description: "Almost two months ago, the scale at my gym was gone. It broke and 
 commentCount: 4
 ---
 
-Almost two months ago, the scale at my gym was gone. It broke and I was informed that they would be ordering a new scale soon. Not a problem. As I have mentioned in previous posts, in addition to measuring my weight on the gym scale, I also use a tape measure. Weight at times can be deceiving, but measuring both weight and inches will keep you honest. In February 2018, I posted [Fat Loss Cheatsheet: What Works and What Doesn’t (for me)](/2018/02/fat-loss-cheatsheet-works-doesnt/). At #4 on the What Works list, I stated:
+Almost two months ago, the scale at my gym was gone. It broke and I was informed that they would be ordering a new scale soon.
+
+Not a problem. As I have mentioned in previous posts, in addition to measuring my weight on the gym scale, I also use a tape measure. Weight at times can be deceiving, but measuring both weight and inches will keep you honest.
+
+In February 2018, I posted [Fat Loss Cheatsheet: What Works and What Doesn’t (for me)](/2018/02/fat-loss-cheatsheet-works-doesnt/). At #4 on the What Works list, I stated:
 
 > Measure your weight a few times a week. I use a tape measure a few times a week. When I measure, I make progress. When I don’t, I slip.
 
-Without the scale, I decided to use the tape measure daily instead of just 1-2 times a week. Within a few days, I could guess my size within 1/4 of an inch at a glance. I discovered the daily feedback loop of the tape measure was more powerful than I expected. With a tape measure, having a smaller waist size is almost always better. Whereas a scale is just a number. A smaller number on the scale might mean you are getting lean or it could be you are losing muscle. And on the flip-side, a larger number could mean you are gaining fat or gaining muscle. So the scale number to me has always been less motivating. ![Tape Measure](./img/tape-measure.jpg) _Photo by [Siora Photography](https://unsplash.com/@siora18)_ Weeks went by and my gym still had not replaced the scale - or so I believed. After about 8 weeks, I asked the status of the scale and they pointed me to the new scale which was now kept in the personal trainer section and not at the spot it had been at for the last 8 years. 🤦🏽‍♂️ I stepped on the scale to discover what I had suspected. My weight dropped from the 192-194 range where it had been stable for over a year to 186. 😵 The lesson I want to share here is that the tape measure is a super powerful tool if you want to be honest about your weight. Start every day off with a measurement. The scale might lie (in the short term), but the tape measure doesn't. When your waist is up a little, reading that number is a little extra motivation to tighten up the calories that day. When your waist size is down a bit, it is a little signal that whatever you've been doing recently is working and to keep it up. Win-win! 🏆 It should go without saying, don't use the sizes on your clothes as an indicator of your size. Today, the sizes are no longer real sizes, but "vanity sizes" used to make overweight customers feel better about the clothes at the time of purchase. Check out the article [Are Your Pants Lying to You? An Investigation](https://www.esquire.com/style/mens-fashion/a8386/pants-size-chart-090710/), where the author found one pair of jeans was 5 inches greater than the label.
+Without the scale, I decided to use the tape measure daily instead of just 1-2 times a week. Within a few days, I could guess my size within 1/4 of an inch at a glance. I discovered the daily feedback loop of the tape measure was more powerful than I expected.
+
+With a tape measure, having a smaller waist size is almost always better. Whereas a scale is just a number. A smaller number on the scale might mean you are getting lean or it could be you are losing muscle. And on the flip-side, a larger number could mean you are gaining fat or gaining muscle. So the scale number to me has always been less motivating.
+
+![Tape Measure](./img/tape-measure.jpg)
+
+_Photo by [Siora Photography](https://unsplash.com/@siora18)_
+
+Weeks went by and my gym still had not replaced the scale - or so I believed. After about 8 weeks, I asked the status of the scale and they pointed me to the new scale which was now kept in the personal trainer section and not at the spot it had been at for the last 8 years. 🤦🏽‍♂️
+
+I stepped on the scale to discover what I had suspected. My weight dropped from the 192-194 range where it had been stable for over a year to 186. 😵
+
+The lesson I want to share here is that the tape measure is a super powerful tool if you want to be honest about your weight. Start every day off with a measurement. The scale might lie (in the short term), but the tape measure doesn't.
+
+When your waist is up a little, reading that number is a little extra motivation to tighten up the calories that day. When your waist size is down a bit, it is a little signal that whatever you've been doing recently is working and to keep it up. Win-win! 🏆
+
+It should go without saying, don't use the sizes on your clothes as an indicator of your size. Today, the sizes are no longer real sizes, but "vanity sizes" used to make overweight customers feel better about the clothes at the time of purchase. Check out the article [Are Your Pants Lying to You? An Investigation](https://www.esquire.com/style/mens-fashion/a8386/pants-size-chart-090710/), where the author found one pair of jeans was 5 inches greater than the label.
 
 > Where no other 34s had been hospitable, Old Navy's fit snugly. The final measurement? _Five inches larger than the label._ You can eat all the slow-churn ice cream and brats you want, and still consider yourself slender in these.
 

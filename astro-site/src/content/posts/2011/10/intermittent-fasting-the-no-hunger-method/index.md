@@ -9,11 +9,19 @@ description: "I started doing Intermittent Fasting over three years ago. My stra
 commentCount: 44
 ---
 
-I started doing [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/) over three years ago. My strategy has always been to just deal with the hunger. If you ignore it, it goes away. When I first began fasting, I'd think about my hunger constantly. These days, it barely grabs my attention. Recently, I was inspired by a post over at the website [Perfect Health Diet](http://perfecthealthdiet.com/) to try an alternate approach to Intermittent Fasting. The _Perfect Health Diet_ post [Ketogenic Diets, I: Ways to Make a Diet Ketogenic](http://perfecthealthdiet.com/?p=2479) is a detailed explanation of the ketogenic metabolic pathway. The part of the article I found most interesting was how the use of coconut oil, which is loaded with short chain fats, can accelerate the production of ketones.
+I started doing [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/) over three years ago. My strategy has always been to just deal with the hunger. If you ignore it, it goes away. When I first began fasting, I'd think about my hunger constantly. These days, it barely grabs my attention. Recently, I was inspired by a post over at the website [Perfect Health Diet](http://perfecthealthdiet.com/) to try an alternate approach to Intermittent Fasting.
+
+The _Perfect Health Diet_ post [Ketogenic Diets, I: Ways to Make a Diet Ketogenic](http://perfecthealthdiet.com/?p=2479) is a detailed explanation of the ketogenic metabolic pathway. The part of the article I found most interesting was how the use of coconut oil, which is loaded with short chain fats, can accelerate the production of ketones.
 
 > This means that if you eat a lot of coconut oil (which is 58% short-chain fats), you deliver a lot of fat to the liver for disposal. The disposal process for fat is conversion to acetyl CoA followed by either burning in the TCA cycle or conversion to ketones.
 
-Since that post was written, I have done many fasts where I consume nothing but 1 to 3 tablespoons of coconut oil. I find it has a slightly sweet taste and it does lower my hunger level. To confirm I was still hitting ketosis, I used Ketostix to measure ketones. After a 16 hour fast with coconut oil, I was measuring Small to Moderate ketones. ![Ketostix](./img/ketone-stick500.jpg "Ketostix") _Ketostix_ Well coconut oil by itself may not be enough for the hungry. Have no fear, the Perfect Health Diet book came up with another idea. It said you can consume fermented vegetables on a fast. Wouldn't the carbs from the vegetables interfere with achieving ketosis? Nope. From the book:
+Since that post was written, I have done many fasts where I consume nothing but 1 to 3 tablespoons of coconut oil. I find it has a slightly sweet taste and it does lower my hunger level. To confirm I was still hitting ketosis, I used Ketostix to measure ketones. After a 16 hour fast with coconut oil, I was measuring Small to Moderate ketones.
+
+![Ketostix](./img/ketone-stick500.jpg "Ketostix")
+
+_Ketostix_
+
+Well coconut oil by itself may not be enough for the hungry. Have no fear, the Perfect Health Diet book came up with another idea. It said you can consume fermented vegetables on a fast. Wouldn't the carbs from the vegetables interfere with achieving ketosis? Nope. From the book:
 
 > Most vegetable carbohydrates are intercepted by gut bacteria, which digest vegetable fiber into short-chain fatty acids.
 
@@ -23,7 +31,13 @@ If the book is correct, I could eat coconut oil and sauerkraut and still go into
 -   Tuesday 10 AM: 1 tablespoon of coconut oil, 100 grams of [cortido sauerkraut](/2011/06/cortido-sauerkraut-recipe/).
 -   Tuesday 1 PM: 1 tablespoon of coconut oil, 100 grams of [ghost pepper sauerkraut](/2011/09/ghost-pepper-sauerkraut/).
 
-The cortido sauerkraut has some carrots, so I was concerned that those carbs might be enough to prevent ketosis. But it didn't. At 2:30 PM, I tested Moderate ketones on the Ketostix. Victory! ![cortido-sk](./img/cortido-sk.jpg) _Cortido Sauerkraut - Ketosis never tasted so good!_ So if you've put off [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/), because you can't deal with the hunger, you now have no excuses. Get yourself some coconut oil and make some [fermented veggies](https://criticalmas.org/best-of/fermentation/).
+The cortido sauerkraut has some carrots, so I was concerned that those carbs might be enough to prevent ketosis. But it didn't. At 2:30 PM, I tested Moderate ketones on the Ketostix. Victory!
+
+![cortido-sk](./img/cortido-sk.jpg)
+
+_Cortido Sauerkraut - Ketosis never tasted so good!_
+
+So if you've put off [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/), because you can't deal with the hunger, you now have no excuses. Get yourself some coconut oil and make some [fermented veggies](https://criticalmas.org/best-of/fermentation/).
 
 ---
 

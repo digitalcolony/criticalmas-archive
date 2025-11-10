@@ -9,13 +9,25 @@ description: "UPDATE March 2021: UserStyles was a great idea, but their server h
 commentCount: 3
 ---
 
-_**UPDATE March 2021:** UserStyles was a great idea, but their server has either been super slow or down so many times since this post was written that I can no longer recommend this solution._ This is a topic that I can not drop. I am so sick of websites that use small gray fonts. My theory is that all designers are under 30 years old, have perfect vision, and work on the best monitors money can buy. They design webpages primarily to make photographs look better and not to make the text more readable. And then they don't test the new design on the people who actually use the site. When Meetup.com did their last design they chose a light thin gray font called Whitney that is painful to read. Someone asked Meetup if they A/B tested it. https://twitter.com/Meetup/status/422830788430684160 What the jerks at Meetup were saying loud and clear is that they don't give a damn about their users. Their design is there to please their designers, who don't have to interact with the site as users do. An [A/B test](https://en.wikipedia.org/wiki/A/B_testing), which measures how users navigate and use the site with the changes and without would have clearly shown that it now takes more effort to read the site. I created a User Style workaround called Meetup Darker: No Whitney Font. When the page loads for me, my style sheet overrides their awful typography with clean readable text. Anyone with the plugin can install my style sheet.
+_**UPDATE March 2021:** UserStyles was a great idea, but their server has either been super slow or down so many times since this post was written that I can no longer recommend this solution._
+
+This is a topic that I can not drop. I am so sick of websites that use small gray fonts. My theory is that all designers are under 30 years old, have perfect vision, and work on the best monitors money can buy. They design webpages primarily to make photographs look better and not to make the text more readable. And then they don't test the new design on the people who actually use the site.
+
+When Meetup.com did their last design they chose a light thin gray font called Whitney that is painful to read. Someone asked Meetup if they A/B tested it.
+
+https://twitter.com/Meetup/status/422830788430684160
+
+What the jerks at Meetup were saying loud and clear is that they don't give a damn about their users. Their design is there to please their designers, who don't have to interact with the site as users do. An [A/B test](https://en.wikipedia.org/wiki/A/B_testing), which measures how users navigate and use the site with the changes and without would have clearly shown that it now takes more effort to read the site.
+
+I created a User Style workaround called Meetup Darker: No Whitney Font. When the page loads for me, my style sheet overrides their awful typography with clean readable text. Anyone with the plugin can install my style sheet.
 
 
 ### Readability?
 
 
-For a long time, I used the plugin Readability to clean up the small gray fonts. The problem with Readability is it doesn't work for application sites like Meetup and for blog content it strips out the comments. This weekend I was painfully reading the light gray comments on a site when the term **Typography Inflammation** came to me. Thankfully there is a tool that you can use to fix these sites called Stylish. Here is how you use it.
+For a long time, I used the plugin Readability to clean up the small gray fonts. The problem with Readability is it doesn't work for application sites like Meetup and for blog content it strips out the comments. This weekend I was painfully reading the light gray comments on a site when the term **Typography Inflammation** came to me.
+
+Thankfully there is a tool that you can use to fix these sites called Stylish. Here is how you use it.
 
 
 ### #1 Install Stylish
@@ -27,7 +39,23 @@ If you have Chrome or Firefox, install the Stylish browser add-on. If you are st
 ### #2 Visit Site You Wish Had Better Fonts
 
 
-Use the Readability plugin if you don't need comments. But if you do, press the Stylish button on your browser and select "Find more styles for this site". ![stylish](./img/stylish.png) If a good one exists, use it. Problem solved. For this example, I will be tackling the site _ChefSteps_. There are worse offenders. Because I am taking a multi-part class on this site, I plan to read the content thoroughly and probably more than once. If I were just skimming the text, I wouldn't have gone through the trouble. The one I created for this example is called Chef Steps - Darker. Below you see the before and after screenshots. ![chef-before](./img/chef-before.jpg) _Not as bad as Meetup, but when you are reading long amounts of text for comprehension, it is nice to bump up the size and darken._  ![chef-after](./img/chef-after.jpg) _Much better._
+Use the Readability plugin if you don't need comments. But if you do, press the Stylish button on your browser and select "Find more styles for this site".
+
+![stylish](./img/stylish.png)
+
+If a good one exists, use it. Problem solved.
+
+For this example, I will be tackling the site _ChefSteps_. There are worse offenders. Because I am taking a multi-part class on this site, I plan to read the content thoroughly and probably more than once. If I were just skimming the text, I wouldn't have gone through the trouble.
+
+The one I created for this example is called Chef Steps - Darker. Below you see the before and after screenshots.
+
+![chef-before](./img/chef-before.jpg)
+
+_Not as bad as Meetup, but when you are reading long amounts of text for comprehension, it is nice to bump up the size and darken._ 
+
+![chef-after](./img/chef-after.jpg)
+
+_Much better._
 
 
 ### #3 Create an Account on UserStyles.org
@@ -59,7 +87,9 @@ Once it is created, you can install and test it. Hopefully, it will work.
 ### #6 Advanced
 
 
-What I did was very basic. Your typography issues might be different than mine. Use it to meet your needs. Some people have created much more advanced styles. When GMAIL got rid of the light blue in place of the cold black fonts in 2012, I installed Old Gmail Approach, and instantly my email was back to the glory days.
+What I did was very basic. Your typography issues might be different than mine. Use it to meet your needs.
+
+Some people have created much more advanced styles. When GMAIL got rid of the light blue in place of the cold black fonts in 2012, I installed Old Gmail Approach, and instantly my email was back to the glory days.
 
 ---
 

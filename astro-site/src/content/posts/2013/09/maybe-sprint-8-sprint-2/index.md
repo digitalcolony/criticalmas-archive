@@ -13,7 +13,19 @@ I recently got a [comment](/2012/08/why-i-dont-measure-my-workouts/#comment-2029
 
 > ...the Sprint 8 Workout means you progressively run 8 sprints for 60 meters (70 yards) in 8 to 15 seconds with a 1.5 to 2 minutes walk-back recovery between the sprints.
 
-I stopped running in 1995. Too much pain. About two years ago, I started sprinting using the Sprint 8 template. It was still too hard on my body. Then I theorized that if I [only ran uphill](/2012/01/running-up-that-hill-sprinting-salvation-for-tall-people/), I could get the benefits with less pain. And it worked, for a while. Eventually, I stopped running. At first, I blamed my shoes, but I think the problem is that Sprint 8 is too much for the average person. Running all out for 8 sets is most likely ideal for athletes looking to develop their speed. Is it too much for the rest of us, just interested in being a little more healthy? ![runners-seattle](./img/runners-seattle.jpg) _[Runners](/2009/05/runners-statue-hidden-in-belltown/) in Belltown, Seattle_ I went back to Phil Campbell's bio _(JAN 2024: now offline)_ and read he has trained **12,000 athletes**. My guess is there is a huge selection bias with this group. These are individuals who are both capable and interested in developing their speed. Interested enough to reach out to a top performance coach. I'll also wager that most of these runners are young with many being college age. Of course, not every runner in this group would have completed the protocol successfully. Some would get injured or quit for a variety of reasons. One of those reasons could have been recoverability or even lack of results. I doubt the failure rate is high, but I bring it up because we don't know what percentage of those who follow Sprint 8 stay with it. Putting it all together, I think the Sprint 8 protocol might be too much for many of us. Once fall arrives in Seattle, I want to start sprinting again. Only this time I'll shoot for Sprint 4, not Sprint 8. My guess is I have half the potential and recoverability of the average Sprint 8 success, so 4 might be a more realistic goal. I couldn't care less if I get faster. I want to be able to run once or twice a week pain-free.
+I stopped running in 1995. Too much pain. About two years ago, I started sprinting using the Sprint 8 template. It was still too hard on my body. Then I theorized that if I [only ran uphill](/2012/01/running-up-that-hill-sprinting-salvation-for-tall-people/), I could get the benefits with less pain. And it worked, for a while.
+
+Eventually, I stopped running. At first, I blamed my shoes, but I think the problem is that Sprint 8 is too much for the average person. Running all out for 8 sets is most likely ideal for athletes looking to develop their speed. Is it too much for the rest of us, just interested in being a little more healthy?
+
+![runners-seattle](./img/runners-seattle.jpg)
+
+_[Runners](/2009/05/runners-statue-hidden-in-belltown/) in Belltown, Seattle_
+
+I went back to Phil Campbell's bio _(JAN 2024: now offline)_ and read he has trained **12,000 athletes**. My guess is there is a huge selection bias with this group. These are individuals who are both capable and interested in developing their speed. Interested enough to reach out to a top performance coach. I'll also wager that most of these runners are young with many being college age.
+
+Of course, not every runner in this group would have completed the protocol successfully. Some would get injured or quit for a variety of reasons. One of those reasons could have been recoverability or even lack of results. I doubt the failure rate is high, but I bring it up because we don't know what percentage of those who follow Sprint 8 stay with it.
+
+Putting it all together, I think the Sprint 8 protocol might be too much for many of us. Once fall arrives in Seattle, I want to start sprinting again. Only this time I'll shoot for Sprint 4, not Sprint 8. My guess is I have half the potential and recoverability of the average Sprint 8 success, so 4 might be a more realistic goal. I couldn't care less if I get faster. I want to be able to run once or twice a week pain-free.
 
 ---
 

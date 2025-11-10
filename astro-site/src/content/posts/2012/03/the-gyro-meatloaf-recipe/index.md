@@ -9,7 +9,9 @@ description: "Last month I created a meatball recipe that mimicked the taste of 
 commentCount: 6
 ---
 
-Last month I created a meatball recipe that mimicked the taste of gyro meat in the post [My Gyro Obsession and The Meatball Solution](/2012/02/my-gyro-obsession-and-the-meatball-solution/). Well, I have taken the same principles and applied them to meatloaf for even better results. This is the best tasting meatloaf I've ever had. It tastes like just gyro meat. **Summary**: _A meatloaf that tastes like gyro meat._
+Last month I created a meatball recipe that mimicked the taste of gyro meat in the post [My Gyro Obsession and The Meatball Solution](/2012/02/my-gyro-obsession-and-the-meatball-solution/). Well, I have taken the same principles and applied them to meatloaf for even better results. This is the best tasting meatloaf I've ever had. It tastes like just gyro meat.
+
+**Summary**: _A meatloaf that tastes like gyro meat._
 
 
 #### Ingredients
@@ -44,7 +46,15 @@ Last month I created a meatball recipe that mimicked the taste of gyro meat in t
 #### Quick notes
 
 
-I've made this recipe using all ground beef and it tastes great that way as well. To make it even better, add some [Tzatziki Sauce](https://kalynskitchen.com/worlds-best-tzatziki-sauce-recipe-greek/). Feta cheese and tomatoes too! Preparation time: 20 minutes Cooking time: 40 minutes Diet tags: High protein, Gluten-free
+I've made this recipe using all ground beef and it tastes great that way as well.
+
+To make it even better, add some [Tzatziki Sauce](https://kalynskitchen.com/worlds-best-tzatziki-sauce-recipe-greek/). Feta cheese and tomatoes too!
+
+Preparation time: 20 minutes
+
+Cooking time: 40 minutes
+
+Diet tags: High protein, Gluten-free
 
 ---
 

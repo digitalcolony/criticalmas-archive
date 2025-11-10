@@ -9,23 +9,33 @@ description: "In my previous post, I discussed whether there is a toxic food pro
 commentCount: 17
 ---
 
-In my [previous post](/2024/10/does-america-have-a-toxic-food-problem/), I discussed whether there is a toxic food problem in America. The short version is that I'm skeptical that added chemicals play a bigger role than the excess calories from ultra-processed foods in worsening health outcomes in America compared to Europe. Maybe they both play a role? Maybe they are connected? But it doesn't matter because we don't need another reason to cook whole food to be healthy. I concluded with this line, which is the topic of this post.
+In my [previous post](/2024/10/does-america-have-a-toxic-food-problem/), I discussed whether there is a toxic food problem in America. The short version is that I'm skeptical that added chemicals play a bigger role than the excess calories from ultra-processed foods in worsening health outcomes in America compared to Europe. Maybe they both play a role? Maybe they are connected? But it doesn't matter because we don't need another reason to cook whole food to be healthy.
+
+I concluded with this line, which is the topic of this post.
 
 > There is a related topic on the difference between food in America and Europe that I think has merit.
 
-Earlier this year, I listened to The End of Craving audiobook. It was the most persuasive thesis I've heard to explain American obesity rates when compared to Europe - specifically Northern Italy. Because the book was written by a journalist, I know to be skeptical. Journalists who write about nutrition tend to be very good writers and convincing. But I've been [burned before](/2015/02/tell-me-low-carb-lies/), which is why I label them Tier 3 in the post [Nutritional Persuasion](/2024/06/nutritional-persuasion/).
+Earlier this year, I listened to The End of Craving audiobook. It was the most persuasive thesis I've heard to explain American obesity rates when compared to Europe - specifically Northern Italy.
+
+Because the book was written by a journalist, I know to be skeptical. Journalists who write about nutrition tend to be very good writers and convincing. But I've been [burned before](/2015/02/tell-me-low-carb-lies/), which is why I label them Tier 3 in the post [Nutritional Persuasion](/2024/06/nutritional-persuasion/).
 
 
 ### The Thesis
 
 
-The book has been returned to the library, so I'll be going on memory. The claim is that the people of Northern Italy have an obesity rate of just 8%, which is a fraction of what we have in the USA. The author then goes into some history and possible explanations of the difference. ![](./img/the-end-of-craving.jpg)
+The book has been returned to the library, so I'll be going on memory. The claim is that the people of Northern Italy have an obesity rate of just 8%, which is a fraction of what we have in the USA. The author then goes into some history and possible explanations of the difference.
+
+![](./img/the-end-of-craving.jpg)
 
 
 #### Vitamin Fortification
 
 
-Both Europe and the USA had a pellagra problem 100 years ago. This comes from a vitamin B-3 deficiency. America solved the problem by adding vitamins to flour. Europe took a food-combining approach. Both worked. The pellagra problem was solved. But did this have an unintended consequence? Farmers raising pigs learned that adding B vitamins to their chow would result in faster-growing animals than when the animals were raised on pasture. At the same time, we are feeding livestock additional B vitamins, we are consuming more and more processed foods that have been fortified with vitamins. The pigs and humans are now both getting heavier at a faster rate. This portion of the book reminded me of a series of posts from FreeTheAnimal almost a decade ago. From [How Food Enrichment Promotes Obesity ("Theory of Everything" Wider and Deeper)](https://freetheanimal.com/2016/05/enrichment-promotes-everything.html):
+Both Europe and the USA had a pellagra problem 100 years ago. This comes from a vitamin B-3 deficiency. America solved the problem by adding vitamins to flour. Europe took a food-combining approach. Both worked. The pellagra problem was solved. But did this have an unintended consequence?
+
+Farmers raising pigs learned that adding B vitamins to their chow would result in faster-growing animals than when the animals were raised on pasture. At the same time, we are feeding livestock additional B vitamins, we are consuming more and more processed foods that have been fortified with vitamins. The pigs and humans are now both getting heavier at a faster rate.
+
+This portion of the book reminded me of a series of posts from FreeTheAnimal almost a decade ago. From [How Food Enrichment Promotes Obesity ("Theory of Everything" Wider and Deeper)](https://freetheanimal.com/2016/05/enrichment-promotes-everything.html):
 
 > Whether you’re a farm animal, a rodent, or a human, you must acquire some source of B vitamins to maintain appetite—it doesn’t matter where the B vitamins come from so long as you obtain them to keep your appetite up. As Osbourne and Mendel, and countless other researchers showed, this is why the diets of farm animals and lab rat chow must be fortified. The subjects would not have the appetite and growth response from those purified foods otherwise.
 
@@ -35,13 +45,31 @@ The entire post is worth reading. It includes charts showing that when countries
 #### Nutritional Mimicry
 
 
-The End of Craving also covers "nutritional mimicry". This is what occurs when foods are engineered to simulate the sensory qualities of nutritious foods without actually providing the same nutritional benefits. One example is artificial sweeteners, which most of us are aware of. Food manufacturers have also developed various techniques and ingredients to replicate the creamy, rich texture of fats. These include the use of emulsifiers, stabilizers, and other additives. Our bodies have evolved to detect nutrients through taste, smell, and other sensory cues. These cues typically signal the presence of important nutrients and calories. Food manufacturers have learned to exploit these mechanisms by creating foods that trigger our nutrient sensors without delivering the expected nutritional payload. The claim is that this "mimicry" can lead to overconsumption because our bodies continue to crave nutrients that aren't present in sufficient quantities, despite the strong flavors suggesting otherwise. The American food system is full of products that exploit this nutritional mimicry, which can cause overconsumption of calories and weight gain.
+The End of Craving also covers "nutritional mimicry". This is what occurs when foods are engineered to simulate the sensory qualities of nutritious foods without actually providing the same nutritional benefits.
+
+One example is artificial sweeteners, which most of us are aware of.
+
+Food manufacturers have also developed various techniques and ingredients to replicate the creamy, rich texture of fats. These include the use of emulsifiers, stabilizers, and other additives.
+
+Our bodies have evolved to detect nutrients through taste, smell, and other sensory cues. These cues typically signal the presence of important nutrients and calories. Food manufacturers have learned to exploit these mechanisms by creating foods that trigger our nutrient sensors without delivering the expected nutritional payload.
+
+The claim is that this "mimicry" can lead to overconsumption because our bodies continue to crave nutrients that aren't present in sufficient quantities, despite the strong flavors suggesting otherwise.
+
+The American food system is full of products that exploit this nutritional mimicry, which can cause overconsumption of calories and weight gain.
 
 
 ### Toxins, Fortification, or Nutritional Mimicry?
 
 
-I stopped eating bread/gluten when I was first exposed to Paleo. I also stopped drinking milk. This eliminated almost all my exposure to fortified foods. That wasn't my intent. It just happened. I still avoid gluten/wheat and the only dairy I regularly consume is fat-free Greek yogurt without fortification. I also don't consume foods with fake sugars or fats. They tend to be processed foods, which I avoid as a category. If there is merit to these theories, then I had the wind at my back that allowed me to reduce calories without experiencing a spike in appetite. And if the concerns about excess iron from FreeTheAnimal are valid, then the almost 6 gallons of [blood I've donated](/2024/07/donate-blood/) since 2010 have also been another accidental win for my body composition. Maybe it doesn't matter what which of these factors may or may not be true, because the answer is still the same. Minimize restaurants, food delivery, and processed foods. Eat whole foods. That way you avoid the chemicals, the fortification, and any nutritional mimicry. Or you could just move to Italy to test the thesis. For science! What are your thoughts on this topic?
+I stopped eating bread/gluten when I was first exposed to Paleo. I also stopped drinking milk. This eliminated almost all my exposure to fortified foods. That wasn't my intent. It just happened.
+
+I still avoid gluten/wheat and the only dairy I regularly consume is fat-free Greek yogurt without fortification. I also don't consume foods with fake sugars or fats. They tend to be processed foods, which I avoid as a category.
+
+If there is merit to these theories, then I had the wind at my back that allowed me to reduce calories without experiencing a spike in appetite. And if the concerns about excess iron from FreeTheAnimal are valid, then the almost 6 gallons of [blood I've donated](/2024/07/donate-blood/) since 2010 have also been another accidental win for my body composition.
+
+Maybe it doesn't matter what which of these factors may or may not be true, because the answer is still the same. Minimize restaurants, food delivery, and processed foods. Eat whole foods. That way you avoid the chemicals, the fortification, and any nutritional mimicry. Or you could just move to Italy to test the thesis. For science!
+
+What are your thoughts on this topic?
 
 ---
 

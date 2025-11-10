@@ -8,18 +8,32 @@ description: "In prior posts, I've mentioned my gradual increase in body tempera
 commentCount: 7
 ---
 
-In prior posts, I've mentioned my gradual increase in body temperature since I began severely restricting seed oils. I was going off memory, but thanks to the blood donation portal, I now have 13 years of data where I had my temperature and pulse were measured. All my donations were taken in the early afternoon. There appears to be some missing data. I have donated 45 times in Washington, but only 41 have the screening data saved. _(I donated a few times in California during this period, but I do not have that data)_ [Google Sheet: Body Temp, Weight, Pulse](https://docs.google.com/spreadsheets/d/1obxCFZ1IWa9q3zJpIeFzAc5FOnYzxTMK039D4mgu10Q/edit?usp=sharing) Claude AI sees the pattern too.
+In prior posts, I've mentioned my gradual increase in body temperature since I began severely restricting seed oils.
+
+I was going off memory, but thanks to the blood donation portal, I now have 13 years of data where I had my temperature and pulse were measured. All my donations were taken in the early afternoon. There appears to be some missing data. I have donated 45 times in Washington, but only 41 have the screening data saved.
+
+_(I donated a few times in California during this period, but I do not have that data)_
+
+[Google Sheet: Body Temp, Weight, Pulse](https://docs.google.com/spreadsheets/d/1obxCFZ1IWa9q3zJpIeFzAc5FOnYzxTMK039D4mgu10Q/edit?usp=sharing)
+
+Claude AI sees the pattern too.
 
 > There's a clear upward trend in body temperature over the years. The average temperature has increased from around 97°F in the early years to about 99°F in recent measurements. This trend is statistically significant but small in magnitude (0.04°F per year).
 
-Did seed oil restriction cause my temperature to rise? Or maybe it was the reduction of microplastics through frequent blood donations? Or something else? I don't know. I raised these questions in [Dieting, Seed Oils, Microplastics](/2024/05/dieting-seed-oils-microplastics/). I'd love to see a study where they divided a bunch of people into different groups and then monitored their outcomes.
+Did seed oil restriction cause my temperature to rise? Or maybe it was the reduction of microplastics through frequent blood donations? Or something else? I don't know. I raised these questions in [Dieting, Seed Oils, Microplastics](/2024/05/dieting-seed-oils-microplastics/).
+
+I'd love to see a study where they divided a bunch of people into different groups and then monitored their outcomes.
 
 -   control group
 -   no seed oil, no blood donation
 -   no seed oil with regular blood donations (like me)
 -   seed oil with regular blood donations
 
-Measure their metabolic rate. I used body temperature, which is a crude measurement. I'm sure there are other metrics. Maybe my data means nothing. I'd love to find out if we can tell from a larger sample size. Until then, I'll keep restricting seed oils and donating blood. ![](./img/seed-oil.jpg)
+Measure their metabolic rate. I used body temperature, which is a crude measurement. I'm sure there are other metrics. Maybe my data means nothing. I'd love to find out if we can tell from a larger sample size.
+
+Until then, I'll keep restricting seed oils and donating blood.
+
+![](./img/seed-oil.jpg)
 
 ---
 

@@ -9,13 +9,21 @@ description: "Earlier this week I got some good natured ribbing from friends abo
 commentCount: 12
 ---
 
-Earlier this week I got some good natured ribbing from friends about the fact that I'm testing non-mainstream fitness and nutritional ideas on myself. I've become a one man experiment in my quest to better understand a few concepts in evolutionary fitness. Modern society is fatter and weaker than our evolutionary ancestors. Our lives may be safer, but we traded that safety for obesity and cancer. Can we improve our fitness by better understanding history? The three main concepts I am looking into are:
+Earlier this week I got some good natured ribbing from friends about the fact that I'm testing non-mainstream fitness and nutritional ideas on myself. I've become a one man experiment in my quest to better understand a few concepts in evolutionary fitness.
+
+Modern society is fatter and weaker than our evolutionary ancestors. Our lives may be safer, but we traded that safety for obesity and cancer. Can we improve our fitness by better understanding history?
+
+The three main concepts I am looking into are:
 
 1.  Primal fitness favored the strong, the fast and those with endurance. The hunter gather needed to be strong enough for the hunt, fast enough to escape prey and have enough endurance to walk far distances to gather more food. The movement toward food sources was not rigid. It was dynamic and unpredictable.
 2.  For 99.99% of human evolution, we did not exist in a perfect temperature environment. We got hot and we got cold and our bodies learned how to deal with it. We now go from temperature controlled homes to temperature controlled cars to temperature controlled offices.
 3.  Primal man was not able to eat 3 square or 6 small meals each day. Food came and went. When the food was plentiful, it was consumed. When it went away, the hunting and gathering resumed. Primal man didn't need to eat a _Cliff Bar,_ because his blood sugar was falling. He survived. He was larger and more muscular than his agricultural descendants. And those that survived childhood and prey, lived almost as long as modern man. The only difference is they weren't diabetic and obese taking copious amounts of medication while riding a Rascal.
 
-[![](./img/scooter.jpg "scooter")](./img/scooter.jpg) _How would this man have survived in a primal world?_ How am I testing these ideas?
+[![](./img/scooter.jpg "scooter")](./img/scooter.jpg)
+
+_How would this man have survived in a primal world?_
+
+How am I testing these ideas?
 
 1.  For years now I've already been in the evolutionary fitness camp. I just didn't know it. Low-rep compound weight training, hiking and playing games like basketball.
 2.  In the post [No Jacket Required](/2008/12/no-jacket-required/), I go into greater detail on how I'm training my body to handle cold weather by not wearing a coat in the winter. Temperatures have dropped to the 30s in Seattle and I'm still wearing a short-sleeved shirt. It is getting easier.

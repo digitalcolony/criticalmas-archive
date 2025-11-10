@@ -9,7 +9,11 @@ description: "Recently a play titled Tuesdays With Morrie came to Seattle. It so
 commentCount: 13
 ---
 
-Recently a play titled _Tuesdays With Morrie_ came to Seattle. It sounded interesting, but my schedule prevented me from going. However, the Seattle Library had a copy of the book. Lucky for me, right? Not really. ![Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson](https://images-na.ssl-images-amazon.com/images/I/51HvFa-Ih-L.jpg) Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson by Mitch Albom is an awful book. A middle-aged man, whose life is losing meaning, revisits his dying professor to learn _life's greatest lesson_. The author barely touches on the lessons from the old man. He spends most of the book talking about his professor's health problems. Mitch Albom is [yet another](/2009/03/grown-up-digital-is-an-awful-book/) narcissistic navel-gazing Baby Boomer with a word processor. Instead of listening and learning the wisdom from his mentor, the story becomes a sad observation of his death and a student that learned nothing.
+Recently a play titled _Tuesdays With Morrie_ came to Seattle. It sounded interesting, but my schedule prevented me from going. However, the Seattle Library had a copy of the book. Lucky for me, right? Not really.
+
+![Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson](https://images-na.ssl-images-amazon.com/images/I/51HvFa-Ih-L.jpg) Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson by Mitch Albom is an awful book. A middle-aged man, whose life is losing meaning, revisits his dying professor to learn _life's greatest lesson_.
+
+The author barely touches on the lessons from the old man. He spends most of the book talking about his professor's health problems. Mitch Albom is [yet another](/2009/03/grown-up-digital-is-an-awful-book/) narcissistic navel-gazing Baby Boomer with a word processor. Instead of listening and learning the wisdom from his mentor, the story becomes a sad observation of his death and a student that learned nothing.
 
 ---
 

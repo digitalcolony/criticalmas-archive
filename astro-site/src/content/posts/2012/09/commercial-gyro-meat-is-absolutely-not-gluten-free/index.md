@@ -9,25 +9,37 @@ description: "Let me share with you the hell I went through late Sunday night, s
 commentCount: 16
 ---
 
-Let me share with you the hell I went through late Sunday night, so you never have to experience it. I was out all day Saturday and had lunch at a Greek restaurant. I had a gyro meat salad with no bread. I woke up at 2:30 AM with a screaming headache that lasted for several hours. I suspected the gyro meat had gluten in it, but the last time I researched this I concluded that gyro meat didn't have gluten. It seems I researched this question incorrectly. Traditional recipes for gyro meat do not have gluten. However, many Greek restaurants today are not making their gyro meat on-premise using traditional recipes. Like many other modern restaurants, they use food service companies. So it doesn't matter what the traditional recipes for gyro meat call for. The only thing that matters is what the food service companies are selling to these restaurants.
+Let me share with you the hell I went through late Sunday night, so you never have to experience it. I was out all day Saturday and had lunch at a Greek restaurant. I had a gyro meat salad with no bread. I woke up at 2:30 AM with a screaming headache that lasted for several hours. I suspected the gyro meat had gluten in it, but the last time I researched this I concluded that gyro meat didn't have gluten. It seems I researched this question incorrectly.
+
+Traditional recipes for gyro meat do not have gluten. However, many Greek restaurants today are not making their gyro meat on-premise using traditional recipes. Like many other modern restaurants, they use food service companies. So it doesn't matter what the traditional recipes for gyro meat call for. The only thing that matters is what the food service companies are selling to these restaurants.
 
 
 ### Commercial Gyro Meat
 
 
-Three of the major suppliers of gyro meat in the USA are _Kronos Products_, _Olympia Foods_, and _Grecian Delight_. _Grecian Delight_ posts its [gyro nutritional information](http://web.archive.org/web/20160806011813/http://www.greciandelight.com/products/gyros-specialty-meats/greek-gyro-cones/chicago-style-extra-large-cone.aspx) on its website. Bread crumbs are listed as the 3rd ingredient. Interestingly, their gyro meat also has MSG. _Kronos_ doesn't post their nutritional information, so I contacted the company and confirmed that their gyro meat is not gluten-free. _Olympia Foods_ states on its site that its gyro meat has wheat and soy. If you find yourself stuck at a Greek restaurant, your safest bet is to get kabobs or a Greek salad. I confirmed with _Kronos_ that their kabobs are gluten-free. What you don't want to do is get the [falafel](http://web.archive.org/web/20160806004422/http://www.greciandelight.com/products/mediterranean-specialty/falafel/falafel-dough.aspx), which also contains wheat. Another thing I learned today during my research is that the [hummus](http://web.archive.org/web/20160806004434/http://www.greciandelight.com/products/hummus-spreads/hummus/traditional-hummus.aspx) you thought had olive oil might be using soybean oil. And the [Tzatziki sauce](http://web.archive.org/web/20121018051011/http://www.greciandelight.com/products/hummus-spreads/tzatziki-dairy-spreads-dips/grecian-delight-tzatziki-sauce.aspx) has several questionable ingredients.
+Three of the major suppliers of gyro meat in the USA are _Kronos Products_, _Olympia Foods_, and _Grecian Delight_. _Grecian Delight_ posts its [gyro nutritional information](http://web.archive.org/web/20160806011813/http://www.greciandelight.com/products/gyros-specialty-meats/greek-gyro-cones/chicago-style-extra-large-cone.aspx) on its website. Bread crumbs are listed as the 3rd ingredient. Interestingly, their gyro meat also has MSG. _Kronos_ doesn't post their nutritional information, so I contacted the company and confirmed that their gyro meat is not gluten-free. _Olympia Foods_ states on its site that its gyro meat has wheat and soy.
+
+If you find yourself stuck at a Greek restaurant, your safest bet is to get kabobs or a Greek salad. I confirmed with _Kronos_ that their kabobs are gluten-free. What you don't want to do is get the [falafel](http://web.archive.org/web/20160806004422/http://www.greciandelight.com/products/mediterranean-specialty/falafel/falafel-dough.aspx), which also contains wheat. Another thing I learned today during my research is that the [hummus](http://web.archive.org/web/20160806004434/http://www.greciandelight.com/products/hummus-spreads/hummus/traditional-hummus.aspx) you thought had olive oil might be using soybean oil. And the [Tzatziki sauce](http://web.archive.org/web/20121018051011/http://www.greciandelight.com/products/hummus-spreads/tzatziki-dairy-spreads-dips/grecian-delight-tzatziki-sauce.aspx) has several questionable ingredients.
 
 
 ### Look For the Posters
 
 
-Have you ever noticed those posters of women holding a gyro? That is a sign that the gyro meat was purchased from a food service company and not made on-premise. ![](http://farm3.staticflickr.com/2103/2514927173_16f336993d.jpg "gyro poster") _[Photo](http://www.flickr.com/photos/divine_harvester/2514927173/in/photostream/) by Milo Tobin. If you see this poster or [this one](http://www.flickr.com/photos/divine_harvester/2538713565/) or [this one](http://www.flickr.com/photos/48908095@N02/4516331399/), the gyro meat absolutely has gluten in it._  If a restaurant makes its gyro meat on-premise, it is highly unlikely that you'll see a food service poster. At that point, you can ask the proprietor if they use gluten. Assume they do.
+Have you ever noticed those posters of women holding a gyro? That is a sign that the gyro meat was purchased from a food service company and not made on-premise.
+
+![](http://farm3.staticflickr.com/2103/2514927173_16f336993d.jpg "gyro poster")
+
+_[Photo](http://www.flickr.com/photos/divine_harvester/2514927173/in/photostream/) by Milo Tobin. If you see this poster or [this one](http://www.flickr.com/photos/divine_harvester/2538713565/) or [this one](http://www.flickr.com/photos/48908095@N02/4516331399/), the gyro meat absolutely has gluten in it._ 
+
+If a restaurant makes its gyro meat on-premise, it is highly unlikely that you'll see a food service poster. At that point, you can ask the proprietor if they use gluten. Assume they do.
 
 
 ### Gluten is NOT Necessary For Gyro Meat
 
 
-If you search online for gyro recipes, the majority do not include wheat, soy, or MSG. Why do food service companies add breadcrumbs? Perhaps the bread makes the meat pack together better for shipping? Or maybe it is just a cost issue. Fluff up the expensive ingredients of beef and lamb with dirt-cheap bread. This post explains why I cook 99% of my meals. We are being poisoned one meal at a time with toxic ingredients. Fortunately, I have solved the gyro meat riddle at home with two recipes.
+If you search online for gyro recipes, the majority do not include wheat, soy, or MSG. Why do food service companies add breadcrumbs? Perhaps the bread makes the meat pack together better for shipping? Or maybe it is just a cost issue. Fluff up the expensive ingredients of beef and lamb with dirt-cheap bread.
+
+This post explains why I cook 99% of my meals. We are being poisoned one meal at a time with toxic ingredients. Fortunately, I have solved the gyro meat riddle at home with two recipes.
 
 1.  [My Gyro Obsession and The Meatball Solution](/2012/02/my-gyro-obsession-and-the-meatball-solution/)
 2.  [The Gyro Meatloaf Recipe](/2012/03/the-gyro-meatloaf-recipe/)

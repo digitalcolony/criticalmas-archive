@@ -9,7 +9,17 @@ description: "Today I rendered beef tallow from suet. The beef fat came from 100
 commentCount: 24
 ---
 
-Today I rendered beef tallow from suet. The beef fat came from 100% grass pastured animal. I used the instructions from the post [Make Your Own Beef Tallow](http://cookingkate.wordpress.com/2011/01/18/make-your-own-beef-tallow/) with one exception. Instead of using an oven, I used my Crock Pot on the low setting. ![beef-tallow-2-jars](./img/beef-tallow-2-jars.jpg) Here are the delicious crunchy remains (aka "the cracklins"). ![cracklings](./img/cracklings.jpg) The benefit of rendering tallow in a Crock Pot is you can leave the house and go for a walk. This is what my neighborhood of Ballard looked like today. ![ballard](./img/ballard.jpg)
+Today I rendered beef tallow from suet. The beef fat came from 100% grass pastured animal. I used the instructions from the post [Make Your Own Beef Tallow](http://cookingkate.wordpress.com/2011/01/18/make-your-own-beef-tallow/) with one exception. Instead of using an oven, I used my Crock Pot on the low setting.
+
+![beef-tallow-2-jars](./img/beef-tallow-2-jars.jpg)
+
+Here are the delicious crunchy remains (aka "the cracklins").
+
+![cracklings](./img/cracklings.jpg)
+
+The benefit of rendering tallow in a Crock Pot is you can leave the house and go for a walk. This is what my neighborhood of Ballard looked like today.
+
+![ballard](./img/ballard.jpg)
 
 ---
 

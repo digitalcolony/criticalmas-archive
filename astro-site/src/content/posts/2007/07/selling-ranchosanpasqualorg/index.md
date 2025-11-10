@@ -9,4 +9,20 @@ description: "Almost a month ago I announced that I would be selling RanchoSanPa
 commentCount: 0
 ---
 
-Almost a month ago I announced that I would be selling RanchoSanPasqual.org. I created the RSP site to help sell my house. My house sold. Now it's time to reduce my commitment to this site. I have other projects that are more important. The problem I discovered is that nobody wants to buy it. The site would be ideal for a real estate agent that really wants to be the neighborhood expert. I know from first hand experience that the site attracted hundreds of visitors who were interested in this North County gated community. And those visitors viewed the home listing page over a thousand times. What is a 3% commission on a $600,000 house sale? My calculator tells me it is $18,000. If you were an agent working this neighborhood would you pay $300 (a steal) for a web site that was #1 on all the search engines? I would, but I'm not a real estate agent. ![rancho-san-pasqual](./img/rancho-san-pasqual.jpg) _An early photo of Rancho San Pasqual before the Triana section was developed._  There are two groups of agents that work the Rancho San Pasqual area. Group One are the rock stars. They are the 4-5 agents that sell the majority of listings. They live in the neighborhood and everyone knows their name from their expensive direct mailers. The second group are mostly outsiders that may get a single listing. Group Two often finds it expensive to sell in the Rancho San Pasqual area. It's a little remote. My assessment thus far is Group One thinks they are doing just fine with their current marketing strategy and no gosh-darn internet page can help them land a referral. And I believe Group Two has no desire to be the neighborhood expert. They just want to sell their current listing and stop making that long drive out to the San Pasqual Valley every week. Meanwhile the houses in the neighborhood aren't selling. Listings are going through death by a thousand cuts. Every month they lower their price a little. And the property still doesn't sell. What worked before is clearly not working today. A rational professional would try a new strategy. But then again we are talking about real estate agents.
+Almost a month ago I announced that I would be selling RanchoSanPasqual.org. I created the RSP site to help sell my house. My house sold. Now it's time to reduce my commitment to this site. I have other projects that are more important.
+
+The problem I discovered is that nobody wants to buy it.
+
+The site would be ideal for a real estate agent that really wants to be the neighborhood expert. I know from first hand experience that the site attracted hundreds of visitors who were interested in this North County gated community. And those visitors viewed the home listing page over a thousand times.
+
+What is a 3% commission on a $600,000 house sale? My calculator tells me it is $18,000. If you were an agent working this neighborhood would you pay $300 (a steal) for a web site that was #1 on all the search engines? I would, but I'm not a real estate agent.
+
+![rancho-san-pasqual](./img/rancho-san-pasqual.jpg)
+
+_An early photo of Rancho San Pasqual before the Triana section was developed._ 
+
+There are two groups of agents that work the Rancho San Pasqual area. Group One are the rock stars. They are the 4-5 agents that sell the majority of listings. They live in the neighborhood and everyone knows their name from their expensive direct mailers. The second group are mostly outsiders that may get a single listing. Group Two often finds it expensive to sell in the Rancho San Pasqual area. It's a little remote.
+
+My assessment thus far is Group One thinks they are doing just fine with their current marketing strategy and no gosh-darn internet page can help them land a referral. And I believe Group Two has no desire to be the neighborhood expert. They just want to sell their current listing and stop making that long drive out to the San Pasqual Valley every week.
+
+Meanwhile the houses in the neighborhood aren't selling. Listings are going through death by a thousand cuts. Every month they lower their price a little. And the property still doesn't sell. What worked before is clearly not working today. A rational professional would try a new strategy. But then again we are talking about real estate agents.

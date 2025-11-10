@@ -15,7 +15,11 @@ Yesterday I posted a review of the documentary [Bigger, Stronger, Faster](/2012/
 ### Background
 
 
-At this time I discovered a magazine called Muscle Media 2000, which attacked supplement companies and had open and honest dialog about steroids. Steroids were effective and not nearly as dangerous as the mass media would have you believe. Most people are unaware that anabolic steroids have been around since the 1930s, but were only labeled as [Schedule III narcotics](https://en.wikipedia.org/wiki/List_of_Schedule_III_drugs_\(US\)) in 1990. One of the writers for _Muscle Media 2000_ was _The Steroid Guru_ [Dan Duchaine](https://en.wikipedia.org/wiki/Dan_Duchaine). He released the infamous book Underground Bodyopus: Militant Weight Loss & Recomposition, which openly discussed steroids. Once I exchanged a few emails with him on the legality of a supplement being carried at a Tampa Bay area supplement shop. ![steroids](./img/14487525815_9ab19772e9_z.jpg) _[Photo](https://flic.kr/p/o5dmFR) By MattysFlicks_
+At this time I discovered a magazine called Muscle Media 2000, which attacked supplement companies and had open and honest dialog about steroids. Steroids were effective and not nearly as dangerous as the mass media would have you believe. Most people are unaware that anabolic steroids have been around since the 1930s, but were only labeled as [Schedule III narcotics](https://en.wikipedia.org/wiki/List_of_Schedule_III_drugs_\(US\)) in 1990. One of the writers for _Muscle Media 2000_ was _The Steroid Guru_ [Dan Duchaine](https://en.wikipedia.org/wiki/Dan_Duchaine). He released the infamous book Underground Bodyopus: Militant Weight Loss & Recomposition, which openly discussed steroids. Once I exchanged a few emails with him on the legality of a supplement being carried at a Tampa Bay area supplement shop.
+
+![steroids](./img/14487525815_9ab19772e9_z.jpg)
+
+_[Photo](https://flic.kr/p/o5dmFR) By MattysFlicks_
 
 
 ### My Personal Steroid Guidelines
@@ -40,7 +44,13 @@ Well fast forward to 2012 and my opinion is exactly the same. I have never taken
 ### Do I Consider Steroids Cheating?
 
 
-I don't watch or care about what professional or Olympic athletes do when it comes to steroids. So I don't want to discuss that angle. When it comes to personal use, I think the health of many men in this country would be improved with testosterone supplementation. If I were overweight and lethargic, I'd absolutely take it. I think we are quickly approaching the age when hormone replacement will become more and more common. I can see a world in a decade or two where the majority of men over 40 are taking testosterone. Our foods and environment are feminizing men at a rapid pace and there are billions of dollars to be made in pushing a pharmaceutical fix. The word _andropause_ will be as well known as _menopause_. I figured out how to increase my testosterone and growth hormone levels through food choices and nutrient timing. And through research and experimentation I figured out which exercises maximize my growth potential with the least risk of injury. Most men will not have the discipline or patience to do what I've done. If they seek out medical help to fix things, I will not judge them. There is one type of steroid user that I have a problem with. It is the steroid user that puts themselves out as a fitness expert without disclosing their hormonal assistance. When you make strong claims on the efficacy of a program, but fail to disclose or bury the disclosure that you were getting hormonal help, that strikes me as borderline fraud.
+I don't watch or care about what professional or Olympic athletes do when it comes to steroids. So I don't want to discuss that angle.
+
+When it comes to personal use, I think the health of many men in this country would be improved with testosterone supplementation. If I were overweight and lethargic, I'd absolutely take it. I think we are quickly approaching the age when hormone replacement will become more and more common. I can see a world in a decade or two where the majority of men over 40 are taking testosterone. Our foods and environment are feminizing men at a rapid pace and there are billions of dollars to be made in pushing a pharmaceutical fix. The word _andropause_ will be as well known as _menopause_.
+
+I figured out how to increase my testosterone and growth hormone levels through food choices and nutrient timing. And through research and experimentation I figured out which exercises maximize my growth potential with the least risk of injury. Most men will not have the discipline or patience to do what I've done. If they seek out medical help to fix things, I will not judge them.
+
+There is one type of steroid user that I have a problem with. It is the steroid user that puts themselves out as a fitness expert without disclosing their hormonal assistance. When you make strong claims on the efficacy of a program, but fail to disclose or bury the disclosure that you were getting hormonal help, that strikes me as borderline fraud.
 
 ---
 

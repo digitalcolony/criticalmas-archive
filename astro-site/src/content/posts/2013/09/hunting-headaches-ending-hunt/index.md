@@ -9,7 +9,21 @@ description: "On March 24, 2011, I began tracking my headaches in a project I ca
 commentCount: 13
 ---
 
-On March 24, 2011, I began tracking my headaches in a project I called [Hunting Headaches](/2011/07/hunting-headaches/). For over two years, I've started every morning by dropping numbers into a spreadsheet. Headache intensity, sleep quality and number of coffees. I also tracked numerous other metrics from shorter term experiments, such as weather and supplements. On September 1, 2013, I ended the hunt. I've given up for now. It is time to take a long break from this experiment. I have enough data to know MANY things that aren't causing the headaches. Besides obvious headache triggers such as gluten and alcohol, which I avoid completely, I know that caffeine plays a prominent role in my headaches. Collecting more data isn't going to change that. ![ha-coffee-final](./img/ha-coffee-final.png) Red is the average daily coffee. Blue is average headache intensity. Whenever I make a serious attempt to reduce coffee, headache intensity drops. The opposite isn't always true. I also earned that consuming coffee in the late afternoon IMPROVES my sleep quality, which reduces headache intensity. This is counter intuitive to most people. For me coffee plays a complicated role. Now I am going to learn what happens when I stop collecting data. Perhaps the missing piece of this experiment has been that I've been under pressure to solve something that might be outside my control. I have zero plans to see a doctor. If I'm not willing to fully detox from coffee, then throwing money at a doctor is almost certainly wasted. And walking away from coffee while I live in Seattle is not likely at this time. Also, I am OK with my current state. The past 2 months I have worked on accepting my headaches. If things get worse, I can always change my mind. The perception of pain is subjective. I'm sure some malcontent with more math skills than me will be quick to tell me that my experiment was flawed or that I did something wrong. To them I say STFU. I did the best I could and I learned a lot about myself in the process. Once again I am not asking for new ideas to test. It is time to quit and move onto something else.
+On March 24, 2011, I began tracking my headaches in a project I called [Hunting Headaches](/2011/07/hunting-headaches/). For over two years, I've started every morning by dropping numbers into a spreadsheet. Headache intensity, sleep quality and number of coffees. I also tracked numerous other metrics from shorter term experiments, such as weather and supplements.
+
+On September 1, 2013, I ended the hunt. I've given up for now. It is time to take a long break from this experiment. I have enough data to know MANY things that aren't causing the headaches. Besides obvious headache triggers such as gluten and alcohol, which I avoid completely, I know that caffeine plays a prominent role in my headaches. Collecting more data isn't going to change that.
+
+![ha-coffee-final](./img/ha-coffee-final.png)
+
+Red is the average daily coffee. Blue is average headache intensity. Whenever I make a serious attempt to reduce coffee, headache intensity drops. The opposite isn't always true. I also earned that consuming coffee in the late afternoon IMPROVES my sleep quality, which reduces headache intensity. This is counter intuitive to most people. For me coffee plays a complicated role.
+
+Now I am going to learn what happens when I stop collecting data. Perhaps the missing piece of this experiment has been that I've been under pressure to solve something that might be outside my control.
+
+I have zero plans to see a doctor. If I'm not willing to fully detox from coffee, then throwing money at a doctor is almost certainly wasted. And walking away from coffee while I live in Seattle is not likely at this time. Also, I am OK with my current state. The past 2 months I have worked on accepting my headaches. If things get worse, I can always change my mind.
+
+The perception of pain is subjective. I'm sure some malcontent with more math skills than me will be quick to tell me that my experiment was flawed or that I did something wrong. To them I say STFU. I did the best I could and I learned a lot about myself in the process.
+
+Once again I am not asking for new ideas to test. It is time to quit and move onto something else.
 
 ---
 

@@ -22,7 +22,15 @@ Actually, this is the 1 month and 1-week update to my ["Turn Up the Heat" experi
 > 9.  Eat carbs upon waking. This will be a huge change for me.
 > 10.  Eat popcorn for salty snack.
 
-With the exception of #9, I have been very good about the items on the list. Because I must eat before going to sleep or else I'll wake in the middle of the night hungry, I really don't want to eat first thing in the morning. In one interview, Matt Stone talked about a 12-hour eating window. For me, that means my first meal should be at 10 AM, not at 6 AM when I wake up. Not sure which rule is most important, but I really don't want an 18-hour eating window. _(UPDATE: I meant to say 16-hour eating window - 6 AM to 10 PM)_ ![Cheese](https://farm4.staticflickr.com/3543/5766697640_d3494ca1a9_z.jpg) _[Cheese](http://www.flickr.com/photos/anneh632/5766697640/in/photostream/) by Anne Hornyak_ Anyway, my body temperature is EXACTLY THE SAME. This means that either I didn't follow the advice strictly enough or I need to follow the protocol longer. Another possibility is maybe my body type doesn't want to be warmer or as Richard Nikoley said, this might be a "_parlor trick_". With the exception of #9, I'm going to continue with the experiment, because they are all still sound ideas. My guess is 20 years of caffeine abuse is probably going to take a while to overcome. Even if it doesn't help with body temperature, I am confident it will reduce my headaches. My coffee consumption is already down 35% in April from March. My plan is to continue lowering coffee levels as the weather improves.
+With the exception of #9, I have been very good about the items on the list. Because I must eat before going to sleep or else I'll wake in the middle of the night hungry, I really don't want to eat first thing in the morning. In one interview, Matt Stone talked about a 12-hour eating window. For me, that means my first meal should be at 10 AM, not at 6 AM when I wake up. Not sure which rule is most important, but I really don't want an 18-hour eating window. _(UPDATE: I meant to say 16-hour eating window - 6 AM to 10 PM)_
+
+![Cheese](https://farm4.staticflickr.com/3543/5766697640_d3494ca1a9_z.jpg)
+
+_[Cheese](http://www.flickr.com/photos/anneh632/5766697640/in/photostream/) by Anne Hornyak_
+
+Anyway, my body temperature is EXACTLY THE SAME. This means that either I didn't follow the advice strictly enough or I need to follow the protocol longer. Another possibility is maybe my body type doesn't want to be warmer or as Richard Nikoley said, this might be a "_parlor trick_".
+
+With the exception of #9, I'm going to continue with the experiment, because they are all still sound ideas. My guess is 20 years of caffeine abuse is probably going to take a while to overcome. Even if it doesn't help with body temperature, I am confident it will reduce my headaches. My coffee consumption is already down 35% in April from March. My plan is to continue lowering coffee levels as the weather improves.
 
 ---
 

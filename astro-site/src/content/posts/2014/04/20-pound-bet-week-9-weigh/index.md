@@ -9,13 +9,25 @@ description: "For a background to this post see How I Plan to Lose 20 Pounds an
 commentCount: 4
 ---
 
-_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._ Week #9 Weigh-In: \-2. Total Loss: \-10. This was a good week. My plan last week was to journal the number of hours in my eating window. It worked! I was solid on my morning fasting and I lost 2 more pounds.
+_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._
+
+Week #9 Weigh-In: \-2. Total Loss: \-10.
+
+This was a good week. My plan last week was to journal the number of hours in my eating window. It worked! I was solid on my morning fasting and I lost 2 more pounds.
 
 
 ### Fasting Journal
 
 
-\[table id=33 /\] My goal was to average 14 hours. I hit 14.85 hours. It got easier later in the week. I will continue with this strategy. Fasting sure beats counting calories and weighing food. ![potato soup](./img/8345115927_ff7e69995a_z.jpg) _Photo by marsmet546_ Notes:
+\[table id=33 /\]
+
+My goal was to average 14 hours. I hit 14.85 hours. It got easier later in the week. I will continue with this strategy. Fasting sure beats counting calories and weighing food.
+
+![potato soup](./img/8345115927_ff7e69995a_z.jpg)
+
+_Photo by marsmet546_
+
+Notes:
 
 1.  I exercised less this week due to a setback with my knee rehab. This turned out to help making morning fasting easier. Fitness "gurus" that dismiss the relationship between activity and appetite are fools.
 2.  I had quite a few potatoes this week. Very filling. This is a lesson for all you militant low carbers. Carbs are not inherently fattening. Excess calories are.

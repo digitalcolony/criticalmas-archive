@@ -9,7 +9,23 @@ description: "For a background to this post see How I Plan to Lose 20 Pounds an
 commentCount: 15
 ---
 
-_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._ Week #8 Weigh-In: **\-1**. Total Loss: **\-8**. 8 weeks, 8 pounds. Grinding away. My knee rehab had a setback this week. Cycling for more than 5 minutes started to become uncomfortable, so I've scaled back. This means going into Week 9 I'll be exercising less. Weight gain often happens when activity drops before appetite can register the change. Appetite always lags activity, but they are connected. Any fitness "guru" that argues that point is a fool. I said I would return to food journaling if my weight loss stalled. It hasn't stalled, but it is getting close. Today I got a better idea. I believe the most effective idea for fat loss is reducing my eating window. So starting today I will begin keeping track of my eating window and make that information available on this blog starting next week. My goal will be to average an eating window of 10 hours and then adjust from there. That works out to a fasting window of 14 hours. An example would be 11:30 AM - 9:30 PM. Please don't leave a comment saying how you need to go hours before your last meal and sleep. That Oprah nonsense has been disproven countless times. The best time for your last meal is whatever facilitates deep sleep. For my ectomorphic caffeine abusing body eating right before bedtime keeps me asleep longer. ![pho](./img/pho.jpg) _I love my pho. I eat pho at least once a week. Often homemade._  Notes:
+_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._
+
+Week #8 Weigh-In: **\-1**. Total Loss: **\-8**.
+
+8 weeks, 8 pounds. Grinding away.
+
+My knee rehab had a setback this week. Cycling for more than 5 minutes started to become uncomfortable, so I've scaled back. This means going into Week 9 I'll be exercising less. Weight gain often happens when activity drops before appetite can register the change. Appetite always lags activity, but they are connected. Any fitness "guru" that argues that point is a fool.
+
+I said I would return to food journaling if my weight loss stalled. It hasn't stalled, but it is getting close. Today I got a better idea. I believe the most effective idea for fat loss is reducing my eating window. So starting today I will begin keeping track of my eating window and make that information available on this blog starting next week.
+
+My goal will be to average an eating window of 10 hours and then adjust from there. That works out to a fasting window of 14 hours. An example would be 11:30 AM - 9:30 PM. Please don't leave a comment saying how you need to go hours before your last meal and sleep. That Oprah nonsense has been disproven countless times. The best time for your last meal is whatever facilitates deep sleep. For my ectomorphic caffeine abusing body eating right before bedtime keeps me asleep longer.
+
+![pho](./img/pho.jpg)
+
+_I love my pho. I eat pho at least once a week. Often homemade._ 
+
+Notes:
 
 1.  I discovered I eat more cheese when I have more varieties in my frig. This week instead of getting my normal Kerrygold Cheddar block, I got three different cheeses from Trader Joes. The result was I consumed more cheese. Lesson learned. I'll return to Kerrygold Cheddar until the bet is over.
 2.  Competitor #3 is tied with me at 8 pounds lost. I have no updates from the other 2 competitors.

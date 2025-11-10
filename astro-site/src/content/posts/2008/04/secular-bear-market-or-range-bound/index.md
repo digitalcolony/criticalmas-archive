@@ -9,7 +9,13 @@ description: "Although there are several good sources on the Internet for financ
 commentCount: 3
 ---
 
-Although there are several good sources on the Internet for financial and economic information, if I had to pick my favorite it would be [John Mauldin's newsletter](https://www.mauldineconomics.com/). The newsletter is free and is sent out twice a week, with John usually writing the Friday edition. The most recent newsletter is titled _Is it a Bull, Bear or Cowardly Lion Market?_ It has some beautiful charts that dissect returns over different time periods. Guest author Vitaliy Katsenelson then extrapolates patterns and characteristics. Prior to reading this article, I was under the impression after reading Ed Easterling's book _Unexpected Returns: Understanding Secular Stock Market Cycles_ that a secular bear market was range-bound. Vitaliy digs deeper into those time periods and then labels it _range-bound_. Interesting stuff. ![PE Returns](./img/pe-returns.jpg) The best charts can be found over at Crestmont Research. Be close to a high-quality color printer when you see these charts. It is a goldmine of financial data.
+Although there are several good sources on the Internet for financial and economic information, if I had to pick my favorite it would be [John Mauldin's newsletter](https://www.mauldineconomics.com/). The newsletter is free and is sent out twice a week, with John usually writing the Friday edition.
+
+The most recent newsletter is titled _Is it a Bull, Bear or Cowardly Lion Market?_ It has some beautiful charts that dissect returns over different time periods. Guest author Vitaliy Katsenelson then extrapolates patterns and characteristics. Prior to reading this article, I was under the impression after reading Ed Easterling's book _Unexpected Returns: Understanding Secular Stock Market Cycles_ that a secular bear market was range-bound. Vitaliy digs deeper into those time periods and then labels it _range-bound_. Interesting stuff.
+
+![PE Returns](./img/pe-returns.jpg)
+
+The best charts can be found over at Crestmont Research. Be close to a high-quality color printer when you see these charts. It is a goldmine of financial data.
 
 ---
 

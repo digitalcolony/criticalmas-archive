@@ -9,13 +9,21 @@ description: "How is that for odd timing? A day after I completed my 5 part seri
 commentCount: 10
 ---
 
-How is that for odd timing? A day after I completed my 5 part series on the role of [exercise and fat loss](/2012/04/maximizing-fat-loss-with-exercise/), a widely reported study on the same topic surfaces. The short summary is that not everyone loses weight exercising and some people actually overeat to compensate for increased energy demands. Sound familiar? _Whole Health Source_ did a summary of the study titled [Exercise and Food Intake](http://wholehealthsource.blogspot.com/2012/04/exercise-and-food-intake.html) which discussed the individual variability. The study ties in food reward to exercise, which is a topic I was thinking about when I wrote my series. I look forward to seeing what researchers learn in further studies, however I did have some issues with [the study](http://www.ncbi.nlm.nih.gov/pubmed/22383502) as it applied to fat loss.
+How is that for odd timing? A day after I completed my 5 part series on the role of [exercise and fat loss](/2012/04/maximizing-fat-loss-with-exercise/), a widely reported study on the same topic surfaces. The short summary is that not everyone loses weight exercising and some people actually overeat to compensate for increased energy demands. Sound familiar? _Whole Health Source_ did a summary of the study titled [Exercise and Food Intake](http://wholehealthsource.blogspot.com/2012/04/exercise-and-food-intake.html) which discussed the individual variability.
+
+The study ties in food reward to exercise, which is a topic I was thinking about when I wrote my series. I look forward to seeing what researchers learn in further studies, however I did have some issues with [the study](http://www.ncbi.nlm.nih.gov/pubmed/22383502) as it applied to fat loss.
 
 1.  Their test involved doing **60 minutes of aerobic exercise** on a cycle. No surprise that it was ineffective for many. Intervals and weight training would have been a better test.
 2.  The test only used **young healthy individuals** (Age = 22.2 0.7). Young people recover faster from exercise and tend to have less health problems.
 3.  **The test was only 12 weeks long.** I have gone many 12 week periods in my life where exercise helped me get leaner. However, when you stand far enough back and look at much longer time periods, those benefits disappear. The reason is our appetite rises to meet energy needs. **We can't keep exercising at an ever increasing volume or intensity. We are human. We get hurt, sick or get sidelined with life's interruptions.** During the down periods, appetite does not return to baseline. It stays elevated. The fat we lost during our exercise interval comes back. It is a survival strategy the brain uses to prepare for an environment with periods of high energy demands. BTW, I am not a scientist, but I have examined [20 years of my own exercise experiences](/2012/04/how-exercise-indirectly-kept-me-fatter/) to arrive at this conclusion.
 
-![](http://farm3.staticflickr.com/2016/1968278897_214c6323e5.jpg "couch bike") _[Photo](http://www.flickr.com/photos/markstos/1968278897/in/photostream/) by Mark Stosberg. Can I ride up front? :)_ As much as I agree with the headline of the study, once I got into the details, I found it useless. We all aren't 22 years old. Long duration aerobic exercise is highly stressful to our bodies and hormones. And most importantly, 12 weeks is no where near enough time to make a conclusion on the role exercise has on fat loss. Bodybuilders know how to exercise to get super lean in weeks, but those gains are unsustainable for long periods of time. I believe the key to leveraging exercising for fat loss is to do highly intense brief exercises, followed by rest periods that allow the body to recover fully and ideally quickly.
+![](http://farm3.staticflickr.com/2016/1968278897_214c6323e5.jpg "couch bike")
+
+_[Photo](http://www.flickr.com/photos/markstos/1968278897/in/photostream/) by Mark Stosberg. Can I ride up front? :)_
+
+As much as I agree with the headline of the study, once I got into the details, I found it useless. We all aren't 22 years old. Long duration aerobic exercise is highly stressful to our bodies and hormones. And most importantly, 12 weeks is no where near enough time to make a conclusion on the role exercise has on fat loss. Bodybuilders know how to exercise to get super lean in weeks, but those gains are unsustainable for long periods of time.
+
+I believe the key to leveraging exercising for fat loss is to do highly intense brief exercises, followed by rest periods that allow the body to recover fully and ideally quickly.
 
 ---
 

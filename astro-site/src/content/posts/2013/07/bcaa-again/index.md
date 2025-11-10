@@ -21,7 +21,13 @@ And how much does Art take?
 
 > I take about from 1 to 2 grams of Guardian BCAAs with B12 a day. I use a teaspoon if I am hungry and do not want to stop to eat. I take another mid day for an energy boost, if convenient, and another an hour after dinner and well before bed.
 
-![Optimum Nutrition Instantized BCAA 5000mg Powder, Unflavored, 336g](https://images-na.ssl-images-amazon.com/images/I/51r6%2BWziJXL.jpg) Now I took BCAA a few years ago, but just on days when I was fasting and lifting. I don't recall an appetite effect, but I was only having a few doses a week. Considering I am now taking control of my appetite, this sounds like a cheap experiment. And if one could get an energy benefit then that might help me reduce caffeine levels. Has anyone noticed an appetite or energy effect from BCAA? _\*\* no longer online_
+![Optimum Nutrition Instantized BCAA 5000mg Powder, Unflavored, 336g](https://images-na.ssl-images-amazon.com/images/I/51r6%2BWziJXL.jpg)
+
+Now I took BCAA a few years ago, but just on days when I was fasting and lifting. I don't recall an appetite effect, but I was only having a few doses a week. Considering I am now taking control of my appetite, this sounds like a cheap experiment. And if one could get an energy benefit then that might help me reduce caffeine levels.
+
+Has anyone noticed an appetite or energy effect from BCAA?
+
+_\*\* no longer online_
 
 ---
 

@@ -13,7 +13,11 @@ About a year ago, I reported that I was experimenting with the Leangains 16 hour
 
 > Personally I like this intermittent fasting method better. It just seems more natural. I'm also gaining even more discipline over hunger. Being able to decline poor food choices when hungry is now something I'm very comfortable doing. I wish I could say I notice the results better than the other method, but it is still too soon to tell.
 
-As the days got longer and my activity increased, I backed off from the Intermittent Fasting. My intention was to return to this method and follow the protocol on a daily basis (as required) in the dead of winter. So unlike my initial review, this time I did daily 16 hour fasts and I supplemented with BCAAs prior per the _Leangains_ guide. ![16 sign](./img/16-sign.jpg) _[Photo](https://flic.kr/p/cTPwbj) by Eva the Weaver_
+As the days got longer and my activity increased, I backed off from the Intermittent Fasting. My intention was to return to this method and follow the protocol on a daily basis (as required) in the dead of winter. So unlike my initial review, this time I did daily 16 hour fasts and I supplemented with BCAAs prior per the _Leangains_ guide.
+
+![16 sign](./img/16-sign.jpg)
+
+_[Photo](https://flic.kr/p/cTPwbj) by Eva the Weaver_
 
 
 ### The First Week Can Be Tough
@@ -50,7 +54,9 @@ I went back and read the Guide again to see if I screwed up somewhere. I think I
 2.  Since I just started [30 Days Without Sugar or Fruit](/2011/02/30-days-without-sugar-or-fruit/), I need to up my carbs from glucose sources, such as sweet potatoes.
 3.  More protein. I'm eating like a caveman already, so I don't know how much will help.
 
-I was planning to end this experiment on March 22nd, but I'm probably going to continue through April. If I continue to lose muscle, I'll end it. Hopefully, I can solve the Month Two problems. If you have any ideas, please add them in the comments. Follow up: [Intermittent Fasting - Spontaneous and Random](/2011/03/intermittent-fasting-spontaneous-and-random/)
+I was planning to end this experiment on March 22nd, but I'm probably going to continue through April. If I continue to lose muscle, I'll end it. Hopefully, I can solve the Month Two problems. If you have any ideas, please add them in the comments.
+
+Follow up: [Intermittent Fasting - Spontaneous and Random](/2011/03/intermittent-fasting-spontaneous-and-random/)
 
 ---
 

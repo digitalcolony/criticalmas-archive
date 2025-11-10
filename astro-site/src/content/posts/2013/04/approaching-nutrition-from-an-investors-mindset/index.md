@@ -9,19 +9,35 @@ description: "Over the last few years, I've read numerous accounts of people who
 commentCount: 23
 ---
 
-Over the last few years, I've read numerous accounts of people who have tried different diets only to end up in worse health. Most often the diet works very well in the short term, but then things go wrong. At the point things go wrong, the person following the diet usually stays loyal for an additional period of time until their health declines to the point where they are forced to change their nutritional approach. They then embrace a new diet that corrects the deficiencies of the prior diet. This lasts for a while until the same cycle replays itself out. When I read the accounts of people who had poor experiences on a Paleo diet, I almost always see that they followed a strict, sometimes extreme, interpretation of the diet. Then after a honeymoon period, when their health gains started to reverse, they increased their commitment to what had already started failing for them. In the post [Am I Paleo?](/2013/04/am-i-paleo/), I mentioned that I never experienced any negative health issues from a Paleo diet and that I would explain why. I've been fine with Paleo, low carb, ketosis, cold weather exposure, intermittent fasting, or even a massive amount of ice cream because I approach nutrition from the mindset of an investor. Nutritional gurus love to wrap themselves in their [PubMed](/2012/11/not-a-pubmed-warrior/) blankets and dish out narratives that they believe work for everyone, but a simple observation shows that isn't working. The fact that some succeed in any plan does not prove it works for everyone. There are too many failures. How does one succeed in nutrition when nobody seems to agree on anything? How can one get the benefits that arrive in the early stages of a diet without staying too long and compromising their health? What has worked well for me is thinking about nutrition like an investor thinks about investment opportunities. ![MAS money](./img/21.jpg) _Young MAS_
+Over the last few years, I've read numerous accounts of people who have tried different diets only to end up in worse health. Most often the diet works very well in the short term, but then things go wrong. At the point things go wrong, the person following the diet usually stays loyal for an additional period of time until their health declines to the point where they are forced to change their nutritional approach. They then embrace a new diet that corrects the deficiencies of the prior diet. This lasts for a while until the same cycle replays itself out.
+
+When I read the accounts of people who had poor experiences on a Paleo diet, I almost always see that they followed a strict, sometimes extreme, interpretation of the diet. Then after a honeymoon period, when their health gains started to reverse, they increased their commitment to what had already started failing for them. In the post [Am I Paleo?](/2013/04/am-i-paleo/), I mentioned that I never experienced any negative health issues from a Paleo diet and that I would explain why.
+
+I've been fine with Paleo, low carb, ketosis, cold weather exposure, intermittent fasting, or even a massive amount of ice cream because I approach nutrition from the mindset of an investor. Nutritional gurus love to wrap themselves in their [PubMed](/2012/11/not-a-pubmed-warrior/) blankets and dish out narratives that they believe work for everyone, but a simple observation shows that isn't working. The fact that some succeed in any plan does not prove it works for everyone. There are too many failures.
+
+How does one succeed in nutrition when nobody seems to agree on anything? How can one get the benefits that arrive in the early stages of a diet without staying too long and compromising their health? What has worked well for me is thinking about nutrition like an investor thinks about investment opportunities.
+
+![MAS money](./img/21.jpg) _Young MAS_
 
 
 ### Undervalued, Overvalued
 
 
-When you are investing the goal is to put your money into something undervalued and then get out before it becomes overvalued. In other words, buy low and sell high. The more undervalued the investment, the less risk one takes. If we think about this nutritionally, we benefit most from the nutrients and foods that we are deficient in. A fast-food junkie will likely benefit from a vegetarian diet and a vegetarian will likely benefit from a Paleo diet. For a while. I still recall the first time I had beef liver a few years ago. Although I've never had anabolic steroids, I imagine what I felt was similar. I had this surge of strength and felt amazing. However, by the 10th time I had liver, it was no different than an apple. As an investment gets close to or hits its true value, the less return we can expect to receive. This leads us to our next investment idea.
+When you are investing the goal is to put your money into something undervalued and then get out before it becomes overvalued. In other words, buy low and sell high. The more undervalued the investment, the less risk one takes. If we think about this nutritionally, we benefit most from the nutrients and foods that we are deficient in. A fast-food junkie will likely benefit from a vegetarian diet and a vegetarian will likely benefit from a Paleo diet.
+
+For a while.
+
+I still recall the first time I had beef liver a few years ago. Although I've never had anabolic steroids, I imagine what I felt was similar. I had this surge of strength and felt amazing. However, by the 10th time I had liver, it was no different than an apple.
+
+As an investment gets close to or hits its true value, the less return we can expect to receive. This leads us to our next investment idea.
 
 
 ### Lock-In Your Gains and Re-balance Your Portfolio
 
 
-Remember in investing as a security gets closer to its true value, the risks increase. The reason for this is it is no longer undervalued. The gains you got early on when the asset was undervalued are now gone. This is the time to re-balance your portfolio. A fast-food junkie that switched to a vegetarian diet might start adding some seafood or meat into the diet a few meals a week. A low-carb Paleo person might start adding white rice and fermented dairy. In each case, you are diversifying your nutritional portfolio. But what if your new portfolio of food isn't working as well? That brings us to our next investing idea.
+Remember in investing as a security gets closer to its true value, the risks increase. The reason for this is it is no longer undervalued. The gains you got early on when the asset was undervalued are now gone. This is the time to re-balance your portfolio. A fast-food junkie that switched to a vegetarian diet might start adding some seafood or meat into the diet a few meals a week. A low-carb Paleo person might start adding white rice and fermented dairy. In each case, you are diversifying your nutritional portfolio.
+
+But what if your new portfolio of food isn't working as well? That brings us to our next investing idea.
 
 
 ### Stop Loss Nutrition
@@ -31,13 +47,19 @@ A _stop-loss order_ is an investment term. The definition from [Investopedia]
 
 > An order placed with a broker to sell a security when it reaches a certain price. A stop-loss order is designed to limit an investor's loss on a security position.
 
-I'll provide a simple explanation of how a _stop-loss order_ works. At the time of this post, Apple (AAPL) is $430 a share. Let us say you did your research and you believe the stock will go up by $100, so you buy a share. However, you accept the possibility you might be wrong and the stock could drop by $100 a share. But you don't want to lose $100, so you set a stop-loss order for $400. If the stock drops to $400, it automatically triggers a sale. You've limited your losses to $30. Why not apply the same principles to nutrition? Define the point at which you will abandon or alter your new strategy. I think this would prevent many people from following ever-stricter versions of diets that have stopped working for them.
+I'll provide a simple explanation of how a _stop-loss order_ works. At the time of this post, Apple (AAPL) is $430 a share. Let us say you did your research and you believe the stock will go up by $100, so you buy a share. However, you accept the possibility you might be wrong and the stock could drop by $100 a share. But you don't want to lose $100, so you set a stop-loss order for $400. If the stock drops to $400, it automatically triggers a sale. You've limited your losses to $30.
+
+Why not apply the same principles to nutrition? Define the point at which you will abandon or alter your new strategy. I think this would prevent many people from following ever-stricter versions of diets that have stopped working for them.
 
 
 ### Hedging and the Fructose vs. Glucose Debate
 
 
-Good investors will hedge their portfolios. They might have a primary thesis on what they think might happen in the market, but in the event they are wrong they also have a secondary thesis. They invest in both, so their losses are limited in the event their primary thesis is wrong. In nutrition, there is a huge debate about which form of carbohydrate is superior. Paul Jaminet believes [glucose is better](https://web.archive.org/web/20161012073744/http://www.humansarenotbroken.com:80/perfect-health-diet-q-a-with-paul-jaminet/). Andrew Kim [sides with fructose](https://web.archive.org/web/20131010013442/http://www.dannyroddy.com/main/2013/2/10/q-and-a-with-andrew-kim-sugar-vs-starch). Both are extremely smart and they disagree with each other. What is the average person to do? There are 4 possible ways to "invest" in this debate:
+Good investors will hedge their portfolios. They might have a primary thesis on what they think might happen in the market, but in the event they are wrong they also have a secondary thesis. They invest in both, so their losses are limited in the event their primary thesis is wrong.
+
+In nutrition, there is a huge debate about which form of carbohydrate is superior. Paul Jaminet believes [glucose is better](https://web.archive.org/web/20161012073744/http://www.humansarenotbroken.com:80/perfect-health-diet-q-a-with-paul-jaminet/). Andrew Kim [sides with fructose](https://web.archive.org/web/20131010013442/http://www.dannyroddy.com/main/2013/2/10/q-and-a-with-andrew-kim-sugar-vs-starch). Both are extremely smart and they disagree with each other. What is the average person to do?
+
+There are 4 possible ways to "invest" in this debate:
 
 1.  Side with Paul Jaminet. Consume primarily safe starches and limit fruit and sugar carbs.
 2.  Side with Andrew Kim. Favor fruits and limit starches.
@@ -50,7 +72,9 @@ As you probably guessed, I'm "invested" in #4. Now if I'm wrong, I'm likely not 
 ### Last Words
 
 
-I left the low-carb interpretation of Paleo a year before the safe starch debate even began. I had leaned out and I wanted to lock in my gains. If I could add back carbs and stay healthy and lean, then my portfolio would be more diversified, which I view as less risky. And that is exactly what happened. Going from Paleo to a more [WAPF diet](/2012/08/the-endgame-for-paleo-is-wapf/) was a no-brainer for me. The investor in me saw it as a very low-risk way to greatly expand my nutritional portfolio. The problem with most nutritional gurus is they believe nutrition is a settled science and that their interpretation is correct. But simple observation shows that can't be true. Not only is there too much disagreement, but even what they are disagreeing about is always changing. I don't expect that trend to end. Nor does it need to. In the absence of information, I can still make good decisions when I approach nutrition using an investor's mindset.
+I left the low-carb interpretation of Paleo a year before the safe starch debate even began. I had leaned out and I wanted to lock in my gains. If I could add back carbs and stay healthy and lean, then my portfolio would be more diversified, which I view as less risky. And that is exactly what happened. Going from Paleo to a more [WAPF diet](/2012/08/the-endgame-for-paleo-is-wapf/) was a no-brainer for me. The investor in me saw it as a very low-risk way to greatly expand my nutritional portfolio.
+
+The problem with most nutritional gurus is they believe nutrition is a settled science and that their interpretation is correct. But simple observation shows that can't be true. Not only is there too much disagreement, but even what they are disagreeing about is always changing. I don't expect that trend to end. Nor does it need to. In the absence of information, I can still make good decisions when I approach nutrition using an investor's mindset.
 
 ---
 

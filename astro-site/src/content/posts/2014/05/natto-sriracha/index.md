@@ -8,7 +8,15 @@ description: "Oh nooz carbs, legumes and fermentation! The Paleo and Peat godz a
 commentCount: 5
 ---
 
-Oh nooz carbs, legumes and fermentation! The Paleo and Peat godz are weeping. I can feel the diabeteez and super bug mycotoxins killing me. Lordy lordy this inflammation is eating me up! Ahh!!! Must do a Hole30 DETOX for my purity. ![natto](./img/natto.jpg) My lunch was great.
+Oh nooz carbs, legumes and fermentation!
+
+The Paleo and Peat godz are weeping. I can feel the diabeteez and super bug mycotoxins killing me. Lordy lordy this inflammation is eating me up!
+
+Ahh!!! Must do a Hole30 DETOX for my purity.
+
+![natto](./img/natto.jpg)
+
+My lunch was great.
 
 ---
 

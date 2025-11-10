@@ -9,7 +9,9 @@ description: "Recently I started teaching myself Korean cooking and I noticed th
 commentCount: 22
 ---
 
-Recently I started teaching myself Korean cooking and I noticed that one of the core ingredients - Gochujnag - has gluten in it. Gochujang is the Korean chili paste used in several dishes including Bibimbop. I went to many different Asian markets, including the Korean _H Mart_, and read the labels of every brand. **Every single gochujang I saw sold in Seattle has gluten in it.** You will likely be getting gluten exposure when ordering any dish at a Korean restaurant that uses chili paste. Sneaky gluten filler is exactly what I discovered when I researched [commercial gyro meat](/2012/09/commercial-gyro-meat-is-absolutely-not-gluten-free/). For this post, I want to thank _Gluten-Free Veg-heads UNITE_ for their post [Gluten-Free Victory!! Spicy Korean Bean Paste](http://gfvegheads.wordpress.com/2010/07/06/gluten-free-victory-spicy-korean-bean-paste/). They spotted in Wikipedia how commercial production of _gochujang_ took over in the 1970s and this was likely when gluten became a staple ingredient. Probably because it is cheap and acts as a preservative. Why it is there is of no concern to me. The important thing is that I can make my gluten-free version. Using the recipe from [Shizouka Gourmet](https://web.archive.org/web/20201001050543/https://shizuokagourmet.com/korean-cuisine-home-made-gochujang/) converted by _Veg-Heads_ and then adjusted by me, I made my own.
+Recently I started teaching myself Korean cooking and I noticed that one of the core ingredients - Gochujnag - has gluten in it. Gochujang is the Korean chili paste used in several dishes including Bibimbop. I went to many different Asian markets, including the Korean _H Mart_, and read the labels of every brand. **Every single gochujang I saw sold in Seattle has gluten in it.** You will likely be getting gluten exposure when ordering any dish at a Korean restaurant that uses chili paste. Sneaky gluten filler is exactly what I discovered when I researched [commercial gyro meat](/2012/09/commercial-gyro-meat-is-absolutely-not-gluten-free/).
+
+For this post, I want to thank _Gluten-Free Veg-heads UNITE_ for their post [Gluten-Free Victory!! Spicy Korean Bean Paste](http://gfvegheads.wordpress.com/2010/07/06/gluten-free-victory-spicy-korean-bean-paste/). They spotted in Wikipedia how commercial production of _gochujang_ took over in the 1970s and this was likely when gluten became a staple ingredient. Probably because it is cheap and acts as a preservative. Why it is there is of no concern to me. The important thing is that I can make my gluten-free version. Using the recipe from [Shizouka Gourmet](https://web.archive.org/web/20201001050543/https://shizuokagourmet.com/korean-cuisine-home-made-gochujang/) converted by _Veg-Heads_ and then adjusted by me, I made my own.
 
 
 ### Ingredients
@@ -35,7 +37,25 @@ The directions are posted with photos on [Korean Cuisine: Home-Made Gochujang](h
 5.  Let the paste cool and little and then stir in salt and rice vinegar.
 6.  Jar paste. _Shizuoka Gourmet_ says it should be good for a year.
 
-![miso-paste](./img/miso-paste.jpg) _I avoid soy unless it has gone through a fermentation such as miso or [natto](/2013/12/natto/)._ ![red-pepper-flakes](./img/red-pepper-flakes.jpg) _Korean red pepper flakes._ ![stir-gochujang](./img/stir-gochujang.jpg) _Making the Gochujang._ ![gochujang](./img/gochujang.jpg) _Finished Gochujang._ I've made 3 clay pot dishes using my gochujang. They tasted great and without gluten. My gochujang was a little more on the sweet side than spicy. When I make this again next time, I will increase the amount of chili powder. At some point, if I continue to be interested in Korean cooking, I may ferment my gochujang. Note that the Maangchi tutorial is not gluten-free, so the recipe would need to be adjusted. **UPDATE November 2013:** There now exists a commercially available [GF gochujang](/2013/11/commercial-gluten-free-gochujang-now-available/).
+![miso-paste](./img/miso-paste.jpg)
+
+_I avoid soy unless it has gone through a fermentation such as miso or [natto](/2013/12/natto/)._
+
+![red-pepper-flakes](./img/red-pepper-flakes.jpg)
+
+_Korean red pepper flakes._
+
+![stir-gochujang](./img/stir-gochujang.jpg)
+
+_Making the Gochujang._
+
+![gochujang](./img/gochujang.jpg)
+
+_Finished Gochujang._
+
+I've made 3 clay pot dishes using my gochujang. They tasted great and without gluten. My gochujang was a little more on the sweet side than spicy. When I make this again next time, I will increase the amount of chili powder. At some point, if I continue to be interested in Korean cooking, I may ferment my gochujang. Note that the Maangchi tutorial is not gluten-free, so the recipe would need to be adjusted.
+
+**UPDATE November 2013:** There now exists a commercially available [GF gochujang](/2013/11/commercial-gluten-free-gochujang-now-available/).
 
 ---
 

@@ -14,13 +14,21 @@ Shortly after I posted [5 Foods That Were Key to My Fat Loss](/2017/08/5-foods-k
 #### Fat-Free Plain Greek Yogurt
 
 
-The people in my non-defunct Weston A. Price Group would be in shock if they knew I changed my position on a food I once reviled. ![](./img/The_Scream.jpg) _[The Scream](https://en.wikipedia.org/wiki/The_Scream) via Wikipedia_
+The people in my non-defunct Weston A. Price Group would be in shock if they knew I changed my position on a food I once reviled.
+
+![](./img/The_Scream.jpg)
+
+_[The Scream](https://en.wikipedia.org/wiki/The_Scream) via Wikipedia_
 
 
 ### When Health Goals Collide
 
 
-Right now two of my current health goals are to lose weight and to eat traditional whole food. Fat-free yogurt is hardly traditional. It is a product of industrialization that I am able to eat Greek Yogurt stripped of fat. Even though the fat in Greek yogurt is perfectly healthy, the fat-free version has much more protein. And increasing protein is an effective tool to reducing appetite to lose weight. See the chart on [Whole milk yogurt vs. fat free yogurt](https://nutritionovereasy.com/2016/02/whole-milk-yogurt-vs-fat-free-greek/)
+Right now two of my current health goals are to lose weight and to eat traditional whole food. Fat-free yogurt is hardly traditional. It is a product of industrialization that I am able to eat Greek Yogurt stripped of fat.
+
+Even though the fat in Greek yogurt is perfectly healthy, the fat-free version has much more protein. And increasing protein is an effective tool to reducing appetite to lose weight.
+
+See the chart on [Whole milk yogurt vs. fat free yogurt](https://nutritionovereasy.com/2016/02/whole-milk-yogurt-vs-fat-free-greek/)
 
 > Greek yogurt kills it on protein, with 2.5 times as much per serving.
 
@@ -30,7 +38,11 @@ In this scenario, I decided to side with my primary goal of losing weight over m
 ### How I Eat Fat-Free Greek Yogurt
 
 
-When I'm away from the house is the time I am most likely to be tempted to go to a restaurant. Since my goal is to both save money and calories, I needed something that would crush my appetite and do it cheaply. Two little containers of Fat-Free Plain Greek Yogurt works out to 30 grams of protein and I never spend more than $2. This buys me a few hours. Enough time to get back to my kitchen. Running into grocery stores and eating 2 little containers of fat-free yogurt has saved me thousands of calories. All you need is a spoon and I grab a plastic one in the deli area. I wish the whole fat yogurts had more protein, but they don't. I don't dislike the taste of fat-free yogurt because it really doesn't have any taste. That is likely working in my favor as well. Fat-Free Greek Yogurt is an effective tool for keeping calories low, especially when you are away from home.
+When I'm away from the house is the time I am most likely to be tempted to go to a restaurant. Since my goal is to both save money and calories, I needed something that would crush my appetite and do it cheaply. Two little containers of Fat-Free Plain Greek Yogurt works out to 30 grams of protein and I never spend more than $2. This buys me a few hours. Enough time to get back to my kitchen.
+
+Running into grocery stores and eating 2 little containers of fat-free yogurt has saved me thousands of calories. All you need is a spoon and I grab a plastic one in the deli area.
+
+I wish the whole fat yogurts had more protein, but they don't. I don't dislike the taste of fat-free yogurt because it really doesn't have any taste. That is likely working in my favor as well. Fat-Free Greek Yogurt is an effective tool for keeping calories low, especially when you are away from home.
 
 ---
 

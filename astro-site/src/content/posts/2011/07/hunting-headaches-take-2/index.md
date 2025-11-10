@@ -9,13 +9,17 @@ description: "In the post Hunting Headaches, I shared my headache journal and my
 commentCount: 7
 ---
 
-In the post [Hunting Headaches](/2011/07/hunting-headaches/), I shared my headache journal and my inability so far to solve my headache problem or even isolate what type of headaches I'm getting. In the comments, I got a lot of good ideas for things to try next. I created a brand new tab on my headache journal spreadsheet. [http://tinyurl.com/my-headaches](http://tinyurl.com/my-headaches)
+In the post [Hunting Headaches](/2011/07/hunting-headaches/), I shared my headache journal and my inability so far to solve my headache problem or even isolate what type of headaches I'm getting. In the comments, I got a lot of good ideas for things to try next. I created a brand new tab on my headache journal spreadsheet.
+
+[http://tinyurl.com/my-headaches](http://tinyurl.com/my-headaches)
 
 
 ## 4 Things To Track
 
 
-The new tab does not track weather, pollen, chocolate, Neti pot use, supplements, or the time of the day when I drank my last coffee. None of those variables seemed to matter. From the comments on the last post, I pulled 4 ideas of things to try and track. Now with diet, I normally try and test one variable at a time. That is because the ideas I'm trying have usually been tried successfully by many other people and I'm already at an ideal weight. With headaches, I'm clearly not in an ideal state. There is something wrong, so trying 4 independent strategies at the same time might help me solve my headache problem. If this works, I can then remove each of the methods until headaches are retriggered to find the guilty party or parties. And if _Headache Hunting Take 2_ doesn't work, then I can more quickly eliminate 4 more ideas from the guilty suspect list.
+The new tab does not track weather, pollen, chocolate, Neti pot use, supplements, or the time of the day when I drank my last coffee. None of those variables seemed to matter. From the comments on the last post, I pulled 4 ideas of things to try and track. Now with diet, I normally try and test one variable at a time. That is because the ideas I'm trying have usually been tried successfully by many other people and I'm already at an ideal weight.
+
+With headaches, I'm clearly not in an ideal state. There is something wrong, so trying 4 independent strategies at the same time might help me solve my headache problem. If this works, I can then remove each of the methods until headaches are retriggered to find the guilty party or parties. And if _Headache Hunting Take 2_ doesn't work, then I can more quickly eliminate 4 more ideas from the guilty suspect list.
 
 
 ### 1- Reduce Caffeine
@@ -27,7 +31,19 @@ My plan all along was to cut back my coffee intake in the summer. Then Seattle g
 ### 2- Eliminate Aged Cheese
 
 
-Giving up dairy completely is not an option for me. I believe I'd lose muscle without dairy. A man can only eat so much beef and bacon. And I would rather be in pain than be a [Stick Boy](/2008/09/the-stick-boy-explained/). The good news is I may not need to give up dairy. After Marian's comment, I went back and took a deeper look at dairy. It seems aged cheese has something called tyramine, which is a trigger for migraines. Now, I am still not certain that my headaches are migraine in nature, but I'm willing to give this a try. In addition to aged cheese, I found out it also appears in some other foods that I eat. Tyramine is found in sauerkraut, kimchi, miso, and Marmite. Oh no! After some deep Googling, I discovered that fermented veggies do not have near the levels of tyramine that aged cheeses do. The ebook _Meal Ideas and Menus: Avoiding High-tyramine Foods Made Easy by Kathrynne Holden_, MS, RD actually has real numbers on tyramine levels. Here are some. \[table id=13 /\] Who eats just an ounce of cheese? Also, look at the Sauerkraut numbers. Kind of wide range and it is measuring 4 oz. Kimchi is "believed to be high", but the fermentation for kimchi (using Nappa cabbage) is much shorter, so it is most certainly lower. Miso soup is also "believed to be high". I was consuming [Miso daily](/2011/03/nutrition-radiation/) in small doses after the Japan accident, but have since cut back to twice a week. I'm also a fan of Marmite, but could easily take a break from that. Another data point I see quoted is that "aged" chicken livers are very high in tyramine. Who ages chicken livers? _UPDATE: I did some digging into the "avoid liver" recommendation in the post [Is Liver High in Tyramine?](/2011/07/is-liver-high-in-tyramine/)_ By eliminating aged cheese and Marmite, I should be cutting out over 90% of the tyramine in my diet. If that doesn't result in a reduction of headaches, then I can conclude tyramine is not a cause. I'm not cutting out sauerkraut or kimchi. I've seen too many positive health benefits from those foods, plus I had these style headaches long before I discovered [fermentation](https://criticalmas.org/best-of/fermentation/).
+Giving up dairy completely is not an option for me. I believe I'd lose muscle without dairy. A man can only eat so much beef and bacon. And I would rather be in pain than be a [Stick Boy](/2008/09/the-stick-boy-explained/). The good news is I may not need to give up dairy. After Marian's comment, I went back and took a deeper look at dairy. It seems aged cheese has something called tyramine, which is a trigger for migraines. Now, I am still not certain that my headaches are migraine in nature, but I'm willing to give this a try.
+
+In addition to aged cheese, I found out it also appears in some other foods that I eat. Tyramine is found in sauerkraut, kimchi, miso, and Marmite. Oh no! After some deep Googling, I discovered that fermented veggies do not have near the levels of tyramine that aged cheeses do.
+
+The ebook _Meal Ideas and Menus: Avoiding High-tyramine Foods Made Easy by Kathrynne Holden_, MS, RD actually has real numbers on tyramine levels. Here are some.
+
+\[table id=13 /\]
+
+Who eats just an ounce of cheese? Also, look at the Sauerkraut numbers. Kind of wide range and it is measuring 4 oz. Kimchi is "believed to be high", but the fermentation for kimchi (using Nappa cabbage) is much shorter, so it is most certainly lower. Miso soup is also "believed to be high". I was consuming [Miso daily](/2011/03/nutrition-radiation/) in small doses after the Japan accident, but have since cut back to twice a week. I'm also a fan of Marmite, but could easily take a break from that. Another data point I see quoted is that "aged" chicken livers are very high in tyramine. Who ages chicken livers?
+
+_UPDATE: I did some digging into the "avoid liver" recommendation in the post [Is Liver High in Tyramine?](/2011/07/is-liver-high-in-tyramine/)_
+
+By eliminating aged cheese and Marmite, I should be cutting out over 90% of the tyramine in my diet. If that doesn't result in a reduction of headaches, then I can conclude tyramine is not a cause. I'm not cutting out sauerkraut or kimchi. I've seen too many positive health benefits from those foods, plus I had these style headaches long before I discovered [fermentation](https://criticalmas.org/best-of/fermentation/).
 
 
 ### 3-Mobility: Neck, Shoulders, More

@@ -9,7 +9,15 @@ description: "Last year I made pickles for the first time. The problem was it wa
 commentCount: 4
 ---
 
-Last year I made pickles for the first time. The problem was it wasn't a true Lacto-fermentation. All I did was dump pickling cucumbers into old pickle juice. Bathing cucumbers in pickling juice is not the same as making pickles. What I took pride in doing last year now seems embarrassing. Well, two weeks ago I did it correctly. Dill, garlic, sea salt, and patience. The result was much better tasting. Some of the best pickles I have ever had. ![pickle](./img/pickle.jpg) If you are interested in learning more about making fermented foods, I recommend the book _Wild Fermentation_. This book also has the foundation I started with when I began making kimchi. ![Wild Fermentation: The Flavor, Nutrition, and Craft of Live-Culture Foods](https://images-na.ssl-images-amazon.com/images/I/51ppkc94B6L.jpg) _Wild Fermentation: The Flavor, Nutrition, and Craft of Live-Culture Foods by Sandor Ellix Katz_
+Last year I made pickles for the first time. The problem was it wasn't a true Lacto-fermentation. All I did was dump pickling cucumbers into old pickle juice. Bathing cucumbers in pickling juice is not the same as making pickles. What I took pride in doing last year now seems embarrassing.
+
+Well, two weeks ago I did it correctly. Dill, garlic, sea salt, and patience. The result was much better tasting. Some of the best pickles I have ever had.
+
+![pickle](./img/pickle.jpg)
+
+If you are interested in learning more about making fermented foods, I recommend the book _Wild Fermentation_. This book also has the foundation I started with when I began making kimchi.
+
+![Wild Fermentation: The Flavor, Nutrition, and Craft of Live-Culture Foods](https://images-na.ssl-images-amazon.com/images/I/51ppkc94B6L.jpg) _Wild Fermentation: The Flavor, Nutrition, and Craft of Live-Culture Foods by Sandor Ellix Katz_
 
 ---
 

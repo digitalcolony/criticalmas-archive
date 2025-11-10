@@ -9,7 +9,15 @@ description: "I admit that when it comes to cold weather, I am a nut. I went las
 commentCount: 3
 ---
 
-I admit that when it comes to cold weather, [I am a nut](/2009/04/still-no-jacket-required/). I went last winter without wearing a coat for all but the 2 week snowstorm. Everyday I take a 2-3 minute [ice cold rinse](/2009/06/another-reason-i-no-longer-get-sick/) at the end of my shower. When it comes to cold weather, I'm _special_. ;) With that disclaimer out the way, I have to tell you about a trend I've noticed during my urban hikes. People are too quick to reach for a jacket when the weather isn't even the slightest bit cold. On August 18th it was 84 degrees in downtown Seattle. People were wearing layers and coats. I almost couldn't believe my eyes, so I took a few photos. The photo below was the best. I smudged his face to protect his privacy. ![84-degrees](./img/84-degrees.jpg "84-degrees") This guy is wearing a coat, which is covering a sweater, which is covering a collared shirt, which is likely covering an under shirt. Again, it was 84 degrees in downtown Seattle. There was no breeze. He wasn't alone. Every block I walked there was someone else wearing coats and layers. Some were tourists, some were clearly office workers. Why are people so cold these days?
+I admit that when it comes to cold weather, [I am a nut](/2009/04/still-no-jacket-required/). I went last winter without wearing a coat for all but the 2 week snowstorm. Everyday I take a 2-3 minute [ice cold rinse](/2009/06/another-reason-i-no-longer-get-sick/) at the end of my shower. When it comes to cold weather, I'm _special_. ;)
+
+With that disclaimer out the way, I have to tell you about a trend I've noticed during my urban hikes. People are too quick to reach for a jacket when the weather isn't even the slightest bit cold. On August 18th it was 84 degrees in downtown Seattle. People were wearing layers and coats. I almost couldn't believe my eyes, so I took a few photos.
+
+The photo below was the best. I smudged his face to protect his privacy.
+
+![84-degrees](./img/84-degrees.jpg "84-degrees")
+
+This guy is wearing a coat, which is covering a sweater, which is covering a collared shirt, which is likely covering an under shirt. Again, it was 84 degrees in downtown Seattle. There was no breeze. He wasn't alone. Every block I walked there was someone else wearing coats and layers. Some were tourists, some were clearly office workers. Why are people so cold these days?
 
 ---
 

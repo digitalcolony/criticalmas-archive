@@ -15,13 +15,35 @@ I really dislike the Top Coffee Shop lists. They are cheap content usually writt
 ### Metrics and Biases
 
 
-I created a spreadsheet and entered every single espresso I consumed in the Seattle area. All 192 espressos. I captured the date, place, my rating, and drink notes when important. I also tracked post-tax price to see if price can be a predictor of quality (it can't). The rating for the drink was between 1 to 5. It was based solely off the quality of the espresso. I couldn't care less about the hours, WIFI signal or seating. A rating of 1 would be undrinkable swill worthy of a spit take. A rating of 5 would be perfect and worthy of a memory. I go into more detail on this rating system in [Espresso as a Lottery Ticket](https://ineedcoffee.com/espresso-as-a-lottery-ticket/). In addition to only caring about espresso, I am biased against dark over-roasted coffee. When Brazilian coffee is roasted too dark, it develops a nauseating ashy quality. It may be fine in a 20 ounce mocha, but it is vile swill as a straight espresso. I also don't always like the very light roasted single origin coffees, as they can tend to be too bright or sour. I live in Ballard and tend to avoid the East side since they started tolling the 520. This means my data set doesn't represent every coffee roaster. It does represent every local roaster that I deem to make a quality espresso, be it blend or single origin. Now you know my biases. ![](http://farm8.staticflickr.com/7125/7600594192_f769f4812a_z.jpg "velton espresso") _Caffe Delia espresso _on July 18, 2012_. Roasted by Velton's Coffee._
+I created a spreadsheet and entered every single espresso I consumed in the Seattle area. All 192 espressos. I captured the date, place, my rating, and drink notes when important. I also tracked post-tax price to see if price can be a predictor of quality (it can't).
+
+The rating for the drink was between 1 to 5. It was based solely off the quality of the espresso. I couldn't care less about the hours, WIFI signal or seating. A rating of 1 would be undrinkable swill worthy of a spit take. A rating of 5 would be perfect and worthy of a memory. I go into more detail on this rating system in [Espresso as a Lottery Ticket](https://ineedcoffee.com/espresso-as-a-lottery-ticket/).
+
+In addition to only caring about espresso, I am biased against dark over-roasted coffee. When Brazilian coffee is roasted too dark, it develops a nauseating ashy quality. It may be fine in a 20 ounce mocha, but it is vile swill as a straight espresso. I also don't always like the very light roasted single origin coffees, as they can tend to be too bright or sour.
+
+I live in Ballard and tend to avoid the East side since they started tolling the 520.
+
+This means my data set doesn't represent every coffee roaster. It does represent every local roaster that I deem to make a quality espresso, be it blend or single origin. Now you know my biases.
+
+![](http://farm8.staticflickr.com/7125/7600594192_f769f4812a_z.jpg "velton espresso")
+
+_Caffe Delia espresso _on July 18, 2012_. Roasted by Velton's Coffee._
 
 
 ### The Best Espresso in Seattle 2012
 
 
-For places I visited 5 or more times, here are the best espresso places in Seattle. Note that places with more than one location have been averaged together. \[table id=20 /\] Here are the best coffee places I visited between 1 and 4 times. \[table id=21 /\] This chart lists the 8 best espressos for 2012. They are in date order. If I had to pick the single best espresso for 2012, it would go to Neptune Coffee on March 19th. \[table id=22 /\]
+For places I visited 5 or more times, here are the best espresso places in Seattle. Note that places with more than one location have been averaged together.
+
+\[table id=20 /\]
+
+Here are the best coffee places I visited between 1 and 4 times.
+
+\[table id=21 /\]
+
+This chart lists the 8 best espressos for 2012. They are in date order. If I had to pick the single best espresso for 2012, it would go to Neptune Coffee on March 19th.
+
+\[table id=22 /\]
 
 
 ### The 3 Best Coffee Roasters in Seattle
@@ -33,13 +55,17 @@ For places I visited 5 or more times, here are the best espresso places in Seatt
 ### The 8 Worst Espressos in Seattle 2012
 
 
-Here were the worst espressos of the year. East Madison, Enlighten and Whistle Stop are now out of business. Guess others disliked them as well? \[table id=23 /\]
+Here were the worst espressos of the year. East Madison, Enlighten and Whistle Stop are now out of business. Guess others disliked them as well?
+
+\[table id=23 /\]
 
 
 ### Last Words
 
 
-Collecting and analyzing this data was a lot of work. I don't plan to do it in 2013. For those of you in Seattle, who were your favorites this year? **More Data Analysis:** [192 Espressos – More Data From Seattle Coffee 2012](/2013/01/192-espressos-more-data-from-seattle-coffee-2012/)
+Collecting and analyzing this data was a lot of work. I don't plan to do it in 2013. For those of you in Seattle, who were your favorites this year?
+
+**More Data Analysis:** [192 Espressos – More Data From Seattle Coffee 2012](/2013/01/192-espressos-more-data-from-seattle-coffee-2012/)
 
 ---
 

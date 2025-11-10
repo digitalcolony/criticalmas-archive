@@ -15,11 +15,15 @@ Back in 2013, I put together a 3-part series on PUFA. I referenced several healt
 -   [The Problem With PUFA](/2013/11/problem-pufa/)
 -   [Quantifying PUFA, Expert Opinion, and My Conclusion](/2013/12/quantifying-pufa-expert-opinion/)
 
-I was persuaded to reduce my PUFA intake drastically. But unlike the low-carb Paleo crowd, I decided it mathematically made sense to reduce fat and increase carbs, because many of the fat sources favored by Paleo actually had a fair amount of PUFA. Also, I estimated it could take a few years to reduce stored PUFA levels, so going below a healthy baseline level for a while seemed correct. A year later, instead of focusing on all PUFA, I narrowed my dietary limitation to seed oils and added back whole food sources of PUFA, such as nuts.
+I was persuaded to reduce my PUFA intake drastically. But unlike the low-carb Paleo crowd, I decided it mathematically made sense to reduce fat and increase carbs, because many of the fat sources favored by Paleo actually had a fair amount of PUFA. Also, I estimated it could take a few years to reduce stored PUFA levels, so going below a healthy baseline level for a while seemed correct.
+
+A year later, instead of focusing on all PUFA, I narrowed my dietary limitation to seed oils and added back whole food sources of PUFA, such as nuts.
 
 -   [Nuts, PUFA, and Vitamin E](/2014/08/nuts-pufa-vitamin-e/)
 
-Here we are in 2022. I avoid seed oils, I'm lean, and my body temperature is higher than when I started reducing PUFA/seed oils. More on that later. So was I correct? Well, it seems this debate isn't settled. This year I noticed several smart people defending seed oils. And the people attacking seed oils the loudest these days have reduced credibility in my eyes. With that background out of the way, I want to reopen the seed oil debate, now that I'm older and hopefully wiser on the topic.
+Here we are in 2022. I avoid seed oils, I'm lean, and my body temperature is higher than when I started reducing PUFA/seed oils. More on that later. So was I correct? Well, it seems this debate isn't settled.
+
+This year I noticed several smart people defending seed oils. And the people attacking seed oils the loudest these days have reduced credibility in my eyes. With that background out of the way, I want to reopen the seed oil debate, now that I'm older and hopefully wiser on the topic.
 
 
 ### Why Are Seed Oils Bad?
@@ -42,7 +46,13 @@ Seed oils may not be as inflammatory as previously believed. The 2018 study [Ome
 
 > ...it is commonly believed that increasing dietary intake of the omega-6 fatty acids ARA or its precursor linoleic acid (LA) will increase inflammation. However, studies in healthy human adults have found that increased intake of ARA or LA does not increase the concentrations of many inflammatory markers. Epidemiological studies have even suggested that ARA and LA may be linked to reduced inflammation. Contrastingly, there is also evidence that a high omega-6 fatty acid diet inhibits the anti-inflammatory and inflammation-resolving effect of the omega-3 fatty acids.
 
-I didn't see that coming. What about oxidized seed oils specifically? Kevin Bass found a study\* showing that even after heating sunflower seed oil to 200 F for 24 hours, did not cause an increase in inflammatory markers when fed to pigs. _UPDATE 2024: Kevin appears to have deleted the tweet. 🤦🏽‍♂️_ The "oxidized seed oil leads to inflammation" theory has some holes. It may still be true and we may need to dive deeper into the different oils to learn more, but it doesn't appear to be as settled as I believed.
+I didn't see that coming. What about oxidized seed oils specifically?
+
+Kevin Bass found a study\* showing that even after heating sunflower seed oil to 200 F for 24 hours, did not cause an increase in inflammatory markers when fed to pigs.
+
+_UPDATE 2024: Kevin appears to have deleted the tweet. 🤦🏽‍♂️_
+
+The "oxidized seed oil leads to inflammation" theory has some holes. It may still be true and we may need to dive deeper into the different oils to learn more, but it doesn't appear to be as settled as I believed.
 
 
 #### #2 Saturated Fat is heart healthy?
@@ -52,13 +62,19 @@ About 3 years ago, I posted that I no longer had faith in the Paleo argument, wh
 
 -   [Saturated Fat Revisited](/2019/12/saturated-fat-revisited/)
 
-I decided that people who [lied to me about carbs](/2015/02/tell-me-low-carb-lies/) might be wrong with their contrarian views about saturated fat. So I tested this for myself. When I reduced my saturated fat, [my blood work improved](/2020/07/lipid-levels-on-2-mostly-pesco-vegan-meals-a-day/). Then my blood work got worse when I increased my saturated fat during an elimination diet. And when I reduced saturated fat again my bloodwork improved again. Saturated fat defenders will often dismiss the most popular blood markers used to measure health. I'm not qualified to have that debate, but I have seen a strong trend away from the view that seed oils are worse for cardiac health than saturated fat. This saturated fat vs PUFA argument is the least interesting to me because my diet is lower in all types of fat. Protein and complex carbs are serving me well.
+I decided that people who [lied to me about carbs](/2015/02/tell-me-low-carb-lies/) might be wrong with their contrarian views about saturated fat. So I tested this for myself. When I reduced my saturated fat, [my blood work improved](/2020/07/lipid-levels-on-2-mostly-pesco-vegan-meals-a-day/). Then my blood work got worse when I increased my saturated fat during an elimination diet. And when I reduced saturated fat again my bloodwork improved again.
+
+Saturated fat defenders will often dismiss the most popular blood markers used to measure health. I'm not qualified to have that debate, but I have seen a strong trend away from the view that seed oils are worse for cardiac health than saturated fat.
+
+This saturated fat vs PUFA argument is the least interesting to me because my diet is lower in all types of fat. Protein and complex carbs are serving me well.
 
 
 #### #3 Metabolism
 
 
-Does a diet high in PUFA reduce metabolism? This was brought up years ago by Danny Roddy, Ray Peat, and Matt Stone. Recently, the site FireInABottle has not only published technical articles on the topic but has uncovered historical examples of populations before and after seed oil was added to their diet. My n=1 story is that drastically reducing seed oils for years increased my body temperature from 97.0 to 98.4, which I maintain today. I'm maintaining a lower body fat percentage with far less effort than when I had a lower body temperature.
+Does a diet high in PUFA reduce metabolism? This was brought up years ago by Danny Roddy, Ray Peat, and Matt Stone. Recently, the site FireInABottle has not only published technical articles on the topic but has uncovered historical examples of populations before and after seed oil was added to their diet.
+
+My n=1 story is that drastically reducing seed oils for years increased my body temperature from 97.0 to 98.4, which I maintain today. I'm maintaining a lower body fat percentage with far less effort than when I had a lower body temperature.
 
 -   [Body Temperature and Vegetable Oil](/2021/01/body-temperature-and-vegetable-oil/)
 
@@ -82,7 +98,17 @@ This material is too deep for me to know if it is correct, but it is persuasive.
 ### Conclusion (for now)
 
 
-What I see online today is many accounts with low credibility are making exaggerated claims about the dangers of seed oil. Then some very smart serious people shred the weakest arguments as a way of dismissing the dangers entirely. Maybe seed oils aren't inflammatory. Maybe when combined with a reduction of saturated fat, cardiac blood markers improve. Both are possible. However, I don't see anyone debunking the metabolic claims or the biochemistry Hyperipid discusses relating to linoleic acid and satiety. I'll continue to avoid seed oils. I am able to prepare my own meals at home. For most meals, I don't need any oil. If I do, I reach for Extra Virgin Olive Oil. Avoiding seed oils appears to be working well for me. I'm warm and my appetite is in check. In a world that is getting fatter every year, I'm the leanest I've ever been and the process feels effortless. ![tape measure](./img/siora-photography-cixohzDpNIo-unsplash.jpg) _Photo by [Siora Photography](https://unsplash.com/@siora18?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+What I see online today is many accounts with low credibility are making exaggerated claims about the dangers of seed oil. Then some very smart serious people shred the weakest arguments as a way of dismissing the dangers entirely.
+
+Maybe seed oils aren't inflammatory. Maybe when combined with a reduction of saturated fat, cardiac blood markers improve. Both are possible. However, I don't see anyone debunking the metabolic claims or the biochemistry Hyperipid discusses relating to linoleic acid and satiety.
+
+I'll continue to avoid seed oils. I am able to prepare my own meals at home. For most meals, I don't need any oil. If I do, I reach for Extra Virgin Olive Oil.
+
+Avoiding seed oils appears to be working well for me. I'm warm and my appetite is in check. In a world that is getting fatter every year, I'm the leanest I've ever been and the process feels effortless.
+
+![tape measure](./img/siora-photography-cixohzDpNIo-unsplash.jpg)
+
+_Photo by [Siora Photography](https://unsplash.com/@siora18?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 ---
 

@@ -9,7 +9,11 @@ description: "Probably my favorite exercise is the chin-up. When I first starte
 commentCount: 7
 ---
 
-Probably my favorite exercise is the chin-up. When I first started lifting, I couldn't do a single one. In recent years, I've done 20 on two separate occasions. These days, I rarely try to max because I'm focused more on the principles of [High-Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/). That means my chin-ups today tend to be slower, weighted, and with static holds. In this post, I will outline what worked and didn't work for me when doing more chin-ups. ![chin-up-sign](./img/chin-up-sign.jpg) _[Photo](https://flic.kr/p/3ykWw7) by Rob Brewer_
+Probably my favorite exercise is the chin-up. When I first started lifting, I couldn't do a single one. In recent years, I've done 20 on two separate occasions. These days, I rarely try to max because I'm focused more on the principles of [High-Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/). That means my chin-ups today tend to be slower, weighted, and with static holds. In this post, I will outline what worked and didn't work for me when doing more chin-ups.
+
+![chin-up-sign](./img/chin-up-sign.jpg)
+
+_[Photo](https://flic.kr/p/3ykWw7) by Rob Brewer_
 
 
 ### Chin-Ups or Pull-Ups
@@ -25,7 +29,9 @@ Please read the entire post. It contains excellent information. Drew has trained
 ### Assisted Pull Up Machines
 
 
-Many people use the assisted pull-up machine to build up to their first bodyweight chin-up. Maybe there is a good machine out there, but I haven't found one. When you get under one of these machines, if you start with a decent pull, the lifter _slides_ upward almost effortlessly. In other words, the tension is reduced when more muscle should be engaged. The lifter games the equipment with a fast start. They also ride down the negative, so their muscles are fresh to bounce up again. I'm not a biomechanics guy, but I've used several of those machines and they never helped me get better at chin-ups. The movement doesn't seem natural.
+Many people use the assisted pull-up machine to build up to their first bodyweight chin-up. Maybe there is a good machine out there, but I haven't found one. When you get under one of these machines, if you start with a decent pull, the lifter _slides_ upward almost effortlessly. In other words, the tension is reduced when more muscle should be engaged. The lifter games the equipment with a fast start. They also ride down the negative, so their muscles are fresh to bounce up again.
+
+I'm not a biomechanics guy, but I've used several of those machines and they never helped me get better at chin-ups. The movement doesn't seem natural.
 
 
 ### Fast Chin-Ups
@@ -69,7 +75,9 @@ My favorite chin-up exercise is the **Full Range with Static Holds**. Perform a 
 ### Last Words
 
 
-When I was training for reps 2-3 times a week, I never progressed past 5 reps. My numbers went up only when I allowed my body more time to recover and explored other chin-up variations. Another thing that helped my chin-ups was losing weight. Going from 210 to 190 made this exercise much easier. Dropping 20 pounds made it seem like I was floating upwards. I made the most progress when I stopped caring about reps and focused on just getting stronger. I probably only try to go for max twice a year now.
+When I was training for reps 2-3 times a week, I never progressed past 5 reps. My numbers went up only when I allowed my body more time to recover and explored other chin-up variations. Another thing that helped my chin-ups was losing weight. Going from 210 to 190 made this exercise much easier. Dropping 20 pounds made it seem like I was floating upwards.
+
+I made the most progress when I stopped caring about reps and focused on just getting stronger. I probably only try to go for max twice a year now.
 
 ---
 

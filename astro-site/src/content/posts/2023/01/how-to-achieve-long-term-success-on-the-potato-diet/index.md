@@ -8,7 +8,11 @@ description: "I posted Mostly Weight Stable Regardless of Diet Part 2 this weeke
 commentCount: 7
 ---
 
-I posted [Mostly Weight Stable Regardless of Diet Part 2](/2023/01/mostly-weight-stable-regardless-of-diet-part-2/) this weekend. I wanted to show others that I was able to drop 40 pounds and keep it off for 4 years using both the [Potato Hack](https://potatohack.com/) and my own [Potatoes and Protein Diet](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/). Long-term success on the potato diet is absolutely possible. A few days ago, Slime Mold Time Mold posted [SMTM Potato Diet Community Trial: 6 Month Followup](https://slimemoldtimemold.com/2023/01/26/smtm-potato-diet-community-trial-6-month-followup/). Although I applaud SMTM for spreading the word about the Potato Diet, I had trouble reconciling their analysis with my own experience and understanding of the diet. In their post, they share the results of their study participants. Most did not maintain their fat loss after they resumed their "normal" diet. They conclude:
+I posted [Mostly Weight Stable Regardless of Diet Part 2](/2023/01/mostly-weight-stable-regardless-of-diet-part-2/) this weekend. I wanted to show others that I was able to drop 40 pounds and keep it off for 4 years using both the [Potato Hack](https://potatohack.com/) and my own [Potatoes and Protein Diet](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/). Long-term success on the potato diet is absolutely possible.
+
+A few days ago, Slime Mold Time Mold posted [SMTM Potato Diet Community Trial: 6 Month Followup](https://slimemoldtimemold.com/2023/01/26/smtm-potato-diet-community-trial-6-month-followup/). Although I applaud SMTM for spreading the word about the Potato Diet, I had trouble reconciling their analysis with my own experience and understanding of the diet.
+
+In their post, they share the results of their study participants. Most did not maintain their fat loss after they resumed their "normal" diet. They conclude:
 
 > The first thing we see is that most people gain back the weight they lost over time, and on average, it looks like they are back close to their original weight about six months later.
 
@@ -16,25 +20,41 @@ More from their conclusion:
 
 > Still, the potato diet is a relatively successful weight loss intervention, since one month of dieting gives consistent results that tend to stick around for about six months. And given the significant individual differences we see, it seems that for some people the effects are more lasting. While we don’t know why this happens for some people and not for others, there’s a small chance that you’ll end up being one of these outliers, and you’ll keep losing weight after the potato diet is over.
 
-I know why it happens. Those that regained weight increased their calories. As much as I revere the potato on this site, it is not magical. It just happens to be the food with the highest satiety score. If you trade high-satiety foods with low-satiety foods, you will increase your calories. Maybe not immediately, but eventually. The final sentence was too much for me and is the reason for this post.
+I know why it happens. Those that regained weight increased their calories. As much as I revere the potato on this site, it is not magical. It just happens to be the food with the highest satiety score. If you trade high-satiety foods with low-satiety foods, you will increase your calories. Maybe not immediately, but eventually.
+
+The final sentence was too much for me and is the reason for this post.
 
 > But in general, it seems like the conclusion is that 4 weeks of potato diet will make you lose weight, and six months later most people will be back around baseline.
 
-That doesn't need to be true. I'm going to tell you how to have long-term success on the potato diet. ![](./img/potato-ip.jpg) _These days I use an Instant Pot with a liner to prepare my potatoes._
+That doesn't need to be true. I'm going to tell you how to have long-term success on the potato diet.
+
+![](./img/potato-ip.jpg)
+
+_These days I use an Instant Pot with a liner to prepare my potatoes._
 
 
 ### Understand Satiety
 
 
-**A potato is just a tool for achieving satiety with fewer calories.** There are other foods that also work well, but the boiled-and-cooled potato just happens to be the best. I've shared this image numerous times. Understanding this graphic is the key to understanding satiety and how to reach satiety with fewer calories. The people in that study that failed traded the stomach on the right which was full of potatoes for one of the two on the left. This resulted in more hunger, which resulted in them consuming more calories to achieve satiety. ![](./img/bulkydiet.jpg)
+**A potato is just a tool for achieving satiety with fewer calories.** There are other foods that also work well, but the boiled-and-cooled potato just happens to be the best.
+
+I've shared this image numerous times. Understanding this graphic is the key to understanding satiety and how to reach satiety with fewer calories. The people in that study that failed traded the stomach on the right which was full of potatoes for one of the two on the left. This resulted in more hunger, which resulted in them consuming more calories to achieve satiety.
+
+![](./img/bulkydiet.jpg)
 
 
 ### Understand Flavor
 
 
-People eat more calories from foods with higher flavor. If you would like a detailed scientific explanation, please read [The Hungry Brain](https://www.stephanguyenet.com/thehungrybrain/) by Stephan J. Guyenet, Ph.D. That book goes deep into systems in the brain that regulate our appetite. There is even an explanation given in the book on why the Potato Diet is effective for fat loss. Boiled and cooled potatoes have a neutral flavor. When you are eating plain boiled potatoes, you stop eating once you are full. You don't keep reaching for more potatoes. This is not true for other foods in modern society. When you get full eating pizza, there always seems to be room to eat one more slice or some ice cream. From [How To Successfully Use a Low-Fat Diet](/2022/02/how-to-successfully-use-a-low-fat-diet/):
+People eat more calories from foods with higher flavor. If you would like a detailed scientific explanation, please read [The Hungry Brain](https://www.stephanguyenet.com/thehungrybrain/) by Stephan J. Guyenet, Ph.D. That book goes deep into systems in the brain that regulate our appetite. There is even an explanation given in the book on why the Potato Diet is effective for fat loss.
 
-> The classic mistake people make when doing any diet is they eat fewer calories of the same flavorful foods that made them heavy. They chase flavor to make the process more enjoyable. You don’t want to chase flavor, you want to chase satiety. Fill up on foods that taste fine, but not as amazing as before. You are retraining the brain’s association with flavor and satiety. When every meal tastes amazing, we overconsume calories. This is in evidence everywhere you look today.
+Boiled and cooled potatoes have a neutral flavor. When you are eating plain boiled potatoes, you stop eating once you are full. You don't keep reaching for more potatoes. This is not true for other foods in modern society. When you get full eating pizza, there always seems to be room to eat one more slice or some ice cream.
+
+From [How To Successfully Use a Low-Fat Diet](/2022/02/how-to-successfully-use-a-low-fat-diet/):
+
+> The classic mistake people make when doing any diet is they eat fewer calories of the same flavorful foods that made them heavy. They chase flavor to make the process more enjoyable. You don’t want to chase flavor, you want to chase satiety.
+> 
+> Fill up on foods that taste fine, but not as amazing as before. You are retraining the brain’s association with flavor and satiety. When every meal tastes amazing, we overconsume calories. This is in evidence everywhere you look today.
 
 Potato hacking is a way of reducing flavor to reach satiety with fewer calories. You are retraining your brain. You are breaking the association between highly flavorful meals and satiety. When you do this successfully, your appetite will decrease. When your appetite decreases, you will consume fewer calories, and this leads to fat loss.
 

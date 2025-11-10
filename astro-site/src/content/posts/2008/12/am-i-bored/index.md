@@ -9,7 +9,15 @@ description: "Recently, a friend of mine told me that I must be bored. He couldn
 commentCount: 1
 ---
 
-Recently, a friend of mine told me that I must be bored. He couldn't wrap his head around the idea of not going into the office everyday. In the absence of a boss dictating requirements does boredom eventually set in? Not for me. ![vancouver-aquarium](./img/vancouver-aquarium.jpg) _This summer I drove up to Vancouver, visited friends and went to an aquarium. Didn't need to request time off to the boss. I just went._ I have lots of interests and many projects that I'm either working on or planning to work on in the near future. Surrendering my life to a commute and an office building is not something I'm interested in doing at this time. I simply have too many things I want to do. Will I ever rejoin the cubicle posse? Anything is possible, but it won't be anytime soon. A new job would would have to meet my [4 requirements of a great job](/2007/02/the-meaning-of-work/) or I wouldn't consider it. As for now, I have savings, no debt and [my investment thesis](/2008/10/picking-a-new-sp-500-target/) is unfolding. I don't need a W-4.
+Recently, a friend of mine told me that I must be bored. He couldn't wrap his head around the idea of not going into the office everyday. In the absence of a boss dictating requirements does boredom eventually set in? Not for me.
+
+![vancouver-aquarium](./img/vancouver-aquarium.jpg)
+
+_This summer I drove up to Vancouver, visited friends and went to an aquarium. Didn't need to request time off to the boss. I just went._
+
+I have lots of interests and many projects that I'm either working on or planning to work on in the near future. Surrendering my life to a commute and an office building is not something I'm interested in doing at this time. I simply have too many things I want to do.
+
+Will I ever rejoin the cubicle posse? Anything is possible, but it won't be anytime soon. A new job would would have to meet my [4 requirements of a great job](/2007/02/the-meaning-of-work/) or I wouldn't consider it. As for now, I have savings, no debt and [my investment thesis](/2008/10/picking-a-new-sp-500-target/) is unfolding. I don't need a W-4.
 
 ---
 

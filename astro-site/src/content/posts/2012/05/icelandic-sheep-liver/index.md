@@ -9,7 +9,17 @@ description: "Did you know that Seattle is just a 7-hour direct flight from Icel
 commentCount: 11
 ---
 
-Did you know that Seattle is just a 7-hour direct flight from Iceland? That means I was able to score some Icelandic sheep liver at my local Farmers Market. Thank you, little buddy! I've had pastured beef liver many times and goat liver a few times. It tastes closer to goat liver, but I found the flavor superior. I cooked it just like I did my [Beef Liver + Asparagus + Garlic](/2012/02/beef-liver-asparagus-garlic/) recipe, only without the asparagus. My side dishes were steamed sweet potatoes and Brussels sprouts with some butter. As great as beef liver is, I figured that some of the vitamins were getting destroyed during the cooking process so I started a habit that may gross out some people. **Prior to cooking the liver, I cut off an inch or two and eat it raw**. Whereas beef liver has a harshness when eaten raw, the Icelandic sheep liver had none. Had I not already chopped up the garlic, I may have eaten the entire liver raw. I also believe this to be safe since the liver was frozen for more than 2 weeks. Anyone else eating raw organ meat? ![sheep-liver](./img/sheep-liver.jpg) _Brussels sprouts, sweet potatoes, Icelandic sheep liver_
+Did you know that Seattle is just a 7-hour direct flight from Iceland? That means I was able to score some Icelandic sheep liver at my local Farmers Market. Thank you, little buddy!
+
+I've had pastured beef liver many times and goat liver a few times. It tastes closer to goat liver, but I found the flavor superior. I cooked it just like I did my [Beef Liver + Asparagus + Garlic](/2012/02/beef-liver-asparagus-garlic/) recipe, only without the asparagus. My side dishes were steamed sweet potatoes and Brussels sprouts with some butter.
+
+As great as beef liver is, I figured that some of the vitamins were getting destroyed during the cooking process so I started a habit that may gross out some people. **Prior to cooking the liver, I cut off an inch or two and eat it raw**. Whereas beef liver has a harshness when eaten raw, the Icelandic sheep liver had none. Had I not already chopped up the garlic, I may have eaten the entire liver raw.
+
+I also believe this to be safe since the liver was frozen for more than 2 weeks. Anyone else eating raw organ meat?
+
+![sheep-liver](./img/sheep-liver.jpg)
+
+_Brussels sprouts, sweet potatoes, Icelandic sheep liver_
 
 ---
 

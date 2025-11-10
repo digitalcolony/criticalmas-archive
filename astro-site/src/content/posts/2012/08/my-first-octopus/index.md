@@ -9,11 +9,25 @@ description: "Each time I visit an Asian grocery store I make it a point to buy 
 commentCount: 6
 ---
 
-Each time I visit an Asian grocery store I make it a point to buy something foreign to me. I want the challenge of taking home a food item that puzzles or scares me. On a recent adventure, I bought a box of baby octopus. I had no clue how I was going to prepare them. Fortunately for me, a Korean cooking blog that I subscribe to provided an idea. _Eating and living_ posted the recipe [Jjukkumi Gui (Spicy Grilled Baby Octopus)](https://web.archive.org/web/20180717130042/http://eatingandliving.blogspot.com:80/2012/08/jjukkumi-gui-spicy-grilled-baby-octopus.html). I love Korean food, so I took on this new cooking test. ![wild-octopus-2](./img/wild-octopus-2.jpg) ![wild-octopus-3](./img/wild-octopus-3.jpg) ![wild-octopus-4](./img/wild-octopus-4.jpg) ![wild-octopus](./img/wild-octopus.jpg) The recipe says:
+Each time I visit an Asian grocery store I make it a point to buy something foreign to me. I want the challenge of taking home a food item that puzzles or scares me. On a recent adventure, I bought a box of baby octopus. I had no clue how I was going to prepare them. Fortunately for me, a Korean cooking blog that I subscribe to provided an idea.
+
+_Eating and living_ posted the recipe [Jjukkumi Gui (Spicy Grilled Baby Octopus)](https://web.archive.org/web/20180717130042/http://eatingandliving.blogspot.com:80/2012/08/jjukkumi-gui-spicy-grilled-baby-octopus.html). I love Korean food, so I took on this new cooking test.
+
+![wild-octopus-2](./img/wild-octopus-2.jpg)
+
+![wild-octopus-3](./img/wild-octopus-3.jpg)
+
+![wild-octopus-4](./img/wild-octopus-4.jpg)
+
+![wild-octopus](./img/wild-octopus.jpg)
+
+The recipe says:
 
 > Heat a lightly oiled grill or a grill pan to medium high and sear for about 3 minutes, turning a couple of times. Do not overcook.
 
-I followed this advice for the first few octopus and 3 minutes was too much. Way too chewy. The remaining ones took about half that time. The chewiness was far less, but still not absent. Even though my marinade was 6 hours, it seemed the flavors never soaked in to the octopus. The Korean spices tasted like more like a topping. The four octopuses I ate didn't taste bad, but they didn't taste good either. Very neutral. Better than [pig uterus](/2012/01/pig-uterus-recipe-an-offal-idea/), but not nearly as delicious as [sheep testicles](/2012/05/sheep-testicles-taste-wonderful/). I saved half the box of octopus so I can try a second recipe.
+I followed this advice for the first few octopus and 3 minutes was too much. Way too chewy. The remaining ones took about half that time. The chewiness was far less, but still not absent. Even though my marinade was 6 hours, it seemed the flavors never soaked in to the octopus. The Korean spices tasted like more like a topping.
+
+The four octopuses I ate didn't taste bad, but they didn't taste good either. Very neutral. Better than [pig uterus](/2012/01/pig-uterus-recipe-an-offal-idea/), but not nearly as delicious as [sheep testicles](/2012/05/sheep-testicles-taste-wonderful/). I saved half the box of octopus so I can try a second recipe.
 
 ---
 

@@ -8,7 +8,21 @@ description: "This is a note I am leaving for myself in the future. I know I wil
 commentCount: 4
 ---
 
-This is a note I am leaving for myself in the future. I know I will need to read it one day. Here goes. **You need to cut back on the coffee.** It is going to suck for a few days, but then the clouds in your head will disappear. Then a few days after that you'll notice your energy levels will back to baseline. And a few days after that, your energy levels will be higher than you've experienced in months. I know you'll be tempted to look for other answers. You'll try different foods, change up your workouts, look for the latest fancy supplement, and of course mix up the timing of the coffee you drink. Maybe adjusting those factors will have some benefit, but the big lever is coffee. **Drop your levels in half now.** Ride it out for a week and then decide if you need to go lower or if you have found a good level. This year I spent a few hundred dollars in medical tests. Although I did learn that I Iikely have a gluten/celiac issue ([see this post](/2019/09/gluten-wheat-just-when-i-thought-i-was-out/)), most of that money could have been saved had I just dropped my coffee levels in half. I'd love to say that I've learned my lesson this time and maybe I have, but history tells a different story. A quick search on this blog will pull up years of content on this topic. After years of consuming an average of 4 coffees a day (6 am, 8 am, 11 am, 2 pm), I have been consuming 1.5-2 a day (1/2 cup at 8 am, 1/2 cup around 11 am (optional), and 2 pm) for more than a month. This level is perfect for me right now. I do know my tendency will be to slowly start adding 1/2 a cup each day. Which is why I left this post for my future self. ![Habit Coffee](./img/habit-coffee600.jpg)
+This is a note I am leaving for myself in the future. I know I will need to read it one day. Here goes.
+
+**You need to cut back on the coffee.** It is going to suck for a few days, but then the clouds in your head will disappear. Then a few days after that you'll notice your energy levels will back to baseline. And a few days after that, your energy levels will be higher than you've experienced in months.
+
+I know you'll be tempted to look for other answers. You'll try different foods, change up your workouts, look for the latest fancy supplement, and of course mix up the timing of the coffee you drink.
+
+Maybe adjusting those factors will have some benefit, but the big lever is coffee. **Drop your levels in half now.** Ride it out for a week and then decide if you need to go lower or if you have found a good level.
+
+This year I spent a few hundred dollars in medical tests. Although I did learn that I Iikely have a gluten/celiac issue ([see this post](/2019/09/gluten-wheat-just-when-i-thought-i-was-out/)), most of that money could have been saved had I just dropped my coffee levels in half.
+
+I'd love to say that I've learned my lesson this time and maybe I have, but history tells a different story. A quick search on this blog will pull up years of content on this topic.
+
+After years of consuming an average of 4 coffees a day (6 am, 8 am, 11 am, 2 pm), I have been consuming 1.5-2 a day (1/2 cup at 8 am, 1/2 cup around 11 am (optional), and 2 pm) for more than a month. This level is perfect for me right now. I do know my tendency will be to slowly start adding 1/2 a cup each day. Which is why I left this post for my future self.
+
+![Habit Coffee](./img/habit-coffee600.jpg)
 
 ---
 

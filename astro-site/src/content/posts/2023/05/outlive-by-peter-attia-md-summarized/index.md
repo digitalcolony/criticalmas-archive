@@ -9,14 +9,36 @@ description: "I read Outlive, you may not need to. Here is my brief summary. If 
 commentCount: 27
 ---
 
-I read Outlive, you may not need to. Here is my brief summary. If you listened to Peter Attia on the [Tim Ferriss Show (#661)](https://tim.blog/2023/03/17/peter-attia-outlive-transcript/), you have most of what you need to know. If you need to dig into the biological details, then get the book. If you need to do a deeper dive into a specific concern to you, such as cancer or heart health, then read the book. However, if you are like me, mostly healthy, and just want to get some actionable items, then this summary may be enough. Attia's core thesis is that exercise is the biggest lever for longevity. I was planning on putting together an outline of his exercise guidance, but the great YouTube channel Productivity Game beat me to it. **Book Summary: Outlive by Productivity Game  ([YouTube](https://www.youtube.com/watch?v=Qd75zEnkVp0&feature=youtu.be))** You can access the [supporting exercise videos from the book](https://peterattiamd.com/outlive/videos/) on his site - no password is required. For heart health, Attia likes the Apolipoprotein B (ApoB) marker more than LDL. I see on Ulta Lab Tests, this test only costs $35. I'll order one later this year. Whenever the cholesterol topic comes up, comments can get heated. I don't know what the truth is. I'm just passing this info along. Attia used to love low-carb ketosis and fasting. Now he promotes high protein and is less enamored with fasting. I questioned this point in an [earlier post](/2023/04/more-protein-and-the-fasting-backlash/). Don't eat a few hours before bed and keep your blood glucose in a safe range. Maybe use a continuous blood glucose monitor for a few weeks to learn what foods can spike your glucose and then avoid those. Probably the only thing in the book that surprised me was learning about Attia's issues with anger. His emotional health journey is covered in the final chapter. One thing I noticed that was missing from this book was a discussion on the [longevity benefits of dietary fiber](https://duckduckgo.com/?t=ffab&q=fiber+longevity&atb=v340-1&ia=web). For me, I'll take these actions:
+I read Outlive, you may not need to. Here is my brief summary.
+
+If you listened to Peter Attia on the [Tim Ferriss Show (#661)](https://tim.blog/2023/03/17/peter-attia-outlive-transcript/), you have most of what you need to know. If you need to dig into the biological details, then get the book. If you need to do a deeper dive into a specific concern to you, such as cancer or heart health, then read the book. However, if you are like me, mostly healthy, and just want to get some actionable items, then this summary may be enough.
+
+Attia's core thesis is that exercise is the biggest lever for longevity. I was planning on putting together an outline of his exercise guidance, but the great YouTube channel Productivity Game beat me to it.
+
+**Book Summary: Outlive by Productivity Game  ([YouTube](https://www.youtube.com/watch?v=Qd75zEnkVp0&feature=youtu.be))**
+
+You can access the [supporting exercise videos from the book](https://peterattiamd.com/outlive/videos/) on his site - no password is required.
+
+For heart health, Attia likes the Apolipoprotein B (ApoB) marker more than LDL. I see on Ulta Lab Tests, this test only costs $35. I'll order one later this year. Whenever the cholesterol topic comes up, comments can get heated. I don't know what the truth is. I'm just passing this info along.
+
+Attia used to love low-carb ketosis and fasting. Now he promotes high protein and is less enamored with fasting. I questioned this point in an [earlier post](/2023/04/more-protein-and-the-fasting-backlash/). Don't eat a few hours before bed and keep your blood glucose in a safe range. Maybe use a continuous blood glucose monitor for a few weeks to learn what foods can spike your glucose and then avoid those.
+
+Probably the only thing in the book that surprised me was learning about Attia's issues with anger. His emotional health journey is covered in the final chapter.
+
+One thing I noticed that was missing from this book was a discussion on the [longevity benefits of dietary fiber](https://duckduckgo.com/?t=ffab&q=fiber+longevity&atb=v340-1&ia=web).
+
+For me, I'll take these actions:
 
 1.  Add the ApoB test to my next blood panel. I suspect it will be fine.
 2.  Increase my Zone 2 cardio and then work on my VO2 Max. This should be easier to do outdoors now that the weather is improving in Seattle.
 3.  Continue [testing if higher protein](/2023/04/more-protein-and-the-fasting-backlash-part-2/) will improve my DEXA score and recoverability. I should know by winter if this makes any difference.
 4.  Incorporate some of the movement exercises he shared on his video page.
 
-Part of me thinks his core thesis that exercise is the biggest lever in longevity is really selection bias. People with high VO2 Max and strength are likely those folks that already lean, have good sleep, have dietary discipline, and are energetic. I explain my position on selection bias in [The Problem With Boot Camp Training](/2012/01/the-problem-with-boot-camp-training/). Despite my skepticism, I see the end goals of strength and cardio fitness as worthy goals, even if it doesn't add additional longevity. This is not a book I'll be keeping for reference. I'll be passing my copy along, either to a friend or to the library. ![](./img/0593236599.01._SCLZZZZZZZ_SX500_.jpg)
+Part of me thinks his core thesis that exercise is the biggest lever in longevity is really selection bias. People with high VO2 Max and strength are likely those folks that already lean, have good sleep, have dietary discipline, and are energetic. I explain my position on selection bias in [The Problem With Boot Camp Training](/2012/01/the-problem-with-boot-camp-training/). Despite my skepticism, I see the end goals of strength and cardio fitness as worthy goals, even if it doesn't add additional longevity.
+
+This is not a book I'll be keeping for reference. I'll be passing my copy along, either to a friend or to the library.
+
+![](./img/0593236599.01._SCLZZZZZZZ_SX500_.jpg)
 
 ---
 

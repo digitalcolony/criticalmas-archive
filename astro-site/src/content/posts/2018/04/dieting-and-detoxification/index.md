@@ -21,13 +21,19 @@ Since several posts on this blog deal with fat loss, I wanted to revisit the top
 ### Finding the Correct Caloric Deficit
 
 
-In the podcast, Dr. Walsh stated that his 10-day detox program uses a **35% reduction in calories**. Let us put a pin in this number. He likely has data for many clients, so we can use this number as a good starting point. If you drop calories too low, then it will be more difficult to use digestion as a transport of toxins. You know, less input = less output. If you don't drop calories enough, fewer toxins will be liberated. Finding that balance will also depend upon on the length of the diet.
+In the podcast, Dr. Walsh stated that his 10-day detox program uses a **35% reduction in calories**. Let us put a pin in this number. He likely has data for many clients, so we can use this number as a good starting point.
+
+If you drop calories too low, then it will be more difficult to use digestion as a transport of toxins. You know, less input = less output. If you don't drop calories enough, fewer toxins will be liberated. Finding that balance will also depend upon on the length of the diet.
 
 
 ### The Potato Diet and Hack (+ Detoxification)
 
 
-The Potato Diet is almost perfect. When I hack, my calories drop by about 50% for 3-5 days. If I eat 2000 grams of potatoes (a little more than 4 pounds) that works out to 36-44 grams of fiber, depending upon if the potato is peeled. Add in a medium sized head of cooked green cabbage for just 378 calories with an impressive 16 grams of fiber. All that cabbage may also reduce your potato intake. And similar to the potato, green cabbage is filling and has a very low flavor signal. I'm pretty sure one could gorge themselves on boiled potatoes and cooked green cabbage and be in a significant caloric deficit.
+The Potato Diet is almost perfect. When I hack, my calories drop by about 50% for 3-5 days. If I eat 2000 grams of potatoes (a little more than 4 pounds) that works out to 36-44 grams of fiber, depending upon if the potato is peeled.
+
+Add in a medium sized head of cooked green cabbage for just 378 calories with an impressive 16 grams of fiber. All that cabbage may also reduce your potato intake. And similar to the potato, green cabbage is filling and has a very low flavor signal.
+
+I'm pretty sure one could gorge themselves on boiled potatoes and cooked green cabbage and be in a significant caloric deficit.
 
 
 ### The Peasant Diet
@@ -39,19 +45,29 @@ My [peasant diet](/2016/11/designing-modern-peasant-diet/) of potatoes, lean pro
 ### Fasting Mimicking Diet (+ Detoxification)
 
 
-As I write this post, I am on Day 4 of my 3rd Fasting Mimicking Diet. Due to the severe protein restriction requirements, my calories are coming in around 750 a day. My diet is just avocados, green cabbage, and leeks. Yes, I am hungry, but the primary goal of an FMD is not toxin removal, but autophagy + apoptosis, and a spike in stem cell production.  You can read more about the FMS here:
+As I write this post, I am on Day 4 of my 3rd Fasting Mimicking Diet. Due to the severe protein restriction requirements, my calories are coming in around 750 a day. My diet is just avocados, green cabbage, and leeks.
+
+Yes, I am hungry, but the primary goal of an FMD is not toxin removal, but autophagy + apoptosis, and a spike in stem cell production.  You can read more about the FMS here:
 
 
 #### [Fasting Mimicking Diet Overview](/2017/12/fasting-mimicking-diet-overview/)
 
 
-This diet is not optimal for toxin removal, but it is somewhat supportive. ![fasting diet](./img/fasting-diet.jpg) _My diet for 5 days._
+This diet is not optimal for toxin removal, but it is somewhat supportive.
+
+![fasting diet](./img/fasting-diet.jpg)
+
+_My diet for 5 days._
 
 
 ### Scheduling Sweat
 
 
-In previous fasts, I have felt very cold. I also didn't feel like moving much. In light of the new information on detoxification, sitting around was not the ideal course of action. My current gym does not have a sauna and I don't live in a hot area, so I got creative. I did some searching for gyms with saunas and I found one that was offering a 5-day free pass. The same duration as my current FMD. Score! If you don't have access to a sauna, you have a problem. You need to sweat and you do it while operating on less food. The more you exercise, the more hungry you will be. On the surface, it looks like one should save their more aggressive fasts for the heat of the summer and the shallow ones during the winter.
+In previous fasts, I have felt very cold. I also didn't feel like moving much. In light of the new information on detoxification, sitting around was not the ideal course of action. My current gym does not have a sauna and I don't live in a hot area, so I got creative.
+
+I did some searching for gyms with saunas and I found one that was offering a 5-day free pass. The same duration as my current FMD. Score!
+
+If you don't have access to a sauna, you have a problem. You need to sweat and you do it while operating on less food. The more you exercise, the more hungry you will be. On the surface, it looks like one should save their more aggressive fasts for the heat of the summer and the shallow ones during the winter.
 
 
 ### Tips and Questions
@@ -62,7 +78,11 @@ In the previous post, there were 2 good comments.
 1.  [Time your blood donation](/2018/04/detoxification-notes-science-not-woo-woo/#comment-26111) after a detox to eliminate more toxins.
 2.  [Detailed herbal support advice](https://web.archive.org/web/20161003085143/http://garblingthedandelion.blogspot.ca/).
 
-Dr. Walsh recommends using a lot of fiber during a diet detox, but he didn't specify which type. Perhaps it is detailed in his pay program? I bought a basic fiber at the supplement store that didn't have protein, but I was overwhelmed by the number of choices. Is there a best choice, be it supplement or specific food? My plan right now is to continue doing an FMD every month or so. I'll probably do fewer in the winter and I'll try and figure out a way to time sauna access. In between the FMD, I will do variations of potato and peasant. Are there any others tips that we can add to this post?
+Dr. Walsh recommends using a lot of fiber during a diet detox, but he didn't specify which type. Perhaps it is detailed in his pay program? I bought a basic fiber at the supplement store that didn't have protein, but I was overwhelmed by the number of choices. Is there a best choice, be it supplement or specific food?
+
+My plan right now is to continue doing an FMD every month or so. I'll probably do fewer in the winter and I'll try and figure out a way to time sauna access. In between the FMD, I will do variations of potato and peasant.
+
+Are there any others tips that we can add to this post?
 
 ---
 

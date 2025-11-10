@@ -35,7 +35,15 @@ Anyway the article just discloses my top 3. Since I have a blog, I thought I'd s
 10.  Four Barrel - Mission
 11.  Peter James Coffee - San Leandro
 
-Chromatic was #1 on my list and #1 for the entire list. Glad to see them get the credit they deserve. If they were located in the Mission District, everyone in specialty coffee would know about them. I was the only one that gave points to Devout Coffee in the East Bay. It is hard to get there, but it is worth it. I invite my other judges to visit them. You will be hearing more from Devout. Looks like my points for Counter Culture were not added. Maybe because they are based out of North Carolina? Darn. I would have added Linea to the list had I known Counter Culture was not eligible. I also see Temple got some votes. I would have added them as well, but didn't consider Sacramento to be part of the Bay Area. All my picks were based on espresso, except for Peter James. It was one of the best darker roasted coffees I've ever had. I'm still not a fan of dark roasts, but it really impressed me.
+Chromatic was #1 on my list and #1 for the entire list. Glad to see them get the credit they deserve. If they were located in the Mission District, everyone in specialty coffee would know about them.
+
+I was the only one that gave points to Devout Coffee in the East Bay. It is hard to get there, but it is worth it. I invite my other judges to visit them. You will be hearing more from Devout.
+
+Looks like my points for Counter Culture were not added. Maybe because they are based out of North Carolina? Darn. I would have added Linea to the list had I known Counter Culture was not eligible.
+
+I also see Temple got some votes. I would have added them as well, but didn't consider Sacramento to be part of the Bay Area.
+
+All my picks were based on espresso, except for Peter James. It was one of the best darker roasted coffees I've ever had. I'm still not a fan of dark roasts, but it really impressed me.
 
 
 ### 3 That Disappointed
@@ -47,7 +55,9 @@ I did not care for Sightglass Coffee, which I refer to as Sourglass. Every espre
 ### New To Me
 
 
-If I ever return to SF, I now have a few more places to try. Turning Point, Boot, Scarlet City, Sextant and Oudimentary. And I thought I covered it all in one year. :) ![san francisco](./img/sf-sun.jpg)
+If I ever return to SF, I now have a few more places to try. Turning Point, Boot, Scarlet City, Sextant and Oudimentary. And I thought I covered it all in one year. :)
+
+![san francisco](./img/sf-sun.jpg)
 
 ---
 

@@ -9,7 +9,15 @@ description: "Be sure to check out my Potato Hack Diet Best of Page. I had no pl
 commentCount: 27
 ---
 
-Be sure to check out my [Potato Hack Diet](https://criticalmas.org/best-of/potato-hack-diet/) Best of Page. I had no plans to post my Week 1 results, but I wanted to share how things are going on the Potato Diet. For a background to this post see [The Potato Diet - My Plan to Lose 15-20 Pounds](/2015/11/the-potato-diet-my-plan-to-lose-15-20-pounds/). Last week I ate nothing but cold boiled potatoes on Monday, Tuesday, and Wednesday. Unlike my [initial experiment](/2015/11/no-hunger-games-a-day-of-just-boiled-potatoes/), I decided not to weigh my intake. A big appeal to the Potato Diet is that you shouldn't need to measure anything. It works by filling your belly with heavy low-calorie potatoes. It should be very hard to eat to a caloric surplus. It should even be hard to eat an even maintenance level of calories. **WEEK 1: -3 pounds and -0.5 inch (widest point) :)** My measurements were taken from Sunday to Sunday. Weighing myself immediately after three days of potatoes heading into Thanksgiving wouldn't have been a useful number if I used the regular food days to overeat. I am pleased with those numbers, but I hesitate to get excited because almost all diets start off strong. The real test will be seeing how it progresses in the next two months.
+Be sure to check out my [Potato Hack Diet](https://criticalmas.org/best-of/potato-hack-diet/) Best of Page.
+
+I had no plans to post my Week 1 results, but I wanted to share how things are going on the Potato Diet. For a background to this post see [The Potato Diet - My Plan to Lose 15-20 Pounds](/2015/11/the-potato-diet-my-plan-to-lose-15-20-pounds/).
+
+Last week I ate nothing but cold boiled potatoes on Monday, Tuesday, and Wednesday. Unlike my [initial experiment](/2015/11/no-hunger-games-a-day-of-just-boiled-potatoes/), I decided not to weigh my intake. A big appeal to the Potato Diet is that you shouldn't need to measure anything. It works by filling your belly with heavy low-calorie potatoes. It should be very hard to eat to a caloric surplus. It should even be hard to eat an even maintenance level of calories.
+
+**WEEK 1: -3 pounds and -0.5 inch (widest point) :)**
+
+My measurements were taken from Sunday to Sunday. Weighing myself immediately after three days of potatoes heading into Thanksgiving wouldn't have been a useful number if I used the regular food days to overeat. I am pleased with those numbers, but I hesitate to get excited because almost all diets start off strong. The real test will be seeing how it progresses in the next two months.
 
 
 ### Productive
@@ -21,13 +29,23 @@ The three days I ate potatoes were highly productive. I got a lot of work done. 
 ### So Cheap It is Silly
 
 
-I discovered that Grocery Store Outlet sells a 3-pound bag of small potatoes for 99 cents. The idea of being able to feed yourself with real food for $1 a day in America is amazing. That is cheaper than when I ate street food in Thailand and Cambodia. Most days I eat out for lunch. Add a cheap breakfast and a home-cooked dinner and I'm looking at maybe spending $15 a day on food. Often less. If I buy 15 pounds of potatoes (that is the high estimate) a week for $5, then I'm actually pocketing $40 each, and every week I am on a 3-day Potato Diet. Many diets require an increase in spending. Special foods and supplements can be costly. The Potato Diet is so economical, I decided that even if it turns out to be unsuccessful, I might do it periodically just to pocket some extra money. ![potatoes](./img/potatoes.jpg) _[Photo](https://flic.kr/p/fq91Fo) by Renoir Gaither_
+I discovered that Grocery Store Outlet sells a 3-pound bag of small potatoes for 99 cents. The idea of being able to feed yourself with real food for $1 a day in America is amazing. That is cheaper than when I ate street food in Thailand and Cambodia.
+
+Most days I eat out for lunch. Add a cheap breakfast and a home-cooked dinner and I'm looking at maybe spending $15 a day on food. Often less. If I buy 15 pounds of potatoes (that is the high estimate) a week for $5, then I'm actually pocketing $40 each, and every week I am on a 3-day Potato Diet.
+
+Many diets require an increase in spending. Special foods and supplements can be costly. The Potato Diet is so economical, I decided that even if it turns out to be unsuccessful, I might do it periodically just to pocket some extra money.
+
+![potatoes](./img/potatoes.jpg)
+
+_[Photo](https://flic.kr/p/fq91Fo) by Renoir Gaither_
 
 
 ### Faster Satiety
 
 
-One of the most interesting aspects of the Potato Diet is satiety is reached much quicker than when you eat normal food. When I eat a normal meal it takes so many minutes before I am full. It is a ritual that I have done thousands of times. Eating just potatoes disrupts that ritual. Because potatoes are so filling, I started eating slower. I've always known eating slower was a good idea, but on the Potato Diet is more than a good idea. If you eat quickly or even normal fast, you might get a stomach ache. There were two times this happened to me. Now I am eating slower.
+One of the most interesting aspects of the Potato Diet is satiety is reached much quicker than when you eat normal food. When I eat a normal meal it takes so many minutes before I am full. It is a ritual that I have done thousands of times. Eating just potatoes disrupts that ritual.
+
+Because potatoes are so filling, I started eating slower. I've always known eating slower was a good idea, but on the Potato Diet is more than a good idea. If you eat quickly or even normal fast, you might get a stomach ache. There were two times this happened to me. Now I am eating slower.
 
 
 ### Exercise and Movement
@@ -39,19 +57,39 @@ My exercise did not change. I still did two weight training sessions at the gym.
 ### Eating Regular Food After 3 Days
 
 
-I imagined myself eating a lot of food after 3 days of potatoes, but I didn't. It was Thanksgiving Day and I never ate less food on that holiday. I also didn't desire sweet foods. There is a big bowl of Halloween candy in our kitchen that I didn't touch once. In the week after Halloween, I was visiting the bowl a few times a day. Another thing I noticed was that I craved protein. More than normal. After 3 days of eating potatoes with just 5% protein, I wanted eggs, tuna, and meat. This could be another pathway to why the diet works for many. It is well known that appetite is lower and calories drop when protein is increased. So my week was a cycle between two fat loss strategies. First consuming heavy low-calorie potatoes to reach satiety easier and then following that up with higher protein to also increase satiety. And if you add in how the lack of taste lowered my desire to consume calorie-dense foods, you have the 3 of the main dietary paths to successful fat loss as outlined in Ari Whitten's excellent book _Forever Fat Loss_. ![Forever Fat Loss: Escape the Low Calorie and Low Carb Diet Traps and Achieve Effortless and Permanent Fat Loss by Working with Your Biology Instead of Against It](https://images-na.ssl-images-amazon.com/images/I/511xJ94RDBL.jpg) _Forever Fat Loss: Escape the Low Calorie and Low Carb Diet Traps and Achieve Effortless and Permanent Fat Loss by Working with Your Biology Instead of Against It by Ari Whitten_
+I imagined myself eating a lot of food after 3 days of potatoes, but I didn't. It was Thanksgiving Day and I never ate less food on that holiday. I also didn't desire sweet foods. There is a big bowl of Halloween candy in our kitchen that I didn't touch once. In the week after Halloween, I was visiting the bowl a few times a day.
+
+Another thing I noticed was that I craved protein. More than normal. After 3 days of eating potatoes with just 5% protein, I wanted eggs, tuna, and meat. This could be another pathway to why the diet works for many. It is well known that appetite is lower and calories drop when protein is increased. So my week was a cycle between two fat loss strategies. First consuming heavy low-calorie potatoes to reach satiety easier and then following that up with higher protein to also increase satiety. And if you add in how the lack of taste lowered my desire to consume calorie-dense foods, you have the 3 of the main dietary paths to successful fat loss as outlined in Ari Whitten's excellent book _Forever Fat Loss_.
+
+![Forever Fat Loss: Escape the Low Calorie and Low Carb Diet Traps and Achieve Effortless and Permanent Fat Loss by Working with Your Biology Instead of Against It](https://images-na.ssl-images-amazon.com/images/I/511xJ94RDBL.jpg) _Forever Fat Loss: Escape the Low Calorie and Low Carb Diet Traps and Achieve Effortless and Permanent Fat Loss by Working with Your Biology Instead of Against It by Ari Whitten_
 
 
 ### Questions
 
 
-I am not an expert on the Potato Diet, but I will do my best to address some of the questions I've received in comments and elsewhere. Q: Why are spices not allowed? A: If one can't eat potatoes to caloric excess it shouldn't matter if salt or other spices are added. Adding salt is not suddenly going to make me eat an extra pound of potatoes. I suspect the benefit of not adding spices is not about restricting the number of potatoes you consume, but your relationship with regular food. When I deprived my tongue of flavor for three days, I wanted foods with simple flavors. Eggs, fruit, baked chicken, and other basic foods all tasted wonderful. Better than they did prior to depriving myself of spices for three days. Basic foods have an edge over modern foods in that we tend not to eat them to excess. If you absolutely must have spices or you aren't going to attempt the diet, then I say add the spices, but you won't be getting all the benefits, and \*\*my guess\*\* is you might be more likely to eat foods with richer flavors that are more calorie-dense on the non-potato days. Q: Why is this diet not recommended for those who eat every several hours? On [Vegetable Pharm](https://vegetablepharm.blogspot.com/p/the-potato-diet_14.html), there is a detailed explanation. Search for the phrase "Not recommended for people who eat every 2-3 hours". This is a warning for people who have known blood sugar issues or eating disorders to do their own research and get a doctor's clearance before doing the diet. For healthy people who eat every 2-3 hours (Zone Dieters), I think the Potato Diet might be a good tool to relearn what satiety feels like. Eating 5-6 small meals a day without getting full makes me more and more hungry. The potato is a good teacher. I snack less because I'm full from the prior meal and I know I'm not getting a distracting novel flavor. Q: Is there a difference between starchy and waxy potatoes? A: I could not find an answer to this one. I suspect not. The calorie density per gram does not appear to vary much. If there is a difference, I suspect it is minor.
+I am not an expert on the Potato Diet, but I will do my best to address some of the questions I've received in comments and elsewhere.
+
+Q: Why are spices not allowed?
+
+A: If one can't eat potatoes to caloric excess it shouldn't matter if salt or other spices are added. Adding salt is not suddenly going to make me eat an extra pound of potatoes. I suspect the benefit of not adding spices is not about restricting the number of potatoes you consume, but your relationship with regular food. When I deprived my tongue of flavor for three days, I wanted foods with simple flavors. Eggs, fruit, baked chicken, and other basic foods all tasted wonderful. Better than they did prior to depriving myself of spices for three days. Basic foods have an edge over modern foods in that we tend not to eat them to excess.
+
+If you absolutely must have spices or you aren't going to attempt the diet, then I say add the spices, but you won't be getting all the benefits, and \*\*my guess\*\* is you might be more likely to eat foods with richer flavors that are more calorie-dense on the non-potato days.
+
+Q: Why is this diet not recommended for those who eat every several hours?
+
+On [Vegetable Pharm](https://vegetablepharm.blogspot.com/p/the-potato-diet_14.html), there is a detailed explanation. Search for the phrase "Not recommended for people who eat every 2-3 hours". This is a warning for people who have known blood sugar issues or eating disorders to do their own research and get a doctor's clearance before doing the diet. For healthy people who eat every 2-3 hours (Zone Dieters), I think the Potato Diet might be a good tool to relearn what satiety feels like. Eating 5-6 small meals a day without getting full makes me more and more hungry. The potato is a good teacher. I snack less because I'm full from the prior meal and I know I'm not getting a distracting novel flavor.
+
+Q: Is there a difference between starchy and waxy potatoes?
+
+A: I could not find an answer to this one. I suspect not. The calorie density per gram does not appear to vary much. If there is a difference, I suspect it is minor.
 
 
 ### Last Words
 
 
-I want to say that I still drink black coffee and espresso. Having carbs with my coffee makes me feel better. I'm far less likely to get jittery or crash. When I did Intermittent Fasting I often felt awful after drinking coffee. Not at first, but over time. This is a big reason I picked the Potato Diet over IF, even though I got results with IF years ago. _The best resource for the potato hack is the Tim Steele book Potato Hack: Weight Loss Simplified._
+I want to say that I still drink black coffee and espresso. Having carbs with my coffee makes me feel better. I'm far less likely to get jittery or crash. When I did Intermittent Fasting I often felt awful after drinking coffee. Not at first, but over time. This is a big reason I picked the Potato Diet over IF, even though I got results with IF years ago.
+
+_The best resource for the potato hack is the Tim Steele book Potato Hack: Weight Loss Simplified._
 
 ---
 

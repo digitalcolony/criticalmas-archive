@@ -9,7 +9,37 @@ description: "It is a common assumption that if one is overweight and wants to i
 commentCount: 9
 ---
 
-It is a common assumption that if one is overweight and wants to improve their health they need to diet. Is this a correct assumption? Reports are that between 70% and 95% of dieters who lose weight will eventually regain it all back. Often they will gain back more. Given these odds, a person concerned about their health that was overweight, might make the rational decision and decide to not diet and instead focus on just not getting heavier. Remember that when a person loses weight their metabolic rate drops, so going back to the original weight doesn't send them back to where they started, but they now are back at their old weight with a slower metabolism. Which often means additional weight gain will happen. This puts them in a spot where they are now less healthy than had they not dieted in the first place. I knew these facts a few years ago when I got up to 222 (height 6' 2.5), but I wanted to be leaner. Instead of focusing on "how to lose weight", I became more interested in the regain problem. Why are so many people regaining the weight that they lost? Answering that question could fill an entire book, but I drilled down on the one cause that I felt explained it best. Satiety. Simply cutting back or any form of restriction will be remembered by the brain. It prefers the higher weight and can detect whenever you cut your portions or walk away from the table not quite as full as before. Your metabolic rate drops and then the brain just waits for your willpower to run out. The brain doesn't know calories. It knows satiety. I've harped on this point before with the graphic below. ![](./img/bulkydiet.jpg) The key to successful dieting where the weight comes off and you keep it off is not moderation or restriction. It is consuming foods that are higher in satiety and lower in calories and then eating to fullness. You do not want to set off any alarms in the brain that you are dieting. See my post [Approach Fat Loss Like You Would Approach a Cat](/2018/05/approach-fat-loss-like-you-would-approach-a-cat/) for an explanation. Weighing food and counting calories are signals of restriction. Sure they will help you lose weight, but in too many cases, they are the wrong tools for keeping it off. A bowl of boiled potatoes ([chilled overnight](/2017/08/math-behind-potato-hack/) and reheated) topped with a can of beans and some veggies will fill your belly. You will be full and it will be low in calories. The brain will be happy. The pounds will come off and I believe that metabolism will stay elevated. Elevated enough to make the fat loss permanent. Today I weigh 180. I've been there for a long time now. It is effortless. Back to the question in the title of this post. Should one ever diet? For most people, I would say no. They still want the tasty foods that made them heavy - but just less than before. That works to lose the weight but sets them up for easy regain. The high percentage of regainers is too large to ignore or dismiss as errors of the individual. ![reverse indy](./img/reverse-indy.jpg) This scene from Raiders of the Lost Ark might be a good way to visualize successfully losing weight in a method that doesn't send an alert to the brain. Swap out the foods you normally eat with the high-volume foods. Fill your belly. No hunger. What do I eat? See [What I Eat and What I Don’t Eat – 2020 Edition](/2020/02/what-i-eat-and-what-i-dont-eat-2020-edition/).
+It is a common assumption that if one is overweight and wants to improve their health they need to diet. Is this a correct assumption? Reports are that between 70% and 95% of dieters who lose weight will eventually regain it all back. Often they will gain back more.
+
+Given these odds, a person concerned about their health that was overweight, might make the rational decision and decide to not diet and instead focus on just not getting heavier.
+
+Remember that when a person loses weight their metabolic rate drops, so going back to the original weight doesn't send them back to where they started, but they now are back at their old weight with a slower metabolism. Which often means additional weight gain will happen. This puts them in a spot where they are now less healthy than had they not dieted in the first place.
+
+I knew these facts a few years ago when I got up to 222 (height 6' 2.5), but I wanted to be leaner. Instead of focusing on "how to lose weight", I became more interested in the regain problem. Why are so many people regaining the weight that they lost? Answering that question could fill an entire book, but I drilled down on the one cause that I felt explained it best. Satiety.
+
+Simply cutting back or any form of restriction will be remembered by the brain. It prefers the higher weight and can detect whenever you cut your portions or walk away from the table not quite as full as before. Your metabolic rate drops and then the brain just waits for your willpower to run out.
+
+The brain doesn't know calories. It knows satiety. I've harped on this point before with the graphic below.
+
+![](./img/bulkydiet.jpg)
+
+The key to successful dieting where the weight comes off and you keep it off is not moderation or restriction. It is consuming foods that are higher in satiety and lower in calories and then eating to fullness. You do not want to set off any alarms in the brain that you are dieting.
+
+See my post [Approach Fat Loss Like You Would Approach a Cat](/2018/05/approach-fat-loss-like-you-would-approach-a-cat/) for an explanation.
+
+Weighing food and counting calories are signals of restriction. Sure they will help you lose weight, but in too many cases, they are the wrong tools for keeping it off.
+
+A bowl of boiled potatoes ([chilled overnight](/2017/08/math-behind-potato-hack/) and reheated) topped with a can of beans and some veggies will fill your belly. You will be full and it will be low in calories. The brain will be happy. The pounds will come off and I believe that metabolism will stay elevated. Elevated enough to make the fat loss permanent.
+
+Today I weigh 180. I've been there for a long time now. It is effortless.
+
+Back to the question in the title of this post. Should one ever diet? For most people, I would say no. They still want the tasty foods that made them heavy - but just less than before. That works to lose the weight but sets them up for easy regain. The high percentage of regainers is too large to ignore or dismiss as errors of the individual.
+
+![reverse indy](./img/reverse-indy.jpg)
+
+This scene from Raiders of the Lost Ark might be a good way to visualize successfully losing weight in a method that doesn't send an alert to the brain. Swap out the foods you normally eat with the high-volume foods. Fill your belly. No hunger.
+
+What do I eat? See [What I Eat and What I Don’t Eat – 2020 Edition](/2020/02/what-i-eat-and-what-i-dont-eat-2020-edition/).
 
 ---
 

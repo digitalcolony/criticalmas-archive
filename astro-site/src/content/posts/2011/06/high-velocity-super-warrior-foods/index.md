@@ -26,7 +26,13 @@ I just received a cool list from frequent commenter _GWhitney_. This is his list
 -   Eggs from wild birds
 -   Chestnuts wild, fresh
 
-![](http://farm2.static.flickr.com/1322/1341608217_ddc8d917ce.jpg "fish eggs") _[Fish Egg Sushi](http://www.flickr.com/photos/lexnger/1341608217/in/photostream/) by Alexa Clark_ I love this list. I absolutely would put beef liver, kimchi and bone broth as my top 3 foods. I've been meaning to add fish eggs to my diet and I think I've only had chestnuts once. _GWhitney_ and I are both well past the point of removing toxins, such as grains, sugar and seed oils. Once you've done that, it makes the most sense to embrace foods with the highest nutritional payoff and incorporate those foods on a regular basis.
+![](http://farm2.static.flickr.com/1322/1341608217_ddc8d917ce.jpg "fish eggs")
+
+_[Fish Egg Sushi](http://www.flickr.com/photos/lexnger/1341608217/in/photostream/) by Alexa Clark_
+
+I love this list. I absolutely would put beef liver, kimchi and bone broth as my top 3 foods. I've been meaning to add fish eggs to my diet and I think I've only had chestnuts once.
+
+_GWhitney_ and I are both well past the point of removing toxins, such as grains, sugar and seed oils. Once you've done that, it makes the most sense to embrace foods with the highest nutritional payoff and incorporate those foods on a regular basis.
 
 ---
 

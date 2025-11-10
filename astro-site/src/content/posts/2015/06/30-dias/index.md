@@ -13,7 +13,31 @@ In the post [Learning to Hate Driving Less](/2015/04/learning-to-hate-driving-le
 
 > It really is silly that giving me points to do something I dislike can make the task much more enjoyable, but it has. I’m wondering how else I can use point seeking to improve my life.
 
-Learning Spanish has been a goal of mine since high school, but it has never been a top-five goal for me. A few times since I completed Spanish 2 in the 9th grade, I would start an attempt to learn Spanish, but I never got far. A few days here and then another interest of mine would catch my eye and I'd put the Spanish workbook back on the shelf where it would gather dust. As the years and decades have passed, I have come to believe that I would likely never learn Spanish. But with my Waze experience, I decided to seek out **a Waze-like way to learn Spanish**. A website with a mobile application that provided points, levels, managed streaks, and let me compete against friends. I found Duolingo and I love it. It has all those features. Yesterday I completed 30 consecutive days. During those days, I averaged seven lessons a day. I'm on Level 9 and have earned over 2,000 XP. I have five friends that I can see on a weekly scoreboard. As the week progresses, we compete for top ranking. Spanish was never this fun in high school. ![Duolingo Spanish](./img/17816552874_d95eef20e6_z.jpg) _Duolingo Spanish_ More than the points and ranking, I think the streak feature is the key. Learning a language requires daily practice. Having a streak and not wanting to break it has been very motivating. J.D. Moyer in his post [Why Is It Important to Define Your Life Purpose?](https://web.archive.org/web/20190704023632/http://www.jdmoyer.com:80/2014/05/21/why-is-it-important-to-define-your-life-purpose/) stressed the importance of daily practice and tipped me off to the Jerry Seinfeld tip to "Don't break the chain." When we break the chain, one day can turn into one week. One week can turn into months or years. The other lesson I wanted to take in was from the book The First 20 Hours: How to Learn Anything . . . Fast! The principle idea is that we need to give a new goal or hobby twenty hours before we quit. For the first twenty hours, we are going to be kind to our beginner self and engage in deliberate practice. When we quit or give up it is most likely to happen in those first 20 hours. Commit to twenty hours before you even start. ![The First 20 Hours: How to Learn Anything . . . Fast!](https://images-na.ssl-images-amazon.com/images/I/41P5o44-CvL.jpg) _The First 20 Hours: How to Learn Anything . . . Fast! by Josh Kaufman_ I can't hold a conversation in Spanish yet, but I am learning new words daily. Two weeks ago after I had some Duolingo momentum going, I started listening to Pimsleur Spanish in the car. So while I am earning Waze points, I'm learning more Spanish to help me earn more Duolingo points! I just bought a Spanish grammar book and started watching three different learning Spanish channels on YouTube ([Butterfly Spanish](https://www.youtube.com/channel/UC9yudInUYzMh9H4gJs4DrHg), [Gringo Español](https://www.youtube.com/channel/UCDZPuuSYxhJlKesTmnelNVw), [Señor Jordan](https://www.youtube.com/channel/UC3I2scc15jBct61vlxt3zcw)). My goal for the next 30 days is to keep the streak alive and not to break the chain.
+Learning Spanish has been a goal of mine since high school, but it has never been a top-five goal for me. A few times since I completed Spanish 2 in the 9th grade, I would start an attempt to learn Spanish, but I never got far. A few days here and then another interest of mine would catch my eye and I'd put the Spanish workbook back on the shelf where it would gather dust.
+
+As the years and decades have passed, I have come to believe that I would likely never learn Spanish. But with my Waze experience, I decided to seek out **a Waze-like way to learn Spanish**. A website with a mobile application that provided points, levels, managed streaks, and let me compete against friends. I found Duolingo and I love it. It has all those features.
+
+Yesterday I completed 30 consecutive days. During those days, I averaged seven lessons a day. I'm on Level 9 and have earned over 2,000 XP. I have five friends that I can see on a weekly scoreboard. As the week progresses, we compete for top ranking.
+
+Spanish was never this fun in high school.
+
+![Duolingo Spanish](./img/17816552874_d95eef20e6_z.jpg)
+
+_Duolingo Spanish_
+
+More than the points and ranking, I think the streak feature is the key. Learning a language requires daily practice. Having a streak and not wanting to break it has been very motivating. J.D. Moyer in his post [Why Is It Important to Define Your Life Purpose?](https://web.archive.org/web/20190704023632/http://www.jdmoyer.com:80/2014/05/21/why-is-it-important-to-define-your-life-purpose/) stressed the importance of daily practice and tipped me off to the Jerry Seinfeld tip to "Don't break the chain."
+
+When we break the chain, one day can turn into one week. One week can turn into months or years.
+
+The other lesson I wanted to take in was from the book The First 20 Hours: How to Learn Anything . . . Fast! The principle idea is that we need to give a new goal or hobby twenty hours before we quit. For the first twenty hours, we are going to be kind to our beginner self and engage in deliberate practice. When we quit or give up it is most likely to happen in those first 20 hours. Commit to twenty hours before you even start.
+
+![The First 20 Hours: How to Learn Anything . . . Fast!](https://images-na.ssl-images-amazon.com/images/I/41P5o44-CvL.jpg) _The First 20 Hours: How to Learn Anything . . . Fast! by Josh Kaufman_
+
+I can't hold a conversation in Spanish yet, but I am learning new words daily. Two weeks ago after I had some Duolingo momentum going, I started listening to Pimsleur Spanish in the car. So while I am earning Waze points, I'm learning more Spanish to help me earn more Duolingo points!
+
+I just bought a Spanish grammar book and started watching three different learning Spanish channels on YouTube ([Butterfly Spanish](https://www.youtube.com/channel/UC9yudInUYzMh9H4gJs4DrHg), [Gringo Español](https://www.youtube.com/channel/UCDZPuuSYxhJlKesTmnelNVw), [Señor Jordan](https://www.youtube.com/channel/UC3I2scc15jBct61vlxt3zcw)).
+
+My goal for the next 30 days is to keep the streak alive and not to break the chain.
 
 ---
 

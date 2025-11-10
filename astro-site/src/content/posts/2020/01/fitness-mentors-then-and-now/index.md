@@ -15,19 +15,33 @@ I thought I would do a post on the history of people who have most influenced me
 ### Dave Scott and Mark Allen
 
 
-In high school, I recall seeing the Ironman on TV. It was the era where Dave Scott and Mark Allen were tops in the field. I didn't have an interest in team sports and I liked to run, so this event captured my interest. They inspired me to run more. When I got to college, I knew I wanted to get into marathon running and eventually triathlons. I documented that journey in the post [The Runner 1989-1995](/2008/03/the-runner-1989-1995/). Unlike the mentors below, I didn't learn much from Scott and Allen, other than what is humanly possible to accomplish as an endurance athlete.
+In high school, I recall seeing the Ironman on TV. It was the era where Dave Scott and Mark Allen were tops in the field. I didn't have an interest in team sports and I liked to run, so this event captured my interest. They inspired me to run more.
+
+When I got to college, I knew I wanted to get into marathon running and eventually triathlons. I documented that journey in the post [The Runner 1989-1995](/2008/03/the-runner-1989-1995/).
+
+Unlike the mentors below, I didn't learn much from Scott and Allen, other than what is humanly possible to accomplish as an endurance athlete.
 
 
 ### Dr. Michael Colgan and Bill Pearl
 
 
-I also had a strong interest in nutrition. In the book Optimum Sports Nutrition, Dr. Colgan spoke convincingly on how strength training can greatly benefit endurance athletes. I knew I wanted to lift at some point. This book combined with some running injuries that had left me sidelined was the exact motivation to get me into lifting weights. Once I started lifting, it became more important than running. I also picked up the book Getting Stronger by Bill Pearl. That book was my bible to lifting when I started. ![Getting Stronger : Weight Training for Men and Women](https://images-na.ssl-images-amazon.com/images/I/51YY7EKKP0L.jpg) _Look at that awesome cover. 😯_
+I also had a strong interest in nutrition. In the book Optimum Sports Nutrition, Dr. Colgan spoke convincingly on how strength training can greatly benefit endurance athletes. I knew I wanted to lift at some point. This book combined with some running injuries that had left me sidelined was the exact motivation to get me into lifting weights.
+
+Once I started lifting, it became more important than running. I also picked up the book Getting Stronger by Bill Pearl. That book was my bible to lifting when I started.
+
+![Getting Stronger : Weight Training for Men and Women](https://images-na.ssl-images-amazon.com/images/I/51YY7EKKP0L.jpg)
+
+_Look at that awesome cover. 😯_
 
 
 ### Muscle Media 2000 and T-Nation
 
 
-I closed out the 1990s and early 2000s reading Muscle Media 2000 and then the T-Nation website. Back then T-Nation was testosterone.net. I consumed hundreds of articles on lifting. ![muscle-media-2000](./img/muscle-media-2000.jpg) MM2K became the worthless Muscle Media and then disappeared. T-Nation is still around and I peek in occasionally.
+I closed out the 1990s and early 2000s reading Muscle Media 2000 and then the T-Nation website. Back then T-Nation was testosterone.net. I consumed hundreds of articles on lifting.
+
+![muscle-media-2000](./img/muscle-media-2000.jpg)
+
+MM2K became the worthless Muscle Media and then disappeared. T-Nation is still around and I peek in occasionally.
 
 
 ### Pavel
@@ -39,13 +53,21 @@ In mid-2001, I received Power to the People in the mail. It was the book that ch
 ### The HIT Gurus (Anderson, McGuff & Little, Darden)
 
 
-It was a post on Conditioning Research that opened me up to the idea of slow lifting and High-Intensity Training. Shortly afterward I would read [Body By Science](/2010/01/body-by-science/) (McGuff & Little). This was followed by two training sessions with [Greg Anderson](/2012/12/rip-greg-anderson-my-fitness-mentor/). I went from being a skeptic to a disciple of HIT. There are tons of posts on this site on the HIT topic. Today, I rarely go to failure, as I now believe the science supports [higher volume for muscle development](/2018/08/the-case-for-high-intensity-training-seems-to-getting-weaker/), especially with ectomorphs. The most important lesson that I walked away ended up not being intensity, but an entire framework for exercise safety. Not only exercise selection but how to use lighter weights and slower movements to increase safety. What I learned from HIT got me away from chasing numbers and drastically reduced my injury rate.
+It was a post on Conditioning Research that opened me up to the idea of slow lifting and High-Intensity Training. Shortly afterward I would read [Body By Science](/2010/01/body-by-science/) (McGuff & Little). This was followed by two training sessions with [Greg Anderson](/2012/12/rip-greg-anderson-my-fitness-mentor/).
+
+I went from being a skeptic to a disciple of HIT. There are tons of posts on this site on the HIT topic. Today, I rarely go to failure, as I now believe the science supports [higher volume for muscle development](/2018/08/the-case-for-high-intensity-training-seems-to-getting-weaker/), especially with ectomorphs.
+
+The most important lesson that I walked away ended up not being intensity, but an entire framework for exercise safety. Not only exercise selection but how to use lighter weights and slower movements to increase safety. What I learned from HIT got me away from chasing numbers and drastically reduced my injury rate.
 
 
 ### Athlean-X and YouTube
 
 
-Reading about exercise is fine. Watching exercise is even better. Now that we are in the age of YouTube, it has become my go-to location for learning about exercise. Watching a skilled instructor perform an exercise often from different angles is one of the greatest things about the Internet. And in my opinion, no channel is better than Athlean-X. That channel has years of top-quality videos on any aspect of fitness you would want to watch. Often multiple videos. When I watch Athlean-X content, I realize that as much as I know, there is still a lot I can learn. If you are a Millenial or Gen-Z fellow, you have no excuse not to be swole, if you want to be. **The recipe for being muscular is right there and it is free.** And unlike me, you won't be thumbing through Bill Pearl's book of tiny black-and-white photos trying to guess if your form is correct.
+Reading about exercise is fine. Watching exercise is even better. Now that we are in the age of YouTube, it has become my go-to location for learning about exercise. Watching a skilled instructor perform an exercise often from different angles is one of the greatest things about the Internet.
+
+And in my opinion, no channel is better than Athlean-X. That channel has years of top-quality videos on any aspect of fitness you would want to watch. Often multiple videos. When I watch Athlean-X content, I realize that as much as I know, there is still a lot I can learn.
+
+If you are a Millenial or Gen-Z fellow, you have no excuse not to be swole, if you want to be. **The recipe for being muscular is right there and it is free.** And unlike me, you won't be thumbing through Bill Pearl's book of tiny black-and-white photos trying to guess if your form is correct.
 
 
 ### Other Mentors?

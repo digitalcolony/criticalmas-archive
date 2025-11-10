@@ -9,13 +9,23 @@ description: "It was almost 10 years ago that a book arrived in the mail that wo
 commentCount: 9
 ---
 
-It was almost 10 years ago that a book arrived in the mail that would change my life. ![Power to the People! : Russian Strength Training Secrets for Every American](https://images-na.ssl-images-amazon.com/images/I/515YRilwJ-L.jpg) _Power to the People! : Russian Strength Training Secrets for Every American is by Pavel Tsatsouline._ Prior to this book, I had been lifting weights as the muscle magazines taught me. You know the _hit-the-body-from-every-angle_ with multiple sets of 8-12 reps. It works wonders if you are a steroid-taking mesomorph. Not so much if you're a drug-free ectomorph. You are always sore and your strength levels never seem to go up.
+It was almost 10 years ago that a book arrived in the mail that would change my life.
+
+![Power to the People! : Russian Strength Training Secrets for Every American](https://images-na.ssl-images-amazon.com/images/I/515YRilwJ-L.jpg) _Power to the People! : Russian Strength Training Secrets for Every American is by Pavel Tsatsouline._
+
+Prior to this book, I had been lifting weights as the muscle magazines taught me. You know the _hit-the-body-from-every-angle_ with multiple sets of 8-12 reps. It works wonders if you are a steroid-taking mesomorph. Not so much if you're a drug-free ectomorph. You are always sore and your strength levels never seem to go up.
 
 
 ### Impressive Gains
 
 
-Then I read _Power To The People_ and everything changed. Pavel taught me to reduce the reps to just 3-5 and increase the weight. And to get stronger, I'd have to increase my rest between sets. The focus of the weightlifting plan wasn't numerous isolation moves, but deadlifts and a pressing move. Hammer those two hard and strength will follow was the message of the book. And it worked. During the first three years of using the _Power To The People_ protocol, I gained almost 20 pounds of muscle. For the first time in my life, I was benching my weight. I could squat almost 300 pounds and deadlift over 300 pounds. Not bad for a recovering [Stick Boy](/2008/09/the-stick-boy-explained/). This book made me a believer in low-repetition weight training. I've been preaching against low-weight high-rep training ever since. ![mas-Pavel](./img/mas-Pavel.jpg) _I met Pavel in 2004_
+Then I read _Power To The People_ and everything changed. Pavel taught me to reduce the reps to just 3-5 and increase the weight. And to get stronger, I'd have to increase my rest between sets. The focus of the weightlifting plan wasn't numerous isolation moves, but deadlifts and a pressing move. Hammer those two hard and strength will follow was the message of the book. And it worked.
+
+During the first three years of using the _Power To The People_ protocol, I gained almost 20 pounds of muscle. For the first time in my life, I was benching my weight. I could squat almost 300 pounds and deadlift over 300 pounds. Not bad for a recovering [Stick Boy](/2008/09/the-stick-boy-explained/). This book made me a believer in low-repetition weight training. I've been preaching against low-weight high-rep training ever since.
+
+![mas-Pavel](./img/mas-Pavel.jpg)
+
+_I met Pavel in 2004_
 
 
 ### The Russian Bear Got Me

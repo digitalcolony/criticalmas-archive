@@ -9,7 +9,19 @@ description: "Today the HBO documentary 537 Votes will be released and I'm thank
 commentCount: 4
 ---
 
-Today the HBO documentary [537 Votes](https://en.wikipedia.org/wiki/537_Votes) will be released and I'm thanked in the credits. The film is about the 2000 Presidential election and what happened in Florida and more specifically in Miami. Even though I've never lived in Miami, I was able to assist as a historical consultant for the film. One of the other web projects that I handle is the radio archive for the [Neil Rogers Show](https://neilrogers.org/), which was based out of Miami. I discussed that in the post [My Tribute to Radio's Neil Rogers](/2014/01/tribute-radios-neil-rogers/) back in 2014. In 1998, I had an office job in the DC Metro area. I liked to listen to talk radio, but I could not get a radio signal in my office and I couldn't use the client's network to stream audio, so when I was at home I would burn CDs of audio that I downloaded from the Internet. Back then very few shows were archived. The Neil Rogers Show was one. I burned a few discs and listened at work. My burned CDs from the 1999-2000 era captured some of the most important historical events for Miami, which included the arrival and custody battle of Elián González and the recount efforts of the 2000 election. Because of my work on the project, I was able to help the filmmakers find the audio clips that they needed for the documentary. My partner John Baker, who has since passed, also helped. We were both thanked, along with the Neil Rogers Audio Restoration Project in the credits. I got to see a preview release earlier this week. It was really cool to hear audio clips on a film that came from the CDs that I burned twenty years ago. ![537 Movie Credit](./img/537-movie-credit.jpg) _From 537 Votes_
+Today the HBO documentary [537 Votes](https://en.wikipedia.org/wiki/537_Votes) will be released and I'm thanked in the credits. The film is about the 2000 Presidential election and what happened in Florida and more specifically in Miami.
+
+Even though I've never lived in Miami, I was able to assist as a historical consultant for the film. One of the other web projects that I handle is the radio archive for the [Neil Rogers Show](https://neilrogers.org/), which was based out of Miami. I discussed that in the post [My Tribute to Radio's Neil Rogers](/2014/01/tribute-radios-neil-rogers/) back in 2014.
+
+In 1998, I had an office job in the DC Metro area. I liked to listen to talk radio, but I could not get a radio signal in my office and I couldn't use the client's network to stream audio, so when I was at home I would burn CDs of audio that I downloaded from the Internet. Back then very few shows were archived. The Neil Rogers Show was one. I burned a few discs and listened at work.
+
+My burned CDs from the 1999-2000 era captured some of the most important historical events for Miami, which included the arrival and custody battle of Elián González and the recount efforts of the 2000 election. Because of my work on the project, I was able to help the filmmakers find the audio clips that they needed for the documentary. My partner John Baker, who has since passed, also helped.
+
+We were both thanked, along with the Neil Rogers Audio Restoration Project in the credits. I got to see a preview release earlier this week. It was really cool to hear audio clips on a film that came from the CDs that I burned twenty years ago.
+
+![537 Movie Credit](./img/537-movie-credit.jpg)
+
+_From 537 Votes_
 
 ---
 

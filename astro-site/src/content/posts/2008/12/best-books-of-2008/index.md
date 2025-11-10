@@ -9,7 +9,9 @@ description: "This year I polished off about 60 books. A new record for me. Most
 commentCount: 0
 ---
 
-This year I polished off about 60 books. A new record for me. Most of the books were not written in 2008, so my _"best of"_ list for the year just refers to when I got around to reading it. This year I decided to break the list into four groups. **Finance**
+This year I polished off about 60 books. A new record for me. Most of the books were not written in 2008, so my _"best of"_ list for the year just refers to when I got around to reading it. This year I decided to break the list into four groups.
+
+**Finance**
 
 1.  [Fooled By Randomness](/2008/03/fooled-by-randomness/) - Understand survivorship bias and you'll never look at the world the same.
 2.  [Reminiscences of a Stock Operator](/2008/04/reminiscences-of-a-stock-operator/) - Investor classic from the 1920s. If you make more than a few stock trades a week, this is a must read.

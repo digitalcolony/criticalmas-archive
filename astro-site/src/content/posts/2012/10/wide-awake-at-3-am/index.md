@@ -8,7 +8,9 @@ description: "I ended my no caffeine experiment yesterday exactly 21 days after 
 commentCount: 30
 ---
 
-I ended my [no caffeine experiment](/2012/09/my-caffeine-detox-plan/) yesterday exactly 21 days after it began. Around Noon I had a single cup of green tea. And then around 4 PM, I had about 1/3 cup more tea. The good news is I beat my goal by 6 days. Now for the bad news. By around 9 PM, I felt jittery, but I was still able to fall asleep easily around 10:30 PM. At 3 AM, I woke up still feeling jittery unable to return to sleep. Uggh, I think I broke my caffeine metabolism. This isn't good. Maybe I'm panicking, because I'm so tired and I can't think straight. Now what?
+I ended my [no caffeine experiment](/2012/09/my-caffeine-detox-plan/) yesterday exactly 21 days after it began. Around Noon I had a single cup of green tea. And then around 4 PM, I had about 1/3 cup more tea. The good news is I beat my goal by 6 days. Now for the bad news. By around 9 PM, I felt jittery, but I was still able to fall asleep easily around 10:30 PM. At 3 AM, I woke up still feeling jittery unable to return to sleep.
+
+Uggh, I think I broke my caffeine metabolism. This isn't good. Maybe I'm panicking, because I'm so tired and I can't think straight. Now what?
 
 ---
 

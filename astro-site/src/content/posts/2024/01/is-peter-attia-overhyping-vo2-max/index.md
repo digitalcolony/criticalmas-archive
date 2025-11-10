@@ -9,23 +9,59 @@ description: "Last year, Peter Attia was everywhere in the health and longevity 
 commentCount: 15
 ---
 
-Last year, Peter Attia was everywhere in the health and longevity space. Between his podcast, his book [Outlive](/2023/05/outlive-by-peter-attia-md-summarized/), and numerous interviews, I watched his views spread across the health space. In addition to [dunking on fasting and pimping protein](/2023/04/more-protein-and-the-fasting-backlash/), his other big idea was that VO2 max is the best predictor of all-cause mortality and healthspan. In interviews, he often appears to downplay the importance of nutrition and the role of diet. Instead, he says the research is clear that improving VO2 max is the single best thing one can do for their healthspan. Attia then makes the case for Zone 2 as a means of improving VO2 max. From his interview with Tim Ferriss:
+Last year, Peter Attia was everywhere in the health and longevity space. Between his podcast, his book [Outlive](/2023/05/outlive-by-peter-attia-md-summarized/), and numerous interviews, I watched his views spread across the health space.
 
-> If we’re going to just talk in magnitude, VO2 max and muscular strength stand in a league of their own. ...That includes having end-stage renal disease, being on the wait list for a kidney while you get dialysis, being a smoker, having high blood pressure, having type two diabetes, being obese. The downside of those things is relatively small compared to the upside of having a high VO2 max and being very strong.
+In addition to [dunking on fasting and pimping protein](/2023/04/more-protein-and-the-fasting-backlash/), his other big idea was that VO2 max is the best predictor of all-cause mortality and healthspan. In interviews, he often appears to downplay the importance of nutrition and the role of diet. Instead, he says the research is clear that improving VO2 max is the single best thing one can do for their healthspan. Attia then makes the case for Zone 2 as a means of improving VO2 max.
 
-Maybe I am wrong, but I think he has this backward. The ability to generate a VO2 max (besides genetics, which is 40-50%) would benefit tremendously from being healthy first. People with diabetes or high blood pressure probably aren't training their VO2 max. If they try, they are likely not to be in a state to recover or make sufficient progress. Isn't the story really that having a low VO2 max is probably a signal of poor health, rather than being unconditioned? In other words, being poorly conditioned is often a result of underlying health issues that prevent the person from doing the conditioning exercises. A smoker would have impaired VO2 max from their habit alone. Well, except for my former roommate [Marlboro Marc](/2012/03/the-legend-of-marlboro-marc/). What about heavy people? People with a high BMI tend to have a lower VO2 max. Why? I asked Claude.AI to explain.
+From his interview with Tim Ferriss:
+
+> If we’re going to just talk in magnitude, VO2 max and muscular strength stand in a league of their own.
+> 
+> ...That includes having end-stage renal disease, being on the wait list for a kidney while you get dialysis, being a smoker, having high blood pressure, having type two diabetes, being obese. The downside of those things is relatively small compared to the upside of having a high VO2 max and being very strong.
+
+Maybe I am wrong, but I think he has this backward.
+
+The ability to generate a VO2 max (besides genetics, which is 40-50%) would benefit tremendously from being healthy first. People with diabetes or high blood pressure probably aren't training their VO2 max. If they try, they are likely not to be in a state to recover or make sufficient progress. Isn't the story really that having a low VO2 max is probably a signal of poor health, rather than being unconditioned? In other words, being poorly conditioned is often a result of underlying health issues that prevent the person from doing the conditioning exercises.
+
+A smoker would have impaired VO2 max from their habit alone. Well, except for my former roommate [Marlboro Marc](/2012/03/the-legend-of-marlboro-marc/).
+
+What about heavy people? People with a high BMI tend to have a lower VO2 max. Why? I asked Claude.AI to explain.
 
 > There are a few key reasons why obese individuals tend to have lower VO2 max or maximal oxygen uptake:
 > 
-> Increased body weight. VO2 max is expressed relative to body weight as ml/kg/min. The more someone weighs, the more oxygen they require to move their body. This means for a given absolute VO2 max value, the relative VO2 max is lower in obese individuals. Higher fat mass. Body fat is essentially "dead weight" that contributes little to oxygen utilization but increases body weight. The greater amount of fat mass acts to reduce VO2 max relative to total body mass. Reduced muscle mass. Obesity is associated with increased fat mass and reduced muscle mass. Since skeletal muscle is a primary consumer of oxygen during exercise, less muscle mass may result in lower absolute VO2 max. Impaired cardiorespiratory fitness. Excess fat places greater demands on the cardiovascular and respiratory systems. Obese individuals often have lower cardiovascular fitness levels, resulting in reduced delivery and utilization of oxygen. Biomechanical disadvantages. Excess body fat can impede efficient movement and exercise. This places greater mechanical stress and oxygen requirements for a given workload. Inflammation and insulin resistance. Obesity leads to metabolic disruptions that can impair muscle function and limit oxygen use at the cellular level. Physical inactivity. Obese individuals are less physically active on average, which deconditions the cardiovascular system and fails to improve VO2 max over time.
+> Increased body weight. VO2 max is expressed relative to body weight as ml/kg/min. The more someone weighs, the more oxygen they require to move their body. This means for a given absolute VO2 max value, the relative VO2 max is lower in obese individuals.
+> 
+> Higher fat mass. Body fat is essentially "dead weight" that contributes little to oxygen utilization but increases body weight. The greater amount of fat mass acts to reduce VO2 max relative to total body mass.
+> 
+> Reduced muscle mass. Obesity is associated with increased fat mass and reduced muscle mass. Since skeletal muscle is a primary consumer of oxygen during exercise, less muscle mass may result in lower absolute VO2 max.
+> 
+> Impaired cardiorespiratory fitness. Excess fat places greater demands on the cardiovascular and respiratory systems. Obese individuals often have lower cardiovascular fitness levels, resulting in reduced delivery and utilization of oxygen.
+> 
+> Biomechanical disadvantages. Excess body fat can impede efficient movement and exercise. This places greater mechanical stress and oxygen requirements for a given workload.
+> 
+> Inflammation and insulin resistance. Obesity leads to metabolic disruptions that can impair muscle function and limit oxygen use at the cellular level.
+> 
+> Physical inactivity. Obese individuals are less physically active on average, which deconditions the cardiovascular system and fails to improve VO2 max over time.
 
-The majority of people are overweight or obese now. The big lever is not Zone 2 cardio. It is diet. Get lean, then get fit. If you try to do them at the same time, you may see great short-term progress. Then your hunger levels will spike, and you'll join the 80% of people who regain their lost weight within four years of dieting. This all assumes you can even exercise safely. If you are already lean and eating a nutritious diet, then Attia might be correct. But then again, you probably are already exercising. Maybe you need to add some additional Zone 2 training, but you are likely already on the right path. Will you see benefits? Against the unhealthy average, absolutely. Compared to the workout plan you were already doing? Maybe a little. I'm skeptical. ![](./img/trail-runner500.jpg) _Made with Bing_
+The majority of people are overweight or obese now. The big lever is not Zone 2 cardio. It is diet. Get lean, then get fit. If you try to do them at the same time, you may see great short-term progress. Then your hunger levels will spike, and you'll join the 80% of people who regain their lost weight within four years of dieting. This all assumes you can even exercise safely.
+
+If you are already lean and eating a nutritious diet, then Attia might be correct. But then again, you probably are already exercising. Maybe you need to add some additional Zone 2 training, but you are likely already on the right path. Will you see benefits? Against the unhealthy average, absolutely. Compared to the workout plan you were already doing? Maybe a little. I'm skeptical.
+
+![](./img/trail-runner500.jpg)
+
+_Made with Bing_
 
 
 ### Last Words
 
 
-Attia's audience is eating up this information because most are probably already lean and exercise. They are being told that everything they are already doing will give them this amazing healthspan and longevity benefit. Although technically true, I don't think most of that benefit will come from their training, but from not doing the things that would impair their VO2 max in the first place. I strongly suspect that the ability to generate a high VO2 max comes first from being extremely healthy and then leveraging that with some conditioning. Not the other way around. I believe the capacity to generate high VO2 max via genetics and a healthy weight would be more predictive of a better longevity outcome than VO2 max directly. Looking at VO2 max directly is likely just a case of selection and survivorship bias. I hope I'm wrong and Attia is correct.
+Attia's audience is eating up this information because most are probably already lean and exercise. They are being told that everything they are already doing will give them this amazing healthspan and longevity benefit. Although technically true, I don't think most of that benefit will come from their training, but from not doing the things that would impair their VO2 max in the first place.
+
+I strongly suspect that the ability to generate a high VO2 max comes first from being extremely healthy and then leveraging that with some conditioning. Not the other way around.
+
+I believe the capacity to generate high VO2 max via genetics and a healthy weight would be more predictive of a better longevity outcome than VO2 max directly. Looking at VO2 max directly is likely just a case of selection and survivorship bias.
+
+I hope I'm wrong and Attia is correct.
 
 ---
 

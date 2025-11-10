@@ -9,7 +9,11 @@ description: "I have received a few emails asking for tips and advice on getting
 commentCount: 20
 ---
 
-I have received a few emails asking for tips and advice on getting started with the Potato Hack Diet. I really think people are overthinking this one. The health and fitness community is full of complex ideas, this is not one of them. This week I assembled and organized my favorite blog posts related to the potato on the [Potato Hack Diet](https://criticalmas.org/best-of/potato-hack-diet/) Best of Page. In this post, I am going to walk you through how I prepare potatoes. Hopefully, a few of these tips will help you.
+I have received a few emails asking for tips and advice on getting started with the Potato Hack Diet. I really think people are overthinking this one. The health and fitness community is full of complex ideas, this is not one of them.
+
+This week I assembled and organized my favorite blog posts related to the potato on the [Potato Hack Diet](https://criticalmas.org/best-of/potato-hack-diet/) Best of Page.
+
+In this post, I am going to walk you through how I prepare potatoes. Hopefully, a few of these tips will help you.
 
 
 ### Getting Started
@@ -23,19 +27,33 @@ I boil all my potatoes and then store them in the refrigerator. If the potatoes 
 4.  colander to drain off the boiling water.
 5.  storage container for the cooked potatoes.
 
-Buying a suitable storage container dedicated to cooked potatoes was a great decision for me. The container I have is flat and can hold a little more than 5 pounds of cooked potatoes perfectly. Also, you can set other items in the refrigerator on top of it, so it is space-saving. The size of the storage container you purchase will be the size that fits best in your refrigerator. Amazon has many options, but I advise visiting one of those container stores to find the one that is best for you.
+Buying a suitable storage container dedicated to cooked potatoes was a great decision for me. The container I have is flat and can hold a little more than 5 pounds of cooked potatoes perfectly. Also, you can set other items in the refrigerator on top of it, so it is space-saving.
+
+The size of the storage container you purchase will be the size that fits best in your refrigerator. Amazon has many options, but I advise visiting one of those container stores to find the one that is best for you.
 
 
 ### Buying Potatoes
 
 
-There are just 2 stores I go to for potatoes in my Seattle neighborhood of Ballard and they happen to be right next to each other. Trader Joe's and Cash & Carry. Cash & Carry is a restaurant supply store. I'm surprised at the number of people that believe that the store is only for restaurant people. Nope. Anybody can shop at Cash & Carry. No membership is required. Restaurant supply stores are awesome. The prices are low and the lines move fast. When I go to Cash & Carry, I purchase a 15-pound of potatoes. The price ranges from $2 to $5 throughout the past two years but averages $3.50. A steal. Trader Joe's has an organic red potato 5-pound bag that sells for about $5. If your time is valuable to purchase organic, because you will not need to peel the potatoes, plus they have more nutrition. If you want to save money, purchase non-organic. I cycle between both options.
+There are just 2 stores I go to for potatoes in my Seattle neighborhood of Ballard and they happen to be right next to each other. Trader Joe's and Cash & Carry. Cash & Carry is a restaurant supply store. I'm surprised at the number of people that believe that the store is only for restaurant people. Nope. Anybody can shop at Cash & Carry. No membership is required.
+
+Restaurant supply stores are awesome. The prices are low and the lines move fast. When I go to Cash & Carry, I purchase a 15-pound of potatoes. The price ranges from $2 to $5 throughout the past two years but averages $3.50. A steal.
+
+Trader Joe's has an organic red potato 5-pound bag that sells for about $5.
+
+If your time is valuable to purchase organic, because you will not need to peel the potatoes, plus they have more nutrition. If you want to save money, purchase non-organic. I cycle between both options.
 
 
 ### Red, Yellow, or Russet?
 
 
-The three most common options for potatoes are going to be red, yellow, and russet. 98% of the time I will purchase red or yellow. They hold up much better structurally when you take them in and out of the refrigerator over a day or two. Russet potatoes get mushy quickly. The only time I get Russet is if I get a really good price and I know I'm doing a strict potato hack, so I'm not using those potatoes two days later. ![](./img/4499242134_167ddd0655_z.jpg) [_Potatoes_](https://flic.kr/p/7RzMWf)
+The three most common options for potatoes are going to be red, yellow, and russet. 98% of the time I will purchase red or yellow. They hold up much better structurally when you take them in and out of the refrigerator over a day or two.
+
+Russet potatoes get mushy quickly. The only time I get Russet is if I get a really good price and I know I'm doing a strict potato hack, so I'm not using those potatoes two days later.
+
+![](./img/4499242134_167ddd0655_z.jpg)
+
+[_Potatoes_](https://flic.kr/p/7RzMWf)
 
 
 ### Procedure
@@ -60,7 +78,9 @@ That is my optimized path. I'm sure you'll find your own.
 ### Just Get Started
 
 
-People that read health and fitness blogs have this tendency to research things to death before starting something new. There is definitely a time and a place for that thinking. However, this is not it. A big part of understanding the potato hack comes from the feeling you will get when you deprive your brain of flavor while at the same time filling your belly which shuts off your hunger hormones. And then doing it again for a few days. It is a powerful lesson that you need to experience to understand. Go forth and potato hack! And if my fellow potato hackers have any additional quick-start tips, please leave a comment below.
+People that read health and fitness blogs have this tendency to research things to death before starting something new. There is definitely a time and a place for that thinking. However, this is not it. A big part of understanding the potato hack comes from the feeling you will get when you deprive your brain of flavor while at the same time filling your belly which shuts off your hunger hormones. And then doing it again for a few days. It is a powerful lesson that you need to experience to understand.
+
+Go forth and potato hack! And if my fellow potato hackers have any additional quick-start tips, please leave a comment below.
 
 ---
 

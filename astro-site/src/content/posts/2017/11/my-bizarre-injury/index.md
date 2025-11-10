@@ -9,7 +9,25 @@ description: "Early in the morning of September 19th, I was doing some light str
 commentCount: 14
 ---
 
-Early in the morning of September 19th, I was doing some light stretching. For a few months, I had been doing light yoga maybe 3-5 times a week. I would go to YouTube and look for videos related to yoga and mobility that were around 10 minutes long. 10 minutes is not much, but I was seeing tremendous benefits, especially at a time when my weight lifting was ramping up again. But then the oddest thing happened. About a second after coming up from a shallow standing toe-touch stretch, which was only held for a few seconds, I heard a loud squish as my left hamstring muscle snapped aggressively to the left. It was such a bizarre experience that I stood there frozen for a while trying to understand what had happened. It is almost two months later and I still don't know. I've asked several people in the fields of massage and personal training what happened and they all seem stumped. The stretch was light and shallow. Nothing even close to aggressive. Shortly after the incident, I began to feel pain, but I powered through with my day. The pain got worse throughout the day. By the early afternoon, I could not stand up unassisted. The next day, the pain was reduced and it has continued to drop by a little bit each day. When it happened, I was advised by all my health consultants (except one) to seek out a physical therapist. Of course, I didn't, because I never seek out help until I've lost all hope. The one exception advised me to gradually start light stretching again, which I started a week ago. Pain levels are very low, but still there. I can still walk 10,000 steps a day. I can even do light hack squats (100 pounds). But now I'm feeling knee pain in both knees, which is new for me. I suspect the right side is now overcompensating for the left, which is creating the knee issues. Maybe one of my readers has some wisdom for me? What happened to me? Should I see a physical therapist or continue with the light stretching + time protocol? ![question](./img/evan-dennis-question.jpg) _Photo by [Evan Dennis0](https://unsplash.com/@evan__bray)_ ![](./img/hamstrings-exercise.jpg)
+Early in the morning of September 19th, I was doing some light stretching. For a few months, I had been doing light yoga maybe 3-5 times a week. I would go to YouTube and look for videos related to yoga and mobility that were around 10 minutes long. 10 minutes is not much, but I was seeing tremendous benefits, especially at a time when my weight lifting was ramping up again.
+
+But then the oddest thing happened. About a second after coming up from a shallow standing toe-touch stretch, which was only held for a few seconds, I heard a loud squish as my left hamstring muscle snapped aggressively to the left.
+
+It was such a bizarre experience that I stood there frozen for a while trying to understand what had happened. It is almost two months later and I still don't know. I've asked several people in the fields of massage and personal training what happened and they all seem stumped. The stretch was light and shallow. Nothing even close to aggressive.
+
+Shortly after the incident, I began to feel pain, but I powered through with my day. The pain got worse throughout the day. By the early afternoon, I could not stand up unassisted. The next day, the pain was reduced and it has continued to drop by a little bit each day.
+
+When it happened, I was advised by all my health consultants (except one) to seek out a physical therapist. Of course, I didn't, because I never seek out help until I've lost all hope. The one exception advised me to gradually start light stretching again, which I started a week ago. Pain levels are very low, but still there.
+
+I can still walk 10,000 steps a day. I can even do light hack squats (100 pounds). But now I'm feeling knee pain in both knees, which is new for me. I suspect the right side is now overcompensating for the left, which is creating the knee issues.
+
+Maybe one of my readers has some wisdom for me? What happened to me? Should I see a physical therapist or continue with the light stretching + time protocol?
+
+![question](./img/evan-dennis-question.jpg)
+
+_Photo by [Evan Dennis0](https://unsplash.com/@evan__bray)_
+
+![](./img/hamstrings-exercise.jpg)
 
 ---
 

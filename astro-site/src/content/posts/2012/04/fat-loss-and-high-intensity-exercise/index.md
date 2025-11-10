@@ -13,13 +13,23 @@ In my last post [Fat Loss and the Case For Less Exercise](/2012/04/fat-loss-and
 
 > My HIT workout takes about 15 minutes, which includes light mobility work. The sprint session takes about 10 minutes, where most of the time is spent walking back to the bottom of the hill. The rowing takes less than 5 minutes. **Adding everything together I am exercising less than one hour per week.**
 
-To be clear, I am not saying this is the optimal plan for everyone. This is what has worked best for me. When I increase my exercise volume, I also increase my appetite and risk of injury. I covered this in detail in the post [How Exercise Indirectly Kept Me Fatter](/2012/04/how-exercise-indirectly-kept-me-fatter/). On the surface, it appears the primary mechanism for fat loss is not burning calories, but increasing muscle gain. Increasing muscle increases metabolism which can result in greater fat loss. Up until I read _Body By Science_ this was the only fat loss pathway I was aware of when it came to resistance training. ![Body by Science](https://images-na.ssl-images-amazon.com/images/I/51DXynBp-CL.jpg) _Body by Science by Doug McGuff and John Little is by far the best book I've read on fitness._
+To be clear, I am not saying this is the optimal plan for everyone. This is what has worked best for me. When I increase my exercise volume, I also increase my appetite and risk of injury. I covered this in detail in the post [How Exercise Indirectly Kept Me Fatter](/2012/04/how-exercise-indirectly-kept-me-fatter/).
+
+On the surface, it appears the primary mechanism for fat loss is not burning calories, but increasing muscle gain. Increasing muscle increases metabolism which can result in greater fat loss. Up until I read _Body By Science_ this was the only fat loss pathway I was aware of when it came to resistance training.
+
+![Body by Science](https://images-na.ssl-images-amazon.com/images/I/51DXynBp-CL.jpg) _Body by Science by Doug McGuff and John Little is by far the best book I've read on fitness._
 
 
 ### Forget The Fat Burning Zone, Embrace High Intensity
 
 
-The Cult of the Cardio loves to preach that exercising in a range between 60% and 70% of maximum heart rate maximizes fat loss. They call this range the Fat Burning Zone. When we lower our intensity into this range, not only can we exercise longer, but we access fat at a higher percentage. Is this a good thing? _Body By Science_ makes the case that it isn't. Fat loss is not just about calories, it is also about hormones. Watch the two videos below (13 minutes in total) for a primer on High-Intensity exercise and fat loss. [BODY BY SCIENCE 5 (The Science Of Fat Loss -- Part 1)](https://www.youtube.com/watch?v=MzA-E8zb-Ds) [BODY BY SCIENCE 5 (The Science Of Fat Loss -- Part 2)](https://www.youtube.com/watch?v=ToGt_GYCUmY) I'm going to list some of the fat loss ideas from Dr. McGuff's book. I had to read this section three times before I felt I felt I understood it. If my understanding is flawed, please help me out in the comments below.
+The Cult of the Cardio loves to preach that exercising in a range between 60% and 70% of maximum heart rate maximizes fat loss. They call this range the Fat Burning Zone. When we lower our intensity into this range, not only can we exercise longer, but we access fat at a higher percentage. Is this a good thing? _Body By Science_ makes the case that it isn't. Fat loss is not just about calories, it is also about hormones. Watch the two videos below (13 minutes in total) for a primer on High-Intensity exercise and fat loss.
+
+[BODY BY SCIENCE 5 (The Science Of Fat Loss -- Part 1)](https://www.youtube.com/watch?v=MzA-E8zb-Ds)
+
+[BODY BY SCIENCE 5 (The Science Of Fat Loss -- Part 2)](https://www.youtube.com/watch?v=ToGt_GYCUmY)
+
+I'm going to list some of the fat loss ideas from Dr. McGuff's book. I had to read this section three times before I felt I felt I understood it. If my understanding is flawed, please help me out in the comments below.
 
 -   The greatest metabolic effect comes when all muscle fibers are recruited.
 -   When we aren't accessing body fat directly, we get our energy from glycogen stores. Glycogen provides "on-site" energy to the muscular system.
@@ -30,7 +40,9 @@ The Cult of the Cardio loves to preach that exercising in a range between 60% an
 -   High-Intensity Exercise activates hormone-sensitive lipase. Low Intensity doesn't. Lipase permits the mobilization of body fat.
 -   Cardio produces more oxidative free radicals and inflammation than High Intensity.
 
-_Body By Science_ goes into much greater detail. I highly recommend buying that book. You'll never step on a treadmill ever again and you'll be leaner for making that decision. When I embraced High Intensity in late 2010, my volume of exercise dropped. Because my intensity increased, the result was precisely what Dr. McGuff said in the videos above, I got leaner. In my [next post](/2012/04/maximizing-fat-loss-with-exercise/), I will conclude my thoughts on exercise and fat loss with an idea of where we should be directing our resources to maximize fat loss potential.
+_Body By Science_ goes into much greater detail. I highly recommend buying that book. You'll never step on a treadmill ever again and you'll be leaner for making that decision.
+
+When I embraced High Intensity in late 2010, my volume of exercise dropped. Because my intensity increased, the result was precisely what Dr. McGuff said in the videos above, I got leaner. In my [next post](/2012/04/maximizing-fat-loss-with-exercise/), I will conclude my thoughts on exercise and fat loss with an idea of where we should be directing our resources to maximize fat loss potential.
 
 ---
 

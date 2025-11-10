@@ -11,13 +11,31 @@ commentCount: 2
 
 Starbucks threw in the towel and announced that they will start offering free WiFi starting July 1st. From _Starbucks: Free Wi-fi at 6,700 U.S. sites_ by Ashley M. Heher:
 
-> Starbucks Corp. will begin offering unlimited free Wi-Fi at all of its company-operated U.S. locations next month, part of an ongoing effort to bring more customers in the door. The free wireless Internet will be available July 1 at about 6,700 locations.
+> Starbucks Corp. will begin offering unlimited free Wi-Fi at all of its company-operated U.S. locations next month, part of an ongoing effort to bring more customers in the door.
+> 
+> The free wireless Internet will be available July 1 at about 6,700 locations.
 
-![](http://farm3.static.flickr.com/2216/2104633476_924edea89c.jpg "like ducks in a row") _Photo [Like ducks in a row](http://www.flickr.com/photos/joelwashing/2104633476/) by Joel Washing_ My thoughts have not changed since the 2008 INeedCoffee article [Coffee Roundtable - Our Starbucks Idea](https://ineedcoffee.com/coffee-roundtable-our-starbucks-idea/) was published. Here was my advice.
+![](http://farm3.static.flickr.com/2216/2104633476_924edea89c.jpg "like ducks in a row")
+
+_Photo [Like ducks in a row](http://www.flickr.com/photos/joelwashing/2104633476/) by Joel Washing_
+
+My thoughts have not changed since the 2008 INeedCoffee article [Coffee Roundtable - Our Starbucks Idea](https://ineedcoffee.com/coffee-roundtable-our-starbucks-idea/) was published. Here was my advice.
 
 > Don't offer Free WiFi. Free attracts freeloaders. People arrive early, buy maybe one drink, and then camp out all day. Other customers quickly learn there are no places to sit among the sea of laptops and stop coming.
 
-How did I arrive at this opinion? Zoka Coffee. Zoka is one of the top roasters here in Seattle and up until recently they were infested with WiFi freeloaders. Each time I went there, every seat was taken. A room full of laptop users quietly clicking away next to mostly empty coffee cups. Very little conversation and the line was usually empty. **Zoka Tangletown was a laptop refugee camp.** Because of this and having the highest priced espresso in Seattle, I stopped going there. Then in May of this year, Zoka decided they had enough of the freeloaders and modified their WiFi policy. In the blog post _The Low Down on Zoka's New WiFi Policy_ they announced they would be restricting users to 2 hours with each purchase. Good for them. Even though I am not a Starbucks fan, I always respected how up until today they never caved into pressure for free WiFi. People chatted with each other in their cafes. Meetings took place there. First dates. That is about to end. Soon the freeloaders will descend into Starbucks with their laptops. They'll spread out their stuff, plug in their headphones and tune out their neighbors. _Sources:_ The Low Down on Zoka's New WiFi Policy - May 6, 2010 blog post. (post removed) Starbucks: Free Wi-fi at 6,700 U.S.sites - Detroit Free Press story by Ashley M. Heher of the Associated Press. (press release removed)
+How did I arrive at this opinion? Zoka Coffee.
+
+Zoka is one of the top roasters here in Seattle and up until recently they were infested with WiFi freeloaders. Each time I went there, every seat was taken. A room full of laptop users quietly clicking away next to mostly empty coffee cups. Very little conversation and the line was usually empty. **Zoka Tangletown was a laptop refugee camp.** Because of this and having the highest priced espresso in Seattle, I stopped going there.
+
+Then in May of this year, Zoka decided they had enough of the freeloaders and modified their WiFi policy. In the blog post _The Low Down on Zoka's New WiFi Policy_ they announced they would be restricting users to 2 hours with each purchase. Good for them.
+
+Even though I am not a Starbucks fan, I always respected how up until today they never caved into pressure for free WiFi. People chatted with each other in their cafes. Meetings took place there. First dates. That is about to end. Soon the freeloaders will descend into Starbucks with their laptops. They'll spread out their stuff, plug in their headphones and tune out their neighbors.
+
+_Sources:_
+
+The Low Down on Zoka's New WiFi Policy - May 6, 2010 blog post. (post removed)
+
+Starbucks: Free Wi-fi at 6,700 U.S.sites - Detroit Free Press story by Ashley M. Heher of the Associated Press. (press release removed)
 
 ---
 

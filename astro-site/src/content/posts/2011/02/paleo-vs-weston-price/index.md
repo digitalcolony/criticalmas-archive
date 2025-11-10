@@ -9,7 +9,13 @@ description: "In December, the site Latest in Paleo (then called This Week in Pa
 commentCount: 13
 ---
 
-In December, the site _Latest in Paleo_ (then called _This Week in Paleo_) awarded this blog the "Paleo Blog of the Week" _(episode 14)_. It was quite an honor to see this site on the same list as so many of my nutritional mentors. My journey toward the paleo diet started in 2008 and has undoubtedly improved my health. However, in mid-2009 I started down a parallel path in my understanding and application of nutrition. It was then that I learned about Dr. Weston A Price and his [research into diets used by traditional cultures](/2011/01/nutrition-and-physical-degeneration/). ![](./img/weston-price.jpg "Weston A Price") Paleo diets are excellent at removing the neolithic poisons of processed foods, vegetable oils, and sugar. By resetting your diet to just before the agricultural age, you should see a marked improvement in health. However, I think we can learn a lot from traditional cultures that aren't addressed with a strict paleo diet. Throwing out the knowledge gained between the end of the Paleolithic era and modernization is probably not a wise thing to do. Here are the areas of nutrition I feel the Weston A. Price (WAPF) (aka The Nourishing Traditions) group does a better job promoting than the paleo diet.
+In December, the site _Latest in Paleo_ (then called _This Week in Paleo_) awarded this blog the "Paleo Blog of the Week" _(episode 14)_. It was quite an honor to see this site on the same list as so many of my nutritional mentors.
+
+My journey toward the paleo diet started in 2008 and has undoubtedly improved my health. However, in mid-2009 I started down a parallel path in my understanding and application of nutrition. It was then that I learned about Dr. Weston A Price and his [research into diets used by traditional cultures](/2011/01/nutrition-and-physical-degeneration/).
+
+![](./img/weston-price.jpg "Weston A Price")
+
+Paleo diets are excellent at removing the neolithic poisons of processed foods, vegetable oils, and sugar. By resetting your diet to just before the agricultural age, you should see a marked improvement in health. However, I think we can learn a lot from traditional cultures that aren't addressed with a strict paleo diet. Throwing out the knowledge gained between the end of the Paleolithic era and modernization is probably not a wise thing to do. Here are the areas of nutrition I feel the Weston A. Price (WAPF) (aka The Nourishing Traditions) group does a better job promoting than the paleo diet.
 
 
 ### Organ Meats
@@ -37,7 +43,13 @@ The WAPF group is a huge proponent of making healthy bone broths_._ From their a
 
 > Stock contains minerals in a form the body can absorb easilynot just calcium but also magnesium, phosphorus, silicon, sulphur and trace minerals. It contains the broken down material from cartilage and tendons--stuff like chondroitin sulphates and glucosamine, now sold as expensive supplements for arthritis and joint pain.
 
-Not only do these broths taste much better than the pre-packaged ones, but you just [feel better](/2011/01/how-i-fought-off-a-potential-cold/) after having a stew with real broth. One area in which I side with the paleo crowd over the WAPF group is grains. Traditional cultures used soaking and sprouting techniques to disable the anti-nutrient properties of grains. Although wiser than modern society, which gleefully scarves down non-sprouted bread with each meal, I suspect that avoiding grains is still the best option. ![Nourishing Traditions: The Cookbook that Challenges Politically Correct Nutrition and the Diet Dictocrats](https://images-na.ssl-images-amazon.com/images/I/61c4vu1YjHL.jpg) _Nourishing Traditions: The Cookbook that Challenges Politically Correct Nutrition and the Diet Dictocrats by Sally Fallon_ I still think the paleo diet is an excellent foundation. However, I think we can learn a lot about food from traditional cultures. I'm not alone in the blogging community. Many other paleo and low-carb bloggers are discovering and embracing the nutritional philosophies of Weston A. Price. I see the paleo diet as primarily about food choices, whereas the Weston A Price group focuses on food preparation. I think they complement each other nicely.
+Not only do these broths taste much better than the pre-packaged ones, but you just [feel better](/2011/01/how-i-fought-off-a-potential-cold/) after having a stew with real broth.
+
+One area in which I side with the paleo crowd over the WAPF group is grains. Traditional cultures used soaking and sprouting techniques to disable the anti-nutrient properties of grains. Although wiser than modern society, which gleefully scarves down non-sprouted bread with each meal, I suspect that avoiding grains is still the best option.
+
+![Nourishing Traditions: The Cookbook that Challenges Politically Correct Nutrition and the Diet Dictocrats](https://images-na.ssl-images-amazon.com/images/I/61c4vu1YjHL.jpg) _Nourishing Traditions: The Cookbook that Challenges Politically Correct Nutrition and the Diet Dictocrats by Sally Fallon_
+
+I still think the paleo diet is an excellent foundation. However, I think we can learn a lot about food from traditional cultures. I'm not alone in the blogging community. Many other paleo and low-carb bloggers are discovering and embracing the nutritional philosophies of Weston A. Price. I see the paleo diet as primarily about food choices, whereas the Weston A Price group focuses on food preparation. I think they complement each other nicely.
 
 ---
 

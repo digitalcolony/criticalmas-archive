@@ -15,7 +15,15 @@ For years I have been [anti-gluten](/2010/08/life-without-gluten/). I removed it
 ### Remembering 2008
 
 
-2008 was the year I started making many health changes. After many years of eating a pesco-vegetarian diet composed of multiple meals throughout the day, I slowly began eating meat. I eased into experimenting with Intermittent Fasting and cold temperature exposure. No longer fat phobic, my overall carbohydrate consumption dropped. I stopped buying bread and only consumed grains away from home. With all these factors in play, I started leaning out. I also decided to visit a dermatologist to address my rosacea. She gave me creams and massive amounts of antibiotics. In the post [Be Your Own Dermatologist](/2011/04/be-your-own-dermatologist/), I go into how I got off the meds and determined it was wheat that caused my skin flare ups. I don't want to fall for [attribution bias](https://en.wikipedia.org/wiki/Attributional_bias) and state that all the wonderful health improvements I made in 2008-2009 were from removing grains. It could have been from following a more nutrient dense diet, lower carbs, IF, cold exposure or cooking more of my own meals. It was probably some combination. What I do recall is that my experience with wheat got worse after my visits to the skin doctor. Worse than before I made any dietary changes. By the end of 2009, I had enough experiences to recognize that when exposed to wheat I would get a headache that could last 12 to 24 hours. Sometimes I would get a stomach ache. So on January 8, 2010, I decided I'd have my last piece of bread. The date wasn't accidental. It was Elvis's birthday, so of course I had a fried peanut butter and banana sandwich. I haven't touched bread since. Since giving up the wheat, I have had accidental exposure a few times. The response was usually the same headache and/or stomach ache. In the past year though, I've noticed that small amounts of soy sauce or other food items with trace wheat don't bother me. This got me thinking.
+2008 was the year I started making many health changes. After many years of eating a pesco-vegetarian diet composed of multiple meals throughout the day, I slowly began eating meat. I eased into experimenting with Intermittent Fasting and cold temperature exposure. No longer fat phobic, my overall carbohydrate consumption dropped. I stopped buying bread and only consumed grains away from home.
+
+With all these factors in play, I started leaning out. I also decided to visit a dermatologist to address my rosacea. She gave me creams and massive amounts of antibiotics. In the post [Be Your Own Dermatologist](/2011/04/be-your-own-dermatologist/), I go into how I got off the meds and determined it was wheat that caused my skin flare ups.
+
+I don't want to fall for [attribution bias](https://en.wikipedia.org/wiki/Attributional_bias) and state that all the wonderful health improvements I made in 2008-2009 were from removing grains. It could have been from following a more nutrient dense diet, lower carbs, IF, cold exposure or cooking more of my own meals. It was probably some combination. What I do recall is that my experience with wheat got worse after my visits to the skin doctor. Worse than before I made any dietary changes.
+
+By the end of 2009, I had enough experiences to recognize that when exposed to wheat I would get a headache that could last 12 to 24 hours. Sometimes I would get a stomach ache. So on January 8, 2010, I decided I'd have my last piece of bread. The date wasn't accidental. It was Elvis's birthday, so of course I had a fried peanut butter and banana sandwich. I haven't touched bread since.
+
+Since giving up the wheat, I have had accidental exposure a few times. The response was usually the same headache and/or stomach ache. In the past year though, I've noticed that small amounts of soy sauce or other food items with trace wheat don't bother me. This got me thinking.
 
 
 ### Was it Gut Flora?
@@ -25,13 +33,21 @@ Why was I handling gluten exposure much better in 2013 than I did from 2010-2012
 
 > ...it’s possible that if we still had the Paleolithic microbiome intact, we could tolerate grains and all of these compounds with no problem. And perhaps that explains why some people are able to tolerate those foods with apparently no problems. But given that the microbiome has changed so significantly because of things like sanitation and hygiene and also increased use of antibiotics and decline in the consumption of fermented foods and fermentable substrates that lead to a better gut microbiome...
 
-In 2008, I began taking a lot of antibiotics to deal with rosacea. Is it possible that my gut flora was in a far worse state to digest gluten because of the meds? And starting in early 2010 I began making kimchi and sauerkraut, both [fermented foods](https://criticalmas.org/best-of/fermentation/) to support gut flora. However, I didn't get into [dairy kefir](/2013/03/making-dairy-kefir-is-super-easy/) on a regular basis until December 2012. Since that time, I haven't had a single incident where trace exposure has triggered ill effects. ![kimchi ](./img/kimchi600.jpg) _Kimchi_
+In 2008, I began taking a lot of antibiotics to deal with rosacea. Is it possible that my gut flora was in a far worse state to digest gluten because of the meds? And starting in early 2010 I began making kimchi and sauerkraut, both [fermented foods](https://criticalmas.org/best-of/fermentation/) to support gut flora. However, I didn't get into [dairy kefir](/2013/03/making-dairy-kefir-is-super-easy/) on a regular basis until December 2012. Since that time, I haven't had a single incident where trace exposure has triggered ill effects.
+
+![kimchi ](./img/kimchi600.jpg)
+
+_Kimchi_
 
 
 ### Bring on the Bread?
 
 
-I needed to do a test to support the theory that my gut flora was destroyed by antibiotics in 2008 and healed via fermented foods from 2010 to present. So last Saturday, I went to a microbrewery and drank a 4 oz ale. Beer makes more sense than bread, since beer is fermented and tastes better. :) This was the first beer I had since 2010. I had no issues. No headache, no stomach ache. I slept fine. Granted this is only one point of data, but a very encouraging one. I've read several accounts of individuals who have reversed their gluten insensitivity, so this idea isn't new. Although it is doubtful this will help Celiacs, being less sensitive to wheat is a step towards greater resilience. This post is getting long, so I'll explain in [Part 2](/2013/09/wrong-gluten-part-2/) why I do not have any plans to resume eating bread and what the new wave of gluten defenders have gotten wrong.
+I needed to do a test to support the theory that my gut flora was destroyed by antibiotics in 2008 and healed via fermented foods from 2010 to present. So last Saturday, I went to a microbrewery and drank a 4 oz ale. Beer makes more sense than bread, since beer is fermented and tastes better. :) This was the first beer I had since 2010. I had no issues. No headache, no stomach ache. I slept fine. Granted this is only one point of data, but a very encouraging one.
+
+I've read several accounts of individuals who have reversed their gluten insensitivity, so this idea isn't new. Although it is doubtful this will help Celiacs, being less sensitive to wheat is a step towards greater resilience.
+
+This post is getting long, so I'll explain in [Part 2](/2013/09/wrong-gluten-part-2/) why I do not have any plans to resume eating bread and what the new wave of gluten defenders have gotten wrong.
 
 ---
 

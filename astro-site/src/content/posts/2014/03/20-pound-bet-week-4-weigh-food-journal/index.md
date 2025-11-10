@@ -9,7 +9,11 @@ description: "For a background to this post see How I Plan to Lose 20 Pounds an
 commentCount: 5
 ---
 
-_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._ Week #4 Weigh-in: **\-1**. Total loss: **\-5.** Slow and steady appears to be how my body wants to drop the weight. The good news is I've already dropped over 1/2 inch on my widest point, which tells me I'm losing fat and not muscle.
+_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._
+
+Week #4 Weigh-in: **\-1**. Total loss: **\-5.**
+
+Slow and steady appears to be how my body wants to drop the weight. The good news is I've already dropped over 1/2 inch on my widest point, which tells me I'm losing fat and not muscle.
 
 
 ### Sunday March 16
@@ -107,7 +111,15 @@ _For a background to this post see [How I Plan to Lose 20 Pounds and Win the Be
 -   cheddar (2 oz)
 -   apple
 
-![vietnamese-menu](./img/vietnamese-menu.jpg) ![HuTieuThapCam](./img/HuTieuThapCam.jpg) _H3 -  Hu Tieu Thap Cam_ If you want to know why I personally object to counting calories look at the photo above and tell me how many calories it is. This is how I eat. I am a food explorer. This year I have really been into Vietnamese food and I'm always trying new dishes at different restaurants in Seattle's Little Saigon. If I ate boxes of Lean Cuisine®, I wouldn't have an excuse for not counting calories, but I don't. Notes:
+![vietnamese-menu](./img/vietnamese-menu.jpg)
+
+![HuTieuThapCam](./img/HuTieuThapCam.jpg)
+
+_H3 -  Hu Tieu Thap Cam_
+
+If you want to know why I personally object to counting calories look at the photo above and tell me how many calories it is. This is how I eat. I am a food explorer. This year I have really been into Vietnamese food and I'm always trying new dishes at different restaurants in Seattle's Little Saigon. If I ate boxes of Lean Cuisine®, I wouldn't have an excuse for not counting calories, but I don't.
+
+Notes:
 
 1.  After reviewing my food journal I realized that carrots are a great food for reducing appetite.
 2.  On Saturday I swapped out the Extra Virgin Olive Oil for fish sauce in my tuna. Did I mention I like the flavors of Vietnamese cooking? I'll probably add crushed thai peppers and garlic soon.

@@ -9,17 +9,27 @@ description: "Occasionally I serve up a post on my investing successes. Now let 
 commentCount: 6
 ---
 
-Occasionally I serve up a post on my investing successes. Now let me tell you about the worst trade I ever made and the lessons I learned. On January 3, 2008, on the post [My Drudge Report Oil Short Investment Tip](/2008/01/my-drudge-report-oil-short-investment-tip/), I wrote:
+Occasionally I serve up a post on my investing successes. Now let me tell you about the worst trade I ever made and the lessons I learned.
 
-> Ive noticed over the past few years that whenever a barrel of oil hits a new price threshold that the DrudgeReport will put out a big red banner or siren announcing it. And then something happens almost without fail in the following two weeks. The price drops. After seeing this pattern play out over and over, I decided to make some money on it. The last three times I saw the oil headline on Drudge, I bought shares of DCR. DCR MACROSHARES OIL DOWN is an ETF that makes money as oil falls in price. I set a goal of 5-10% gains with a 2 week holding limit. As soon at it hits, I sell the shares. I try to avoid buying on a Friday as bad things that can spike oil often happen over the weekend.
+On January 3, 2008, on the post [My Drudge Report Oil Short Investment Tip](/2008/01/my-drudge-report-oil-short-investment-tip/), I wrote:
 
-Last December as oil was going higher and higher, I went on record saying the [price would collapse](/2008/11/oil-hits-55/) by the end of the year. Deflation smacks commodities the hardest. What I never saw coming was the spike toward $150 a barrel. And the people at Macroshares never saw it either. Their leveraged ETF was not designed to handle spikes that high and the ETF stopped trading as the price approached $0.00. ![bad trade](./img/bad-trade-300x240.jpg "Bad Trade") What did I do wrong?
+> Ive noticed over the past few years that whenever a barrel of oil hits a new price threshold that the DrudgeReport will put out a big red banner or siren announcing it. And then something happens almost without fail in the following two weeks. The price drops.
+> 
+> After seeing this pattern play out over and over, I decided to make some money on it. The last three times I saw the oil headline on Drudge, I bought shares of DCR. DCR MACROSHARES OIL DOWN is an ETF that makes money as oil falls in price. I set a goal of 5-10% gains with a 2 week holding limit. As soon at it hits, I sell the shares. I try to avoid buying on a Friday as bad things that can spike oil often happen over the weekend.
+
+Last December as oil was going higher and higher, I went on record saying the [price would collapse](/2008/11/oil-hits-55/) by the end of the year. Deflation smacks commodities the hardest. What I never saw coming was the spike toward $150 a barrel. And the people at Macroshares never saw it either. Their leveraged ETF was not designed to handle spikes that high and the ETF stopped trading as the price approached $0.00.
+
+![bad trade](./img/bad-trade-300x240.jpg "Bad Trade")
+
+What did I do wrong?
 
 1.  Going into the close on a FRIDAY, I already had a 10% gain. My own rules which I spelled out back in January, stated to close out the position after a 5-10% gain. It also warned of holding this ETF over the weekend as _**bad things that can spike oil often happen over the weekend.**_
 2.  Over the weekend, bad things did happen to the price of oil and my $1500 gain quickly turned into a few thousand dollar loss. Instead of taking my lumps, I decided to hold the position. My swing trade became a long term investment just as oil was spiking. I was get hammered and I held.
 3.  There was trouble over at MACROSHARES. I was too busy watching the price of oil. I had blind trust in the ETF. A press release was put out stating the ETF was going to close. I read it 3 weeks after it came out.
 
-So I ended up selling for a $9,000 loss. Had I held until the ETF closed shop, I would have lost $16,000. Now that oil is falling like rock, it is a little ironic knowing that had MACROSHARES not bungled the ETF and had I slipped into a coma and woke up today, my investment would be up over $50 grand. What are the lessons I learned?
+So I ended up selling for a $9,000 loss. Had I held until the ETF closed shop, I would have lost $16,000. Now that oil is falling like rock, it is a little ironic knowing that had MACROSHARES not bungled the ETF and had I slipped into a coma and woke up today, my investment would be up over $50 grand.
+
+What are the lessons I learned?
 
 1.  Don't get greedy in the heat of battle. Emotion will try to overrule logic when the gains and losses are high or come on suddenly.
 2.  Avoid holding leveraged ETFs over the weekend, especially if you already have a gain that you can easily lock in.

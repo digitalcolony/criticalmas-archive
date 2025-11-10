@@ -9,7 +9,11 @@ description: "It has been 3 years since the last edition of this post series. I 
 commentCount: 7
 ---
 
-It has been 3 years since the [last edition](/2017/01/eat-dont-eat-2017-edition/) of this post series. I started this post in June 2019, but I was changing things up, so I delayed. Then I made more and more changes. I feel I'm settled for now. There were three big changes to my diet:
+It has been 3 years since the [last edition](/2017/01/eat-dont-eat-2017-edition/) of this post series.
+
+I started this post in June 2019, but I was changing things up, so I delayed. Then I made more and more changes. I feel I'm settled for now.
+
+There were three big changes to my diet:
 
 1.  The movement towards lower fat, higher protein, and higher carbs.
 2.  Back to being strict Gluten Free. I didn't want to go here, but my hand was forced. See the post [Gluten / Wheat – Just When I Thought I Was Out…](/2019/09/gluten-wheat-just-when-i-thought-i-was-out/) for details.
@@ -19,7 +23,15 @@ It has been 3 years since the [last edition](/2017/01/eat-dont-eat-2017-edition/
 ### 90% Pesco-Vegan (almost)
 
 
-Some of you may recall I was a pesco-vegetarian for many years. See the timeline [here](/2008/07/im-not-a-vegetarian/). I did pretty well. I was healthy. I gained some muscle. In hindsight, I can now see I probably carried an extra 10-15 pounds I didn't need. Like many vegetarians, I consumed a lot of calories in the form of dairy. Now I have no issue with dairy. 23andMe says I am 99.8% European. But last year I listened to the vegans' argument against dairy. Two points they made were that dairy was inflammatory and that it was full of estrogen. Now, I don't know if either is true. But, I'll try anything if it helps speed up my recovery times between workouts. Even if it means ditching the ice cream and cheese. What happened? Two things. First, I did notice a gradual improvement in recovery times. Second, I lost weight. I went from a stable 192-194 to 185-187. _(height = 6'2.5)_ The last time I was this lean, I felt I looked too thin. I covered this in the post [You Look Too Thin](/2020/01/you-look-too-thin/). Part of that was being tired and wearing baggy clothes. But a small part might be my skin looked better. I did get a few compliments on my complexion. Many people report better skin after dropping dairy. I also dropped a lot of meat. Part of the reason was I no longer felt confident that my Paleo mentors were right about saturated fat. See the post [Saturated Fat Revisited](/2019/12/saturated-fat-revisited/) for details. I have another reason, which I will explore in a future post after I've done more research. Maybe once a month, I'll eat lamb. I'll likely have turkey a few times a year. If I get a chance to have an ostrich or buffalo burger, I'll take it.
+Some of you may recall I was a pesco-vegetarian for many years. See the timeline [here](/2008/07/im-not-a-vegetarian/). I did pretty well. I was healthy. I gained some muscle. In hindsight, I can now see I probably carried an extra 10-15 pounds I didn't need. Like many vegetarians, I consumed a lot of calories in the form of dairy.
+
+Now I have no issue with dairy. 23andMe says I am 99.8% European. But last year I listened to the vegans' argument against dairy. Two points they made were that dairy was inflammatory and that it was full of estrogen. Now, I don't know if either is true. But, I'll try anything if it helps speed up my recovery times between workouts. Even if it means ditching the ice cream and cheese.
+
+What happened? Two things. First, I did notice a gradual improvement in recovery times. Second, I lost weight. I went from a stable 192-194 to 185-187. _(height = 6'2.5)_ The last time I was this lean, I felt I looked too thin. I covered this in the post [You Look Too Thin](/2020/01/you-look-too-thin/). Part of that was being tired and wearing baggy clothes. But a small part might be my skin looked better. I did get a few compliments on my complexion. Many people report better skin after dropping dairy.
+
+I also dropped a lot of meat. Part of the reason was I no longer felt confident that my Paleo mentors were right about saturated fat. See the post [Saturated Fat Revisited](/2019/12/saturated-fat-revisited/) for details. I have another reason, which I will explore in a future post after I've done more research.
+
+Maybe once a month, I'll eat lamb. I'll likely have turkey a few times a year. If I get a chance to have an ostrich or buffalo burger, I'll take it.
 
 
 ### My Avoid List
@@ -56,7 +68,13 @@ Although all healthy food is fair game, here are my current staples.
 ### After The Peasant Diet
 
 
-I touched on this before, but I used the [Peasant Diet](/2017/09/used-peasant-diet-lean/) to lean out. And then I used the Peasant Diet to maintain the weight loss for more than a year. After that, I started embracing higher quality and more diverse foods. It was my reward for the struggle. A Peasant works toward a better future. I made it there. I don't limit my calories with the food choices listed above. I don't need to. Once you get rid of the calorie-dense foods, keeping lean is easy. ![](./img/potatoes.jpg) _[Potatoes](https://flic.kr/p/fq91Fo)_
+I touched on this before, but I used the [Peasant Diet](/2017/09/used-peasant-diet-lean/) to lean out. And then I used the Peasant Diet to maintain the weight loss for more than a year. After that, I started embracing higher quality and more diverse foods. It was my reward for the struggle. A Peasant works toward a better future. I made it there.
+
+I don't limit my calories with the food choices listed above. I don't need to. Once you get rid of the calorie-dense foods, keeping lean is easy.
+
+![](./img/potatoes.jpg)
+
+_[Potatoes](https://flic.kr/p/fq91Fo)_
 
 ---
 

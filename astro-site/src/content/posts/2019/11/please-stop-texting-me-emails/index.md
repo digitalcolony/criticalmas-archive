@@ -9,12 +9,22 @@ description: "I wrote most of this post over a year ago. It is not directed at a
 commentCount: 2
 ---
 
-I wrote most of this post over a year ago. It is not directed at any one person, but a general trend I am seeing. People, especially Millenials and Gen Z, are using text messages and message apps for all communication, even things that are much better suited for email. If you ask me a question via a text that requires 3 or more sentences or any level of research, I have a choice to make. I can either:
+I wrote most of this post over a year ago. It is not directed at any one person, but a general trend I am seeing. People, especially Millenials and Gen Z, are using text messages and message apps for all communication, even things that are much better suited for email.
+
+If you ask me a question via a text that requires 3 or more sentences or any level of research, I have a choice to make. I can either:
 
 1.  Use my fat fingers to construct a detailed message response that would take forever, because I don't have a real keyboard on hand.
 2.  Respond with "don't know" or 🤷‍♂️.
 
-Path number one will take several minutes while I curse at the autocorrect and all the typos I am making. Path number two takes seconds. Guess which path I have been taking for a few years now? The stress-free path. I often ask if they can email me their request, but after a few times of ignorning this request and texting their (better-suited-for-email) questions, I just respond with 🤷‍♂️. I like to help my friends. I respond with clarity to every email. My inbox is always close to zero. **Email is the greatest messaging app ever.** I can send short or long messages. Attach files. It works on every operating system. Email also has the best search and archiving features. So if you need a clear detailed answer from me, send an email, otherwise 🤷‍♂️. ![email](./img/15197804185_d4a1f3d9b3_z.jpg)
+Path number one will take several minutes while I curse at the autocorrect and all the typos I am making. Path number two takes seconds. Guess which path I have been taking for a few years now? The stress-free path.
+
+I often ask if they can email me their request, but after a few times of ignorning this request and texting their (better-suited-for-email) questions, I just respond with 🤷‍♂️.
+
+I like to help my friends. I respond with clarity to every email. My inbox is always close to zero. **Email is the greatest messaging app ever.** I can send short or long messages. Attach files. It works on every operating system. Email also has the best search and archiving features.
+
+So if you need a clear detailed answer from me, send an email, otherwise 🤷‍♂️.
+
+![email](./img/15197804185_d4a1f3d9b3_z.jpg)
 
 ---
 

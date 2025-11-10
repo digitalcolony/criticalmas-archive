@@ -9,20 +9,34 @@ description: "For a background to this post see How I Plan to Lose 20 Pounds an
 commentCount: 11
 ---
 
-_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._ Week #10 Weigh-In: +2. Total Loss: \-8. Not a good week. A step backwards. A few things went wrong.
+_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._
+
+Week #10 Weigh-In: +2. Total Loss: \-8.
+
+Not a good week. A step backwards. A few things went wrong.
 
 1.  My average daily fasting window dropped from 14.85 hours to 13.29 hours.
 2.  My knee was giving me fits, so I did no cycling and the time I spent at the gym was unfocused.
 3.  I ate too much cheese.
 4.  It has been a long time since I've had back pain, but this week I did, which kept me even less mobile.
 
-Why did I get back pain? Last weekend was the big coffee event of the year. SCAA came to Seattle and I went for 3 days. Now on a normal day I might have 4 coffees. During the 3 day coffee event, I easily was consuming 10+ a day. Espresso shot after espresso shot. I had opportunities to try espressos that I had either never heard of or only read about. I had to take advantage of it, much like a beer drinker would go a little nuts if they attended Oktoberfest. Anyway, by the end of the 3rd day I noticed my lower back was feeling sore. At first I though it was from standing and walking the floor for 3 days. And it could very well have been that, but then I recalled a post I put together in 2012 about the connection between excess coffee and lower back pain. See [Sarno, Back Pain and Coffee?](/2012/11/sarno-back-pain-and-coffee/) if that topic is of interest. A few days after the event, my coffee was back to "normal" and my back felt better.
+Why did I get back pain? Last weekend was the big coffee event of the year. SCAA came to Seattle and I went for 3 days. Now on a normal day I might have 4 coffees. During the 3 day coffee event, I easily was consuming 10+ a day. Espresso shot after espresso shot. I had opportunities to try espressos that I had either never heard of or only read about. I had to take advantage of it, much like a beer drinker would go a little nuts if they attended Oktoberfest.
+
+Anyway, by the end of the 3rd day I noticed my lower back was feeling sore. At first I though it was from standing and walking the floor for 3 days. And it could very well have been that, but then I recalled a post I put together in 2012 about the connection between excess coffee and lower back pain. See [Sarno, Back Pain and Coffee?](/2012/11/sarno-back-pain-and-coffee/) if that topic is of interest. A few days after the event, my coffee was back to "normal" and my back felt better.
 
 
 ### Pulling Out the Big Gun
 
 
-I didn't want to have to do this, but I've decided to stop eating cheese. It is too palatable. I over consume it. In 2011, I went a month without dairy, but at that time I consumed lots of almonds to curb hunger. That won't be an option this time, as I [quit eating nuts](/2014/01/gettin-hot-metabolism/) in June 2013. This will be the first time ever that I won't be consuming nuts or cheese. ![cheese](./img/3701088856_81164d0933_z.jpg) _[Photo](https://www.flickr.com/photos/jdhancock/3701088856/) by JD Hancock._ Notes:
+I didn't want to have to do this, but I've decided to stop eating cheese. It is too palatable. I over consume it. In 2011, I went a month without dairy, but at that time I consumed lots of almonds to curb hunger. That won't be an option this time, as I [quit eating nuts](/2014/01/gettin-hot-metabolism/) in June 2013.
+
+This will be the first time ever that I won't be consuming nuts or cheese.
+
+![cheese](./img/3701088856_81164d0933_z.jpg)
+
+_[Photo](https://www.flickr.com/photos/jdhancock/3701088856/) by JD Hancock._
+
+Notes:
 
 1.  I am still tied for the lead in the bet with Competitor #3. Competitor #4 is still MIA.
 2.  My goal is to hit a 15 hour average daily fasting window for week #11.

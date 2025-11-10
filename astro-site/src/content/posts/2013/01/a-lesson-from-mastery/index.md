@@ -9,13 +9,25 @@ description: "After reading the latest book by Robert Greene, a small part spoke
 commentCount: 5
 ---
 
-After reading the latest book by Robert Greene, a small part spoke to me as the most important lesson that I can personally put into effect immediately. ![Mastery](https://images-na.ssl-images-amazon.com/images/I/41osOwLD1TL.jpg) _Mastery by Robert Greene_ Before I go into that lesson, I want to say that I enjoyed this book. There was nothing I would consider to be groundbreaking information, but the history lessons were educational and entertaining. I preferred his early books such as _The 48 Laws of Power_, [_The 50th Law_](/2009/12/the-50-law/), and _Art of Seduction_ more than this book. I felt his earlier works did a better job pulling out the philosophical gems from the historical research. The lesson I found interesting was a mention about how important it is to use our hands when learning a new skill. Learning by hand had long pre-dated language. Humans have evolved to be excellent at learning when their hands are engaged. However, the modern world is becoming increasingly hands-free. Today we push pixels with our computers and mobile devices. We are becoming more and more disconnected from using our hands in dexterous movements. By getting our hands involved with learning as if we were still craftsmen, we could become more efficient and creative learners, which will help us on our paths to _Mastery_. How can we re-engage our hands if all our work is digital? Some tech friends of mine have become skilled at drawing. Here are some examples.
+After reading the latest book by Robert Greene, a small part spoke to me as the most important lesson that I can personally put into effect immediately.
+
+![Mastery](https://images-na.ssl-images-amazon.com/images/I/41osOwLD1TL.jpg) _Mastery by Robert Greene_
+
+Before I go into that lesson, I want to say that I enjoyed this book. There was nothing I would consider to be groundbreaking information, but the history lessons were educational and entertaining. I preferred his early books such as _The 48 Laws of Power_, [_The 50th Law_](/2009/12/the-50-law/), and _Art of Seduction_ more than this book. I felt his earlier works did a better job pulling out the philosophical gems from the historical research.
+
+The lesson I found interesting was a mention about how important it is to use our hands when learning a new skill. Learning by hand had long pre-dated language. Humans have evolved to be excellent at learning when their hands are engaged. However, the modern world is becoming increasingly hands-free. Today we push pixels with our computers and mobile devices. We are becoming more and more disconnected from using our hands in dexterous movements. By getting our hands involved with learning as if we were still craftsmen, we could become more efficient and creative learners, which will help us on our paths to _Mastery_.
+
+How can we re-engage our hands if all our work is digital? Some tech friends of mine have become skilled at drawing. Here are some examples.
 
 -   Joe Crawford, who is an excellent programmer, continues to create [very good sketches](http://artlung.com/blog/2012/09/20/7-recent-drawings/).
 -   _INeedCoffee_ contributor Paul Muller of _Caffination_ has also created better sketches over the past few years.
 -   Another _INeedCoffee_ contributor Mike Rohde started sketching images during office meetings and got so into it that he shared what he learned in a recently published book titled _The Sketchnote Handbook_.
 
-![The Sketchnote Handbook Video Edition: the illustrated guide to visual note taking (includes The Sketchnote Handbook book and access to The Sketchnote Handbook Video)](https://images-na.ssl-images-amazon.com/images/I/51rV3E8scQL.jpg) _The Sketchnote Handbook by Mike Rohde_ I haven't been drawing, although those three examples are quite inspiring. My hands-on skill for the past few years has been learning how to cook and make [ferments](https://criticalmas.org/best-of/fermentation/). Today when I make kimchi, my hands move as effortlessly as when I'm driving a stick shift. Although it may appear complicated to the observer and especially when you read the steps involved, it does seem as if the hands have an intelligence of their own. The more times you repeat the action, the _smarter_ the hands get. Thinking about ways we can engage our hands in learning is the important lesson I got from _Mastery_. What methods of active hands learning are you currently doing?
+![The Sketchnote Handbook Video Edition: the illustrated guide to visual note taking (includes The Sketchnote Handbook book and access to The Sketchnote Handbook Video)](https://images-na.ssl-images-amazon.com/images/I/51rV3E8scQL.jpg) _The Sketchnote Handbook by Mike Rohde_
+
+I haven't been drawing, although those three examples are quite inspiring. My hands-on skill for the past few years has been learning how to cook and make [ferments](https://criticalmas.org/best-of/fermentation/). Today when I make kimchi, my hands move as effortlessly as when I'm driving a stick shift. Although it may appear complicated to the observer and especially when you read the steps involved, it does seem as if the hands have an intelligence of their own. The more times you repeat the action, the _smarter_ the hands get.
+
+Thinking about ways we can engage our hands in learning is the important lesson I got from _Mastery_. What methods of active hands learning are you currently doing?
 
 ---
 

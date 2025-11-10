@@ -21,25 +21,39 @@ During this period I never went dairy free and I didn't increase my exercise. Un
 ### Was it Carbohydrate Restriction?
 
 
-My early interpretation of the Paleo diet was low carb. I consumed no grains, no rice and minimal amounts of starchy vegetables. I would have an occasional sugar treat such as dark chocolate or ice cream. Since I exercise minimally, I never experienced any problems that seem to be more common with many in the Paleo community that exercise, in my opinion, _excessively_. Then in 2010, I started a year of [eating seasonally](/2011/07/concluding-seasonal-strategies-for-fitness-and-nutrition/). I wanted to see the effects of eating more carbohydrates in the summer and less in the winter. Since I had already leaned out, I was also interested to see how my body would respond to the reintroduction of higher carbohydrate levels. This is when I added back rice and more starchy vegetables. Unlike my fellow _CrossFitting MMA Parkour P90X Extreme More-Is-Better_ Paleo comrades, outside of walking I exercise typically [less than 30 minutes a week](/2011/08/the-paleohit-cyclical-approach-to-fitness-and-nutrition/). Would the bringing back the [safe starches](http://perfecthealthdiet.com/?page_id=8) (sweet potatoes, yams, white rice) I removed cause a change in my health or body composition? I ended the year of eating seasonally in the summer of 2011 and my health didn't change. My skin, digestion, sleep and body composition were the same as when I followed a more strict low carb approach to Paleo. So I continued eating the safe starches and have now on a regular basis throughout the past year. ![](https://farm8.staticflickr.com/7156/6729750011_f5c4b83693.jpg "yams") _[Photo](http://www.flickr.com/photos/cogdog/6729750011/in/photostream/) by Alan Levine_
+My early interpretation of the Paleo diet was low carb. I consumed no grains, no rice and minimal amounts of starchy vegetables. I would have an occasional sugar treat such as dark chocolate or ice cream. Since I exercise minimally, I never experienced any problems that seem to be more common with many in the Paleo community that exercise, in my opinion, _excessively_.
+
+Then in 2010, I started a year of [eating seasonally](/2011/07/concluding-seasonal-strategies-for-fitness-and-nutrition/). I wanted to see the effects of eating more carbohydrates in the summer and less in the winter. Since I had already leaned out, I was also interested to see how my body would respond to the reintroduction of higher carbohydrate levels. This is when I added back rice and more starchy vegetables. Unlike my fellow _CrossFitting MMA Parkour P90X Extreme More-Is-Better_ Paleo comrades, outside of walking I exercise typically [less than 30 minutes a week](/2011/08/the-paleohit-cyclical-approach-to-fitness-and-nutrition/). Would the bringing back the [safe starches](http://perfecthealthdiet.com/?page_id=8) (sweet potatoes, yams, white rice) I removed cause a change in my health or body composition?
+
+I ended the year of eating seasonally in the summer of 2011 and my health didn't change. My skin, digestion, sleep and body composition were the same as when I followed a more strict low carb approach to Paleo. So I continued eating the safe starches and have now on a regular basis throughout the past year.
+
+![](https://farm8.staticflickr.com/7156/6729750011_f5c4b83693.jpg "yams")
+
+_[Photo](http://www.flickr.com/photos/cogdog/6729750011/in/photostream/) by Alan Levine_
 
 
 ### Was it the Cold Temperature Exposure?
 
 
-The topic of cold temperature exposure is getting popular again. It is now being called CT or Cold Thermogenesis. Jack Kruse and Richard Nikoley (_FreeTheAnimal_) are all over this topic. From 2008 until the start of this year, I engaged in some form of [cold temperature exposure](https://criticalmas.org/best-of/cold-weather-training/) near daily. My exposure was tame compared to what Dr. Kruse and Richard are doing. Even though I can't prove it, I feel that cold temperature exposure helped me lose fat up to a point. Once I dropped 3 inches off my waist and had leaned out, it didn't help me get [Level 3 Lean](/2010/12/moving-up-the-leanness-levels/). From January 2012 until April 2012, I stopped all cold weather exposure to see what would happen. Stopping the cold exposure did not change body composition.
+The topic of cold temperature exposure is getting popular again. It is now being called CT or Cold Thermogenesis. Jack Kruse and Richard Nikoley (_FreeTheAnimal_) are all over this topic. From 2008 until the start of this year, I engaged in some form of [cold temperature exposure](https://criticalmas.org/best-of/cold-weather-training/) near daily. My exposure was tame compared to what Dr. Kruse and Richard are doing.
+
+Even though I can't prove it, I feel that cold temperature exposure helped me lose fat up to a point. Once I dropped 3 inches off my waist and had leaned out, it didn't help me get [Level 3 Lean](/2010/12/moving-up-the-leanness-levels/). From January 2012 until April 2012, I stopped all cold weather exposure to see what would happen. Stopping the cold exposure did not change body composition.
 
 
 ### Was it Intermittent Fasting?
 
 
-I've written extensively on my experiences with [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/). I am a huge fan. I'm no longer a slave to hunger. I'm never in a position where I need to eat unhealthy food because I can always delay eating until a healthy option is available. That might be 2 hours or 20 hours. Intermittent Fasting builds resilience. One thing I've learned from my IF experiments is that when the body starts to feel cold, you are either fasting too much or not eating enough when you break the fast. For the past year, I've been listening to my body and dialing back the amount of fasting I'm doing. My typical fast is closer to 14 hours than the longer 16 to 22 hour ones I did in the early years. Reducing my fasting has not changed my body composition.
+I've written extensively on my experiences with [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/). I am a huge fan. I'm no longer a slave to hunger. I'm never in a position where I need to eat unhealthy food because I can always delay eating until a healthy option is available. That might be 2 hours or 20 hours. Intermittent Fasting builds resilience.
+
+One thing I've learned from my IF experiments is that when the body starts to feel cold, you are either fasting too much or not eating enough when you break the fast. For the past year, I've been listening to my body and dialing back the amount of fasting I'm doing. My typical fast is closer to 14 hours than the longer 16 to 22 hour ones I did in the early years. Reducing my fasting has not changed my body composition.
 
 
 ### Loosening the Paleo Collar
 
 
-The steps I took with the Paleo diet are not the ones I am using to maintain my gains. I'm no longer low carb. I'm lower than most Americans though. I still avoid gluten, most soy (fermented is OK), most legumes (sprouted is OK), and seed oils. I've added back some cold showers for post-workout recovery. I still fast, but the fasts are shorter. I believe the benefits I got from Paleo mostly occurred in the first two years. I don't believe following a stricter interpretation of Paleo would yield greater results. Now I am more interested in pushing the boundaries back in a controlled manner. That will be the topic of my [next post](/2012/05/healthy-vs-resilient/).
+The steps I took with the Paleo diet are not the ones I am using to maintain my gains. I'm no longer low carb. I'm lower than most Americans though. I still avoid gluten, most soy (fermented is OK), most legumes (sprouted is OK), and seed oils. I've added back some cold showers for post-workout recovery. I still fast, but the fasts are shorter.
+
+I believe the benefits I got from Paleo mostly occurred in the first two years. I don't believe following a stricter interpretation of Paleo would yield greater results. Now I am more interested in pushing the boundaries back in a controlled manner. That will be the topic of my [next post](/2012/05/healthy-vs-resilient/).
 
 ---
 

@@ -15,7 +15,9 @@ I want to thank [Mike D](https://mikeindustries.com/blog/) and The TailGunner fo
 
 The Washington Post article Studies Find A Way Adult Bodies May Fight Obesity had a brilliant summary quote. (AUG 2024: article offline)
 
-> The latest findings highlight once again the extent to which obesity is a consequence of _Homo sapiens_ carrying into an era of abundance, leisure, and warmth the physiology that evolved in a world marked by barely enough food, constant physical activity and dangerous cold. "We are living in a very comfortable time," said Wouter D. van Marken Lichtenbelt, a physiologist at Maastricht University who led the Dutch study. "But we did not evolve in such a time."
+> The latest findings highlight once again the extent to which obesity is a consequence of _Homo sapiens_ carrying into an era of abundance, leisure, and warmth the physiology that evolved in a world marked by barely enough food, constant physical activity and dangerous cold.
+> 
+> "We are living in a very comfortable time," said Wouter D. van Marken Lichtenbelt, a physiologist at Maastricht University who led the Dutch study. "But we did not evolve in such a time."
 
 That is pretty much what I said in the post [Maybe I Think Too Much But Some Thing's Wrong](/2009/01/maybe-i-think-too-much-but-some-things-wrong/).
 
@@ -29,7 +31,11 @@ Now that the media has discovered Brown Fat, who will join me on the project _No
 
 > I still think anyone can benefit from some cold weather exposure. It doesnt need to be as extreme as what I did. Stay out in the cold longer and wear fewer layers. Youll get used to it. Youll be fine.
 
-You may even lean out. I did. ![brown-adipose-tissue](./img/brown-adipose-tissue.jpg) _[Photo](https://flic.kr/p/aq4JBh) by Arne Hendriks. Shaded areas represent brown fat locations._
+You may even lean out. I did.
+
+![brown-adipose-tissue](./img/brown-adipose-tissue.jpg)
+
+_[Photo](https://flic.kr/p/aq4JBh) by Arne Hendriks. Shaded areas represent brown fat locations._
 
 ---
 

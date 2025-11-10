@@ -9,7 +9,9 @@ description: "This book was on my queue to read for quite a while. !The Wisdom o
 commentCount: 3
 ---
 
-This book was on my queue to read for quite a while. ![The Wisdom of Crowds](https://images-na.ssl-images-amazon.com/images/I/51YSE0YH9CL._SL500_.jpg) _The Wisdom of Crowds by James Surowiecki_ was both interesting and a bit long-winded. Some chapters were entertaining to me and others put me to sleep. Let me summarize the book in a single sentence.
+This book was on my queue to read for quite a while.
+
+![The Wisdom of Crowds](https://images-na.ssl-images-amazon.com/images/I/51YSE0YH9CL._SL500_.jpg) _The Wisdom of Crowds by James Surowiecki_ was both interesting and a bit long-winded. Some chapters were entertaining to me and others put me to sleep. Let me summarize the book in a single sentence.
 
 > Crowds will arrive at a better answer than individuals if they gather their information independently.
 

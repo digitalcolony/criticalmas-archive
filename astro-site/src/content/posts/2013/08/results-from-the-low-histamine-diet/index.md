@@ -9,7 +9,25 @@ description: "Thanks to Pauline for bringing to my attention that I never shared
 commentCount: 1
 ---
 
-Thanks to Pauline for bringing to my attention that I never shared the results of my low histamine diet from May 2012. The [Low Histamine Diet](/2012/05/the-low-histamine-diet/) was an experiment to see if histamine was playing a role in my late night headaches. The short answer is that dropping from a high level of histamines to almost none had zero impact. \[table id=30 /\] As you can see from the table, the Low Histamine Diet had no effect. May 2013 was included to measure any seasonal differences. The good news for me is that my kimchi and kefir have no correlation to my headaches. The bad news is that coffee is likely the remaining cause, although it isn't nearly as strong of a trigger as gluten or alcohol. ![kimchi ](./img/kimchi600.jpg) _kimchi_ In Episode #49 of the Bulletproof Exec, Dave Asprey mentioned this blog (46:33) and my fermentation hobby. His theory is that the reason I can eat fermented veggies daily is because my liver produces high levels of diamine oxidase (DAO). He further theorizes that most people have low or average levels and this makes consuming ferments problematic. Then he goes off into his toxic planet thesis, which I addressed in the post [4 Reasons Not to Ferment Veggies](/2013/08/reasons-not-to-ferment-veggies/). I'm not a [PubMed Warrior](/2012/11/not-a-pubmed-warrior/), but I have trouble with his logic. Cultures have been fermenting foods for thousands of years. Long before refrigeration, our ancestors figured out how to preserve foods via fermentation. We are the descendants of those people. Although it is understandable that some people would have histamine intolerances, those should the exceptions. Perhaps everyone is looking at histamine the wrong way? Can our bodies adapt and become more efficient at removing histamine with repeated exposure? I can't but help to think of lactic acid build up from certain type of exercise, such as negative (eccentric) lifting to failure. The first time you do it, you feel like hell. Then after a few workouts, the body adapts and you feel much better, much faster. I do think it is wise to take a break from foods high in histamine from time to time. Fermented veggies make sense during periods outside harvest. The rest of the year, seek out fresh veggies. In other words, [hedge](/2013/04/approaching-nutrition-from-an-investors-mindset/) the benefits and the risks of both. Assume incomplete knowledge.
+Thanks to Pauline for bringing to my attention that I never shared the results of my low histamine diet from May 2012. The [Low Histamine Diet](/2012/05/the-low-histamine-diet/) was an experiment to see if histamine was playing a role in my late night headaches.
+
+The short answer is that dropping from a high level of histamines to almost none had zero impact.
+
+\[table id=30 /\]
+
+As you can see from the table, the Low Histamine Diet had no effect. May 2013 was included to measure any seasonal differences. The good news for me is that my kimchi and kefir have no correlation to my headaches. The bad news is that coffee is likely the remaining cause, although it isn't nearly as strong of a trigger as gluten or alcohol.
+
+![kimchi ](./img/kimchi600.jpg)
+
+_kimchi_
+
+In Episode #49 of the Bulletproof Exec, Dave Asprey mentioned this blog (46:33) and my fermentation hobby. His theory is that the reason I can eat fermented veggies daily is because my liver produces high levels of diamine oxidase (DAO). He further theorizes that most people have low or average levels and this makes consuming ferments problematic. Then he goes off into his toxic planet thesis, which I addressed in the post [4 Reasons Not to Ferment Veggies](/2013/08/reasons-not-to-ferment-veggies/).
+
+I'm not a [PubMed Warrior](/2012/11/not-a-pubmed-warrior/), but I have trouble with his logic. Cultures have been fermenting foods for thousands of years. Long before refrigeration, our ancestors figured out how to preserve foods via fermentation. We are the descendants of those people. Although it is understandable that some people would have histamine intolerances, those should the exceptions.
+
+Perhaps everyone is looking at histamine the wrong way? Can our bodies adapt and become more efficient at removing histamine with repeated exposure? I can't but help to think of lactic acid build up from certain type of exercise, such as negative (eccentric) lifting to failure. The first time you do it, you feel like hell. Then after a few workouts, the body adapts and you feel much better, much faster.
+
+I do think it is wise to take a break from foods high in histamine from time to time. Fermented veggies make sense during periods outside harvest. The rest of the year, seek out fresh veggies. In other words, [hedge](/2013/04/approaching-nutrition-from-an-investors-mindset/) the benefits and the risks of both. Assume incomplete knowledge.
 
 ---
 

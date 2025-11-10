@@ -11,7 +11,13 @@ commentCount: 17
 
 Exactly 5 years ago I posted my thoughts on [Fitness Role Models](/2007/03/fitness-role-models/). My understanding of fitness has changed a lot since then. In that post, I listed a few guidelines to pick a realistic fitness role model.
 
-> 1: Same Sex This should be obvious. 2: Same Height Visit CelebHeights.com or [Yahoo! Sports](https://sports.yahoo.com/nfl/players/5452/) for this data. 3: Similar Age The photos should be within a decade of your current age. 4: Body Type Are you lanky (ectomorph) or stocky (endomorph)? Pick appropriately.
+> 1: Same Sex This should be obvious.
+> 
+> 2: Same Height Visit CelebHeights.com or [Yahoo! Sports](https://sports.yahoo.com/nfl/players/5452/) for this data.
+> 
+> 3: Similar Age The photos should be within a decade of your current age.
+> 
+> 4: Body Type Are you lanky (ectomorph) or stocky (endomorph)? Pick appropriately.
 
 I made an error on #4. I divided the world into 3 somatypes and in reality, it is more complicated than that. Last year I learned that the muscular potential of ectomorphs has an extreme variance. In the book [The New High Intensity Training](/2011/05/the-new-high-intensity-training/) by Ellington Darden Ph.D., I came face to face with two formulas that had escaped me in my many years of training and researching fitness. Darden has worked with thousands of individuals engaged in strength training and has collected lots of data. Here are his 2 muscular potential charts.
 
@@ -25,7 +31,19 @@ I made an error on #4. I divided the world into 3 somatypes and in reality, it i
 ### Triceps Chart: Distance Between Elbow Tip and Top of Inside Horseshoe
 
 
-\[table id=17/\] After reading those charts, I put down the book, took my measurements, and discovered with no surprise that my muscular potential was "very minimal". Then I thought about all my ectomorph role models and went on an image search. Sure enough **in every case that I could find where an ectomorph went from scrawny to brawny, they had tighter spacing on their bicep edge.** Seems that my "realistic role models" weren't realistic at all. I spent over a decade slamming the weights trying to bulk up. Although I gained some muscle, I also gained fat and was frequently sore or injured from pushing my physique further than it wanted to go. I had painkillers, X-Rays, cortisone shots, and even surgery. I wasted thousands on supplements, protein powder, and energy bars. All in the quest to gain more muscle. These days I have no fitness role models. Once I dropped the excess weight and inflammation, I was happy with my results. **UPDATE September 2013:** I wanted to clarify the phrase "gained some muscle". When I entered Army Basic Training at 17, I weighed 156 pounds. Weight training did bring me up to 200 pounds. My height is 6 foot 2.5 inches, which is the exact same height as Evander Holyfield and Laird Hamilton. Considering how lean both those elite athletes are, I suspect each has 20-25 pounds more muscle than me. My point in this post was to say that they were never realistic role models given that have different body types. This point was not apparent until I read Dr. Darden's research. When I accepted my body type, I stopped excessive training and the pains went away. The lesson I learned is that chasing perfection can be both painful and futile.
+\[table id=17/\]
+
+After reading those charts, I put down the book, took my measurements, and discovered with no surprise that my muscular potential was "very minimal". Then I thought about all my ectomorph role models and went on an image search. Sure enough **in every case that I could find where an ectomorph went from scrawny to brawny, they had tighter spacing on their bicep edge.**
+
+Seems that my "realistic role models" weren't realistic at all. I spent over a decade slamming the weights trying to bulk up. Although I gained some muscle, I also gained fat and was frequently sore or injured from pushing my physique further than it wanted to go. I had painkillers, X-Rays, cortisone shots, and even surgery. I wasted thousands on supplements, protein powder, and energy bars. All in the quest to gain more muscle.
+
+These days I have no fitness role models. Once I dropped the excess weight and inflammation, I was happy with my results.
+
+**UPDATE September 2013:** I wanted to clarify the phrase "gained some muscle". When I entered Army Basic Training at 17, I weighed 156 pounds. Weight training did bring me up to 200 pounds. My height is 6 foot 2.5 inches, which is the exact same height as Evander Holyfield and Laird Hamilton. Considering how lean both those elite athletes are, I suspect each has 20-25 pounds more muscle than me.
+
+My point in this post was to say that they were never realistic role models given that have different body types. This point was not apparent until I read Dr. Darden's research. When I accepted my body type, I stopped excessive training and the pains went away.
+
+The lesson I learned is that chasing perfection can be both painful and futile.
 
 ---
 

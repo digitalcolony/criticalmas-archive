@@ -9,7 +9,33 @@ description: "Even though it appears we have different tastes in coffee, yesterd
 commentCount: 2
 ---
 
-Even though it appears we have different tastes in coffee, yesterday I was inspired by _Coffee Nomad_ to leave the house with my camera on a coffee adventure. There was a place in the Capitol Hill region near Seattle University called _WaterTown Coffee_ I had been wanting to try. It was a nice 3.5 mile urban hike away. ![watertown-coffee](./img/watertown-coffee.jpg) _When heading south on 12th Ave, look for this on your left._ When I do my Seattle espresso urban hikes, I will do my best to size up a new coffee house before stepping into the place. The first thing I look for is a sticker by the front door that indicates who their coffee roaster is. No matter how great the cafe is, if the beans are from a 2nd or 3rd tier roaster, then I'm not interested. _WaterTown Coffee_ proudly displays the _Espresso Vivace_ sticker. You know I like that! Watertown has a full kitchen, WIFI, and even an XBOX. But really all I care about is espresso. At WaterTown Coffee there is a large mirror behind the barista. This means you can see your drink being made without cranking your head around the counter. I watched as the barista dialed in my shot. Excellent attention to detail. ![sign-watertown-coffee](./img/sign-watertown-coffee.jpg) _WaterTown Coffee front sign_ How was the espresso? Perfect. I actually enjoyed it more than the shots I've had at the actual _Espresso Vivace_ locations themselves. The pour was a little longer than the tight ristrettos served at Vivace, which I still \*\*love\*\*. However, my experience is the _Dolce Blend_ can handle a little more volume and _WaterTown_ proved that. By a "_little more_", I'm talking maybe an extra 1/2 ounce. _WaterTown Coffee_ makes an excellent espresso. Well done. Sources: Coffee Nomad - The Adventures of a Coffee Wondering Fiend WaterTown Coffee - 550 12th Ave Seattle, WA 98122 **UPDATE:** WaterTown closed in October 2010
+Even though it appears we have different tastes in coffee, yesterday I was inspired by _Coffee Nomad_ to leave the house with my camera on a coffee adventure. There was a place in the Capitol Hill region near Seattle University called _WaterTown Coffee_ I had been wanting to try. It was a nice 3.5 mile urban hike away.
+
+![watertown-coffee](./img/watertown-coffee.jpg)
+
+_When heading south on 12th Ave, look for this on your left._
+
+When I do my Seattle espresso urban hikes, I will do my best to size up a new coffee house before stepping into the place. The first thing I look for is a sticker by the front door that indicates who their coffee roaster is. No matter how great the cafe is, if the beans are from a 2nd or 3rd tier roaster, then I'm not interested. _WaterTown Coffee_ proudly displays the _Espresso Vivace_ sticker. You know I like that!
+
+Watertown has a full kitchen, WIFI, and even an XBOX. But really all I care about is espresso. At WaterTown Coffee there is a large mirror behind the barista. This means you can see your drink being made without cranking your head around the counter. I watched as the barista dialed in my shot. Excellent attention to detail.
+
+![sign-watertown-coffee](./img/sign-watertown-coffee.jpg)
+
+_WaterTown Coffee front sign_
+
+How was the espresso? Perfect.
+
+I actually enjoyed it more than the shots I've had at the actual _Espresso Vivace_ locations themselves. The pour was a little longer than the tight ristrettos served at Vivace, which I still \*\*love\*\*. However, my experience is the _Dolce Blend_ can handle a little more volume and _WaterTown_ proved that. By a "_little more_", I'm talking maybe an extra 1/2 ounce.
+
+_WaterTown Coffee_ makes an excellent espresso. Well done.
+
+Sources:
+
+Coffee Nomad - The Adventures of a Coffee Wondering Fiend
+
+WaterTown Coffee - 550 12th Ave Seattle, WA 98122
+
+**UPDATE:** WaterTown closed in October 2010
 
 ---
 

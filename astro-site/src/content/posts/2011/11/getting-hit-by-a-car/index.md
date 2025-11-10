@@ -9,7 +9,19 @@ description: "On Saturday evening I was walking across a street in Capitol Hill 
 commentCount: 15
 ---
 
-On Saturday evening I was walking across a street in Capitol Hill inside the pedestrian walkway. A large white SUV came up from the side street towards me. It appeared the car was slowing as there was a Stop sign. But it didn't. By the time I realized the car was going to run the Stop sign, I was already in front of it. I straight-armed the car so it wouldn't hit my legs and run me over. ![White SUV](./img/white-SUV.jpg "White SUV") _I was hit by a white SUV. It looked a lot like a Ford Excursion._ At that point the car stopped. I was stunned that I got hit, but I appeared to be OK. For some odd reason I didn't get upset or even say anything to the driver. Maybe I'm getting too forgiving in my old age. So I just continued walking down the sidewalk. The driver didn't check on me and kept going. About an hour later my arm started to get numb and sore. A friend suggested that I might want to go to the Emergency Room to have it checked out. I thought about spending hours in the ER on a Saturday night, paying for X-Rays and getting a script for painkillers, but decided I wasn't that hurt and my body was fully capable of healing itself. I went home and applied an ice pack to my arm for 20 minutes. I also knew how helpful the bone broth was towards [healing my back injury](/2011/11/my-miraculous-back-injury-recovery/), so I sipped on a large mug of that magical elixir. Then I slept for 8 hours. When I woke up I was fine, except for a bruise on the base of my hand where I made contact with the SUV. My friend that suggested the ER to me asked if I would go to the hospital if I were shot. My response to her was: _that would depend on where the bullet hit_. :)
+On Saturday evening I was walking across a street in Capitol Hill inside the pedestrian walkway. A large white SUV came up from the side street towards me. It appeared the car was slowing as there was a Stop sign. But it didn't. By the time I realized the car was going to run the Stop sign, I was already in front of it. I straight-armed the car so it wouldn't hit my legs and run me over.
+
+![White SUV](./img/white-SUV.jpg "White SUV")
+
+_I was hit by a white SUV. It looked a lot like a Ford Excursion._
+
+At that point the car stopped. I was stunned that I got hit, but I appeared to be OK. For some odd reason I didn't get upset or even say anything to the driver. Maybe I'm getting too forgiving in my old age. So I just continued walking down the sidewalk. The driver didn't check on me and kept going.
+
+About an hour later my arm started to get numb and sore. A friend suggested that I might want to go to the Emergency Room to have it checked out. I thought about spending hours in the ER on a Saturday night, paying for X-Rays and getting a script for painkillers, but decided I wasn't that hurt and my body was fully capable of healing itself.
+
+I went home and applied an ice pack to my arm for 20 minutes. I also knew how helpful the bone broth was towards [healing my back injury](/2011/11/my-miraculous-back-injury-recovery/), so I sipped on a large mug of that magical elixir. Then I slept for 8 hours. When I woke up I was fine, except for a bruise on the base of my hand where I made contact with the SUV.
+
+My friend that suggested the ER to me asked if I would go to the hospital if I were shot. My response to her was: _that would depend on where the bullet hit_. :)
 
 ---
 

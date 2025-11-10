@@ -8,13 +8,17 @@ description: "As I explained in the previous post Searching For The Cardio Cod
 commentCount: 24
 ---
 
-As I explained in the previous post [Searching For The Cardio Code](/2018/10/searching-for-the-cardio-code/), after a very long hiatus, I'm ready to reintroduce cardio training to my fitness plan. Some would argue that my long [urban hikes](https://criticalmas.org/best-of/urban-hiking/) or my [10,000 steps a day](/2017/08/power-10000-steps-day-charts/) would qualify as cardio, but I am doubtful that my heart rate stays in that **(180 - your age)** range for an extended period. Seattle and San Francisco have hills and when I hike the streets, my heart rate may jump up enough to qualify as cardio, but only for a few minutes at a time. Also, as I mentioned in a previous post, years of doing SuperSlow HIT with exercises such as the leg press actually keeps my heart rate lower during the hill portion of these hikes.
+As I explained in the previous post [Searching For The Cardio Code](/2018/10/searching-for-the-cardio-code/), after a very long hiatus, I'm ready to reintroduce cardio training to my fitness plan.
+
+Some would argue that my long [urban hikes](https://criticalmas.org/best-of/urban-hiking/) or my [10,000 steps a day](/2017/08/power-10000-steps-day-charts/) would qualify as cardio, but I am doubtful that my heart rate stays in that **(180 - your age)** range for an extended period. Seattle and San Francisco have hills and when I hike the streets, my heart rate may jump up enough to qualify as cardio, but only for a few minutes at a time. Also, as I mentioned in a previous post, years of doing SuperSlow HIT with exercises such as the leg press actually keeps my heart rate lower during the hill portion of these hikes.
 
 
 ### Injury and Pain are a Concern
 
 
-The reason I stopped running shortly after college was a pain in my left upper hip. Think of the spot between your belt and pocket. I never figured that pain out and it only went away when I stopped running. Yesterday, after 20 years, I got reacquainted with a mild version of that same pain after just 20 minutes on an elliptical trainer. Even though my knees are much better than that were in April, they aren't 100% and I don't know if they ever will be. The left one still feels spongy when I try to run across a street. Some people say running can protect and strengthen the knees and others say running hurts the knees. I suspect it is a [survivorship bias](/2013/07/can-running-be-antifragile/) thing and I may be one of the people that running is not good for. But I'd love to be proven wrong, however, I do fear reinjuring my knee. Considering the years I've dealt with this problem, I'd rather err on the side of caution.
+The reason I stopped running shortly after college was a pain in my left upper hip. Think of the spot between your belt and pocket. I never figured that pain out and it only went away when I stopped running. Yesterday, after 20 years, I got reacquainted with a mild version of that same pain after just 20 minutes on an elliptical trainer.
+
+Even though my knees are much better than that were in April, they aren't 100% and I don't know if they ever will be. The left one still feels spongy when I try to run across a street. Some people say running can protect and strengthen the knees and others say running hurts the knees. I suspect it is a [survivorship bias](/2013/07/can-running-be-antifragile/) thing and I may be one of the people that running is not good for. But I'd love to be proven wrong, however, I do fear reinjuring my knee. Considering the years I've dealt with this problem, I'd rather err on the side of caution.
 
 
 ### Cardio Ideas
@@ -92,7 +96,11 @@ Perhaps a Weighted Vest is an ideal way to get the heart rate up without increas
 ### Your Thoughts
 
 
-If you were me and my knees, what would you do for cardio? I will ease into cardio on both time and times per week. My motivation is to expand my fitness. I won't continue if I'm in pain. If I can [listen to podcasts](/2017/11/the-10000-steps-university/) that is a huge plus. ![swimming](./img/marcus-ng-swimming.jpg) _Photo by [Marcus Ng](https://unsplash.com/@marcusxsnapz)_
+If you were me and my knees, what would you do for cardio? I will ease into cardio on both time and times per week. My motivation is to expand my fitness. I won't continue if I'm in pain. If I can [listen to podcasts](/2017/11/the-10000-steps-university/) that is a huge plus.
+
+![swimming](./img/marcus-ng-swimming.jpg)
+
+_Photo by [Marcus Ng](https://unsplash.com/@marcusxsnapz)_
 
 ---
 

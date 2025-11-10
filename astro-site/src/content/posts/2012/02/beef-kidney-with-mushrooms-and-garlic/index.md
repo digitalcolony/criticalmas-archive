@@ -9,7 +9,17 @@ description: "I just cooked beef kidney for the first time and it came out great
 commentCount: 2
 ---
 
-I just cooked beef kidney for the first time and it came out great. I decided not to look at other recipes and instead take my best ideas from cooking beef liver and apply them to the kidney. My plan worked! I enjoyed the flavor even more than beef liver. Why would anyone want to eat beef kidney? Like beef liver, [kidney is very nutritious](http://www.wolframalpha.com/input/?i=beef+kidney).It is high in protein, Vitamin B12 and riboflavin (B2). Beef kidney is also cheap. I was able to buy a pound of 100% grass pastured beef kidney from my neighborhood farmers market for just $4. When it comes to organ meats, always seek out the highest quality. Also this recipe is for beef kidney, it will absolutely work the same for beef liver. ![beef-kidney](./img/beef-kidney.jpg) _Beef kidney chopped into bite-size pieces with most of the excess fat removed._ **Summary**: _A tasty way to cook up beef kidney._
+I just cooked beef kidney for the first time and it came out great. I decided not to look at other recipes and instead take my best ideas from cooking beef liver and apply them to the kidney. My plan worked! I enjoyed the flavor even more than beef liver.
+
+Why would anyone want to eat beef kidney? Like beef liver, [kidney is very nutritious](http://www.wolframalpha.com/input/?i=beef+kidney).It is high in protein, Vitamin B12 and riboflavin (B2). Beef kidney is also cheap. I was able to buy a pound of 100% grass pastured beef kidney from my neighborhood farmers market for just $4. When it comes to organ meats, always seek out the highest quality.
+
+Also this recipe is for beef kidney, it will absolutely work the same for beef liver.
+
+![beef-kidney](./img/beef-kidney.jpg)
+
+_Beef kidney chopped into bite-size pieces with most of the excess fat removed._
+
+**Summary**: _A tasty way to cook up beef kidney._
 
 
 #### Ingredients

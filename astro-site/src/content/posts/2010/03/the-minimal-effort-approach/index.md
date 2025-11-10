@@ -9,7 +9,17 @@ description: "There are numerous blogs that discuss nutrition and fitness. Many 
 commentCount: 7
 ---
 
-There are numerous blogs that discuss nutrition and fitness. Many of which fall into the same camp as me, which is a lower carbohydrate mostly paleo approach. If I had to name one thing that was different about me is that I first and foremost take the **Minimal Effort** approach. **Minimal Effort** means discovering what is the least effort, least time commitment and least cost one can invest to achieve their health goals. This is why I diss cardio and the "_go big or go home_" [attitude](/2009/12/physique-hacking/). Can you get super healthy and lean training like a triathlete? Absolutely. But what happens when you get injured or you're forced to work longer hours or family commitments increase? You know what happens. The walking population is full of once athletic young people who can no longer devote the time to getting healthy like they did when they were younger. ![woodson-hike](./img/woodson-hike.jpg) _Hiking in San Diego (Mt. Woodson)_ I am interested in discovering the minimal effort it takes to achieve optimal health goals. Most of the experts peddle too much complexity.**Too much exercise, too much equipment and too many supplements.** Instead of empowering people to make slow gradual permanent steps toward better health, the fitness industry attacks their insecurities and converts them into consumers of programs that just yield short term gains. Then they let them fail and then sell them again. You can be lean and healthy with minimal exercise, gear and supplements. Moving toward simplicity will yield greater results than complexity. It may or may not take longer, but the results will be permanent. The is the core message of my fitness and nutrition posts.
+There are numerous blogs that discuss nutrition and fitness. Many of which fall into the same camp as me, which is a lower carbohydrate mostly paleo approach. If I had to name one thing that was different about me is that I first and foremost take the **Minimal Effort** approach.
+
+**Minimal Effort** means discovering what is the least effort, least time commitment and least cost one can invest to achieve their health goals. This is why I diss cardio and the "_go big or go home_" [attitude](/2009/12/physique-hacking/). Can you get super healthy and lean training like a triathlete? Absolutely. But what happens when you get injured or you're forced to work longer hours or family commitments increase? You know what happens. The walking population is full of once athletic young people who can no longer devote the time to getting healthy like they did when they were younger.
+
+![woodson-hike](./img/woodson-hike.jpg)
+
+_Hiking in San Diego (Mt. Woodson)_
+
+I am interested in discovering the minimal effort it takes to achieve optimal health goals. Most of the experts peddle too much complexity.**Too much exercise, too much equipment and too many supplements.** Instead of empowering people to make slow gradual permanent steps toward better health, the fitness industry attacks their insecurities and converts them into consumers of programs that just yield short term gains. Then they let them fail and then sell them again.
+
+You can be lean and healthy with minimal exercise, gear and supplements. Moving toward simplicity will yield greater results than complexity. It may or may not take longer, but the results will be permanent. The is the core message of my fitness and nutrition posts.
 
 ---
 

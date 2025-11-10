@@ -8,7 +8,11 @@ description: "For a background to this post see How I Plan to Lose 20 Pounds an
 commentCount: 1
 ---
 
-_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._ Week #11 Weigh-In: **\-1**. Total Loss: \-9. These posts are getting boring. This will be the last regularly scheduled weekly weigh in. From here on out I will be updating a spreadsheet instead.
+_For a background to this post see [How I Plan to Lose 20 Pounds and Win the Bet](/2014/02/plan-lose-20-pounds-win-bet/)._
+
+Week #11 Weigh-In: **\-1**. Total Loss: \-9.
+
+These posts are getting boring. This will be the last regularly scheduled weekly weigh in. From here on out I will be updating a spreadsheet instead.
 
 
 #### [http://goo.gl/3xyqMv](http://goo.gl/3xyqMv)

@@ -12,7 +12,27 @@ Last month, I posted [Millennials Have Killed the Glitter Gym](/2019/04/millenni
 
 > People are staring at their phones between exercises. Between sets. Sometimes during the set itself. They are looking at their screens as they walk through the gym. They are taking their $800 smartphones into the saunas. And at LA Fitness, they are engaging with the phone as they walk up and down the stairs.
 
-This problem is worse than just being rude to other members of the gym. It is actually a health crisis in itself. Recently, I was listening to the Spanish health podcast [Salud y bienestar](https://overcast.fm/+D8ohZ7x0Y). It's a little challenging at times for my level of Spanish, which is why I thought I incorrectly translated the statistic that 50% of people between 12 and 35 years old are at risk for hearing loss. It is true. There is even a name for this crisis: [Generation Deaf](https://duckduckgo.com/?q=generation+deaf&t=hn&ia=web). It is not just Millenials but it is also impacting Gen-Z. Yeah, those earbuds they have connected to their head blasting music for hours a day might not be such a good idea. This leads me to my most recent Glitter Gym story. I was in the sauna this weekend. It was early Saturday morning. Nobody was there yet. It was peaceful and quiet. Then a guy about 27 or so, showed up. Headphones on. BLASTING music. It was loud to me and I was three meters away from him. Not only did this guy have his phone with his headphones blasting music, but he also brought in a second smaller electronic device. When he left the sauna, he dropped the second device onto the floor. He couldn't hear the device fall because his music was up so loud. So I yelled at him. Sir! Sir! Louder and louder. Nothing. I got up, retrieved his device, followed him, and waved at him to get his attention and handed him his device. At least he could see me. What will this scene look like when this guy shows up at the gym with AR or VR goggles in a few years? The sad irony is this young man showed up to the gym early Saturday morning at an age when many of his friends would be sleeping off a hangover from a night of drinking. He was making an effort to improve his health. Yet he was destroying his hearing, because like others his age he can't be alone with his thoughts or at least turn the volume down. Maybe in this story, there is an investment tip? There are approximately 100 million people between 12 and 35 in the United States alone. What companies are developing technologies to restore hearing loss? Between that and tattoo removal technology, us old-timers should be able to make some money off the mistakes of Generation Deaf. ![headphones](./img/lee-campbell-headphones.jpg) _Photo by [Lee Campbell](https://unsplash.com/@leecampbell)_
+This problem is worse than just being rude to other members of the gym. It is actually a health crisis in itself.
+
+Recently, I was listening to the Spanish health podcast [Salud y bienestar](https://overcast.fm/+D8ohZ7x0Y). It's a little challenging at times for my level of Spanish, which is why I thought I incorrectly translated the statistic that 50% of people between 12 and 35 years old are at risk for hearing loss. It is true. There is even a name for this crisis: [Generation Deaf](https://duckduckgo.com/?q=generation+deaf&t=hn&ia=web).
+
+It is not just Millenials but it is also impacting Gen-Z.
+
+Yeah, those earbuds they have connected to their head blasting music for hours a day might not be such a good idea.
+
+This leads me to my most recent Glitter Gym story. I was in the sauna this weekend. It was early Saturday morning. Nobody was there yet. It was peaceful and quiet. Then a guy about 27 or so, showed up. Headphones on. BLASTING music. It was loud to me and I was three meters away from him.
+
+Not only did this guy have his phone with his headphones blasting music, but he also brought in a second smaller electronic device. When he left the sauna, he dropped the second device onto the floor. He couldn't hear the device fall because his music was up so loud. So I yelled at him. Sir! Sir! Louder and louder. Nothing.
+
+I got up, retrieved his device, followed him, and waved at him to get his attention and handed him his device. At least he could see me. What will this scene look like when this guy shows up at the gym with AR or VR goggles in a few years?
+
+The sad irony is this young man showed up to the gym early Saturday morning at an age when many of his friends would be sleeping off a hangover from a night of drinking. He was making an effort to improve his health. Yet he was destroying his hearing, because like others his age he can't be alone with his thoughts or at least turn the volume down.
+
+Maybe in this story, there is an investment tip? There are approximately 100 million people between 12 and 35 in the United States alone. What companies are developing technologies to restore hearing loss? Between that and tattoo removal technology, us old-timers should be able to make some money off the mistakes of Generation Deaf.
+
+![headphones](./img/lee-campbell-headphones.jpg)
+
+_Photo by [Lee Campbell](https://unsplash.com/@leecampbell)_
 
 ---
 

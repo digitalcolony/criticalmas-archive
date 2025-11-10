@@ -9,7 +9,17 @@ description: "I completed my most challenging health experiment to date. I went 
 commentCount: 17
 ---
 
-I completed my most challenging health experiment to date. I went the entire month of [October 2012 without coffee](/2012/10/a-month-without-coffee-here-goes/). No decaf either or any food that used coffee for flavoring, such as ice cream. For 21 days of that month, I went 100% caffeine free. My prior record was 100 hours set back in 1997. Despite having added an additional 15 years of caffeine addiction, I crushed my old record. For someone who owns a website called [INeedCoffee](https://ineedcoffee.com/), this is quite the victory. This morning I had my first espresso and boy has it made me jittery. Over two hours later and I can still feel it. This is what I experienced when I had my first green tea after 21 days without caffeine. Before the coffee cheerleaders and fear mongers add their opinion, I want to remind them that this experiment was primarily about developing **caffeinated resiliency**, not for health reasons. An ideal state is being able to perform at a high level with or without coffee. **And this experiment is ongoing.** I'm now in the caffeine resumption phase. I'll be monitoring how I feel over the next few weeks as I dial in a new optimal espresso level. The [final write up of this experiment](https://ineedcoffee.com/a-month-without-coffee/) will be on _INeedCoffee_, probably in mid November. Once that article is ready, I'll announce it here. Until then I'm just going to enjoy this win. Thanks to everyone that encouraged me during those times when I was ready to give up. And thanks to those who tried to get me to quit by testing my resolve. It was the perfect balance. ![](http://farm8.staticflickr.com/7122/7590748228_63458eaf7f_z.jpg "espresso") _Welcome back old friend!_
+I completed my most challenging health experiment to date. I went the entire month of [October 2012 without coffee](/2012/10/a-month-without-coffee-here-goes/). No decaf either or any food that used coffee for flavoring, such as ice cream. For 21 days of that month, I went 100% caffeine free. My prior record was 100 hours set back in 1997. Despite having added an additional 15 years of caffeine addiction, I crushed my old record.
+
+For someone who owns a website called [INeedCoffee](https://ineedcoffee.com/), this is quite the victory.
+
+This morning I had my first espresso and boy has it made me jittery. Over two hours later and I can still feel it. This is what I experienced when I had my first green tea after 21 days without caffeine. Before the coffee cheerleaders and fear mongers add their opinion, I want to remind them that this experiment was primarily about developing **caffeinated resiliency**, not for health reasons. An ideal state is being able to perform at a high level with or without coffee. **And this experiment is ongoing.** I'm now in the caffeine resumption phase. I'll be monitoring how I feel over the next few weeks as I dial in a new optimal espresso level.
+
+The [final write up of this experiment](https://ineedcoffee.com/a-month-without-coffee/) will be on _INeedCoffee_, probably in mid November. Once that article is ready, I'll announce it here. Until then I'm just going to enjoy this win. Thanks to everyone that encouraged me during those times when I was ready to give up. And thanks to those who tried to get me to quit by testing my resolve. It was the perfect balance.
+
+![](http://farm8.staticflickr.com/7122/7590748228_63458eaf7f_z.jpg "espresso")
+
+_Welcome back old friend!_
 
 ---
 

@@ -26,7 +26,17 @@ I had two fears with IF. Did either fear materialize?
 1.  Did I lose muscle or strength? No.
 2.  Did I gain fat due to a slowing metabolism? No.
 
-By all accounts I should have gained fat this winter. For a large chunk of December I couldn't lift due to a shoulder injury. In January, my back was in serious pain. And this month I had the back injury which has sidelined me completely. Despite having my activity level plummet this winter, I got leaner. It could have been the [cold weather exposure](/2009/04/still-no-jacket-required/), the intermittent fasts or some combination. During IF, I was able to lift weights and go on urban hikes of [12](/2009/03/urban-hike-magnolia-edition/), [15](/2008/12/another-snow-storm-another-urban-hike/), [16](/2008/12/urban-hike-seattle-snow-edition/) and even [22.5](/2009/02/urban-hike-seattle-225-mile-edition/) miles. My energy level was higher than I imagined. No _Cliff Bar_ needed. ![urban-hike](./img/urban-hike.jpg) I consider IF to be amazing success if for no other reason, I am no longer a slave to eating by the clock. If I come across poor food options, I can now choose to eat nothing. Hunger is now an acceptable feeling. Because I am now comfortable being hungry, I am longer pressured to eat fast. Taking the time to prepare a healthy meal even if it means waiting another hour is no longer a dilemma. Something else cool happened this winter. Despite being surrounded my sick people, I never once caught a cold. That has never happened before. That could be a result of [food choices](/2009/01/fighting-sickness-ninja-style/), IF or some combination. Some people have commented that it would be too difficult to do intermittent fasting. Trust me, I understand exactly how you feel. A year ago I never could have imagined this possible. It is doable. I do have some [tips and advice](/2009/04/intermittent-fasting-tips-and-advice/), which I will save for my next post.
+By all accounts I should have gained fat this winter. For a large chunk of December I couldn't lift due to a shoulder injury. In January, my back was in serious pain. And this month I had the back injury which has sidelined me completely. Despite having my activity level plummet this winter, I got leaner. It could have been the [cold weather exposure](/2009/04/still-no-jacket-required/), the intermittent fasts or some combination.
+
+During IF, I was able to lift weights and go on urban hikes of [12](/2009/03/urban-hike-magnolia-edition/), [15](/2008/12/another-snow-storm-another-urban-hike/), [16](/2008/12/urban-hike-seattle-snow-edition/) and even [22.5](/2009/02/urban-hike-seattle-225-mile-edition/) miles. My energy level was higher than I imagined. No _Cliff Bar_ needed.
+
+![urban-hike](./img/urban-hike.jpg)
+
+I consider IF to be amazing success if for no other reason, I am no longer a slave to eating by the clock. If I come across poor food options, I can now choose to eat nothing. Hunger is now an acceptable feeling. Because I am now comfortable being hungry, I am longer pressured to eat fast. Taking the time to prepare a healthy meal even if it means waiting another hour is no longer a dilemma.
+
+Something else cool happened this winter. Despite being surrounded my sick people, I never once caught a cold. That has never happened before. That could be a result of [food choices](/2009/01/fighting-sickness-ninja-style/), IF or some combination.
+
+Some people have commented that it would be too difficult to do intermittent fasting. Trust me, I understand exactly how you feel. A year ago I never could have imagined this possible. It is doable. I do have some [tips and advice](/2009/04/intermittent-fasting-tips-and-advice/), which I will save for my next post.
 
 ---
 

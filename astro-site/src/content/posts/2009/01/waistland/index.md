@@ -9,7 +9,11 @@ description: "I just finished reading a great book on food and society. !Waistla
 commentCount: 6
 ---
 
-I just finished reading a great book on food and society. ![Waistland: The (R)Evolutionary Crisis Behind Our Weight and Fitness Crisis](https://images-na.ssl-images-amazon.com/images/I/512ZWflQGvL.jpg) _Waistland: The (R)Evolutionary Crisis Behind Our Weight and Fitness Crisis by Deirdre Barrett_ has a little bit of everything in it. It covers the state of health, some evolutionary history, food politics, exercise, nutritional education, and how the media covers it all. With all those topics, of course, I'm going to like the book. One thing I learned in the book was the concept of Supernormal Stimuli, which Wikipedia refers to as a [superstimulus](https://en.wikipedia.org/wiki/Supernormal_stimulus).
+I just finished reading a great book on food and society.
+
+![Waistland: The (R)Evolutionary Crisis Behind Our Weight and Fitness Crisis](https://images-na.ssl-images-amazon.com/images/I/512ZWflQGvL.jpg) _Waistland: The (R)Evolutionary Crisis Behind Our Weight and Fitness Crisis by Deirdre Barrett_ has a little bit of everything in it. It covers the state of health, some evolutionary history, food politics, exercise, nutritional education, and how the media covers it all. With all those topics, of course, I'm going to like the book.
+
+One thing I learned in the book was the concept of Supernormal Stimuli, which Wikipedia refers to as a [superstimulus](https://en.wikipedia.org/wiki/Supernormal_stimulus).
 
 > ...is an exaggerated version of a stimulus to which there is an existing response tendency, or any stimulus that elicits a response more strongly than the stimulus that normally releases it.
 
@@ -17,7 +21,9 @@ The author explores how simple carbohydrates, refined fats, and television behav
 
 > We're wired to pay close attention to fast movements, emotional outbursts, violence and sexually enticing behavior. Television hijacked all these potent cues for attention to get us to carefully watch a plastic box with a bunch of wires in it.
 
-Prior to the agricultural age, humans were hunter-gather. In order to survive, early man needed to have sharp instincts to detect movement. Television exploits that and dishes up a commercial for a fatty meal. The fatty meal exploits our survival instincts that tell us food is scarce and we should eat that fatty piece of food because the next meal might be hours or days away. This is a good book and the author did a great job researching it.
+Prior to the agricultural age, humans were hunter-gather. In order to survive, early man needed to have sharp instincts to detect movement. Television exploits that and dishes up a commercial for a fatty meal. The fatty meal exploits our survival instincts that tell us food is scarce and we should eat that fatty piece of food because the next meal might be hours or days away.
+
+This is a good book and the author did a great job researching it.
 
 ---
 

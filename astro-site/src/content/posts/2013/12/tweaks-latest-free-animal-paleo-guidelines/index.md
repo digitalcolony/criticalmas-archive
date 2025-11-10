@@ -9,7 +9,9 @@ description: "A few days ago Richard at Free The Animal posted New Free the Anim
 commentCount: 11
 ---
 
-A few days ago Richard at Free The Animal posted [New Free the Animal, Resistant Starch-Based Dietary Guidelines](https://web.archive.org/web/20160310170340/http://freetheanimal.com/2013/12/resistant-dietary-guidelines.html). I want to comment because I really like the direction Richard has taken Paleo. I probably have more in common with him than any other nutritional blogger. Although we both started in the Art De Vany low-carb camp, we've both embraced a non-restrictive approach to Paleo. In other words, in our world [carbs are fine](/2013/04/am-i-paleo/). With so many neurotic Paleo bloggers peddling products around hyper-restrictive eating ways, I think Richard's latest post is a great place to start. Before I add my tweaks, I want to say that I am now ready to start experimenting with the resistant starch. It is something I've been half paying attention to from afar. The aspect that interests me the most are the reports of increased body temperature. A new experiment will begin soon.
+A few days ago Richard at Free The Animal posted [New Free the Animal, Resistant Starch-Based Dietary Guidelines](https://web.archive.org/web/20160310170340/http://freetheanimal.com/2013/12/resistant-dietary-guidelines.html). I want to comment because I really like the direction Richard has taken Paleo. I probably have more in common with him than any other nutritional blogger. Although we both started in the Art De Vany low-carb camp, we've both embraced a non-restrictive approach to Paleo. In other words, in our world [carbs are fine](/2013/04/am-i-paleo/). With so many neurotic Paleo bloggers peddling products around hyper-restrictive eating ways, I think Richard's latest post is a great place to start.
+
+Before I add my tweaks, I want to say that I am now ready to start experimenting with the resistant starch. It is something I've been half paying attention to from afar. The aspect that interests me the most are the reports of increased body temperature. A new experiment will begin soon.
 
 
 ### #1  Dairy
@@ -27,7 +29,11 @@ I just finished a [3 post series](/2013/11/common-enemy-nutrition/) on the metab
 ### #3 Beans
 
 
-I agree to avoid canned beans and the importance of soaking. However, when I do have beans I go the extra step and sprout the beans. I don't know if this makes the beans more digestible. It works for me and it is a trick I learned from my WAPF peeps. ![soak-sprout-lentil](./img/soak-sprout-lentil.jpg) _From [Lentil Dal Recipe](/2012/05/making-lentil-dal/)_
+I agree to avoid canned beans and the importance of soaking. However, when I do have beans I go the extra step and sprout the beans. I don't know if this makes the beans more digestible. It works for me and it is a trick I learned from my WAPF peeps.
+
+![soak-sprout-lentil](./img/soak-sprout-lentil.jpg)
+
+_From [Lentil Dal Recipe](/2012/05/making-lentil-dal/)_
 
 
 ####  #4 Supplements
@@ -39,7 +45,11 @@ I don't take all the ones on Richard's list. Keep forgetting about zinc. Me and 
 ### #5 Exercise
 
 
-Probably the only disagreement I have is with the advice to _"Lift heavy things in compound fashion once every week or two"_. I do think performing resistance training is extremely important. It is the _"heavy"_ and _"compound"_ parts that I have issues with. Very few people will say this, but I feel that focusing on the actual weight is a mistake. I explain this more in the post [Reps, Sets and the Weight Aren't that Important](/2012/12/reps-sets-and-the-weight-arent-that-important/). The important thing about resistance training is muscle fiber activation. You can do that with a heavier weight, but you can do it more effectively and safer by slowing down the movement. By taking the momentum out of the movement, it gets both harder and safer. There are some good compound exercises and some poor ones. I like exercises that have minimal skill requirements, are safe to perform at a variety of speeds, and where I can safely go to failure. Those are the exercises that are least likely to result in injury. This is why a [goblet squat](/2012/06/lower-risk-alternatives-to-the-barbell-back-squat/) is superior to a [barbell back squat](/2012/06/i-no-longer-give-a-squat-about-the-squat/). A push-up is superior to a [bench press](/2011/11/my-bench-press-sucks-and-i-dont-care/). And a combination of rows and chin-ups are superior to deadlifting. Yes, I am aware that is blasphemy, but that is how I see it.
+Probably the only disagreement I have is with the advice to _"Lift heavy things in compound fashion once every week or two"_. I do think performing resistance training is extremely important. It is the _"heavy"_ and _"compound"_ parts that I have issues with.
+
+Very few people will say this, but I feel that focusing on the actual weight is a mistake. I explain this more in the post [Reps, Sets and the Weight Aren't that Important](/2012/12/reps-sets-and-the-weight-arent-that-important/). The important thing about resistance training is muscle fiber activation. You can do that with a heavier weight, but you can do it more effectively and safer by slowing down the movement. By taking the momentum out of the movement, it gets both harder and safer.
+
+There are some good compound exercises and some poor ones. I like exercises that have minimal skill requirements, are safe to perform at a variety of speeds, and where I can safely go to failure. Those are the exercises that are least likely to result in injury. This is why a [goblet squat](/2012/06/lower-risk-alternatives-to-the-barbell-back-squat/) is superior to a [barbell back squat](/2012/06/i-no-longer-give-a-squat-about-the-squat/). A push-up is superior to a [bench press](/2011/11/my-bench-press-sucks-and-i-dont-care/). And a combination of rows and chin-ups are superior to deadlifting. Yes, I am aware that is blasphemy, but that is how I see it.
 
 ---
 

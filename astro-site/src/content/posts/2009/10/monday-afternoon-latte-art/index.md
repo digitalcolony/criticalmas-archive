@@ -9,7 +9,17 @@ description: "Here is a little afternoon pickup for you. ![](http://farm4.static
 commentCount: 2
 ---
 
-Here is a little afternoon pickup for you. ![](http://farm4.static.flickr.com/3115/4027708000_8874867dc0.jpg "latte art") This drink was made by Urban Coffee Lounge in Kirkland, Washington yesterday. For those of you outside Seattle, Kirkland is the birthplace of Costco, which uses the Kirkland name as a brand. _Sources:_ [Urban Coffee Lounge](http://www.urbancoffeelounge.com/) - Kirkland (Juanita) area coffee house. [Costco Wikipedia Page](https://en.wikipedia.org/wiki/Costco#Kirkland_Signature) - States the Kirkland brand came from having its corporate headquarters in Kirkland, Washington from 1987 to 1996.
+Here is a little afternoon pickup for you.
+
+![](http://farm4.static.flickr.com/3115/4027708000_8874867dc0.jpg "latte art")
+
+This drink was made by Urban Coffee Lounge in Kirkland, Washington yesterday. For those of you outside Seattle, Kirkland is the birthplace of Costco, which uses the Kirkland name as a brand.
+
+_Sources:_
+
+[Urban Coffee Lounge](http://www.urbancoffeelounge.com/) - Kirkland (Juanita) area coffee house.
+
+[Costco Wikipedia Page](https://en.wikipedia.org/wiki/Costco#Kirkland_Signature) - States the Kirkland brand came from having its corporate headquarters in Kirkland, Washington from 1987 to 1996.
 
 ---
 

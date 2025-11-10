@@ -5,19 +5,29 @@ modifiedDate: 2015-04-21T03:42:47.000Z
 author: "MAS"
 categories: ["Coffee", "Nutrition"]
 tags: []
-description: "Last week I posted on my current issues with coffee in the post Hello Darkness My Old Friend. > ...my relationship with coffee right now is troubled. Coffee is now making me feel both good and awful..."
+description: "Last week I posted on my current issues with coffee in the post Hello Darkness My Old Friend. > ...my relationship with coffee right now is troubled. >  > Coffee is now making me feel both good and..."
 commentCount: 14
 ---
 
 Last week I posted on my current issues with coffee in the post [Hello Darkness My Old Friend](/2015/04/hello-darkness-my-old-friend/).
 
-> ...my relationship with coffee right now is troubled. Coffee is now making me feel both good and awful at the same time.
+> ...my relationship with coffee right now is troubled.
+> 
+> Coffee is now making me feel both good and awful at the same time.
 
 Not only has this affected my energy level, but my [food reward experiment](/2015/03/embracing-food-reward/).
 
 > I'll drink coffee for the flavor and pick up and then crash not later in the day, but sometimes as soon as 30-60 minutes later. At this point my energy level is low and I can't drink more coffee, so I reach to food for the pickup. Coffee can be both suppress and stimulate appetite. In the short run, it suppresses, but in the longer time frame, I believe it increases my appetite.
 
-Well I have good news. This week has gone much better. I bought a high quality decaf coffee which I now drink upon waking. This tricks my head for about an hour, which is exactly what I want it to do. By delaying the first cup of caffeinated coffee an hour I don't get the spike and crash effect. Also, when I do go for my first caffeinated coffee, I only get a half a mug. As the day progresses, I'll pair coffee more with food, which seems to help. I'd say my coffee levels are down about 30-40%, but I'm not bouncing from wired to tired all day long. I'm also doing those morning and late afternoon short walks right about the time I would have been crashing. Although the reduction in quantity consumed is helping, I'd equally credit adjusting the timing for the benefit. Some people scoff at decaf coffee, but decaf has changed a lot in the last four years. Most people _including many people in the coffee industry_ are unaware of the quality improvements made by Swiss Water in the decaffeination process. The short version is some decaf coffees are so good now that they are fooling coffee professionals. The long version of what is happening with decaf is worthy of an article, which I plan to write and post over on INeedCoffee. ![drink-more-coffee](./img/drink-more-coffee.jpg) _Fighting the coffee devil this week. Photo by me taken at El Diablo Coffee in Seattle._
+Well I have good news. This week has gone much better. I bought a high quality decaf coffee which I now drink upon waking. This tricks my head for about an hour, which is exactly what I want it to do. By delaying the first cup of caffeinated coffee an hour I don't get the spike and crash effect. Also, when I do go for my first caffeinated coffee, I only get a half a mug.
+
+As the day progresses, I'll pair coffee more with food, which seems to help. I'd say my coffee levels are down about 30-40%, but I'm not bouncing from wired to tired all day long. I'm also doing those morning and late afternoon short walks right about the time I would have been crashing. Although the reduction in quantity consumed is helping, I'd equally credit adjusting the timing for the benefit.
+
+Some people scoff at decaf coffee, but decaf has changed a lot in the last four years. Most people _including many people in the coffee industry_ are unaware of the quality improvements made by Swiss Water in the decaffeination process. The short version is some decaf coffees are so good now that they are fooling coffee professionals. The long version of what is happening with decaf is worthy of an article, which I plan to write and post over on INeedCoffee.
+
+![drink-more-coffee](./img/drink-more-coffee.jpg)
+
+_Fighting the coffee devil this week. Photo by me taken at El Diablo Coffee in Seattle._
 
 ---
 

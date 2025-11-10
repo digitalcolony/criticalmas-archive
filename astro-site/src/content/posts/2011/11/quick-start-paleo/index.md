@@ -9,13 +9,17 @@ description: "I first learned about the Paleo diet in December 2007 when I read 
 commentCount: 7
 ---
 
-I first learned about the Paleo diet in December 2007 when I read Art De Vany's original essay. Back then there were few resources to get you started. Not anymore. There are several books and thousands of blogs. Where does the newbie start? This post is a summarized quick-start approach to Paleo. I've successfully practiced a mostly Paleo diet for over 3 years now. I've read most of the books, watched many of the lectures, and read probably a thousand blog posts on the topic. You don't need to spend near that amount of time to benefit. Just follow the list below.
+I first learned about the Paleo diet in December 2007 when I read Art De Vany's original essay. Back then there were few resources to get you started. Not anymore. There are several books and thousands of blogs. Where does the newbie start?
+
+This post is a summarized quick-start approach to Paleo. I've successfully practiced a mostly Paleo diet for over 3 years now. I've read most of the books, watched many of the lectures, and read probably a thousand blog posts on the topic. You don't need to spend near that amount of time to benefit. Just follow the list below.
 
 
 ### #1 Understand that Wheat is the Enemy
 
 
-The single best idea in the entire Paleo diet is the **elimination of wheat**. All the other ideas combined will not have a greater impact. There are different factions in the Paleo community that disagree on certain points. They all agree on the health risks of wheat. There is even a growing concern among many vegetarians about the dangers of gluten. I rank eliminating wheat as the single [most positive change](/2011/09/ranking-my-postive-health-changes/) I've made to my health. People defend wheat because they don't what to believe the food they love so much could be the cause of so many health issues. I ask people to do their own 30 Day test. Eliminate wheat for 30 Days, reintroduce it for 4 days and then measure how you feel.
+The single best idea in the entire Paleo diet is the **elimination of wheat**. All the other ideas combined will not have a greater impact. There are different factions in the Paleo community that disagree on certain points. They all agree on the health risks of wheat. There is even a growing concern among many vegetarians about the dangers of gluten.
+
+I rank eliminating wheat as the single [most positive change](/2011/09/ranking-my-postive-health-changes/) I've made to my health. People defend wheat because they don't what to believe the food they love so much could be the cause of so many health issues. I ask people to do their own 30 Day test. Eliminate wheat for 30 Days, reintroduce it for 4 days and then measure how you feel.
 
 
 ### #2 Latest In Paleo Episode 39
@@ -33,7 +37,9 @@ Although I have my own personal favorite books when it comes to nutrition and th
 ### #4 Buy a Slow Cooker (aka The Crock Pot)
 
 
-Your success in following the Paleo diet will increase greatly if you start [cooking more](/2008/12/the-more-you-cook-the-better-you-look/) of your own meals. Slow cookers are perfect for the Paleo diet. Throw in some meat and veggies, turn the knob and wait. What could be simpler? ![Crock-Pot SCVT650-PS 6-1/2-Quart Programmable Touch Screen Slow Cooker, Stainless Steel](https://images-na.ssl-images-amazon.com/images/I/31ortTNVETL.jpg) Crock-Pot SCVT650-PS 6-1/2-Quart Programmable Touch Screen Slow Cooker, Stainless Steel
+Your success in following the Paleo diet will increase greatly if you start [cooking more](/2008/12/the-more-you-cook-the-better-you-look/) of your own meals. Slow cookers are perfect for the Paleo diet. Throw in some meat and veggies, turn the knob and wait. What could be simpler?
+
+![Crock-Pot SCVT650-PS 6-1/2-Quart Programmable Touch Screen Slow Cooker, Stainless Steel](https://images-na.ssl-images-amazon.com/images/I/31ortTNVETL.jpg) Crock-Pot SCVT650-PS 6-1/2-Quart Programmable Touch Screen Slow Cooker, Stainless Steel
 
 
 ### Last Words

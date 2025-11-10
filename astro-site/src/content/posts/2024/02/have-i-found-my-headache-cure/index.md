@@ -9,14 +9,28 @@ description: "If you go back into the archives (2011-2013), you will see many po
 commentCount: 4
 ---
 
-If you go back into the archives (2011-2013), you will see many posts where I attempted to solve my headaches. I tried many experiments to reduce the number and frequency of headaches that had bothered me since high school. Although most of my experiments failed, I did find a few ideas that helped. I eliminated alcohol and high levels of caffeine. Stress was also a factor. I stopped managing my investments and handed over those decisions to Wealthfront. When I was tracking my headaches, I got more headaches. When I stopped, the problem was cut in half. And that is where the story ended until last year. On the [headache episode of Huberman Lab](https://www.hubermanlab.com/episode/how-to-stop-headaches-using-science-based-approaches), he mentioned a pilot study that showed a reduction in headaches from high-dose creatine monohydrate. This was the same week I started doing [daily shoulder hangs](/2023/06/perfect-posture-progress/). ![](./img/shoulder-hangs.jpg) _30-second shoulder hangs are enough. You can do supported hangs or use your entire weight._ Unlike previous experiments that may have been too short, I kept with this protocol for an entire year now. I didn't want to post too much on this until I had gone through four seasons. The results have been stunning. I hesitate to declare victory, but the last year has been the most pain-free year since childhood.
+If you go back into the archives (2011-2013), you will see many posts where I attempted to solve my headaches. I tried many experiments to reduce the number and frequency of headaches that had bothered me since high school.
+
+Although most of my experiments failed, I did find a few ideas that helped. I eliminated alcohol and high levels of caffeine. Stress was also a factor. I stopped managing my investments and handed over those decisions to Wealthfront. When I was tracking my headaches, I got more headaches. When I stopped, the problem was cut in half. And that is where the story ended until last year.
+
+On the [headache episode of Huberman Lab](https://www.hubermanlab.com/episode/how-to-stop-headaches-using-science-based-approaches), he mentioned a pilot study that showed a reduction in headaches from high-dose creatine monohydrate. This was the same week I started doing [daily shoulder hangs](/2023/06/perfect-posture-progress/).
+
+![](./img/shoulder-hangs.jpg)
+
+_30-second shoulder hangs are enough. You can do supported hangs or use your entire weight._
+
+Unlike previous experiments that may have been too short, I kept with this protocol for an entire year now. I didn't want to post too much on this until I had gone through four seasons. The results have been stunning. I hesitate to declare victory, but the last year has been the most pain-free year since childhood.
 
 -   I did not have a single headache that was high intensity.
 -   I did not have a single headache that lasted more than a few hours.
 -   I did not have a single headache that woke me up while sleeping and was intense enough to prevent me from returning to sleep. (I used to have 7.5 a month)
 -   I had fewer than 5 small headaches the entire year.
 
-I didn't know if it was the shoulder hangs, the creatine, or both. So a month ago, I reduced my creatine intake from 15 grams to 3 grams a day as a test. After about 10 days, I could start to feel the beginnings of a headache, but they didn't take root. I have since resumed 15 grams daily. I think the shoulder hangs help with muscular tension that triggers some headaches, whereas creatine helps "under the hood". That is my scientific way of saying go listen to the explanation Huberman provided I would love for others to test this 2-step protocol. I started both at the same time, but you could try each one independently. My guess is you would be able to tell if the creatine is working within 2 weeks. It may take longer on the shoulder hangs to notice improvement.
+I didn't know if it was the shoulder hangs, the creatine, or both. So a month ago, I reduced my creatine intake from 15 grams to 3 grams a day as a test. After about 10 days, I could start to feel the beginnings of a headache, but they didn't take root. I have since resumed 15 grams daily.
+
+I think the shoulder hangs help with muscular tension that triggers some headaches, whereas creatine helps "under the hood". That is my scientific way of saying go listen to the explanation Huberman provided
+
+I would love for others to test this 2-step protocol. I started both at the same time, but you could try each one independently. My guess is you would be able to tell if the creatine is working within 2 weeks. It may take longer on the shoulder hangs to notice improvement.
 
 ---
 

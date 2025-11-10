@@ -9,7 +9,17 @@ description: "I don't think I was clear enough in the post How I Figured Out the
 commentCount: 10
 ---
 
-I don't think I was clear enough in the post [How I Figured Out the Cause of My Back Pain](/2011/01/how-i-figured-out-the-cause-of-my-back-pain/). If you haven't read it, go do so now. The point I want to stress is you need to take charge of your own back pain investigation. Don't assume you know the causes and **don't let someone else take charge of the investigation**. By that I mean, the best expert on your back pain is you. It is not a doctor, massage therapist, chiropractor, acupuncturist or a salesperson from _The Healthy Back Store_. All those parties profit from your pain. I hate to be cynical, but if they decline to assist you, they are losing money. Not that they are bad people. I think they honestly believe what they offer helps people. And sometimes it does. But surrendering to a pain management expert before you've done your own investigation just promotes **learned helplessness**. What happens the next time pain flares up? And the time after that? ![addiction](./img/addiction.jpg) _[Addiction](http://www.flickr.com/photos/kphotographerrr/4505714773/in/photostream/) by kphotographer_ Yes you want your back pain to go away, but the most important riddle is to figure out what caused it in the first place. Simply buying another gadget, taking another pill or surrendering to an "_expert_" without true reflection is recipe for future pain. If you do the proper [investigation](/2011/01/how-i-figured-out-the-cause-of-my-back-pain/), I think you will discover that how you respond to pain influences its intensity, duration and frequency.
+I don't think I was clear enough in the post [How I Figured Out the Cause of My Back Pain](/2011/01/how-i-figured-out-the-cause-of-my-back-pain/). If you haven't read it, go do so now.
+
+The point I want to stress is you need to take charge of your own back pain investigation. Don't assume you know the causes and **don't let someone else take charge of the investigation**. By that I mean, the best expert on your back pain is you. It is not a doctor, massage therapist, chiropractor, acupuncturist or a salesperson from _The Healthy Back Store_.
+
+All those parties profit from your pain. I hate to be cynical, but if they decline to assist you, they are losing money. Not that they are bad people. I think they honestly believe what they offer helps people. And sometimes it does. But surrendering to a pain management expert before you've done your own investigation just promotes **learned helplessness**. What happens the next time pain flares up? And the time after that?
+
+![addiction](./img/addiction.jpg)
+
+_[Addiction](http://www.flickr.com/photos/kphotographerrr/4505714773/in/photostream/) by kphotographer_
+
+Yes you want your back pain to go away, but the most important riddle is to figure out what caused it in the first place. Simply buying another gadget, taking another pill or surrendering to an "_expert_" without true reflection is recipe for future pain. If you do the proper [investigation](/2011/01/how-i-figured-out-the-cause-of-my-back-pain/), I think you will discover that how you respond to pain influences its intensity, duration and frequency.
 
 ---
 

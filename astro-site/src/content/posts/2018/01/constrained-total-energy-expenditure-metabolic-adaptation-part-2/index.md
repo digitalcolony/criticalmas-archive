@@ -9,7 +9,11 @@ description: "Last month, I posted Constrained Total Energy Expenditure and Met
 commentCount: 10
 ---
 
-Last month, I posted [Constrained Total Energy Expenditure and Metabolic Adaptation](/2017/12/constrained-total-energy-expenditure-metabolic-adaptation/), which is an overview of the research of Dr. Herman Pontzer. In short, his work makes the case that we adapt metabolically to higher levels of exercise by burning fewer calories than expected. As one gets more active, the calories burned don't increase linearly. The caloric burn rises at first and then drops often back to a pre-activity level. Read the notes in [Part 1](/2017/12/constrained-total-energy-expenditure-metabolic-adaptation/) for more details. In this post, I sought out more resources to extend the discussion.
+Last month, I posted [Constrained Total Energy Expenditure and Metabolic Adaptation](/2017/12/constrained-total-energy-expenditure-metabolic-adaptation/), which is an overview of the research of Dr. Herman Pontzer. In short, his work makes the case that we adapt metabolically to higher levels of exercise by burning fewer calories than expected. As one gets more active, the calories burned don't increase linearly. The caloric burn rises at first and then drops often back to a pre-activity level.
+
+Read the notes in [Part 1](/2017/12/constrained-total-energy-expenditure-metabolic-adaptation/) for more details.
+
+In this post, I sought out more resources to extend the discussion.
 
 
 ### Scientific American Article
@@ -23,7 +27,11 @@ _The Exercise Paradox_ is an article Dr. Pontzer wrote for Scientific American. 
 ### Lyle McDonald on Facebook
 
 
-When it comes to calories, fat loss, and exercise, one of my go-to researchers is Lyle McDonald. I found his thoughts on Pontzer's work in a year-old comment on Facebook. ![Lyle McDonald on Pontzer](./img/lyle-on-activity.png) McDonald's comment rang true to me. At the times of my life when I trained the hardest, were also the times you couldn't peel me off the coach at the end of the day. And the times when I trained the least, were the times I couldn't sit still. In my case, it seemed like my body was trying to even things out as best as it could.
+When it comes to calories, fat loss, and exercise, one of my go-to researchers is Lyle McDonald. I found his thoughts on Pontzer's work in a year-old comment on Facebook.
+
+![Lyle McDonald on Pontzer](./img/lyle-on-activity.png)
+
+McDonald's comment rang true to me. At the times of my life when I trained the hardest, were also the times you couldn't peel me off the coach at the end of the day. And the times when I trained the least, were the times I couldn't sit still. In my case, it seemed like my body was trying to even things out as best as it could.
 
 
 ### PubMed Response to Dr. Pontzer
@@ -33,23 +41,35 @@ McDonald also linked to [Physical Activity and the Missing Calories](https://ww
 
 > However, there are compelling data from humans showing that energy intake is indeed increased in response to exercise (e.g., (1)). Unfortunately, the evidence presented by Pontzer does not include data on energy balance, and it is possible that these constraints on energy expenditure only operate under certain conditions of ill-favored negative energy balance. Another possibility is that energy expenditure does not increase with structured physical activity due to decreases in spontaneous physical activity (e.g., fidgeting) or reductions in the energy cost of physical activity (e.g., improved muscle efficiency), rather than from reductions in resting metabolic rate. Indeed, spontaneous physical activity can account for a large amount of caloric expenditure even in sedentary conditions and may represent a buffer against changes in structured physical activity (5). Moreover, as Pontzer admits, athletes and subsistence farmers present a clear challenge to his model because they exceed the proposed limits on energy expenditure, even after correcting for body size (3). And even in the case of the Hadza who have comparable energy expenditure to Westerners once adjusted for fat-free mass, the Hadza expend more energy in physical activity and are leaner than their Western counterparts (4). Therefore, despite a possible upper limit on energy expenditure, physical activity can reduce adiposity.
 
-![triceps](./img/daniel-apodaca-triceps.jpg) _Photo by [Daniel Apodaca](https://unsplash.com/@danielapodaca96)_
+![triceps](./img/daniel-apodaca-triceps.jpg)
+
+_Photo by [Daniel Apodaca](https://unsplash.com/@danielapodaca96)_
 
 
 ### G-Flux
 
 
-G-Flux is a concept I learned about from Precision Nutrition. They explain it as a process where when high levels of activity are matched with high levels of calories you get a better body composition and health outcome than would be predicted from a linear calorie model. Read the article [All About G-Flux](https://www.precisionnutrition.com/all-about-g-flux) by Ryan Andrews for an excellent overview. The article states:
+G-Flux is a concept I learned about from Precision Nutrition. They explain it as a process where when high levels of activity are matched with high levels of calories you get a better body composition and health outcome than would be predicted from a linear calorie model.
+
+Read the article [All About G-Flux](https://www.precisionnutrition.com/all-about-g-flux) by Ryan Andrews for an excellent overview. The article states:
 
 > ...to get and stay lean, it’s probably better to exercise as much as you can while eating as much as possible — as long as you’re gaining muscle and losing fat — than the reverse.
 
-The example in the article compares 3 cases where an individual is in calorie balance at 2000, 2500, and 3000 calories. The best outcome is the highest activity level that uses 3000 calories. My impression is G-Flux doesn't conflict with Dr. Pontzer's work, because calories are increased. Without creating a calorie deficit, the body doesn't need to compensate and down-regulate metabolism. To the fans of high levels of exercise, this seems like the path to take. Keep eating to support a higher metabolism and a high activity level. Even if you don't exercise a lot, I'm guessing this principle still applies, although it appears to work best at the upper end. The question is how do you know when your weight-table body is increasing or decreasing metabolism on a week-to-week basis? There are so many variables to consider. My prediction is that technology will solve this problem in time. If I can have a gadget that measures everything and tells me to eat more or move more in near-realtime, that'd be awesome. Until that day comes, perhaps we use a combination of body fat percentage (or tape measure) and (maybe) body temperature or resting pulse. If body-temp and resting pulse are falling that might be signs to eat more. This is speculation.
+The example in the article compares 3 cases where an individual is in calorie balance at 2000, 2500, and 3000 calories. The best outcome is the highest activity level that uses 3000 calories.
+
+My impression is G-Flux doesn't conflict with Dr. Pontzer's work, because calories are increased. Without creating a calorie deficit, the body doesn't need to compensate and down-regulate metabolism. To the fans of high levels of exercise, this seems like the path to take. Keep eating to support a higher metabolism and a high activity level.
+
+Even if you don't exercise a lot, I'm guessing this principle still applies, although it appears to work best at the upper end. The question is how do you know when your weight-table body is increasing or decreasing metabolism on a week-to-week basis? There are so many variables to consider.
+
+My prediction is that technology will solve this problem in time. If I can have a gadget that measures everything and tells me to eat more or move more in near-realtime, that'd be awesome. Until that day comes, perhaps we use a combination of body fat percentage (or tape measure) and (maybe) body temperature or resting pulse. If body-temp and resting pulse are falling that might be signs to eat more. This is speculation.
 
 
 ### Summing Up
 
 
-To me, it sounds like there is an initial agreement that high levels of exercise will not have the previously predicted body composition effects. What those levels of exercise are for you at different stages of life will likely vary. The G-Flux angle is interesting, but I know my slower recovery times did not allow me to exercise a lot or for long periods. Or perhaps, all these years I've never consumed enough calories to support the higher levels of activity to see where it would have taken me? There is a lot to think about here.
+To me, it sounds like there is an initial agreement that high levels of exercise will not have the previously predicted body composition effects. What those levels of exercise are for you at different stages of life will likely vary.
+
+The G-Flux angle is interesting, but I know my slower recovery times did not allow me to exercise a lot or for long periods. Or perhaps, all these years I've never consumed enough calories to support the higher levels of activity to see where it would have taken me? There is a lot to think about here.
 
 ---
 

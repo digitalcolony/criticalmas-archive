@@ -8,7 +8,25 @@ description: "Today in the sauna, there was a man that was about to turn 71 chat
 commentCount: 9
 ---
 
-Today in the sauna, there was a man that was about to turn 71 chatting with his friend who I would guess was maybe 60 years old. They were both to my left. To my right was a bulky overweight man about 30 years old. The 70-year old was in great shape. Easily the top 1% of men for his age. The 60-year old chatted with him on how great he looked and asked how he was staying in such great shape. Of course, I had to listen. I agreed with half of his dietary advice (avoid alcohol and bread) and disagreed with the other half (avoid [potatoes](https://criticalmas.org/best-of/potato-hack-diet/) and [eating 6 times a day](/2012/06/my-experience-with-the-zone-diet/)). But if I were retired and motivated, then prepping 6 meals a day might not be that bad. Then he started talking about young guys at the gym that focus on getting big muscles, but they also end up with big bellies. He stated it wasn't healthy because breathing becomes labored and too shallow. He further went on to say these young guys would be better off being trim if they really cared about their health. Then he pointed at his own abs. I slowly turned my head to the right to see the response from the bulky millennial. He just sat there glued to his phone. Headphones in his ears, playing dance music. He didn't hear a thing. Yet he could clearly see that a 70-year old Adonis was holding class just a few meters away. He couldn't be bothered. In this blog, I often warn about taking the advice of outliers, as we don't know the risks they took to achieve their results. But when your outlier is also a survivor, you pay attention. Soak up their wisdom. Your music can wait. ![](./img/denny-muller-sauna.jpg) _Photo by [Denny Müller](https://unsplash.com/@redaquamedia)_
+Today in the sauna, there was a man that was about to turn 71 chatting with his friend who I would guess was maybe 60 years old. They were both to my left. To my right was a bulky overweight man about 30 years old.
+
+The 70-year old was in great shape. Easily the top 1% of men for his age. The 60-year old chatted with him on how great he looked and asked how he was staying in such great shape. Of course, I had to listen.
+
+I agreed with half of his dietary advice (avoid alcohol and bread) and disagreed with the other half (avoid [potatoes](https://criticalmas.org/best-of/potato-hack-diet/) and [eating 6 times a day](/2012/06/my-experience-with-the-zone-diet/)). But if I were retired and motivated, then prepping 6 meals a day might not be that bad.
+
+Then he started talking about young guys at the gym that focus on getting big muscles, but they also end up with big bellies. He stated it wasn't healthy because breathing becomes labored and too shallow. He further went on to say these young guys would be better off being trim if they really cared about their health. Then he pointed at his own abs.
+
+I slowly turned my head to the right to see the response from the bulky millennial.
+
+He just sat there glued to his phone. Headphones in his ears, playing dance music. He didn't hear a thing. Yet he could clearly see that a 70-year old Adonis was holding class just a few meters away. He couldn't be bothered.
+
+In this blog, I often warn about taking the advice of outliers, as we don't know the risks they took to achieve their results. But when your outlier is also a survivor, you pay attention.
+
+Soak up their wisdom. Your music can wait.
+
+![](./img/denny-muller-sauna.jpg)
+
+_Photo by [Denny Müller](https://unsplash.com/@redaquamedia)_
 
 ---
 

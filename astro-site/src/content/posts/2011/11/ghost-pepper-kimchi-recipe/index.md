@@ -9,7 +9,9 @@ description: "I've been making kimchi now for over two years. I'd say that about
 commentCount: 6
 ---
 
-I've been making kimchi now for over two years. I'd say that about 90% of the people who have tasted my kimchi have found the heat level to be perfect. But I have yet to win over that last 10%, who feel it could be hotter. The problem isn't easily solved. Adding more Korean red pepper flakes does not increase the heat much. And if you add too much, not only is it not that spicy, but it can irritate your stomach. What I needed was a second spice to assist the Korean Red Pepper flakes. First I tried the basic dried red pepper used often in Italian restaurants. It increased the heat, but dominated the flavor. Then I tried Thai chili peppers. Although it added some heat, the taste clashed with the other ingredients. I needed another source of heat.
+I've been making kimchi now for over two years. I'd say that about 90% of the people who have tasted my kimchi have found the heat level to be perfect. But I have yet to win over that last 10%, who feel it could be hotter. The problem isn't easily solved. Adding more Korean red pepper flakes does not increase the heat much. And if you add too much, not only is it not that spicy, but it can irritate your stomach.
+
+What I needed was a second spice to assist the Korean Red Pepper flakes. First I tried the basic dried red pepper used often in Italian restaurants. It increased the heat, but dominated the flavor. Then I tried Thai chili peppers. Although it added some heat, the taste clashed with the other ingredients. I needed another source of heat.
 
 
 ### Bring on the Ghost Peppers
@@ -21,7 +23,11 @@ In September, I developed a spicy sauerkraut recipe called [Ghost Pepper Sauerkr
 ### Warning: It May Be Too Hot!
 
 
-I've made this recipe three times. It may be too hot. The last batch I made was so intense, I needed to cut it with rice. What I discovered is that the heat level is controlled by the ginger. The more ginger, the more muted the heat. So my advice for creating a hot kimchi is to first reduce the amount of ginger before increasing the ghost peppers. **Summary**: _A Spicy Kimchi_ ![ghost-kimchi](./img/ghost-kimchi.jpg)
+I've made this recipe three times. It may be too hot. The last batch I made was so intense, I needed to cut it with rice. What I discovered is that the heat level is controlled by the ginger. The more ginger, the more muted the heat. So my advice for creating a hot kimchi is to first reduce the amount of ginger before increasing the ghost peppers.
+
+**Summary**: _A Spicy Kimchi_
+
+![ghost-kimchi](./img/ghost-kimchi.jpg)
 
 
 #### Ingredients
@@ -49,7 +55,11 @@ I've made this recipe three times. It may be too hot. The last batch I made was 
 7.  Pack in jars
 8.  Allow Fermentation to complete (5-7 days) (read [Kimchi 101](/2011/03/kimchi-101/) for fermentation details)
 
-Preparation time: 1 hour(s) Culinary tradition: Korean + Seattle! ![kimchi-2](./img/kimchi-2.jpg) _Ghost Pepper Kimchi (left) has less Korean Red Pepper flakes than regular Kimchi (right) and a more orange color._
+Preparation time: 1 hour(s) Culinary tradition: Korean + Seattle!
+
+![kimchi-2](./img/kimchi-2.jpg)
+
+_Ghost Pepper Kimchi (left) has less Korean Red Pepper flakes than regular Kimchi (right) and a more orange color._
 
 ---
 

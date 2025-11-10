@@ -15,7 +15,17 @@ This is a follow-up to [Vibe Coding Fitness Calculators](/2025/06/vibe-coding-fi
 2.  [Heart Rate Zones](https://calc.potatohack.com/heart-rate-zones/)
 3.  [One Rep Max](https://calc.potatohack.com/one-rep-max/)
 
-I also updated the [BMI calculator](https://calc.potatohack.com/bmi/) to include an option to use the Asian BMI scale, which is stricter than the standard BMI scale. ![](./img/bmi-asian.png) Claude created this nice body fat chart without me even asking. ![](./img/body-fat-chart.png) We live in interesting times. I can now "code" faster than I blog, thanks to AI. Any ideas for additional calculators?
+I also updated the [BMI calculator](https://calc.potatohack.com/bmi/) to include an option to use the Asian BMI scale, which is stricter than the standard BMI scale.
+
+![](./img/bmi-asian.png)
+
+Claude created this nice body fat chart without me even asking.
+
+![](./img/body-fat-chart.png)
+
+We live in interesting times. I can now "code" faster than I blog, thanks to AI.
+
+Any ideas for additional calculators?
 
 ---
 

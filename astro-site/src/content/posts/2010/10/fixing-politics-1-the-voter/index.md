@@ -9,7 +9,19 @@ description: "I never talk about politics on this blog. I consider myself post-p
 commentCount: 5
 ---
 
-I never talk about politics on this blog. I consider myself post-political. One day I'll talk more about that. Not today though. Instead of complaining about the system, I'm here to offer my solutions. Today's episode is **The Voter**. We all know the problem. Voters are too dumb and are easily manipulated by negative ads. The problem as I see it is that many voters don't understand how our government works. If every voter understood how our government worked, we would be far less likely to fall for attack ads or irrelevant facts. We would nominate and vote for better candidates. And as a result, we would get a better government. My solution is that **in order to vote a citizen must pass the US Citizenship test**. We have to pass a driver's license test to drive on our roads. How about we spend an hour or two learning about how our government works before heading to the polling place? Understanding what it means to be a US Citizen shouldn't be just for immigrants. I think it should be for everyone that wants to participate in the voting process. ![vote-here](./img/vote-here.jpg) _[Photo](https://flic.kr/p/5zvkFt) by Erik (HASH) Hersman_ Participation rate in elections would fall, but the citizens that care enough to study and pass the test would see the power of their vote increase. The political debate would get more civil, as politicians would know that voters collectively understand government A LOT BETTER than they used to. If my solution were adopted we would see a mad rush by all political parties to educate the population on the Constitution and American history. Much better than the current scare tactics method. Wouldn't that be a great thing?
+I never talk about politics on this blog. I consider myself post-political. One day I'll talk more about that. Not today though. Instead of complaining about the system, I'm here to offer my solutions.
+
+Today's episode is **The Voter**. We all know the problem. Voters are too dumb and are easily manipulated by negative ads. The problem as I see it is that many voters don't understand how our government works. If every voter understood how our government worked, we would be far less likely to fall for attack ads or irrelevant facts. We would nominate and vote for better candidates. And as a result, we would get a better government.
+
+My solution is that **in order to vote a citizen must pass the US Citizenship test**. We have to pass a driver's license test to drive on our roads. How about we spend an hour or two learning about how our government works before heading to the polling place? Understanding what it means to be a US Citizen shouldn't be just for immigrants. I think it should be for everyone that wants to participate in the voting process.
+
+![vote-here](./img/vote-here.jpg)
+
+_[Photo](https://flic.kr/p/5zvkFt) by Erik (HASH) Hersman_
+
+Participation rate in elections would fall, but the citizens that care enough to study and pass the test would see the power of their vote increase. The political debate would get more civil, as politicians would know that voters collectively understand government A LOT BETTER than they used to.
+
+If my solution were adopted we would see a mad rush by all political parties to educate the population on the Constitution and American history. Much better than the current scare tactics method. Wouldn't that be a great thing?
 
 ---
 

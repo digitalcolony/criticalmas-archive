@@ -9,11 +9,23 @@ description: "I'm continually amazed on how otherwise intelligent people fail to
 commentCount: 6
 ---
 
-I'm continually amazed on how otherwise intelligent people fail to learn the lessons of history. Whenever an asset class gets into an inflated bubble, the bubble does top out and the blowback is a bitch. Prices do not settle to fair market. They overshoot. Home prices will not settle gracefully to fair market values. They will go lower. Here is why. The normal way to buy a home is to first save up enough money for a down payment. During the bubble years, homes were appreciating at a faster rate than one could save money. Lenders then lowered the standards and this pushed values even higher. They threw gasoline on the fire. Anyone that sat on the sidelines was punished for missing out on the appreciation. Credit was king and cash was trash. Now we are seeing the opposite. **Home prices are now depreciating at a faster rate than one can build savings.** So every month that passes by, the saver is able to afford a better home. **Ironically, being a renter and staying out of the market is now the fastest way to build (future) home equity.** Credit is drying up and soon cash will be king. One of my financial mentors Karl Denninger wrote this today:
+I'm continually amazed on how otherwise intelligent people fail to learn the lessons of history. Whenever an asset class gets into an inflated bubble, the bubble does top out and the blowback is a bitch. Prices do not settle to fair market. They overshoot. Home prices will not settle gracefully to fair market values. They will go lower.
 
-> What this means for you is that if you think home prices will "bottom" in the next six to nine months **you are sadly mistaken and are about to get a very expensive and nasty lesson in the reality of economics.** In addition we are likely to see an overshoot in prices - perhaps by 1/4 to 1/2 of the "height" of the bubble. If so, that would take inflation-adjusted home prices down to around $100,000, which is a decline of another **fifty to sixty percent** - not 30% - from **today's** prices.
+Here is why. The normal way to buy a home is to first save up enough money for a down payment. During the bubble years, homes were appreciating at a faster rate than one could save money. Lenders then lowered the standards and this pushed values even higher. They threw gasoline on the fire. Anyone that sat on the sidelines was punished for missing out on the appreciation. Credit was king and cash was trash.
 
-In a normal market, the future home buyer can pull out a calculator to determine when it is time to buy a house. When an asset bubble collapses, one also needs to figure out the market sentiment. Look at the chart below. [![](./img/cycle.jpg "cycle")](./img/cycle.jpg) Back in March, I listed 4 rules for [Picking a Real Estate Bottom](/2008/03/picking-a-real-estate-bottom/). I would add market sentiment as a loose 5th rule. Be aware of it. Listen. Save money and be patient. That million dollar condo with the view won't be a million at the bottom.
+Now we are seeing the opposite. **Home prices are now depreciating at a faster rate than one can build savings.** So every month that passes by, the saver is able to afford a better home. **Ironically, being a renter and staying out of the market is now the fastest way to build (future) home equity.** Credit is drying up and soon cash will be king.
+
+One of my financial mentors Karl Denninger wrote this today:
+
+> What this means for you is that if you think home prices will "bottom" in the next six to nine months **you are sadly mistaken and are about to get a very expensive and nasty lesson in the reality of economics.**
+> 
+> In addition we are likely to see an overshoot in prices - perhaps by 1/4 to 1/2 of the "height" of the bubble. If so, that would take inflation-adjusted home prices down to around $100,000, which is a decline of another **fifty to sixty percent** - not 30% - from **today's** prices.
+
+In a normal market, the future home buyer can pull out a calculator to determine when it is time to buy a house. When an asset bubble collapses, one also needs to figure out the market sentiment. Look at the chart below.
+
+[![](./img/cycle.jpg "cycle")](./img/cycle.jpg)
+
+Back in March, I listed 4 rules for [Picking a Real Estate Bottom](/2008/03/picking-a-real-estate-bottom/). I would add market sentiment as a loose 5th rule. Be aware of it. Listen. Save money and be patient. That million dollar condo with the view won't be a million at the bottom.
 
 ---
 

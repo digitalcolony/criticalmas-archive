@@ -9,13 +9,27 @@ description: "I am back from an 8 day trip to my home state of Ohio. My last vis
 commentCount: 8
 ---
 
-I am back from an 8 day trip to my home state of Ohio. My last visit was in December 2011. I covered that experience in the post [Paleo in Ohio - Adventures in Inflammation](/2011/12/paleo-in-ohio-adventures-in-inflammation/). In that blog entry, I discussed how I tried my best to dodge the 4 big toxins, which were gluten, veggie oils, sugar and legumes. _Since that trip I've moved sugar off the toxin list and placed into [neutral status](/2013/03/my-evolving-opinion-of-sugar/)._ By trying to eat Seattle clean during that trip proved impossible and I got some gluten exposure, which made me ill. I was also getting back pains due to stress caused by my lack of dietary control. I learned a lot that trip. Being neurotic about food can be worse for our health than just embracing what is outside our control as best as we can. It was then that I refocused my health journey. It would no longer be about being more healthy or seeking optimal health. The focus shifted to resiliency. I covered that in the post [Healthy vs Resilient](/2012/05/healthy-vs-resilient/).
+I am back from an 8 day trip to my home state of Ohio. My last visit was in December 2011. I covered that experience in the post [Paleo in Ohio - Adventures in Inflammation](/2011/12/paleo-in-ohio-adventures-in-inflammation/). In that blog entry, I discussed how I tried my best to dodge the 4 big toxins, which were gluten, veggie oils, sugar and legumes. _Since that trip I've moved sugar off the toxin list and placed into [neutral status](/2013/03/my-evolving-opinion-of-sugar/)._
+
+By trying to eat Seattle clean during that trip proved impossible and I got some gluten exposure, which made me ill. I was also getting back pains due to stress caused by my lack of dietary control.
+
+I learned a lot that trip. Being neurotic about food can be worse for our health than just embracing what is outside our control as best as we can. It was then that I refocused my health journey. It would no longer be about being more healthy or seeking optimal health. The focus shifted to resiliency. I covered that in the post [Healthy vs Resilient](/2012/05/healthy-vs-resilient/).
 
 
 ### Post Paleo
 
 
-For this trip I decided my only goal would be to avoid gluten. It really would make me miserable, so I can't bend on that. Everything else was wide open. Avoiding veggie oils would be impossible and would make me a poor guest if I tried. So during my trip, I had no pastured meat, nothing heirloom and only a single organic apple. Everything was cooked in veggie oil. I had some legumes. I drank a few colas that had High Fructose Corn Syrup. But I didn't have any gluten exposure. The result was I felt great and got great sleep. I gained a few pounds. Oh well. I ate at Taco Bell, Wendy's and Boston Market. I survived. ![Taco](http://farm9.staticflickr.com/8198/8189686434_a4914b088f_z.jpg) _I had both Doritos style tacos while in Columbus. [Photo](http://www.flickr.com/photos/kalleboo/8189686434/) by Karl Baron._ Now I am back home and eating more healthy again. Last night I had a [Beef Heart Stew](/2013/02/beef-heart-stew-rebooted-slow-cooker-recipe/) using my my homemade [beef stock](/2011/04/homemade-beef-broth/). Taco Bell will have to wait until my next visit to Ohio.
+For this trip I decided my only goal would be to avoid gluten. It really would make me miserable, so I can't bend on that. Everything else was wide open. Avoiding veggie oils would be impossible and would make me a poor guest if I tried.
+
+So during my trip, I had no pastured meat, nothing heirloom and only a single organic apple. Everything was cooked in veggie oil. I had some legumes. I drank a few colas that had High Fructose Corn Syrup. But I didn't have any gluten exposure. The result was I felt great and got great sleep. I gained a few pounds. Oh well.
+
+I ate at Taco Bell, Wendy's and Boston Market. I survived.
+
+![Taco](http://farm9.staticflickr.com/8198/8189686434_a4914b088f_z.jpg)
+
+_I had both Doritos style tacos while in Columbus. [Photo](http://www.flickr.com/photos/kalleboo/8189686434/) by Karl Baron._
+
+Now I am back home and eating more healthy again. Last night I had a [Beef Heart Stew](/2013/02/beef-heart-stew-rebooted-slow-cooker-recipe/) using my my homemade [beef stock](/2011/04/homemade-beef-broth/). Taco Bell will have to wait until my next visit to Ohio.
 
 ---
 

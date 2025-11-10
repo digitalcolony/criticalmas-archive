@@ -39,13 +39,19 @@ In addition to lifeguard, I also mention military and law enforcement. But maybe
 ### Confusing Skill With Strength
 
 
-I failed to add this in Part 1, but another reason HIT isn't as popular is lifters discount the skill component in the classic lifts and when they try HIT they notice their numbers go down. They then come to the false conclusion that they lost strength. I cover this fallacy in the post [More Bench Press Nonsense](/2013/03/more-bench-press-nonsense/). HIT doesn't make you slower or weaker. You still need to train your sport. And if your sport is squatting, benching, and sprinting, you need to squat, bench and sprint. Those are skill moves that require repetitions. Most fit-tards fail to understand this point. I used to try and explain it, but not anymore.
+I failed to add this in Part 1, but another reason HIT isn't as popular is lifters discount the skill component in the classic lifts and when they try HIT they notice their numbers go down. They then come to the false conclusion that they lost strength. I cover this fallacy in the post [More Bench Press Nonsense](/2013/03/more-bench-press-nonsense/).
+
+HIT doesn't make you slower or weaker. You still need to train your sport. And if your sport is squatting, benching, and sprinting, you need to squat, bench and sprint. Those are skill moves that require repetitions. Most fit-tards fail to understand this point. I used to try and explain it, but not anymore.
 
 
 ### MyHIT
 
 
-Over the past few years, my version of HIT has drifted away from the one-set to failure model. In fact, on most days I don't go to failure. I've traded intensity for volume. What I haven't surrendered is a strict adherence to exercise safety. To me, the key strength of HIT is not the intensity part, but the choice of exercises. By selecting exercises that allow me to safely go to failure or not, I can avoid injury. It doesn't matter if my reps are 3 seconds or 10 seconds or 30 seconds or static holds. The movement remains safe. The reason I dialed down the intensity and increased the volume was because of temperature and my somatype. Gyms are too warm. By my estimate, most gyms are 10 degrees F too warm. Because I tend to get exertion headaches easy I've learned to drop the intensity for volume. Also, there is research, even research mentioned in _Body By Science_, that suggests ectomorphs might do better with more volume. See the post [Is High-Intensity Training Best for Ectomorphs?](/2012/08/is-high-intensity-training-best-for-ectomorphs/) for an explanation. So I don't know what I should call my version of HIT. I still believe in the following:
+Over the past few years, my version of HIT has drifted away from the one-set to failure model. In fact, on most days I don't go to failure. I've traded intensity for volume. What I haven't surrendered is a strict adherence to exercise safety. To me, the key strength of HIT is not the intensity part, but the choice of exercises. By selecting exercises that allow me to safely go to failure or not, I can avoid injury. It doesn't matter if my reps are 3 seconds or 10 seconds or 30 seconds or static holds. The movement remains safe.
+
+The reason I dialed down the intensity and increased the volume was because of temperature and my somatype. Gyms are too warm. By my estimate, most gyms are 10 degrees F too warm. Because I tend to get exertion headaches easy I've learned to drop the intensity for volume. Also, there is research, even research mentioned in _Body By Science_, that suggests ectomorphs might do better with more volume. See the post [Is High-Intensity Training Best for Ectomorphs?](/2012/08/is-high-intensity-training-best-for-ectomorphs/) for an explanation.
+
+So I don't know what I should call my version of HIT. I still believe in the following:
 
 1.  Select exercises that can be taken to failure safely - even if you don't plan to go to failure.
 2.  Exercises should be performed at a controlled (slower) pace. Avoid adding momentum to make the movement easier.
@@ -56,7 +62,11 @@ Over the past few years, my version of HIT has drifted away from the one-set to 
 7.  Body By Science (machines) and [Hillfit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/) (bodyweight) are the best HIT books.
 8.  Arthur Jones is a genius.
 
-![body by science](./img/51DXynBp-CL.jpg) My version of HIT solves some of the issues others were having. It isn't too efficient. Because I don't go to failure all the time, I am not in deep soreness. I can work out more frequently and longer. I vary my rep speed and number of sets for novelty. Yet I do not subject myself to injury risk via poor exercise selection. In other words, I still don't squat or bench. Best of both worlds. Am I in better shape with more volume than I had I stuck to 1-set to failure HIT? Probably not, but unless I can find a gym that drops the temperature significantly, higher volume is better for me.
+![body by science](./img/51DXynBp-CL.jpg)
+
+My version of HIT solves some of the issues others were having. It isn't too efficient. Because I don't go to failure all the time, I am not in deep soreness. I can work out more frequently and longer. I vary my rep speed and number of sets for novelty. Yet I do not subject myself to injury risk via poor exercise selection. In other words, I still don't squat or bench. Best of both worlds.
+
+Am I in better shape with more volume than I had I stuck to 1-set to failure HIT? Probably not, but unless I can find a gym that drops the temperature significantly, higher volume is better for me.
 
 ---
 

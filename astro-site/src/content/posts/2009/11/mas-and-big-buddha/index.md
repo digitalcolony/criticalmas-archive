@@ -9,4 +9,6 @@ description: "I'm the one in front. !bkk-mas-big-buddha"
 commentCount: 0
 ---
 
-I'm the one in front. ![bkk-mas-big-buddha](./img/bkk-mas-big-buddha-300x277.jpg "bkk-mas-big-buddha")
+I'm the one in front.
+
+![bkk-mas-big-buddha](./img/bkk-mas-big-buddha-300x277.jpg "bkk-mas-big-buddha")

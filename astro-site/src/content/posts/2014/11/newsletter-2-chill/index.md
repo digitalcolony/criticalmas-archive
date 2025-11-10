@@ -8,13 +8,19 @@ description: "Yesterday I sent off my 2nd newsletter, which I called Chill. I w
 commentCount: 7
 ---
 
-Yesterday I sent off my 2nd newsletter, which I called Chill. I was very reluctant to start a newsletter. My thinking is that readers already have RSS, Twitter and can even have each post sent via email. Why should I add more noise and yet another newsletter? It turned out that I really enjoyed putting together the two newsletters so far. Instead of being link dumps, I wanted to attempt to connect the various posts with a new narrative. For those that aren't signed up, here is a direct link to Newsletter #2.
+Yesterday I sent off my 2nd newsletter, which I called Chill. I was very reluctant to start a newsletter. My thinking is that readers already have RSS, Twitter and can even have each post sent via email. Why should I add more noise and yet another newsletter?
+
+It turned out that I really enjoyed putting together the two newsletters so far. Instead of being link dumps, I wanted to attempt to connect the various posts with a new narrative.
+
+For those that aren't signed up, here is a direct link to Newsletter #2.
 
 
 ### [http://eepurl.com/8HjG1](http://eepurl.com/8HjG1)
 
 
-If you have any comments regarding the newsletter, leave them below. Right now the plan is to put out a new newsletter every other month. ![No MAS!](./img/299879376_FJu7i-S.jpg)
+If you have any comments regarding the newsletter, leave them below. Right now the plan is to put out a new newsletter every other month.
+
+![No MAS!](./img/299879376_FJu7i-S.jpg)
 
 ---
 

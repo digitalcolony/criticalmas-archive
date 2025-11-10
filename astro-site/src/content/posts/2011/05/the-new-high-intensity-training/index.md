@@ -9,14 +9,30 @@ description: "My interest in High-Intensity Training continues. !The New High In
 commentCount: 8
 ---
 
-My interest in High-Intensity Training continues. ![The New High Intensity Training: The Best Muscle-Building System You've Never Tried](https://images-na.ssl-images-amazon.com/images/I/51FNHVE65DL.jpg) _The New High-Intensity Training: The Best Muscle-Building System You've Never Tried by Ellington Darden Ph.D_. is an outstanding book on the principles of High-Intensity Training. It starts with a history lesson on the early days of HIT with Arthur Jones, Casey Viator, and the Mentzer brothers. At first, I wondered why it was important to put the history of HIT inside a training program, but it made perfect sense after reading those chapters. Much like the nutrition book [Good Calories, Bad Calories](/2009/12/good-calories-bad-calories-is-the-best-book-ever-written-on-nutrition/) by Gary Taubes, it really is essential to understand how we came to _know_ information that ended up being completely wrong. Darden does an excellent job of covering the genetic potential for muscle growth. I already knew that as an ectomorph, my somatype was the least ideal for gaining muscle. After doing the two tests in the book, I confirmed that my physique has the absolute worst potential for size. I'll share those tests in a future post. For those unfamiliar with High-Intensity Training, it differs from traditional high volume training in the following ways.
+My interest in High-Intensity Training continues.
+
+![The New High Intensity Training: The Best Muscle-Building System You've Never Tried](https://images-na.ssl-images-amazon.com/images/I/51FNHVE65DL.jpg) _The New High-Intensity Training: The Best Muscle-Building System You've Never Tried by Ellington Darden Ph.D_. is an outstanding book on the principles of High-Intensity Training. It starts with a history lesson on the early days of HIT with Arthur Jones, Casey Viator, and the Mentzer brothers. At first, I wondered why it was important to put the history of HIT inside a training program, but it made perfect sense after reading those chapters. Much like the nutrition book [Good Calories, Bad Calories](/2009/12/good-calories-bad-calories-is-the-best-book-ever-written-on-nutrition/) by Gary Taubes, it really is essential to understand how we came to _know_ information that ended up being completely wrong.
+
+Darden does an excellent job of covering the genetic potential for muscle growth. I already knew that as an ectomorph, my somatype was the least ideal for gaining muscle. After doing the two tests in the book, I confirmed that my physique has the absolute worst potential for size. I'll share those tests in a future post.
+
+For those unfamiliar with High-Intensity Training, it differs from traditional high volume training in the following ways.
 
 -   Shorter more intense workouts.
 -   1 set to failure.
 -   Slower more controlled movements.
 -   Fewer workouts with a focus on recovery.
 
-There are different methods for High-Intensity Training, but those are some of the most common principles. The _New High-Intensity Training_ covers a lot of different HIT methods. _The New High-Intensity Training_ is beautifully edited. The book is packed with very tight writing. It has excellent photos that clearly demonstrate each exercise. While reading this book, I was inspired by the photos to try out a few exercises. Last Friday I did negative dips and negative chins using a weighted belt. I used 90 pounds for the dip and 45 pounds on the chin. My arms still haven't recovered. My only complaint with this book was the nutritional advice. It was awful. Darden recommends calorie counting and eating nutritionally empty foods such as whole-wheat bread, low-fat dairy, snack bars, and microwave dinners. This book was written in 2004. I hope his thinking has evolved on this topic. I was misguided back then myself. One of the key components to the success of High-Intensity Training is recovery. My belief is that eating highly nutritious whole foods would help facilitate that goal. What should bodybuilders eat? The foods outlined in the book [The 150 Healthiest Foods on Earth](/2008/03/150-superfoods-because-14-just-wasnt-enough/), with a bias towards more calories and carbohydrates on training days and less during recovery. The _New High-Intensity Training_, despite the few pages on nutrition, was excellent. I read lots of books on fitness. Very few will ever make it into my personal library. This book will. **2020 UPDATE:** Darden was likely more correct than I gave him credit for on nutrition. Taubes turned out to be less credible to me.
+There are different methods for High-Intensity Training, but those are some of the most common principles. The _New High-Intensity Training_ covers a lot of different HIT methods.
+
+_The New High-Intensity Training_ is beautifully edited. The book is packed with very tight writing. It has excellent photos that clearly demonstrate each exercise. While reading this book, I was inspired by the photos to try out a few exercises. Last Friday I did negative dips and negative chins using a weighted belt. I used 90 pounds for the dip and 45 pounds on the chin. My arms still haven't recovered.
+
+My only complaint with this book was the nutritional advice. It was awful. Darden recommends calorie counting and eating nutritionally empty foods such as whole-wheat bread, low-fat dairy, snack bars, and microwave dinners. This book was written in 2004. I hope his thinking has evolved on this topic. I was misguided back then myself.
+
+One of the key components to the success of High-Intensity Training is recovery. My belief is that eating highly nutritious whole foods would help facilitate that goal. What should bodybuilders eat? The foods outlined in the book [The 150 Healthiest Foods on Earth](/2008/03/150-superfoods-because-14-just-wasnt-enough/), with a bias towards more calories and carbohydrates on training days and less during recovery.
+
+The _New High-Intensity Training_, despite the few pages on nutrition, was excellent. I read lots of books on fitness. Very few will ever make it into my personal library. This book will.
+
+**2020 UPDATE:** Darden was likely more correct than I gave him credit for on nutrition. Taubes turned out to be less credible to me.
 
 ---
 

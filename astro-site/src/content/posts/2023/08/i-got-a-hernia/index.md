@@ -9,7 +9,11 @@ description: "About 3 weeks ago, I felt off, but I didn't know why. I suspected 
 commentCount: 11
 ---
 
-About 3 weeks ago, I felt off, but I didn't know why. I suspected I may have gotten a hernia, but I had no knowledge of the topic, so I did some online research and visual inspection. I decided I didn't have a hernia. Then a few days later, I felt it again only more pronounced. This time I could see the hernia. It is an inguinal hernia on the right side. I don't know for certain what triggered it or even when it first happened. I wasn't at the gym. I was making coffee in the morning when I had that first sensation. I've since watched numerous hours of online videos on the topic and had long chats with Chat GPT. Here is what I learned and what I suspect happened. Let me know in the comments if I made any errors.
+About 3 weeks ago, I felt off, but I didn't know why. I suspected I may have gotten a hernia, but I had no knowledge of the topic, so I did some online research and visual inspection. I decided I didn't have a hernia. Then a few days later, I felt it again only more pronounced. This time I could see the hernia. It is an inguinal hernia on the right side.
+
+I don't know for certain what triggered it or even when it first happened. I wasn't at the gym. I was making coffee in the morning when I had that first sensation.
+
+I've since watched numerous hours of online videos on the topic and had long chats with Chat GPT. Here is what I learned and what I suspect happened. Let me know in the comments if I made any errors.
 
 1.  25% of all men will get a hernia at some point in their life. 3% for women.
 2.  It impacts both the heavy and out-of-shape and the athletic.
@@ -19,7 +23,17 @@ About 3 weeks ago, I felt off, but I didn't know why. I suspected I may have got
 6.  Hernias don't heal on their own, however, some men are able to push the protrusion back inside and go on fine without surgery. Jeff Cavaliere from Athlean-X has had 2 hernias. He got surgery for his first one and not his second. The second one happened 8 or 10 years ago.
 7.  There are 2 main types of surgery: [open and laparoscopic](https://my.clevelandclinic.org/health/treatments/17967-hernia-repair-surgery).
 
-Many lifters get their hernias from lifting heavy. I don't lift heavy. I stopped doing "bro lifts" years ago. And I haven't done a [supported 1-arm row](https://youtu.be/GLHGa2MCI_A) in several years. So what do I think happened? After some long chats and detective work with Chat GPT, I discovered there are certain yoga poses that stretch the abdominals. When you then add a twist to that movement you increase the risk of hernia. Although a few poses are candidates, I think the upward dog with a twist is probably what triggered my hernia. ![](./img/oksana-taran-4Bg1yKRfnD8-unsplash.jpg) _Upward Facing Dog photo by [Oksana Taran](https://unsplash.com/@oksanataran?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_ I consume a lot of fitness info and yet I went two years of doing yoga every single morning without knowing anything about this risk. My guess is 99% of yoga content is made for and consumed by women, who do not have the same hernia risk profile as a taller man would. When I shared this information with a surgeon that I had consulted with, even though she was unaware of these yoga pose risks, it made sense to her. Maybe this post might be a warning to other men. Be careful before holding poses with your abs stretched and twisted.
+Many lifters get their hernias from lifting heavy. I don't lift heavy. I stopped doing "bro lifts" years ago. And I haven't done a [supported 1-arm row](https://youtu.be/GLHGa2MCI_A) in several years. So what do I think happened?
+
+After some long chats and detective work with Chat GPT, I discovered there are certain yoga poses that stretch the abdominals. When you then add a twist to that movement you increase the risk of hernia. Although a few poses are candidates, I think the upward dog with a twist is probably what triggered my hernia.
+
+![](./img/oksana-taran-4Bg1yKRfnD8-unsplash.jpg)
+
+_Upward Facing Dog photo by [Oksana Taran](https://unsplash.com/@oksanataran?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+
+I consume a lot of fitness info and yet I went two years of doing yoga every single morning without knowing anything about this risk. My guess is 99% of yoga content is made for and consumed by women, who do not have the same hernia risk profile as a taller man would.
+
+When I shared this information with a surgeon that I had consulted with, even though she was unaware of these yoga pose risks, it made sense to her. Maybe this post might be a warning to other men. Be careful before holding poses with your abs stretched and twisted.
 
 
 #### Hernia Recipe
@@ -37,7 +51,19 @@ Why do I think I got a hernia?
 ### Now What?
 
 
-I am not in pain. I do feel discomfort. Some days are worse than others. Although I was instructed on how to push the hernia back inside, so far, it is not working well for me. It usually pops right back out. 🥴 I am in the "watchful waiting" period to see if I can carry on a normal life with the hernia. Most men do not get surgery for their hernias and only a fraction get the surgery in the first year. My movement is absolutely restricted. I've been doing grandma-style machine workouts at my gym - [minus the fast negative](/2014/04/silversneakers-young-trainers-teaching-old-timers-bad-lifting-form/). 😉 Even my morning stretching has been restricted. This can't continue. The surgeon I spoke to does open hernias, but there are others in the clinic that do laparoscopic. She explained to me that because my body fat percentage was low, I would do great with either option. On the Athlean-X YouTube channel, Jeff made a misrepresentation (which may have been true at one time) that open hernia surgeries do not use the mesh container used in laparoscopic surgeries and are only held together with a stitch that could come undone. The mesh is used for both open and laparoscopic. I'm leaning toward scheduling surgery in September. My lease ends in mid-November. I want to be fully recovered and able to move at that time. Otherwise, I might be forced to renew at a higher rent. Moving sucks. Moving while in pain would suck even more. If you have any wisdom on this topic, drop a comment. **UPDATE:** I had the surgery on September 20th.
+I am not in pain. I do feel discomfort. Some days are worse than others. Although I was instructed on how to push the hernia back inside, so far, it is not working well for me. It usually pops right back out. 🥴
+
+I am in the "watchful waiting" period to see if I can carry on a normal life with the hernia. Most men do not get surgery for their hernias and only a fraction get the surgery in the first year.
+
+My movement is absolutely restricted. I've been doing grandma-style machine workouts at my gym - [minus the fast negative](/2014/04/silversneakers-young-trainers-teaching-old-timers-bad-lifting-form/). 😉 Even my morning stretching has been restricted. This can't continue.
+
+The surgeon I spoke to does open hernias, but there are others in the clinic that do laparoscopic. She explained to me that because my body fat percentage was low, I would do great with either option. On the Athlean-X YouTube channel, Jeff made a misrepresentation (which may have been true at one time) that open hernia surgeries do not use the mesh container used in laparoscopic surgeries and are only held together with a stitch that could come undone. The mesh is used for both open and laparoscopic.
+
+I'm leaning toward scheduling surgery in September. My lease ends in mid-November. I want to be fully recovered and able to move at that time. Otherwise, I might be forced to renew at a higher rent. Moving sucks. Moving while in pain would suck even more.
+
+If you have any wisdom on this topic, drop a comment.
+
+**UPDATE:** I had the surgery on September 20th.
 
 ---
 

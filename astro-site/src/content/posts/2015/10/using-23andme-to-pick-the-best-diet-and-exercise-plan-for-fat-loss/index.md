@@ -9,7 +9,19 @@ description: "It has been a while since I thought about my 23andMe account. Back
 commentCount: 12
 ---
 
-It has been a while since I thought about my 23andMe account. Back in April 2013, I shared my [23andMe health results](/2013/04/23andme-results/) and did a post on [my ancestry](/2013/10/finding-relatives-23andme/). Yesterday I was tipped off to the post [These 5 Genes Predict What Kind of Diet and Exercise is Best For Your Body](https://web.archive.org/web/20190321024623/https://rockstarresearch.com/these-5-genes-predict-what-kind-of-diet-and-exercise-is-best-for-your-body-2/) over on _Rockstar Research_. The premise of the post is that researchers have discovered that different people respond to different forms of diets and exercises at the gene level. And instead of digging through hundreds if not thousands of pages of research and references, the _Rockstar_ post simplifies all that info into a simple flowchart. For this post, I will use my data to see which exercise and diet are best for my fat loss. ![23andme-gene-explorer](./img/23andme-gene-explorer.png) _Browse Raw Data - 23andMe_ **My Data**
+It has been a while since I thought about my 23andMe account.
+
+Back in April 2013, I shared my [23andMe health results](/2013/04/23andme-results/) and did a post on [my ancestry](/2013/10/finding-relatives-23andme/). Yesterday I was tipped off to the post [These 5 Genes Predict What Kind of Diet and Exercise is Best For Your Body](https://web.archive.org/web/20190321024623/https://rockstarresearch.com/these-5-genes-predict-what-kind-of-diet-and-exercise-is-best-for-your-body-2/) over on _Rockstar Research_.
+
+The premise of the post is that researchers have discovered that different people respond to different forms of diets and exercises at the gene level. And instead of digging through hundreds if not thousands of pages of research and references, the _Rockstar_ post simplifies all that info into a simple flowchart.
+
+For this post, I will use my data to see which exercise and diet are best for my fat loss.
+
+![23andme-gene-explorer](./img/23andme-gene-explorer.png)
+
+_Browse Raw Data - 23andMe_
+
+**My Data**
 
 -   rs4994 = AA
 -   rs1042713 = GG
@@ -19,11 +31,21 @@ It has been a while since I thought about my 23andMe account. Back in April 2013
 -   rs1799883 = not found
 -   rs1801282 = CG
 
-**Result #2 = You Will Lose 2.5X as Much Weight on a Low Carb Diet** Interesting. My personal story is that when I did a lot of [endurance running](/2008/03/the-runner-1989-1995/), I never got any leaner. Also, the time I did lose the most weight was when I cut the carbs. Was it reduced carbs? Or was it the increased protein in the diet? How much of a role does genetics play here? I don't know, but this has my attention now. It is one more piece of the puzzle. **UPDATE** After the comment by Anemone, which states that not having the rs1799883 marker in your test results means you need to test both paths. So here are more results:
+**Result #2 = You Will Lose 2.5X as Much Weight on a Low Carb Diet**
+
+Interesting.
+
+My personal story is that when I did a lot of [endurance running](/2008/03/the-runner-1989-1995/), I never got any leaner. Also, the time I did lose the most weight was when I cut the carbs. Was it reduced carbs? Or was it the increased protein in the diet? How much of a role does genetics play here? I don't know, but this has my attention now. It is one more piece of the puzzle.
+
+**UPDATE**
+
+After the comment by Anemone, which states that not having the rs1799883 marker in your test results means you need to test both paths. So here are more results:
 
 -   rs1801282 = CG
 
-**Result #3 = You Will Lose 2.5X as Much Weight on a Low Fat Diet** Going down this path contradicts the previous result. The exercise recommendation remains unchanged. So unless I can figure out what my rs1799883 is, I don't know if I am genetically more likely to lose fat following a low-carb or low-fat diet.
+**Result #3 = You Will Lose 2.5X as Much Weight on a Low Fat Diet**
+
+Going down this path contradicts the previous result. The exercise recommendation remains unchanged. So unless I can figure out what my rs1799883 is, I don't know if I am genetically more likely to lose fat following a low-carb or low-fat diet.
 
 ---
 

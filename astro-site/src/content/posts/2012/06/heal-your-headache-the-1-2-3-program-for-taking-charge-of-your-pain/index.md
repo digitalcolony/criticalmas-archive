@@ -9,7 +9,13 @@ description: "I just finished reading a book that provides a new framework for u
 commentCount: 14
 ---
 
-I just finished reading a book that provides a new framework for understanding my headaches. Since March 2011 I have been diligently trying to track down the cause of my late night headaches. I've had them for many years, but only recently decided to seriously pursue their cause. I've done many tests and tried numerous supplements, but haven't found the cause. At times I felt I was getting close, but the data hasn't shown that I've made any improvements. Part of the problem I discovered when trying to research headache causes is that there is a web page out there for every suspect. You can go mad trying to figure out and weigh true risk factors from the extremely rare conditions. _Heal Your Headache_ has a clear message about the roots of headaches and what steps we need to take to fix the problem. ![Heal Your Headache](./img/heal-your-headache-123.jpg "Heal Your Headache") _Heal Your Headache: The 1-2-3 Program for Taking Charge of Your Pain by David Buchholz, M.D._
+I just finished reading a book that provides a new framework for understanding my headaches. Since March 2011 I have been diligently trying to track down the cause of my late night headaches. I've had them for many years, but only recently decided to seriously pursue their cause. I've done many tests and tried numerous supplements, but haven't found the cause. At times I felt I was getting close, but the data hasn't shown that I've made any improvements.
+
+Part of the problem I discovered when trying to research headache causes is that there is a web page out there for every suspect. You can go mad trying to figure out and weigh true risk factors from the extremely rare conditions. _Heal Your Headache_ has a clear message about the roots of headaches and what steps we need to take to fix the problem.
+
+![Heal Your Headache](./img/heal-your-headache-123.jpg "Heal Your Headache")
+
+_Heal Your Headache: The 1-2-3 Program for Taking Charge of Your Pain by David Buchholz, M.D._
 
 
 ### It's Likely Migraine
@@ -37,7 +43,9 @@ This section deals with how we respond to pain. What medications we take. The au
 ### Reducing Triggers
 
 
-A headache occurs when the cumulative triggers exceed our pain threshold. That makes sense. Triggers can be dietary, weather and/or stress based. They can also come from medication we are taking. Headaches may or may not occur at the time those triggers are present or they may occur later when the triggers aren't present. This makes the testing approaches I've taken so far pretty much worthless, because removing a single trigger (or class of triggers) may not be enough. _Heal Your Headache_ advises a strict dietary approach that removes the major triggers and then after being **4 months** in the clear, start adding back foods to see if specific triggers can be isolated. Four months is a lot longer than any test I've done so far.
+A headache occurs when the cumulative triggers exceed our pain threshold. That makes sense. Triggers can be dietary, weather and/or stress based. They can also come from medication we are taking. Headaches may or may not occur at the time those triggers are present or they may occur later when the triggers aren't present. This makes the testing approaches I've taken so far pretty much worthless, because removing a single trigger (or class of triggers) may not be enough.
+
+_Heal Your Headache_ advises a strict dietary approach that removes the major triggers and then after being **4 months** in the clear, start adding back foods to see if specific triggers can be isolated. Four months is a lot longer than any test I've done so far.
 
 
 ### Raising your Threshold
@@ -49,7 +57,9 @@ I didn't understand most of this section. It talked a lot about specific medic
 ### Dietary Triggers
 
 
-The good news is that if I accept the premise of this book and remove the dietary triggers that my headaches could be cured or greatly reduced. The bad news is the **#1 trigger for migraines is caffeine**. Caffeine also paradoxically can make the migraine pain go away in the short term. The author states that this help in the short term increases headaches in the long run. Other dietary triggers include:
+The good news is that if I accept the premise of this book and remove the dietary triggers that my headaches could be cured or greatly reduced. The bad news is the **#1 trigger for migraines is caffeine**. Caffeine also paradoxically can make the migraine pain go away in the short term. The author states that this help in the short term increases headaches in the long run.
+
+Other dietary triggers include:
 
 -   Chocolate
 -   MSG

@@ -9,25 +9,37 @@ description: "Now that I've conquered the Gyro Meatloaf, my number cooking prior
 commentCount: 7
 ---
 
-Now that I've conquered the [Gyro Meatloaf](/2012/03/the-gyro-meatloaf-recipe/), my number cooking priority is getting much better with Indian cooking. To date it has been the most challenging cuisine to cook. I love the Indian food that I get in restaurants. Not certain dishes, but every dish. After a visit to an Indian restaurant, I usually come home fired up and motivated to replicate what I just ate. I find what I think are equivalent recipes and do my best. However, although the end product tastes good enough to eat, it never wows me and often tastes nothing like what I had at the restaurant. Then I stumbled on the book 5 Spices, 50 Dishes: Simple Indian Recipes Using Five Common Spices. Instead of hitting you over the head with countless ingredients and steps, it goes straight to the basics. Before posting this review, I made two of the recipes in the book.
+Now that I've conquered the [Gyro Meatloaf](/2012/03/the-gyro-meatloaf-recipe/), my number cooking priority is getting much better with Indian cooking. To date it has been the most challenging cuisine to cook. I love the Indian food that I get in restaurants. Not certain dishes, but every dish. After a visit to an Indian restaurant, I usually come home fired up and motivated to replicate what I just ate. I find what I think are equivalent recipes and do my best. However, although the end product tastes good enough to eat, it never wows me and often tastes nothing like what I had at the restaurant.
+
+Then I stumbled on the book 5 Spices, 50 Dishes: Simple Indian Recipes Using Five Common Spices. Instead of hitting you over the head with countless ingredients and steps, it goes straight to the basics. Before posting this review, I made two of the recipes in the book.
 
 
 ### Dish 23 - Lamb Meatballs in a Spicy Malabari Curry
 
 
-Most of the dishes I've had at Indian restaurants have brighter colors. This one didn't. I feared I had screwed up the recipe right up until the moment I took a bite. It was amazing. This coconut milk based curry has a little kick. This was an Indian dish that I had never had before. It was a simple recipe that worked. ![lamb-meatballs](./img/lamb-meatballs.jpg) _Lamb Meatballs - Spicy Malabari Curry_
+Most of the dishes I've had at Indian restaurants have brighter colors. This one didn't. I feared I had screwed up the recipe right up until the moment I took a bite. It was amazing. This coconut milk based curry has a little kick. This was an Indian dish that I had never had before. It was a simple recipe that worked.
+
+![lamb-meatballs](./img/lamb-meatballs.jpg)
+
+_Lamb Meatballs - Spicy Malabari Curry_
 
 
 ### Dish 34 - Baked Fish in a Spice Broth
 
 
-I got a sweet deal on some cod, so I made this dish. Just like the previous recipe, it was a dish I had never had at an Indian recipe. It had less heat, but it took a boring piece of white fish and made it delicious. ![baked-fish](./img/baked-fish.jpg) _Baked Fish in a Spice Broth_
+I got a sweet deal on some cod, so I made this dish. Just like the previous recipe, it was a dish I had never had at an Indian recipe. It had less heat, but it took a boring piece of white fish and made it delicious.
+
+![baked-fish](./img/baked-fish.jpg)
+
+_Baked Fish in a Spice Broth_
 
 
 ### Almost a Perfect Cookbook
 
 
-The photos in the book are excellent. The directions are clearly written and as I've stated before, it takes a simplified approach to what can seem like a complicated process. My one compliant with 5 Spices, 50 Dishes: Simple Indian Recipes Using Five Common Spices is every recipe uses canola oil. Even a cracker like me knows Indians cook with butter, ghee and maybe coconut oil. Make that one switch and this book is great. ![5-spices-50-dishes](./img/5-spices-50-dishes.jpg "5-spices-50-dishes")
+The photos in the book are excellent. The directions are clearly written and as I've stated before, it takes a simplified approach to what can seem like a complicated process. My one compliant with 5 Spices, 50 Dishes: Simple Indian Recipes Using Five Common Spices is every recipe uses canola oil. Even a cracker like me knows Indians cook with butter, ghee and maybe coconut oil. Make that one switch and this book is great.
+
+![5-spices-50-dishes](./img/5-spices-50-dishes.jpg "5-spices-50-dishes")
 
 ---
 

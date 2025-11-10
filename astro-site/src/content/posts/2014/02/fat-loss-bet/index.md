@@ -13,7 +13,17 @@ In my last post [How I Regained the Weight I Lost](/2014/02/regained-weight-lost
 
 > Yesterday I entered a bet with three others. We are all going to lose 20 pounds. If I lose, I will be required to go 1 week without coffee. My body could use the break, so this is a win-win.
 
-To me this was the least interesting part of the post, but it is what has gathered the most attention, both online and off. So before I do the post on how I plan to lose the 20 pounds, I want to cover the bet. Last week I spent several hours working on my health goals and what it would take to accomplish them. Once I had all the data in front of me, it was clear that I needed to drop 20 pounds to help my knee heal. I was already drafting the post when I mentioned this to a friend. This friend liked my goal and adopted it as her own. It was her idea to make it a competition. On Sunday two more friends were inspired to join the bet. Geoff had a [great comment](/2014/02/regained-weight-lost/#comment-22346) on what makes a motivating bet. For me the motivation is not winning the bet, as I would gladly give up coffee for a week to see my 3 friends lose 20 pounds. My motivation it is getting my knee healthy again. Posting a blog post also provides a level of accountability that I used successfully when I went a month without coffee. In the post [A Month Without Coffee - Here Goes!](/2012/10/a-month-without-coffee-here-goes/), I laid out the case both for and against publicly announcing your goals. I decided to test being publicly accountable and [it worked](/2012/11/did-it-a-month-without-coffee/). The thought of me suffering a week without coffee is motivating to my friends in the bet. Yet my motivation is to avoid going another summer in Seattle with restricted movement. ![seattle-sculpture-park-view](./img/seattle-sculpture-park-view.jpg) _When summer hits in Seattle, I don't want to be sitting down icing my knee._
+To me this was the least interesting part of the post, but it is what has gathered the most attention, both online and off. So before I do the post on how I plan to lose the 20 pounds, I want to cover the bet.
+
+Last week I spent several hours working on my health goals and what it would take to accomplish them. Once I had all the data in front of me, it was clear that I needed to drop 20 pounds to help my knee heal. I was already drafting the post when I mentioned this to a friend. This friend liked my goal and adopted it as her own. It was her idea to make it a competition. On Sunday two more friends were inspired to join the bet.
+
+Geoff had a [great comment](/2014/02/regained-weight-lost/#comment-22346) on what makes a motivating bet. For me the motivation is not winning the bet, as I would gladly give up coffee for a week to see my 3 friends lose 20 pounds. My motivation it is getting my knee healthy again. Posting a blog post also provides a level of accountability that I used successfully when I went a month without coffee. In the post [A Month Without Coffee - Here Goes!](/2012/10/a-month-without-coffee-here-goes/), I laid out the case both for and against publicly announcing your goals. I decided to test being publicly accountable and [it worked](/2012/11/did-it-a-month-without-coffee/).
+
+The thought of me suffering a week without coffee is motivating to my friends in the bet. Yet my motivation is to avoid going another summer in Seattle with restricted movement.
+
+![seattle-sculpture-park-view](./img/seattle-sculpture-park-view.jpg)
+
+_When summer hits in Seattle, I don't want to be sitting down icing my knee._
 
 ---
 

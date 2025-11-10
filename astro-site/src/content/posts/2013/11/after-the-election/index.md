@@ -14,11 +14,21 @@ Although I no longer consider myself political, I've always found it interesting
 1.  **Our Bad** - This is where the candidate or issue supporters acknowledge their loss in a dignified manner. They own the loss as their own, which is their failure to connect with voters.
 2.  **Your Bad** - This response puts the blame on the voter for being ill-informed or being tricked by the other side. They might blame big money or the press coverage for their loss. The underlying message is that voters were too stupid to make the correct decision.
 
-I have a lot of respect for the **Our Bad** group because they respect the voters. They own their loss. They learn and move on. Even if I didn't vote for that issue or candidate, they often earn my respect and I'm more likely to be receptive to their cause in a future election. I detest the **Your Bad** group. They don't respect the will of the voters when the vote goes against them. To me, they come off as condescending and elitist. They don't own their loss. They look for excuses and blame the voters. It is never their lack of communicating the issue that is the fault. When a candidate or cause either directly or indirectly tells me that my vote was wasted, wrong or stupid then I am far less likely to be receptive to their issue in a future election. ![voting-booth-1966](./img/voting-booth-1966.jpg) _[Photo](https://flic.kr/p/g2yxv8) by Clackamas County Historical Society_ I'm currently reading the chapter Confidently Adaptable in the book Die Empty by Todd Henry. Although this paragraph isn't about elections, it applies perfectly.
+I have a lot of respect for the **Our Bad** group because they respect the voters. They own their loss. They learn and move on. Even if I didn't vote for that issue or candidate, they often earn my respect and I'm more likely to be receptive to their cause in a future election.
+
+I detest the **Your Bad** group. They don't respect the will of the voters when the vote goes against them. To me, they come off as condescending and elitist. They don't own their loss. They look for excuses and blame the voters. It is never their lack of communicating the issue that is the fault. When a candidate or cause either directly or indirectly tells me that my vote was wasted, wrong or stupid then I am far less likely to be receptive to their issue in a future election.
+
+![voting-booth-1966](./img/voting-booth-1966.jpg)
+
+_[Photo](https://flic.kr/p/g2yxv8) by Clackamas County Historical Society_
+
+I'm currently reading the chapter Confidently Adaptable in the book Die Empty by Todd Henry. Although this paragraph isn't about elections, it applies perfectly.
 
 > A confident person is willing to work through communication issues without feeling threatened with regard to the core idea being communicated. An ego-inflated person shifts the blame for communication issues to the other party, and this asserts that the problem is clearly that they's aren't capable of understanding the issue properly.
 
-![Die Empty: Unleash Your Best Work Every Day](https://images-na.ssl-images-amazon.com/images/I/41tTBMZZ0gL.jpg) _Die Empty: Unleash Your Best Work Every Day by Todd Henry_ The takeaway message of this post is greater than elections. When you've lost, accept the loss in a dignified manner. Move on. Learn from the loss. Come back better. Don't blame the fans, referee, or the other team.
+![Die Empty: Unleash Your Best Work Every Day](https://images-na.ssl-images-amazon.com/images/I/41tTBMZZ0gL.jpg) _Die Empty: Unleash Your Best Work Every Day by Todd Henry_
+
+The takeaway message of this post is greater than elections. When you've lost, accept the loss in a dignified manner. Move on. Learn from the loss. Come back better. Don't blame the fans, referee, or the other team.
 
 ---
 
