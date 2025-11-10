@@ -1,0 +1,129 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import CategoryBadge from "../../../../components/CategoryBadge.astro";
+import TagList from "../../../../components/TagList.astro";
+
+export async function getStaticPaths() {
+	const posts = await getCollection("posts");
+
+	return posts.map((post) => {
+		// post.slug is in format: YYYY/MM/post-slug
+		const parts = post.slug.split("/");
+		const year = parts[0];
+		const month = parts[1];
+		const slug = parts[2];
+
+		return {
+			params: {
+				year,
+				month,
+				slug,
+			},
+			props: { post },
+		};
+	});
+}
+
+type Props = {
+	post: CollectionEntry<"posts">;
+};
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+
+const formattedDate = post.data.pubDate.toLocaleDateString("en-US", {
+	year: "numeric",
+	month: "long",
+	day: "numeric",
+});
+
+// Get all posts for prev/next navigation
+const allPosts = await getCollection("posts");
+const sortedPosts = allPosts.sort((a, b) => a.data.pubDate.getTime() - b.data.pubDate.getTime());
+
+const currentIndex = sortedPosts.findIndex((p) => p.id === post.id);
+const prevPost = currentIndex > 0 ? sortedPosts[currentIndex - 1] : null;
+const nextPost = currentIndex < sortedPosts.length - 1 ? sortedPosts[currentIndex + 1] : null;
+
+function getPostUrl(p: CollectionEntry<"posts">) {
+	// p.slug already includes year/month/slug from the file path
+	return `/${p.slug}/`;
+}
+---
+
+<BaseLayout title={post.data.title} description={post.data.description}>
+	<article class="max-w-3xl mx-auto px-4 py-12">
+		<!-- Post header -->
+		<header class="mb-8">
+			<h1 class="text-4xl font-bold mb-4 text-gray-800">{post.data.title}</h1>
+
+			<div class="flex flex-wrap items-center gap-4 text-sm text-gray-600 mb-4">
+				<time datetime={post.data.pubDate.toISOString()}>{formattedDate}</time>
+				<span>•</span>
+				<span>by {post.data.author}</span>
+				{
+					post.data.commentCount > 0 && (
+						<>
+							<span>•</span>
+							<span>
+								{post.data.commentCount} {post.data.commentCount === 1 ? "comment" : "comments"}
+							</span>
+						</>
+					)
+				}
+			</div>
+
+			{
+				post.data.categories.length > 0 && (
+					<div class="mb-4">
+						<CategoryBadge categories={post.data.categories} />
+					</div>
+				)
+			}
+
+			{
+				post.data.tags.length > 0 && (
+					<div>
+						<TagList tags={post.data.tags} />
+					</div>
+				)
+			}
+		</header>
+
+		<!-- Post content -->
+		<div class="prose max-w-none">
+			<Content />
+		</div>
+
+		<!-- Post footer -->
+		<footer class="mt-12 pt-8 border-t border-gray-200">
+			<!-- Post navigation -->
+			<nav class="flex justify-between items-center">
+				<div class="flex-1">
+					{
+						prevPost && (
+							<a href={getPostUrl(prevPost)} class="text-gray-600 hover:text-orange-600 text-sm">
+								← {prevPost.data.title}
+							</a>
+						)
+					}
+				</div>
+				<div class="flex-1 text-right">
+					{
+						nextPost && (
+							<a href={getPostUrl(nextPost)} class="text-gray-600 hover:text-orange-600 text-sm">
+								{nextPost.data.title} →
+							</a>
+						)
+					}
+				</div>
+			</nav>
+
+			<!-- Archive note -->
+			<div class="mt-8 p-4 bg-gray-50 rounded-lg text-sm text-gray-600 text-center">
+				<p>This is an archived blog. Comments are closed.</p>
+			</div>
+		</footer>
+	</article>
+</BaseLayout>

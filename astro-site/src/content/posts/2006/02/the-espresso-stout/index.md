@@ -1,0 +1,12 @@
+---
+title: "The Espresso Stout"
+pubDate: 2006-02-11T13:57:46.000Z
+modifiedDate: 2019-08-27T23:27:35.000Z
+author: "MAS"
+categories: ["Coffee"]
+tags: ["brewpub", "sandiego"]
+description: "In early 2001, Ryan Jacobs wrote the article Homebrewing: Espresso Stout for INeedCoffee. At the time there were many home brewing recipes that used coffee as an ingredient. However, most placed no..."
+commentCount: 0
+---
+
+In early 2001, Ryan Jacobs wrote the article [Homebrewing: Espresso Stout](https://ineedcoffee.com/homebrewing-espresso-stout/) for INeedCoffee. At the time there were many home brewing recipes that used coffee as an ingredient. However, most placed no attention to the type or quality of the beans used. Some of the recipes even advised using instant coffee. Just because you are a beer snob, doesn't mean you are a coffee snob. I'm both! Ryan who happens to be a skilled home roaster as well as home brewer knew that the coffee added to the beer recipe would be critical in yielding an excellent espresso stout. He was right. In his article he created a blend of roasted coffee that would compliment the stout style. At the time the article went out I was working in downtown San Diego and getting an occasional coffee from Ryan Brothers Coffee. I mentioned the INeedCoffee article about the stout and it seemed to interest them. Fast forward five years to the present. While at BevMo, I spied a 750ml bottle of Imperial Stout from local brewer AleSmith. The stout is called Speedway Stout and is made with coffee roasted by Ryan Brothers. Can I claim this as my idea? At the very least I planted the seed. Unfortunately, the stout is an Imperial Stout, which means it's heavy on the alcohol and a tad bitter. It's very good, not great. I'd love to see AleSmith use Ryan Bros Coffee in a different style stout. Other than Ryan Jacobs home brew, the only perfect espresso stout I've had has been from Kona Brewing in Oahu. Their espresso stout is an oatmeal stout. ![espresso stout](./img/3465562923_eac624ccd1_z.jpg) APRIL 2007 UPDATE: I had the Speedway Stout on draft at Stone Bistro and it is so much better. The high alcohol bitterness is not present. This is probably the best Imperial Stout when it comes from a keg.

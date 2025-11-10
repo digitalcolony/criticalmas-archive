@@ -1,0 +1,70 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import PostCard from "../../components/PostCard.astro";
+
+export async function getStaticPaths() {
+	const posts = await getCollection("posts");
+
+	// Get all unique categories
+	const categoriesMap = new Map();
+	posts.forEach((post) => {
+		post.data.categories.forEach((cat) => {
+			const slug = cat.toLowerCase().replace(/\s+/g, "-");
+			if (!categoriesMap.has(slug)) {
+				categoriesMap.set(slug, { name: cat, posts: [] });
+			}
+			categoriesMap.get(slug).posts.push(post);
+		});
+	});
+
+	return Array.from(categoriesMap.entries()).map(([slug, data]) => ({
+		params: { category: slug },
+		props: {
+			categoryName: data.name,
+			posts: data.posts.sort(
+				(a: any, b: any) => b.data.pubDate.getTime() - a.data.pubDate.getTime()
+			),
+		},
+	}));
+}
+
+const { categoryName, posts } = Astro.props;
+
+function getPostUrl(post: any) {
+	// post.slug already includes year/month/slug from the file path
+	return `/${post.slug}/`;
+}
+---
+
+<BaseLayout
+	title={`${categoryName} Posts`}
+	description={`All posts in the ${categoryName} category`}
+>
+	<div class="max-w-4xl mx-auto px-4 py-12">
+		<div class="mb-8">
+			<a href="/archive" class="text-orange-600 hover:text-orange-700 text-sm font-semibold">
+				← Back to Archive
+			</a>
+		</div>
+
+		<h1 class="text-4xl font-bold mb-2 text-gray-800">{categoryName}</h1>
+		<p class="text-gray-600 mb-8">{posts.length} {posts.length === 1 ? "post" : "posts"}</p>
+
+		<div class="space-y-8">
+			{
+				posts.map((post: any) => (
+					<PostCard
+						title={post.data.title}
+						slug={post.slug}
+						pubDate={post.data.pubDate}
+						url={getPostUrl(post)}
+						categories={post.data.categories}
+						excerpt={post.data.description}
+						commentCount={post.data.commentCount}
+					/>
+				))
+			}
+		</div>
+	</div>
+</BaseLayout>

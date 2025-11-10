@@ -1,0 +1,12 @@
+---
+title: "The Problem With WordPress and How I Would Solve It"
+pubDate: 2010-10-16T00:30:45.000Z
+modifiedDate: 2014-04-10T00:32:53.000Z
+author: "MAS"
+categories: ["Web"]
+tags: ["wordpress"]
+description: "I use the WordPress content management system to publish this blog. As much as I love WP and think it is the best blogging software available, there is a problem. Sitting on top of the blogging..."
+commentCount: 0
+---
+
+I use the WordPress content management system to publish this blog. As much as I love WP and think it is the best blogging software available, there is a problem. Sitting on top of the blogging engine there are **plugins, widgets and themes**. The code for the plugins, widgets and themes could be clean, fast, secure and stable. Or it could suck. The problem with WordPress is most of the users do not have the technical skills to determine what is causing their site to run slow. Turning on and off plugins is a guessing game, especially in a shared hosting environment using browsers that may or may not cache portions of the screen. Recently this site was down for several hours because a new plugin corrupted an older unrelated plugin. I worked with the developer and a technical genius friend of mine to get the problem fixed. I was lucky. ![idea-bulb](./img/idea-bulb.jpg) _[Photo](https://www.flickr.com/photos/qisur/4351196974/) by Ramunas Geciauskas_ WordPress is open source and if a problem is ever discovered in its code, it is found, fixed and deployed quickly. Plugins, widgets and themes have varying levels of commitment from their developers. My solution would be to create something like **WordPress Labs**. It would develop software to do quality testing on all plugins, widgets and themes. Testing is not my thing, but I could envision software that could do load testing to determine the speed, security and stabilization of everything that runs on top of WordPress. WordPress Labs could be an open source offshoot or it could be a private business. Developers and designers could pay a fee to have their code certified. Users could pay WordPress Labs for Consumer Reports like analysis. This is a rough draft of an idea. If you have more thoughts on this topic, post them in the comments.

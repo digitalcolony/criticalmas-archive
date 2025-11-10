@@ -1,0 +1,12 @@
+---
+title: "Best Books for 2007"
+pubDate: 2008-01-01T04:17:02.000Z
+modifiedDate: 2015-11-09T03:59:49.000Z
+author: "MAS"
+categories: ["Books"]
+tags: ["list"]
+description: "It appears I read 32 books this year. Most have been since going TV-free in August. Everyone loves a top 10 list. Here is mine. Note that many of these books were not written in 2007. That is just..."
+commentCount: 0
+---
+
+It appears I read 32 books this year. Most have been since going TV-free in August. Everyone loves a top 10 list. Here is mine. Note that many of these books were not written in 2007. That is just the year I got around to reading them. 1 - [Stumbling on Happiness](/2007/10/stumbling-on-covert-persuasion/) by Daniel Gilbert. I read some good books this year, but this was the clear winner. It is a user manual to human emotion. Phenomenal. 2 - The Art of Seduction by Robert Greene. Even better than the _48 Laws Of Power_. 3 - [The World is Flat - A Brief History of the Twenty-First Century](/2007/02/the-world-is-flat-and-i-feel-fine/) by Thomas Friedman. Stellar job covering how the world went _flat_. 4 - [The 4-Hour Workweek](/2007/12/defending-the-4-hour-workweek/) by Tim Ferriss. Not for everyone, but it was perfect for me. 5 - [The World's Most Dangerous Places](/2007/11/the-most-dangerous-places-in-the-world/) by Robert Young Pelton. My new favorite writer is a real life Indiana Jones with the wit of Joe Queenan. 6 - [The Black Swan: The Impact of the Highly Improbable](/2007/12/the-black-swan/) by Nassim Nicholas Taleb. It's a tough read, but like a David Lynch movie the effect is delayed. This book has forever changed the way I see the world. 7 - [Amarillo Slim - The Worlds Greatest Gambler](/2007/09/amarillo-slim-the-worlds-greatest-gambler/) by Amarillo Slim Preston. Great stories from an American gambling legend. 8 - [Covert Persuasion: Psychological Tactics and Tricks to Win the Game](/2007/10/stumbling-on-covert-persuasion/) by Kevin Hogan. Information can be used for good or evil. 9 - [SuperFoods Rx: Fourteen Foods That Will Change Your Life](/2007/10/are-these-the-14-superfoods/) by Steven G. Pratt. I'm a big fan of nutrition and this book has already impacted my food choices. 10 - [One Small Step Can Change Your Life: The Kaizen Way](/2007/10/kaizen-the-monk-who-sold-his-ferrari-and-the-dip/) by Robert Maurer. A very short book packed with wisdom. Worst book of the year? [The Secret](/2007/11/here-is-the-real-secret/)
