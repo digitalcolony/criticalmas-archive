@@ -17,7 +17,7 @@ In July of this year, I got a very odd email. Someone working with Dave Asprey o
 
 I challenged the person who sent the email to point to me where I ever endorsed or said anything positive about the Bulletproof Diet. They couldn't. To save face, they said that the email was sent to me by accident and was meant for someone else. Right!
 
-I had no plans to post about this interaction, but now that the Bulletproof Diet Book is out a few people have asked me if I read it or plan to. The answer is no. I'll admit when I first was exposed to Dave and his podcast I found it interesting. I was doing [Quantified Self](https://criticalmas.org/best-of/quantified-self/) at the time and there was enough cross-over in dietary principles that I supported for me to listen. But over time my suspicions grew.
+I had no plans to post about this interaction, but now that the Bulletproof Diet Book is out a few people have asked me if I read it or plan to. The answer is no. I'll admit when I first was exposed to Dave and his podcast I found it interesting. I was doing [Quantified Self](/tag/quantified-self/) at the time and there was enough cross-over in dietary principles that I supported for me to listen. But over time my suspicions grew.
 
 The Bulletproof Diet is not a diet of [resiliency](/2012/05/healthy-vs-resilient/). It is a diet of fragility. Walling ourselves off from all threats, both real and imaginary, does not make us "bulletproof". It makes us weaker. I could go into much greater detail, but my short testimonial is:
 

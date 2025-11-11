@@ -9,7 +9,7 @@ description: "My return to the Glitter Gym has already yielded a new tale. This 
 commentCount: 1
 ---
 
-My [return to the Glitter Gym](/2009/05/the-desire-to-lift-heavy-objects-and-witness-stupidity/) has already yielded a new tale. This happened last week. In the free weight room there are two flat bench press stations. Usually I stick to the incline benches, but that day I wanted to do some close-grip presses on the flat bench.
+My return to the Glitter Gym has already yielded a new tale. This happened last week. In the free weight room there are two flat bench press stations. Usually I stick to the incline benches, but that day I wanted to do some close-grip presses on the flat bench.
 
 Bench #1 had a towel on it. I noticed it when I entered the gym. This is usually a sign that someone is doing some circuit, getting a drink of water or [talking up some lady](/2008/07/tales-from-the-glitter-gym-the-pick-up/). So I headed over to Bench #2, but a fat guy got there first. **Then he proceeded to use the bench to do sit ups!** There are 1,000 possible places to do sit-ups. He picked the only available flat bench in the gym. Below is a stunningly beautiful drawing of the stupidity I witnessed.
 

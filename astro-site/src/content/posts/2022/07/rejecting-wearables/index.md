@@ -10,7 +10,7 @@ commentCount: 6
 
 Long-time readers of this blog might recall how I was an early enthusiast of the quantified self movement. I wanted to believe that I was capable of hacking myself to a better health outcome by running experiments and tracking variables in a spreadsheet.
 
-I ultimately rejected quantified self. You can read about that journey on my [Quantified Self page](https://criticalmas.org/best-of/quantified-self/). On that page, I talked briefly about the future.
+I ultimately rejected quantified self. You can read about that journey on my [Quantified Self page](/tag/quantified-self/). On that page, I talked briefly about the future.
 
 > I do think there can be tremendous value and insight into collecting and analyzing health data. That collection would need to be passive and the analysis done by someone else.
 

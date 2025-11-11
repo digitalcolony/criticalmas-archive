@@ -9,7 +9,7 @@ description: "It has been a little over 3 years since I started the practice of 
 commentCount: 20
 ---
 
-It has been a little over 3 years since I started the practice of [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/). On the list of [positive steps I've taken to improve my health](/2011/09/ranking-my-postive-health-changes/), only removing wheat has yielded greater benefits. As great as things have been, I have made a few mistakes. Let me share my errors, so you don't need to repeat them.
+It has been a little over 3 years since I started the practice of [Intermittent Fasting](/tag/intermittent-fasting/). On the list of [positive steps I've taken to improve my health](/2011/09/ranking-my-postive-health-changes/), only removing wheat has yielded greater benefits. As great as things have been, I have made a few mistakes. Let me share my errors, so you don't need to repeat them.
 
 
 ### #1 Fasting While Sick With a Cold

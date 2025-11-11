@@ -9,7 +9,7 @@ description: "It has now been just over five years since I began exploring cold 
 commentCount: 9
 ---
 
-It has now been just over five years since I began exploring [cold temperature exposure](https://criticalmas.org/best-of/cold-weather-training/). When I first started doing this, I didn't use the term thermogenesis. My goal was not to lose fat, but to widen my comfort zone of temperatures. Having moved to Seattle after 7 years in San Diego, I was a wimp when it came to being cold. I recall being uncomfortable even in the low 60s without a jacket or sweatshirt.
+It has now been just over five years since I began exploring [cold temperature exposure](/tag/cold/). When I first started doing this, I didn't use the term thermogenesis. My goal was not to lose fat, but to widen my comfort zone of temperatures. Having moved to Seattle after 7 years in San Diego, I was a wimp when it came to being cold. I recall being uncomfortable even in the low 60s without a jacket or sweatshirt.
 
 I needed to do something. Encouraged by an Art De Vany article, I began to do deliberate cold exposure. By the 2008-2009 winter, I had expanded my  short sleeved shirt comfort zone down to the mid to upper 30s F (assuming no wind). This was also the same time period that I was losing weight effortlessly.
 

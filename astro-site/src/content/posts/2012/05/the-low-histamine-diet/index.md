@@ -17,7 +17,7 @@ There are two groups I will need to restrict. Group one are foods with high leve
 ### Foods HIGH in Histamines to AVOID
 
 
--   [Fermented vegetables](https://criticalmas.org/best-of/fermentation/) (kimchi, sauerkraut, etc).
+-   [Fermented vegetables](/tag/fermentation/) (kimchi, sauerkraut, etc).
 -   Fermented dairy (cheese, yogurt, kefir)
 -   Fermented meats (sausage, salami, etc)
 -   Fermented alcohol (beer, wine, cider)

@@ -21,7 +21,7 @@ Without staples, every meal becomes a decision. A choice to eat something differ
 
 With staples, you carve out calorie deficits through the week. Little to no planning is required. Build your staples. Decide and execute. Repeatably lock in those deficits.
 
-I learned the magic of staples during the [Potato Hack](https://criticalmas.org/best-of/potato-hack-diet/) and as I've gotten leaner, I've built upon that diet with [Potatoes and Protein](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/). It hits satiety from two angles (food volume -aka _volumetrics_\- and increased protein).
+I learned the magic of staples during the [Potato Hack](/tag/potato/) and as I've gotten leaner, I've built upon that diet with [Potatoes and Protein](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/). It hits satiety from two angles (food volume -aka _volumetrics_\- and increased protein).
 
 Most dieters either fail to lose weight or to keep it off. They aren't making strategic use of high-satiety staples. They are using willpower and hope. That rarely works.
 

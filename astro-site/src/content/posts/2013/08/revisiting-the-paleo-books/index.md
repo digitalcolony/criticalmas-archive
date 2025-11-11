@@ -262,7 +262,7 @@ I'll also watch the documentary.
 This is really what convinced you that GCBG has it all wrong about insulin and obesity? I haven't read anywhere in the book that Taubes is recommending to get a pancreatectomy in order to rid your body of the evil hormone insulin, which would result in the above mentioned straw man scenario. Rather, it is all about restoring proper insulin signaling by lowering circulating insulin concentrations resulting in increased insulin sensitivity. 
 
 Even polar opposites like <a href="http://www.meandmydiabetes.com/2012/07/17/ron-rosedaledean-ornish-debate-from-1999/" rel="nofollow">Dean Ornish and Ron Rosedale agree</a> that lowering insulin is beneficial. They just don't agree on what method is best accomplish it: 
-<blockquote cite="Dean Ornish">As Ron indicated, and I think we agree on this, the insulin accelerates the conversion of calories into fat, into triglycerides. Over time repeated surges of insulin can cause people to become insulin resistant, which can promote diabetes. It stimulates the enzyme that any of the cholesterol lowering drugs are designed to inhibit called HMG CoA reductase...</blockquote>. In the end that's just biochemistry textbook knowledge, but it's nice to hear it from Dean Ornish. 
+<blockquote>As Ron indicated, and I think we agree on this, the insulin accelerates the conversion of calories into fat, into triglycerides. Over time repeated surges of insulin can cause people to become insulin resistant, which can promote diabetes. It stimulates the enzyme that any of the cholesterol lowering drugs are designed to inhibit called HMG CoA reductase...</blockquote>. In the end that's just biochemistry textbook knowledge, but it's nice to hear it from Dean Ornish. 
 
 As a medical student who asks the professors a lot of questions regarding this topic I don't think the medical community very much disagrees on that aspect of the topic. To illustrate that point, have a look at the <a href="http://www.youtube.com/watch?v=EffpuKqWWF8" rel="nofollow">Panel discussion</a> from a conference called "The Cancer-Obesity Link". They are all talking about the role of insulin in different cancers and the need to increase insulin sensitivity in patients. What they disagree about is the means to accomplish this. Whereas the medical doctors predominately call for the need to develop new drugs to increase insulin sensitivity, Gary Taubes (on the panel) and Richard Feinman (from the audience) simply ask whether limiting carbohydrates in the diet would increase insulin sensitivity, which pretty clearly it does.
 
@@ -291,11 +291,11 @@ The idea of reducing insulin to lower cancer risk, especially with older adults,
 
 That seems like a sensible approach to the whole issue. I came here primarily for your insights on exercise, which I found very compelling and implemented right away. What I still don't understand is your change of mind with regards to GCBC about what seems to me to be a non-issue. So maybe my logic is flawed somehow.
 
-<blockquote cite="MAS">Gary has already admitted he was wrong about his G3P argument. That was a cornerstone to his insulin theory argument in the book.</blockquote>
+<blockquote>Gary has already admitted he was wrong about his G3P argument. That was a cornerstone to his insulin theory argument in the book.</blockquote>
 
 What I don't understand is why you think glyceroneogenesis was the cornerstone of "his" insulin theory of obesity. As far as I understand it he's looking for the biggest culprit that could explain the increasing prevalence of obesity. The argument does not hinge on the idea that you can only store fat with dietary carbohydrates present. Rather that dietary carbohydrates are the main driver of insulin secretion and insulin secretion drives lipogenesis and therefore that an increase primarily in sugars and refined carbohydrates may be the single best explanation for the observed increase in obesity. That glucose metabolism conveniently supplies the biggest part of G3P is still true, but in my mind isn't really essential to the argument to begin with.
 
-<blockquote cite="GCBC">Dietary glucose is the primary source of glycerol phosphate. The more carbohydrates consumed, the more glycerol phosphate available, and so the more fat can accumulate. For this reason alone, it may be impossible to store excess body fat without at least some carbohydrates in the diet and without the ongoing metabolism of these dietary carbohydrates to provide glucose and the necessary glycerol phosphate.</blockquote>
+<blockquote>Dietary glucose is the primary source of glycerol phosphate. The more carbohydrates consumed, the more glycerol phosphate available, and so the more fat can accumulate. For this reason alone, it may be impossible to store excess body fat without at least some carbohydrates in the diet and without the ongoing metabolism of these dietary carbohydrates to provide glucose and the necessary glycerol phosphate.</blockquote>
 
 As it is written the textbook linked below: "The vast majoriy of the glycerol 3-phosphate is derived form the glycolytic intermediate dihydroxacetone phosphate (DHAP)". That means it is mainly produced by glycolysis, i.e. glucose metabolism. 
 
@@ -305,7 +305,7 @@ For what it's worth:
 [link removed]
 
 It also does not contradict any of his 10 conclusions at the end of the book or the four facts that "had been established beyond reasonable doubt" as was suggested in the blog post you referenced.:
-<blockquote cite="GCBC">(1) carbohydrates are singularly responsible for prompting insulin secretion; (2) insulin is singularly responsible for inducing fat accumulation; (3) dietary carbohydrates are required for excess fat accumulation</blockquote>
+<blockquote>(1) carbohydrates are singularly responsible for prompting insulin secretion; (2) insulin is singularly responsible for inducing fat accumulation; (3) dietary carbohydrates are required for excess fat accumulation</blockquote>
 First he's talking about "excess fat accumulation" and not fat storage per se and second (3) would be a logical consequence of (1) and (2). 
 
 What do you think about NuSI then? Maybe we should just wait until 2016 and then reconsider.

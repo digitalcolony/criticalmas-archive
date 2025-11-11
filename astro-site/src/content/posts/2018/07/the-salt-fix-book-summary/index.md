@@ -27,7 +27,7 @@ The part of the book I didn't care for was his demonization of sugar as THE driv
 -   "On average, our kidneys may filter between 3.2 - 3.6 _pounds_ of salt (1.28 and 1.44 pounds of sodium) per day." (p 28)
 -   Low salt intake stresses the kidneys and results in lower energy to avoid sweating. This could lead to weight gain.
 -   Romans consumed 25 grams of salt daily. 16th century Europeans 40 grams a day and 18th century Europeans 70 grams a day.
--   Salt is anti-microbial. _(As someone with extensive [fermentation](https://criticalmas.org/best-of/fermentation/) experience, I knew this.)_ This means that salt can protect from food-borne illnesses. Foods with lower salt levels tend to have a shorter shelf life.
+-   Salt is anti-microbial. _(As someone with extensive [fermentation](/tag/fermentation/) experience, I knew this.)_ This means that salt can protect from food-borne illnesses. Foods with lower salt levels tend to have a shorter shelf life.
 -   Increasing potassium can help regulate blood pressure, which helps reduce hypertension.
 -   Low carb dieters need an additional 2 grams of salt a day.
 -   Higher salt intake reduces stress/anxiety. _(Remember my [sleep dust post](/2014/01/amazing-back-sleep-hack/)?)_ 

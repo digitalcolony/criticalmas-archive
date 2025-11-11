@@ -11,7 +11,7 @@ commentCount: 16
 
 Last night I received word from Bill DeSimone of Congruent Exercise that my fitness mentor Greg Anderson died over the weekend. Greg Anderson ran Seattle's Ideal Exercise and has been active in the High-Intensity Training community for many years. Greg was passionate about fitness and High-Intensity Training.
 
-How I met Greg was pure luck. When my [Tales From the Glitter Gym](https://criticalmas.org/best-of/tales-from-the-glitter-gym/) series was featured on _MetaFilter_, I got slammed with negative comments. One of the negative comments was specific to the fact that I was dismissive of cardio. I decided to do a more detailed post on the topic, so I wrote [The Myth of Cardiovascular Training](/2011/01/the-myth-of-cardiovascular-training/). Although there are some minor things I would change today, for the most part, I am still proud of that post.
+How I met Greg was pure luck. When my [Tales From the Glitter Gym](/tag/glitter-gym/) series was featured on _MetaFilter_, I got slammed with negative comments. One of the negative comments was specific to the fact that I was dismissive of cardio. I decided to do a more detailed post on the topic, so I wrote [The Myth of Cardiovascular Training](/2011/01/the-myth-of-cardiovascular-training/). Although there are some minor things I would change today, for the most part, I am still proud of that post.
 
 Shortly after that post, I received an email introduction from Greg. He really liked the new cardio post and invited me to his HIT gym for a workout. Greg's gym was a short drive away from where I live in Seattle.
 

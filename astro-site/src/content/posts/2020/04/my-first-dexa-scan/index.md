@@ -31,7 +31,7 @@ I learned a 19.3% DEXA is equivalent to a **16.22%** caliper. Now we are talking
 ### Lost Muscle
 
 
-Getting past the numbers, I suspect I lost more muscle than I expected when I dieted down. As much as [I love my potatoes](https://criticalmas.org/best-of/potato-hack-diet/), I'm now wondering if I should have switched over to higher protein sooner in my diet. If you have a lot of weight to lose, load up on potatoes. But if the [P-Ratio theory](/2017/08/high-volume-high-protein-foods-fat-loss/) is valid, and I suspect it is, one needs to increase the protein to defend against muscle loss as the remaining pounds come off.
+Getting past the numbers, I suspect I lost more muscle than I expected when I dieted down. As much as [I love my potatoes](/tag/potato/), I'm now wondering if I should have switched over to higher protein sooner in my diet. If you have a lot of weight to lose, load up on potatoes. But if the [P-Ratio theory](/2017/08/high-volume-high-protein-foods-fat-loss/) is valid, and I suspect it is, one needs to increase the protein to defend against muscle loss as the remaining pounds come off.
 
 How many pounds out do you make that shift? I don't know. Probably a safe approach for potato hackers is to cycle in high-protein meals outside their potato loading.
 

@@ -27,7 +27,7 @@ There are also a lot of health benefits for the sauna. I'm not going to speak to
 ### The Bad
 
 
-Longtime readers of this site know that I moved to Seattle from San Diego. When I got here, I was a temperature wimp. So I decided to do something about it. That sent me down a path of [cold exposure](https://criticalmas.org/best-of/cold-weather-training/). And it worked.
+Longtime readers of this site know that I moved to Seattle from San Diego. When I got here, I was a temperature wimp. So I decided to do something about it. That sent me down a path of [cold exposure](/tag/cold/). And it worked.
 
 My ability to tolerate and even be comfortable at lower temperatures is greater than the vast majority of people. I even [mock young men](/2014/09/temperature-wimps-san-francisco/) who can't tolerate some cold.
 

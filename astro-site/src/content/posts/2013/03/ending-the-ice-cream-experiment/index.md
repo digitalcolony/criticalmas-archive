@@ -165,7 +165,7 @@ Thanks!
 
 I went to your website and loved looking at the Buenos Aires photos. I visited there in 2006 and am considering visiting again in late 2013 or early 2014. 
 
-https://criticalmas.org/2006/08/rio-to-buenos-aires-overview/
+https://criticalmas.org/2006/09/rio-to-buenos-aires-overview/
 
 ---
 

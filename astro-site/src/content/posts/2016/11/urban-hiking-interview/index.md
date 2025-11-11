@@ -9,7 +9,7 @@ description: "In December 2015, I was interviewed by a Seattle newspaper about m
 commentCount: 2
 ---
 
-In December 2015, I was interviewed by a Seattle newspaper about my Urban Hiking adventures, which I document on my [Urban Hiking](https://criticalmas.org/best-of/urban-hiking/) page.
+In December 2015, I was interviewed by a Seattle newspaper about my Urban Hiking adventures, which I document on my [Urban Hiking](/tag/urban/) page.
 
 The story was published in February 2016. It was an OK story, but it missed most of my responses. Which is fine. The story wasn't about me. It was about putting down the cellphone and exploring. The newspaper uses a pop-up overlay window, so I'm not linking to the story.
 

@@ -10,7 +10,7 @@ commentCount: 24
 
 As I explained in the previous post [Searching For The Cardio Code](/2018/10/searching-for-the-cardio-code/), after a very long hiatus, I'm ready to reintroduce cardio training to my fitness plan.
 
-Some would argue that my long [urban hikes](https://criticalmas.org/best-of/urban-hiking/) or my [10,000 steps a day](/2017/08/power-10000-steps-day-charts/) would qualify as cardio, but I am doubtful that my heart rate stays in that **(180 - your age)** range for an extended period. Seattle and San Francisco have hills and when I hike the streets, my heart rate may jump up enough to qualify as cardio, but only for a few minutes at a time. Also, as I mentioned in a previous post, years of doing SuperSlow HIT with exercises such as the leg press actually keeps my heart rate lower during the hill portion of these hikes.
+Some would argue that my long [urban hikes](/tag/urban/) or my [10,000 steps a day](/2017/08/power-10000-steps-day-charts/) would qualify as cardio, but I am doubtful that my heart rate stays in that **(180 - your age)** range for an extended period. Seattle and San Francisco have hills and when I hike the streets, my heart rate may jump up enough to qualify as cardio, but only for a few minutes at a time. Also, as I mentioned in a previous post, years of doing SuperSlow HIT with exercises such as the leg press actually keeps my heart rate lower during the hill portion of these hikes.
 
 
 ### Injury and Pain are a Concern

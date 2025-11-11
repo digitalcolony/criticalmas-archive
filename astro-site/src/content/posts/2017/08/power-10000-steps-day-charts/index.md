@@ -13,7 +13,7 @@ You have probably heard the phrase "10,000 steps a day" numerous times. How impo
 
 _BTW, Apple does not make it easy to run reports on this data. At the end of this article, I'll provide some guidance on how you can export and run reports on your Activity data._
 
-Before I dig into the data, I want to provide some background on my previous walking. For the last decade, I have walked a lot. You can see some of my walking adventures in my [Urban Hiking](https://criticalmas.org/best-of/urban-hiking/) section. My pattern has been to walk a lot and then rest a lot. The day to day variance until recently has been wild. I might walk 8 miles on Sunday, 1 mile on Monday, 2 miles on Tuesday, and then 3 miles on Wednesday.
+Before I dig into the data, I want to provide some background on my previous walking. For the last decade, I have walked a lot. You can see some of my walking adventures in my [Urban Hiking](/tag/urban/) section. My pattern has been to walk a lot and then rest a lot. The day to day variance until recently has been wild. I might walk 8 miles on Sunday, 1 mile on Monday, 2 miles on Tuesday, and then 3 miles on Wednesday.
 
 For me, 10,000 steps are about 4.6 miles. So in the above example, I only had one day of 10,000 or more steps even though I walked 15 miles in 4 days.
 

@@ -11,7 +11,7 @@ commentCount: 2
 
 I have a question for my readers that I can't answer. As many of you know, I have several articles on the topic of cold exposure. This is something I began experimenting with almost a decade ago. I wanted to widen my comfort zone, which after living in San Diego for 7 years had become quite narrow.
 
-You can go through my [Cold Weather Exposure](https://criticalmas.org/best-of/cold-weather-training/) articles to see my journey. The steps I took to toughen up against colder temperatures absolutely worked for me, but I'm less certain the advice will work for women.
+You can go through my [Cold Weather Exposure](/tag/cold/) articles to see my journey. The steps I took to toughen up against colder temperatures absolutely worked for me, but I'm less certain the advice will work for women.
 
 Although women on average have more body fat, they also have less muscle. And if my understanding on this topic is correct, it is muscle that generates the most heat.
 

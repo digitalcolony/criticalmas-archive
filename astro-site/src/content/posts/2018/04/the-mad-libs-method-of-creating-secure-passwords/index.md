@@ -14,7 +14,7 @@ I have had this post sitting in my draft folder for many months half completed. 
 In 2014 and 2015, I posted a series on tightening up your online security. This is not a technical blog, but I saw the idea of reducing risk as complimentary to my fitness and nutrition views. You can see that series here:
 
 
-#### [Online Security (best of)](https://criticalmas.org/best-of/online-security/)
+#### [Online Security (best of)](/tag/security/)
 
 
 When I first started using a password manager, I would let that application generate secure passwords for me. I'd give it some parameters, such as length and whether I wanted numbers or special characters and it would dump out something like this:

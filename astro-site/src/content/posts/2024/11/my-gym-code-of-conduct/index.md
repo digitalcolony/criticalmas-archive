@@ -12,7 +12,7 @@ In my post [The Economics of “Messy” Gyms](/2024/08/the-economics-of-messy-g
 
 > A generation of lifters never had the experience of a big guy getting in their face for not putting the dumbbells back in the correct spot. Now their gym is a mess and the “now hiring” sign has been up for months with a growing list of open positions.
 
-My [Tales from the Glitter Gym](https://criticalmas.org/best-of/tales-from-the-glitter-gym/) series is based mostly on my mocking people for inconsiderate behavior at the gym. As I've gotten older, I've become more accepting of the situation, because, in their defense, they never had my role models.
+My [Tales from the Glitter Gym](/tag/glitter-gym/) series is based mostly on my mocking people for inconsiderate behavior at the gym. As I've gotten older, I've become more accepting of the situation, because, in their defense, they never had my role models.
 
 In this post, I will outline my code of conduct. These are the rules that I follow when I go to the gym. By today's standards, they would be considered "above and beyond" what is expected today.
 

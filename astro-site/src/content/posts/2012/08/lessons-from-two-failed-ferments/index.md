@@ -9,7 +9,7 @@ description: "This summer, I've made some of my best ferments to date; however, 
 commentCount: 3
 ---
 
-This summer, I've made some of my [best ferments](https://criticalmas.org/best-of/fermentation/) to date; however, this week I had two failures. It happens from time to time, especially when you are trying something new. I want to share what I learned.
+This summer, I've made some of my [best ferments](/tag/fermentation/) to date; however, this week I had two failures. It happens from time to time, especially when you are trying something new. I want to share what I learned.
 
 ![](http://farm3.staticflickr.com/2123/2308371224_60e0cda6e8.jpg "fail")
 

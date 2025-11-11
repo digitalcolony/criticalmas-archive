@@ -36,7 +36,7 @@ A few ideas that I would also include are:
 
 1.  Get plenty of sleep.
 2.  Allow the body to recover from stressful workouts before heading back to the gym.
-3.  [Cold exposure](https://criticalmas.org/best-of/cold-weather-training/). (I can't prove it scientifically, but I am convinced it plays a role.)
+3.  [Cold exposure](/tag/cold/). (I can't prove it scientifically, but I am convinced it plays a role.)
 
 
 ### Increasing Oxytocin in Women

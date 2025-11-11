@@ -15,7 +15,7 @@ _Background: During my college years I never took a class on anything even close
 
 After reading this book I think that I have been a closet Stoic for a while now. Well at least partially. Only I didn't know it. Simplicity and resilience are two themes that I have been writing about for years now. People seem to grasp simplicity, but fail to understand resilience.
 
-Resilience is the ability to resist or recover from stress. Practicing [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/) has made me more resilient against hunger. [Cold Weather Training](/2008/12/no-jacket-required/) has made me more resilient against temperature. I could go on and on, but to me, the goal of continually challenging oneself against known stressors is to become more adaptive to the unknown stressors when they arrive.
+Resilience is the ability to resist or recover from stress. Practicing [Intermittent Fasting](/tag/intermittent-fasting/) has made me more resilient against hunger. [Cold Weather Training](/2008/12/no-jacket-required/) has made me more resilient against temperature. I could go on and on, but to me, the goal of continually challenging oneself against known stressors is to become more adaptive to the unknown stressors when they arrive.
 
 Stoicism is a philosophy that is all about simplicity and resiliency. I learned a lot from this book including tranquility, goal setting, the opinions of others, control, personal values, and active meditation. The author mentions that Stoicism has a lot in common with Zen Buddhism. One big difference is that Stoicism tends to appeal more to the analytical mind and those that have trouble with empty mind meditation. _Me!_
 

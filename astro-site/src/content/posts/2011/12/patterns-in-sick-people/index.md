@@ -43,7 +43,7 @@ For more information, read [A Case Against Cardio (from a former mileage king)](
 
 Our world is not a sanitized place. We live in a microbial world. We have 50 trillion bacterial cells living inside us. That is ten times as many cells than make up our entire body. Eating dead food and wiping down every surface with chemicals does nothing to strengthen the bacteria inside us that need our support.
 
-I've noticed that those that get sick more frequently eat very little or no fermented foods. Parents run around with Lysol trying foolishly to defeat the invisible enemy. A better strategy would be to reduce the sugar (including grains) and add [fermented foods](https://criticalmas.org/best-of/fermentation/) to the family diet. Prior to refrigeration, fermentation was a common strategy for preserving food that harnessed the good bacteria for our benefit. I eat fermented veggies daily and never get sick.
+I've noticed that those that get sick more frequently eat very little or no fermented foods. Parents run around with Lysol trying foolishly to defeat the invisible enemy. A better strategy would be to reduce the sugar (including grains) and add [fermented foods](/tag/fermentation/) to the family diet. Prior to refrigeration, fermentation was a common strategy for preserving food that harnessed the good bacteria for our benefit. I eat fermented veggies daily and never get sick.
 
 
 ### #5 Impatient With Healing

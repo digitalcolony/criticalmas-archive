@@ -177,7 +177,7 @@ Anyway, that's my two cents on this matter. I personally like the way you write,
 *September 16 at 2015 at 4:48 PM*
 
 @Barb - I do have a Best Of Nutrition page for the posts that I think are the better ones. 
-https://criticalmas.org/best-of/nutrition/
+/category/nutrition/
 
 @All - I am looking a plugin that will allow me to remove specific pages from the search engines. This way the links won't break, but the random person will be far less likely to stumble upon a page with outdated information.  
 

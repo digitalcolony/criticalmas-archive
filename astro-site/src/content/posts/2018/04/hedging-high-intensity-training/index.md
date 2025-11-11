@@ -99,7 +99,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3259925/pdf/rspb20111304.pdf
 
 No one other than perhaps Arthur Jones (deceased) and Dr. Ellington Darden have a clue on how to train this newly discovered aspect of muscle mechanism. We do know that eccentric training is less stressful on the heart and lungs and promotes at least equal amounts of strength as do other methodologies. The "less stressfull" aspect of eccentric training maybe quite important to prevent undesirable left ventricle hypertrophy and decreased arterial compliance that can occur from most of the other resistance training modalities. No one talks about this....especially your beloved BBS aficionados.  Global metabolic conditioning is not the best conditioning regimen for the heart and lungs. However, it certainly is better than no conditioning at all, but certainly is not as good as running, cycling, rowing, cross-country skiing, etc. as being  optimal for conditioning of the heart and lungs.....the most important organs, although all organs are very important in their own right. 
 
-Your post https://criticalmas.org/best-of/urban-hiking/
+Your post /tag/urban/
 is certainly better training advice for the heart and lungs than BBS.
 Also, there is nothing much to be said about heart and lung conditioning....as much is already known.  It's not sexy though. It can be said in two words...."Urban Hiking!"
 

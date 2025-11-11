@@ -19,7 +19,7 @@ A few weeks ago I was watching in disbelief at what could be the worst personal 
 
 Then I noticed this other guy was also shaking his head watching the personal trainer. Someone besides me now shared a common bond of hatred for this awful personal trainer. I made some comments about the disaster that was unfolding and as soon as I did I realized I had made a mistake.
 
-There are a few types of guys who enter the free weight room of a Glitter Gym. Skinny guys trying to gain muscle. Heavy guys trying to lean out. Older guys just trying to be healthy. Guys between 35 and 50 and in awesome shape at a Glitter Gym are often homosexual. The rare heterosexual male that is still in great shape after 35, most likely has a home gym or works out in a [Rust Gym](/2006/02/glitter-and-rust/).
+There are a few types of guys who enter the free weight room of a Glitter Gym. Skinny guys trying to gain muscle. Heavy guys trying to lean out. Older guys just trying to be healthy. Guys between 35 and 50 and in awesome shape at a Glitter Gym are often homosexual. The rare heterosexual male that is still in great shape after 35, most likely has a home gym or works out in a Rust Gym.
 
 Well, my new friend floated over to me and was flaming more than a San Diego wildfire. The [body language](/2008/06/the-definitive-book-of-body-language/) book I read back in June, outlined 13 different signals that women project when they are attracted to a man. The book further explains that some are used by homosexual men. Well, I spotted a few being thrown in my direction. Nice enough fellow, but he had me all wrong.
 

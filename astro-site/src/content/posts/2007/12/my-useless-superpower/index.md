@@ -11,7 +11,7 @@ commentCount: 0
 
 If I were a comic book superhero I would have the oddest _super_ power. My presence in public places will often change the music being played to 1970s pop. Doesn't matter where I am. Doesn't matter what was playing before I got there.
 
-Many people have seen this effect. When TheTailGunner and myself were taking a cab ride in [Rio De Janeiro, Brazil](/2006/08/rio-to-buenos-aires-overview/) the cab driver flipped from Portuguese station to Portuguese station until he landed on an English radio station playing 1970s pop music. And with no words exchanged between us, he stopped changing stations. My powers were working.
+Many people have seen this effect. When TheTailGunner and myself were taking a cab ride in Rio De Janeiro, Brazil the cab driver flipped from Portuguese station to Portuguese station until he landed on an English radio station playing 1970s pop music. And with no words exchanged between us, he stopped changing stations. My powers were working.
 
 [![](./img/j5.jpg "jackson 5")](./img/j5.jpg)
 

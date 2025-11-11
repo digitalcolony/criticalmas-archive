@@ -16,7 +16,7 @@ I have a mixed view on the claims regarding cold exposure. Before I dive in, I'l
 
 I first started exploring cold exposure in 2008. I had moved to Seattle from San Diego and was experiencing cold again for the first time in years, and I was not happy. I came across the writings of Art De Vany, an early Paleo thought leader, who discussed intentional cold exposure as a means of building resiliency.
 
-I spent years experimenting and put together a [collection of posts on cold exposure](https://criticalmas.org/best-of/cold-weather-training/).
+I spent years experimenting and put together a [collection of posts on cold exposure](/tag/cold/).
 
 The three reasons I see cited the most in support of cold exposure are:
 

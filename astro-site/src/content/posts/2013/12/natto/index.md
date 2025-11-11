@@ -29,7 +29,7 @@ Although I agree the texture is odd, it has always tasted fine to me, especially
 
 Before we proceed, I thought I'd mention my two motivations for making my own natto. The primary reason is the pre-packaged nattos sold at the Asian grocery store are loaded with crap we don't want to eat. Seattle's Uwajimaya is a nice grocery store and they sell probably 20 different brands of natto. However, they all have some nutritional defects. Soybean oil, MSG, wheat, or things listed I can't even spell. For my natto, I picked the cleanest one. I wanted it for culture. Once I was up and running, I wouldn't need to return to Uwajimaya for more natto.
 
-The second reason I decided to make my own is that I love to ferment. It is a cool hobby. Check out my [Fermentation page](https://criticalmas.org/best-of/fermentation/) for other ideas.
+The second reason I decided to make my own is that I love to ferment. It is a cool hobby. Check out my [Fermentation page](/tag/fermentation/) for other ideas.
 
 Enough with the background, let us make some natto.
 

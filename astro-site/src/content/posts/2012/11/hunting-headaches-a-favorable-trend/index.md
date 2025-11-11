@@ -135,7 +135,7 @@ Sometimes when the headache came early in the morning I measured BP right after 
 *December 6 at 2012 at 5:40 PM*
 
 @Iskander - I am a big believer in walking - just not for fat loss. 
-https://criticalmas.org/best-of/urban-hiking/
+/tag/urban/
 
 My BP is fine, but I do believe you are right about the neck stiffness could be a player in my night headaches.
 

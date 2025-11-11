@@ -96,7 +96,7 @@ I wanted to see what would happen if I went even more plant-based. I swapped my 
 
 I stopped eating sardines and herring for a few months. Then I started craving fish again, so I added the fish back, but at a much lower level. My [Omega-3 ratios are optimal](/2025/02/optimal-omega-3-levels-no-fish-oil-needed/), so this isn't a priority.
 
-Because I reversed course on the yogurt and fish, I never considered replacing my Korean kimchi, which has a small amount of anchovy and krill. I could make my own. [Been there, done that](https://criticalmas.org/best-of/fermentation/). Considering I consume more than a gallon of kimchi each month, this was the lowest priority.
+Because I reversed course on the yogurt and fish, I never considered replacing my Korean kimchi, which has a small amount of anchovy and krill. I could make my own. [Been there, done that](/tag/fermentation/). Considering I consume more than a gallon of kimchi each month, this was the lowest priority.
 
 My diet will likely stay around 90% plant-based. If I occasionally eat a gluten-free cookie with dairy, that is fine. I doubt I will benefit much from being stricter.
 

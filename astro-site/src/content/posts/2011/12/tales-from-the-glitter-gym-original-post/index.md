@@ -9,7 +9,7 @@ description: "This was originally written in 2004. It has been moved to this sit
 commentCount: 11
 ---
 
-_This was originally written in 2004. It has been moved to this site for archival purposes. If you are easily offended, please [read the disclaimer](https://criticalmas.org/best-of/tales-from-the-glitter-gym/) first._
+_This was originally written in 2004. It has been moved to this site for archival purposes. If you are easily offended, please [read the disclaimer](/tag/glitter-gym/) first._
 
 I'm still working out at a glitter gym thanks to a finger injury that doesn't want to heal. Anyway people always seem to display odd behavior in glitter gyms, this one is no exception. We've all heard my tales of pixie bitches that use 5 pieces of equipment at one time and the guy who used the squat rack as a coat hanger. Here are some new tales:
 

@@ -21,7 +21,7 @@ This post is not for the typical overweight person. If you are still consuming [
 
 ![kimchi-plate](./img/kimchi-plate.jpg)
 
-_Eating nutrient-dense foods like [kimchi](https://criticalmas.org/best-of/fermentation/) will do more for fat loss than exercise. Going into energy deficits before you've fixed nutrient deficiencies is like trying to row a leaky boat. Fix the leak first._
+_Eating nutrient-dense foods like [kimchi](/tag/fermentation/) will do more for fat loss than exercise. Going into energy deficits before you've fixed nutrient deficiencies is like trying to row a leaky boat. Fix the leak first._
 
 The second group this post is not for is the young and genetically gifted. By young, I mean all you 25-year-old [CrossFitting](/2012/02/responding-to-a-crossfit-enthusiast/) [Parkour](http://www.youtube.com/watch?v=Z9j6-2LyDZE) junkies with Kevlar joints that scoff at us mere mortals. This post is for the normal sane healthy person who wishes to leverage exercise in a way to accelerate fat loss while minimizing injury risk and honoring recovery. If your sport requires a higher volume of training, then by all means do what is necessary to be successful. If you like to spend hours every week spinning or jogging, because it is good for your _mental health_, that is wonderful. This post is just about fat loss.
 

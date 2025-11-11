@@ -36,7 +36,7 @@ I'm going to focus on 3 ideas from his book:
 2.  Higher protein
 3.  Lower flavor
 
-Higher volume is what the [Potato Hack](https://criticalmas.org/best-of/potato-hack-diet/) does so well. Fill your belly with low-calorie boiled potatoes, and your brain turns off the hunger signals while you are still in a caloric deficit.
+Higher volume is what the [Potato Hack](/tag/potato/) does so well. Fill your belly with low-calorie boiled potatoes, and your brain turns off the hunger signals while you are still in a caloric deficit.
 
 Higher protein also reduces hunger signals. This is the "secret sauce" to low-carb dieting. It isn't that carbs are fattening; it is that protein is more satiating.
 
@@ -315,7 +315,7 @@ I am excited to try this diet as I absolutely love potoatos but can you use any 
 @Karla - Sweet Potatoes might work, but they are not recommended for the potato hack. They are in a different food family. Regular potatoes have greater satiety and with cooling will develop resistant starch, which reduces the caloric load and the blood sugar spikes.
 
 More info here:
-https://criticalmas.org/best-of/potato-hack-diet/
+/tag/potato/
 
 I do recommend getting Tim Steele's book linked above. It will answer all your questions. 
 

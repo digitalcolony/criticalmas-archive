@@ -55,7 +55,7 @@ We want to show ourselves the same level of compassion that we would show a frie
 
 > Thinking in terms or right and wrong instead of what we really want will trigger competing impulses and self sabotaging behavior. For change to stick we need to identify with the goal itself not with the halo glow we get from being good.
 
-It took me until a year ago to figure out that this lesson was correct. Once I rejected [Quantified Self](https://criticalmas.org/best-of/quantified-self/), which in many cases is just the quantification of personal failures, my life improved. It was a lesson I shared in the post [Better Sleep for the Too Early Riser](/2014/10/better-sleep-early-riser/).
+It took me until a year ago to figure out that this lesson was correct. Once I rejected [Quantified Self](/tag/quantified-self/), which in many cases is just the quantification of personal failures, my life improved. It was a lesson I shared in the post [Better Sleep for the Too Early Riser](/2014/10/better-sleep-early-riser/).
 
 > When you try to improve your sleep or anything in life, it can be easy to blame ourselves for failures. Stop that. Show yourself self compassion as if you were talking to a friend with the same problem. Don’t attach yourself to the outcome. Focus on the process. Getting great sleep takes practice. Focus on the practice and not grading yourself.
 

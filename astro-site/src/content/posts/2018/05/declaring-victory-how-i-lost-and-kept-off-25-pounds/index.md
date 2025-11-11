@@ -17,7 +17,7 @@ So following a simple "eat less, move more" plan without addressing how the brai
 
 My 2 tools were:
 
-1.  Volume ([Peasant Diet](/2016/11/designing-modern-peasant-diet/), [Potato Hack](https://criticalmas.org/best-of/potato-hack-diet/), Volumetrics)
+1.  Volume ([Peasant Diet](/2016/11/designing-modern-peasant-diet/), [Potato Hack](/tag/potato/), Volumetrics)
 2.  Protein ([Old School Bodybuilder](/2014/07/just-count-protein-fat-loss/))
 
 I've talked about these approaches at length in other posts, but the short versions are that foods with a high volume and low calories fool the brain. The stomach doesn't measure calories. It measures volume. Given the same volume, boiled potatoes will have far fewer calories than French fries. Protein is known to crush appetite.

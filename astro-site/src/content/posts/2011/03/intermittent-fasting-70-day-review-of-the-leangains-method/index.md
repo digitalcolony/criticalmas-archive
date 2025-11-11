@@ -38,7 +38,7 @@ The first month was amazing. I got leaner. For the first time in my life, I saw 
 Progress slowed and eventually stopped and reversed in the 2nd month. I was strict with the diet, but I noticed some side effects.
 
 1.  When I eventually did eat at 2 PM, I got majorly tired. This never happened to me in my prior IF experiences. I sort of solved this problem, by moving my last espresso to after the 2 PM meal and drinking tea in the afternoon.
-2.  The second problem I experienced was I frequently felt cold, especially in my fingers. I have experience with [cold weather exposure](https://criticalmas.org/best-of/cold-weather-training/), so the fact my body wasn't throwing off heat like before was concerning. This month was the first month in 3 years where the cold was bothering me.
+2.  The second problem I experienced was I frequently felt cold, especially in my fingers. I have experience with [cold weather exposure](/tag/cold/), so the fact my body wasn't throwing off heat like before was concerning. This month was the first month in 3 years where the cold was bothering me.
 3.  Muscle loss. The BCAA appeared to stop working. This one really bothers me.
 4.  Lowered Immune System. Although I fought off a cold in late January, one nailed me in February. I'm very in tune with how my body responds to viral threats and during this month that response was sluggish.
 

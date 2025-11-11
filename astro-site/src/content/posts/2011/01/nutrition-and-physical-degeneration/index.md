@@ -15,11 +15,11 @@ This book is considered a masterpiece in the study of human nutrition.
 
 What he discovered is not a surprise to me or anyone who has been exposed to traditional food preparation. People were remarkably healthy and free of tooth decay before the arrival of white flour, sugar, canned food, and vegetable oils. Even more amazing than the story itself are the photographs in the book. The photos show the smiles of traditional cultures versus those that had been exposed to modern food. Even if you never get a chance to read this 500-page book, I highly recommend at least looking at the pictures. Parents especially.
 
-Readers of this site know that I am fascinated with how the body adapts to cold weather and my experiments with [cold weather exposure](https://criticalmas.org/best-of/cold-weather-training/). Dr. Price discovered that the Quichua Indians of Peru were far more extreme than me.
+Readers of this site know that I am fascinated with how the body adapts to cold weather and my experiments with [cold weather exposure](/tag/cold/). Dr. Price discovered that the Quichua Indians of Peru were far more extreme than me.
 
 > Their capacity for enduring cold is wonderful. They can sleep comfortably through the freezing nights with their ponchos wrapped about their heads and with their legs and feet bare.
 
-What about the practice of [fasting](https://criticalmas.org/best-of/intermittent-fasting/) to toughen one up? The Aborigines of Australia have a ritual that a boy must pass to become a man.
+What about the practice of [fasting](/tag/intermittent-fasting/) to toughen one up? The Aborigines of Australia have a ritual that a boy must pass to become a man.
 
 > ...he is tested for his ability to withstand hunger without complaint. The test for this is to go on a march for two or three days over the hot desert and assist in preparing the meals of roast kangaroo and other choice foods and not partake of any himself. He must not complain.
 

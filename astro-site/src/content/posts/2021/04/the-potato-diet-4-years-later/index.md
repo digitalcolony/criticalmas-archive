@@ -45,7 +45,7 @@ As I got leaner, I tweaked the diet to include more lean protein. See the post [
 
 Today, I still consume a fair amount of boiled potatoes, but not as much as before. I know how to shut down hunger at low-calorie levels. It keeps me at an optimal weight.
 
-If you are interested in learning more, see my [Potato Hack Diet](https://criticalmas.org/best-of/potato-hack-diet/) section.
+If you are interested in learning more, see my [Potato Hack Diet](/tag/potato/) section.
 
 Did you lose weight on the Potato Diet? How much and were you able to keep it off?
 

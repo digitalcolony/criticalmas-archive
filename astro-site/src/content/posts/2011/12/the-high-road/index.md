@@ -19,7 +19,7 @@ One of my critics gave me an idea for a post that would eventually become [The M
 
 Since that workout, I have fully embraced HIT. These days I am experimenting with an [outdoor version of HIT](/2011/11/escaping-the-glitter-taking-high-intensity-training-outdoors/)**. 2011 turned out to be the best year I had in strength training in a decade.** Despite being ten years older, my joints never felt beaten down. My fitness posts got better and my site traffic went up over 50%. Along the way, I received some excellent comments in the blog which have further improved my health.
 
-This chain reaction of events all started one Friday back in January. Deciding not to engage in an Internet battle and instead retire _[Tales From the Glitter Gym](https://criticalmas.org/best-of/tales-from-the-glitter-gym/)_ turned out to be the best decision I made in 2011.
+This chain reaction of events all started one Friday back in January. Deciding not to engage in an Internet battle and instead retire _[Tales From the Glitter Gym](/tag/glitter-gym/)_ turned out to be the best decision I made in 2011.
 
 ---
 

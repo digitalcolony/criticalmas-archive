@@ -33,7 +33,7 @@ Based of my research and my N=1 test, I am going to speculate on why 30 in 30 wo
 4.  I could see 30 in 30 working better for someone with a long history of dieting that had low energy.
 5.  For people like me that need to eat before going to sleep or else I'll wake hungry, 30 in 30 is probably a bad idea since our eating window is now 18 16 hours. That is a recipe for weight gain.
 
-Starting tomorrow I am returning to 12-16 hour breaks between my last meal of the day and my first meal the next day. Looking back at my initial fat loss I experienced in 2008-2009, it did come as a result of reducing my eating window via [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/). The trick for me is learning how to do that without abusing caffeine. Which is a trick I have yet to figure out. :(
+Starting tomorrow I am returning to 12-16 hour breaks between my last meal of the day and my first meal the next day. Looking back at my initial fat loss I experienced in 2008-2009, it did come as a result of reducing my eating window via [Intermittent Fasting](/tag/intermittent-fasting/). The trick for me is learning how to do that without abusing caffeine. Which is a trick I have yet to figure out. :(
 
 ---
 
@@ -117,7 +117,7 @@ Also, in general, why do you think it's bad to be hungry when you wake up?
 @Erica - I made an error in the post. 18 hours should have read 16 hours. I fixed it. 
 
 I do think there are concerns about women and fasting. On my IF page, I link to an article on MDA about that topic. 
-https://criticalmas.org/best-of/intermittent-fasting/
+/tag/intermittent-fasting/
 
 As to your question, I am not hungry when I first wake up. Doing the 30 in 30 was forcing myself to eat at a time when I wasn't hungry. I don't think it is good or bad to be hungry first this in the morning. 
 

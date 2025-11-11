@@ -76,7 +76,7 @@ Before I rattle off my list, I want to say that unlike the alarmists and the den
 1.  I stopped eating wheat and replaced those calories with more nutrient-dense foods.
 2.  When I did want something "bready", I selected a gluten-free option. Denialists will say that there is no evidence that GF is more healthy. I disagree and explained why in the post [The 10 Health Myths Article Gets One Wrong](/2014/05/10-health-myth-articles-gets-one-wrong/). I wrote that post before the Duck Dodgers iron fortification post. His info further supports my case.
 3.  Since December 2010 I have [donated blood](/2010/06/the-selfish-case-for-donating-blood/) like clockwork every 8 weeks. I wish I had written the numbers down, but my iron levels have dropped.
-4.  [Fermented foods](https://criticalmas.org/best-of/fermentation/). I consumed dairy kefir and kimchi regularly. If the hygiene hypothesis is correct then this likely helped a lot.
+4.  [Fermented foods](/tag/fermentation/). I consumed dairy kefir and kimchi regularly. If the hygiene hypothesis is correct then this likely helped a lot.
 5.  I am a big believer that resiliency should be our goal. In the post [Wheat Resiliency](/2015/02/wheat-resiliency/), I cover how I use trace exposure to teach my body how to process wheat. If the dose is the problem, then minimizing the dose would be an effective strategy.
 6.  Increased my metabolism as measured my morning waking temperature from 97.0 to 98.4. In tech terms, I have a faster processor now. For ideas on increasing metabolism, read the book _Diet Recovery 2: Restoring Mind and Metabolism from Dieting, Weight Loss, Exercise, and Healthy Food by Matt Stone_.
 

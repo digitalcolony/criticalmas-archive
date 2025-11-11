@@ -11,7 +11,7 @@ commentCount: 17
 
 _The Diet Hack_ by Tim Steele was released today.
 
-He also wrote the definitive guide to [potato dieting](https://criticalmas.org/best-of/potato-hack-diet/) called _The Potato Hack_. _The Diet Hack_ covers a lot more ground than just potatoes, but I wanted to let you know that I got a few pages of coverage in the book on the Peasant Diet! There is even a photo of me and one of my peasant dishes. 😎
+He also wrote the definitive guide to [potato dieting](/tag/potato/) called _The Potato Hack_. _The Diet Hack_ covers a lot more ground than just potatoes, but I wanted to let you know that I got a few pages of coverage in the book on the Peasant Diet! There is even a photo of me and one of my peasant dishes. 😎
 
 ![Diet Hack by Tim Steele](./img/diet-hack-time-steele-book.jpg)_The Diet Hack by Tim Steele_
 

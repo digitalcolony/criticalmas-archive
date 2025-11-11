@@ -9,7 +9,7 @@ description: "A few weeks ago I came to the obvious conclusion that making ferme
 commentCount: 17
 ---
 
-A few weeks ago I came to the obvious conclusion that [making fermented vegetables](https://criticalmas.org/best-of/fermentation/) was a hobby that I was not going to get tired of anytime soon. I also realized that I was eating and gifting these ferments faster than I could make them. I needed to ramp up production.
+A few weeks ago I came to the obvious conclusion that [making fermented vegetables](/tag/fermentation/) was a hobby that I was not going to get tired of anytime soon. I also realized that I was eating and gifting these ferments faster than I could make them. I needed to ramp up production.
 
 
 ### Bring On The Buckets!

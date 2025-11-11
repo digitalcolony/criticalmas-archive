@@ -55,7 +55,7 @@ Ferriss has created a brilliant guide to learning how to get up to speed quickly
 ### #5 The Art of Fermentation: An In-Depth Exploration of Essential Concepts and Processes from Around the World
 
 
-As someone who has been making [ferments](https://criticalmas.org/best-of/fermentation/) for a few years now, I got some great ideas from Sandor Katz's monster textbook that was released in May. If you are comfortable with fermenting and looking to learn more, get this book. However, if you are a beginner and need more guidance, I'd recommend starting with his [Fermentation Workshop DVD](/2011/10/the-fermentation-workshop-dvd-is-outstanding/). As much as I liked The Art of Fermentation, I think it might be overwhelming to someone just getting started.
+As someone who has been making [ferments](/tag/fermentation/) for a few years now, I got some great ideas from Sandor Katz's monster textbook that was released in May. If you are comfortable with fermenting and looking to learn more, get this book. However, if you are a beginner and need more guidance, I'd recommend starting with his [Fermentation Workshop DVD](/2011/10/the-fermentation-workshop-dvd-is-outstanding/). As much as I liked The Art of Fermentation, I think it might be overwhelming to someone just getting started.
 
 ![](./img/art-fo-fermentation.jpg) _The Art of Fermentation: An In-Depth Exploration of Essential Concepts and Processes from Around the World by Sandor Ellix Katz_
 

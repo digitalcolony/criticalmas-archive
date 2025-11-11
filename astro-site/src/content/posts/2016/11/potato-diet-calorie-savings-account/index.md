@@ -23,7 +23,7 @@ A year ago I posted that I was going to do the Potato Diet to [lose 15-20 pounds
 
 At the end of last December, I was getting some odd measurements when I weighed myself. Even though I was creating a calorie deficit, I wasn't losing weight. At that time I was recovering from a knee injury. Part of my recovery was strength training to recover lost muscle and I also starting taking creatine monohydrate again. Both could result in weight gain. So once again I found myself with conflicting health goals. I couldn't use pounds lost as a metric.
 
-As someone who has completely [rejected the Quantified Self](https://criticalmas.org/best-of/quantified-self/) movement, I decided that in 2016, I would measure nothing. I have not stepped on a scale or used a tape measure once this entire year. I am now using [The Frankie Method](/2010/02/fat-loss-metrics-for-men/), which I described in 2010. _(**JULY 2024:** quick comment here. I was wrong. Measuring weight and inches regularly is a great tool for staying on track.)_
+As someone who has completely [rejected the Quantified Self](/tag/quantified-self/) movement, I decided that in 2016, I would measure nothing. I have not stepped on a scale or used a tape measure once this entire year. I am now using [The Frankie Method](/2010/02/fat-loss-metrics-for-men/), which I described in 2010. _(**JULY 2024:** quick comment here. I was wrong. Measuring weight and inches regularly is a great tool for staying on track.)_
 
 The combination of potatoes, strength training, and creatine monohydrate resulted in me getting visibly leaner. Good enough for Frankie. Good enough for me.
 

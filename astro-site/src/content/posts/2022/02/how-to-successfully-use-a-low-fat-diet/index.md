@@ -104,7 +104,7 @@ There are solutions. One is to simply reduce the serving sizes to tiny amounts a
 
 For me, I started with a tablespoon of cooked lentils. Then moved on to small portions of canned beans. Today I have no issues with having legumes regularly. I also restrict my grains to gluten-free (steel cut oats, quinoa), you may not need to.
 
-The second path is to [soak, sprout, and/or ferment](https://cornersmith.com.au/blogs/recipes/how-to-soak-your-grains). This can really help ease the digestion of these foods. There are tons of resources on this topic, which is a fun hobby if you have the time. Here is my [fermentation page](https://criticalmas.org/best-of/fermentation/), which is mostly on vegetable and dairy ferments.
+The second path is to [soak, sprout, and/or ferment](https://cornersmith.com.au/blogs/recipes/how-to-soak-your-grains). This can really help ease the digestion of these foods. There are tons of resources on this topic, which is a fun hobby if you have the time. Here is my [fermentation page](/tag/fermentation/), which is mostly on vegetable and dairy ferments.
 
 ![](./img/sprout-chickpeas.jpg) _The start of a chickpea sprout I used back when I reintroduced legumes to my diet._
 

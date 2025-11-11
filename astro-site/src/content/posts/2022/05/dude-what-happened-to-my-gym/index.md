@@ -54,7 +54,7 @@ Now that everyone - except me - comes to the gym with their own headphones and s
 
 My neighborhood library branch is now louder than my gym.
 
-I actually don't mind the silence. I've never worn headphones in the free weight room. Cardio machines, sure, but not around the weights. I've seen too many [crazy things in the free weight room](https://criticalmas.org/best-of/tales-from-the-glitter-gym/). I want to be present and alert to my surroundings. Plus I'm OK with listening to my own thoughts. I don't need to inflict hearing damage to muster up the motivation to knock out one more rep.
+I actually don't mind the silence. I've never worn headphones in the free weight room. Cardio machines, sure, but not around the weights. I've seen too many [crazy things in the free weight room](/tag/glitter-gym/). I want to be present and alert to my surroundings. Plus I'm OK with listening to my own thoughts. I don't need to inflict hearing damage to muster up the motivation to knock out one more rep.
 
 I'm the old-timer that goes into the free weight room to lift, not to tweak a Spotify playlist. 👴🏼
 

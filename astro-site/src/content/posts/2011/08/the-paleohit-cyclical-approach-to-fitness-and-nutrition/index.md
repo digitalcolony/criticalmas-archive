@@ -29,7 +29,7 @@ Now Paleo Man is full—time to rest and relax. No spin class is needed for him 
 ### Modern MAS
 
 
-Back to the present. A few months ago, I began a TKD (targeted ketogenic diet). On the day before I went to the gym to lift weights, I would engage in [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/) and low-carb dieting. I put myself into a ketogenic state. The next day, I would enter the gym in a fasted state\* and "engage in battle". Unlike Paleo man, when I demonstrate strength I can control for safety and work specifically with machines based upon human biomechanics. For 10-15 minutes, I do an all-out [High Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) workout. One set to failure for about 5-7 exercises.
+Back to the present. A few months ago, I began a TKD (targeted ketogenic diet). On the day before I went to the gym to lift weights, I would engage in [Intermittent Fasting](/tag/intermittent-fasting/) and low-carb dieting. I put myself into a ketogenic state. The next day, I would enter the gym in a fasted state\* and "engage in battle". Unlike Paleo man, when I demonstrate strength I can control for safety and work specifically with machines based upon human biomechanics. For 10-15 minutes, I do an all-out [High Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) workout. One set to failure for about 5-7 exercises.
 
 _\* These days I supplement with BCAA._
 

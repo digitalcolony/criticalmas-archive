@@ -35,7 +35,7 @@ _[Photo](http://www.flickr.com/photos/cogdog/6729750011/in/photostream/) by Alan
 ### Was it the Cold Temperature Exposure?
 
 
-The topic of cold temperature exposure is getting popular again. It is now being called CT or Cold Thermogenesis. Jack Kruse and Richard Nikoley (_FreeTheAnimal_) are all over this topic. From 2008 until the start of this year, I engaged in some form of [cold temperature exposure](https://criticalmas.org/best-of/cold-weather-training/) near daily. My exposure was tame compared to what Dr. Kruse and Richard are doing.
+The topic of cold temperature exposure is getting popular again. It is now being called CT or Cold Thermogenesis. Jack Kruse and Richard Nikoley (_FreeTheAnimal_) are all over this topic. From 2008 until the start of this year, I engaged in some form of [cold temperature exposure](/tag/cold/) near daily. My exposure was tame compared to what Dr. Kruse and Richard are doing.
 
 Even though I can't prove it, I feel that cold temperature exposure helped me lose fat up to a point. Once I dropped 3 inches off my waist and had leaned out, it didn't help me get [Level 3 Lean](/2010/12/moving-up-the-leanness-levels/). From January 2012 until April 2012, I stopped all cold weather exposure to see what would happen. Stopping the cold exposure did not change body composition.
 
@@ -43,7 +43,7 @@ Even though I can't prove it, I feel that cold temperature exposure helped me lo
 ### Was it Intermittent Fasting?
 
 
-I've written extensively on my experiences with [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/). I am a huge fan. I'm no longer a slave to hunger. I'm never in a position where I need to eat unhealthy food because I can always delay eating until a healthy option is available. That might be 2 hours or 20 hours. Intermittent Fasting builds resilience.
+I've written extensively on my experiences with [Intermittent Fasting](/tag/intermittent-fasting/). I am a huge fan. I'm no longer a slave to hunger. I'm never in a position where I need to eat unhealthy food because I can always delay eating until a healthy option is available. That might be 2 hours or 20 hours. Intermittent Fasting builds resilience.
 
 One thing I've learned from my IF experiments is that when the body starts to feel cold, you are either fasting too much or not eating enough when you break the fast. For the past year, I've been listening to my body and dialing back the amount of fasting I'm doing. My typical fast is closer to 14 hours than the longer 16 to 22 hour ones I did in the early years. Reducing my fasting has not changed my body composition.
 

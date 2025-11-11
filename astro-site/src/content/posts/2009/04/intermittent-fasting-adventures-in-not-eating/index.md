@@ -63,7 +63,7 @@ We also know that back then the strong survived, and the weak died. Birth rates 
 
 @Aaron - Yes. Most of my urban hikes which vary from 7 to 22 miles were done while fasting. 
 
-https://criticalmas.org/best-of/urban-hiking/
+/tag/urban/
 
 I also do High Intensity Training while fasted. When I doing HIT, I make sure that I eat immediately after the workout.
 

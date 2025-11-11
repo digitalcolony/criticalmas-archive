@@ -9,7 +9,7 @@ description: "Recently, I got an alarming comment on an older post informing me
 commentCount: 7
 ---
 
-Recently, I got an alarming [comment on an older post](/2018/04/toxic-load-and-low-carb-dieting/#comment-26374) informing me that potatoes are high in cadmium. As someone who has been preaching the benefits of the [Potato Hack](https://criticalmas.org/best-of/potato-hack-diet/) for a while, I wanted to dig further into this potential risk.
+Recently, I got an alarming [comment on an older post](/2018/04/toxic-load-and-low-carb-dieting/#comment-26374) informing me that potatoes are high in cadmium. As someone who has been preaching the benefits of the [Potato Hack](/tag/potato/) for a while, I wanted to dig further into this potential risk.
 
 I looked for a list of foods with the highest levels of cadmium, but could not find one. _(**UPDATE**: Mimi found a 211-page PDF with some numbers. Cadmium info starts on Page 17). (**UPDATE July 2022:** The FDA pulled the PDF off their website.)_ What I found was a lot of discussions related to processed baby foods and chocolate. From the article, [WHY SHOULD WE WORRY ABOUT LEAD AND CADMIUM?](https://www.asyousow.org/our-work/environmental-health/toxic-enforcement/lead-and-cadmium-in-food/lead-and-cadmium-in-food-faqs/)
 

@@ -9,7 +9,7 @@ description: "Because I use the 3rd party search tool by Algolia, I get a report
 commentCount: 15
 ---
 
-Because I use the 3rd party search tool by Algolia, I get a report on what the readers of this blog are searching for. The top 3 topics consistently have been Pavel Tsatsouline, the Ray Peat Diet, and [Potato Hacking](https://criticalmas.org/best-of/potato-hack-diet/).
+Because I use the 3rd party search tool by Algolia, I get a report on what the readers of this blog are searching for. The top 3 topics consistently have been Pavel Tsatsouline, the Ray Peat Diet, and [Potato Hacking](/tag/potato/).
 
 Since many of those posts are years old, I thought I'd present my 2021 views on these 3 topics.
 

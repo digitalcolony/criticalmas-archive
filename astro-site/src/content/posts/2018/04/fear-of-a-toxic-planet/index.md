@@ -31,7 +31,7 @@ I don't fear a toxic planet. For a brief moment, the _free-range-organic-heirloo
 
 Toxins are stored in our body fat. The best way to reduce toxin load is to not be heavy. This means if you are already heavy, you will need a plan and some willpower to get lean. You can't buy that at the Farmers Market or Whole Foods.
 
-Doing a [Potato Hack](https://criticalmas.org/best-of/potato-hack-diet/) or High-Intensity Training will do more for your health than the most organic superfood you can buy.
+Doing a [Potato Hack](/tag/potato/) or High-Intensity Training will do more for your health than the most organic superfood you can buy.
 
 If you are already lean and can afford to spend money on the highest quality food, knock yourself out, but don't be deluded into thinking you have a major health edge over the rest of us. That is my view.
 

@@ -11,7 +11,7 @@ commentCount: 4
 
 Head on over to _Getting Stronger_ and read [What cold showers and exercise have in common](http://gettingstronger.org/2014/02/what-cold-showers-and-exercise-have-in-common/). This post covers the what we know so far about cold exposure and how it could help us lean out. In addition to the calories burned from shivering and the brown fat adaptation, cold exposure could lower one's **body fat set point**.
 
-I've been tinkering around with [cold exposure](https://criticalmas.org/best-of/cold-weather-training/) since 2008. When I effortlessly lost 20 pounds without counting calories, I wasn't sure where to give the credit. It could have been the cold exposure, intermittent fasting, reduced carbs or some combination. I still don't know.
+I've been tinkering around with [cold exposure](/tag/cold/) since 2008. When I effortlessly lost 20 pounds without counting calories, I wasn't sure where to give the credit. It could have been the cold exposure, intermittent fasting, reduced carbs or some combination. I still don't know.
 
 Although I still think there is merit in cold exposure, my most recent thinking which I outline in [Rejecting the Seasonal Approach](/2014/02/rejecting-seasonal-approach-nutrition/) is to not stack stressors. In other words, cold exposure is fine. IF is fine. Low carb is fine. Doing them at the same time is probably a bad idea. I also feel the most important aspect of cold exposure is when it is over to **warm up quickly**. Extending a stressor too long may likely have a metabolic lowering effect.
 

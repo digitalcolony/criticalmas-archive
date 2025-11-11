@@ -9,7 +9,7 @@ description: "Over the past month I've noticed my Glitter Gym has become less cr
 commentCount: 1
 ---
 
-Over the past month I've noticed my [_Glitter Gym_](/2006/02/glitter-and-rust/) has become less crowded. Each week I see less and less people. There are less members around in the mornings, late afternoons and even the weekend. Many of the people who go to my _Glitter Gym_ hire personal trainers. When times are tough, people cut back on their personal trainer time. That is why my gym is emptying out.
+Over the past month I've noticed my _Glitter Gym_ has become less crowded. Each week I see less and less people. There are less members around in the mornings, late afternoons and even the weekend. Many of the people who go to my _Glitter Gym_ hire personal trainers. When times are tough, people cut back on their personal trainer time. That is why my gym is emptying out.
 
 I know a personal trainer in North Seattle that **lost half his billable hours this year**. This isn't some punk kid with a newly minted certification. He has years of experience and in normal times - a full client list.
 

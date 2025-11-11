@@ -51,7 +51,7 @@ Fall is here. Winter is coming. Leave your jacket behind. You'll be fine. In fac
 *October 15 at 2015 at 6:28 PM*
 
 @All - More cold exposure posts here: 
-https://criticalmas.org/best-of/cold-weather-training/
+/tag/cold/
 
 ---
 

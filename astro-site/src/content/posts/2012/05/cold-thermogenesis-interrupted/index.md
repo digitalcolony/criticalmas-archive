@@ -9,9 +9,9 @@ description: "At the start of this year, I stopped doing daily cold temperature 
 commentCount: 21
 ---
 
-At the start of this year, I stopped doing daily [cold temperature exposure](https://criticalmas.org/best-of/cold-weather-training/), which is something I have been practicing since 2008. No more cold showers and I could even be spotted walking around Seattle wearing a thin sweater. Never a coat though. The reason I abandoned cold exposure was I couldn't figure out why my body felt so cold in the morning. I decided to reboot.
+At the start of this year, I stopped doing daily [cold temperature exposure](/tag/cold/), which is something I have been practicing since 2008. No more cold showers and I could even be spotted walking around Seattle wearing a thin sweater. Never a coat though. The reason I abandoned cold exposure was I couldn't figure out why my body felt so cold in the morning. I decided to reboot.
 
-In an effort to increase my morning temperature, I also cut back on [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/). I increased my food intake and added more carbs to my diet. I was trying to put a fire under my metabolism. I was lean, healthy, but damn cold in the morning. The interesting thing was that adding more heat and more calories did nothing to make me feel warmer. My hands were still ice cold.
+In an effort to increase my morning temperature, I also cut back on [Intermittent Fasting](/tag/intermittent-fasting/). I increased my food intake and added more carbs to my diet. I was trying to put a fire under my metabolism. I was lean, healthy, but damn cold in the morning. The interesting thing was that adding more heat and more calories did nothing to make me feel warmer. My hands were still ice cold.
 
 When the Cold Thermogenesis topic caught fire with Jack Kruse and Richard Nikoley, I decided to take a side seat and watch their results from afar. That was the plan. Then I read a paragraph on _FreeTheAnimal_ that inspired me to try cold water exposure. From the post Putting it All Together: Moderate Carb Paleo, Resistance Training & Kettlebells, Intermittent Fasting and Cold Thermogenesis: (MAY 2021: link behind paywall)
 

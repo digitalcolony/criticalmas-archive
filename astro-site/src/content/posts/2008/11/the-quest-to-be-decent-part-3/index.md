@@ -12,7 +12,7 @@ commentCount: 2
 As predicted in [Part 2](/2008/11/the-quest-to-be-decent-part-2/), I nailed the Dips. I focused on three exercises today.
 
 1.  **Dips** - Have I mentioned how much I loathe high repetition training? But I really want to be _Decent_, so I needed to hit 20 reps. After completing the 20 reps, I grabbed a weight belt and resumed my low-rep weighted dips.
-2.  **Bench Press** - My only _Decent_ bench press was back in May 2007. I'm more of a incline dumbbell guy, so I'm just starting to revisit the classic flat barbell bench press. Today I benched my weight (200) for 3 reps. Since I work out in a [Glitter Gym](/2006/02/glitter-and-rust/), it will be tough finding someone to spot me as I approach 225.
+2.  **Bench Press** - My only _Decent_ bench press was back in May 2007. I'm more of a incline dumbbell guy, so I'm just starting to revisit the classic flat barbell bench press. Today I benched my weight (200) for 3 reps. Since I work out in a Glitter Gym, it will be tough finding someone to spot me as I approach 225.
 3.  **Skull Crusher** - Added 5 more pounds to this ridiculous exercise. I've already hit _Decent_ and think that _Good_ is possible by spring.
 
 My 2008 Training Scorecard is now 7/12 _Decent_. Looking at the table I'm guessing it will be several weeks before I hit another _Decent_ milestone. However, my first _Good_ score is within reach on the Pull-Ups.

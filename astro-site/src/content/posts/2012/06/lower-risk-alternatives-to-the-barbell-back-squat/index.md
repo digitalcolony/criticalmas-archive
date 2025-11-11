@@ -31,7 +31,7 @@ After I read the book _Body By Science by McGuff and Little_, I understood why 
 
 When you perform a Wall Squat, the first half of the exercise is designed to fatigue the slow-twitch muscle fibers without allowing them the ability to recover. The goal is to knock out the slow-twitch fibers so you can directly target the larger fast-twitch muscle fibers. This is where the exercise gets difficult.
 
-Trust me when I say that a single Wall Squat taken to total failure can produce as much muscular fatigue as a [20-mile hike](https://criticalmas.org/best-of/urban-hiking/). Not every person will want to train to failure. I covered this in the post [Training to Failure or Training to Quit Part 2](/2011/06/training-to-failure-or-training-to-quit-part-2/). Because I have the freedom to have down days post-workout, going to failure works for me. If you are an in-season athlete, law enforcement, or military and need to be near peak performance daily, then training to failure may not be wise.
+Trust me when I say that a single Wall Squat taken to total failure can produce as much muscular fatigue as a [20-mile hike](/tag/urban/). Not every person will want to train to failure. I covered this in the post [Training to Failure or Training to Quit Part 2](/2011/06/training-to-failure-or-training-to-quit-part-2/). Because I have the freedom to have down days post-workout, going to failure works for me. If you are an in-season athlete, law enforcement, or military and need to be near peak performance daily, then training to failure may not be wise.
 
 ![Body by Science](https://images-na.ssl-images-amazon.com/images/I/51DXynBp-CL.jpg)
 

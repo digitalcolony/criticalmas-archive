@@ -28,7 +28,7 @@ When I was doing classic weight training, I would often get lower back pain. Up 
 
 As I increased the weight, my abs got stronger, but I still spent most of my day either at a desk or commuting where my abs were disengaged. Then 2 or 3 times a week, I'd put on my [Marilyn Manson mix](/2008/04/mascene-20-the-marilyn-manson-workout-mix/) and slam weights. Cycles of progress mixed with cycles of pain.
 
-Later I would learn about the role stress had on back pain. I have an [entire section](https://criticalmas.org/best-of/back-pain/) on that topic. While I still believe all that to be true, I can now see that wasn't the complete reason for all my back pain.
+Later I would learn about the role stress had on back pain. I have an [entire section](/tag/back-pain/) on that topic. While I still believe all that to be true, I can now see that wasn't the complete reason for all my back pain.
 
 Around 2011, I abandoned classic weight training for a machine-based HIT workout mostly built around the Big 5 exercises in the book Body By Science.
 

@@ -130,7 +130,7 @@ I've just found your your site .. awesome work!
 
 @Jennifer - Yes, I am currently trying the Body by Science approach to weight training.  So far I really enjoy it.  
 
-I read Eat Stop Eat back in 2008.  I plugged it on my <a href="https://criticalmas.org/best-of/intermittent-fasting/" rel="nofollow">Best Of Intermittent Fasting</a> page.  
+I read Eat Stop Eat back in 2008.  I plugged it on my <a href="/tag/intermittent-fasting/" rel="nofollow">Best Of Intermittent Fasting</a> page.  
 
 Good luck on your PALEO quest.
 

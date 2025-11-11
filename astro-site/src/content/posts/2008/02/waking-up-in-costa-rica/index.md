@@ -21,7 +21,7 @@ and
 
 > You will be much, much happier if you adjust to Tico hours, which means getting up with the sun and going to bed as early as 9 or 10 o'clock.
 
-Warm weather and a decent bedtime. Sounds like heaven to me. During my 2006 visit to [South America](/2006/08/rio-to-buenos-aires-overview/), I found the opposite to be true. They woke up late and stayed up late. I'm an early riser. In [Montevideo, Uruguay](/2006/08/rio-to-buenos-aires-overview/), I walked around downtown looking for a breakfast place from 6:30 AM to 9:00 AM. Nobody was awake and nothing was open, except the so-American McDonalds. Although I could imagine living in Montevideo, I can't imagine sleeping until 9 AM.
+Warm weather and a decent bedtime. Sounds like heaven to me. During my 2006 visit to South America, I found the opposite to be true. They woke up late and stayed up late. I'm an early riser. In Montevideo, Uruguay, I walked around downtown looking for a breakfast place from 6:30 AM to 9:00 AM. Nobody was awake and nothing was open, except the so-American McDonalds. Although I could imagine living in Montevideo, I can't imagine sleeping until 9 AM.
 
 Prior to picking up this book, I looked at Moon Living Abroad in Nicaragua (Living Abroad) by Joshua Berman. No sale. Although cheaper than Costa Rica, the author painted this country as a little too poor for my liking.
 

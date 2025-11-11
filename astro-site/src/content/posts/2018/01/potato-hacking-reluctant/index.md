@@ -9,7 +9,7 @@ description: "I've done several posts on how to use potatoes to get lean. Head o
 commentCount: 22
 ---
 
-I've done several posts on how to use potatoes to get lean. Head over to my [Potato Hack Diet](https://criticalmas.org/best-of/potato-hack-diet/) page to see those posts in the proper order. This post will be me reaching for an explanation on why some people cannot imagine themselves going days or even a single meal eating just boiled potatoes.
+I've done several posts on how to use potatoes to get lean. Head over to my [Potato Hack Diet](/tag/potato/) page to see those posts in the proper order. This post will be me reaching for an explanation on why some people cannot imagine themselves going days or even a single meal eating just boiled potatoes.
 
 In the post [The Five Stages of (Potato Hack) Grief](/2017/08/five-stages-potato-hack-grief/), I outlined the phases one could experience. Let's focus in on Stage #4 Depression. The idea of eating just potatoes is not a pleasant idea for most. From that post:
 

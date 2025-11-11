@@ -9,7 +9,7 @@ description: "From 2008-2013 I did a few posts mapping my urban hiking adventure
 commentCount: 14
 ---
 
-From 2008-2013 I did a few posts mapping my [urban hiking adventures](https://criticalmas.org/best-of/urban-hiking/) in Seattle. Now that I am temporarily in the San Francisco area, I thought I'd post one for this city. I've done many already. I'd say I've urban hiked over 100 miles in the city since my July arrival. Probably closer to 200 miles.
+From 2008-2013 I did a few posts mapping my [urban hiking adventures](/tag/urban/) in Seattle. Now that I am temporarily in the San Francisco area, I thought I'd post one for this city. I've done many already. I'd say I've urban hiked over 100 miles in the city since my July arrival. Probably closer to 200 miles.
 
 Today I paid attention to the streets I was taking, so I could put together this map. Usually I don't pay attention and just move north, south, east and west, until I get to my target location. Today's espressos were Pinhole, Coffee Cultures and Contraband. All were excellent. If you are interested in the SF Bay Area coffee scene, you can follow along on my adventures via a Google Spreadsheet at [tinyurl.com/sf-espresso](http://tinyurl.com/sf-espresso).
 

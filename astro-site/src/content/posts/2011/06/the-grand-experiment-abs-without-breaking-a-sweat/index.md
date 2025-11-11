@@ -11,7 +11,7 @@ commentCount: 18
 
 I wasn't ready to post about this, but I've been getting questions about what seems to be a conflicting opinion regarding my fitness protocol. On one hand, I think Tabatas and sprints are great. Yet I openly admit that I don't do them, but I never explained why. In the post [The Myth of Cardiovascular Training](/2011/01/the-myth-of-cardiovascular-training/), I confessed just how little exercise I do.
 
-> When I was in college I ran two [sub-4 hour marathons](/2008/03/the-runner-1989-1995/) and had a resting heart rate in the 50s. Since the late 90s, I havent ran at all. Not a single block. I go for [long and short walks](https://criticalmas.org/best-of/urban-hiking/) plus I lift weights. I only lift weights 1 or 2 times a week and then for less than 30 minutes.**I havent broken a sweat exercising in many years.** Even though I am older and exercise far less than I used to, I am in the best shape of my life and **my resting heart rate is still in the 50s**.
+> When I was in college I ran two [sub-4 hour marathons](/2008/03/the-runner-1989-1995/) and had a resting heart rate in the 50s. Since the late 90s, I havent ran at all. Not a single block. I go for [long and short walks](/tag/urban/) plus I lift weights. I only lift weights 1 or 2 times a week and then for less than 30 minutes.**I havent broken a sweat exercising in many years.** Even though I am older and exercise far less than I used to, I am in the best shape of my life and **my resting heart rate is still in the 50s**.
 
 
 ### Background
@@ -19,7 +19,7 @@ I wasn't ready to post about this, but I've been getting questions about what se
 
 If I believe that brief high burst exercise is good for you, why don't I do any? For that explanation, I need to go back a few years. From the late 90s until 2009, I had periods of back pain. One of the triggers for that back pain was running. During this decade, I believed there was something broken with me and I was unable to run. It has only been recently that I discovered the [cause of my back pain](/2011/01/how-i-figured-out-the-cause-of-my-back-pain/) was not related to running.
 
-In early 2009, I had just gone through a period of bad back pain. This was also the same period that I was exploring [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/), [Cold Weather Training](https://criticalmas.org/best-of/cold-weather-training/), and lower carbohydrate diets. **I was getting leaner despite the fact I couldn't exercise.** This was a paradigm shift in my thinking. Like most people, up until that moment I believed in the "diet + exercise" thesis on getting lean. I was getting leaner than I had been in 10 years and I wasn't even exercising. Then I got an idea for _The Grand Experiment_.
+In early 2009, I had just gone through a period of bad back pain. This was also the same period that I was exploring [Intermittent Fasting](/tag/intermittent-fasting/), [Cold Weather Training](/tag/cold/), and lower carbohydrate diets. **I was getting leaner despite the fact I couldn't exercise.** This was a paradigm shift in my thinking. Like most people, up until that moment I believed in the "diet + exercise" thesis on getting lean. I was getting leaner than I had been in 10 years and I wasn't even exercising. Then I got an idea for _The Grand Experiment_.
 
 
 ### The Grand Experiment

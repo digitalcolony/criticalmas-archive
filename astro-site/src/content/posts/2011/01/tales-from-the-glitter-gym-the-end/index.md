@@ -9,7 +9,7 @@ description: "Today MetaFilter linked to my Tales From the Glitter Gym. The comm
 commentCount: 25
 ---
 
-Today MetaFilter [linked](https://www.metafilter.com/99747/Tales-From-The-Glitter-Gym) to my [Tales From the Glitter Gym](https://criticalmas.org/best-of/tales-from-the-glitter-gym/). The comments exploded and they were mostly negative. A few people got the humor, but the majority didn't. It is not often in life that you get honest feedback from such a large number of people at once. Most of the people I know personally like _Tales From the Glitter Gym_. They get that it is a joke, but without context, I now can see how others could see some of them as being mean-spirited.
+Today MetaFilter [linked](https://www.metafilter.com/99747/Tales-From-The-Glitter-Gym) to my [Tales From the Glitter Gym](/tag/glitter-gym/). The comments exploded and they were mostly negative. A few people got the humor, but the majority didn't. It is not often in life that you get honest feedback from such a large number of people at once. Most of the people I know personally like _Tales From the Glitter Gym_. They get that it is a joke, but without context, I now can see how others could see some of them as being mean-spirited.
 
 I've read all the comments and have decided there will be no more editions to _Tales From the Glitter Gym_. I was getting bored with it anyway. I'll leave the rant writing to far more skilled authors such as Joe Queenan and TC Luoma. On topics of fitness and nutrition, I'd rather keep the tone of this blog 100% constructive and helpful.
 
@@ -179,7 +179,7 @@ Well, he got very offended.  He told me basically "whadyou know?".  I said well 
 ### MAS
 *January 25 at 2011 at 8:47 PM*
 
-Here is a collection of fitness posts that are hope are <em>constructive and helpful</em>:  <a href="https://criticalmas.org/best-of/fitness-insights/" rel="nofollow">Fitness Insights</a>.
+Here is a collection of fitness posts that are hope are <em>constructive and helpful</em>:  <a href="/category/fitness/" rel="nofollow">Fitness Insights</a>.
 
 ---
 

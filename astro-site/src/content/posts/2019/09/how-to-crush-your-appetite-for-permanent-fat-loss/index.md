@@ -25,7 +25,7 @@ The brain will trust the process if you can turn down the hunger signals. Here a
 ### #1 Eat High-Volume, Low-Calorie Foods
 
 
-You know where I am going with this tip. Fill your belly with [boiled potatoes](https://criticalmas.org/best-of/potato-hack-diet/). Maybe one day a week or one meal a day or a one at the start of a meal. You can add salt or red wine vinegar, but nothing else. Replace enough meals and you'll get leaner.
+You know where I am going with this tip. Fill your belly with [boiled potatoes](/tag/potato/). Maybe one day a week or one meal a day or a one at the start of a meal. You can add salt or red wine vinegar, but nothing else. Replace enough meals and you'll get leaner.
 
 If you think potatoes are a fattening food, you've been misled. I explain all in the post [Tater Haters Have Some Explaining To Do](/2018/11/tater-haters-have-some-explaining-to-do/).
 

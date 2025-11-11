@@ -25,7 +25,7 @@ There are two other solutions that have been available to mankind for many thous
 
 Back in the old days, we didn't have planes flying fresh asparagus from Peru to our air-conditioned grocery store. We also didn't have the technology to them turn those fresh vegetables into a liquid for our morning smoothie. We didn't even have refrigeration. How did we survive and get the nutrients provided by vegetables, especially outside harvest time? One method was eating animals, particularly their organ meat. _FreeTheAnimal_ did a post showing that 1/4 pound of beef liver has as much nutrition as 5 pounds of fruit. You see Mother Nature has a plan for us that doesn't involve 7 easy payments. _But wait there's more!_
 
-Mankind also figured out that [fermentation](https://criticalmas.org/best-of/fermentation/) not only preserved vegetables beyond harvest, but they became softer to eat and they had higher nutrient levels than fresh vegetables. Yes, fermented vegetables can have 2 to 3 times the vitamin levels of fresh vegetables. I can also eat a bowl of sauerkraut or kimchi a lot easier than raw cabbage. Plus they have healthy probiotics that you do not get from juicing.
+Mankind also figured out that [fermentation](/tag/fermentation/) not only preserved vegetables beyond harvest, but they became softer to eat and they had higher nutrient levels than fresh vegetables. Yes, fermented vegetables can have 2 to 3 times the vitamin levels of fresh vegetables. I can also eat a bowl of sauerkraut or kimchi a lot easier than raw cabbage. Plus they have healthy probiotics that you do not get from juicing.
 
 ![3-jars-kimchi](./img/3-jars-kimchi.jpg)
 

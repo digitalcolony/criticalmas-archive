@@ -127,7 +127,7 @@ These days I'd prefer to sit back and listen to voices that know more than me, s
 
 @Tony C. - At some point, I want to update all my "Best of" pages. For now, you can see those posts here:
 
-https://criticalmas.org/best-of/fitness-insights/
+/category/fitness/
 
 ---
 

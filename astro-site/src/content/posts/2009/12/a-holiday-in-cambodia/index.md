@@ -11,7 +11,7 @@ commentCount: 4
 
 How did I end up in Cambodia when my original travel plans only included Thailand? It was me discovering what type of traveler I am. The thought of spending two weeks on the white sand beaches of Thailand may sound like paradise to many, but I got bored quickly at the beach. I needed a little more grit. Cambodia was the ideal choice.
 
-Cambodia is much poorer than Thailand. According to the IMF, Thailand is close to [Argentina](/2006/08/rio-to-buenos-aires-overview/) in wealth, whereas Cambodia is just a little better off than Haiti. Despite the poverty, there was no evidence of crime and I never felt threatened walking at night in Siem Reap.
+Cambodia is much poorer than Thailand. According to the IMF, Thailand is close to [Argentina](/2006/09/rio-to-buenos-aires-overview/) in wealth, whereas Cambodia is just a little better off than Haiti. Despite the poverty, there was no evidence of crime and I never felt threatened walking at night in Siem Reap.
 
 Cambodia has had it rough. After the Vietnam War came the genocide of the Khmer Rouge, which killed an estimated [1.7 million](https://en.wikipedia.org/wiki/Genocides_in_history#Cambodia) people. The country is still littered with [land mines](/2009/12/cambodian-landmine-museum/). Tourist revenue from those visiting [Angkor Wat](/2009/12/angkor-wat-siem-reap-cambodia/) is one thing Cambodia has going for it, but our guide mentioned that the financial crisis and [H1N1 fears](/2009/10/sick-of-fearing-the-flu/) have caused a **50% reduction in tourists in just the last year**. I saw many restaurants that were 100% empty EVERY time I passed them.
 

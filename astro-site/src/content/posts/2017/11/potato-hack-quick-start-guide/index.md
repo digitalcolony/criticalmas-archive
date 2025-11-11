@@ -11,7 +11,7 @@ commentCount: 20
 
 I have received a few emails asking for tips and advice on getting started with the Potato Hack Diet. I really think people are overthinking this one. The health and fitness community is full of complex ideas, this is not one of them.
 
-This week I assembled and organized my favorite blog posts related to the potato on the [Potato Hack Diet](https://criticalmas.org/best-of/potato-hack-diet/) Best of Page.
+This week I assembled and organized my favorite blog posts related to the potato on the [Potato Hack Diet](/tag/potato/) Best of Page.
 
 In this post, I am going to walk you through how I prepare potatoes. Hopefully, a few of these tips will help you.
 

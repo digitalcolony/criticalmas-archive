@@ -11,7 +11,7 @@ commentCount: 11
 
 I'm sure a few of you saw some stories last week that actor [Kevin Smith is using an all-potato diet](https://web.archive.org/web/20220523155844/https://www.chicagotribune.com/dining/dailymeal-kevin-smith-loses-20-pounds-on-all-potato-diet-20180327-story.html) to lose some weight and improve his health. Kevin suffered a heart-health earlier this year and inspired by the success of Penn Jillette, who used potatoes to help him lose 100 pounds and get off many medications, he has joined us here on Team Tator!
 
-As you can see below, traffic to this blog spiked a bit last Thursday. All those extra page views went to Potato Hack related pages. Unfortunately, the search engines keep directing people to the worst two pages I have on the topic and not my _best of_ [Potato hack Diet page](https://criticalmas.org/best-of/potato-hack-diet/).
+As you can see below, traffic to this blog spiked a bit last Thursday. All those extra page views went to Potato Hack related pages. Unfortunately, the search engines keep directing people to the worst two pages I have on the topic and not my _best of_ [Potato hack Diet page](/tag/potato/).
 
 I wish Kevin the best of luck in his recovery. He has a huge audience and many of them would benefit from swapping out a few meals each week for boiled potatoes.
 
@@ -42,7 +42,7 @@ thanks.
 
 @t. bondurant - I think you are missing the point. It is about removing flavor. No butter. Salt only if you must for the hack, otherwise, you won't get the full benefits. 
 
-https://criticalmas.org/best-of/potato-hack-diet/
+/tag/potato/
 
 ---
 

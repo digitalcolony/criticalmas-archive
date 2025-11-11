@@ -15,7 +15,7 @@ I am taking off for a week to Seattle and Portland, so I probably won't be posti
 
 I created two new BEST OF pages for the site.
 
-1.  [Back Pain](https://criticalmas.org/best-of/back-pain/)
-2.  [Quantified Self](https://criticalmas.org/best-of/quantified-self/) 
+1.  [Back Pain](/tag/back-pain/)
+2.  [Quantified Self](/tag/quantified-self/)
 
-Each page is a collection of what I consider the best posts on those topics. I also reorganized [Fitness Insights](https://criticalmas.org/best-of/fitness-insights/), so the more important articles are now higher on the page.
+Each page is a collection of what I consider the best posts on those topics. I also reorganized [Fitness](/category/fitness/), so the more important articles are now higher on the page.

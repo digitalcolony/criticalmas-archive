@@ -9,7 +9,7 @@ description: "Today was Presidents Day, which meant that I was off work and the 
 commentCount: 1
 ---
 
-Today was Presidents Day, which meant that I was off work and the stock market was closed. The weather forecast for Seattle was 57 degrees and sunny. Perfect conditions for an urban hike. I've urban hiked Manhattan, San Francisco, [Auckland](/2006/09/new-zealand-trip-overview/), and [Buenos Aires](/2006/08/rio-to-buenos-aires-overview/). I decided to urban hike Seattle armed with my camera and GPS.
+Today was Presidents Day, which meant that I was off work and the stock market was closed. The weather forecast for Seattle was 57 degrees and sunny. Perfect conditions for an urban hike. I've urban hiked Manhattan, San Francisco, [Auckland](/2006/09/new-zealand-trip-overview/), and Buenos Aires. I decided to urban hike Seattle armed with my camera and GPS.
 
 Starting south of Fremont at 8 AM I crossed the Fremont Bridge.
 

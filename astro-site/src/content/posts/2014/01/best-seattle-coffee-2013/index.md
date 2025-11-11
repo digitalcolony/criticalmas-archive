@@ -9,7 +9,7 @@ description: "In 2012, I did something unique to Best of lists. I listed my bias
 commentCount: 5
 ---
 
-In 2012, I did something unique to **Best of** lists. I listed my biases, preferences and **quantified my results**. Check out the post [192 Espressos](/2012/12/192-espressos-the-best-of-seattle-coffee-2012/) if you want to see how to do a Best of list properly.
+In 2012, I did something unique to **Best of** lists. I listed my biases, preferences and **quantified my results**. Check out the post 192 Espressos if you want to see how to do a Best of list properly.
 
 For 2013, I decided to put away the spreadsheet and not rank any espresso. It was liberating. There is a downside to [quantifiable self](/2013/11/quantifiable-self-form-journaling/). Instead of focusing solely on the espresso quality, my cafe experiences would also be influenced by customer service.
 

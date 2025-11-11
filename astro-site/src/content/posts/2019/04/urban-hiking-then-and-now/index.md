@@ -9,7 +9,7 @@ description: "I began urban hiking in 2008. For a brief overview, read the intro
 commentCount: 2
 ---
 
-_I began urban hiking in 2008. For a brief overview, read the introduction on my [Best of Urban Hiking page](https://criticalmas.org/best-of/urban-hiking/)._
+_I began urban hiking in 2008. For a brief overview, read the introduction on my [Best of Urban Hiking page](/tag/urban/)._
 
 The way I urban hike has changed quite a bit since the early days. Because I now have a detailed familiarity with almost all the neighborhoods in Seattle, the spirit of novelty is mostly gone. If you combine that with the fact, I've been battling knee issues for 5 years, the number of urban hikes I now do are fewer and the mileage is less.
 

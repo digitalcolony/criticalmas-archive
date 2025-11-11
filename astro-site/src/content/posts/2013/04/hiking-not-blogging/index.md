@@ -9,7 +9,7 @@ description: "The weather in Seattle suddenly got really nice. This means I step
 commentCount: 6
 ---
 
-The weather in Seattle suddenly got really nice. This means I stepped out of hibernation and did some [urban hiking](https://criticalmas.org/best-of/urban-hiking/). When it comes to hiking in Seattle, I take a unique approach. While everyone else spends an hour or three driving east to some trail, I stay in the city. The idea of driving two to three hours just to hike one hour seems wasteful to me. Plus, the cops have so many speed traps on the hiking corridor that the idea of a stress-free afternoon in nature doesn't really exist.
+The weather in Seattle suddenly got really nice. This means I stepped out of hibernation and did some [urban hiking](/tag/urban/). When it comes to hiking in Seattle, I take a unique approach. While everyone else spends an hour or three driving east to some trail, I stay in the city. The idea of driving two to three hours just to hike one hour seems wasteful to me. Plus, the cops have so many speed traps on the hiking corridor that the idea of a stress-free afternoon in nature doesn't really exist.
 
 I'd rather hike in the city. Less driving, more hiking. Plus I can always stop for espresso along the way. Can't do that in the mountains. :)
 

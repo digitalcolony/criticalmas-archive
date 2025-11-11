@@ -28,11 +28,11 @@ So in summary, avoid most grains, have some tea in the AM and a single coffee po
 
 For the fat loss, I have 3 ideas.
 
-1.  Return to IF ([Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/)). I'm going to stop screwing around with trying to [increase my body temperature](/2013/04/turn-up-the-heat-1-month-update/) by eating early in the AM. All it does is make me hungry all day long. Plus it isn't working. I have more thoughts on that, which I'll save for a future post. For the IF, my target will be 12 hours minimum, with most days between 14-16 and a random 20-22. In the past, I've used excessive caffeine to blast through IF, but I can't do that this time (see above), so this will take some adjustment. 
+1.  Return to IF ([Intermittent Fasting](/tag/intermittent-fasting/)). I'm going to stop screwing around with trying to [increase my body temperature](/2013/04/turn-up-the-heat-1-month-update/) by eating early in the AM. All it does is make me hungry all day long. Plus it isn't working. I have more thoughts on that, which I'll save for a future post. For the IF, my target will be 12 hours minimum, with most days between 14-16 and a random 20-22. In the past, I've used excessive caffeine to blast through IF, but I can't do that this time (see above), so this will take some adjustment. 
 2.  Only consume sugar rich foods on days where I lift weights or hike at least 2 hours. Those foods would be ice cream and pudding. On days over 80 F, maybe a single Mexican cola.
 3.  Back in 2011, I reviewed the book _The Shangri-La Diet_ in the post [Flavor Signaling and The Shangri-La Diet](/2011/08/flavor-signaling-and-the-shangri-la-diet/), but I could try the ideas because I was already an optimal weight. I also was eating a super clean diet that had none of the foods that are considered hyper palatable. Well after [a year of eating ice cream](/2013/03/ending-the-ice-cream-experiment/), I developed a sweet tooth, which I never had prior. So I will play with his ideas to consume foods with calories and no taste, such as Extra Light Olive Oil or diluted sugar water.
 
-Exercise will stay the same. One to two machine based brief weight lifting sessions using a combination or slow movements and static holds. I'll also continue [urban hiking](https://criticalmas.org/best-of/urban-hiking/) through Seattle.
+Exercise will stay the same. One to two machine based brief weight lifting sessions using a combination or slow movements and static holds. I'll also continue [urban hiking](/tag/urban/) through Seattle.
 
 The challenge for June will be the morning. Dealing with hunger with low caffeine is going to be tough.
 

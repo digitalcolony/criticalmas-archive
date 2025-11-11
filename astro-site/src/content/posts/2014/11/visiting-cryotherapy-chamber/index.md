@@ -11,7 +11,7 @@ commentCount: 7
 
 For the past six years, I have been fascinated by cold temperature exposure. When I left the perfect temperatures of San Diego in 2007 for Seattle, I became uncomfortable at temperatures as high as 65 F. I had gotten way too soft. I wanted to reverse that. Inspired initially by Art De Vany, I set about the quest to expand my temperature comfort zone. I wanted to be cold temperature resilient.
 
-For more background, I put together a [Cold Weather Exposure](https://criticalmas.org/best-of/cold-weather-training/) page with links to all the posts and stunts I've done on this quest. Today I am very comfortable in cold temperatures. But how cold can I go?
+For more background, I put together a [Cold Weather Exposure](/tag/cold/) page with links to all the posts and stunts I've done on this quest. Today I am very comfortable in cold temperatures. But how cold can I go?
 
 
 ### Tony Robbins Raves About Cryotherapy

@@ -13,7 +13,7 @@ I'm back from my 11 day trip of New Zealand. The trip just covered the North Isl
 
 ![new-zealand](./img/new-zealand.jpg)
 
-The quickest summary I can give about New Zealand is that New Zealand is the opposite of Brazil. Last month I learned that the [coffee and food of Brazil](/2006/08/rio-to-buenos-aires-overview/) is just awful. New Zealand not only has great food, but it serves the best coffee I've ever had in my life. The outdoor air quality of Rio De Janeiro was bad. The air quality of New Zealand is great. New Zealand's biggest weakness is Brazil's strength. Whereas the women of Brazil are hot, the New Zealand women mostly had short-cropped hair and looked very unfeminine.
+The quickest summary I can give about New Zealand is that New Zealand is the opposite of Brazil. Last month I learned that the coffee and food of Brazil is just awful. New Zealand not only has great food, but it serves the best coffee I've ever had in my life. The outdoor air quality of Rio De Janeiro was bad. The air quality of New Zealand is great. New Zealand's biggest weakness is Brazil's strength. Whereas the women of Brazil are hot, the New Zealand women mostly had short-cropped hair and looked very unfeminine.
 
 Overall New Zealand is a beautiful country. The detailed posts are coming soon.
 

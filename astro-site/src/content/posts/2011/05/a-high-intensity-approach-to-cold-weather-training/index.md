@@ -9,7 +9,7 @@ description: "It has been a while since I last posted on Cold Weather Training. 
 commentCount: 18
 ---
 
-It has been a while since I last posted on [Cold Weather Training](https://criticalmas.org/best-of/cold-weather-training/). For those new to the site, I began experimenting with cold temperature exposure back in 2008 as way to "toughen up" after living in the perfect temperatures of San Diego for seven years. What I learned was that not only does cold temperature exposure increase your personal comfort zone, but it has many health benefits including fat loss and a [stronger immune system](/2009/06/another-reason-i-no-longer-get-sick/).
+It has been a while since I last posted on [Cold Weather Training](/tag/cold/). For those new to the site, I began experimenting with cold temperature exposure back in 2008 as way to "toughen up" after living in the perfect temperatures of San Diego for seven years. What I learned was that not only does cold temperature exposure increase your personal comfort zone, but it has many health benefits including fat loss and a [stronger immune system](/2009/06/another-reason-i-no-longer-get-sick/).
 
 I thought I had nothing new to add to this discussion until about a month ago. While studying the [High Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/) approach to weight lifting, I wondered if those concepts could be applied to cold temperature exposure. HIT workouts are extremely intense, very brief and highly effective. The goal is to trigger certain physiological and hormonal responses and then allow the body to respond. I love Dr. Doug McGuff's analogy of hitting an elevator button. Once the button is pressed, pressing it more won't make the elevator arrive faster.
 

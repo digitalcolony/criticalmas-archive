@@ -32,7 +32,7 @@ But how you lose the weight is not the topic of this post. This is about defendi
 ### #1 Don't Declare Victory Too Soon
 
 
-In [Declaring Victory! How I Lost and Kept Off 25 Pounds](/2018/04/declaring-victory-how-i-lost-and-kept-off-25-pounds/), I explained why I waited so many months after I hit my goal weight before I told myself and my readers that I had achieved my target.  One of the reasons:
+In [Declaring Victory! How I Lost and Kept Off 25 Pounds](/2018/05/declaring-victory-how-i-lost-and-kept-off-25-pounds/), I explained why I waited so many months after I hit my goal weight before I told myself and my readers that I had achieved my target.  One of the reasons:
 
 > If setpoint theory is correct and I use a conservative 1/2 pound per week reset, then my fat loss moved much faster than my setpoint. But now that we are just over a year, it has caught up. This means that because I’ve been at my lower weight for several months now, I’ve likely locked in the new lower setpoint.
 

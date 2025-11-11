@@ -29,7 +29,7 @@ From [No Jacket Required](/2008/12/no-jacket-required/):
 
 Life will throw us stressors. It could be a heart attack or a stroke. Many of these stressors will hit us later in life at a time when we may be too weak to fight them off. By purposely choosing safe stressors at a time when we are strong and healthy, we are building both the physical and mental strength we will need as we age.
 
-Life is too easy today. You can live in a perfectly temperature-controlled environment, never [miss a meal](https://criticalmas.org/best-of/intermittent-fasting/), or have to exert yourself physically. If you can't handle safe stressors when you are strong, how will you handle more dangerous stressors when you aren't?
+Life is too easy today. You can live in a perfectly temperature-controlled environment, never [miss a meal](/tag/intermittent-fasting/), or have to exert yourself physically. If you can't handle safe stressors when you are strong, how will you handle more dangerous stressors when you aren't?
 
 ![cold mornings in September](./img/cold-mornings-in-september.jpg)
 

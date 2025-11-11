@@ -11,7 +11,7 @@ commentCount: 2
 
 I spent last week [fixing years worth of grammar errors](/2015/03/still-learning-grammar-after-all-these-years/) on this site. Over 300 posts were updated. While fixing the posts I was reacquanted with many of my old n=1 experiments. A lot of what I read made me cringe. _Yeah I got a few things wrong._ Many of the n=1 experiments that I thought at the time provided insight really didn't.
 
-When I used to engage in and hear others talk about their n=1 experiments, I thought we were on the path to optimal health. We were taking charge and seeking answers to solve health riddles. Not anymore. Today when I read the biohackers and [Quantified Self](https://criticalmas.org/best-of/quantified-self/) movement celebrate their n=1 experiments, I am skeptical.
+When I used to engage in and hear others talk about their n=1 experiments, I thought we were on the path to optimal health. We were taking charge and seeking answers to solve health riddles. Not anymore. Today when I read the biohackers and [Quantified Self](/tag/quantified-self/) movement celebrate their n=1 experiments, I am skeptical.
 
 A lot of the n=1 movement is based on the assumption that we all are unique and what works for the majority may not work for the individual and that a well constructed test can prove that fact. But many of the experiments are using small data samples to explain contrarian findings. And those findings often can't be repeated.
 

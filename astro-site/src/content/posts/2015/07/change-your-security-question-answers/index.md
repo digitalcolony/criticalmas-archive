@@ -37,7 +37,7 @@ You can store your answers to these questions inside your password manager. If y
 
 One last tip is **do not use any words that are tied to your likes**. This especially applies to password choices. If you LIKE Star Wars on Facebook, you can bet there is a dictionary of Star Wars terms hackers will use when they try and crack your password. Hackers have software that can scan for interests across blogs and social media and then use that information to build hacking lists. Before I started this project, I used "kimchi" as part of one of my passwords. Not anymore. The words I use in passwords, passphrases and security answers have zero connection to my interests.
 
-_I've also assembled a Best Of page for accessing the [Online Security](https://criticalmas.org/best-of/online-security/) posts._
+_I've also assembled a Best Of page for accessing the [Online Security](/tag/security/) posts._
 
 ---
 

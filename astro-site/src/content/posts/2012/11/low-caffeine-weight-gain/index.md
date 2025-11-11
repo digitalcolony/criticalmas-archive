@@ -19,7 +19,7 @@ Why did I gain weight during this period? Some thoughts:
 2.  Seattle weather was terrible during this period. My non-exercise movement (walking) was minimal. This means I was home near my food supplies for a high percentage of the month.
 3.  I had strong sugar cravings when I came off caffeine.
 4.  When I did go to the gym to do my [High Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/), my focus was off. Either I went to failure faster than normal or I didn't have the grit to push myself as hard. Although I strongly believe [exercise plays almost no role in fat loss](/2012/04/how-exercise-indirectly-kept-me-fatter/), I do think [HIT has some fat loss](/2012/04/fat-loss-and-high-intensity-exercise/) applications, provided it really is high intensity and you aren't just going through the motions like I was doing.
-5.  Less morning [fasting](https://criticalmas.org/best-of/intermittent-fasting/). I had less discipline on delaying my first meal without caffeine.
+5.  Less morning [fasting](/tag/intermittent-fasting/). I had less discipline on delaying my first meal without caffeine.
 
 ![](http://farm8.staticflickr.com/7163/6835384967_4130aae3ef_z.jpg "coffee break")
 

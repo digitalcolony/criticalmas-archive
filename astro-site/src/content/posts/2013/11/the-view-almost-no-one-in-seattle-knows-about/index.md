@@ -9,7 +9,7 @@ description: "Ever since I arrived in Seattle in 2007, I have been an exploring 
 commentCount: 7
 ---
 
-Ever since I arrived in Seattle in 2007, I have been an [exploring machine](https://criticalmas.org/best-of/urban-hiking/). I've seen more of this city than many people who have been here since birth. But until one evening this summer I had no idea about this killer view overlooking downtown Seattle. Back in 2006 when Washington Mutual was busy printing money writing bad mortgages they built a 43 story building in downtown Seattle. On the west side of the building at the 17th floor they constructed a 20,000 square foot garden for their employees.
+Ever since I arrived in Seattle in 2007, I have been an [exploring machine](/tag/urban/). I've seen more of this city than many people who have been here since birth. But until one evening this summer I had no idea about this killer view overlooking downtown Seattle. Back in 2006 when Washington Mutual was busy printing money writing bad mortgages they built a 43 story building in downtown Seattle. On the west side of the building at the 17th floor they constructed a 20,000 square foot garden for their employees.
 
 Times were good for WaMu. Who could have seen they were doomed for failure? Actually, me. [I predicted WaMu would fail](/2008/06/i-wouldnt-bank-there/) on this blog in June 2008. In September they were placed in receivership with the FDIC. After their failure, their brand new Seattle building was purchased by Russell Investments.
 

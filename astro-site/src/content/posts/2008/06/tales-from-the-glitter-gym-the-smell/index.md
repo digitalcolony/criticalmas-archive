@@ -9,7 +9,7 @@ description: "It's been six months since I stepped foot into a Glitter Gym. Toda
 commentCount: 0
 ---
 
-It's been six months since I stepped foot into a [Glitter Gym](/2006/02/glitter-and-rust/). Today I started at my new gym, which isn't pure Glitter, but it certainly isn't a [Rust Gym](/2008/01/leaving-the-glitter-embracing-the-rust/). It's an odd hybrid, which I'll call an Independent Glitter. Before I kick off the stories from today, I realized that I never blogged about _The Smell_ from my [last Glitter Gym](/2007/10/glitter-gym-hijinks/).
+It's been six months since I stepped foot into a Glitter Gym. Today I started at my new gym, which isn't pure Glitter, but it certainly isn't a [Rust Gym](/2008/01/leaving-the-glitter-embracing-the-rust/). It's an odd hybrid, which I'll call an Independent Glitter. Before I kick off the stories from today, I realized that I never blogged about _The Smell_ from my [last Glitter Gym](/2007/10/glitter-gym-hijinks/).
 
 In previous posts, I've told you how I've been visually assaulted by witnessing stupid acts at the gym. And I've also mentioned how my ears have been attacked by the dreadful music played in a Glitter Gym. The third sense that came under attack last December was the smell.
 

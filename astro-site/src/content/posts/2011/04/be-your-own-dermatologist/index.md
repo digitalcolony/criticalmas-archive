@@ -19,7 +19,7 @@ _Me and my rosacea from July 2000._
 
 Then I started to suspect that the medicine was making me sick when, on one of those rare occasions, I had a stout at a local brewpub. The dermatologist assured me that was impossible. I was also spending a lot of money on the pills and creams. I started to lose faith that the treatment prescribed by the dermatologist was sustainable.
 
-It was about this time that I started running health experiments with [intermittent fasting](https://criticalmas.org/best-of/intermittent-fasting/) and [cold weather exposure](https://criticalmas.org/best-of/cold-weather-training/). In the spirit of self-experimentation, I decided I would figure out the minimum dose among all the medicines that could get me the most results with my rosacea. **I quickly discovered that the $7 cream was the only thing needed and it was only necessary maybe 2-3 times a month.** Everything else was wasted money.
+It was about this time that I started running health experiments with [intermittent fasting](/tag/intermittent-fasting/) and [cold weather exposure](/tag/cold/). In the spirit of self-experimentation, I decided I would figure out the minimum dose among all the medicines that could get me the most results with my rosacea. **I quickly discovered that the $7 cream was the only thing needed and it was only necessary maybe 2-3 times a month.** Everything else was wasted money.
 
 ![](http://farm1.static.flickr.com/202/490128769_5b53be7e03.jpg "pills and creams")
 

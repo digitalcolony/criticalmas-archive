@@ -8,9 +8,9 @@ description: "My previous post was part of the Tales From the Glitter Gym series
 commentCount: 3
 ---
 
-My [previous post](/2024/03/tales-from-the-glitter-gym-the-old-guy/) was part of the [Tales From the Glitter Gym](https://criticalmas.org/best-of/tales-from-the-glitter-gym/) series. That was after a 13-year hiatus. The oldest post I have on the topic was from 2006, however, I recall using the term years before that. When I first used the term, people understood it and thought it was funny.
+My [previous post](/2024/03/tales-from-the-glitter-gym-the-old-guy/) was part of the [Tales From the Glitter Gym](/tag/glitter-gym/) series. That was after a 13-year hiatus. The oldest post I have on the topic was from 2006, however, I recall using the term years before that. When I first used the term, people understood it and thought it was funny.
 
-Fast forward to today and I think the term "Glitter Gym" no longer makes sense. Let me explain. From my [2006 post](/2006/02/glitter-and-rust/):
+Fast forward to today and I think the term "Glitter Gym" no longer makes sense. Let me explain. From my [2006 post](/2006/03/glitter-and-rust/):
 
 > There are two types of gyms. Glitter gyms and Rust gyms. A majority of men and almost all women are only familiar with Glitter gyms. Glitter gyms are workout facilities with bright lights, mirrors, treadmills, and TVs (Ballys, 24 Hour, etc). Rust gyms cater primarily to men and are almost all free weights. The equipment is never new, nor does it need to be. Rust gyms are about function, glitter gyms are primarily about fashion. Rust gyms tend to be named after a rather large guy who will get in your face the first time you forget to rack your weights.
 

@@ -9,7 +9,7 @@ description: "When I haven't planned for a meal or don't know what to make, I kn
 commentCount: 2
 ---
 
-When I haven't planned for a meal or don't know what to make, I know I can always quickly make a few bowls of delicious Korean soup. All you need are some basic ingredients and then follow this guide. It should be noted that I am not Korean. I am from Ohio, yet I've had two different women both born in Korea tell me that I am more Korean than they are. Must be all that [kimchi](https://criticalmas.org/best-of/fermentation/) I've made. :)
+When I haven't planned for a meal or don't know what to make, I know I can always quickly make a few bowls of delicious Korean soup. All you need are some basic ingredients and then follow this guide. It should be noted that I am not Korean. I am from Ohio, yet I've had two different women both born in Korea tell me that I am more Korean than they are. Must be all that [kimchi](/tag/fermentation/) I've made. :)
 
 This is a soup template. It is not meant to be complete. This is a starter guide.
 

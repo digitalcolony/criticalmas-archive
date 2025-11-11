@@ -41,7 +41,7 @@ And here is the kicker, once they got the wrist open, they discovered there was 
 
 **Intestinal Problems** - In 2009, I went two weeks with intestinal issues, so I saw a doctor. I ended up paying $600 in tests that were not covered by insurance. Later I learned one of the tests required me to fast to get an accurate reading, but that was never communicated by the doctor. They were too busy ringing the register.
 
-They found nothing wrong with me, but gave me an expensive prescription to deal with the pain should it surface again. Thankfully an ethical pharmacist was on staff when I went to fill my script. He showed me an over-the-counter version of the same medicine that was 90% cheaper. Despite all the time and money I spent chasing down my gut issues, I still do not know what happened to me. Maybe I healed my gut with [fermented food](https://criticalmas.org/best-of/fermentation/)?
+They found nothing wrong with me, but gave me an expensive prescription to deal with the pain should it surface again. Thankfully an ethical pharmacist was on staff when I went to fill my script. He showed me an over-the-counter version of the same medicine that was 90% cheaper. Despite all the time and money I spent chasing down my gut issues, I still do not know what happened to me. Maybe I healed my gut with [fermented food](/tag/fermentation/)?
 
 
 ### You Are Your Own Best Doctor

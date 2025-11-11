@@ -11,7 +11,7 @@ commentCount: 7
 
 One of the things I hear often is that I am lean because I frequently go for walks and a few of those walks tend to be long. When I try and correct the misinformation by stating I leaned out strictly from diet, my accuser will respond by saying it was both. It was not both, it was just diet. I know that flies in the face of conventional wisdom, but I'm ready to back up my claim in this post.
 
-When I arrived in Seattle in 2007, I weighed 211 pounds. In 2008, I began documenting my [urban hikes](https://criticalmas.org/best-of/urban-hiking/) and by 2009 I was weight stable at 190. On the surface it looks like walking helped me lean out, but in the two years prior to leaving San Diego, I was hiking a few times every week. You can go back and see the [archives of this site](https://criticalmas.org/tag/hiking/). In the span of 2 years, I hiked all over San Diego County. I was also doing urban hikes in the city. Yet I remained weight stable at 210.
+When I arrived in Seattle in 2007, I weighed 211 pounds. In 2008, I began documenting my [urban hikes](/tag/urban/) and by 2009 I was weight stable at 190. On the surface it looks like walking helped me lean out, but in the two years prior to leaving San Diego, I was hiking a few times every week. You can go back and see the [archives of this site](https://criticalmas.org/tag/hiking/). In the span of 2 years, I hiked all over San Diego County. I was also doing urban hikes in the city. Yet I remained weight stable at 210.
 
 ![mas-hiking](./img/mas-hiking.jpg)
 
@@ -19,7 +19,7 @@ _Here is me hiking Canyon Sin Nombre in 2007. I weighed 210 pounds. Hiking didn'
 
 Prior to getting into hiking in San Diego, the only exercise I did was lift weights. That has been the one constant throughout the past decade. From 2001 to the start of my serious hiking in 2005, I was also weight stable at 210. Hiking San Diego did not cause a single inch to come off my waist. Nor did urban hiking in Seattle. It was all diet.
 
-In 2008, I slowly incorporated ideas from the Paleo Diet. Those included reducing grains and [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/). I also became interested in cooking. By 2009, I was almost 100% gluten free and I was cooking with healthy oils. That is how I dropped the 20 pounds of fat.
+In 2008, I slowly incorporated ideas from the Paleo Diet. Those included reducing grains and [Intermittent Fasting](/tag/intermittent-fasting/). I also became interested in cooking. By 2009, I was almost 100% gluten free and I was cooking with healthy oils. That is how I dropped the 20 pounds of fat.
 
 Walking more increases appetite to compensate for increased energy demands. Walking less decreases appetite. The key to fat loss is not exercise, it is eliminating toxic foods and loading up on the [nutrient dense ones](/2011/06/high-velocity-super-warrior-foods/). I wasn't even trying to lose weight. My body decided for me that I was carrying too much fat. It fell off effortlessly once I gave my body the correct nutrition.
 

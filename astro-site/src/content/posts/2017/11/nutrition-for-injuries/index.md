@@ -27,7 +27,7 @@ The book drills into the math on how to calculate your injury calorie requiremen
 
 Another important idea I got from the book was to go higher in protein during injury recovery, especially foods rich in leucine such as dairy. Whey supplementation can also help.
 
-What did I eat after my September injury? [MOAR POTATOES!](https://criticalmas.org/best-of/potato-hack-diet/) Hack away. So not only was I in a severe caloric deficit, but I was also consuming a very low protein amount. In other words, my diet was far from optimal for injury recovery.
+What did I eat after my September injury? [MOAR POTATOES!](/tag/potato/) Hack away. So not only was I in a severe caloric deficit, but I was also consuming a very low protein amount. In other words, my diet was far from optimal for injury recovery.
 
 Lesson learned.
 

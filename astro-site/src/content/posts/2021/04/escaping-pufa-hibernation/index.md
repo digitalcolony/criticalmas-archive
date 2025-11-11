@@ -25,7 +25,7 @@ _\*\* dishes that are cooked in liquid are safer choices, as they are far less l
 
 Not only am I leaner today, but I feel like I am leaner with less effort. My metabolism is supporting me and not holding me back. This is not a common situation for most people that lose weight. When you lose weight, metabolism drops. How much, if any, does it recover is a topic that is still being debated and researched.
 
-Before I [declared victory](/2018/04/declaring-victory-how-i-lost-and-kept-off-25-pounds/) on my fat loss, I waited enough time to allow my setpoint to drop 1/2 pound per week. So although I lost weight faster than that, I had seen too many cases of people that lost weight quickly and then regained it.
+Before I [declared victory](/2018/05/declaring-victory-how-i-lost-and-kept-off-25-pounds/) on my fat loss, I waited enough time to allow my setpoint to drop 1/2 pound per week. So although I lost weight faster than that, I had seen too many cases of people that lost weight quickly and then regained it.
 
 Prior to my Potato Diet success, I had already massively reduced the PUFA in my diet. That likely supported my metabolic rate as I went into caloric restriction. This is something most dieters are not thinking about. Maybe it is time they did.
 

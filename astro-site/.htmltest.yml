@@ -1,0 +1,9 @@
+DirectoryPath: "dist"
+CheckExternal: false
+IgnoreExternalBrokenLinks: true
+CheckInternalHash: true
+IgnoreInternalEmptyHash: true
+IgnoreDirectoryMissingTrailingSlash: true
+OutputDir: "tmp"
+OutputLogFile: "broken-links-report.log"
+OutputCacheFile: ".htmltest.cache.json"

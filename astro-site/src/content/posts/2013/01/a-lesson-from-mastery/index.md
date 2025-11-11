@@ -25,7 +25,7 @@ How can we re-engage our hands if all our work is digital? Some tech friends of 
 
 ![The Sketchnote Handbook Video Edition: the illustrated guide to visual note taking (includes The Sketchnote Handbook book and access to The Sketchnote Handbook Video)](https://images-na.ssl-images-amazon.com/images/I/51rV3E8scQL.jpg) _The Sketchnote Handbook by Mike Rohde_
 
-I haven't been drawing, although those three examples are quite inspiring. My hands-on skill for the past few years has been learning how to cook and make [ferments](https://criticalmas.org/best-of/fermentation/). Today when I make kimchi, my hands move as effortlessly as when I'm driving a stick shift. Although it may appear complicated to the observer and especially when you read the steps involved, it does seem as if the hands have an intelligence of their own. The more times you repeat the action, the _smarter_ the hands get.
+I haven't been drawing, although those three examples are quite inspiring. My hands-on skill for the past few years has been learning how to cook and make [ferments](/tag/fermentation/). Today when I make kimchi, my hands move as effortlessly as when I'm driving a stick shift. Although it may appear complicated to the observer and especially when you read the steps involved, it does seem as if the hands have an intelligence of their own. The more times you repeat the action, the _smarter_ the hands get.
 
 Thinking about ways we can engage our hands in learning is the important lesson I got from _Mastery_. What methods of active hands learning are you currently doing?
 

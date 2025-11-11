@@ -19,7 +19,7 @@ In the past 3 years, I've learned much about what fasting levels work best for m
 
 _A snapshot of data from my most recent self experiment._
 
-During the same time I was having success with [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/), I did self-experiments with [Cold Weather Training](https://criticalmas.org/best-of/cold-weather-training/) and a low carbohydrate diet. Both were successful. My health was improving and it was a direct result of my self-experiments. Later I would [cure my rosacea](/2011/04/be-your-own-dermatologist/) by eliminating wheat from my diet. Currently, I am tracking variables that may or may not be contributing to my [sinus headaches](/2011/08/hunting-headaches-take-3/).
+During the same time I was having success with [Intermittent Fasting](/tag/intermittent-fasting/), I did self-experiments with [Cold Weather Training](/tag/cold/) and a low carbohydrate diet. Both were successful. My health was improving and it was a direct result of my self-experiments. Later I would [cure my rosacea](/2011/04/be-your-own-dermatologist/) by eliminating wheat from my diet. Currently, I am tracking variables that may or may not be contributing to my [sinus headaches](/2011/08/hunting-headaches-take-3/).
 
 **Every experiment is a success because even if it doesn't get you the results you expected, you've learned something new about yourself.**
 

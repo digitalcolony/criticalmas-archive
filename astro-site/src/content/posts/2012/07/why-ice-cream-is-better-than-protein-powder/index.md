@@ -63,7 +63,7 @@ Page 80 goes further into explaining why muscle gain is _easy_ when using high-f
 
 > Intense resistance exercise causes muscle damage which must be repaired if improvements in strength and performance are to be realized…and cholesterol is intimately involved in this repair process.
 
-**Carbs** - Back when I first started playing with [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/), I would sometimes continue fasting after weight training. This turned out to be a dumb idea and I lost muscle. Much has been written about how carbs post-workout assist with recovery and muscle growth. Dr. John Berardi wrote this a decade ago.
+**Carbs** - Back when I first started playing with [Intermittent Fasting](/tag/intermittent-fasting/), I would sometimes continue fasting after weight training. This turned out to be a dumb idea and I lost muscle. Much has been written about how carbs post-workout assist with recovery and muscle growth. Dr. John Berardi wrote this a decade ago.
 
 > ...since protein breakdown predominates during the post-workout period, getting the insulin up allows muscle breakdown to diminish so that synthesis can dominate and we can quickly get back to building muscle!
 

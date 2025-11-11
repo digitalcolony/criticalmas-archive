@@ -10,7 +10,7 @@ commentCount: 12
 
 About twenty years ago, I coined the term "Glitter Gym" as a broad term to describe the growing big-box bright-light corporate gyms you see everywhere.
 
-In my 2006 post [Glitter and Rust](/2006/02/glitter-and-rust/), I said this:
+In my 2006 post [Glitter and Rust](/2006/03/glitter-and-rust/), I said this:
 
 > A majority of men and almost all women are only familiar with Glitter gyms. Glitter gyms are workout facilities with bright lights, mirrors, treadmills, and TVs (Ballys, 24 Hour, etc).
 
@@ -28,7 +28,7 @@ For the record, I only play a podcast when I'm on the elliptical. Once I step of
 
 The downside to all these patrons staring at their screen is nobody is paying attention to their surroundings. Our shared environment becomes less shared and less safe. People take longer and at times when the gym is most crowded, workouts can grind to a halt.
 
-It's been 9 years since I retired [Tales From the Glitter Gym](https://criticalmas.org/best-of/tales-from-the-glitter-gym/). Maybe it is time to bring it back?
+It's been 9 years since I retired [Tales From the Glitter Gym](/tag/glitter-gym/). Maybe it is time to bring it back?
 
 ![gym](./img/gym.jpg)
 

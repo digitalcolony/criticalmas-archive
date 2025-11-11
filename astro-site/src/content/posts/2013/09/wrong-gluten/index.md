@@ -33,7 +33,7 @@ Why was I handling gluten exposure much better in 2013 than I did from 2010-2012
 
 > ...it’s possible that if we still had the Paleolithic microbiome intact, we could tolerate grains and all of these compounds with no problem. And perhaps that explains why some people are able to tolerate those foods with apparently no problems. But given that the microbiome has changed so significantly because of things like sanitation and hygiene and also increased use of antibiotics and decline in the consumption of fermented foods and fermentable substrates that lead to a better gut microbiome...
 
-In 2008, I began taking a lot of antibiotics to deal with rosacea. Is it possible that my gut flora was in a far worse state to digest gluten because of the meds? And starting in early 2010 I began making kimchi and sauerkraut, both [fermented foods](https://criticalmas.org/best-of/fermentation/) to support gut flora. However, I didn't get into [dairy kefir](/2013/03/making-dairy-kefir-is-super-easy/) on a regular basis until December 2012. Since that time, I haven't had a single incident where trace exposure has triggered ill effects.
+In 2008, I began taking a lot of antibiotics to deal with rosacea. Is it possible that my gut flora was in a far worse state to digest gluten because of the meds? And starting in early 2010 I began making kimchi and sauerkraut, both [fermented foods](/tag/fermentation/) to support gut flora. However, I didn't get into [dairy kefir](/2013/03/making-dairy-kefir-is-super-easy/) on a regular basis until December 2012. Since that time, I haven't had a single incident where trace exposure has triggered ill effects.
 
 ![kimchi ](./img/kimchi600.jpg)
 

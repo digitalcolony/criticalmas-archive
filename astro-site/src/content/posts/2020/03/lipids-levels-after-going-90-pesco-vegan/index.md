@@ -126,7 +126,7 @@ Mike, have you tried hot yoga for your back? Not to sound too new-agey but I rem
 *March 10 at 2020 at 9:20 PM*
 
 @Nicki - My back has been mostly good.
-https://criticalmas.org/best-of/back-pain/
+/tag/back-pain/
 
 I like the idea of yoga and maybe even hot yoga, but everything I do is in front of YouTube and I doubt I could crank the heat high enough at home.
 

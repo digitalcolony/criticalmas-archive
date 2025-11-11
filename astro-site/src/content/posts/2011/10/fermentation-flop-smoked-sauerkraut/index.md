@@ -19,7 +19,7 @@ This summer I bought some Alderwood Smoked sea salt. My goal was to make a sauer
 
 _Even the darkness from the salt made the sauerkraut visually unappealing._
 
-If you used a search engine to seek out a recipe for smoked sauerkraut and you found this page, my advice is don't waste 1-2 months of your life attempting this ferment. There are much [better fermentation ideas](https://criticalmas.org/best-of/fermentation/) you can do.
+If you used a search engine to seek out a recipe for smoked sauerkraut and you found this page, my advice is don't waste 1-2 months of your life attempting this ferment. There are much [better fermentation ideas](/tag/fermentation/) you can do.
 
 ---
 

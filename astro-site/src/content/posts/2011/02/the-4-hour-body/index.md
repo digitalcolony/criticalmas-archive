@@ -41,7 +41,7 @@ can you spill the beans on what he said about that?
 ### MAS
 *February 4 at 2011 at 7:08 PM*
 
-@Sheila - Tim is on board with something I've been playing with now for a few years, which is <a href="https://criticalmas.org/best-of/cold-weather-training/" rel="nofollow">cold weather training</a>.  You can read my posts, which I think go into greater details than 4HB.  
+@Sheila - Tim is on board with something I've been playing with now for a few years, which is <a href="/tag/cold/" rel="nofollow">cold weather training</a>.  You can read my posts, which I think go into greater details than 4HB.  
 
 His 300% number was based of - I think - just 2 examples.  Him and one subject.  Both male.  
 

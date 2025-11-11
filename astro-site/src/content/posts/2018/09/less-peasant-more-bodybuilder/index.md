@@ -12,7 +12,7 @@ In previous posts, I've discussed my version of the Peasant Diet. Check out [How
 
 I strongly believe that if you design a diet that minimizes hunger, you will minimize the risk of regaining the weight.
 
-After an inactive winter due to an injury, it would have been normal for me to gain some weight back. But I didn't. By April, I was down to 197. That is when I [declared victory](/2018/04/declaring-victory-how-i-lost-and-kept-off-25-pounds/).
+After an inactive winter due to an injury, it would have been normal for me to gain some weight back. But I didn't. By April, I was down to 197. That is when I [declared victory](/2018/05/declaring-victory-how-i-lost-and-kept-off-25-pounds/).
 
 I had lost weight without experiencing hunger and I was able to maintain that loss for a year even during a period where I was sidelined with an injury. I consider 197 to be the upper bound of my ideal weight.
 

@@ -31,7 +31,7 @@ Although less dangerous, I do not encourage the regular consumption of Gluten-fr
 
 Up until 2008, I like most Americans believed that breakfast was the most important meal of the day. I also believed that hunger was this unbearable state that needed to addressed or I'd lose muscle. So I ate meals and snacks from morning to night. I didn't eat processed foods, but I still ended up with weight gain, despite being very active. But worse than the weight gain was being a slave to hunger. I had to have a case of protein bars around me at all times.
 
-Then I read Art De Vany's essay and everything changed. I began experimenting with [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/). Not only did I lean out, but something much more important happened. From the post [Intermittent Fasting Adventures in Not Eating](/2009/04/intermittent-fasting-adventures-in-not-eating/):
+Then I read Art De Vany's essay and everything changed. I began experimenting with [Intermittent Fasting](/tag/intermittent-fasting/). Not only did I lean out, but something much more important happened. From the post [Intermittent Fasting Adventures in Not Eating](/2009/04/intermittent-fasting-adventures-in-not-eating/):
 
 > I consider IF to be amazing success if for no other reason, I am no longer a slave to eating by the clock. If I come across poor food options, I can now choose to eat nothing. Hunger is now an acceptable feeling. Because I am now comfortable being hungry, I am longer pressured to eat fast. Taking the time to prepare a healthy meal even if it means waiting another hour is no longer a dilemma.
 
@@ -47,7 +47,7 @@ Once I removed wheat and was comfortable with hunger, that gave me the time and 
 
 By cooking my own meals, I was able to eliminate the highly inflammatory vegetable oils and all non-fermented soy. That is an near impossible task if you are buying processed foods or eating out at restaurants on a regular basis.
 
-Cooking at home has exposed me to some of the most powerful Superfoods (aka [High Velocity Super Warrior Foods](/2011/06/high-velocity-super-warrior-foods/)), which are hard to source at restaurants and stores. They include [fermented food](https://criticalmas.org/best-of/fermentation/), [bone broth](/2011/04/homemade-beef-broth/) and offal (particularly [beef liver](/2011/03/make-your-own-beef-liver-pate/)).
+Cooking at home has exposed me to some of the most powerful Superfoods (aka [High Velocity Super Warrior Foods](/2011/06/high-velocity-super-warrior-foods/)), which are hard to source at restaurants and stores. They include [fermented food](/tag/fermentation/), [bone broth](/2011/04/homemade-beef-broth/) and offal (particularly [beef liver](/2011/03/make-your-own-beef-liver-pate/)).
 
 ![ground-pork](./img/ground-pork.jpg)
 
@@ -63,7 +63,7 @@ This won't apply to everyone, but I went through many years where I would get aw
 ### #5 Cold Weather Exposure
 
 
-I will never know if my experiments with [cold temperature exposure](https://criticalmas.org/best-of/cold-weather-training/) helped me lean out. Nor will I know with certainty if it boosted my immune system. I suspect they did, but what I do know for certain is that I am far more resilient than I was when I moved to Washington State. I've become more adaptable and [increased my metabolism](/2011/06/you-broke-your-own-metabolism/).
+I will never know if my experiments with [cold temperature exposure](/tag/cold/) helped me lean out. Nor will I know with certainty if it boosted my immune system. I suspect they did, but what I do know for certain is that I am far more resilient than I was when I moved to Washington State. I've become more adaptable and [increased my metabolism](/2011/06/you-broke-your-own-metabolism/).
 
 Brief exposures to cold temperatures represent a minor safe stressor. Being able to adapt and overcome these minor stressors has made me much tougher. By continually testing my resolve to discomfort, I am rarely uncomfortable. The benefits of cold weather exposure have had spillover effects into other aspects of my life.
 

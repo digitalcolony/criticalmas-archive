@@ -61,7 +61,7 @@ Here is a list of supplements that I have tried that did nothing for my headache
 ### Going Forward
 
 
-I'm going to continue working on my neck stiffness. I'm also going to cut way back on the fermented veggies. I've already started reducing my coffee and tea intake. When I do drink tea, I will favor green and lightly oxidized oolong, as they have fewer tannins than darker teas. I stopped making water kefir and I'm going to be on the lookout for any food items containing carob bean gum. And sadly, I have stopped [fermenting veggies](https://criticalmas.org/best-of/fermentation/) for the time being.
+I'm going to continue working on my neck stiffness. I'm also going to cut way back on the fermented veggies. I've already started reducing my coffee and tea intake. When I do drink tea, I will favor green and lightly oxidized oolong, as they have fewer tannins than darker teas. I stopped making water kefir and I'm going to be on the lookout for any food items containing carob bean gum. And sadly, I have stopped [fermenting veggies](/tag/fermentation/) for the time being.
 
 ---
 

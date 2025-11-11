@@ -59,7 +59,7 @@ That is it. My entire workout took about 7 minutes. I reached a deeper level of 
 ### Workable? Sustainable?
 
 
-I was skeptical when I drove out to the park for two reasons. First I was concerned that I wouldn't be able to generate enough intensity to create an effective workout. My second concern was the weather. If 61 degrees is the optimal temperature for intensity, 43 might prove too cold, even for someone who practices [Cold Weather Exposure](https://criticalmas.org/best-of/cold-weather-training/).
+I was skeptical when I drove out to the park for two reasons. First I was concerned that I wouldn't be able to generate enough intensity to create an effective workout. My second concern was the weather. If 61 degrees is the optimal temperature for intensity, 43 might prove too cold, even for someone who practices [Cold Weather Exposure](/tag/cold/).
 
 Did it work? Absolutely. That brief highly intense workout kicked my ass. It was safe and it required no gym membership. A public park with a pull-up bar was all I needed. Since my workout, I've located a much closer park with a jungle gym that I can use to replicate a chin-up bar.
 

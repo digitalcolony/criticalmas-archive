@@ -10,7 +10,7 @@ commentCount: 11
 
 Two weeks later and I'm still [199 and holding](/2017/09/199-and-holding/). As the temperatures and hours of sunshine have dropped, my appetite has increased. Now I have a new theory that I'll run past my super smart commenters.
 
-Almost a decade ago I began the practice of cold temperature exposure, which I document on the [Cold Weather Exposure](https://criticalmas.org/best-of/cold-weather-training/) page. It has been one of my proudest health achievements. After 7 years in San Diego, I trained my body to throw off heat as the temperature dropped. My comfort range has greatly expanded.
+Almost a decade ago I began the practice of cold temperature exposure, which I document on the [Cold Weather Exposure](/tag/cold/) page. It has been one of my proudest health achievements. After 7 years in San Diego, I trained my body to throw off heat as the temperature dropped. My comfort range has greatly expanded.
 
 I even have developed a slight disdain for healthy young men that dress for winter in mildly chilly weather. [The Temperature Wimps of San Francisco](/2014/09/temperature-wimps-san-francisco/) is a post that best captures my feelings on this topic.
 

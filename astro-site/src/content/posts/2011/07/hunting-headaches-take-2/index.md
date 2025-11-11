@@ -43,7 +43,7 @@ Who eats just an ounce of cheese? Also, look at the Sauerkraut numbers. Kind of 
 
 _UPDATE: I did some digging into the "avoid liver" recommendation in the post [Is Liver High in Tyramine?](/2011/07/is-liver-high-in-tyramine/)_
 
-By eliminating aged cheese and Marmite, I should be cutting out over 90% of the tyramine in my diet. If that doesn't result in a reduction of headaches, then I can conclude tyramine is not a cause. I'm not cutting out sauerkraut or kimchi. I've seen too many positive health benefits from those foods, plus I had these style headaches long before I discovered [fermentation](https://criticalmas.org/best-of/fermentation/).
+By eliminating aged cheese and Marmite, I should be cutting out over 90% of the tyramine in my diet. If that doesn't result in a reduction of headaches, then I can conclude tyramine is not a cause. I'm not cutting out sauerkraut or kimchi. I've seen too many positive health benefits from those foods, plus I had these style headaches long before I discovered [fermentation](/tag/fermentation/).
 
 
 ### 3-Mobility: Neck, Shoulders, More

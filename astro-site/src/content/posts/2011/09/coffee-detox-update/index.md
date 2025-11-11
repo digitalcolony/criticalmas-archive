@@ -11,7 +11,7 @@ commentCount: 7
 
 Well, I have done the unthinkable. Today is Day 7 with no coffee. Yes I am drinking decaf and yes I understand that it does have trace amounts of caffeine in it. I'm shocked at the number of people who have brought that to my attention. Cut me a little slack, I may know [something about coffee](https://ineedcoffee.com/by/michael-allen-smith/).
 
-I started drinking coffee on a regular basis when I was probably around 19 years old. I pretty much haven't missed a day since then. Even during my [2006 trip to South America](/2006/08/rio-to-buenos-aires-overview/) and my [2009 trip to Southeast Asia](/2010/01/planes-trains-and-elephants-my-2009-asia-trip-overview/), I still managed to find coffee. In 1997, I went 100 hours without any caffeine. It was a miserable experience and in the end served no purpose, as I resumed high coffee intake within a week of that detox.
+I started drinking coffee on a regular basis when I was probably around 19 years old. I pretty much haven't missed a day since then. Even during my [2006 trip to South America](/2006/09/rio-to-buenos-aires-overview/) and my [2009 trip to Southeast Asia](/2010/01/planes-trains-and-elephants-my-2009-asia-trip-overview/), I still managed to find coffee. In 1997, I went 100 hours without any caffeine. It was a miserable experience and in the end served no purpose, as I resumed high coffee intake within a week of that detox.
 
 ![mccafe-phuket-thailand](./img/mccafe-phuket-thailand.jpg "mccafe-phuket-thailand")
 
@@ -41,7 +41,7 @@ Before I get hammered with criticism and feedback on my methodology, my plan was
 
 I have no plans on when I am going to end the coffee detox. At this point I can see extending it into October. My adrenals have been pushed by coffee on a daily basis for many years now. Will I go as far as eliminating all caffeine, including tea and chocolate? Probably. I'll keep you posted if I do.
 
-When I do return to espresso, I plan to have a more healthy relationship with my favorite beverage. Maybe take a day off every week or a week off every few months. Perhaps interject the randomness that has worked so well for me with [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/). This is uncharted territory.
+When I do return to espresso, I plan to have a more healthy relationship with my favorite beverage. Maybe take a day off every week or a week off every few months. Perhaps interject the randomness that has worked so well for me with [Intermittent Fasting](/tag/intermittent-fasting/). This is uncharted territory.
 
 ---
 

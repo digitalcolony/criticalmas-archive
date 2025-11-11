@@ -9,7 +9,7 @@ description: "It's been a while since I last did an installment of Tales From th
 commentCount: 0
 ---
 
-It's been a while since I last did an installment of _Tales From the Glitter Gym_. For background on what a Glitter Gym is read [Glitter and Rust](/2006/02/glitter-and-rust/). After just 3 visits to the 24 Hour Fitness in Bellevue, WA (140th Ave NE), I have enough stories for a new installment of _Tales From the Glitter Gym_. Before I start, I would like to point out that the 140th Ave gym is a total disaster. Dumbbells are thrown on the floor. Nobody racks their weights. It's easily the most neglected _Glitter Gym_ I've ever seen.
+It's been a while since I last did an installment of _Tales From the Glitter Gym_. For background on what a Glitter Gym is read Glitter and Rust. After just 3 visits to the 24 Hour Fitness in Bellevue, WA (140th Ave NE), I have enough stories for a new installment of _Tales From the Glitter Gym_. Before I start, I would like to point out that the 140th Ave gym is a total disaster. Dumbbells are thrown on the floor. Nobody racks their weights. It's easily the most neglected _Glitter Gym_ I've ever seen.
 
 The great [Harry Smith](https://web.archive.org/web/20140730163752/http://www.sptimes.com/2004/07/23/Citytimes/When_Harry_met_flabby.shtml) of South Tampa's _Smith Health Club_ would go ballistic if he saw the way the patrons treated the free weight area here in Bellevue. Back in the mid-1990s, I saw him scold more than one South Florida steroid monster for failing to rack their weights. And they feared him. Harry didn't run a _Glitter Gym_. At a _Glitter Gym_, the customer is always right. At Harry's Gym, only Harry is right. _Ahh, the good ol' days._
 

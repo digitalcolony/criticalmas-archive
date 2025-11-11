@@ -23,7 +23,7 @@ This is the most straight forward. As you get leaner you will see everything tig
 
 1.  Reduced carbohydrate intake. Cut the sugar, bread and alcohol.
 2.  Cooked my own meals.
-3.  Weekly [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/).
+3.  Weekly [Intermittent Fasting](/tag/intermittent-fasting/).
 4.  Weight training.
 
 I was already doing the weight training, so really it was the first three items on the list that made the most difference. Note that nowhere on the list did I say go jogging, biking or spinning. The role of exercise in fat loss is way over stated. You are far better off spending your time in the kitchen cooking. Lift something heavy for 20 minutes a week and then focus your effort on food.
@@ -41,7 +41,7 @@ This was an important lesson for me to learn. Going from Level 0 to Level 1 is h
 1.  Improve Omega 3- Omega 6 ratios. I only eat 100% grass pastured animals or seafood and I stopped consuming seed oils.
 2.  More Sleep
 3.  Gut Flora Improvements
-4.  [Cold Weather Training](https://criticalmas.org/best-of/cold-weather-training/)
+4.  [Cold Weather Training](/tag/cold/)
 
 Omega 3 fat cells are elongated and flexible, which places the hormone receptors on the exterior of the cell facing outward. This allows them to interact with hormones that trigger fat loss. Omega 6 fat cells are less flexible and have the hormonal receptors facing inward, which makes fat loss more difficult. Fixing your n-3 ratios is not something you can do overnight. It can take over 2 years to make the correction. Restaurants are notorious for using factory farm meat cooked in seed oils. You'll need to source and cook your own food.
 

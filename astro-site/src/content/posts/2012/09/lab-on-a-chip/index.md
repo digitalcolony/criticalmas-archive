@@ -25,7 +25,7 @@ I expect the serious life-and-death labs will be the first ones developed, but t
 
 _Lab on a chip_ technology is in its infancy, but it looks promising. Provide cheaper, quicker and portable access to medical data. In the future we will all be more healthy, because the data feedback loops will be far quicker. We will be alerted of inflammation and cancers long before they get a chance to do real damage.
 
-The health care industry won't be able to fight it if they wanted. They will be fine though. Instead of shot gun solutions full of side effects, they will be forced to develop personalized solutions on a patient-by-patient basis. What if the medicine was able to listen to the body and change as the condition changed? I think that technology is coming. In the meantime, eat your [ferments](https://criticalmas.org/best-of/fermentation/) and [beef liver](/2012/02/beef-liver-asparagus-garlic/). :)
+The health care industry won't be able to fight it if they wanted. They will be fine though. Instead of shot gun solutions full of side effects, they will be forced to develop personalized solutions on a patient-by-patient basis. What if the medicine was able to listen to the body and change as the condition changed? I think that technology is coming. In the meantime, eat your [ferments](/tag/fermentation/) and [beef liver](/2012/02/beef-liver-asparagus-garlic/). :)
 
 ---
 

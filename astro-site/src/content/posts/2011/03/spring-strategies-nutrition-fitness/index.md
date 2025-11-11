@@ -24,7 +24,7 @@ _May 2009 in Seattle_
 
 Other than my [normal diet](/2010/03/what-i-eat-and-what-i-dont-eat-march-2010-edition/), here are my spring strategies:
 
-1.  **Increase Activity** - I'm going to start [urban hiking](https://criticalmas.org/best-of/urban-hiking/) soon. If I can imagine my caveman ancestor emerging from the cave, I could see him traveling to find new food sources.
+1.  **Increase Activity** - I'm going to start [urban hiking](/tag/urban/) soon. If I can imagine my caveman ancestor emerging from the cave, I could see him traveling to find new food sources.
 2.  **Increase Carbohydrates** - Not a lot, just a little. On days with more activity, I'll be adding more root veggies and potatoes. Ice cream isn't until summer. :)
 3.  **More Offal** - Now if I'm emerging from the cave lean, than so are the other animals. This means the most prized cuts of meat will come from their organs. So this means more liver, heart, etc.
 4.  **More Seafood** - You can only eat so much offal. ;)

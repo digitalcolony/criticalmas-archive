@@ -9,7 +9,7 @@ description: "I started doing Intermittent Fasting over three years ago. My stra
 commentCount: 44
 ---
 
-I started doing [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/) over three years ago. My strategy has always been to just deal with the hunger. If you ignore it, it goes away. When I first began fasting, I'd think about my hunger constantly. These days, it barely grabs my attention. Recently, I was inspired by a post over at the website [Perfect Health Diet](http://perfecthealthdiet.com/) to try an alternate approach to Intermittent Fasting.
+I started doing [Intermittent Fasting](/tag/intermittent-fasting/) over three years ago. My strategy has always been to just deal with the hunger. If you ignore it, it goes away. When I first began fasting, I'd think about my hunger constantly. These days, it barely grabs my attention. Recently, I was inspired by a post over at the website [Perfect Health Diet](http://perfecthealthdiet.com/) to try an alternate approach to Intermittent Fasting.
 
 The _Perfect Health Diet_ post [Ketogenic Diets, I: Ways to Make a Diet Ketogenic](http://perfecthealthdiet.com/?p=2479) is a detailed explanation of the ketogenic metabolic pathway. The part of the article I found most interesting was how the use of coconut oil, which is loaded with short chain fats, can accelerate the production of ketones.
 
@@ -37,7 +37,7 @@ The cortido sauerkraut has some carrots, so I was concerned that those carbs mig
 
 _Cortido Sauerkraut - Ketosis never tasted so good!_
 
-So if you've put off [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/), because you can't deal with the hunger, you now have no excuses. Get yourself some coconut oil and make some [fermented veggies](https://criticalmas.org/best-of/fermentation/).
+So if you've put off [Intermittent Fasting](/tag/intermittent-fasting/), because you can't deal with the hunger, you now have no excuses. Get yourself some coconut oil and make some [fermented veggies](/tag/fermentation/).
 
 ---
 
@@ -364,7 +364,7 @@ MAS, do you still recommend this method to be tried out?
 
 @Johan - This method is just a strategy for others to use if they desire to fast but have too much hunger. Not a recommendation. Just a tool. 
 
-https://criticalmas.org/best-of/intermittent-fasting/
+/tag/intermittent-fasting/
 
 ---
 

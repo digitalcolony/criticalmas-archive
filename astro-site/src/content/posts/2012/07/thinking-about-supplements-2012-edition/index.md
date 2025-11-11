@@ -9,7 +9,7 @@ description: "It has been 2 years since my Thinking About Supplements post. If y
 commentCount: 24
 ---
 
-It has been 2 years since my [Thinking About Supplements](/2010/11/thinking-about-supplements/) post. If you want to know why I have an anti-supplement bias, go read that post. Despite my bias, I have spent the last year trying many different supplements in an effort to reduce my [headaches](https://criticalmas.org/tag/headaches/). Every single one of them turned out to be worthless.
+It has been 2 years since my Thinking About Supplements post. If you want to know why I have an anti-supplement bias, go read that post. Despite my bias, I have spent the last year trying many different supplements in an effort to reduce my [headaches](https://criticalmas.org/tag/headaches/). Every single one of them turned out to be worthless.
 
 
 ### Supplements I No Longer Believe In

@@ -9,7 +9,7 @@ description: "I am a big fan of making ferments. I love my kimchi and sauerkraut
 commentCount: 5
 ---
 
-I am a big fan of [making ferments](https://criticalmas.org/best-of/fermentation/). I love my kimchi and sauerkraut. However, I have heard 4 reasons why someone may want to avoid fermented veggies. In this post, I'll do my best to explain their position and my response.
+I am a big fan of [making ferments](/tag/fermentation/). I love my kimchi and sauerkraut. However, I have heard 4 reasons why someone may want to avoid fermented veggies. In this post, I'll do my best to explain their position and my response.
 
 
 ### #1 Fear of Mold

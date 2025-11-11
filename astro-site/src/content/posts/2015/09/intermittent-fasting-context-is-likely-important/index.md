@@ -9,7 +9,7 @@ description: "Last week I was involved in two discussions on Intermittent Fastin
 commentCount: 15
 ---
 
-Last week I was involved in two discussions on [Intermittent Fasting (IF)](https://criticalmas.org/best-of/intermittent-fasting/). One was extremely supportive of IF and the other highly critical. Both sides were represented by smart people and both made valid points. They each pointed to science to back up their position. Yet they completely disagreed with each other.
+Last week I was involved in two discussions on [Intermittent Fasting (IF)](/tag/intermittent-fasting/). One was extremely supportive of IF and the other highly critical. Both sides were represented by smart people and both made valid points. They each pointed to science to back up their position. Yet they completely disagreed with each other.
 
 My view on fasting has changed a lot since 2007. I've gone back and forth along a spectrum of being anti-IF and pro-IF. I understand the arguments of both sides and at times I've been more swayed by one than the other. My personal experience has been varied.
 

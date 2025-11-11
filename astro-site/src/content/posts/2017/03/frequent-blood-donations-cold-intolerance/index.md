@@ -13,7 +13,7 @@ I want to give a hat tip to Chuck, who in the comments of my [last post](/2017/0
 
 The winter of 2007-2008 was my first winter in the Seattle area after living in San Diego since 2000. And boy did I feel cold. At the time I assumed 100% of the reason was because I became a temperature wimp in sunny SoCal. But there may have been a second reason. At that time I was still rarely eating red meat. My diet was probably low in iron.
 
-By the time the winter of 2008 arrived, I not only began [cold exposure training](https://criticalmas.org/best-of/cold-weather-training/), but I also fully embraced red meat as a regular component of my diet. I started throwing heat. I still believe the majority of the benefit I got was from teaching my body how to generate more heat via cold exposure, but now it seems there may have been a dietary component.
+By the time the winter of 2008 arrived, I not only began [cold exposure training](/tag/cold/), but I also fully embraced red meat as a regular component of my diet. I started throwing heat. I still believe the majority of the benefit I got was from teaching my body how to generate more heat via cold exposure, but now it seems there may have been a dietary component.
 
 A quick search on Iron and Cold Tolerance will pull up pages of results. They mostly state that **having a low iron level can increase cold intolerance and cause one to feel tired frequently**. The thyroid needs sufficient iron levels to do its job.
 

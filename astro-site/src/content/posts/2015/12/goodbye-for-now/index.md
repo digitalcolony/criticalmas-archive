@@ -11,7 +11,7 @@ commentCount: 32
 
 Ten years ago this month I relaunched this blog. Before that I had a blog from 2000 to 2004. And before that I had various pre-blog personal pages going back to either late 1995 or early 1996. I'm now ready to call it quits. Or at least take an extended break.
 
-I've not only lost interest in most of the topics I've covered in the past decade, but I've lost interest in [sharing](/2015/04/learn-share-convince/) in general. Long time readers probably saw this day coming. The frequency and quality of content of this blog has dropped off significantly this year. I have developed new hobbies in the last year, but unlike before I don't feel the desire to share those interests on this blog.
+I've not only lost interest in most of the topics I've covered in the past decade, but I've lost interest in sharing in general. Long time readers probably saw this day coming. The frequency and quality of content of this blog has dropped off significantly this year. I have developed new hobbies in the last year, but unlike before I don't feel the desire to share those interests on this blog.
 
 I will likely start some new project. It may or may not be a blog. I might use my real name or it might be anonymous. Maybe I just need a long break. I didn't blog at all through most of 2004 and 2005, but then came back.
 

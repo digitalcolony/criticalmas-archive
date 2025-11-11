@@ -20,7 +20,7 @@ Sport-specific endurance training makes sense. For fat loss, cardio is the least
 
 _[Photo](https://www.flickr.com/photos/kayveeinc/5143865454/in/photostream/) by KayVee.INC_
 
-When I was in college I ran two [sub-4 hour marathons](/2008/03/the-runner-1989-1995/) and had a resting heart rate in the 50s. Since the late 90s, I haven't run at all. Not a single block. I go for [long and short walks](https://criticalmas.org/best-of/urban-hiking/) plus I lift weights. I only lift weights 1 or 2 times a week and then for less than 30 minutes. **I haven't broken a sweat exercising in many years.** Even though I am older and exercise far less than I used to, I am in the best shape of my life and **my resting heart rate is still in the 50s**.
+When I was in college I ran two [sub-4 hour marathons](/2008/03/the-runner-1989-1995/) and had a resting heart rate in the 50s. Since the late 90s, I haven't run at all. Not a single block. I go for [long and short walks](/tag/urban/) plus I lift weights. I only lift weights 1 or 2 times a week and then for less than 30 minutes. **I haven't broken a sweat exercising in many years.** Even though I am older and exercise far less than I used to, I am in the best shape of my life and **my resting heart rate is still in the 50s**.
 
 How is this possible? People tend to make the mistake of treating the human body like a machine. Whereas a machine will have an optimal operating environment, for survival purposes a human being must be able to perform across a wide range of energy demands. Nature is not static, nor is it linear. **In nature, the duration and intensity of movement are highly varied with a bias toward energy conservation.** Steady-state aerobics violates these principles.
 

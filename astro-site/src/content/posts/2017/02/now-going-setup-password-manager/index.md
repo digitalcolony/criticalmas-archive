@@ -9,7 +9,7 @@ description: "A few years ago I put out a series of posts on how to drastically 
 commentCount: 6
 ---
 
-A few years ago I put out a series of posts on how to drastically increase your online security. Then I assembled that list on my [Online Security](https://criticalmas.org/best-of/online-security/) page.
+A few years ago I put out a series of posts on how to drastically increase your online security. Then I assembled that list on my [Online Security](/tag/security/) page.
 
 The reason I wrote the series of posts is because I found the conversation about online security was too technical for the very people than needed to hear the message the most. My goal was to go deep into the topic, explain the problem simply and then provide steps one needed to take to be more secure.
 

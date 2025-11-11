@@ -9,7 +9,7 @@ description: "I'm not a health professional, but I have written a lot about Inte
 commentCount: 7
 ---
 
-I'm not a health professional, but I have written a lot about [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/). Although I feel it can be healthy for some individuals, it isn't for everyone. Since I started IF almost three years ago, I have learned there are some people who probably shouldn't do it. They include:
+I'm not a health professional, but I have written a lot about [Intermittent Fasting](/tag/intermittent-fasting/). Although I feel it can be healthy for some individuals, it isn't for everyone. Since I started IF almost three years ago, I have learned there are some people who probably shouldn't do it. They include:
 
 1.  **Those With Eating Disorders** - In a recent article in Psychology Today, Dr. Emily Dean recommends that those with eating disorders seek out a health professional's guidance before engaging in Intermittent Fasting.
 2.  **Those With Serious Blood Sugar Issues**
@@ -27,7 +27,7 @@ _Nothing more calming than fasting while doing a [16 mile urban hike in a snowst
 
 My "non-medical" advice would be to listen to your own body. Monitor your stress levels. Are things improving or getting worse? If they are getting worse, stop doing IF and deal with the stress. If things are improving, keep it up and enjoy the journey.
 
-_\* Nothing in this post should be taken as medical advice. I am just a health and [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/) hobbyist._
+_\* Nothing in this post should be taken as medical advice. I am just a health and [Intermittent Fasting](/tag/intermittent-fasting/) hobbyist._
 
 ---
 

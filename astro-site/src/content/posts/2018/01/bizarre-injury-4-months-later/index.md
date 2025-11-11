@@ -65,7 +65,7 @@ I have no idea whether this is applicable in your case, but in Researching how t
 *January 18 at 2018 at 1:36 AM*
 
 I have many posts on Back Pain and Dr. Sarno. I'm a fan. I no longer have back pain. 
-https://criticalmas.org/best-of/back-pain/
+/tag/back-pain/
 
 However, it is not applicable here. This is an injury.
 

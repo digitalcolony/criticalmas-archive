@@ -16,7 +16,7 @@ Today _The 4-Hour Body_ was released on Amazon and other book stores. I happened
 Some ideas that popped out in the book and his recent [podcast interview](http://robbwolf.com/2010/12/14/the-paleo-solution-episode-58-tim-ferriss-edition/):
 
 -   Paleolithic and cyclical ketogenic diet. I've been all over the paleo diet and have been planning on starting a cyclical ketogenic diet on December 22nd (start of winter).
--   Cold Weather training. [You know I like that.](https://criticalmas.org/best-of/cold-weather-training/)
+-   Cold Weather training. [You know I like that.](/tag/cold/)
 -   Alignment exercises with props to Peter Egoscue. I've been a fan of Egoscue exercises for almost 10 years.
 -   Tim likes Pavel's training method. This is the 5 rep protocol I started in 2001. I met Pavel in 2004.
 -   In the podcast he brought up Charles Poliquin in reference to fixing a shoulder injury. I've been reading Poliquin since the mid 1990s and credit him with being the lead on [sleeping in a completely dark environmen](/2010/06/carbohydrates-blue-light-and-willpower/)t for enhanced performance.

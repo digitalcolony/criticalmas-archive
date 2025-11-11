@@ -9,7 +9,7 @@ description: "In the past couple of years I've had several people tell me that t
 commentCount: 5
 ---
 
-In the past couple of years I've had several people tell me that they thought I was a vegetarian. [I'm not.](/2008/07/im-not-a-vegetarian/) Maybe it is a Seattle thing, but they learn that I cook or make [vegetable ferments](https://criticalmas.org/best-of/fermentation/) and jump to the conclusion that I might be a vegetarian. It makes sense. Vegetarians tend to know more about food and are probably more likely to make their own sauerkraut or kimchi. And there are so many vegetarians on the West Coast.
+In the past couple of years I've had several people tell me that they thought I was a vegetarian. [I'm not.](/2008/07/im-not-a-vegetarian/) Maybe it is a Seattle thing, but they learn that I cook or make [vegetable ferments](/tag/fermentation/) and jump to the conclusion that I might be a vegetarian. It makes sense. Vegetarians tend to know more about food and are probably more likely to make their own sauerkraut or kimchi. And there are so many vegetarians on the West Coast.
 
 Whenever someone would present me with this misconception, I used to almost dismissively correct them. _Beef liver made me healthy, not soy burgers!_ Correcting someone is rarely going to change their perceptions. A better approach is to plant a seed of doubt about that belief and let them think about it. So about a year ago I started answering the vegetarian charge in ways that advanced the dialog. Here are three responses that I use today.
 

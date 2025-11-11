@@ -17,7 +17,7 @@ How did my Distraction Diet work out? [I failed](/2010/08/facebook-won-i-surrend
 
 I can give up bread for two years, but I couldn't make it a full week away from the social networks. I still have the same concerns about the distracting nature of social networking and email, so I've decided to take a more realistic approach to this problem. Shunning social networking for weeks or a month doesn't solve the problem. It just pushes it to the future.
 
-I decided to frame this problem like I did when I made the transition from 5-6 meals a day to embracing [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/). In early 2008, I would eat my first meal at 6 AM and my last snack close to 10 PM. My eating window was 18 hours. These days my eating window is usually between 8 and 12 hours. The result is food is no longer on my mind all the time. Now to apply that strategy to online behavior.
+I decided to frame this problem like I did when I made the transition from 5-6 meals a day to embracing [Intermittent Fasting](/tag/intermittent-fasting/). In early 2008, I would eat my first meal at 6 AM and my last snack close to 10 PM. My eating window was 18 hours. These days my eating window is usually between 8 and 12 hours. The result is food is no longer on my mind all the time. Now to apply that strategy to online behavior.
 
 
 ### Early Morning Reading

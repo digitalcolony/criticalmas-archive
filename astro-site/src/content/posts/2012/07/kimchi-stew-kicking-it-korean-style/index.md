@@ -9,7 +9,7 @@ description: "When I first starting making kimchi I thought I would never make a
 commentCount: 5
 ---
 
-When I first starting [making kimchi](https://criticalmas.org/best-of/fermentation/) I thought I would never make a soup or stew using that prized ingredient. The reasons were it takes a decent amount of effort to make kimchi and that the heat from the soup would kill off all the probiotic benefits. So in other words, why bother going through the fermentation process?
+When I first starting [making kimchi](/tag/fermentation/) I thought I would never make a soup or stew using that prized ingredient. The reasons were it takes a decent amount of effort to make kimchi and that the heat from the soup would kill off all the probiotic benefits. So in other words, why bother going through the fermentation process?
 
 A few weeks ago I made a ridiculous amount of kimchi. One of the variations had a little too much red pepper in it and I probably fermented a day too long. It had a texture that was softer than I prefer. Because I had so much kimchi and I was eager to try new fermentation ideas out, I had a need to use it up quickly. That is when I decided to use it for a stew.
 

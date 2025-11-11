@@ -13,7 +13,7 @@ I mentioned at the end of the post [Food Reward and Old School Bodybuilders](/20
 
 My goal is to see if I can lose 10-15 pounds without feeling hungry. The last time I lost weight, I was stacking different strategies, including lower carbs, intermittent fasting, cold exposure and cooking more food at home. Eating foods cooked at home lowered my food reward, but how important of a factor did it play? I aim to find out.
 
-**I will not be lowering my carbs.** In fact I plan to eat a lot of potatoes cooked plainly. I will also be pressuring cooking legumes. _Sorry Paleo, but you are wrong about legumes ([see #3](/2014/09/5-issues-personal-paleo-code/))._ There will be no [cold exposure](https://criticalmas.org/best-of/cold-weather-training/) and although I will be reducing my eating window, I do not plan to fast at the levels I did during my prior weight loss. Exercise levels will remain the same, which is two brief moderately intense machine based workouts a week plus walking.
+**I will not be lowering my carbs.** In fact I plan to eat a lot of potatoes cooked plainly. I will also be pressuring cooking legumes. _Sorry Paleo, but you are wrong about legumes ([see #3](/2014/09/5-issues-personal-paleo-code/))._ There will be no [cold exposure](/tag/cold/) and although I will be reducing my eating window, I do not plan to fast at the levels I did during my prior weight loss. Exercise levels will remain the same, which is two brief moderately intense machine based workouts a week plus walking.
 
 Unlike the last time, I will be monitoring my sleep quality and body temperature. If either decline, I will add back in higher food reward items. This strategy worked for me before.
 

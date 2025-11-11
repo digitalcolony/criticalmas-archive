@@ -9,7 +9,7 @@ description: "Be sure to check out my Potato Hack Diet Best of Page. I had no pl
 commentCount: 27
 ---
 
-Be sure to check out my [Potato Hack Diet](https://criticalmas.org/best-of/potato-hack-diet/) Best of Page.
+Be sure to check out my [Potato Hack Diet](/tag/potato/) Best of Page.
 
 I had no plans to post my Week 1 results, but I wanted to share how things are going on the Potato Diet. For a background to this post see [The Potato Diet - My Plan to Lose 15-20 Pounds](/2015/11/the-potato-diet-my-plan-to-lose-15-20-pounds/).
 

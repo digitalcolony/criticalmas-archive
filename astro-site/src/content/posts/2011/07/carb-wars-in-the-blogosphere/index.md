@@ -55,7 +55,7 @@ This is another area of confusion. Many in the very low carb camp assume their a
 
 Whenever you read about carb recommendations, it is always phrased in terms of "per day". Daily requirements are how we've been trained to think about nutrition. However, one of the things I've learned from studying Paleolithic diets is to embrace randomness. Nature is random. We have seasons. Trying to regiment a specific range of carbs on a daily basis doesn't seem Paleo to me. Paleo man experienced feast to famine and all points in between.
 
-I'll go into greater detail on this in a [future post](/2011/08/the-paleohit-cyclical-approach-to-fitness-and-nutrition/), but I alter my carb levels on a daily basis. Some days I spike my carb levels with starchy carbs. Some days I'll do [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/), low-carb and go into ketosis. If I were a hunter gather, I could see moving away from an area with low carbohydrates toward an area richer in carbs.
+I'll go into greater detail on this in a [future post](/2011/08/the-paleohit-cyclical-approach-to-fitness-and-nutrition/), but I alter my carb levels on a daily basis. Some days I spike my carb levels with starchy carbs. Some days I'll do [Intermittent Fasting](/tag/intermittent-fasting/), low-carb and go into ketosis. If I were a hunter gather, I could see moving away from an area with low carbohydrates toward an area richer in carbs.
 
 
 ### Final Thoughts

@@ -15,7 +15,7 @@ My love for espresso has helped me really appreciate High Intensity Training. **
 
 ![espresso](./img/espresso.jpg)
 
-In the book [The New High Intensity Training](/2011/05/the-new-high-intensity-training/), author Ellington Darden states that HIT training has lost popularity in the past 25 years. I believe it. As far as I can see, I am the only person at my [Glitter Gym](https://criticalmas.org/best-of/tales-from-the-glitter-gym/) doing HIT. In fact, I can't recall a single person doing HIT at any of my previous gyms. That isn't concerning to me, since I look for results and am uninterested in what is popular at the moment.
+In the book [The New High Intensity Training](/2011/05/the-new-high-intensity-training/), author Ellington Darden states that HIT training has lost popularity in the past 25 years. I believe it. As far as I can see, I am the only person at my [Glitter Gym](/tag/glitter-gym/) doing HIT. In fact, I can't recall a single person doing HIT at any of my previous gyms. That isn't concerning to me, since I look for results and am uninterested in what is popular at the moment.
 
 When I visit coffee shops across Seattle, I also noticed that the espresso is a minority drink. Most patrons want to _stretch out the experience_ by adding water, milk or some form of frozen sugar sludge. Back at the Glitter Gym, I see patrons _stretching out the experience_ by adding more sets, working out more days and choosing ridiculous exercises that favor injury over muscle growth. They remind me of the guy who repeatedly hits the crosswalk button until the light changes.
 

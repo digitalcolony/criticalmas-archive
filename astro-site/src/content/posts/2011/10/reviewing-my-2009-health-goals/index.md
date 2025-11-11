@@ -41,7 +41,7 @@ When I wrote that post, I was working on a fat loss experiment that showed promi
 
 In April 2009, I was just hitting Level 1 on fat loss. These days I bounce between Level 2 and Level 3, with a bias towards Level 2. An explanation of these terms is at [Moving Up The Leanness Levels](/2010/12/moving-up-the-leanness-levels/).
 
-In addition to my experiments with carb and gluten restriction, part of the fat loss credit must go to [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/). And I also suspect that [Cold Weather Exposure](https://criticalmas.org/best-of/cold-weather-training/) helped at least in the beginning.
+In addition to my experiments with carb and gluten restriction, part of the fat loss credit must go to [Intermittent Fasting](/tag/intermittent-fasting/). And I also suspect that [Cold Weather Exposure](/tag/cold/) helped at least in the beginning.
 
 
 ### Things That Weren't Goals

@@ -9,7 +9,7 @@ description: "Last year I consumed 192 espressos in Seattle area coffee shops. I
 commentCount: 2
 ---
 
-Last year I consumed 192 espressos in Seattle area coffee shops. I detailed who was pulling the best shots in the post [192 Espressos - The Best of Seattle Coffee 2012](/2012/12/192-espressos-the-best-of-seattle-coffee-2012/). In that post, I described my biases and the metrics I used to calculate my rankings. I thought I was finished with this project, but I had a good amount of data that I could use to answer more questions on the Seattle coffee scene.
+Last year I consumed 192 espressos in Seattle area coffee shops. I detailed who was pulling the best shots in the post 192 Espressos - The Best of Seattle Coffee 2012. In that post, I described my biases and the metrics I used to calculate my rankings. I thought I was finished with this project, but I had a good amount of data that I could use to answer more questions on the Seattle coffee scene.
 
 1.  What neighborhood has the best espresso?
 2.  Are single origin espressos higher or lower quality than blends?

@@ -9,7 +9,7 @@ description: "Be sure to check out my Potato Hack Diet Best of Page. Earlier thi
 commentCount: 26
 ---
 
-Be sure to check out my [Potato Hack Diet](https://criticalmas.org/best-of/potato-hack-diet/) Best of Page.
+Be sure to check out my [Potato Hack Diet](/tag/potato/) Best of Page.
 
 Earlier this month I posted [No Hunger Games - A Day of Just Boiled Potatoes](/2015/11/no-hunger-games-a-day-of-just-boiled-potatoes/). It was a trial run of two days of eating just cold boiled potatoes. That post goes into why it is easy to go into a calorie deficit without feeling hungry if one just eats potatoes. [The Potato Diet](https://vegetablepharm.blogspot.com/p/the-potato-diet_14.html) guide on _Vegetable Pharm_ is the comprehensive guide. If you have any questions, they are likely answered there.
 

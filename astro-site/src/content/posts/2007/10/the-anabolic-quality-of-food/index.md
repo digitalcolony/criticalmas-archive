@@ -9,7 +9,7 @@ description: "Last year when I visited Brazil one thing had me puzzled: How coul
 commentCount: 0
 ---
 
-Last year when I visited [Brazil](/2006/08/rio-to-buenos-aires-overview/) one thing had me puzzled: _How could the people be so lean when a large amount of the food was either fried or loaded with sugar?_
+Last year when I visited Brazil one thing had me puzzled: _How could the people be so lean when a large amount of the food was either fried or loaded with sugar?_
 
 The answer I came up with at the time was that they either ate less or just played endless hours of soccer. This morning I stumbled upon another possible answer. The food quality was higher. Could it be possible that the nutritional quality of the recipe components in Brazil is higher than the food we get here in America?
 
@@ -25,7 +25,7 @@ Here is what strength coach Charles Poliquin wrote in _Question of Strength: Oct
 > 
 > But when I work in the UK or Ireland, I lose muscle mass and put fat on almost inevitably, even though I try to eat as cleanly as possible. The quality of the food is just piss poor.
 
-Coach Poliquin gained 11 pounds all while losing 2% body fat in the sunny Dominican Republic. It's time to start planning a winter vacation. Any [glitter gyms](/2006/02/glitter-and-rust/) in Santo Domingo?
+Coach Poliquin gained 11 pounds all while losing 2% body fat in the sunny Dominican Republic. It's time to start planning a winter vacation. Any glitter gyms in Santo Domingo?
 
 ![beef-short-ribs](./img/beef-short-ribs.jpg)
 

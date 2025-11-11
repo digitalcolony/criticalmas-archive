@@ -45,7 +45,7 @@ In December 2012, I started making dairy kefir. I planned to scale back on the i
 ### Knee Pain and Conflicting Goals
 
 
-In 2013, my left [knee](/2013/10/left-knee-bumming/) started to hurt. I had to stop long [urban hikes](https://criticalmas.org/best-of/urban-hiking/) and leg presses. I was becoming more inactive. And even after I posted that I was having [too many conflicting health goals](/2013/04/too-many-conflicting-health-goals/), I continued to create conflicting goals. More on that in the next post.
+In 2013, my left [knee](/2013/10/left-knee-bumming/) started to hurt. I had to stop long [urban hikes](/tag/urban/) and leg presses. I was becoming more inactive. And even after I posted that I was having [too many conflicting health goals](/2013/04/too-many-conflicting-health-goals/), I continued to create conflicting goals. More on that in the next post.
 
 To make a long story short, my weight is now at 216, which is not overweight given my height, but is also not lean.
 

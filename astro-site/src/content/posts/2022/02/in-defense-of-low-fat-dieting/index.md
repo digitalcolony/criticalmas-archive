@@ -20,7 +20,7 @@ The big lie repeated by low-carb fans is that we as a society tried a low-fat di
 
 Many low-carb zealots continue to lump all carbs together. Mountain Dew is the same as quinoa to them. Which is ludicrous. People fail on low-fat diets because they consume too many of their calories as processed and don't eat enough protein and/or fiber. All this is solvable.
 
-My [Peasant Diet](/2016/11/designing-modern-peasant-diet/) and [Potatoes & Protein Diet](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/) both are whole food low-fat diets that remove processed foods and increase both protein and fiber. They worked great. Starting with a classic [Potato Hack](https://criticalmas.org/best-of/potato-hack-diet/) + Peasant Diet and then moving to Potatoes & Protein, I went from 222 to 180 without experiencing hunger and I've kept the weight off for years now. _(height 6'2.5 or 189 cm)_
+My [Peasant Diet](/2016/11/designing-modern-peasant-diet/) and [Potatoes & Protein Diet](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/) both are whole food low-fat diets that remove processed foods and increase both protein and fiber. They worked great. Starting with a classic [Potato Hack](/tag/potato/) + Peasant Diet and then moving to Potatoes & Protein, I went from 222 to 180 without experiencing hunger and I've kept the weight off for years now. _(height 6'2.5 or 189 cm)_
 
 ![potatoes-protein](./img/potatoes-protein.jpg)
 

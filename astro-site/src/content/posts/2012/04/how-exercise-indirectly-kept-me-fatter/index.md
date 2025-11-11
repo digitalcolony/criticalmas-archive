@@ -49,7 +49,7 @@ _Exercising beyond my ability to recover resulted in a wrist surgery. During rec
 
 Why did my appetite stay elevated during periods of rest and recovery? My first thought is the body is trying to protect the host. Inflicting a high volume of exercise is energy demanding. The body's goal is not to be shredded by Spring Break, but to survive future threats. One of those threats might be another season of training with even higher energy demands.
 
-Then there is ghrelin. Ghrelin is the hunger hormone, which is made in the stomach. The more we expend energy, the stronger the ghrelin signal. That makes sense. Higher activity will often result in more habitual eating patterns at higher caloric levels. Our excessive exercise trains ghrelin to respond more aggressively. When we are sidelined, these signals don't suddenly stop. This is one reason why [Intermittent Fasting](https://criticalmas.org/best-of/intermittent-fasting/) can be so effective for fat loss. It trains the hunger hormone ghrelin to quieten itself during fasting periods.
+Then there is ghrelin. Ghrelin is the hunger hormone, which is made in the stomach. The more we expend energy, the stronger the ghrelin signal. That makes sense. Higher activity will often result in more habitual eating patterns at higher caloric levels. Our excessive exercise trains ghrelin to respond more aggressively. When we are sidelined, these signals don't suddenly stop. This is one reason why [Intermittent Fasting](/tag/intermittent-fasting/) can be so effective for fat loss. It trains the hunger hormone ghrelin to quieten itself during fasting periods.
 
 
 ### Putting It All Together
