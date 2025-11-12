@@ -2,6 +2,12 @@
 
 This project converts the Critical MAS WordPress blog into a static Astro website.
 
+## About Critical MAS
+
+**Critical MAS** (Michael Allen Smith) is a long-running personal blog covering fitness, nutrition, coffee, and urban exploration, spanning over two decades (2005-2025).
+
+The site features **1,700+ posts** with extensive commenting history (preserved as static content), detailed photography, and practical experiments in health optimization. This archive preserves 20 years of writing, research, and community discussion in a fast, modern format.
+
 ## Project Structure
 
 ```
