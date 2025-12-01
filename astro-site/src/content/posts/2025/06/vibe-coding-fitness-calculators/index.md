@@ -20,17 +20,15 @@ Well, I finally coded my own set of fitness calculators. I haven't seen anything
 
 Instead of buying another domain, I set up a subdomain on potatohack.com and named the collection "Potato Hack Fitness Calculators." Users looking to calculate their BMI or BMR may take an extra click and learn about the [Potato Hack](https://potatohack.com/).
 
+UPDATE: I removed the subdomain for reasons I will explain on Substack later.
 
-#### [calc.potatohack.com](https://calc.potatohack.com)
-
+#### [cruxcalc.netlify.app](https://cruxcalc.netlify.app/)
 
 ![](./img/og-image-1024x538.png)
 
 _Potato Hack Fitness Calculators is hosted as a static site built with Astro and hosted for free on Netlify._
 
-
 ### Vibe Coding
-
 
 Vibe coding is a new term that involves directing a coding AI to create what you want, rather than entering code directly yourself. I pay for GitHub Copilot, which hosts most of the major AI models. For this project, I mostly used Claude 4.0 in Agent mode. Agent mode means I hand over control to my IDE (VS Code) to the AI Agent, and it does the work with minimal input from me.
 
@@ -42,9 +40,7 @@ At this point, I was prompted with many questions, which I answered, and the req
 
 I went back and forth with coding requests, saving my code to GitHub as new features or changes were added. I had most of the site finished in under three hours. I later had it add some more calculators.
 
-
 ### Feedback?
-
 
 The [code is available on GitHub](https://github.com/digitalcolony/cruxcalc) for anyone to use or modify. There are no ads or pop-up windows. Post any feedback you have, including additional calculator ideas.
 
@@ -53,14 +49,16 @@ The [code is available on GitHub](https://github.com/digitalcolony/cruxcalc) for
 ## Comments
 
 ### Peter
-*June 15 at 2025 at 1:07 PM*
+
+_June 15 at 2025 at 1:07 PM_
 
 Thanks so much for this. I read this last night and this morning got going on something I've been wanting to do but didn't know how to get started with.
 
 ---
 
 ### MARIUS
-*June 16 at 2025 at 8:23 AM*
+
+_June 16 at 2025 at 8:23 AM_
 
 Excellent work ! Please, can you put the kilograms on it Potato Hack Calculator ?
 Thank you !
@@ -68,7 +66,8 @@ Thank you !
 ---
 
 ### exfatloss
-*June 16 at 2025 at 8:42 AM*
+
+_June 16 at 2025 at 8:42 AM_
 
 Haha I approve the making (and maintaining!) of calculators. That said, the one I tried is the BMR one and I think all 3 formulas are very wrong. With my data, they all give me severely lower BMR than has been measured repeatedly, and (at sedentary level) even more severely under report my (also measured) TEE.
 
@@ -77,7 +76,8 @@ I think all these formulas are total nonsense and way under report compared to r
 ---
 
 ### MAS
-*June 16 at 2025 at 1:59 PM*
+
+_June 16 at 2025 at 1:59 PM_
 
 @Marius - Great idea! I just updated the Potato Hack calc to have a kg/lb toggle.
 
@@ -86,9 +86,9 @@ I think all these formulas are total nonsense and way under report compared to r
 ---
 
 ### Chris
-*July 6 at 2025 at 4:51 PM*
+
+_July 6 at 2025 at 4:51 PM_
 
 Thanks for these.
 
 ---
-

@@ -12,7 +12,7 @@
     "@astrojs/sitemap": "^3.6.0",
     "@tailwindcss/typography": "^0.5.19",
     "@tailwindcss/vite": "^4.1.17",
-    "astro": "^5.15.4",
+    "astro": "^5.16.3",
     "rehype-raw": "^7.0.0",
     "tailwindcss": "^4.1.17",
     "unist-util-visit": "^5.0.0"
