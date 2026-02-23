@@ -20,8 +20,6 @@ Well, I finally coded my own set of fitness calculators. I haven't seen anything
 
 Instead of buying another domain, I set up a subdomain on potatohack.com and named the collection "Potato Hack Fitness Calculators." Users looking to calculate their BMI or BMR may take an extra click and learn about the [Potato Hack](https://potatohack.com/).
 
-UPDATE: I removed the subdomain for reasons I will explain on Substack later.
-
 #### [cruxcalc.netlify.app](https://cruxcalc.netlify.app/)
 
 ![](./img/og-image-1024x538.png)
