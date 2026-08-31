@@ -46,7 +46,7 @@ _Yes, I often eat 500-calorie snacks before bed. It helps me sleep better._
 
 If you believe the premise that excess PUFA over time is stressful to the body and that one should keep their PUFA low (below 2-4%) then the ice cream wins. If, however, you think sugar is worse than PUFA then the sliced apples with almond butter wins. My opinion changes over time, but right now I think PUFA is a much larger concern than sugar.
 
-![almond-butter](./img/almond-butter.jpg)
+![almond-butter](/2013/12/quantifying-pufa-expert-opinion/img/almond-butter.jpg)
 
 This jar of almond butter has 92 grams of PUFA. I used to go through a [jar a week](/2012/04/food-reward-test-almonds-vs-almond-butter/) when I was avoiding sugar. **That is 13 grams a day of PUFA just from almond butter.** When Paleo bloggers talk about nuts in _moderation_, I don't think they ran the numbers. Plus, I don't know anyone that can eat just a few nuts and put the bag away.
 

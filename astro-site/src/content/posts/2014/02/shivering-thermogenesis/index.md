@@ -15,7 +15,7 @@ I've been tinkering around with [cold exposure](/tag/cold/) since 2008. When I e
 
 Although I still think there is merit in cold exposure, my most recent thinking which I outline in [Rejecting the Seasonal Approach](/2014/02/rejecting-seasonal-approach-nutrition/) is to not stack stressors. In other words, cold exposure is fine. IF is fine. Low carb is fine. Doing them at the same time is probably a bad idea. I also feel the most important aspect of cold exposure is when it is over to **warm up quickly**. Extending a stressor too long may likely have a metabolic lowering effect.
 
-![mas-snow](./img/mas-snow.jpg)
+![mas-snow](/2014/02/shivering-thermogenesis/img/mas-snow.jpg)
 
 ---
 

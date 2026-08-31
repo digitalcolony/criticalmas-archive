@@ -34,7 +34,7 @@ Before we say Ballard is better than Capitol Hill, we need to deal with neighbor
 
 With the new rules, Capitol Hill is better than Ballard. But it is only better when you include the bordering Central District. The University topped all, but that was all from _Trabant_. Had I ventured to other University places in 2012, that number would have been lower.
 
-![caffe fiore](./img/6853827969_87a3fd3c5c_z.jpg)
+![caffe fiore](/2013/01/192-espressos-more-data-from-seattle-coffee-2012/img/6853827969_87a3fd3c5c_z.jpg)
 
 _Caffe Fiore in Sunset Hill (aka North Ballard)_
 

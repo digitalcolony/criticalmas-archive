@@ -33,7 +33,7 @@ Vegetarians have an amazing and compelling story which is they can do their part
 
 Both Paleo and vegetarianism are visual stories. The Zone is not.
 
-![paleo desert](./img/paleo-desert.jpg)
+![paleo desert](/2017/08/using-power-story-fat-loss/img/paleo-desert.jpg)
 
 _Photo by [Wilson Szeto](https://unsplash.com/@wilsonszeto)._ 
 

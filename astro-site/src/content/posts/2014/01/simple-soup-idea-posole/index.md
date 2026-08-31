@@ -15,11 +15,11 @@ Posole soup is made using cubed pork, hominy, peppers, garlic, and onions in a b
 
 If you need more details look at [Posole Recipe](https://web.archive.org/web/20221209194505/https://www.reluctantgourmet.com/posole-recipe/) on The Reluctant Gourmet.
 
-![posole](./img/posole.jpg)
+![posole](/2014/01/simple-soup-idea-posole/img/posole.jpg)
 
-![hominey](./img/hominey.jpg)
+![hominey](/2014/01/simple-soup-idea-posole/img/hominey.jpg)
 
-![posole-finished](./img/posole-finished.jpg)
+![posole-finished](/2014/01/simple-soup-idea-posole/img/posole-finished.jpg)
 
 ---
 

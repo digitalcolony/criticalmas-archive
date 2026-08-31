@@ -25,7 +25,7 @@ What if I have something unique to share, such as photos of the historic snowsto
 
 Now instead of checking Instagram several times a day on my phone, I now check the browser version just a few times a week. A quick scan and I'm done. The spell has been broken.
 
-![](./img/carlos-santa-haight.jpg)
+![](/2019/03/how-i-broke-the-instagram-habit-loop/img/carlos-santa-haight.jpg)
 
 One of my earliest Instagram posts was when I noticed Carlos Santana coming out of a clothing store in San Francisco.
 

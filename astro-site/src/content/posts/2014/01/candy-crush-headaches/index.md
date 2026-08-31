@@ -15,7 +15,7 @@ Then I read about how the [Candy Crush Saga](https://en.wikipedia.org/wiki/Candy
 
 Normally I don't play video games, but I like to have some awareness of popular pop culture. For example, I watched an episode of Jersey Shore just so I would know what a [Snooki](https://en.wikipedia.org/wiki/Snookie) was. With video games, I watched my nephews play _Call of Duty_ and I myself played a few rounds of _Angry Birds_. So I decided to see what _Candy Crush_ was all about.
 
-![Candy Crush headache](./img/candy-crush450.jpg)
+![Candy Crush headache](/2014/01/candy-crush-headaches/img/candy-crush450.jpg)
 
 _Candy Crush Saga - The crack of video games_
 

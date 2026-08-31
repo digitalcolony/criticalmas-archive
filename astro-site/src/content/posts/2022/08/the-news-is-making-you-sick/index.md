@@ -23,7 +23,7 @@ And...
 > 
 > 61% of those with severe levels of problematic news reported experiencing physical ill-being “quite a bit” or “very much” compared to only 6.1% for all other study participants.
 
-![](./img/sitting-smoking-spiraling.jpg)
+![](/2022/08/the-news-is-making-you-sick/img/sitting-smoking-spiraling.jpg)
 
 _Sitting, smoking, spiraling (2022) by [Elena Redmond](https://www.elenaredmond.co/) (via Artvee)_
 

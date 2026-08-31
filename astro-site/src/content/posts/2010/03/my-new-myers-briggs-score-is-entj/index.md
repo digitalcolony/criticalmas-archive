@@ -11,7 +11,7 @@ commentCount: 4
 
 It has been a few years since I last took a [Myers-Briggs](https://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator) personality test. On Wednesday, I took the test again and my score changed. I went from being an INTJ to an ENTJ. You were warned. ;)
 
-![](./img/entj-meyers-briggs-star-trek.jpg "meyers-briggs-entj")
+![](/2010/03/my-new-myers-briggs-score-is-entj/img/entj-meyers-briggs-star-trek.jpg "meyers-briggs-entj")
 
 ---
 

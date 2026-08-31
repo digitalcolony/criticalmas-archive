@@ -11,7 +11,7 @@ commentCount: 2
 
 Probably the most memorable episode of the original Star Trek was _The Trouble With Tribbles_. This is the one where the crew starts adopting furry little creatures called Tribbles for pets. They are so adorable, what could be the _trouble_? The Tribbles reproduce at an extremely rapid rate and soon the ship is filled with them.
 
-![](./img/tribbles-kirk.jpg "The Trouble with Tribbles")
+![](/2010/06/tales-from-the-glitter-gym-the-trouble-with-tribbles/img/tribbles-kirk.jpg "The Trouble with Tribbles")
 
 What does this have to do with the Glitter Gym? **I submit to you that the Swiss Ball is the Tribble of the free weight room.** When they first made their appearance they were cute and there were just a few. Harmless fun. Now I swear that every time I go back to the gym there are more Swiss Balls. I really think they are reproducing.
 

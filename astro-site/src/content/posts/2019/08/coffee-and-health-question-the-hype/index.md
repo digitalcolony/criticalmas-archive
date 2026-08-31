@@ -31,7 +31,7 @@ I suspect the health benefits of coffee are minor if you are eating a nutrient d
 
 We all have our own unique responses to caffeine and they might change over time. Experiment. Don't trust some click bait article that tells you drinking 5 or more cups of coffee a day will make you immortal. Solve for sleep first. There are too many examples of people that either don't drink coffee or quit coffee that have amazing health.
 
-![coffee lovers diet](./img/coffee-lovers-diet-book.jpg)
+![coffee lovers diet](/2019/08/coffee-and-health-question-the-hype/img/coffee-lovers-diet-book.jpg)
 
 ---
 

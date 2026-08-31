@@ -30,7 +30,7 @@ There are a few cases where I will increase this salt ratio.
 
 If you want the benefits of higher salt levels, but are impatient and want to speed up your ferments, the trick is to add anti-microbial ingredients. Garlic, ginger, peppers, and especially [dill](/2011/07/dill-and-caraway-sauerkraut/) will increase the speed of the ferment. At the same salt level, I've taken 4 weeks to make sauerkraut using juniper berries and only 6 days using dill.
 
-![bucket-ferments](./img/bucket-ferments.jpg)
+![bucket-ferments](/2012/06/fermenting-vegetables-and-salt-levels/img/bucket-ferments.jpg)
 
 _Making some ferments._
 

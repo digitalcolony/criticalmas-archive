@@ -25,7 +25,7 @@ Once push-ups become too easy, Pavel says to use bands to make the movement hard
 
 The second issue I had was between all the push-ups and KB swings, my shoulders were taking a beating, while the rest of my body felt under-utilized.
 
-![](./img/kettlebell-jesper-a.jpg)
+![](/2020/02/improving-pavels-quick-and-dead-workout/img/kettlebell-jesper-a.jpg)
 
 _Photo by_ [_Jesper Aggergaard_](https://unsplash.com/@aggergakker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

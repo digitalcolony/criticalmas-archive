@@ -17,6 +17,6 @@ The people who are truly busy don't have time to tell you how busy they are.
 
 I make it a point to never use the _busy_ word. In most situations it is easier to take additional action to a conclusion than to shut people down with the _I'm so busy_ routine.
 
-![busy](./img/6230247888_cae2d324ab_z.jpg)
+![busy](/2006/06/are-you-really-busy/img/6230247888_cae2d324ab_z.jpg)
 
 _[Photo](https://flic.kr/p/auxDD3) by id iom_

@@ -61,8 +61,8 @@ Ectomorph
 
 Once you have your role models, find photos. Look at them and look at yourself. Now hit the gym!
 
-[![](./img/holyfield.jpg "holyfield")](./img/holyfield.jpg)
+[![](/2007/03/fitness-role-models/img/holyfield.jpg "holyfield")](./img/holyfield.jpg)
 
-[![](./img/laird.jpg "laird")](./img/laird.jpg)
+[![](/2007/03/fitness-role-models/img/laird.jpg "laird")](./img/laird.jpg)
 
 Who are your fitness role models?

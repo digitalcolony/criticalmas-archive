@@ -17,7 +17,7 @@ This winter I've had more headaches than I've had since [giving up gluten](/2010
 
 Tomorrow is March 1st. It begins then.
 
-![dark-chocolate](./img/dark-chocolate.jpg)
+![dark-chocolate](/2011/02/30-days-without-sugar-or-fruit/img/dark-chocolate.jpg)
 
 _See you April Mr. Chocolate?_
 

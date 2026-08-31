@@ -13,7 +13,7 @@ Back in January, I posted [Duolingo Fluency Estimates – My Data](/2017/01/duo
 
 Below is an updated view of that data. In mid-April this year, my fluency spiked 12%. Many users on Instagram reported a similar bump at that time.
 
-![Duolingo Spanish FLuency](./img/duolingo-spanish-fluency.png)
+![Duolingo Spanish FLuency](/2017/09/duolingo-data-2-year-fluency-estimate-chart/img/duolingo-spanish-fluency.png)
 
 The first data point I have is a 6% Spanish fluency on September 25, 2015. I began using the program on May 5, 2015. I'm currently on a 650 Day streak and I'm at Level 23 with 22,890 XP. A few observations:
 
@@ -24,4 +24,4 @@ Duolingo is no longer the great program it once was. Now the app is cluttered wi
 
 If you are learning a foreign language and would like to learn with a native speaker, check out **[iTalki](https://www.italki.com/i/BaFdbA)**. I've been using them for a year and it is a great service. Use my link and we both will get $10 credit after you schedule your first lesson.
 
-![](./img/40percent-duolingo.jpg)
+![](/2017/09/duolingo-data-2-year-fluency-estimate-chart/img/40percent-duolingo.jpg)

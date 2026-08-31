@@ -17,7 +17,7 @@ Back in 2003, I got up to a _not-that-impressive_ 215 bench while weighing 210 (
 
 Then I got a 2-week trial pass at [my latest Glitter Gym](/2009/09/a-fresh-coat-of-glitter/) and spotted a piece of equipment that I have never seen before: The _Iso-Lateral Horizontal Bench Press by Hammer Strength_. Unlike the other plate-loading _Hammer Strength_ devices, this one is not done from a sitting position. It is a true flat bench. If you've never used _Hammer Strength_ equipment before, let me tell you that they come the closest to actual free weights. This machine has one edge over a barbell flat bench in that each arm is independent. The dominant arm can't compensate for the weaker one. The starting resistance is 18 pounds.
 
-![hammer-time](./img/hammer-time.jpg "hammer-time")
+![hammer-time](/2009/10/tall-guys-and-the-bench-press-solution/img/hammer-time.jpg "hammer-time")
 
 I love that I could just load up the plates and push without fear of having the weights collapse on my chest or neck. No spotter is needed. I was able to push up **3 solid reps of 238 pounds** while weighing 189 (1.26 x BW). I only have a few days left on my free pass and then I'm off to another Glitter Gym. I'm going to miss this piece of equipment.
 

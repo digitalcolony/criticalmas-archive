@@ -23,7 +23,7 @@ I wonder how well the 30-30 plan works for the last 10 pounds? Has anyone experi
 
 2017 UPDATE: 4HourLife removed their 30 grams of protein post. Here is an archived screen shot:
 
-![](./img/30-grams-of-protein.png)
+![](/2013/09/30-30-experiment/img/30-grams-of-protein.png)
 
 ---
 

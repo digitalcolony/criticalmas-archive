@@ -11,7 +11,7 @@ commentCount: 2
 
 Even though it appears we have different tastes in coffee, yesterday I was inspired by _Coffee Nomad_ to leave the house with my camera on a coffee adventure. There was a place in the Capitol Hill region near Seattle University called _WaterTown Coffee_ I had been wanting to try. It was a nice 3.5 mile urban hike away.
 
-![watertown-coffee](./img/watertown-coffee.jpg)
+![watertown-coffee](/2009/04/watertown-coffee-capitol-hill-seattle/img/watertown-coffee.jpg)
 
 _When heading south on 12th Ave, look for this on your left._
 
@@ -19,7 +19,7 @@ When I do my Seattle espresso urban hikes, I will do my best to size up a new co
 
 Watertown has a full kitchen, WIFI, and even an XBOX. But really all I care about is espresso. At WaterTown Coffee there is a large mirror behind the barista. This means you can see your drink being made without cranking your head around the counter. I watched as the barista dialed in my shot. Excellent attention to detail.
 
-![sign-watertown-coffee](./img/sign-watertown-coffee.jpg)
+![sign-watertown-coffee](/2009/04/watertown-coffee-capitol-hill-seattle/img/sign-watertown-coffee.jpg)
 
 _WaterTown Coffee front sign_
 

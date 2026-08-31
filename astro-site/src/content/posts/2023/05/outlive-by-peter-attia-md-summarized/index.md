@@ -38,7 +38,7 @@ Part of me thinks his core thesis that exercise is the biggest lever in longevit
 
 This is not a book I'll be keeping for reference. I'll be passing my copy along, either to a friend or to the library.
 
-![](./img/0593236599.01._SCLZZZZZZZ_SX500_.jpg)
+![](/2023/05/outlive-by-peter-attia-md-summarized/img/0593236599.01._SCLZZZZZZZ_SX500_.jpg)
 
 ---
 

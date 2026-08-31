@@ -31,7 +31,7 @@ If you guessed #7, you are correct. The immigration lines returning to America w
 
 I got off easy. Some young mother of Latin descent had just arrived on a red-eye got peppered with hostile questions in rapid fire. When her language skills couldn't keep pace with the officer, she got escorted to a side room with her infant child. The officer was some young guy with his head shaved to look tough. _If you want to be tough dude, join the military._
 
-![south-korea-airport](./img/south-korea-airport.jpg)
+![south-korea-airport](/2010/01/immigration-customs-and-fearing-international-travel/img/south-korea-airport.jpg)
 
 _I breezed right through South Korea Immigration and was on my way._
 

@@ -19,7 +19,7 @@ On the surface, it appears obvious that exercise would result in fat loss, but t
 
 This post is not for the typical overweight person. If you are still consuming [toxic foods](/2011/09/ranking-my-postive-health-changes/) such as grains, sugar, soy, and vegetable oils then you should devote your resources to fixing that. Remove the toxins and load up on [highly nutrient-dense foods](/2011/06/high-velocity-super-warrior-foods/). In other words, get healthy to lose fat, not lose fat to get healthy. An hour of learning to cook will have a far greater impact than an hour of exercising.
 
-![kimchi-plate](./img/kimchi-plate.jpg)
+![kimchi-plate](/2012/04/fat-loss-and-the-case-for-less-exercise/img/kimchi-plate.jpg)
 
 _Eating nutrient-dense foods like [kimchi](/tag/fermentation/) will do more for fat loss than exercise. Going into energy deficits before you've fixed nutrient deficiencies is like trying to row a leaky boat. Fix the leak first._
 
@@ -38,7 +38,7 @@ Let me start by saying that I am not a personal trainer and the only client I've
 5.  Injuries are most likely to happen when volume is too high and recoverability time is too short. The importance of quality sleep can not be overstated. Never sacrifice sleep for exercise.
 
 
-### ![](./img/days-since-accident.jpg "Days Since Accident")
+### ![](/2012/04/fat-loss-and-the-case-for-less-exercise/img/days-since-accident.jpg "Days Since Accident")
 
 
 _The key to leveraging exercise for fat loss is minimizing downtime, not increasing volume. Bias should always be towards safety. Be patient with your body and focus on the long term._

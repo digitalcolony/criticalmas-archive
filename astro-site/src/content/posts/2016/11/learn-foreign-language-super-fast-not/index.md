@@ -21,7 +21,7 @@ In August 2015, I posted:
 
 Well, today I can read a good chunk of the news stories on BBC Mundo. Not quickly and I do need to look up words, but I've made a lot of progress.
 
-![duolingo24](./img/duolingo24.jpg)
+![duolingo24](/2016/11/learn-foreign-language-super-fast-not/img/duolingo24.jpg)
 
 Now I want to share my thoughts on a lot of the language advice I see online.
 

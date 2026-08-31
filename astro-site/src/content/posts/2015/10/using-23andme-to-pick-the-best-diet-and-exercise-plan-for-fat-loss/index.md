@@ -17,7 +17,7 @@ The premise of the post is that researchers have discovered that different peopl
 
 For this post, I will use my data to see which exercise and diet are best for my fat loss.
 
-![23andme-gene-explorer](./img/23andme-gene-explorer.png)
+![23andme-gene-explorer](/2015/10/using-23andme-to-pick-the-best-diet-and-exercise-plan-for-fat-loss/img/23andme-gene-explorer.png)
 
 _Browse Raw Data - 23andMe_
 

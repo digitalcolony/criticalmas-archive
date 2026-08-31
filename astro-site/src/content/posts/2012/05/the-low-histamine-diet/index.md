@@ -25,7 +25,7 @@ There are two groups I will need to restrict. Group one are foods with high leve
 -   Vinegar, Ketchup, Mustard
 -   Yeast Food (Marmite, Vegemite)
 
-![kimchi-plate](./img/kimchi-plate.jpg)
+![kimchi-plate](/2012/05/the-low-histamine-diet/img/kimchi-plate.jpg)
 
 _My kimchi will be missed._
 

@@ -13,11 +13,11 @@ This was too weird and cheap not to try. Siem Reap, Cambodia has something calle
 
 20 Minute Fish Massage - $3. This story - priceless. :)
 
-![fish-massage](./img/fish-massage.jpg)
+![fish-massage](/2009/12/the-fish-massage-siem-reap-cambodia/img/fish-massage.jpg)
 
-![fish-massage-2](./img/fish-massage-2.jpg)
+![fish-massage-2](/2009/12/the-fish-massage-siem-reap-cambodia/img/fish-massage-2.jpg)
 
-![fish-massage-3](./img/fish-massage-3.jpg)
+![fish-massage-3](/2009/12/the-fish-massage-siem-reap-cambodia/img/fish-massage-3.jpg)
 
 _Left =_ _TheTailGunner__, Right = MAS, Below = Lots of Fish!_
 

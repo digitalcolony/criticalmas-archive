@@ -21,7 +21,7 @@ The short version is summer is for growth and winter is for repair. More carbohy
 
 Nephropal wrote an excellent primer on [Summer vs Winter Mode](http://nephropal.blogspot.com/2009/10/summer-vs-winter-mode.html).
 
-![seattle-summer](./img/seattle-summer.jpg)
+![seattle-summer](/2011/07/concluding-seasonal-strategies-for-fitness-and-nutrition/img/seattle-summer.jpg)
 
 _Summer in Seattle_
 

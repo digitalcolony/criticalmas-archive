@@ -49,7 +49,7 @@ He states the 1970s bodybuilding diet was high in protein and low in carbs. Anot
 
 > ...it is pretty simple to write down the circa 1980 bodybuilding diet: breakfast— oatmeal, eggs, and skim milk; lunch— two turkey and swiss cheese sandwiches on whole-wheat bread with mustard; pre-workout— applesauce and two chicken breasts; dinner— steamed rice, two cans of tuna packed in water, and a can of vegetables mixed in a bowl; pre-bedtime— one chicken breast and celery with peanut butter.
 
-![ed-fury](./img/ed-fury.jpg)
+![ed-fury](/2015/02/food-reward-and-old-school-bodybuilders/img/ed-fury.jpg)
 
 _Ed Fury 1953 (photo from UCLA, link no longer active)_
 

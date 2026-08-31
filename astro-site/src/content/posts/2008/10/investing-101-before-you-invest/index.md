@@ -19,7 +19,7 @@ I have different thoughts on 401k investing, so this post is just about post-tax
 
 If you have credit card debt, owe money to friends, or still have car payments, you should tackle those debts first. I would also include any student loan debt unless you are getting tax deductions on it. The reason for this is when you invest there is a risk associated with achieving an expected return, but there is no guessing the amount of interest you will be paying on your debt. So if your credit card carries an 11% interest rate, paying that debt off early is a sure savings, whereas investing is always going to carry risk.
 
-![](./img/out-of-debt.jpg)
+![](/2008/10/investing-101-before-you-invest/img/out-of-debt.jpg)
 
 _Photo [Out of Debt](http://flickr.com/photos/garrettc/16438119/) by FLICKR user Garrettc._
 

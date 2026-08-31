@@ -11,7 +11,7 @@ commentCount: 5
 
 I was just asked how I reintroduced alcohol after a multi-year absence. Prior to giving up alcohol completely, I liked going to brew pubs and trying out the sampler trays. It wasn't something I did often. Maybe 1-2 times a month. When I discovered my issues with wheat, I cited [4 reasons for giving up beer](/2010/03/saying-goodbye-to-beer/).
 
-![rogue-beers](./img/rogue-beers.jpg)
+![rogue-beers](/2015/03/how-i-reintroduced-alcohol/img/rogue-beers.jpg)
 
 During my beer hiatus, I kept away from wheat and all alcohol. I also stayed clear of the antibiotics my dermatologist gave me to deal with my rosacea. I consumed kimchi and dairy kefir on a regular basis. I do not know if these actions repaired me, but when I slowly started testing alcohol in late 2013, I felt better. With a few minor exceptions my skin didn't turn red and I didn't get a near immediate headache.
 
@@ -31,7 +31,7 @@ Today I am able to consume a full pint of cider or moderate alcohol ale. I've no
 
 I can already predict someone will comment on how they can never have alcohol. Sorry to hear that. I thought the same thing myself a few years ago and I was fine with that. Last night I had 2 pints of cider with no headache, skin flareup and was able to sleep a solid 8 hours. I now have the resiliency I didn't have years ago. And the ciders were tasty too!
 
-![MAS beer cans](./img/beer_collection650.jpg)
+![MAS beer cans](/2015/03/how-i-reintroduced-alcohol/img/beer_collection650.jpg)
 
 ---
 

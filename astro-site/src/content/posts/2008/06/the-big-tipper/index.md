@@ -15,6 +15,6 @@ Then she corrected me. Turns out that I had reached for a $20 bill and instead g
 
 I usually never carry $50 bills, but I had just sold something on Craigslist and was cash heavy that day. I wonder how much good came out of the accidental tip. I didn't even notice the shortfall.
 
-![](./img/mynmar.jpg)
+![](/2008/06/the-big-tipper/img/mynmar.jpg)
 
 _Photo by Flickr user TZA_

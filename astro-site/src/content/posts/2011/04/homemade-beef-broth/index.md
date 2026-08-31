@@ -15,29 +15,29 @@ I've recently discovered a magical elixir. It helps me recovery from workouts fa
 
 Put knuckle bone into stock pot. Add 1/2 cup of vinegar. Cover with water.
 
-![soak-bone](./img/soak-bone.jpg)
+![soak-bone](/2011/04/homemade-beef-broth/img/soak-bone.jpg)
 
 Roast Beef Soup Bones for 30-45 minutes at 350 degrees.
 
-![roast-soup-bone](./img/roast-soup-bone.jpg)
+![roast-soup-bone](/2011/04/homemade-beef-broth/img/roast-soup-bone.jpg)
 
-![roasted-soup-bones](./img/roasted-soup-bones.jpg)
+![roasted-soup-bones](/2011/04/homemade-beef-broth/img/roasted-soup-bones.jpg)
 
 Cut up a few onions, carrots and celery sticks. Add them and the roasted meat to the stock pot.
 
-![stock-veggies](./img/stock-veggies.jpg)
+![stock-veggies](/2011/04/homemade-beef-broth/img/stock-veggies.jpg)
 
 Cover with water. Turn on the heat. Bring it to a boil and then lower the heat until you achieve the slowest simmer possible. Cover the stock pot.
 
-![simmer-stock](./img/simmer-stock.jpg)
+![simmer-stock](/2011/04/homemade-beef-broth/img/simmer-stock.jpg)
 
 Periodically you want to skim off the large bubbles with a spoon. These are impurities. I do this maybe 5 times in the first few hours and then leave it alone.
 
-![filter-stock](./img/filter-stock.jpg)
+![filter-stock](/2011/04/homemade-beef-broth/img/filter-stock.jpg)
 
 Let it sit on the stove with a very low simmer for 24-72 hours. The simmer should be slow enough that you can easily count the bubbles as they rise to the surface. With 10 minutes remaining, add a handful of parsley.
 
-![beef-stock](./img/beef-stock.jpg)
+![beef-stock](/2011/04/homemade-beef-broth/img/beef-stock.jpg)
 
 Turn off the heat and let it cool. Using tongs, pull out the large chunks of meat and bones. Throw that away. Then using a strainer, filter out everything else. Pour the broth into jars. Unless you plan on using the broth in the next day, put the jars into the freezer.
 

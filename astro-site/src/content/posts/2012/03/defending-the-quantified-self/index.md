@@ -25,7 +25,7 @@ A few of the problems that were pointed out to me included sample size, length o
 
 No test is going to be perfect, but not testing is a sure fire way to lose. Spending a few minutes each morning in front of a spreadsheet for the past year has measurably improved the quality of my life. At the point when I stop receiving benefits to justify the minimal time commitment, I'll stop collecting data. But I don't see that happening anytime soon. I've only just begun.
 
-![spreadsheet-mug](./img/spreadsheet-mug.jpg)
+![spreadsheet-mug](/2012/03/defending-the-quantified-self/img/spreadsheet-mug.jpg)
 
 _[Photo](https://flic.kr/p/dNdaUb) by Craig Chew-Moulding_
 

@@ -21,7 +21,7 @@ This post is about the lessons I've learned (or relearned) since switching gyms.
 
 Although my old gym was small, it had a larger area for warming up than the huge LA Fitness. The new one is crowded, and as a result, I've skipped the warmup routine that has served me well for a decade. Before heading to the gym, I still do a yoga and stretching warmup at home, but I'm learning that isn't enough. I need to keep my old gym warm-up as well.
 
-![arm-circle-mobility](./img/arm-circle-mobility.png)
+![arm-circle-mobility](/2024/06/new-gym-old-mistakes/img/arm-circle-mobility.png)
 
 _Arm circles are a staple in my warm-up routine. Both directions._
 

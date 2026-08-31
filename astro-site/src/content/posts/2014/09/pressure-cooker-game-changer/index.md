@@ -13,7 +13,7 @@ Shortly after arriving in Seattle in 2007, I broke down and [bought a good coff
 
 I still the recall that feeling I got when I pulled those first few shots. They were beautiful.  Thin rat tails of espresso poured out of the espresso machine. **In a second, I knew everything had changed.** And in a second I knew I was a fool for wasting years with that old grinder. In one day, the quality of my espresso went up 10 fold. My education and appreciation of espresso went through the roof starting at that moment.
 
-![espresso rat tail](./img/170856635_910824d2a2_z.jpg)
+![espresso rat tail](/2014/09/pressure-cooker-game-changer/img/170856635_910824d2a2_z.jpg)
 
 _[The Stream](https://flic.kr/p/g6FJ4) by Mark_
 

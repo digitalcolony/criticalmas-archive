@@ -15,7 +15,7 @@ A month ago I was poking around the _Underground Wellness_ site when I found a p
 
 One of the numbers I saw in several places was that taking a 10-15 minute shower with unfiltered water was like drinking 8 cups of chlorinated water. I'm not sure about any of this. What I do know is that since moving to Ballard I can smell the chlorine in my shower. Getting a shower filter is cheap insurance.
 
-![](./img/shower-filter.jpg "shower-filter")
+![](/2012/02/chlorination-elimination-experimentation/img/shower-filter.jpg "shower-filter")
 
 I bought a basic GE Shower filter. This is before I knew about the Vitamin C Shower Filters mentioned in Chris Kresser's article. Amazon sells both. I was able to install it myself without any problem and no one has ever confused me with being a handyman.
 

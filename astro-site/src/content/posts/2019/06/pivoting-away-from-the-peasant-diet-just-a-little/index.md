@@ -27,7 +27,7 @@ In the post [Fear of a Toxic Planet](/2018/04/fear-of-a-toxic-planet/), I was cr
 
 Was I wrong before? Not at all. When I did the Peasant Diet, I wanted to be laser-focused on my goal and the tools I would use to accomplish it. I didn't want to be distracted by competing health goals. Losing the extra weight was the number one most important thing I could do then. Adopting the Peasant mindset completely was key. When that goal was achieved, I could change the story.
 
-![blueberries](./img/syd-wachs-128767-unsplash.jpg)
+![blueberries](/2019/06/pivoting-away-from-the-peasant-diet-just-a-little/img/syd-wachs-128767-unsplash.jpg)
 
 _Photo by [Syd Wachs](https://unsplash.com/@videmusart)  - As a Peasant, I didn't splurge on organic blueberries. I bought bananas. Now that Peasant phase is ending, I am buying the berries more often._
 

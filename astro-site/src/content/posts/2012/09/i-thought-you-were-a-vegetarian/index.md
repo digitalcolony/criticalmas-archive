@@ -30,7 +30,7 @@ This response changes the question from _is a vegetarian diet healthy_ to which 
 > Maybe I'm wrong, but a vegetarian diet this far north of the Equator doesn't seem natural in the winter months. If I was passionate about following a meat-free diet, I would move south to area where fruits and vegetables grow year round. I don't feel comfortable buying supplements and having my food flown in thousands of miles when I have access to locally produced meat and seafood of high quality. Maybe a seasonal vegetarian approach might be worth looking into? Be a vegetarian during the part of the year when we get sunshine and plenty of Vitamin D and then be more of an omnivore the rest of the year.
 
 
-### ![snow-Seattle](./img/snow-Seattle.jpg)
+### ![snow-Seattle](/2012/09/i-thought-you-were-a-vegetarian/img/snow-Seattle.jpg)
 
 
 _This was Seattle on January 18, 2012. Let's go hunting...for broccoli?_ 

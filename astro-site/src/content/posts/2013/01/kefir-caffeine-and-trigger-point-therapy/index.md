@@ -21,7 +21,7 @@ Then a friend of mine started making kefir. He offered grains to me. My initial 
 
 The interesting thing I've noticed in the last month is that I may have gained some muscle. This was unexpected, as my workouts have not been that intense recently. I've often read how milk is anabolic, but I haven't really drunk much since I was a child. Kefir should be equally anabolic. Who knows? I'll keep drinking it.
 
-![](./img/milk-kefir.jpg "milk-kefir")
+![](/2013/01/kefir-caffeine-and-trigger-point-therapy/img/milk-kefir.jpg "milk-kefir")
 
 
 ### Caffeine Might Be Making Me Jittery

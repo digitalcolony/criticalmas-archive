@@ -11,7 +11,7 @@ commentCount: 2
 
 Yeah, home prices are falling. That is old news. I'm more interested in what is going on in the rental market. When I went looking for a rental unit back in May, there was little offered and the prices were somewhat higher than I would have liked.
 
-![](./img/for-rent-sign.jpg)
+![](/2008/11/the-softening-seattle-rental-market/img/for-rent-sign.jpg)
 
 _Photo For Rent - Reduced??!! by Flickr user Kelly Sims_
 

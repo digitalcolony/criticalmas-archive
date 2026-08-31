@@ -16,7 +16,7 @@ Then I lost my way. I became impatient.
 
 Instead of waiting for the next bubble, I started betting against the bounce before the markets even had a chance to get overvalued. I failed to recognize just how far the Federal Reserve would go to pump up equities by destroying bond yields. Once the bailouts and aggressive monetary easing started, there was no putting the genie back in the bottle. At any hint of a market correction, a new tool would be announced and the markets would shoot up higher.
 
-![currency](./img/540936323_fc59ef2ce2_z.jpg)
+![currency](/2014/06/forgetting-type-investor/img/540936323_fc59ef2ce2_z.jpg)
 
 _[Money](https://www.flickr.com/photos/thomashawk/540936323/) by Thomas Hawk_
 

@@ -17,7 +17,7 @@ The short answer is that dropping from a high level of histamines to almost none
 
 As you can see from the table, the Low Histamine Diet had no effect. May 2013 was included to measure any seasonal differences. The good news for me is that my kimchi and kefir have no correlation to my headaches. The bad news is that coffee is likely the remaining cause, although it isn't nearly as strong of a trigger as gluten or alcohol.
 
-![kimchi ](./img/kimchi600.jpg)
+![kimchi ](/2013/08/results-from-the-low-histamine-diet/img/kimchi600.jpg)
 
 _kimchi_
 

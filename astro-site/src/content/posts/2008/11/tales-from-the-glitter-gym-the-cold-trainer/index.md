@@ -23,6 +23,6 @@ In my head I named him _The Cold Trainer_. I would get joy going into the gym we
 
 This week I learned his deep dark secret. His client had to go move his car and this left _The Cold Trainer_ alone for a few minutes. The free weight room was almost empty. _The Cold Trainer_ took off his jacket and did a few reps. And then everything made sense. This guy had the physique of Hank Hill from the cartoon King of the Hill. He had stick arms and a distended belly. This guy made a living telling others what they need to do to get fit, yet he was less fit than most of his clients. And they are 20-30 years older than him. He quickly put his jacket back on before his client returned.
 
-![](./img/hank-hill.jpg "hank-hill")
+![](/2008/11/tales-from-the-glitter-gym-the-cold-trainer/img/hank-hill.jpg "hank-hill")
 
 I have renamed _The Cold Trainer_. His new name is Hank Hill.

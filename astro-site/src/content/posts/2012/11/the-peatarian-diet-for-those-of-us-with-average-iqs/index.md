@@ -43,7 +43,7 @@ Besides their love of ice cream, one of the things I really like about the Peat 
 
 I love this. Traditional cultures unknowingly knew how to properly use the entire animal to the benefit of their thyroid.
 
-![beef-stock](./img/beef-stock.jpg)
+![beef-stock](/2012/11/the-peatarian-diet-for-those-of-us-with-average-iqs/img/beef-stock.jpg)
 
 _3 jars of [beef bone stock](/2011/04/homemade-beef-broth/)_
 

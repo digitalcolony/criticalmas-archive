@@ -19,7 +19,7 @@ The dead lift is the single best exercise one can do. I had years of experience 
 4.  **Strength Imbalance** - In the last 2 months, I have discovered a major strength imbalance. Over the years, my left leg has gotten much weaker in relation to my right leg. Compound movements are great for overall fitness, but they can sometimes disguise imbalances until it is too late.
 5.  **Form Change** - The dead lift is like mountain climbing. Most of the injuries happen on the descent. In EVERY OTHER exercise, you want a controlled descent. If you try and control the descent of a dead lift too slowly it will pull your back out of position. This is especially true for a taller person. By the time the weights are by the knees, the weights should (almost) be dropped. This is fine if you have a home gym, but slamming weights down will get you thrown out of a Glitter Gym. When I started lifting at the Glitter Gym, my safe (and loud) dead lift descent was replaced by a slower and less safe descent.
 
-![mas-deadlift](./img/mas-deadlift.jpg) _Me dead lifting with no shoes in July 2002._
+![mas-deadlift](/2009/02/flashbacks-on-a-dead-lift-gone-wrong/img/mas-deadlift.jpg) _Me dead lifting with no shoes in July 2002._
 
 I now think I know exactly what went wrong on April 7, 2007.
 

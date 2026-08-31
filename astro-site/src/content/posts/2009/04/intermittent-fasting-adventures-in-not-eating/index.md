@@ -30,7 +30,7 @@ By all accounts I should have gained fat this winter. For a large chunk of Decem
 
 During IF, I was able to lift weights and go on urban hikes of [12](/2009/03/urban-hike-magnolia-edition/), [15](/2008/12/another-snow-storm-another-urban-hike/), [16](/2008/12/urban-hike-seattle-snow-edition/) and even [22.5](/2009/02/urban-hike-seattle-225-mile-edition/) miles. My energy level was higher than I imagined. No _Cliff Bar_ needed.
 
-![urban-hike](./img/urban-hike.jpg)
+![urban-hike](/2009/04/intermittent-fasting-adventures-in-not-eating/img/urban-hike.jpg)
 
 I consider IF to be amazing success if for no other reason, I am no longer a slave to eating by the clock. If I come across poor food options, I can now choose to eat nothing. Hunger is now an acceptable feeling. Because I am now comfortable being hungry, I am longer pressured to eat fast. Taking the time to prepare a healthy meal even if it means waiting another hour is no longer a dilemma.
 

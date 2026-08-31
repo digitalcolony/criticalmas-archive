@@ -17,7 +17,7 @@ I began Duolingo on May 5, 2015, and have been using it almost every day. On two
 
 My first fluency estimate came in at 6% on September 5, 2015, which was 143 days after starting. It may have been a new feature then, so I'm not sure if it really took me that many days to reach 6%.
 
-![](./img/duolingo-fluency.png)
+![](/2017/01/duolingo-fluency-estimates-data/img/duolingo-fluency.png)
 
 _Duolingo Fluency in Spanish (September 5, 2015 - December 23, 2016)_
 
@@ -39,7 +39,7 @@ Today I decided to quit Duolingo when I hit my 400-day streak next week. I woul
 
 If I ever decide to pick up a different language I'll likely do a jump start of 200 days or so with Duolingo, but not as much as I did for Spanish. Until then, I'll be over on Memrise. Follow me [here](http://www.memrise.com/user/digitalcolony/) if you join.
 
-![](./img/31852754965_e02d743ed5_o.png)
+![](/2017/01/duolingo-fluency-estimates-data/img/31852754965_e02d743ed5_o.png)
 
 _**UPDATE:** I've decided not to quit as the new chatbots are providing value._
 

@@ -17,7 +17,7 @@ In the previous post [Distraction Diet 3](/2012/05/distraction-diet-3/), I menti
 
 NZT-48 is the drug taken by the main character in the movie _Limitless_. This fictional nootropic drug allowed the character to access 100% of his brain and accomplish amazing things in a short period of time. Of course, I'm not saying that L-Tyrosine is literally that powerful, but for me, it has had noticeable and predictable cognitive benefits.
 
-![](./img/nzt-limitless.jpg "NZT-48")
+![](/2012/05/l-tyrosine-is-my-nzt-48/img/nzt-limitless.jpg "NZT-48")
 
 _Limitless (AMAZON USA)_
 

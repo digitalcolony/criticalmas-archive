@@ -63,4 +63,4 @@ _UPDATE 2024: I abandoned the CoffeeClub.app project._
 
 [Miami Herald Covers the Neil Rogers Audio Recovery Project](https://neilrogers.org/miami-herald-covers-the-neil-rogers-audio-recovery-project/) - the Miami Herald interviewed me about the radio archive project I began in 2011.
 
-![No MAS!](./img/299879376_FJu7i-S.jpg)
+![No MAS!](/2018/06/mas-mas-1/img/299879376_FJu7i-S.jpg)

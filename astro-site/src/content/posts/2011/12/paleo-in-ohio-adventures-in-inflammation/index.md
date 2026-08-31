@@ -49,7 +49,7 @@ The real evil, which is the highly inflammatory vegetable oils are everywhere. I
 
 I dodged gluten like Neo from the Matrix, but it was everywhere. Far more than I expected. It seemed Ohio was just beginning to hear about the damage caused by wheat. On the [Kbler-Ross model](https://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model), Ohio is still mainly in the _Denial_ phase when it comes to the damage caused by gluten. Through great effort, I was able to dodge gluten right up until my last full day. Then I got nailed with an Asian salad. I looked closely at it and did not see the broken-up Ramen noodles in it. Only after finishing a sizable portion did I learn they were in the dish. The dried cranberries masked their taste. My stomach hurt and I had a splitting headache that lasted all night long.
 
-![Dodging Gluten in Ohio](./img/matrix-neo-dodge-bullet.jpg "Dodging Gluten in Ohio")
+![Dodging Gluten in Ohio](/2011/12/paleo-in-ohio-adventures-in-inflammation/img/matrix-neo-dodge-bullet.jpg "Dodging Gluten in Ohio")
 
 _Dodging Gluten in Ohio_
 

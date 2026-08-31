@@ -39,7 +39,7 @@ Although I did [learn some things during my coffee detox](/2011/09/what-i-learne
 
 The more I restrict my movement, the worse I feel. Since I live in the modern world and push pixels all day, I need to figure out a way to incorporate more varied movements in my life. I don't have a sport or kids to play with, so this will be a challenge to make part of a daily habit.
 
-![Michael in the box](./img/michael_in_box2.jpg "Michael in the box")
+![Michael in the box](/2011/10/health-goals-late-2011-edition/img/michael_in_box2.jpg "Michael in the box")
 
 _Back when my movement was more varied._
 

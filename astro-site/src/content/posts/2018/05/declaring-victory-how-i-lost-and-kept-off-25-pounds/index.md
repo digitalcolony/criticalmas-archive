@@ -42,7 +42,7 @@ Why did I wait so long before declaring victory? A few reasons:
 
 I know that thousands of people have read my various posts on the Peasant Diet and the Potato Hack and it is likely that I inspired a few people and hopefully they are having success. If you are, leave a comment. May your success inspire others.
 
-![victory](./img/japheth-mast-victory.jpg)
+![victory](/2018/05/declaring-victory-how-i-lost-and-kept-off-25-pounds/img/japheth-mast-victory.jpg)
 
 _Photo by [Japheth Mast](https://unsplash.com/@japhethmast)_
 

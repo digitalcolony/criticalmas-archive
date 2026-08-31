@@ -22,7 +22,7 @@ Duolingo is where you start. It is fun and easy to get started. The app has cont
 
 I win most of the weeks in my Spanish Club and my current streak is at 1205 days. I use the FREE version of the app.
 
-![](./img/duolingo.jpg)
+![](/2019/03/my-review-of-the-spanish-learning-apps-2019/img/duolingo.jpg)
 
 
 ### ✅ Memrise
@@ -45,7 +45,7 @@ Memrise is better than Tinycards, which is Duolingo's flashcard vocabulary build
 
 I use the SpanishDict app every day. This dictionary is a paid app. Totally worth it. You learn the meanings of a word with examples and pronunciation. If the word is a verb, the conjugation is included. Irregular verbs have the irregular portion of the stems in a red font.
 
-![spanish Dict](./img/spanishDict.jpg)
+![spanish Dict](/2019/03/my-review-of-the-spanish-learning-apps-2019/img/spanishDict.jpg)
 
 
 ### ✅ Clozemaster
@@ -58,7 +58,7 @@ This is an outstanding program. They take a sentence and remove a word. You ente
 
 I don't think Clozemaster is ideal for beginners. Once you have learned enough of the basics on Duolingo and Memrise, install it.
 
-![clozemaster](./img/clozemaster.jpg)
+![clozemaster](/2019/03/my-review-of-the-spanish-learning-apps-2019/img/clozemaster.jpg)
 
 
 ### ✅ Google Translate

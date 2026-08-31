@@ -15,18 +15,18 @@ The photo gallery I created is quite extensive at 467 photos.The morning sun was
 
 If you find yourself in Southeast Asia, you must visit.
 
-![angkor-wat-1](./img/angkor-wat-1.jpg)
+![angkor-wat-1](/2009/12/angkor-wat-siem-reap-cambodia/img/angkor-wat-1.jpg)
 
 Here I am outside the temple door that was in the movie Laura Croft Tomb Raider.
 
-![angkor-wat-2](./img/angkor-wat-2.jpg)
+![angkor-wat-2](/2009/12/angkor-wat-siem-reap-cambodia/img/angkor-wat-2.jpg)
 
-![angkor-wat-3](./img/angkor-wat-3.jpg)
+![angkor-wat-3](/2009/12/angkor-wat-siem-reap-cambodia/img/angkor-wat-3.jpg)
 
-![angkor-wat-4](./img/angkor-wat-4.jpg)
+![angkor-wat-4](/2009/12/angkor-wat-siem-reap-cambodia/img/angkor-wat-4.jpg)
 
-![angkor-wat-5](./img/angkor-wat-5.jpg)
+![angkor-wat-5](/2009/12/angkor-wat-siem-reap-cambodia/img/angkor-wat-5.jpg)
 
-![angkor-wat-6](./img/angkor-wat-6.jpg)
+![angkor-wat-6](/2009/12/angkor-wat-siem-reap-cambodia/img/angkor-wat-6.jpg)
 
 [Photo Gallery for Angkor Wat - Siem Reap, Cambodia](https://www.flickr.com/photos/129592470@N02/sets/72157647793375104/)

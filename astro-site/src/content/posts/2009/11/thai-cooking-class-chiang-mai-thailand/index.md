@@ -13,13 +13,13 @@ Besides [riding elephants](/2009/11/elephant-training-in-chiang-mai-thailand/) a
 
 The day started out with a trip to the market. There wemet up with our instructor and got an introudction to curry and rice. We also and saw a machine used to extract coconut cream and milk. Then we drove out to the Thai cooking school, which was on an organic farm. Our instructor walked us around the garden and showed us the different plants that we would be adding to our Thai cooking.
 
-![thaicooking-class-1](./img/thaicooking-class-1.jpg)
+![thaicooking-class-1](/2009/11/thai-cooking-class-chiang-mai-thailand/img/thaicooking-class-1.jpg)
 
-![thaicooking-class-2](./img/thaicooking-class-2.jpg)
+![thaicooking-class-2](/2009/11/thai-cooking-class-chiang-mai-thailand/img/thaicooking-class-2.jpg)
 
 The Thai cooking class was a 6 course event. We made our own curry paste and then a dish using that curry. In addition, we made a soup and astir fry. The class had a choice between pad thai and spring rolls. I picked pad thai. We finished with a desert (pumpkin soup for me).
 
-![thaicooking-class-3](./img/thaicooking-class-3.jpg)
+![thaicooking-class-3](/2009/11/thai-cooking-class-chiang-mai-thailand/img/thaicooking-class-3.jpg)
 
 I highly recommend the Thai Cooking Class. It was fun and we got to eat our own cooking. We even had leftovers to takehome.
 

@@ -34,7 +34,7 @@ The big takeaway lesson that took me more than a decade to learn is assuming tha
 
 Today, I am down to 185. More on that in a future post. But unlike in 2012, I am no longer swimming in clothes that are 2 sizes too big. I'm wearing clothes that fit. As a result, I don't look gaunt or sickly. And I'm not the slightest bit stressed that I've gotten too thin.
 
-![tape measure](./img/tape-measure.jpg)
+![tape measure](/2020/01/you-look-too-thin/img/tape-measure.jpg)
 
 _Photo by_ [_Siora Photography_](https://unsplash.com/@siora18?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

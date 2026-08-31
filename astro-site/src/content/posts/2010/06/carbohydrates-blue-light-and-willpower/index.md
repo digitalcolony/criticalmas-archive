@@ -23,7 +23,7 @@ The main driver for this process is daylight. More specifically, blue light. Lon
 
 This process worked well until the invention of artificial lighting. Artificial lighting also has a blue light and blue light suppresses melatonin. Melatonin not only helps us sleep and is a powerful antioxidant, but it also helps us control our appetite for carbohydrates. Modern man has fooled our receptors into believing it is now summer all year long.
 
-![tired-man-at-desk-at-night](./img/tired-man-at-desk-at-night.jpg)
+![tired-man-at-desk-at-night](/2010/06/carbohydrates-blue-light-and-willpower/img/tired-man-at-desk-at-night.jpg)
 
 _A man bathed in blue light suppresses his melatonin levels, which increases his appetite for carbohydrates. Years of doing this can lead to obesity and a host of other health problems. Sleep is not the enemy._
 

@@ -11,7 +11,7 @@ commentCount: 9
 
 One of the jobs I had in college was [loading trucks for UPS](/2009/04/autophagy-and-loading-trucks-for-ups/). It was the most exhausting job I've ever had. It made [Army Basic Training](/2008/04/military-mas/) seem like working at a library. One night I came home so worn out that I couldn't even turn to my side to go to sleep. After an entire childhood as a side sleeper, I became a back sleeper. And until recently I remained a back sleeper.
 
-![](./img/baby-mas-sleep.jpg "baby-mas-sleep")
+![](/2012/03/hunting-headaches-side-sleep/img/baby-mas-sleep.jpg "baby-mas-sleep")
 
 _Me as side sleeper (2 days old)_
 

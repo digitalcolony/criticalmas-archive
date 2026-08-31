@@ -27,7 +27,7 @@ The lesson I walked away with is eating too clean can make you less resilient. O
 
 If the words of the great Ronnie Coleman: **_Ain't nothin but a peanut!_**
 
-![ronnie-coleman](./img/ronnie-coleman.jpg)
+![ronnie-coleman](/2015/02/peanuts-and-resiliency/img/ronnie-coleman.jpg)
 
 _[Ronnie Coleman](https://flic.kr/p/8EPTit) by A Scott_
 

@@ -21,7 +21,7 @@ I could spend paragraphs going through all the false assumptions, but instead, I
 
 Now I have come to believe that the quest to get stronger using classic definitions of strength is a major factor in limiting the muscular potential of ectomorphs. But I am getting ahead of myself.
 
-![MAS Flex](./img/mas_flex500.jpg)
+![MAS Flex](/2013/05/never-forget-that-size-is-the-prize/img/mas_flex500.jpg)
 
 
 ### Come for the Muscle, Stay For "the Strength"

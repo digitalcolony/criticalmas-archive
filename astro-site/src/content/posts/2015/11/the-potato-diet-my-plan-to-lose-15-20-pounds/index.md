@@ -28,7 +28,7 @@ Shortly after the two-day experiment, I planned to start The Potato Diet, but I 
 Continue with 3x a week until your goal is met and then scale to a maintenance plan. Discontinue or scale back if I experience excessive lethargy or coldness. If after a month I fail to see at least a 5# lose, I will reassess.
 
 
-![potatoes](./img/potatoes-1.jpg)
+![potatoes](/2015/11/the-potato-diet-my-plan-to-lose-15-20-pounds/img/potatoes-1.jpg)
 
 I will be boiling white potatoes and be consuming them cold. No salt, spices, or anything. If the diet is successful and I use the Potato Diet as a maintenance tool, I might add salt or spices at that time.
 

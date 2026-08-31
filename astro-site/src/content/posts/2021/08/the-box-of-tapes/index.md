@@ -21,11 +21,11 @@ Then I received an email earlier this year from someone claiming to have older t
 
 A few weeks later, a package arrived in the mail. There were 47 tapes in the box. Some were 60 minutes, but most were 90-minute cassettes. I went to work immediately. First was taking the cassette and getting it to digital format using the converter and Audacity. Then came the hard part. Going through each tape to determine the show date. Most of the tapes spanned shows from different dates.
 
-![casette to mp3](./img/51278912403_7522c504b7_c-e1628901359515.jpg)
+![casette to mp3](/2021/08/the-box-of-tapes/img/51278912403_7522c504b7_c-e1628901359515.jpg)
 
 Dating shows is a challenge. I would listen for sports scores or references to an article in the newspaper. One show I dated based on the description of what happened on the [previous episode of Knots Landing](https://en.wikipedia.org/wiki/List_of_Knots_Landing_episodes#Season_13_\(1991%E2%80%9392\)). The shows were from 1988-1993, with one show from 1998. I was able to recruit one volunteer to help me with dating the shows.
 
-![box of tapes](./img/51288954852_0169fb7480_o-scaled-e1628901220850.jpg)
+![box of tapes](/2021/08/the-box-of-tapes/img/51288954852_0169fb7480_o-scaled-e1628901220850.jpg)
 
 Once the shows were dated, I sometimes had to merge and rearrange the MP3 clips. The shows were added to the [main spreadsheet](https://en.wikipedia.org/wiki/List_of_Knots_Landing_episodes#Season_13_\(1991%E2%80%9392\)) and uploaded to [Archive.org](https://archive.org/details/@neil_rogers_radio) and OneDrive. At that point, I made a video for each show and uploaded it to [YouTube](https://www.youtube.com/c/NeilRogersRadio). I have it set on YouTube so two shows will go out each week through mid-January 2022.
 

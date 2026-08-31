@@ -13,7 +13,7 @@ I've noticed over the past few years that whenever a barrel of oil hits a new pr
 
 After seeing this pattern play out over and over, I decided to make some money on it. The last three times I saw the oil headline on Drudge, I bought shares of DCR. DCR MACROSHARES OIL DOWN is an ETF that makes money as oil falls in price. I set a goal of 5-10% gains with a 2 week holding limit. As soon at it hits, I sell the shares.
 
-[![](./img/drudge250.jpg "drudge250")](./img/drudge250.jpg)
+[![](/2008/01/my-drudge-report-oil-short-investment-tip/img/drudge250.jpg "drudge250")](./img/drudge250.jpg)
 
 Yesterday when Matt Drudge threw out the $100 oil siren, DCR traded at $9.65. Oil immediately fell in price and now DCR is trading at $10.45. That is a 7.7% return one trading day later. And I'm $500 closer to retirement. Rinse and repeat.
 

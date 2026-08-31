@@ -24,7 +24,7 @@ If you are a woman or know a woman that has tried to expand their cold temperatu
 
 I'd hate to recommend my protocol to women if there is little chance it will work for them.
 
-![ice cold](./img/dion-tavenier-640.jpg)
+![ice cold](/2017/09/cold-weather-exposure-work-females/img/dion-tavenier-640.jpg)
 
 _Photo by_ _Dion Tavenier_
 

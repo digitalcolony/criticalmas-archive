@@ -11,7 +11,7 @@ commentCount: 0
 
 Earlier this week I found this statue hidden up off street level in the lower part of Belltown. Considering I've walked past this area several times before and never noticed it, I'd consider it hidden. While researching this post, I discovered it called _Runners_ and was done by David Govedare.
 
-![runners-statue-belltown](./img/runners-statue-belltown.jpg)
+![runners-statue-belltown](/2009/05/runners-statue-hidden-in-belltown/img/runners-statue-belltown.jpg)
 
 The best part of this statue was finding this rant in the local newspaper called [The Worst of the Worst](https://web.archive.org/web/20090519020803/http://blog.seattlepi.com:80/art/archives/119758.asp) by Regina Hackett. She really dislikes the statue and lays into it.
 
@@ -21,7 +21,7 @@ The best part of this statue was finding this rant in the local newspaper called
 
 I like her writing. I actually like it more than the statue, but don't many runners have that _morgue_ look? By runners I mean long distance, not sprinters. Look at the photo below
 
-![marathon-1992](./img/marathon-1992.jpg)
+![marathon-1992](/2009/05/runners-statue-hidden-in-belltown/img/marathon-1992.jpg)
 
 _Dead Man Running - That's me in the green shorts [Columbus Marathon 1992](/2008/03/the-runner-1989-1995/)_
 

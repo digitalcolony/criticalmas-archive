@@ -10,7 +10,7 @@ commentCount: 2
 
 Well, not a huge mistake, but for me, a serious mistake.
 
-![I've made a huge mistake](./img/huge-mistake.jpg)
+![I've made a huge mistake](/2019/08/ive-made-a-huge-mistake/img/huge-mistake.jpg)
 
 In May 2018, I sold the original domain for this blog (criticalmas.com) and set up shop here at criticalmas.org. At that time, I updated all my links and then [requested that others do as well](/2018/05/criticalmas-org-is-my-new-home-i-need-to-ask-a-favor/).
 

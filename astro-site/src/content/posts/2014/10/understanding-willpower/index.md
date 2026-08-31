@@ -41,7 +41,7 @@ One of the best ways to slow down is meditation. Meditation strengthens the pref
 
 Going outdoors for a few minutes or lying down for 10 minutes are other methods for increasing willpower. In each case, you are removing yourself from responding to distractions in a Fight or Flight manner and letting Pause and Plan work for you.
 
-![distraction](./img/6875893248_07146d1191_z.jpg)
+![distraction](/2014/10/understanding-willpower/img/6875893248_07146d1191_z.jpg)
 
 _Photo by Birger King (account no longer active on Flickr)_
 

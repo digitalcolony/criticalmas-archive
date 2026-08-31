@@ -23,7 +23,7 @@ I continued doing a yoga workout every single morning. I also substituted pilate
 
 My injury this year was "turf toe", which I got from doing a yoga toe stretch. It is the pose where you are sitting back on your glutes, which are resting on your heels. This stretches the toes.
 
-![](./img/toe-stretch-turf-toe.jpg)
+![](/2022/12/my-fitness-results-2022/img/toe-stretch-turf-toe.jpg)
 
 I did a routine where this stretch was held for about 40 seconds. If you are a 100-pound pixie yoga girl, that is probably fine. If you are a 6' 2+ dude weighing 180, maybe 40 seconds is too much for a beginner?
 

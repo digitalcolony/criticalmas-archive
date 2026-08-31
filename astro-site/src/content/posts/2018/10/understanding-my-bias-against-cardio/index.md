@@ -77,7 +77,7 @@ If I get knee pain running, that doesn't mean cardio is bad. That form of cardio
 
 It all comes down to one question. Does cardiovascular training provide unique health benefits that can not be achieved except through cardiovascular training? I used to be certain the answer was no. Now that belief has been rattled. I'll share what I discovered in the [next post](/2018/10/searching-for-the-cardio-code/).
 
-![running](./img/bruno-nascimento-running.jpg)
+![running](/2018/10/understanding-my-bias-against-cardio/img/bruno-nascimento-running.jpg)
 
 _Photo by [Bruno Nascimento](https://unsplash.com/@bruno_nascimento)_
 

@@ -40,7 +40,7 @@ This week my plan was to cook up beef liver with a side of asparagus, but I real
 10.  Cook until done.
 11.  Serve.
 
-![beef-liver](./img/beef-liver.jpg)
+![beef-liver](/2012/02/beef-liver-asparagus-garlic/img/beef-liver.jpg)
 
 
 #### Quick notes

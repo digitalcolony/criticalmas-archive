@@ -17,7 +17,7 @@ In the post I did last year, I assumed because I was an ectomorph that I was gen
 > 
 > Since last August, I assumed I was in this camp and have reduced my intensity. Well, maybe it is time to turn back up the intensity, because I have one copy of the alpha-actinin-3 gene! Did not see that one coming.
 
-![](./img/23-muscle.png)
+![](/2013/08/is-high-intensity-training-best-for-ectomorphs-part-2/img/23-muscle.png)
 
 
 ### The Last Year

@@ -41,7 +41,7 @@ NEW: https://criticalmas**.org**/2018/04/dieting-and-detoxification/
 
 If you use WordPress, there are Search and Replace plugins to help you.
 
-![search and replace plugin](./img/search-and-replace.jpg)
+![search and replace plugin](/2018/05/criticalmas-org-is-my-new-home-i-need-to-ask-a-favor/img/search-and-replace.jpg)
 
 _[Search and Replace Plugin](https://wordpress.org/plugins/search-and-replace/) - Look for the posts and comments table. Either wp\_posts or whatever prefix you use followed by \_posts. Same for comments. Look for wp\_comments or whatever prefix you use followed by \_comments. Uncheck Dry Run and then choose "Save changes to Database"._  
 

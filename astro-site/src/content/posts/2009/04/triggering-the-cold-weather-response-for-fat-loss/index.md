@@ -24,6 +24,6 @@ This problem is easily solved. At the end of your shower, turn the temperature d
 
 This isn't medical advice and it may or may not help you lose a few pounds of fat. The studies published yesterday are encouraging though.
 
-![cold-shower](./img/cold-shower.jpg)
+![cold-shower](/2009/04/triggering-the-cold-weather-response-for-fat-loss/img/cold-shower.jpg)
 
 _Photo by Kelly Teague_

@@ -19,7 +19,7 @@ For over a year I complained about the temperature and my request was ignored. I
 
 The other patrons and most of the staff falsely believe that their breaking a sweat is an indicator of the quality of their workout. The reality is one could break a sweat tying their shoe at that gym. In today's Glitter Gym one no longer needs to _work up a sweat_ - it is done for them. And that is why I left.
 
-![](./img/park-gym.jpg)
+![](/2013/11/stepping-away-glitter/img/park-gym.jpg)
 
 
 ### Returning to HillFit

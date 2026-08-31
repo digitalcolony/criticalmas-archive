@@ -13,7 +13,7 @@ Last November, I outlined the Peasant Diet in the post [Designing a Modern Peasa
 
 This false belief on metabolism led me to create [The POWS Food Pyramid](/2017/01/pows-food-pyramid/). I still think this is a solid food pyramid for healthy eating on a budget, but I was getting too many calories from the World Cuisine tier. Not enough to gain weight, but too many for the Peasant tier and Bodybuilder tier to take me into a caloric deficit.
 
-![](./img/floating-village-4.jpg)
+![](/2017/09/used-peasant-diet-lean/img/floating-village-4.jpg)
 
 _[Siem Reap, Cambodia](/2009/12/floating-village-siem-reap-cambodia/)_
 

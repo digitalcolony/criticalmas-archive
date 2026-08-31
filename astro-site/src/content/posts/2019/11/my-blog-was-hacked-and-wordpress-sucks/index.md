@@ -28,7 +28,7 @@ The reason I am still using WordPress is that it is still the best choice for me
 
 At some point next year, I hope to move this site to a static front end and only use WordPress on the backend. And then the blog and Wordpress will be on two different servers and free from all these headaches. That technology is called Gatsby and is evolving quickly. I'm waiting for more progress to be made before I switch over. It would probably mean ditching WordPress comments and using Disqus, which I do not want to do, but it might be the lesser of two evils at this point.
 
-![blog sign](./img/5053496835_1146cea386_z.jpg)
+![blog sign](/2019/11/my-blog-was-hacked-and-wordpress-sucks/img/5053496835_1146cea386_z.jpg)
 
 ---
 

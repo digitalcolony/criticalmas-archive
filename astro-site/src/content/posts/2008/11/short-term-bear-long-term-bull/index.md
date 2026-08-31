@@ -19,7 +19,7 @@ My basic thesis is politicians create problems and engineers solve them. History
 
 Let us use WW2 as an example. The Problem is that pesky Hitler is running around Europe causing problems. Politicians failed in their task to both prevent a war and to make sure we were adequately prepared for war should one start. The Solution wasn't _really_ strong leadership. It was engineers cracking codes, massive improvements in aviation and the atom bomb. The Benefit was peace in Europe, which led us to the next Problem of the Cold War.
 
-![](./img/inventors.jpg)
+![](/2008/11/short-term-bear-long-term-bull/img/inventors.jpg)
 
 _Photo [Inventors Bell and Edison](http://flickr.com/photos/44124324682@N01/174088/) by Flickr user mharrsch_
 

@@ -23,7 +23,7 @@ I added that to the pork and mixed it up. Then I added some chicken stock and co
 
 For an improvised version one, I'm quite proud of myself. And I was able to avoid vinegar and stay low histamine.
 
-![slow-cooked-pork](./img/slow-cooked-pork.jpg)
+![slow-cooked-pork](/2012/06/an-asian-alternative-to-slow-cooked-pork/img/slow-cooked-pork.jpg)
 
 _Asian style cook slowed pork_
 

@@ -15,13 +15,13 @@ I guess that depends on what you consider the long term.
 
 Before anyone _invests_ in the stock market, they should look at two charts. One chart shows a secular bull market. Look at the DJIA (Dow Jones) chart from 1982 - 2000.
 
-![1982-2000](./img/1982-2000.jpg)
+![1982-2000](/2008/03/investing-in-stocks-for-the-long-term/img/1982-2000.jpg)
 
 It is a beautiful chart. You've probably seen it before. This is the case for buying equities. Stocks moved from being way undervalued to way overvalued. Everyone was making money.
 
 The second is chart is what happened just prior to the above chart. It is the DJIA from 1964 to 1982. During this period stocks moved from being overvalued to undervalued. This is a secular bear market. Prices move in a choppy pattern and after many heart-wrenching years, ended up back where they started. Add inflation and lost investment opportunities and you can see the damage caused by a bear market.
 
-![1964-1982](./img/1964-1982.jpg)
+![1964-1982](/2008/03/investing-in-stocks-for-the-long-term/img/1964-1982.jpg)
 
 Fast forward to the present. Are we in a secular bear market now that started in 2000? Or are we in a secular bull market that started in 2003? Or maybe all this history is just noise and everything is different this time?
 

@@ -13,11 +13,11 @@ On a whim I decided to get my haircut exactly like the guy beside me at the barb
 
 Then I noticed something interesting. People started acting more polite to me. Everyone started calling me sir and holding doors open for me. My guess is they thought I was a returning war hero. I'm not going to correct them.
 
-[![](./img/haircut400.jpg "marine haircut")](./img/haircut400.jpg)
+[![](/2007/02/the-marine-haircut/img/haircut400.jpg "marine haircut")](./img/haircut400.jpg)
 
 I don't think Clinton would refer to me as _[man](/2006/09/the-presidential-motorcade/)_ today.
 
-![mas-clinton](./img/mas-clinton.jpg)
+![mas-clinton](/2007/02/the-marine-haircut/img/mas-clinton.jpg)
 
 ---
 

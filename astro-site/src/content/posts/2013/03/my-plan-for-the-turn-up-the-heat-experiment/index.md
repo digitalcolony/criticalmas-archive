@@ -39,7 +39,7 @@ About two weeks ago, I stopped eating nuts and seeds. To replace calories, I've 
 
 The third possibility is that my body type is more of a factor in lower temperatures than what I eat or drink. I reached out to Matt Stone on Twitter with that question.
 
-[![body-type-temps](./img/body-type-temps.png)](./img/body-type-temps.png)
+[![body-type-temps](/2013/03/my-plan-for-the-turn-up-the-heat-experiment/img/body-type-temps.png)](./img/body-type-temps.png)
 
 Those are the most likely reasons for having a lower temperature. Reasons that don't apply to me are yo-yo dieting, carb restriction, or excessive exercise. I've never counted calories or carbs. And although I've done experiments with low carb, I've always cycled in higher carb days, plus my cold hands have been around a long time before I ever restricted carbs. As for exercise, I pride myself on [not having broken a sweat exercising](/2012/09/less-exercise-equals-more-fat-loss-of-course-it-does/) since leaving sunny San Diego in 2007.
 

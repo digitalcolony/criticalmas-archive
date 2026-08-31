@@ -63,7 +63,7 @@ But how? For that part of the puzzle, I found this explanation in a [post by Tom
 
 Peat's article also goes into how PUFA increases estrogen levels which can lower body temperature. The site Functional Performance Systems has a page on that [very topic](https://www.functionalps.com/blog/2012/02/22/pufa-increases-estrogen/).
 
-![Corn Oil Margarine](./img/corn-oil-trim.jpg)
+![Corn Oil Margarine](/2013/11/problem-pufa/img/corn-oil-trim.jpg)
 
 _[Photo](http://www.flickr.com/photos/28761247@N04/8285213173/) by 1950sUnlimited. Full image on Flickr._ 
 

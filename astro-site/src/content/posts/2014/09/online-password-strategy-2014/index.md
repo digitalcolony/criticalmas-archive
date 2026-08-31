@@ -17,7 +17,7 @@ I used to have a "tough" password for important sites and an "easy" password fo
 
 Wikipedia has a good page on [password strength](https://en.wikipedia.org/wiki/Password_strength) and [password cracking](https://en.wikipedia.org/wiki/Password_cracking).
 
-![locks](./img/8272496548_2cf92bdb48_z.jpg)
+![locks](/2014/09/online-password-strategy-2014/img/8272496548_2cf92bdb48_z.jpg)
 
 _[Photo](https://flic.kr/p/dB1H1Q) by Nathan Meijer_
 

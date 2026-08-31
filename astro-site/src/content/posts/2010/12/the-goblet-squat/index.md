@@ -19,7 +19,7 @@ This exercise is a full body compound movement and can easily be done at home. N
 
 I've being doing the Goblet Squat for over a month now. It feels better on my back than a traditional or front barbell squat and I can use a lower weight to get the same intensity level.
 
-![goblet-squat](./img/goblet-squat.jpg)
+![goblet-squat](/2010/12/the-goblet-squat/img/goblet-squat.jpg)
 
 _Photo by US Army Central_
 

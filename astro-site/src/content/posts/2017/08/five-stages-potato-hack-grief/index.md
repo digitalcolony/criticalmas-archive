@@ -15,7 +15,7 @@ Yesterday I was thinking about all my conversations with people in the past two 
 
 With the Potato Hack, most people never make it through all the stages. They get stuck. This is unfortunate because the Potato Hack is extremely powerful.
 
-![5](./img/5.jpg)
+![5](/2017/08/five-stages-potato-hack-grief/img/5.jpg)
 
 _I took this photo at a Portland coffee shop in 2010._
 
@@ -59,7 +59,7 @@ A small minority will make it to the Acceptance stage. They know the Potato Hack
 
 During the Potato Hack, they will probably lose a few pounds, but even more, they will learn about themselves and their relationship to food and flavors in a hypercaloric environment. They will grow from the experience.
 
-![Potato Hack Diet book](./img/potato-hack-diet.jpg)
+![Potato Hack Diet book](/2017/08/five-stages-potato-hack-grief/img/potato-hack-diet.jpg)
 
 _Potato Hack: Weight Loss Simplified_
 

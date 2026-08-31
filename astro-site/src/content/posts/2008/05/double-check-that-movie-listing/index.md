@@ -11,7 +11,7 @@ commentCount: 2
 
 Before you head out to see _Indiana Jones 4_, make sure you've read the listing correctly. I'd hate to see you end up at the wrong theater. :)
 
-![indiana-moans](./img/indiana-moans.jpg)
+![indiana-moans](/2008/05/double-check-that-movie-listing/img/indiana-moans.jpg)
 
 Photo taken near Pike Place Market in downtown Seattle.
 

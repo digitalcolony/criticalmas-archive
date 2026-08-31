@@ -13,7 +13,7 @@ My return to the Glitter Gym has already yielded a new tale. This happened last 
 
 Bench #1 had a towel on it. I noticed it when I entered the gym. This is usually a sign that someone is doing some circuit, getting a drink of water or [talking up some lady](/2008/07/tales-from-the-glitter-gym-the-pick-up/). So I headed over to Bench #2, but a fat guy got there first. **Then he proceeded to use the bench to do sit ups!** There are 1,000 possible places to do sit-ups. He picked the only available flat bench in the gym. Below is a stunningly beautiful drawing of the stupidity I witnessed.
 
-![sit-up-fool](./img/sit-up-fool.jpg "sit-up-fool")
+![sit-up-fool](/2009/06/tales-from-the-glitter-gym-mr-sit-up/img/sit-up-fool.jpg "sit-up-fool")
 
 What is it with fat guys and sit-ups? You can not spot reduce a big belly with crunches. Fat loss comes from dieting.**If you have a gut, try [intermittent fasting](/2009/04/intermittent-fasting-tips-and-advice/) or at a minimum cut the processed carbs.** Sit ups aren't going to do anything for that belly.
 

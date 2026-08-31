@@ -48,7 +48,7 @@ Another interesting tidbit from that article:
 
 Although I have not been avoiding salt, I think I could increase my intake a little. Normally, I wake up and drink a few glasses of water, then drink coffee, and then go to the gym. What I'll experiment with is consuming 3-5 grams of salt with water before my coffee and exercise.
 
-![salt fix book](./img/salt-fix.jpg)
+![salt fix book](/2018/07/the-salt-fix-book-summary/img/salt-fix.jpg)
 
 _The Salt Fix: Why the Experts Got It All Wrong--and How Eating More Might Save Your Life by James DiNicolantonio_
 

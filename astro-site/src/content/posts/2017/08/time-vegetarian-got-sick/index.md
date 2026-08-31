@@ -35,7 +35,7 @@ I don't bother correcting his belief because, without it, he'd likely gain more 
 
 In my [next post](/2017/08/directionally-accurate-metabolic-unicorns/), I am going to discuss a nutritional belief of mine that got shattered and when it did, the weight started falling off.
 
-![sick](./img/sick.jpg)
+![sick](/2017/08/time-vegetarian-got-sick/img/sick.jpg)
 
 _[Photo](https://flic.kr/p/bSQwsR) by Tanja Djordjevic_
 

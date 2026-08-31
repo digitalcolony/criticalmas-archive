@@ -15,7 +15,7 @@ On the southern tip of Baja California is the region known as _Los Cabos_. This 
 
 Prior to my Cabo visit, my only other Mexican coffee experience was an outstanding double espresso I had in Tijuana one Saturday afternoon, so I had hope. Unlike my journey through the American Southwest, I assumed a coffee-growing country like Mexico would have good coffee so I didn't bring any of my own. That was a mistake.
 
-![](./img/cabo-san-lucas-arch1.jpg) _Cabo San Lucas Arch_
+![](/2005/08/coffee-on-the-road-los-cabos-mexico/img/cabo-san-lucas-arch1.jpg) _Cabo San Lucas Arch_
 
 
 ### Royal Solaris Los Cabos
@@ -23,7 +23,7 @@ Prior to my Cabo visit, my only other Mexican coffee experience was an outstandi
 
 While in Mexico we stayed at the _Royal Solaris_ all-inclusive resort. Inside the resort, there were several restaurants and even a pool bar. Although it looked great, it didn't take too long to learn that despite the millions spent on this resort, they didn't have an espresso machine anywhere on the premises. All they had was some gross drip coffee that was still sitting on a burner hours after it was made. This was going to be a long week. If I were to survive, I'd have to discover coffee outside the resort.
 
-![](./img/royal-solaris-resort.jpg) _Royal Solaris Los Cabos_
+![](/2005/08/coffee-on-the-road-los-cabos-mexico/img/royal-solaris-resort.jpg) _Royal Solaris Los Cabos_
 
 
 ### San Jose Del Cabo
@@ -41,7 +41,7 @@ If I were to find good coffee, it would have to be in Cabo San Lucas. One of the
 
 By American standards it was equal to maybe an airport Starbucks, by Los Cabos standards it was _excellente_. They knew how to roast and make espresso. If they improved their espresso blend (it was a little one-dimensional), it would be even better. _The Cabo Coffee Company_ is the best coffee place in Los Cabos, Mexico.
 
-![](./img/cabo-marina.jpg) _Cabo San Lucas Marina_
+![](/2005/08/coffee-on-the-road-los-cabos-mexico/img/cabo-marina.jpg) _Cabo San Lucas Marina_
 
 My hope was that after finding _The Cabo Coffee Company_ things would get better. Perhaps there were other places in Cabo San Lucas with equal or greater quality? No such luck.
 
@@ -55,7 +55,7 @@ The third coffee house we went to was the _San Francisco Coffee Company_. Maybe 
 
 I'm not sure if this is considered part of the Los Cabos region, but it really doesn't matter. I didn't see a single coffee place in this sleepy town best known for the Hotel California. Although it shares the same name as the Eagles album, none of the band stayed here. According to _Snopes,_ it was a _coincidence of a shared name_.
 
-![](./img/hotel-california-bar.jpg) _Hotel California Bar_
+![](/2005/08/coffee-on-the-road-los-cabos-mexico/img/hotel-california-bar.jpg) _Hotel California Bar_
 
 
 ### Last Words

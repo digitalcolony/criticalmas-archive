@@ -17,7 +17,7 @@ When I switched from french press to espresso, my caffeine intake did go down. B
 
 Is comparing current caffeine usage to past caffeine usage a useful metric? That question has been bothering me for a while. This week I conceded that it is wasn't. **The fact remains that I am equally addicted to caffeine albeit at a lower level than before.** My addiction might even be greater because today I am consuming espresso that is far better quality than just a few years ago. The strides I've made in my home roasting and shot pulling at home have improved a lot recently. By collecting more data and interviewing the best baristas in Seattle, my home espresso quality has improved more in the past 9 months than in the first 9 years I was making coffee. Every month or so my coffee tastes better than it did before. This is making my addiction stronger.
 
-![stumptown-drugs](./img/stumptown-drugs.jpg)
+![stumptown-drugs](/2012/09/caffeinated-delusions/img/stumptown-drugs.jpg)
 
 _The DRUGS sign at the Seattle roasting facility for Stumptown Coffee (12th Ave). So true._ 
 

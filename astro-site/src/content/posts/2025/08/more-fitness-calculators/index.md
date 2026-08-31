@@ -17,11 +17,11 @@ This is a follow-up to [Vibe Coding Fitness Calculators](/2025/06/vibe-coding-fi
 
 I also updated the BMI calculator to include an option to use the Asian BMI scale, which is stricter than the standard BMI scale.
 
-![](./img/bmi-asian.png)
+![](/2025/08/more-fitness-calculators/img/bmi-asian.png)
 
 Claude created this nice body fat chart without me even asking.
 
-![](./img/body-fat-chart.png)
+![](/2025/08/more-fitness-calculators/img/body-fat-chart.png)
 
 We live in interesting times. I can now "code" faster than I blog, thanks to AI.
 

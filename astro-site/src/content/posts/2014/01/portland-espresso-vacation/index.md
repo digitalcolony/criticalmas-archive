@@ -27,9 +27,9 @@ Throughout my Portland espresso vacation, I would hear the term _**single origin
 
 My first stop was _Coava Coffee_. This was a wide open space inside a warehouse type building. They served two single origin espressos, one single origin decaf espresso and two single origin Chemex brewed coffees. During my two visits here, I tried both espressos, the decaf, and a Chemex. The highlight was the [Chemex](https://ineedcoffee.com/chemex-coffee-brewing-history-and-tutorial/), which is brewed using a metal filter called the KONE, which they designed themselves. No more paper residue. The Chemex was outstanding as was the decaf espresso. The two single origin espressos were also good.
 
-![](./img/coava-coffee-menu1.jpg) _Coava Coffee - Coffee Menu_
+![](/2014/01/portland-espresso-vacation/img/coava-coffee-menu1.jpg) _Coava Coffee - Coffee Menu_
 
-![](./img/coava-coffee-chemex.jpg) _Coava Coffee - Chemex and the KONE_
+![](/2014/01/portland-espresso-vacation/img/coava-coffee-chemex.jpg) _Coava Coffee - Chemex and the KONE_
 
 
 ### Sterling Coffee Roasters - 2120 Northwest Glisan St.
@@ -39,9 +39,9 @@ _Sterling_ is more of a large kiosk than a coffee shop. They have a 1 pound roas
 
 Upon leaving I noticed that they offer one espresso for $2, but you can get both offerings for $3 (a flight). I love it. I wish Seattle had something similar. I'd sign up for that flight every day! Another thing I love about _Sterling Coffee_ is that they post a photo of their coffee offerings daily on their Facebook page.
 
-![](./img/sterling-coffee-portland.jpg) _Sterling Coffee_
+![](/2014/01/portland-espresso-vacation/img/sterling-coffee-portland.jpg) _Sterling Coffee_
 
-![](./img/sterling-coffee-menu.jpg) _Sterling Coffee - Coffee Menu_
+![](/2014/01/portland-espresso-vacation/img/sterling-coffee-menu.jpg) _Sterling Coffee - Coffee Menu_
 
 
 ### Heart Roasters - 2211 E. Burnside
@@ -49,9 +49,9 @@ Upon leaving I noticed that they offer one espresso for $2, but you can get both
 
 _Heart Roasters_ is another great neighborhood coffee shop with two single-origin espresso offerings. I had one from El Salvador that was very good. _Heart_ also offered pour overs and siphon coffees. The one suggestion I would make here is to post some information on the offerings. Excellent coffee shop.
 
-![](./img/heart-espresso-machine.jpg) _Heart Roasters - Espresso Machine_
+![](/2014/01/portland-espresso-vacation/img/heart-espresso-machine.jpg) _Heart Roasters - Espresso Machine_
 
-![](./img/heart-pour-over.jpg) _Heart Roasters - Pour Over Station_
+![](/2014/01/portland-espresso-vacation/img/heart-pour-over.jpg) _Heart Roasters - Pour Over Station_
 
 
 ### Ristretto Roasters - 3520 NE 42nd Ave
@@ -59,7 +59,7 @@ _Heart Roasters_ is another great neighborhood coffee shop with two single-origi
 
 By this point, I was getting a little tired of the single origins. I desperately wanted an espresso blend. Lucky for me, _Ristretto_ offered both a blend and a single origin. The Beaumont Blend delivered. It gave me just the lift I needed to make it to my next espresso stop.
 
-![](./img/ristretto-roasters.jpg) _Ristretto Roasters_
+![](/2014/01/portland-espresso-vacation/img/ristretto-roasters.jpg) _Ristretto Roasters_
 
 
 ### Barista - 1725 NE Alberta St.
@@ -67,9 +67,9 @@ By this point, I was getting a little tired of the single origins. I desperately
 
 This place was not mentioned in the _CoffeeGeek_ article. Instead, I got this suggestion from Jason at _Caffeinated Conversations_. Excellent call Jason. This place was outstanding. They offered three espressos from three different roasters. I love that. This place had a great wide-open feel with plenty of outdoor seating. I had a Villalobos, Costa Rican single origin espresso which was good. I also tried their decaf espresso, which was very good.
 
-![](./img/barista-portland.jpg) _Barista - Alberta_
+![](/2014/01/portland-espresso-vacation/img/barista-portland.jpg) _Barista - Alberta_
 
-![](./img/barista-portland-espresso-menu.jpg) _Barista Espresso Menu_
+![](/2014/01/portland-espresso-vacation/img/barista-portland-espresso-menu.jpg) _Barista Espresso Menu_
 
 
 ### Water Avenue Coffee - 1028 SE Water Avenue
@@ -77,7 +77,7 @@ This place was not mentioned in the _CoffeeGeek_ article. Instead, I got this su
 
 If you twisted my arm and said I had to pick a favorite place in Portland it would be _Water Avenue Coffee_. Absolutely beautiful coffee shop, extremely friendly staff, and excellent coffee. I had an espresso and pour-over here. This place is closed on the weekends, so plan your trip accordingly.
 
-![](./img/water-avenue-coffee.jpg) _Water Avenue Coffee_
+![](/2014/01/portland-espresso-vacation/img/water-avenue-coffee.jpg) _Water Avenue Coffee_
 
 
 ### Coffeehouse-Five - 740 N Killingsworth Street
@@ -85,7 +85,7 @@ If you twisted my arm and said I had to pick a favorite place in Portland it wou
 
 My last stop before returning to Seattle was at _Coffeehouse-Five_. Like _Barista_, this place had guest roasters. I got to try the Big Truck Espresso Blend from _Olympia Coffee Roasting_, which was stellar. They also had a single-origin option. Their decaf espresso from Peru was also outstanding.
 
-![](./img/coffeehouse-five.jpg) _Coffeehouse-Five_
+![](/2014/01/portland-espresso-vacation/img/coffeehouse-five.jpg) _Coffeehouse-Five_
 
 
 ### Missed Places

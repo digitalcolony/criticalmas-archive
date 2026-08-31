@@ -39,7 +39,7 @@ I own the #1 and it took me almost a year before I could close it end-to-end in 
 
 I was also fortunate enough to meet John Brookfield at the Arnold Expo in 2004.
 
-![mas-john-brookfield](./img/mas-john-brookfield.jpg)
+![mas-john-brookfield](/2009/10/weight-lifting-wisdom-for-the-tall-lanky-guy/img/mas-john-brookfield.jpg)
 
 To build forearm and wrist strength, I highly recommend doing Farmers Walks. A Farmers Walk is when you grab a pair of heavy dumbbells and go for a walk. The heavier the dumbbell, the shorter the walk. Back in California, I used to put a 120-pound dumbbell in each hand and walk to the end of the driveway and back. I did that 10 times.
 

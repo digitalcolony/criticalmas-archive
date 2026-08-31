@@ -30,7 +30,7 @@ The downside to all these patrons staring at their screen is nobody is paying at
 
 It's been 9 years since I retired [Tales From the Glitter Gym](/tag/glitter-gym/). Maybe it is time to bring it back?
 
-![gym](./img/gym.jpg)
+![gym](/2019/04/millennials-have-killed-the-glitter-gym/img/gym.jpg)
 
 ---
 

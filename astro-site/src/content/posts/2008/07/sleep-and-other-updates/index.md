@@ -11,7 +11,7 @@ commentCount: 2
 
 Good news. I'm now sleeping a full 7-8 hours each night. A few nights ago I slept in until 7 AM, which worked out to 9 hours and 15 minutes. It has been years since I have slept in that late. 7 AM may seem early to many, but to me, it is like NOON.
 
-![](./img/sleeping-cat.jpg)
+![](/2008/07/sleep-and-other-updates/img/sleeping-cat.jpg)
 
 _[Sleeping Like a Baby](http://flickr.com/photos/chris_gin/2388032929/) by Flickr user [Chris Gin](http://flickr.com/photos/chris_gin/)_
 

@@ -21,7 +21,7 @@ On the nutrition side, nobody gets labeled a hater more than CarbSane. She is a 
 
 At times I wish I was more like her on the fitness side, but I'm not nearly as smart nor do I have a passion to keep fighting the same battle over and over. It is like building sand castles on the beach. Every day a new wave of nonsense will level the previous day's work.
 
-![sand castle](./img/506023670_1d942d3436_z.jpg)
+![sand castle](/2014/08/just-label-critics-haters-trolls/img/506023670_1d942d3436_z.jpg)
 
 _[Photo](https://flic.kr/p/LHvd3) by tony..._
 

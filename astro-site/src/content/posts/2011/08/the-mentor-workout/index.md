@@ -27,7 +27,7 @@ The exercises performed:
 
 Each exercise was done to failure. I couldn't even complete the Dips. I was toast. I still am toast. I'll probably be toast tomorrow.
 
-![gym](./img/gym.jpg)
+![gym](/2011/08/the-mentor-workout/img/gym.jpg)
 
 _[Photo](https://flic.kr/p/5CZUrS) by Martin Abegglen_
 

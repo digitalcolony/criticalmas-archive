@@ -24,7 +24,7 @@ Did you know that a 5-pound jar of peanut butter has 13,490 calories in it, is s
 
 I also have an Instant Pot and I know how to cook. It is shameful that we live in an era with so much access to cooking knowledge that younger adults are clueless when it comes to food preparation. Relying on an app and a delivery driver for your very survival is a terrible strategy.
 
-![](./img/remain-calm-all-is-well-animal-house.jpg)
+![](/2022/07/whispers-of-food-shortages/img/remain-calm-all-is-well-animal-house.jpg)
 
 
 ### Lessons From 2008
@@ -58,7 +58,7 @@ Can you imagine what grocery store shopping would look like if these whispers of
 
 It is an unlikely situation, but if it happens, I'll be safe at home with a bowl of rice and beans and not in a fist fight at Trader Joe's.
 
-![food shortage](./img/sandie-clarke-g0f9AbZ3Zs4-unsplash.jpg)
+![food shortage](/2022/07/whispers-of-food-shortages/img/sandie-clarke-g0f9AbZ3Zs4-unsplash.jpg)
 
 _Photo by [Sandie Clarke](https://unsplash.com/@honeypoppet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 

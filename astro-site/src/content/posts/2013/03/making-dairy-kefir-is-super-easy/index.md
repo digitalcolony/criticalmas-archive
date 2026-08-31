@@ -21,7 +21,7 @@ Making dairy kefir is super easy if you have good grains. Here are the basic ins
 
 I don't measure anything. I've used between 50 grams and 100 grams. It all works.
 
-![kefir-grains](./img/kefir-grains.jpg)
+![kefir-grains](/2013/03/making-dairy-kefir-is-super-easy/img/kefir-grains.jpg)
 
 
 ### #2 Add Milk, Cover, and Wait
@@ -29,7 +29,7 @@ I don't measure anything. I've used between 50 grams and 100 grams. It all works
 
 Fill the jar with milk. Don't use ultra-pasteurized. Cover with a lid, but not too tight, and then wait 1-3 days. The ferment is finished when the kefir is as thick as you like. Ferments will go faster in a warm kitchen and slower when it is cold. If your kitchen is too cold, then sitting the jar on a heating pad set on low might jump-start the ferment.
 
-![kefir-grains-add-milk](./img/kefir-grains-add-milk.jpg)
+![kefir-grains-add-milk](/2013/03/making-dairy-kefir-is-super-easy/img/kefir-grains-add-milk.jpg)
 
 
 ### #3 Filter and Jar
@@ -37,9 +37,9 @@ Fill the jar with milk. Don't use ultra-pasteurized. Cover with a lid, but not t
 
 Once the kefir is ready, grab your non-metal filter and separate. Jar the kefir and place it in the refrigerator. As for the grains, start your next ferment. If you don't need to start the next ferment, place the grains in a jar with a small amount of milk, cover, and place in the frig.
 
-![kefir-filter](./img/kefir-filter.jpg)
+![kefir-filter](/2013/03/making-dairy-kefir-is-super-easy/img/kefir-filter.jpg)
 
-![kefir-grains-filtered](./img/kefir-grains-filtered.jpg)
+![kefir-grains-filtered](/2013/03/making-dairy-kefir-is-super-easy/img/kefir-grains-filtered.jpg)
 
 
 ### #4 Drink

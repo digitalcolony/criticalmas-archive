@@ -34,7 +34,7 @@ My second real fitness mentor is Art De Vany. Like Pavel, Art does not advocate 
 
 De Vany confirmed with me what I had learned from Pavel.
 
-![failure](./img/failure.jpg)
+![failure](/2011/03/training-failure-training-quit/img/failure.jpg)
 
 _[Photo](https://flic.kr/p/aeZWUY) by Tomasz Stasiuk_
 

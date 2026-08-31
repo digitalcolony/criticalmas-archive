@@ -62,7 +62,7 @@ Some recipes say you should put the other veggies in with the cabbage when you a
 
 Mix all the ingredients and pack tightly into jars. Make sure there is about an inch of room at the top. You also want to make sure all the veggies are underneath the water. Fermentation is anaerobic. If the veggies peek their head out then the bad bacteria could be invited back. This is a minor concern with kimchi, but important with longer ferments like sauerkraut.
 
-![kimchi-jar](./img/kimchi-jar.jpg)
+![kimchi-jar](/2011/03/kimchi-101/img/kimchi-jar.jpg)
 
 _Push those veggies down. They need to be below the liquid._
 
@@ -74,7 +74,7 @@ For more ideas on managing multiple or larger ferments read the post [My Ferment
 
 Most recipes use some sort of weight (crock) that sits on the top. This keeps the veggies under the liquid for fermenting. Another option is to do what I do. Twice a day I push the veggies down. Doing this triggers a release of bubbles to the surface. I'm not against using the crock method, it is just that I don't have one that works well with my jar.
 
-![kimchi-push](./img/kimchi-push.jpg)
+![kimchi-push](/2011/03/kimchi-101/img/kimchi-push.jpg)
 
 _Here I am using a coffee mug to push down the veggies._
 

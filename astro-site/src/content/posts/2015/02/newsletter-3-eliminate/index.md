@@ -21,7 +21,7 @@ After I sent the newsletter, I noticed an extra word in the first sentence. Unli
 
 If you have any others comments regarding the newsletter, leave them below.
 
-![snow-smile](./img/snow-smile.jpg)
+![snow-smile](/2015/02/newsletter-3-eliminate/img/snow-smile.jpg)
 
 ---
 

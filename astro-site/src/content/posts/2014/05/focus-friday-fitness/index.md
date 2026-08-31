@@ -19,7 +19,7 @@ Every year the gym becomes more and more distracting. It gets harder to focus. B
 
 I can't stand it anymore. I returned to my Glitter Gym to do [knee rehab](/2014/01/returning-glitter/), which appears not to be working. Before I leave my gym in a few weeks to return to an [outdoor Hillfit program](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/), I would like to propose a compromise to the fitness community. I call it Focus Friday Fitness.
 
-![Glitter Gym](./img/glitter-gym.jpg)
+![Glitter Gym](/2014/05/focus-friday-fitness/img/glitter-gym.jpg)
 
 _[Photo](https://www.flickr.com/photos/unephotos/6497104445/) by Sport UNE gym_
 

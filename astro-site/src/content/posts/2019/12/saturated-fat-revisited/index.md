@@ -41,7 +41,7 @@ I am not saying it is true or saying what you should do. That is for you to deci
 
 I am also not going to defend my position. I believe I am making my decision from incomplete knowledge. I am not trying to get it right. I am trying to not get it too wrong.
 
-![](./img/heart-espresso-machine.jpg)
+![](/2019/12/saturated-fat-revisited/img/heart-espresso-machine.jpg)
 
 ---
 

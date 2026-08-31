@@ -35,8 +35,8 @@ const tagsByFrequency = Array.from(tagsMap.entries()).sort((a, b) => b[1] - a[1]
 const tagsByAlpha = Array.from(tagsMap.entries()).sort((a, b) => a[0].localeCompare(b[0]));
 
 function getPostUrl(post: any) {
-	// post.slug already includes year/month/slug from the file path
-	return `/${post.slug}/`;
+	// post.id already includes year/month/slug from the file path
+	return `/${post.id}/`;
 }
 
 function slugify(text: string) {

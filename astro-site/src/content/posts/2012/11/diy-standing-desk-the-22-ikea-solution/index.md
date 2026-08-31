@@ -15,7 +15,7 @@ I followed the instructions and now I have a standing desk. I'm pretty sure this
 
 TUTORIAL: [A standing desk for $22](https://alphacolin.com/ikea-standing-desk-for-22-dollars/)
 
-![diy-stand-up-desk](./img/diy-stand-up-desk.jpg)
+![diy-stand-up-desk](/2012/11/diy-standing-desk-the-22-ikea-solution/img/diy-stand-up-desk.jpg)
 
 _Standing Desk version 2.0_
 

@@ -21,7 +21,7 @@ Yesterday a brand new security flaw was discovered called _Cloudbleed_. The arti
 > 
 > So it could have been a username or a password, a photo or frames of a video as well as behind-the-scenes things like server information and security protocols. At this time, there is no indication that any of this information was accessed by hackers.
 
-![](./img/cloud-bleed-300x285.png)
+![](/2017/02/now-going-setup-password-manager/img/cloud-bleed-300x285.png)
 
 The article advises that users change their passwords for sites that use Cloudflare and they link to a tool that will help you discover if they do.
 

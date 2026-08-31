@@ -39,7 +39,7 @@ The article [How to Password Protect Files and Folders With Encryption](http://w
 
 There are several free cloud server options out there. Their security isn't stellar, which is one reason I did the encryption before uploading. I uploaded my encrypted file to two different ones. Each of these cloud servers is protected with a long unique password that only my password manager program knows. Getting into that program requires another very long passphrase.
 
-![lock](./img/368758286_e4dcb5ae53_z.jpg)
+![lock](/2014/09/scan-encrypt-store-delete-shred-paperless/img/368758286_e4dcb5ae53_z.jpg)
 
 _Photo by Lok Leung_
 

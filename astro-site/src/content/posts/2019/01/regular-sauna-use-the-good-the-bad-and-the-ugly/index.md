@@ -37,7 +37,7 @@ Regardless, this is the coldest I have felt since my first winter in Seattle (20
 
 I'm not too concerned. I'll take the trade-off for now. When the sun returns, you'll see me out in shorts while other "men" are still wrapped head-to-toe like they were skiing.
 
-![](./img/65F-sunny-so-cold.jpg)
+![](/2019/01/regular-sauna-use-the-good-the-bad-and-the-ugly/img/65F-sunny-so-cold.jpg)
 
 
 ### The Ugly

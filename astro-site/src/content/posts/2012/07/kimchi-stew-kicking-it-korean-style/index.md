@@ -17,7 +17,7 @@ The basics of [Korean Stew](http://www.beyondkimchee.com/kimchee-stew/) can be f
 
 Cooking with fermented food did bring out a nice flavor that one wouldn't get using fresh ingredients. The recipe on _Beyond Kimchee_ and other sites recommend using over ripe kimchi. Apparently it adds more flavor, which makes sense to me now. One trick to over ripe a ferment is to place it out on the counter for several hours or longer before starting the stew.
 
-![korean-stew](./img/korean-stew.jpg)
+![korean-stew](/2012/07/kimchi-stew-kicking-it-korean-style/img/korean-stew.jpg)
 
 If you ever end up with either too kimchi or a kimchi that doesn't taste great on its own, throw it a pan and start building a soup.
 

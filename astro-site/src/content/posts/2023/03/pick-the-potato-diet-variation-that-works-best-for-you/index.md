@@ -66,7 +66,7 @@ I think this will be my last post on the Potato Diet. I believe I've covered it 
 
 If you have any questions, drop me a comment.
 
-![potato](./img/peter-schad-eLSmoVXKdF8-unsplash.jpg)
+![potato](/2023/03/pick-the-potato-diet-variation-that-works-best-for-you/img/peter-schad-eLSmoVXKdF8-unsplash.jpg)
 
 _Potatoes by_ [_Peter Schad_](https://unsplash.com/@der_mentor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

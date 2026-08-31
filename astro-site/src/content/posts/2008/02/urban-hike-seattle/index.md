@@ -13,51 +13,51 @@ Today was Presidents Day, which meant that I was off work and the stock market w
 
 Starting south of Fremont at 8 AM I crossed the Fremont Bridge.
 
-![fremont-bridge](./img/fremont-bridge.jpg)
+![fremont-bridge](/2008/02/urban-hike-seattle/img/fremont-bridge.jpg)
 
 A morning visit to the Troll.
 
-![fremont-troll](./img/fremont-troll.jpg)
+![fremont-troll](/2008/02/urban-hike-seattle/img/fremont-troll.jpg)
 
 Coffee stop at Caffe Vita.
 
-![caffe-vita](./img/caffe-vita.jpg)
+![caffe-vita](/2008/02/urban-hike-seattle/img/caffe-vita.jpg)
 
 Then it was off to Wallingford.
 
-![wallingford](./img/wallingford.jpg)
+![wallingford](/2008/02/urban-hike-seattle/img/wallingford.jpg)
 
 More espresso at Zoka.
 
-![zoka-coffee](./img/zoka-coffee.jpg)
+![zoka-coffee](/2008/02/urban-hike-seattle/img/zoka-coffee.jpg)
 
 Then it was off to the University district and still more espresso at Trabant.
 
-![trabant-coffee](./img/trabant-coffee.jpg)
+![trabant-coffee](/2008/02/urban-hike-seattle/img/trabant-coffee.jpg)
 
 I hiked through the University of Washington.
 
-![u-washington](./img/u-washington.jpg)
+![u-washington](/2008/02/urban-hike-seattle/img/u-washington.jpg)
 
 From there I took the Montlake Bridge and made my way to Capitol Hill.
 
-![montlake-bridge](./img/montlake-bridge.jpg)
+![montlake-bridge](/2008/02/urban-hike-seattle/img/montlake-bridge.jpg)
 
 After a stop for tea, I made it to Stumptown for more espresso.
 
-![stumptown-12](./img/stumptown-12.jpg)
+![stumptown-12](/2008/02/urban-hike-seattle/img/stumptown-12.jpg)
 
 Before heading to Pike Market, I made one final espresso stop at Victrola.
 
-![victrola-coffee](./img/victrola-coffee.jpg)
+![victrola-coffee](/2008/02/urban-hike-seattle/img/victrola-coffee.jpg)
 
-![public-market](./img/public-market.jpg)
+![public-market](/2008/02/urban-hike-seattle/img/public-market.jpg)
 
 At this point I returned to my starting point, which wasn't as easy as I thought. Going from downtown through Queen Anne on the way to Fremont has some big hills and lots of dead end roads.
 
 A rough estimate of the hike was [14.55 miles](http://www.gmap-pedometer.com/?r=1636035). I'm tired and sunburned.
 
-![urban-hike-2008](./img/urban-hike-2008.jpg)
+![urban-hike-2008](/2008/02/urban-hike-seattle/img/urban-hike-2008.jpg)
 
 ---
 

@@ -18,13 +18,13 @@ The Book on Heat makes the case that warmer temperatures reduce appetite. So sum
 
 What about exercise? What if the leanness from exercise is more a result of the ambient temperature than the workload itself?
 
-![](./img/Screenshot-2023-10-01-at-06-50-41-Kindle.png)
+![](/2023/10/temperature-and-appetite/img/Screenshot-2023-10-01-at-06-50-41-Kindle.png)
 
 By sending signals that the environment is warm, the brain begins to recognize the expensive energic cost of carrying excess fat, and appetite is reduced.
 
 Cold is doing the opposite. It increases appetite.
 
-![](./img/Screenshot-2023-10-01-at-08-07-50-Kindle.png)
+![](/2023/10/temperature-and-appetite/img/Screenshot-2023-10-01-at-08-07-50-Kindle.png)
 
 The book goes much deeper into the relationship between temperature and appetite with references to decades of studies supporting the thesis. Some other interesting items from the book:
 
@@ -38,7 +38,7 @@ What about cold exposure? I have lots of posts on this site related to cold expo
 
 Thanks to The Book on Heat, I now know why. In addition to everything mentioned above, I learned that using cold exposure to build BAT (brown adipose tissue) to generate heat and help you get lean may be a shortsighted strategy.
 
-![](./img/Screenshot-2023-10-01-at-08-29-56-Kindle.png)
+![](/2023/10/temperature-and-appetite/img/Screenshot-2023-10-01-at-08-29-56-Kindle.png)
 
 There it is. Cold triggers BAT. BAT generates heat to protect the lean body in the short term. The body responds to the BAT as a signal to spike your appetite. I still plan to take cold showers as this exposure is too short to matter. However, I will think twice before spending hours outside in cold weather without a jacket.
 

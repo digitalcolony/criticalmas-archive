@@ -39,7 +39,7 @@ Going 3 days eating cold boiled plain potatoes is not an option for some. They w
 
 At some point, you may decide to try a stricter Potato Hack or not. That is up to you. Knocking out a meal here and there with potatoes is a powerful tool for both leaning out but also staying lean.
 
-![red potatoes](./img/red-potatoes.jpg)
+![red potatoes](/2018/01/potato-hacking-reluctant/img/red-potatoes.jpg)
 
 ---
 

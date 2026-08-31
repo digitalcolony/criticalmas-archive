@@ -13,7 +13,7 @@ Pavel published a new book last year titled The Quick and the Dead - Total Train
 
 In this post, I will give a review/summary of the book and my initial experiences with the workout plan.
 
-![Pavel - Quick & Dead](./img/pavel_quick-and-dead.jpg)
+![Pavel - Quick & Dead](/2020/01/notes-on-pavels-the-quick-and-the-dead/img/pavel_quick-and-dead.jpg)
 
 _The Quick and the Dead: Total Training for the Advanced Minimalist_
 

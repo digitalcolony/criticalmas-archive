@@ -11,7 +11,7 @@ commentCount: 2
 
 Last week, I brought the [coffee group](https://www.meetup.com/seattle-coffee-club/) to a new venue. The turnout was great and everyone seemed to have a great time. Or so it seemed. On Friday, I received the angriest vile email directed at me and the group from an employee of the place we went to. Considering just 3 days ago in the post [Tales From the Glitter Gym - Nonsense](/2008/09/tales-from-the-glitter-gym-nonsense/), I wrote "_One of the biggest lessons I've learned in life is that we can't control the actions of others - only our reactions to those actions."_, I was about to be tested.
 
-![](./img/toy-army.jpg)
+![](/2008/09/when-you-come-undone/img/toy-army.jpg)
 
 _Photo [Defending the Doors of the Church](http://flickr.com/photos/benmcleod/413429933/) by FLICKR user Ben McLeod_
 

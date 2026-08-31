@@ -17,7 +17,7 @@ Before I answer let me state that I am an espresso drinker. The only coffee I'll
 
 > When you first look into a coffee shop, what is the first thing you see? Is it ice cream, pretzels, flavored coffee, juices, regular coffee, or an espresso-based drink? Nine times out of ten, whatever is most prominently displayed is what they do best. When gourmet coffee or espresso starts looking like a side dish, start looking for the door.
 
-![McCafe-uruguay](./img/McCafe-uruguay.jpg)
+![McCafe-uruguay](/2008/04/ranking-the-national-coffee-house-chains/img/McCafe-uruguay.jpg)
 
 _McCafe photo I took in Montevideo, Uruguay. McDonalds is my favorite coffee in URUGUAY only!_
 

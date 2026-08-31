@@ -17,7 +17,7 @@ Whenever the media reports that poor people can't afford to eat healthy, I just 
 
 **Summary**: _A low-carb twist on a classic Irish dish._
 
-![ground-pork](./img/ground-pork.jpg)
+![ground-pork](/2011/04/ground-pork-and-cabbage-recipe/img/ground-pork.jpg)
 
 
 #### Ingredients

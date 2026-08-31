@@ -22,7 +22,7 @@ This meal is silly simple and at $1.65 per portion, it is also very affordable. 
 
 My side dish was steamed broccoli with a little butter.
 
-![cajun-chicken-drumsticks](./img/cajun-chicken-drumsticks.jpg)
+![cajun-chicken-drumsticks](/2012/03/cajun-chicken-drumsticks/img/cajun-chicken-drumsticks.jpg)
 
 _Cajun Chicken Drumsticks_
 

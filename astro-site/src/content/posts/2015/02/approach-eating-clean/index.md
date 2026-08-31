@@ -33,7 +33,7 @@ Both sides are getting this wrong. One side creates fairy tales demonizing foods
 
 If you think about food as valuations, the picture gets more clear. When my skin was red and dry, wheat had a negative valuation. Beef liver, which I had not consumed since early childhood, had a high valuation. Cutting out the grains and adding offal wasn't ortherexic, it was an example of the correct way to "eat clean" for me at that time.
 
-![reverse indy](./img/reverse-indy.jpg)
+![reverse indy](/2015/02/approach-eating-clean/img/reverse-indy.jpg)
 
 If you are considering "eating clean", think about this screen still from Raiders of the Lost Ark. Indiana Jones is taking the valuable treasure and replacing it with worthless sand. If you decide to "eat clean" and remove the worthless sand, what treasures are you going to add that you aren't already eating?
 

@@ -11,7 +11,7 @@ commentCount: 0
 
 I am not a barista and because almost never consume anything but straight espresso, my latte art skills are weak. Today I got some half and half and did my first attempt in months. I wanted a rosetta, I got a feather. Not awful. ;)
 
-![](./img/latte-art-feather.jpg)
+![](/2009/08/home-latte-art-%e2%80%93-the-feather/img/latte-art-feather.jpg)
 
 Stats:
 

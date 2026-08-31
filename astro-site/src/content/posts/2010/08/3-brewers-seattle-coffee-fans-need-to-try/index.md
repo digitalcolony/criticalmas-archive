@@ -19,7 +19,7 @@ Before Starbucks acquired the Clover, several independents carried this $11,000 
 
 If you want an excellent cup of Clover Coffee, avoid Starbucks. Visit Aster or Trabant.
 
-![](./img/clover-coffee.jpg)
+![](/2010/08/3-brewers-seattle-coffee-fans-need-to-try/img/clover-coffee.jpg)
 
 1.  Aster Coffee Lounge (BALLARD) 5615 24th Ave NW (now Toast Ballard)
 2.  Trabant Coffee (UNIVERSITY) 1309 NE 45th Street

@@ -25,7 +25,7 @@ Dr. Weil read a letter from a Chinese doctor that mentions a county in China wit
 
 What other tips would you add to this list?
 
-![](./img/shelley-pauls-garlic.jpg)
+![](/2020/03/doctor-weil-on-the-coronavirus/img/shelley-pauls-garlic.jpg)
 
 _Photo by [Shelley Pauls](https://unsplash.com/@shelleypauls)_
 

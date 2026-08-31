@@ -13,7 +13,7 @@ When I returned from [my trip to Ohio](/2011/12/paleo-in-ohio-adventures-in-infl
 
 Instead of using coconut oil on my entire face, I decided that I wanted a control in the experiment, so **I only applied the coconut oil to the right side of my face**. I did this for two months. What I discovered was that the coconut oil did an excellent job as a moisturizer, however, the dryness and redness healed at equal rates. After 2 months of use, I can say that **coconut oil provided no additional healing benefit to my skin**. The left and right sides healed at equal rates.
 
-![](./img/coconut-oil.jpg "coconut-oil")
+![](/2012/02/the-topical-coconut-oil-experiment/img/coconut-oil.jpg "coconut-oil")
 
 _Nutiva Organic Extra Virgin Coconut Oil, 15-Ounce Tubs (Pack of 2) - The brand I used._
 

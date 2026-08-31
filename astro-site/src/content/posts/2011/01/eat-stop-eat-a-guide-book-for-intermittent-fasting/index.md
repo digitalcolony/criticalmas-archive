@@ -13,7 +13,7 @@ In November 2008 I bought and read the e-book _Eat Stop Eat_. This book is consi
 
 I decided that I wouldn't do a review on it at the time. Instead, I would test out the information. It would be premature to post a glowing review and then not make any health improvements. Behind the scenes I let my friend Nick know what I was up to. He decided to test out IF too and proceeded to lose 50 pounds. By April of 2009, I was convinced of the benefit of IF and I posted [exhaustively on the subject](/tag/intermittent-fasting/). Since then I have received several reports from friends and readers about how much fat they lost.
 
-![](./img/eat-stop-eat-ebook.jpg "eat-stop-eat-ebook")
+![](/2011/01/eat-stop-eat-a-guide-book-for-intermittent-fasting/img/eat-stop-eat-ebook.jpg "eat-stop-eat-ebook")
 
 _Eat Stop Eat by Brad Pilon_
 

@@ -13,7 +13,7 @@ Well, I have done the unthinkable. Today is Day 7 with no coffee. Yes I am drink
 
 I started drinking coffee on a regular basis when I was probably around 19 years old. I pretty much haven't missed a day since then. Even during my [2006 trip to South America](/2006/09/rio-to-buenos-aires-overview/) and my [2009 trip to Southeast Asia](/2010/01/planes-trains-and-elephants-my-2009-asia-trip-overview/), I still managed to find coffee. In 1997, I went 100 hours without any caffeine. It was a miserable experience and in the end served no purpose, as I resumed high coffee intake within a week of that detox.
 
-![mccafe-phuket-thailand](./img/mccafe-phuket-thailand.jpg "mccafe-phuket-thailand")
+![mccafe-phuket-thailand](/2011/09/coffee-detox-update/img/mccafe-phuket-thailand.jpg "mccafe-phuket-thailand")
 
 _My coffee addiction had me [drinking multiple $3 Americanos](https://ineedcoffee.com/sleepy-starbucks-and-caffeinated-sins-in-phuket-thailand/) at McDonald's in Thailand._
 
@@ -21,7 +21,7 @@ I am a strong believer in gradually lowering your coffee levels and establishing
 
 After 9 days of just a single espresso, I reduced my level to 1/2 espresso. I [roast my own coffee](https://ineedcoffee.com/coffee-blending-for-the-home-roaster/) and was able to construct a "half-caf" blend. For another 9 days I did the "half-caf". At each point, I stayed at that level until a "new normal" was established. I have no timelines, so I can take as long as I need.
 
-![Coffee Detox](./img/chart_2.png "Coffee Detox")
+![Coffee Detox](/2011/09/coffee-detox-update/img/chart_2.png "Coffee Detox")
 
 _Daily coffee intake since June 19, 2011._
 

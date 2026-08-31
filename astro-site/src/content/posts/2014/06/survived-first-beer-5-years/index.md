@@ -17,7 +17,7 @@ Last autumn I started testing my gluten sensitivities (see [Was I Wrong About G
 
 On Friday I decided to drink a full beer. Prior to drinking the beer I ate a [raw carrot](https://www.functionalps.com/blog/2012/09/28/ray-peat-phd-on-the-benefits-of-the-raw-carrot/) and took some activated charcoal. I also decided not to stress about it. I told myself I was going to be fine and I was. My face didn't turn red. No headache. I slept fine.
 
-![hilliards saison](./img/6887498138_5703d13774_o.jpg)
+![hilliards saison](/2014/06/survived-first-beer-5-years/img/6887498138_5703d13774_o.jpg)
 
 _[Photo](https://www.flickr.com/photos/luxuryluke/6887498138/) by Luke Dorny. Hilliard's Saison was my first beer back. Brewed in Ballard and my favorite style of beer._ 
 

@@ -23,7 +23,7 @@ There you have it Sirius XM. I predict your company will go into bankruptcy. Whe
 
 After you go through bankruptcy, fire Mel Karmazin, bring the call centers back to the States and emerge as a new company I might forgive you. Until that happens, you're dead to me.
 
-![XM-Radio](./img/XM-Radio.jpg)
+![XM-Radio](/2010/02/why-i-am-not-renewing-my-sirius-xm-radio-subscription/img/XM-Radio.jpg)
 
 _[Photo](https://flic.kr/p/4DiZ68) by Tom Magliery_
 

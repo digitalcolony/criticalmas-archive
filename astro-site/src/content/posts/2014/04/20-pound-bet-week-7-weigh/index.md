@@ -19,7 +19,7 @@ Well I turned it around and dropped that weight plus an additional pound. **The 
 
 The strategy of cycling between caloric deficit and baseline is an effective one. You get the weekly calorie reduction, but you don't run your metabolism into the ground or feel deprived day in and day out.
 
-![liver - sweet potatoes](./img/IMG1736-M.jpg)
+![liver - sweet potatoes](/2014/04/20-pound-bet-week-7-weigh/img/IMG1736-M.jpg)
 
 _Beef liver + Brussels sprouts + sweet potatoes_
 

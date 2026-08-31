@@ -11,7 +11,7 @@ commentCount: 4
 
 I've long since given up regular spaghetti. These days I use the spaghetti squash. I detailed my pasta journey in the post [Spaghetti Evolution The Road to Paleolithic Pasta](/2010/11/spaghetti-evolution-the-road-to-paleolitic-pasta/). This week I was inspired by a recipe online to swap out the ground beef for Italian Sausage. It turned out great, both as dinner and for leftovers the next day.
 
-![spaghetti-squash](./img/spaghetti-squash.jpg)
+![spaghetti-squash](/2012/03/spaghetti-squash-now-with-italian-sausage/img/spaghetti-squash.jpg)
 
 _Spaghetti Squash and Italian Sausage_
 

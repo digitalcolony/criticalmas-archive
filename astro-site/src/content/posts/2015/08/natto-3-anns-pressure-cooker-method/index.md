@@ -10,7 +10,7 @@ commentCount: 10
 
 _This is a guest recipe from Ann who was commenting on the post [Natto 2: Fermentation Boogaloo](/2013/12/natto-2-fermentation-boogaloo/)._
 
-![natto](./img/Optimized-IMG_0229.jpg)
+![natto](/2015/08/natto-3-anns-pressure-cooker-method/img/Optimized-IMG_0229.jpg)
 
 _Natto_
 
@@ -25,7 +25,7 @@ _Natto_
 -   I am extremely fortunate enough to have an up market dehydrator (given by rich friend) and so keeping a constant heat of 100 degrees was easy. However, any form will do as long as you can keep that heat constant for between -22-24 hrs. I got so neurotic, I bought an oven thermometer just to check every now and again.
 
 
-### ![natto culture](./img/Optimized-IMG_0228.jpg)
+### ![natto culture](/2015/08/natto-3-anns-pressure-cooker-method/img/Optimized-IMG_0228.jpg)
 
 
 _Natto culture_

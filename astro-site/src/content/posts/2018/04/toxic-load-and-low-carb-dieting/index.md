@@ -51,7 +51,7 @@ Low-carb diets also have two other potential issues. They aren't as nutrient-den
 
 Am I wrong?
 
-![cattle](./img/feliphe-schiarolli-501977-cattle.jpg)
+![cattle](/2018/04/toxic-load-and-low-carb-dieting/img/feliphe-schiarolli-501977-cattle.jpg)
 
 _Photo by [Feliphe Schiarolli](https://unsplash.com/@flpschi)_
 

@@ -13,7 +13,7 @@ Today I got the silly idea to hand draw a web page using a marker. So I took out
 
 I give you The Sharpie Redesign.
 
-![michael-allen-smith-SS](./img/michael-allen-smith-SS.jpg)
+![michael-allen-smith-SS](/2009/04/michaelallensmith-the-sharpie-redesign/img/michael-allen-smith-SS.jpg)
 
 Believe it or not, it validates to [XHTML 1.0 Transitional](http://validator.w3.org/).
 

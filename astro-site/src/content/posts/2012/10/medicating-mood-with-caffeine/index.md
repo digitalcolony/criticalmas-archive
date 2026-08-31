@@ -13,7 +13,7 @@ I'm still on my [caffeine-free plus coffee-free experiment](/2012/10/a-month-wit
 
 This month my mood has been terrible. Things are slowly getting better though. Prior to the experiment, I was consuming 3 or 4 espressos a day plus a few mugs of tea. These beverages were all high quality and tasty. I would spread out my enjoyment of these drinks from morning to early afternoon. Last week a thought came to me that these experiences were little _pockets of joy_. No matter how I was feeling at the moment, I could always rely on caffeine to improve my mood.
 
-![](./img/low-mood.jpg)
+![](/2012/10/medicating-mood-with-caffeine/img/low-mood.jpg)
 
 _[Photo](http://www.flickr.com/photos/kalexanderson/5421517469/in/photostream/) by Kristina Alexanderson_
 

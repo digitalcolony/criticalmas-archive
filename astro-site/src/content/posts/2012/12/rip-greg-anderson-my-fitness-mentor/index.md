@@ -15,7 +15,7 @@ How I met Greg was pure luck. When my [Tales From the Glitter Gym](/tag/glitter-
 
 Shortly after that post, I received an email introduction from Greg. He really liked the new cardio post and invited me to his HIT gym for a workout. Greg's gym was a short drive away from where I live in Seattle.
 
-![](./img/greg-anderson.jpg "greg-anderson")
+![](/2012/12/rip-greg-anderson-my-fitness-mentor/img/greg-anderson.jpg "greg-anderson")
 
 I detailed my first HIT workout with Greg in the post [High-Intensity Training at Ideal Exercise of Seattle](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/). Prior to this workout, I was attempting to practice what I had been reading in the book _Body By Science_. I was doing the movements correctly. I was even doing OK with the fluid movements and the timing.
 

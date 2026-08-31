@@ -41,7 +41,7 @@ The article discusses how 6-foot-5 Usain Bolt became an amazing sprinter only af
 
 The problem with running for tall people is the long stride. One way to shorten the stride is to wear minimalist shoes. That is a good start, but the best way I discovered is to **just run uphill**. Unlike my first two hometowns of Columbus, OH, and St. Petersburg, FL, which were flat as a pancake, Seattle has some amazing hills inside the city. One of those hills just happens to be less than 100 meters from my front door.
 
-![run-uphill](./img/run-uphill.jpg)
+![run-uphill](/2012/01/running-up-that-hill-sprinting-salvation-for-tall-people/img/run-uphill.jpg)
 
 _My uphill running course._
 

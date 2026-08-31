@@ -95,7 +95,7 @@ One final thought. Even if there is a slightly elevated risk of excessive cadmiu
 
 Using myself as an example. I used the potato hack to drop 25 pounds. As a moderately active person, I need [16 calories per pound](https://www.livestrong.com/article/285862-how-many-calories-do-i-need-to-maintain-my-currrent-weight/) of weight daily. This means I'm consuming 400 fewer calories a day than a pre-Potato hack. That is 400 fewer calories of food EVERY SINGLE DAY that would have had some cadmium in it. Being leaner is almost always the best path to being healthy.
 
-![](./img/4499242134_167ddd0655_z.jpg)
+![](/2018/12/cadmium-and-potatoes-time-to-worry/img/4499242134_167ddd0655_z.jpg)
 
 I only spent a few hours on this topic. If I got anything wrong or you have more to add, please drop a comment.
 

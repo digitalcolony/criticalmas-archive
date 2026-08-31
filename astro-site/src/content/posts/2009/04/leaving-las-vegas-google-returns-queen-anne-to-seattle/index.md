@@ -13,11 +13,11 @@ I just learned last night that Google has FINALLY fixed my bug report from back 
 
 > I accidentally entered my zip code of 98109 and clicked the Map link and what do I see? Las Vegas. All the surrounding zip codes work fine. I discovered a bug with Google.
 > 
-> ![queen-anne-vegas](./img/queen-anne-vegas.jpg)
+> ![queen-anne-vegas](/2009/04/leaving-las-vegas-google-returns-queen-anne-to-seattle/img/queen-anne-vegas.jpg)
 
 It took three requests into the Borg to fix this problem, but it got fixed.
 
-![queen-anne-seattle](./img/queen-anne-seattle.jpg)
+![queen-anne-seattle](/2009/04/leaving-las-vegas-google-returns-queen-anne-to-seattle/img/queen-anne-seattle.jpg)
 
 To all the people living in the 98109 zip code: You're Welcome!
 

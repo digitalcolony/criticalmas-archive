@@ -13,7 +13,7 @@ As early as I can remember I've always had a deep interest in nutrition. During 
 
 During those years my body fat dropped to 9%. Good right? Not really. I ran a [marathon in 1992](/2008/03/the-runner-1989-1995/) and if you look at photographs of me during that time period I had dark circles under my eyes. I had yet to start weight training. I was lean and fatigued.
 
-![mas-1992-marathon](./img/mas-1992-marathon.jpg)
+![mas-1992-marathon](/2008/07/im-not-a-vegetarian/img/mas-1992-marathon.jpg)
 
 In 1995 I decided to end my vegetarian diet. I was in Florida and training for triathlons. I was tired and protein deficient. My research led to me to the conclusion to add seafood to my diet. And boy did I eat seafood. Everyday. My strength went way up and once again I felt I was following the nutritionally optimal diet.
 

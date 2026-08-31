@@ -23,7 +23,7 @@ Although this is just speculation, I am guessing that taking [cool showers](/201
 
 I want to add that sleep quality should always come first. If sleeping in a cool room makes your sleep worse, don't do it.
 
-![thermostat](./img/thermostat.jpg)
+![thermostat](/2014/11/lean-sleep/img/thermostat.jpg)
 
 _[Photo](https://flic.kr/p/7tGaoz) by Alex_
 

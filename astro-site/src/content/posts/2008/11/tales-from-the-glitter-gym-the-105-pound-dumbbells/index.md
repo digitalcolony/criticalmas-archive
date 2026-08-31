@@ -11,7 +11,7 @@ commentCount: 1
 
 Today my glitter gym became just a little more glitter. We have three racks of dumbbells. Rack #1 is a fine pairing of weights from 5 to 50 pounds. Rack #2 is a massive collection of weights between 1 and 20 pounds. Why the gym needs so many 5-pound dumbbells is beyond my comprehension. Rack #3 has weights between 60 and 105 pounds. I should say, it did go up to 105 pounds. Not anymore.
 
-![](./img/dumbbells.jpg)
+![](/2008/11/tales-from-the-glitter-gym-the-105-pound-dumbbells/img/dumbbells.jpg)
 
 _Photo [40kg dumbbell](http://flickr.com/photos/ken_san/1729046228/) from Flickr user ken\_san._
 

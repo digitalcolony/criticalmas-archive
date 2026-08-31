@@ -18,7 +18,7 @@ A new season means a new installment for my seasonal approach series to nutritio
 
 After a long sleep deprived winter full of holiday parties and sickness, spring is the season that modern man decides it is time to lean out. Not me. I got plenty of sleep and leaned out during the winter. I decided to hibernate like the mammal I am. Note that I live in Seattle and my winter strategy is more extreme than it would be if I still lived in Tampa.
 
-![seattle-may-2009](./img/seattle-may-2009.jpg)
+![seattle-may-2009](/2011/03/spring-strategies-nutrition-fitness/img/seattle-may-2009.jpg)
 
 _May 2009 in Seattle_
 

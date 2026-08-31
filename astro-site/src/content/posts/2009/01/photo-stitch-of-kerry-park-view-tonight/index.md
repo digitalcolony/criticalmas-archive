@@ -11,19 +11,19 @@ commentCount: 1
 
 A friend of mine emailed me a link to some free software called HUGIN that connects multiple photos into a single panoramic image. When evening arrived, I decided to test it out. I'm using a Canon PowerShot SD 800 IS. My tripod is (sadly) 3 stacked business cards.
 
-![stitch-1](./img/stitch-1.jpg)
+![stitch-1](/2009/01/photo-stitch-of-kerry-park-view-tonight/img/stitch-1.jpg)
 
-![stitch-2](./img/stitch-2.jpg)
+![stitch-2](/2009/01/photo-stitch-of-kerry-park-view-tonight/img/stitch-2.jpg)
 
-![stitch-3](./img/stitch-3.jpg)
+![stitch-3](/2009/01/photo-stitch-of-kerry-park-view-tonight/img/stitch-3.jpg)
 
 My first stitch attempt used 5 images. There is blurring on the left and darkness on the right.
 
-![stitch-4](./img/stitch-4.jpg)
+![stitch-4](/2009/01/photo-stitch-of-kerry-park-view-tonight/img/stitch-4.jpg)
 
 Then I made a version using just the center 3 images. Somehow the sun got brighter. In this version, you can see people at the playground which is the bottom right of the image.
 
-![stitch-5](./img/stitch-5.jpg)
+![stitch-5](/2009/01/photo-stitch-of-kerry-park-view-tonight/img/stitch-5.jpg)
 
 I plan to make more panoramic shots this year. Who knows, I may even splurge and spend $15 on a tripod. :)
 

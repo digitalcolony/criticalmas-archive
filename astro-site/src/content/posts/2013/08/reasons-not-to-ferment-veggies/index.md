@@ -27,7 +27,7 @@ Refrigeration is a recent technology when it comes to the history of food preser
 
 My understanding of this topic is limited, but there are many that state that fermenting cabbage increases goitrogens, which could be issue with people experiencing hypothyroidism. If this is you, do your own research. If you still want to ferment, you can just forgo the cabbage and ferment other veggies. Maybe my [Fermented Carrots and Ginger](/2012/02/fermented-carrots-and-ginger-recipe/) recipe? Problem solved.
 
-![fermented-carrots](./img/fermented-carrots.jpg)
+![fermented-carrots](/2013/08/reasons-not-to-ferment-veggies/img/fermented-carrots.jpg)
 
 
 ### #3 Lactic Acid and Inefficient Metabolism

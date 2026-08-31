@@ -19,7 +19,7 @@ On January 3, 2008, on the post [My Drudge Report Oil Short Investment Tip](/200
 
 Last December as oil was going higher and higher, I went on record saying the [price would collapse](/2008/11/oil-hits-55/) by the end of the year. Deflation smacks commodities the hardest. What I never saw coming was the spike toward $150 a barrel. And the people at Macroshares never saw it either. Their leveraged ETF was not designed to handle spikes that high and the ETF stopped trading as the price approached $0.00.
 
-![bad trade](./img/bad-trade-300x240.jpg "Bad Trade")
+![bad trade](/2008/12/anatomy-of-a-bad-trade/img/bad-trade-300x240.jpg "Bad Trade")
 
 What did I do wrong?
 

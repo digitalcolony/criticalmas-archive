@@ -57,7 +57,7 @@ I want to mention two books that I read more recently that made an impact on me,
 
 I never posted on Proteinaholic, but the short version is that the author advocates for a whole-food, plant-based diet. He argues that excessive animal protein may be more detrimental than animal fat. I acknowledge that I might be biased in believing this message, because [my current diet](/2025/07/what-i-eat-and-what-i-dont-eat-2025-edition/) already follows his advice. I also find this current obsession with MOAR PROTEIN to be increasingly ridiculous.
 
-![](./img/potato-reader.jpg)
+![](/2025/10/reranking-my-favorite-nutritional-books-2025/img/potato-reader.jpg)
 
 What nutritional books have stood the test of time with you?
 

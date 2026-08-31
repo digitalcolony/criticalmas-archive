@@ -20,7 +20,7 @@ Other than the Seattle snowstorm, I went this entire winter wearing at most a lo
 3.  Movement is very important. The body does not appreciate standing still in cold weather. Even a slow walk is enough to keep warm or at the least, not be painfully cold.
 4.  Respect the wind. It will chill you to the bone faster than cold temperatures. Limit exposure on windy days.
 
-![seattle-snow-mas](./img/seattle-snow-mas.jpg)
+![seattle-snow-mas](/2009/04/still-no-jacket-required/img/seattle-snow-mas.jpg)
 
 _Me during the snow storm wearing just a tee-shirt and a sweater._
 

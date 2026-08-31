@@ -63,7 +63,7 @@ And if you have cravings for foods that meet none of the 3 rules above, see my "
 
 My final piece of advice is to see this process as skill development. The more you practice these techniques, the easier it gets.
 
-![Chewing is hard](./img/cupcake-royale-chewing.jpg)
+![Chewing is hard](/2019/09/how-to-crush-your-appetite-for-permanent-fat-loss/img/cupcake-royale-chewing.jpg)
 
 _Chewing is hard 🤦🏽‍♂️_
 

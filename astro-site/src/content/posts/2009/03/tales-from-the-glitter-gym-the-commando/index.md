@@ -11,7 +11,7 @@ commentCount: 0
 
 I meant to tell this tale a few weeks ago. Forgive the delay. What I witnessed at the Glitter Gym that day almost defies reality. Let me introduce you to a new character, who I will refer to as _The Commando_.
 
-![commando](./img/commando.jpg "commando")
+![commando](/2009/03/tales-from-the-glitter-gym-the-commando/img/commando.jpg "commando")
 
 _Arnold as The Commando. Our Commando is a scrawnier version._
 

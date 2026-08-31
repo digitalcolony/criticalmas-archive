@@ -16,7 +16,7 @@ Maybe not as frequently as before, but you've decided not to jump into the lifeb
 
 The blogging ship is sinking and yet you play on. And you are OK with that choice. Any requests?
 
-![titantic band](./img/titantic-band.jpg)
+![titantic band](/2020/01/what-blogging-in-2020-feels-like/img/titantic-band.jpg)
 
 _Keep blogging fellows!_
 

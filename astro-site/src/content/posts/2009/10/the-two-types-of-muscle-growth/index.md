@@ -17,7 +17,7 @@ It is time to explore the two types of muscle growth. Note that I do not have a 
 
 The two types of muscle growth described in the book are **myofibrillar hypertrophy** and **sarcoplasmic hypertrophy**. What are the differences? Without going too deep into the science, myofibrillar is the denser muscle whereas sarcoplasmic is the bulkier muscle. As you can see in the image I scanned below, Pavel is a big proponent of myofibrillar hypertrophy
 
-![2-types-of-muscle-growth500](./img/2-types-of-muscle-growth500.jpg "2-types-of-muscle-growth500")
+![2-types-of-muscle-growth500](/2009/10/the-two-types-of-muscle-growth/img/2-types-of-muscle-growth500.jpg "2-types-of-muscle-growth500")
 
 Many strength athletes will use a combination of both types of hypertrophy. Martial artists and non-heavy weight power-lifters will favor myofibrillar hypertrophy. Their goal is to pack as much strength into their muscles while keeping their weight down and without slowing the speed of their movements. Martial artist Bruce Lee once did [50 one-arm chin-ups](https://en.wikipedia.org/wiki/Bruce_Lee#Physical_feats). Bodybuilders and bouncers go for size. One of the goals of weight lifting is to fill out a shirt with muscle. _Pump you up!_ Sarcoplasmic hypertrophy does that.
 

@@ -44,7 +44,7 @@ The times in my life when I exercised the most were also the times when I sat fo
 
 Krieger followed up that article with another titled [Physical Activity and Weight Regain](https://web.archive.org/web/20170713101253/http://weightology.net:80/weightologyweekly/index.php/free-content/free-content/volume-1-issue-10-insulin-physical-activity-and-weight-regain/physical-activity-and-weight-regain/). Both are excellent and worth reading.
 
-![](./img/stand-sign.jpg)
+![](/2017/03/exercise-weight-regain/img/stand-sign.jpg)
 
 _[Photo](https://www.flickr.com/photos/mc_speedy/7471866830/) by MC Speedy. Don't sit so much. Standing is a start. Walk a bit. Take the stairs._ 
 

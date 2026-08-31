@@ -13,7 +13,7 @@ In the post [Irrational on the Way Up, Rational on the Way Down?](/2008/08/irrat
 
 When I bought my first home in May 2001, all I needed was a 5% down payment. I had saved enough money to put 10% down, but I didn't need it. And since I served 6 years in the Army National Guard, I was also eligible for a military lending program, but I didn't need it. The bank that underwrote my mortgage liked my credit score and salary. They felt a 5% down payment protected them.
 
-![3377-Holly_oak](./img/3377-Holly_oak.jpg)
+![3377-Holly_oak](/2008/09/another-reason-real-estate-prices-will-drop-further/img/3377-Holly_oak.jpg)
 
 As real estate prices rose, the banks decided they no longer needed a 5% down payment. If the underlying asset is appreciating at such a fast rate then - if the owner defaults - they could always sell the house at a profit.
 

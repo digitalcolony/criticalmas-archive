@@ -25,7 +25,7 @@ Back in September 2000, I wrote a blog post about the Autobiographical aspect to
 
 **So the primary function of this blog is to keep ME interested.** I do and learn interesting things and share them here. If I don't do or learn something interesting, then this blog falls apart. I'm not going to sit around taking personality quizzes just to have something to post. I have things to do.
 
-![Lil MAS first Day of School](./img/268590984_qQ56e-M.jpg)
+![Lil MAS first Day of School](/2009/09/who-do-i-write-this-blog-for/img/268590984_qQ56e-M.jpg)
 
 
 ### #2 Readers that Comment

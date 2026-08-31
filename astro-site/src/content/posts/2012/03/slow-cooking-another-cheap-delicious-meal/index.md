@@ -17,9 +17,9 @@ This week I made the recipe [Unbelievable Crockpot Apple/Onion Pork Butt](http:/
 
 Total cost was $6.91 and it made 4 meals for an average meal cost of $1.73. The time it took to chop the onion, load the crock pot with pork butt and top off with apple juice was 10 minutes. I prepped the meal mid-morning and it was ready by evening. It doesn't get much easier than that.
 
-![pork-butt](./img/pork-butt.jpg)
+![pork-butt](/2012/03/slow-cooking-another-cheap-delicious-meal/img/pork-butt.jpg)
 
-![pork-butt-cook](./img/pork-butt-cook.jpg)
+![pork-butt-cook](/2012/03/slow-cooking-another-cheap-delicious-meal/img/pork-butt-cook.jpg)
 
 _Seems I didn't take a photo once it was finished cooking._
 

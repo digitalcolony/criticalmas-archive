@@ -57,7 +57,7 @@ Everyone asks about using sweet potatoes. They don't work as well for weight los
 
 I don't have any weight left to lose, but if you do, and would like to test out a Potato Hack using purple sweet potatoes and yams, give it a go and report back.
 
-![Purple Sweet Potatoes](./img/purple-sweet-potatoes.jpg)
+![Purple Sweet Potatoes](/2021/10/pavel-peat-and-potatoes/img/purple-sweet-potatoes.jpg)
 
 _Organic Purple Sweet Potatoes_
 

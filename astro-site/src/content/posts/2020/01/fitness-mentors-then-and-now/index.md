@@ -39,7 +39,7 @@ _Look at that awesome cover. 😯_
 
 I closed out the 1990s and early 2000s reading Muscle Media 2000 and then the T-Nation website. Back then T-Nation was testosterone.net. I consumed hundreds of articles on lifting.
 
-![muscle-media-2000](./img/muscle-media-2000.jpg)
+![muscle-media-2000](/2020/01/fitness-mentors-then-and-now/img/muscle-media-2000.jpg)
 
 MM2K became the worthless Muscle Media and then disappeared. T-Nation is still around and I peek in occasionally.
 

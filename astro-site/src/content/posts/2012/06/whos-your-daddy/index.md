@@ -12,7 +12,7 @@ I saved this story for Father's Day even though it happened a few months ago. Th
 
 The next customer was a frazzled mom with two children. The boy was probably 3 or 4 years old and the girl was maybe a year younger. What caught my eye immediately was how much these two kids looked like me and my younger sister when we were their age. The boy was full of energy and the girl appeared to be very tired. She was fighting to stay awake, but not for long.
 
-![MAS and sister ](./img/michael_michelle_eating2_600.jpg "MAS and sister ")
+![MAS and sister ](/2012/06/whos-your-daddy/img/michael_michelle_eating2_600.jpg "MAS and sister ")
 
 _Me and my sister as kids._
 

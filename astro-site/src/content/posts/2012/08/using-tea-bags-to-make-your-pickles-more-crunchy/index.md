@@ -11,9 +11,9 @@ commentCount: 6
 
 I've made pickles a few times this summer. They tasted great, but they weren't crunchy. Then I read on a forum how one can use a tea bag in the ferment to preserve the crunchy. I tested it out this week and it works. You need to use black tea. Check out the _Awesome Pickle_ post [Live-fermented dill pickles with tea](https://web.archive.org/web/20210304163601/http://awesomepickle.com/live-fermented-dill-pickles-with-tea/) for a pickle recipe that uses tea bags.
 
-![pickle-tea-2](./img/pickle-tea-2.jpg)
+![pickle-tea-2](/2012/08/using-tea-bags-to-make-your-pickles-more-crunchy/img/pickle-tea-2.jpg)
 
-![pickle-tea](./img/pickle-tea.jpg)
+![pickle-tea](/2012/08/using-tea-bags-to-make-your-pickles-more-crunchy/img/pickle-tea.jpg)
 
 ---
 

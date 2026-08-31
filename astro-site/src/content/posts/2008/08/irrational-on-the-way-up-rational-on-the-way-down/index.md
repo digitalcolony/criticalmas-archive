@@ -23,7 +23,7 @@ One of my financial mentors Karl Denninger wrote this today:
 
 In a normal market, the future home buyer can pull out a calculator to determine when it is time to buy a house. When an asset bubble collapses, one also needs to figure out the market sentiment. Look at the chart below.
 
-[![](./img/cycle.jpg "cycle")](./img/cycle.jpg)
+[![](/2008/08/irrational-on-the-way-up-rational-on-the-way-down/img/cycle.jpg "cycle")](./img/cycle.jpg)
 
 Back in March, I listed 4 rules for [Picking a Real Estate Bottom](/2008/03/picking-a-real-estate-bottom/). I would add market sentiment as a loose 5th rule. Be aware of it. Listen. Save money and be patient. That million dollar condo with the view won't be a million at the bottom.
 

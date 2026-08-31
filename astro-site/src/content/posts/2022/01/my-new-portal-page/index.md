@@ -16,7 +16,7 @@ I love it. If you know basic HTML but don't want to waste hours tweaking CSS, I 
 
 I did make one addition. The first photo of me on a bike had an old-timey frame that I scanned in. I liked that look, so I created a CSS class that allowed me to apply that same frame look to the other photos.
 
-![me on a bike](./img/mas-bike.jpg)
+![me on a bike](/2022/01/my-new-portal-page/img/mas-bike.jpg)
 
 My goal with the rewrite was to have a page that introduced me and not just a list of websites that I built. I also get alerts every month or two where someone with my exact name got arrested. I wanted to clarify that my record is clean and I'm not the alleged criminal should someone be looking for them.
 

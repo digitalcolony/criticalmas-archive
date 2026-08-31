@@ -23,7 +23,7 @@ export async function getStaticPaths() {
 		props: {
 			tagName: data.name,
 			posts: data.posts.sort(
-				(a: any, b: any) => b.data.pubDate.getTime() - a.data.pubDate.getTime()
+				(a: any, b: any) => b.data.pubDate.getTime() - a.data.pubDate.getTime(),
 			),
 		},
 	}));
@@ -32,8 +32,8 @@ export async function getStaticPaths() {
 const { tagName, posts } = Astro.props;
 
 function getPostUrl(post: any) {
-	// post.slug already includes year/month/slug from the file path
-	return `/${post.slug}/`;
+	// post.id already includes year/month/slug from the file path
+	return `/${post.id}/`;
 }
 ---
 
@@ -56,7 +56,7 @@ function getPostUrl(post: any) {
 				posts.map((post: any) => (
 					<PostCard
 						title={post.data.title}
-						slug={post.slug}
+						slug={post.id}
 						pubDate={post.data.pubDate}
 						url={getPostUrl(post)}
 						categories={post.data.categories}

@@ -55,7 +55,7 @@ The squat can be a great tool. Use it while you are young. Do it intelligently, 
 
 These are all my opinions. I'm not a fitness professional. My bias is always going to be safety first.
 
-![](./img/lift-weights.jpg)
+![](/2019/03/if-i-gave-a-squat-about-the-squat/img/lift-weights.jpg)
 
 _Photo credit: US Navy_
 

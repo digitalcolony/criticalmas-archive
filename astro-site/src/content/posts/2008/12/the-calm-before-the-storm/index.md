@@ -27,7 +27,7 @@ The good thing about newbies in the gym is they provide excellent material for [
 
 BTW, there was a Glitter Gym Holiday miracle today. The [105-pound dumbbells](/2008/11/tales-from-the-glitter-gym-the-105-pound-dumbbells/) have been returned to the rack! Thank you Santa.
 
-![gym](./img/5513197198_434030c85d_z.jpg)
+![gym](/2008/12/the-calm-before-the-storm/img/5513197198_434030c85d_z.jpg)
 
 _[Photo](https://flic.kr/p/9pbzs7) by W\_Minshull_
 

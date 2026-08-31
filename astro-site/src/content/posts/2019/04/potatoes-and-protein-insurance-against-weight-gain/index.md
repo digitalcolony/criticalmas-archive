@@ -30,7 +30,7 @@ This winter I also experimented with replacing the potatoes with various grains,
 
 Did anyone else try P&P this winter? What were your results?
 
-![potatoes-protein](./img/potatoes-protein.jpg)
+![potatoes-protein](/2019/04/potatoes-and-protein-insurance-against-weight-gain/img/potatoes-protein.jpg)
 
 ---
 

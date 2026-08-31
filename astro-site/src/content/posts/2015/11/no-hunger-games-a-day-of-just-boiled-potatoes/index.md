@@ -21,7 +21,7 @@ I decided to let hunger be my guide and not try and restrict consumption to achi
 
 During the day, I weighed the potatoes. At times my belly was full but I felt false hunger. Meaning I craved color, flavor, and variety, but I wasn't really hungry. It was a gray rainy day in Seattle. Not part of the day. The entire day. I picked a tough day to try this experiment. To get my flavor stimulus, I consumed more coffee than usual. I'm not sure if that is allowed or not, but one battle at a time.
 
-![potato-diet](./img/potato-diet.jpg)
+![potato-diet](/2015/11/no-hunger-games-a-day-of-just-boiled-potatoes/img/potato-diet.jpg)
 
 Before heading to sleep, I added everything up. I consumed 5 pounds of potatoes and nothing else. That works out to 1,770 calories. If my metabolism is 2,100 then that works out to a 15.7% deficit. If I'm at 2,400 then it is a 26.3% deficit. Very interesting.
 

@@ -11,7 +11,7 @@ commentCount: 2
 
 Here is a preview of an upcoming post.
 
-![mas-tiger-500](./img/mas-tiger-500.jpg "mas-tiger-500")
+![mas-tiger-500](/2009/11/here-kitty-kitty/img/mas-tiger-500.jpg "mas-tiger-500")
 
 ---
 

@@ -26,7 +26,7 @@ My Simple Soundboard beats Soundboard.com in 4 ways.
 3.  Sorts alphabetically automatically. No more dragging individual track into order!
 4.  You can play multiple drops simultaneously. Not theirs.
 
-![neil-soundboard](./img/neil-sb.jpg)
+![neil-soundboard](/2015/02/make-host-soundboard/img/neil-sb.jpg)
 
 _[The Neil Rogers Soundboard](https://neilrogers.org/soundboard/)_
 

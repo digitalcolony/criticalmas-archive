@@ -42,7 +42,7 @@ I'll start with the good news. The good news is that even though I switched up m
 
 Is this common? If I eat a huge bowl of cold boiled potatoes, I'm done. If I eat an equally caloric amount of lean chicken, I want dessert.
 
-![](./img/ice-cream-truck.jpg)
+![](/2017/09/199-and-holding/img/ice-cream-truck.jpg)
 
 _[Photo](https://flic.kr/p/cw4UiE) by State Library Victoria_
 

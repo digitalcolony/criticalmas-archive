@@ -13,7 +13,7 @@ I love celery, but it annoys me how quickly it loses it crunch and goes limp. Th
 
 After about 30 minutes, my near dead celery was a crunchy as if it were just pulled from the Earth. Having it in a jar on the top shelf instead of buried in the crisper also means I'll be snacking on more celery.
 
-![celery-water](./img/celery-water.jpg)
+![celery-water](/2012/09/celery-resurrection/img/celery-water.jpg)
 
 _Celery Resurrection!_
 

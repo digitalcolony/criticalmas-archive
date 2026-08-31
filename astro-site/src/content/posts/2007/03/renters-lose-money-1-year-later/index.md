@@ -17,7 +17,7 @@ Throughout the year I saw a steady decline in the price per square foot in my do
 
 Meanwhile the inventory continues to grow, while lending standards get tighter. Will I continue _throwing my money away_ renting in 2007? You bet I will.
 
-![throwing money away](./img/2941045084_0ab2819510_z.jpg)
+![throwing money away](/2007/03/renters-lose-money-1-year-later/img/2941045084_0ab2819510_z.jpg)
 
 _[Photo](https://www.flickr.com/photos/cayusa/2941045084/) by Bart_
 

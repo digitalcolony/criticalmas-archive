@@ -17,7 +17,7 @@ I'm approaching food from a different angle. After deciding that [spending anoth
 
 Now combine that with food inflation and the mentorship of a good friend who is fearless in the kitchen and you have the conditions for me to pursue cooking. I'm still a long way from being a great cook, but I'm certain that after a few hundred hours of practice I'll be as confident in the kitchen as I am when discussing actions by the Federal Reserve. :)
 
-![150-healthy-foods](./img/150-healthy-foods.jpg)
+![150-healthy-foods](/2008/08/why-cooking-and-why-now/img/150-healthy-foods.jpg)
 
 Taking more control over my food has also resulted in a nice side benefit. My body fat is dropping. By controlling the ingredients, I've been able to further reduce my intake of corn and processed soy. More on that in another post.
 

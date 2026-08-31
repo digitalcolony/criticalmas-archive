@@ -40,7 +40,7 @@ Last month I created a meatball recipe that mimicked the taste of gyro meat in t
 4.  Heat for 35-40 minutes.
 5.  Test internal temperature for 160 degrees.
 
-![gyro-meatloaf](./img/gyro-meatloaf.jpg)
+![gyro-meatloaf](/2012/03/the-gyro-meatloaf-recipe/img/gyro-meatloaf.jpg)
 
 
 #### Quick notes

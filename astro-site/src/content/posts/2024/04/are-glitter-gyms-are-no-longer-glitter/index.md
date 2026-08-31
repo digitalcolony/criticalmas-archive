@@ -13,7 +13,7 @@ Just a month ago I dusted off my old Tales From the Glitter Gym series after a 1
 
 My mini-gym Fitness 19 closed. They transferred all the member's accounts to the big box LA Fitness. _Thankfully, without any price increase._ I estimate that I've been at Fitness 19 for about 9 of the 13 years they were open. Except for the [SilverSneakers incident](/2014/04/silversneakers-young-trainers-teaching-old-timers-bad-lifting-form/), I didn't see any of the crazy things I witnessed when I went to 24 Hour Fitness.
 
-![](./img/gym-modern.jpg)
+![](/2024/04/are-glitter-gyms-are-no-longer-glitter/img/gym-modern.jpg)
 
 
 ### No More Glitter?

@@ -14,7 +14,7 @@ This past summer I haven't been working out much for two reasons. First is my on
 
 When I first entered DeSisto Strength, I was concerned it was too hot in the gym. The glass in the front captured a lot of heat. However, when it came time to begin the workout, the air conditioner was turned on and Dave had fans set up to directly cool me as I moved from one exercise to another. It was the coolest indoor workout I had in years.
 
-![desisto strength](./img/desisto-strength.jpeg)
+![desisto strength](/2014/11/high-intensity-tune-desisto-strength-training/img/desisto-strength.jpeg)
 
 _DeSisto Strength Training - San Francisco, CA_
 

@@ -13,15 +13,15 @@ The prime vacation destination for Thailand is probably Phuket. That should have
 
 The highlight of mystay in Phuket was hiring a taxi to drive mearound the island to take photos, see stuff and do a little hiking. If you plan to visit Thailand, you can avoid Phuket. There are better places to have the Thailand beach experience.
 
-![phuket-5](./img/phuket-5.jpg)
+![phuket-5](/2009/11/phuket-thailand/img/phuket-5.jpg)
 
-![phuket-4](./img/phuket-4.jpg)
+![phuket-4](/2009/11/phuket-thailand/img/phuket-4.jpg)
 
-![phuket-3](./img/phuket-3.jpg)
+![phuket-3](/2009/11/phuket-thailand/img/phuket-3.jpg)
 
-![phuket-2](./img/phuket-2.jpg)
+![phuket-2](/2009/11/phuket-thailand/img/phuket-2.jpg)
 
-![phuket-1](./img/phuket-1.jpg)
+![phuket-1](/2009/11/phuket-thailand/img/phuket-1.jpg)
 
 [Photo Gallery for Phuket, Thailand](https://www.flickr.com/photos/129592470@N02/sets/72157650152144795/)
 

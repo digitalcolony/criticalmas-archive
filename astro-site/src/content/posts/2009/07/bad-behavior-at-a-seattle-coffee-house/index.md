@@ -13,7 +13,7 @@ It wasn't just any Sunday. It was Easter Sunday. The Coffee Club of Seattle was 
 
 I had to find out what was going on. One of the members told me in a very quiet voice that the old man sitting near the door was playing pornographic videos on his laptop. He would play the video for 30 seconds or so and then he would minimize the video and look around the room. This process was repeated over and over. We were there for over two hours and that old guy was still doing it when we left.
 
-![](./img/old-man-laptop.jpg)
+![](/2009/07/bad-behavior-at-a-seattle-coffee-house/img/old-man-laptop.jpg)
 
 Once outside the coffee shop, we looked into the large glass window to where he was sitting. He had resumed watching his adult movies. I don't even know if he purchased any coffee.
 

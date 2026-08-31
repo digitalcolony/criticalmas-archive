@@ -13,7 +13,7 @@ A week ago someone who I really respect convinced me to try acupuncture as a st
 
 If I was [wrong](/2011/08/half-the-ideas-in-this-blog-are-probably-wrong/) about diet and fitness, then maybe I was wrong about acupuncture. I have been running endless tests and analysis since mid March with no success. I needed a break, so I decided to give acupuncture a fair test. This past week I did my first two visits. I also decided that I would not play Internet researcher trying to learn everything about this form of treatment. Instead, I'm going to accept my ignorance on the topic, trust my caregiver and be a good patient.
 
-![accupuncture](./img/accupuncture.jpg)
+![accupuncture](/2011/10/trying-acupuncture/img/accupuncture.jpg)
 
 _Photo by Gwendel Uguen_
 
@@ -25,7 +25,7 @@ Did the acupuncture help my sinus headaches? Not yet. Although I had a great nig
 
 If I don't see a decrease in headache frequency or intensity by the end of the third week, I will quit going. I will say that I am enjoying the sessions, but mostly because I miss having a large reclining chair where I can lay back and close my eyes.
 
-![old-living-rooom](./img/old-living-rooom.jpg)
+![old-living-rooom](/2011/10/trying-acupuncture/img/old-living-rooom.jpg)
 
 _My living room in San Diego with the big ole' Lazy Boy recliner._
 

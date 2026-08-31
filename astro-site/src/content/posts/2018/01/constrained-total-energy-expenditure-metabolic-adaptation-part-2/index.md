@@ -29,7 +29,7 @@ _The Exercise Paradox_ is an article Dr. Pontzer wrote for Scientific American. 
 
 When it comes to calories, fat loss, and exercise, one of my go-to researchers is Lyle McDonald. I found his thoughts on Pontzer's work in a year-old comment on Facebook.
 
-![Lyle McDonald on Pontzer](./img/lyle-on-activity.png)
+![Lyle McDonald on Pontzer](/2018/01/constrained-total-energy-expenditure-metabolic-adaptation-part-2/img/lyle-on-activity.png)
 
 McDonald's comment rang true to me. At the times of my life when I trained the hardest, were also the times you couldn't peel me off the coach at the end of the day. And the times when I trained the least, were the times I couldn't sit still. In my case, it seemed like my body was trying to even things out as best as it could.
 
@@ -41,7 +41,7 @@ McDonald also linked to [Physical Activity and the Missing Calories](https://ww
 
 > However, there are compelling data from humans showing that energy intake is indeed increased in response to exercise (e.g., (1)). Unfortunately, the evidence presented by Pontzer does not include data on energy balance, and it is possible that these constraints on energy expenditure only operate under certain conditions of ill-favored negative energy balance. Another possibility is that energy expenditure does not increase with structured physical activity due to decreases in spontaneous physical activity (e.g., fidgeting) or reductions in the energy cost of physical activity (e.g., improved muscle efficiency), rather than from reductions in resting metabolic rate. Indeed, spontaneous physical activity can account for a large amount of caloric expenditure even in sedentary conditions and may represent a buffer against changes in structured physical activity (5). Moreover, as Pontzer admits, athletes and subsistence farmers present a clear challenge to his model because they exceed the proposed limits on energy expenditure, even after correcting for body size (3). And even in the case of the Hadza who have comparable energy expenditure to Westerners once adjusted for fat-free mass, the Hadza expend more energy in physical activity and are leaner than their Western counterparts (4). Therefore, despite a possible upper limit on energy expenditure, physical activity can reduce adiposity.
 
-![triceps](./img/daniel-apodaca-triceps.jpg)
+![triceps](/2018/01/constrained-total-energy-expenditure-metabolic-adaptation-part-2/img/daniel-apodaca-triceps.jpg)
 
 _Photo by [Daniel Apodaca](https://unsplash.com/@danielapodaca96)_
 

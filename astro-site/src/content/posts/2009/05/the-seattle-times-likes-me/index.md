@@ -31,7 +31,7 @@ Here is a scorecard of my dealings with the press.
 
 There were other smaller papers that I've forgotten about, but I would score my press experiences as 6 positive, 4 negative and 1 neutral.
 
-![usatoday-mas](./img/usatoday-mas.jpg)
+![usatoday-mas](/2009/05/the-seattle-times-likes-me/img/usatoday-mas.jpg)
 
 _Photo from USA Today._
 

@@ -53,7 +53,7 @@ I had to cut back on the potatoes because I was losing too much weight. I wanted
 
 Seriously, if you think eating boiled potatoes will make you fat, check out my [Potato Hack Diet](/tag/potato/) resource page. The potato has the highest satiety of any food on the planet. Potatoes are awesome!
 
-![](./img/potatoes.jpg)
+![](/2018/11/tater-haters-have-some-explaining-to-do/img/potatoes.jpg)
 
 _[Photo credit](https://flic.kr/p/fq91Fo)_
 

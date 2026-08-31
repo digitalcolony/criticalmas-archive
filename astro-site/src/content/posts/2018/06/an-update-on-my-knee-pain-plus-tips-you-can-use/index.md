@@ -27,7 +27,7 @@ As you likely know, sitting can make your hips weak. But you may not know that e
 
 He lists a few tests, but a simple one to explain is the Side Leg Raise (aka the Jane Fonda).
 
-![jane fonda hip raise](./img/jane-fonda-hip-raise.jpg)
+![jane fonda hip raise](/2018/06/an-update-on-my-knee-pain-plus-tips-you-can-use/img/jane-fonda-hip-raise.jpg)
 
 You may be able to squat or deadlift a lot but try doing this move for reps. You may find it difficult to do 20 solid reps with your foot pointing forward. I've been doing this several times a week and it has helped a lot. I also do a standing version using a slower tempo. The standing version has the benefit of engaging my ankle and foot muscles for balance.
 
@@ -43,7 +43,7 @@ I haven't tried to stretch my inner thighs since I was a little kid playing socc
 
 I don't have flat feet - normally. But with observation and a camera, a friend of mine noticed that doing some movements at the gym my left foot would collapse and not maintain a proper arch.
 
-![foot arch](./img/foot.jpg)
+![foot arch](/2018/06/an-update-on-my-knee-pain-plus-tips-you-can-use/img/foot.jpg)
 
 _My shoes are completely falling apart, but I only wear them in the gym😉._
 

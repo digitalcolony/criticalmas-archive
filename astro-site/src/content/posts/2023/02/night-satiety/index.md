@@ -44,7 +44,7 @@ If you start to feel a little hungry in bed, recognize the hunger and don't indu
 
 My mistake for many years was rewarding those hunger signals, which only guaranteed they would return night after night.
 
-![refrigerator](./img/nrd-FDQFZHY9iG4-unsplash.jpg)
+![refrigerator](/2023/02/night-satiety/img/nrd-FDQFZHY9iG4-unsplash.jpg)
 
 _Photo by_ [_nrd_](https://unsplash.com/@nicotitto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

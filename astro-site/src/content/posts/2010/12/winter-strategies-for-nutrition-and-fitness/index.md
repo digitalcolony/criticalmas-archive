@@ -17,7 +17,7 @@ At the start of autumn, I posted [Fall Strategies For Nutrition and Fitness](/20
 
 The focus of winter is fat loss, injury recovery, and rest.
 
-![seattle-snowman](./img/seattle-snowman.jpg)
+![seattle-snowman](/2010/12/winter-strategies-for-nutrition-and-fitness/img/seattle-snowman.jpg)
 
 _Kerry Park 2008 Snow Storm by MAS (can you see the Space Needle?)_
 

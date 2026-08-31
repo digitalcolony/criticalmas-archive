@@ -31,7 +31,7 @@ When I looked over my Drafts yesterday, I felt no desire to blog about any of th
 
 **a few recipes** - I either took photos or notes, but not both. The meals are long gone, as is the memory of how I made them.
 
-![blog sign](./img/5053496835_1146cea386_z.jpg)
+![blog sign](/2014/08/blog-drafts-never-finished/img/5053496835_1146cea386_z.jpg)
 
 [Photo](https://flic.kr/p/8GyuxM) by Mixy Lorenzo
 

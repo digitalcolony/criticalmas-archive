@@ -14,7 +14,7 @@ The Paleo and Peat godz are weeping. I can feel the diabeteez and super bug myco
 
 Ahh!!! Must do a Hole30 DETOX for my purity.
 
-![natto](./img/natto.jpg)
+![natto](/2014/05/natto-sriracha/img/natto.jpg)
 
 My lunch was great.
 

@@ -19,8 +19,8 @@ The second reason is that I love espresso too much to spit. I know cuppers of wi
 
 Part 2 was the drip blending. Our group of six each constructed blends and then proceeded to cup them. I left Victrola having cupped 6 drip blends and sampled 6 shots of espresso. It wasn't even noon yet. Now it was off to the Coffee Meetup group.
 
-![stumptown-cupping](./img/stumptown-cupping.jpg)
+![stumptown-cupping](/2007/11/insane-amount-of-coffee-sunday-in-seattle/img/stumptown-cupping.jpg)
 
 The [Seattle Coffee Meetup](https://www.meetup.com/seattle-coffee-club/) met for a cupping at Stumptown. I could have passed, but when I saw the bean selection I had to sample. One of the beans was the non-auction version of the Panama Esmeralda. If you recall, I called that bean the [Best Cup of Coffee Ever](/2007/09/best-cup-of-coffee-ever/). This version was outstanding as well. And at $22/pound roasted, it would be worth every penny.
 
-![stumptown-pine](./img/stumptown-pine.jpg)
+![stumptown-pine](/2007/11/insane-amount-of-coffee-sunday-in-seattle/img/stumptown-pine.jpg)

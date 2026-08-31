@@ -21,7 +21,7 @@ Simply cutting back or any form of restriction will be remembered by the brain. 
 
 The brain doesn't know calories. It knows satiety. I've harped on this point before with the graphic below.
 
-![](./img/bulkydiet.jpg)
+![](/2021/06/should-one-ever-diet/img/bulkydiet.jpg)
 
 The key to successful dieting where the weight comes off and you keep it off is not moderation or restriction. It is consuming foods that are higher in satiety and lower in calories and then eating to fullness. You do not want to set off any alarms in the brain that you are dieting.
 
@@ -35,7 +35,7 @@ Today I weigh 180. I've been there for a long time now. It is effortless.
 
 Back to the question in the title of this post. Should one ever diet? For most people, I would say no. They still want the tasty foods that made them heavy - but just less than before. That works to lose the weight but sets them up for easy regain. The high percentage of regainers is too large to ignore or dismiss as errors of the individual.
 
-![reverse indy](./img/reverse-indy.jpg)
+![reverse indy](/2021/06/should-one-ever-diet/img/reverse-indy.jpg)
 
 This scene from Raiders of the Lost Ark might be a good way to visualize successfully losing weight in a method that doesn't send an alert to the brain. Swap out the foods you normally eat with the high-volume foods. Fill your belly. No hunger.
 

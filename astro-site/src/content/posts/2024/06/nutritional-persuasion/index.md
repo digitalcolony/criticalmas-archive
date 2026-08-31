@@ -28,7 +28,7 @@ This is a better approach, but it can still be improved upon.
 
 When I hear two people smarter on a topic than me who disagree, how do I know who is correct? How does the family dog know which member of the family is smartest? It's probably the one that feeds him the most treats.
 
-![](./img/nutritional-puzzle.jpg)
+![](/2024/06/nutritional-persuasion/img/nutritional-puzzle.jpg)
 
 _Nutrition puzzle_
 

@@ -20,7 +20,7 @@ Anyway, I'll keep taking my ginger root supplement. After all, I bought 3 bottle
 
 Do you have any secret tips for preventing the common cold? It was that very question that kicked off the nutritional direction of this blog over a decade ago. At times I thought I had it figured out, but I don't. I'm still seeking the answer.
 
-![sick](./img/sick.jpg)
+![sick](/2019/03/ginger-and-the-common-cold-my-experiment/img/sick.jpg)
 
 _[Photo Credit](https://flic.kr/p/iXrXc3)_
 

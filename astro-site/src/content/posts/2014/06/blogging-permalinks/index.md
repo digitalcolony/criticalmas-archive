@@ -39,7 +39,7 @@ I see this blog as a conversation. I'm discussing what is interesting to me at t
 
 I've never considered INeedCoffee a blog, although I don't fight the label. It is primarily a reference website. Because the pages are mostly being accessed by new readers, it makes less sense to use dates. Instead of having several articles on how I've changed my method of Chemex brewing in the last 15 years, it makes more sense to continually improve the article itself. How I evolved my brewing technique is not important to the new reader looking for guidance.
 
-![chemex650](./img/chemex650.jpg)
+![chemex650](/2014/06/blogging-permalinks/img/chemex650.jpg)
 
 _Last month I released a brand new version of my [Chemex coffee brewing tutorial](https://ineedcoffee.com/chemex-coffee-brewing-history-and-tutorial/). It was the third version of the article, which was originally released in 2003. Unless you are committed to maintaining older content, I think using dates in your permalinks is a better option._ 
 

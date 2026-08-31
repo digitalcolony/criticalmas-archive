@@ -28,7 +28,7 @@ Here I am in 2019 pushing up a leg press with my left leg as my hip and glute st
 
 Maybe I had a few more marathons in me? We'll never know.
 
-![](./img/bruno-nascimento-running.jpg)
+![](/2019/01/false-health-narratives/img/bruno-nascimento-running.jpg)
 
 _Photo by [Bruno Nascimento](https://unsplash.com/@bruno_nascimento)_
 

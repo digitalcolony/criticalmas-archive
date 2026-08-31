@@ -21,7 +21,7 @@ The problem comes in the marinade. If the meat is spicy, then it likely has been
 
 In addition to gochujang, most restaurant and food cart marinades will use soy sauce, which also has wheat. Making your own will allow you to swap out the soy sauce for Gluten Free Tamari.
 
-![gochujang](./img/gochujang.jpg)
+![gochujang](/2013/02/gluten-free-korean-bulgogi-tacos/img/gochujang.jpg)
 
 _Homemade Gluten-Free Gochujang_
 
@@ -31,7 +31,7 @@ _Homemade Gluten-Free Gochujang_
 
 I'm no expert in Korean cooking, so I decided the best place to get the bulgogi would be from a Korean grocery store. They are more likely to have paper-thin sliced meat than your average grocery store. I also trust their butchers are selecting the cuts that work best for what their customers are cooking. If you don't have access to a Korean grocery store, the post _Bulgogi: Korean Fire Meat_ (DEC 2020: link dead) has a good discussion on the best cuts for the beef variety. For pork, you can use the shoulder. Just have the butcher slice it thin.
 
-![pork-bulgogi](./img/pork-bulgogi.jpg)
+![pork-bulgogi](/2013/02/gluten-free-korean-bulgogi-tacos/img/pork-bulgogi.jpg)
 
 _Pork Bulgogi - Perfectly sliced_
 
@@ -60,7 +60,7 @@ After mixing the bulgogi in the marinade, I put it into the refrigerator for a f
 
 For the taco, I used the broiler to heat up some corn tortillas. Keep an eye on them, so they don't burn. The meat will only need 1-2 minutes per side on a grill or medium-hot on the stove. Place the meat on the taco and then add your toppings. I used cilantro, [kimchi](/2012/08/kimchi-2-0/), and Sriracha sauce. You could use sliced cucumbers or lettuce as well.
 
-![bulgogi-tacos](./img/bulgogi-tacos.jpg)
+![bulgogi-tacos](/2013/02/gluten-free-korean-bulgogi-tacos/img/bulgogi-tacos.jpg)
 
 _Gluten-Free Korean Bulgogi Tacos_ 
 

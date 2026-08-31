@@ -25,7 +25,7 @@ I learned the magic of staples during the [Potato Hack](/tag/potato/) and as I'v
 
 Most dieters either fail to lose weight or to keep it off. They aren't making strategic use of high-satiety staples. They are using willpower and hope. That rarely works.
 
-![potatoes-protein](./img/potatoes-protein.jpg)
+![potatoes-protein](/2019/02/the-power-of-staple-foods/img/potatoes-protein.jpg)
 
 _I list a few of the staples I eat on the post [Potatoes and Protein – A No Hunger Template For Fat Loss](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/)._
 

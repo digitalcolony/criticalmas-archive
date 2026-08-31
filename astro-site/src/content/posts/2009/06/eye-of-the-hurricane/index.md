@@ -20,7 +20,7 @@ If you are still long the stock market now, I'd be selling. You got a nice bounc
 
 The captains of industry are telling you recovery is on the way, while they sell their stock to you. P/E ratios are now [insanely high](http://zerohedge.blogspot.com/2009/06/st-louis-fed-on-interest-rate.html). The rally we have experienced is common in bear markets. The bounce between hope and fear is human nature.
 
-![](./img/star-step-decline500.jpg "hope and fear")
+![](/2009/06/eye-of-the-hurricane/img/star-step-decline500.jpg "hope and fear")
 
 I stand by my [2009 Financial Predictions](/2009/01/2009-financial-predictions/). Even though I was too optimistic on unemployment, I think everything else still has a decent chance of playing out this year.
 

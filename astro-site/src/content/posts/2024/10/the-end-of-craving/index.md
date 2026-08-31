@@ -25,7 +25,7 @@ Because the book was written by a journalist, I know to be skeptical. Journalist
 
 The book has been returned to the library, so I'll be going on memory. The claim is that the people of Northern Italy have an obesity rate of just 8%, which is a fraction of what we have in the USA. The author then goes into some history and possible explanations of the difference.
 
-![](./img/the-end-of-craving.jpg)
+![](/2024/10/the-end-of-craving/img/the-end-of-craving.jpg)
 
 
 #### Vitamin Fortification

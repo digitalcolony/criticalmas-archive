@@ -29,7 +29,7 @@ Maybe Thomas Jefferson's banking warning holds the answer?
 
 I'm still in the deflation camp but as someone with zero debt and savings that could be my wishful thinking and bias. I'm going to keep reading and thinking about this. A possible deflationary collapse mixed with a stock market that put in shorting bans is a volatile recipe for a stock market crash.
 
-![tom-jefferson](./img/tom-jefferson.jpg)
+![tom-jefferson](/2008/09/as-soon-as-i-get-my-head-round-you/img/tom-jefferson.jpg)
 
 ---
 

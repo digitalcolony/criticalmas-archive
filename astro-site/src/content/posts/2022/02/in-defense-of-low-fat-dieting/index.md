@@ -22,7 +22,7 @@ Many low-carb zealots continue to lump all carbs together. Mountain Dew is the s
 
 My [Peasant Diet](/2016/11/designing-modern-peasant-diet/) and [Potatoes & Protein Diet](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/) both are whole food low-fat diets that remove processed foods and increase both protein and fiber. They worked great. Starting with a classic [Potato Hack](/tag/potato/) + Peasant Diet and then moving to Potatoes & Protein, I went from 222 to 180 without experiencing hunger and I've kept the weight off for years now. _(height 6'2.5 or 189 cm)_
 
-![potatoes-protein](./img/potatoes-protein.jpg)
+![potatoes-protein](/2022/02/in-defense-of-low-fat-dieting/img/potatoes-protein.jpg)
 
 I solved the classic criticism of low-fat dieting which is hunger. If you fill your belly with whole foods that have a lower calorie density that also have protein and fiber, you feel satiety. You get full with fewer calories.
 

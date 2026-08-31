@@ -71,7 +71,7 @@ On September 14, 2002, I discovered an error in the code of Blogger inside the V
 
 The next day, I got a shout-out for one of my posts.
 
-![Evhead Blog](./img/evhead-sept2002.jpg)
+![Evhead Blog](/2019/06/how-google-helped-kill-the-indie-web-and-how-it-can-bring-it-back/img/evhead-sept2002.jpg)
 
 That [blog post](https://web.archive.org/web/20021017101159/http://www.evhead.com/archives/2002_09_01_arch.asp) was written by [Evan Williams](https://en.wikipedia.org/wiki/Evan_Williams_%28Internet_entrepreneur%29). Founder of Blogger. Co-founder of Twitter and now the founder of Medium.com. That was the [old-school independent web](/2019/06/the-indie-web-is-dead-long-live-the-indie-web/). No Facebook or Twitter verified account was needed.
 

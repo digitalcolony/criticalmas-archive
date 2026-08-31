@@ -17,7 +17,7 @@ I am aware that Medium is having business issues, so I won't be foolish enough t
 
 So if you do Medium, follow me if you like. My plan is to gradually post 1-3 of my better posts per week until I'm caught up.
 
-[![](./img/medium-300x300.png)](https://medium.com/@CriticalMAS)
+[![](/2017/02/medium-blog-housekeeping/img/medium-300x300.png)](https://medium.com/@CriticalMAS)
 
 
 ### Web Hosting
@@ -41,7 +41,7 @@ It is a no-brainer to make your website secure. You are going to see plain old H
 
 This blog is now AMP validated as well. This means if you access any blog post from Google Search on mobile, you will get a page delivered from the Google server closest to your location. The page will often load in 1/4 of a second. Smoking fast! See below.
 
-![](./img/tim-ferriss-hoax-amp.png)
+![](/2017/02/medium-blog-housekeeping/img/tim-ferriss-hoax-amp.png)
 
 My page loads in 1/4 of a second. The second search result takes 4 seconds and is not mobile-friendly. My blog post gets a higher ranking. #winning
 

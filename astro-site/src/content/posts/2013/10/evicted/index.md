@@ -13,7 +13,7 @@ I've mentioned this offline to a few people, but I haven't discussed it here. Ab
 
 We expected that the new owners might increase the rent, but they have renovation plans that can't be done with the tenant in place. Their plans are to turn our apartments into luxury apartments and if rumors are accurate increase the monthly rent by $500 or more.
 
-![lochhaven-construction](./img/lochhaven-construction.jpg)
+![lochhaven-construction](/2013/10/evicted/img/lochhaven-construction.jpg)
 
 I've been living in this complex for 3 years. One lady has been here since 1968. There are many that have been here for a decade or more. This was one of the last remaining affordable places to live in the Ballard neighborhood of Seattle.
 

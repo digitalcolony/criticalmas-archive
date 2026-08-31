@@ -13,11 +13,11 @@ If you head east of Seattle this time of the year, you will find many places tha
 
 I love blueberries, so last week I headed East to get my bounty.
 
-![blueberries-1](./img/blueberries-1.jpg)
+![blueberries-1](/2009/08/blueberry-picking-east-of-seattle/img/blueberries-1.jpg)
 
 Marketman said he picked over 20 pounds of blueberries. I only got about 8 pounds and I had help. The night after picking blueberries, I had a dream where I kept picking more blueberries. If you have space in your freezer, seek out a blueberry farm and start picking.
 
-![blueberries-2](./img/blueberries-2.jpg)
+![blueberries-2](/2009/08/blueberry-picking-east-of-seattle/img/blueberries-2.jpg)
 
 My tip is to avoid the _Mercer Slough Blueberry Farm_. It is over picked at this point. If any of my fellow Seattle blueberry pickers are out there, post in the comments which farms you liked.
 

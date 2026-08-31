@@ -11,13 +11,13 @@ commentCount: 3
 
 As much as a bad user interface annoys me, I really enjoy discovering an excellent U/I. While in Thailand and Cambodia, I noticed a brilliant user interface. They place a second counter on traffic lights. When a light turns green or red, there is a second counter to the side of it. You know exactly when the light will change.
 
-![siem-reap-traffic-light](./img/siem-reap-traffic-light.jpg)
+![siem-reap-traffic-light](/2009/12/traffic-lights-and-menus-in-thailand-and-cambodia/img/siem-reap-traffic-light.jpg)
 
 _11 Seconds left on this green light in Siem Reap, Cambodia_
 
 Here in the States, people use red lights to apply makeup, drink coffee and light their smokes. Having a second counter on the light would give our multi-tasking drivers a visible indicator on how much time they have before the guy behind them blasts his horn. I love it.
 
-![bangkok-traffic-light](./img/bangkok-traffic-light.jpg)
+![bangkok-traffic-light](/2009/12/traffic-lights-and-menus-in-thailand-and-cambodia/img/bangkok-traffic-light.jpg)
 
 _9 seconds left on this red light in Bangkok, Thailand_
 
@@ -33,7 +33,7 @@ As much as I loved the user interface of intersections, I need to give a slam on
 
 Now the silly American in me would order #4 and then point to the line in the menu. Since many can't speak English and they all understand numbers, this to me seems the logical way to order. Nope. I don't even know why they put the numbers in the menu. We always had to have that moment where nobody understood anyone until they came around to write down what I was pointing at on the menu. They would write the entire name of the dish down. Never once did they write the number.
 
-![chiang-mai-menu](./img/chiang-mai-menu.jpg)
+![chiang-mai-menu](/2009/12/traffic-lights-and-menus-in-thailand-and-cambodia/img/chiang-mai-menu.jpg)
 
 _A numbered menu from Chiang Mai, Thailand_
 

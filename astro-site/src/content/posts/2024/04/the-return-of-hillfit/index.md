@@ -13,7 +13,7 @@ Way back in 2012, I reviewed the book [Hillfit](/2012/01/hillfit-strength-is-not
 
 Hillfit was online and available for sale for a few years and then it was gone.
 
-![](./img/WallsitSideview.png)
+![](/2024/04/the-return-of-hillfit/img/WallsitSideview.png)
 
 _A wall sit is one of the exercises in Hillfit._
 

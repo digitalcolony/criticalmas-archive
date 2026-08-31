@@ -13,7 +13,7 @@ In previous posts, I have celebrated how lean you will get once you [eliminate b
 
 There is a price to pay.
 
-![bread-sign](./img/bread-sign.jpg)
+![bread-sign](/2011/04/the-downside-to-life-without-bread/img/bread-sign.jpg)
 
 _Photo by [Thomas Hawk](https://flic.kr/p/bnXMqi)_
 

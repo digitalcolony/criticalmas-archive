@@ -19,11 +19,11 @@ First, I want to apologize to any of the users that received a CAPTCHA block try
 
 You should never see a CAPTCHA or security block on this site. If you do, please email me (digitalcolony@gmail.com) or tag me on Twitter @CriticalMAS with a screenshot and your IP Address (go to [whatsmyip.org](http://www.whatsmyip.org/)).
 
-![](./img/captcha-SITEGROUND600.jpg)
+![](/2017/12/blog-issues-new-search-requests/img/captcha-SITEGROUND600.jpg)
 
 _CAPTCHA #1 is what some users saw. It was coming from my website._ 
 
-![](./img/captcha-CLOUDFLARE600.jpg)
+![](/2017/12/blog-issues-new-search-requests/img/captcha-CLOUDFLARE600.jpg)
 
 _CAPTCHA #2 is by my CDN. I don't believe anyone received this one._ 
 

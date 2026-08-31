@@ -59,7 +59,7 @@ There are lots of tutorials online that will walk you through building a blog wi
 
 Unless you are [a developer that really enjoys messing with their CMS](https://kevq.uk/goodbye-wordpress-switched-to-jekyll/), this is still not an option for most. I'd rather have the developers at Medium or WordPress handle that plumbing while I post blogs. For sites that you KNOW are going to be under say 50 posts, I really like static sites. Beyond that, I don't trust the tools yet.
 
-![blogging](./img/pexels-suzy-hazelwood-3601081.jpg)
+![blogging](/2022/01/getting-started-in-blogging-in-2022/img/pexels-suzy-hazelwood-3601081.jpg)
 
 _Photo by **[Suzy Hazelwood](https://wordmusing.wordpress.com/?ref=pexels)**_
 

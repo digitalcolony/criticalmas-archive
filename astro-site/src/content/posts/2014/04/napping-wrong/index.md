@@ -22,7 +22,7 @@ Since napping takes place when the sun is out and there is activity, does it mak
 
 Then I close my eyes and imagine a cat napping. And it is working.
 
-![rainman-napping](./img/rainman-napping.jpg)
+![rainman-napping](/2014/04/napping-wrong/img/rainman-napping.jpg)
 
 _My old cat Rainman napping away in the sunlight._ 
 

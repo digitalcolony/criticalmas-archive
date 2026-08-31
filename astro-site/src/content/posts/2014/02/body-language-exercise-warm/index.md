@@ -19,7 +19,7 @@ Here is how I described my motivation for doing mobility work in a [2012 post on
 
 > My mobility work is about demonstrating to my mind that my body is healthy and can engage in a wide range of movements effortlessly and pain free. Since I believe the root cause of almost all my back pain is psychological and not physical, I am showing my mind just how capable I am. Throughout the week, I may sit for hours at a desk or in a car. During this time, I am incapable of demonstrating free movement. My mobility sessions are to me a movement meditation. I am proudly showing my mind just how capable my movement is when I step away from the restrictions the modern world places on varied movement.
 
-![usan bolt power pose](./img/bolt-power-pose.jpg)
+![usan bolt power pose](/2014/02/body-language-exercise-warm/img/bolt-power-pose.jpg)
 
 _Bolt showing a power pose in victory._
 
@@ -47,7 +47,7 @@ Below is a list of the movements I regularly perform before exercise. To me, the
 4.  Standing [Sky Reach](/2011/12/3-minutes-to-a-pain-free-life/).
 5.  Twisting movement with swing arms (see the [start of this video](http://youtu.be/m6kADa5Gtzw?t=20s) for an example)
 
-![arm-circle-mobility](./img/arm-circle-mobility.png)
+![arm-circle-mobility](/2014/02/body-language-exercise-warm/img/arm-circle-mobility.png)
 
 _Arm Circles. Do half with the thumb forward and half with the thumb pointed backward._
 

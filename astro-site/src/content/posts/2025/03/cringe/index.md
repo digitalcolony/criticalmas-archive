@@ -14,13 +14,13 @@ While fixing these broken links, my Grammarly plugin detects spelling and gramma
 
 In addition to the writing errors, I see nutritional opinions I wrote that I no longer agree with. It's ok to be wrong, and it would be futile to go back and fix hundreds of posts because who knows what my views might be in another five or ten years.
 
-![](./img/office-cringe.jpg)_Me reading one of my posts from 15 years ago trashing soy and carbs with the confidence of an NBA All-Star._
+![](/2025/03/cringe/img/office-cringe.jpg)_Me reading one of my posts from 15 years ago trashing soy and carbs with the confidence of an NBA All-Star._
 
 Worse than my "no longer current" nutritional view is the confidence that I had when I wrote those posts. I was so sure. Grammarly will often critique my current writing style as lacking a confident tone. Confident writing is considered better. But there is a reason I changed the way I write. It is because I have a history of 1,700+ posts where things I was sure about are now things I know are wrong.
 
 Today, I installed an old post plugin to notify readers that my views may have changed. I used the 7-year mark to define old.
 
-![](./img/Screenshot-2025-03-15-at-08-05-15-Ranking-the-Paleo-Books-March-2011-Critical-MAS.png)
+![](/2025/03/cringe/img/Screenshot-2025-03-15-at-08-05-15-Ranking-the-Paleo-Books-March-2011-Critical-MAS.png)
 
 _Here is a cringy reading list - now with a warning!_
 

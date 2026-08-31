@@ -49,7 +49,7 @@ Ultalabs and Directlabs act as brokers between you and the places that perform t
 
 For less than $100 I was able to get two Vitamin D tests and a bottle of Vitamin D3/K2 capsules. I fixed my deficiency and have escaped the Vitamin D danger zone. No doctor needed.
 
-![vitamin-d-test](./img/vitamin-d-test.jpg)
+![vitamin-d-test](/2020/05/doubling-my-vitamin-d-levels-in-2-months/img/vitamin-d-test.jpg)
 
 _On the iPhone, open the Health app, click summary, scroll to the bottom to add accounts. Add your health care provider and testing facilities. A few days later, all your health data will be there for easy access._
 

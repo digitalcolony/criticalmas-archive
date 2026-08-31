@@ -21,7 +21,7 @@ Bought 90 SRS @78.22 on MON 12/8
 
 Sold 90 SRS @99.78 on FRI 12/12
 
-![](./img/srs.png "srs")
+![](/2008/12/anatomy-of-a-good-trade/img/srs.png "srs")
 
 This time I didn't get greedy on a Friday. Instead I exited the trade and locked in the gain. Good thing I did, because the stock tanked shortly afterward almost 20%. Now it is the weekend and I'm holding no leveraged ETFs in my account and I'm another $1,920 closer to retirement. This was a good week.
 

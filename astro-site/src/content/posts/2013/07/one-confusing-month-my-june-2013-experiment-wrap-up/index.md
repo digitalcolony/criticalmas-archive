@@ -43,7 +43,7 @@ What happened? Is the key to drink coffee later in the afternoon? The only other
 
 As stumped as I am about the headache data, I'm really puzzled about my weight. I thought by returning to Intermittent Fasting and reducing my sugar intake that I'd lose 5 pounds. Nope. I gained 5 more. Interestingly, I actually look 5 pounds leaner in the mirror. Maybe that was from getting a little tanner?
 
-![dailyIF](./img/dailyIF.png)
+![dailyIF](/2013/07/one-confusing-month-my-june-2013-experiment-wrap-up/img/dailyIF.png)
 
 My average IF was a little on the low side (13.9 hour average), but it was still higher than the previous months. Maybe I needed to add an additional hour? Exercise levels were constant. I didn't introduce any new foods and I would estimate my sugar consumption was 50% less than the prior month.
 

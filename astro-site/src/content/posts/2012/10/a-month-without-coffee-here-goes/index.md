@@ -29,9 +29,9 @@ My history is that I almost never publicly announce goals unless I know there is
 
 Almost as if I created an experiment within an experiment, I decided to ignore Sivers advice and do the opposite of what I normally do. That is why I announced my intentions to curb my caffeine addiction in the post [Caffeinated Delusions](/2012/09/caffeinated-delusions/) and my goals in [My Caffeine Detox Plan](/2012/09/my-caffeine-detox-plan/).
 
-![](./img/coffee-gear550.jpg "coffee-gear550")
+![](/2012/10/a-month-without-coffee-here-goes/img/coffee-gear550.jpg "coffee-gear550")
 
-![](./img/coffee-gear-really-gone.jpg "coffee-gear-really-gone")
+![](/2012/10/a-month-without-coffee-here-goes/img/coffee-gear-really-gone.jpg "coffee-gear-really-gone")
 
 _Boxing up all my coffee gear and putting it into storage was motivating. I liberated the space for some of my ferments. :)_
 

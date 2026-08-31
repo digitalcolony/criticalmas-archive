@@ -40,7 +40,7 @@ My plan is starting this week to add a few more sets a week to my chest, back, a
 
 I'll listen to my intuition to guide me as I add on the volume. I'll be checking my weight and using a tape measure as well. I've been undereating recently and I know I'll need to correct that problem as I reach for more hypertrophy gains via increased volume. If I can't fix the calories right away, I'll pause on the volume until I can.
 
-![weights](./img/weights.jpg)
+![weights](/2018/09/use-intuition-and-directional-accuracy-to-build-your-workouts/img/weights.jpg)
 
 ---
 

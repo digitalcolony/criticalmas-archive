@@ -27,7 +27,7 @@ What are the unstated reasons? Maybe they feel like crap because their thyroid a
 
 We have known for a long time that many people have issues with their thyroid when they go low-carb. What is the mechanism?
 
-![](./img/Screenshot-2023-12-03-at-08-11-36-Claude.png)
+![](/2023/12/keto-and-starvation-signals/img/Screenshot-2023-12-03-at-08-11-36-Claude.png)
 
 _From Claude.Ai_
 

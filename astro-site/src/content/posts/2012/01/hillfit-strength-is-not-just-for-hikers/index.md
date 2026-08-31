@@ -11,7 +11,7 @@ commentCount: 5
 
 For the past few years I have been reading the fitness blog [Conditioning Research](https://conditioningresearch.blogspot.com/) by Chris Highcock. Although I would be hard pressed to name a favorite nutrition blog, I can easily say _Conditioning Research_ is the best fitness blog. When I started reading the site, I had yet to be convinced on the effectiveness of High Intensity Training. I was still in the [Pavel](/2011/03/power-people-10-years/) camp of low reps, high weight and high rest between sets. My progress had stalled and I was ready to try something different.
 
-![hiking-slot-canyons](./img/hiking-slot-canyons.jpg)
+![hiking-slot-canyons](/2012/01/hillfit-strength-is-not-just-for-hikers/img/hiking-slot-canyons.jpg)
 
 _Photo of me hiking slot canyons outside of San Diego in 2007. I would have benefited from Hillfit back then._
 
@@ -23,7 +23,7 @@ The 52-page _Hillfit_ e-book is the most user-friendly introduction I have seen 
 
 **UPDATE APRIL 2013:** Version [2.0 of Hillfit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/) is now available.
 
-![Hill Fit](./img/hill-fit-500.jpg "Hill Fit")
+![Hill Fit](/2012/01/hillfit-strength-is-not-just-for-hikers/img/hill-fit-500.jpg "Hill Fit")
 
 _Disclosure: I received a copy of Hillfit in exchange for feedback on a draft version._
 

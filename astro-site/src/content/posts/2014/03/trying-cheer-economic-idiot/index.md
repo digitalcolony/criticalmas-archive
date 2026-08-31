@@ -13,7 +13,7 @@ Last October I posted about my upcoming [eviction](/2013/10/evicted/). I live in
 
 I get this and I'm not complaining. It is business. The fact is me and my neighbors have been paying **below market rent** for a few years now. When we move, we will be entering a market with higher rents.
 
-![ballard-view](./img/ballard-view.jpg)
+![ballard-view](/2014/03/trying-cheer-economic-idiot/img/ballard-view.jpg)
 
 _My neighborhood of Ballard._
 

@@ -35,7 +35,7 @@ After the repairs, I got the backstory. For six months the gym hadn't responded 
 
 I've been going to gyms for 30 years now. This is the first time I've seen members perform clandestine gym maintenance. I was beyond impressed. The majority of the Tales From the Glitter Gym stories are based on inconsiderate behavior in a shared environment. This was the complete opposite. These two guys made the gym better.
 
-![](./img/dirty-gym.jpg)
+![](/2024/08/tales-from-the-glitter-gym-the-deal/img/dirty-gym.jpg)
 
 _My gym isn't this bad...yet._
 

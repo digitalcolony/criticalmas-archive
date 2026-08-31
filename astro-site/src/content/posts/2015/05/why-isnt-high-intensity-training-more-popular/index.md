@@ -37,7 +37,7 @@ High-Intensity Training challenges the volume mindset. But like religion and pol
 
 Overcoming the volume mindset is hard enough with an older adult, but next to impossible with the younger lifter.
 
-![lift-weights](./img/lift-weights.jpg)
+![lift-weights](/2015/05/why-isnt-high-intensity-training-more-popular/img/lift-weights.jpg)
 
 _Photo by US Navy_ 
 

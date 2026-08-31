@@ -13,21 +13,21 @@ Five years ago I was playing with mashing up photos and classic art using Photos
 
 For this post I used four photos I took in Seattle and mashed them with the colors from a Kinkade painting.
 
-![Seattle Sculpture Park](./img/sculpture-park.jpg "Seattle Sculpture Park")
+![Seattle Sculpture Park](/2012/04/seattle-photos-mashed-with-a-thomas-kinkade-painting/img/sculpture-park.jpg "Seattle Sculpture Park")
 
-![Seattle Sculpture Park Kinkade](./img/sculpture-park-kinkade.jpg "Seattle Sculpture Park Kinkade")
+![Seattle Sculpture Park Kinkade](/2012/04/seattle-photos-mashed-with-a-thomas-kinkade-painting/img/sculpture-park-kinkade.jpg "Seattle Sculpture Park Kinkade")
 
-![Seattle Pier](./img/seattle-pier600.jpg "Seattle Pier")
+![Seattle Pier](/2012/04/seattle-photos-mashed-with-a-thomas-kinkade-painting/img/seattle-pier600.jpg "Seattle Pier")
 
-![Seattle Pier Kinkade](./img/seattle-pier600-kinkade.jpg "Seattle Pier Kinkade")
+![Seattle Pier Kinkade](/2012/04/seattle-photos-mashed-with-a-thomas-kinkade-painting/img/seattle-pier600-kinkade.jpg "Seattle Pier Kinkade")
 
-![Seattle Space Needle](./img/seattle-space-needle-org.jpg "Seattle Space Needle")
+![Seattle Space Needle](/2012/04/seattle-photos-mashed-with-a-thomas-kinkade-painting/img/seattle-space-needle-org.jpg "Seattle Space Needle")
 
-![Seattle Space Needle Kinkade](./img/seattle-space-needle-kinkade.jpg "Seattle Space Needle Kinkade")
+![Seattle Space Needle Kinkade](/2012/04/seattle-photos-mashed-with-a-thomas-kinkade-painting/img/seattle-space-needle-kinkade.jpg "Seattle Space Needle Kinkade")
 
-![Betty Bowen Viewpoint](./img/betty-bowden.jpg "Betty Bowen Viewpoint")
+![Betty Bowen Viewpoint](/2012/04/seattle-photos-mashed-with-a-thomas-kinkade-painting/img/betty-bowden.jpg "Betty Bowen Viewpoint")
 
-![Betty Bowen Viewpoint Kinkade](./img/betty-bowden-kinkade.jpg "Betty Bowen Viewpoint Kinkade")
+![Betty Bowen Viewpoint Kinkade](/2012/04/seattle-photos-mashed-with-a-thomas-kinkade-painting/img/betty-bowden-kinkade.jpg "Betty Bowen Viewpoint Kinkade")
 
 
 ### Tutorial
@@ -35,15 +35,15 @@ For this post I used four photos I took in Seattle and mashed them with the colo
 
 To perform this trick in Paint.NET download the Pyrochild Plugins. I donated the requested $5 and immediately put the **Color Match** to work.
 
-![color-match1](./img/color-match1.jpg)
+![color-match1](/2012/04/seattle-photos-mashed-with-a-thomas-kinkade-painting/img/color-match1.jpg)
 
 _Select Adjustments > Color Match…_
 
-![color-match2](./img/color-match2.jpg)
+![color-match2](/2012/04/seattle-photos-mashed-with-a-thomas-kinkade-painting/img/color-match2.jpg)
 
 _For my first attempt, I loaded a Roy Lichtenstein. Yikes!_
 
-![color-match3](./img/color-match3.jpg)
+![color-match3](/2012/04/seattle-photos-mashed-with-a-thomas-kinkade-painting/img/color-match3.jpg)
 
 _For attempt two, I used a painting by Thomas Kinkade. Much better!_
 

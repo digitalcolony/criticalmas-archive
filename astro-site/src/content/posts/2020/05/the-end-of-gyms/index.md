@@ -41,7 +41,7 @@ We might have to start scheduling when we attend the gym. More friction. What [l
 
 I don't go to group fitness classes, but I can't imagine these recovering for years - if ever. A closed room with lots of heavy breathing, sweat, and movement. How are gyms with these classes going to make their members feel safe? 6-feet apart on a beach I understand. In a closed room? Even if you were able to pull it off, how do the economics work with staffing and scheduling? There will be waves of canceled memberships.
 
-![Fitness Class](./img/bruce-mars-fitness-class.jpg)
+![Fitness Class](/2020/05/the-end-of-gyms/img/bruce-mars-fitness-class.jpg)
 
 _Photo by [bruce mars](https://unsplash.com/@brucemars?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 

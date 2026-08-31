@@ -34,7 +34,7 @@ If you are like me, then you have years (or decades) of training experience. And
 
 We got this.
 
-![gym](./img/anastase-maragos-YVz1LxVJqoA-unsplash.jpg)
+![gym](/2020/12/muscle-interrupted/img/anastase-maragos-YVz1LxVJqoA-unsplash.jpg)
 
 _Photo by [Anastase Maragos.](https://unsplash.com/@visualsbyroyalz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_ 
 

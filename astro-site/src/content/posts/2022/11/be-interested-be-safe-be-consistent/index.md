@@ -21,7 +21,7 @@ I mentioned this briefly before, because I am now the old man in the free weight
 
 This post is setting the stage for [my next one](/2022/11/approaching-weight-lifting-like-an-investor/). I wanted to go on record as not being tied to any single fitness camp. Find something interesting for you. Find out how to do it safely and then consistently show up to do it. If and when your interest fades, find a new interest and repeat the process.
 
-![gym](./img/adam-wilson-gNzqerPFtWs-unsplash.jpg)
+![gym](/2022/11/be-interested-be-safe-be-consistent/img/adam-wilson-gNzqerPFtWs-unsplash.jpg)
 
 _Photo by [Adam Wilson](https://unsplash.com/@fourcolourblack?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 

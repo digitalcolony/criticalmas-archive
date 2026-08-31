@@ -18,7 +18,7 @@ My concerns about _CrossFit_:
 3.  **Beat Your Body Into Shape Mentality** - I know this exists everywhere, be it _CrossFit_, spin, or _Zumba_. This idea that we need to run ourselves to complete exhaustion via extreme volume or extreme movements to become more fit is dead wrong. It would be best if you worked with your body, not against it. Do what it takes to trigger results and no more. Dr. Doug McGuff uses the elevator button analogy. Once you've hit the button, wait for the elevator. Don't keep pressing the button. That body you beat up in your 20s and 30s is the same body you'll have when you get older. Treat it well.
 4.  **The Commercialization of Extreme** - This is the main thing that most turns me off about _CrossFit_. Every few years another extreme fitness program surfaces. _P90X anyone?_ The promise of turning your lumpy weak body into an Olympic athlete with some extreme program sure sounds appealing. Sadly, they all have high failure rates. Some people will succeed in doing any program and then falsely credit whatever program they did instead of superior genetics, youth, or a good diet.
 
-![crossfit-box-jump](./img/crossfit-box-jump.jpg)
+![crossfit-box-jump](/2011/03/understand-crossfit/img/crossfit-box-jump.jpg)
 
 _[Photo](https://flic.kr/p/egyhDj) by adrian valenzuela_
 

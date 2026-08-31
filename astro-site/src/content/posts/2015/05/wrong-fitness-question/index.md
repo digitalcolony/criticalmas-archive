@@ -19,7 +19,7 @@ The problem with weight training is something that took me a long time to learn
 
 There is a poll on the site asking readers to vote on their level of injury.
 
-![poll-vote](./img/poll-vote.png)
+![poll-vote](/2015/05/wrong-fitness-question/img/poll-vote.png)
 
 So in the quest for more muscle, 84% of T-Nation readers are having some form of injury. This is all unnecessary. I'm not going to go through the case for High-Intensity Training again. Been there, done that. If you are interested, read _Body By Science_ (machines) or [Hillfit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/) (bodyweight).
 

@@ -73,7 +73,7 @@ I don't trust Disqus and although I like the idea of using GitHub for comments; 
 
 I do think more static site comment solutions are coming. We might be a few years off. Until then, this blog will remain on WordPress.
 
-![wordpress admin](./img/justin-morgan-ZjX-z2Q5zrk-unsplash.jpg)
+![wordpress admin](/2022/01/why-am-i-still-using-wordpress-if-it-is-a-bloated-mess/img/justin-morgan-ZjX-z2Q5zrk-unsplash.jpg)
 
 _WordPress Admin by [Justin Morgan](https://unsplash.com/@justin_morgan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 

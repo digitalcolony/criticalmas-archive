@@ -16,7 +16,7 @@ Shortly after I posted [5 Foods That Were Key to My Fat Loss](/2017/08/5-foods-k
 
 The people in my non-defunct Weston A. Price Group would be in shock if they knew I changed my position on a food I once reviled.
 
-![](./img/The_Scream.jpg)
+![](/2017/08/fat-free-plain-greek-yogurt-food-hate-love/img/The_Scream.jpg)
 
 _[The Scream](https://en.wikipedia.org/wiki/The_Scream) via Wikipedia_
 

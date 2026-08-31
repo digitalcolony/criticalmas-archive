@@ -13,7 +13,7 @@ In December, the site _Latest in Paleo_ (then called _This Week in Paleo_) award
 
 My journey toward the paleo diet started in 2008 and has undoubtedly improved my health. However, in mid-2009 I started down a parallel path in my understanding and application of nutrition. It was then that I learned about Dr. Weston A Price and his [research into diets used by traditional cultures](/2011/01/nutrition-and-physical-degeneration/).
 
-![](./img/weston-price.jpg "Weston A Price")
+![](/2011/02/paleo-vs-weston-price/img/weston-price.jpg "Weston A Price")
 
 Paleo diets are excellent at removing the neolithic poisons of processed foods, vegetable oils, and sugar. By resetting your diet to just before the agricultural age, you should see a marked improvement in health. However, I think we can learn a lot from traditional cultures that aren't addressed with a strict paleo diet. Throwing out the knowledge gained between the end of the Paleolithic era and modernization is probably not a wise thing to do. Here are the areas of nutrition I feel the Weston A. Price (WAPF) (aka The Nourishing Traditions) group does a better job promoting than the paleo diet.
 

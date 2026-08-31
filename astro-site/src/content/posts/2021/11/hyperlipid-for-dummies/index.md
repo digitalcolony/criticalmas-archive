@@ -33,7 +33,7 @@ Peter states to get weight loss quickly, one needs to either remove carbs or lin
 
 I like to cycle between the two approaches. Maybe a low-carb lunch followed by a dinner lower in fat. Low linoleic acid for both. More fat in the winter. More carbs in the summer. See my 2013 post [Approaching Nutrition From an Investor Mindset](/2013/04/approaching-nutrition-from-an-investors-mindset/) for a deeper explanation of how I think about this topic.
 
-![french fries](./img/louis-hansel-880b45lhxCo-unsplash-scaled-e1636332908799.jpg)
+![french fries](/2021/11/hyperlipid-for-dummies/img/louis-hansel-880b45lhxCo-unsplash-scaled-e1636332908799.jpg)
 
 _Boiled potatoes are great. French fries are awful. Photo by [Louis Hansel](https://unsplash.com/@louishansel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._
 

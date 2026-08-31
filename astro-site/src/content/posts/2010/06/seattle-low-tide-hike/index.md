@@ -11,13 +11,13 @@ commentCount: 2
 
 This weekend the tide was at lowest level for the summer. It was so low, you could walk from Golden Gardens to Carkeep Park on ground that is normally covered with water. Below are some photos from the hike.
 
-![low-tide-4](./img/low-tide-4.jpg)
+![low-tide-4](/2010/06/seattle-low-tide-hike/img/low-tide-4.jpg)
 
-![low-tide-3](./img/low-tide-3.jpg)
+![low-tide-3](/2010/06/seattle-low-tide-hike/img/low-tide-3.jpg)
 
-![low-tide-2](./img/low-tide-2.jpg)
+![low-tide-2](/2010/06/seattle-low-tide-hike/img/low-tide-2.jpg)
 
-![low-tide-1](./img/low-tide-1.jpg)
+![low-tide-1](/2010/06/seattle-low-tide-hike/img/low-tide-1.jpg)
 
 [Photo Gallery for Low Tide Ballard (2010)](https://www.flickr.com/photos/129592470@N02/sets/72157649709149969/)
 

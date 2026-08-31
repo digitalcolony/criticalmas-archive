@@ -23,7 +23,7 @@ Ghost reps will have the most value with higher skilled movements, but I also us
 
 Even though I am older now, I never get injured. Although most of the credit goes to using machines in a slow controlled manner, I also credit a [warm-up routine that accentuates positive body language](/2014/02/body-language-exercise-warm/) and ghost reps.
 
-![Broad Squat](./img/2291431383_b3e2e156e5_o.jpg)
+![Broad Squat](/2014/06/use-ghost-reps-reduce-injury-rate/img/2291431383_b3e2e156e5_o.jpg)
 
 _[Photo](https://www.flickr.com/photos/whyld/2291431383/) by Ulf Liljankoski_
 

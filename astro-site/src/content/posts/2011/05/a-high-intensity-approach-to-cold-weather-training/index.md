@@ -17,7 +17,7 @@ When I approached cold weather exposure, I gradually increased the duration I sp
 
 Is there another way?
 
-![cold shower](./img/5729030772_8a497e0d82_z.jpg)
+![cold shower](/2011/05/a-high-intensity-approach-to-cold-weather-training/img/5729030772_8a497e0d82_z.jpg)
 
 _Photo by_ [_espensorvik_](http://www.flickr.com/photos/28478778@N05/5729030772/in/photostream/) What if one could do a _High Intensity_ approach to cold temperature exposure that achieves the same benefits in far less time? This is all theory and self experimentation. I have no clue if this will work, but I'm thinking it might. After taking two months off from cold weather training, I started this method about a month ago. I'm getting rapid adaptations. It could be my prior training or it could be the new method. I want to find out.
 

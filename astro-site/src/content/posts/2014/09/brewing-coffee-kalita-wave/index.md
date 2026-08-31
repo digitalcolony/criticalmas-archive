@@ -14,7 +14,7 @@ My latest coffee brewing tutorial is up on INeedCoffee. This one is for the Kali
 ### [Kalita Wave Coffee Brewing Tutorial](https://ineedcoffee.com/kalita-wave-coffee-brewing-tutorial/)
 
 
-![kalita wave pour brew](./img/kalita-wave-pour-brew.jpg)
+![kalita wave pour brew](/2014/09/brewing-coffee-kalita-wave/img/kalita-wave-pour-brew.jpg)
 
 In the next month, my plan is to replace the espresso tamping article, the french press tutorial and the introduction to tea guide
 

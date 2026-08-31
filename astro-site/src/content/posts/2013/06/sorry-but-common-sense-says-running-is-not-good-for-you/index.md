@@ -23,7 +23,7 @@ Time for a disclaimer. As a young man, I ran two sub 4-hour marathons (1989, 199
 
 Just like with the barbell back squat, it was my pain and failure in avoiding injuries that forced me to rethink whether running was a wise idea. What is the goal? Can it be accomplished more safely? How can I preserve my health well into old age if the running I'm doing in my 20s is causing so much pain?
 
-![mas-1992-marathon](./img/mas-1992-marathon.jpg)
+![mas-1992-marathon](/2013/06/sorry-but-common-sense-says-running-is-not-good-for-you/img/mas-1992-marathon.jpg)
 
 _I loved running when I wasn't in pain. Here I am finishing the 1992 Columbus Marathon._
 

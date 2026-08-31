@@ -13,7 +13,7 @@ On my recent trip to Los Angeles, I met up with a friend that grew up on Oahu. S
 
 **Summary**: _The traditional Hawaiian dish._
 
-![lau-lau1](./img/lau-lau1.jpg)
+![lau-lau1](/2012/01/making-lau-lau/img/lau-lau1.jpg)
 
 
 #### Ingredients
@@ -26,7 +26,7 @@ On my recent trip to Los Angeles, I met up with a friend that grew up on Oahu. S
 -   collard greens (or taro leaf)
 -   sea salt
 
-![lau-lau2](./img/lau-lau2.jpg)
+![lau-lau2](/2012/01/making-lau-lau/img/lau-lau2.jpg)
 
 
 #### Instructions
@@ -48,9 +48,9 @@ Cooking time: 3 hour(s) Culinary tradition: Hawaiian
 
 Note: I have made this dish 3 times now. I prefer to have twice as many pieces of pork butt and sweet potatoes as beef. Personal preference is best.
 
-![lau-lau3](./img/lau-lau3.jpg)
+![lau-lau3](/2012/01/making-lau-lau/img/lau-lau3.jpg)
 
-![lau-lau4](./img/lau-lau4.jpg)
+![lau-lau4](/2012/01/making-lau-lau/img/lau-lau4.jpg)
 
 ---
 

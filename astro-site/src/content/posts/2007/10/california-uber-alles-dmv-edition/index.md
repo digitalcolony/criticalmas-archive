@@ -13,10 +13,10 @@ Just before I left the Peoples Republic of California, I received a notice to re
 
 I followed the rules. Or did I?
 
-![mas-rsp](./img/mas-rsp.jpg)
+![mas-rsp](/2007/10/california-uber-alles-dmv-edition/img/mas-rsp.jpg)
 
 Nope. California sent me a nasty letter called a _Notice of Intent To Suspend_. It was a lot of threatening verbiage about them sending Commando units to my front door to collect their license fee. Or something like that. I didn't read it.
 
-[![](./img/dmv-commando.jpg "dmv-commando")](./img/dmv-commando.jpg)
+[![](/2007/10/california-uber-alles-dmv-edition/img/dmv-commando.jpg "dmv-commando")](./img/dmv-commando.jpg)
 
 This is what I learned about the California DMV. Not only are you required to check in when you arrive, but you are also required to check out when you leave.

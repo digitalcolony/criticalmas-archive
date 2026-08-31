@@ -46,7 +46,7 @@ Don't leave Twitter open. Get in and get out. Log in and out with each use. This
 
 I set up the StayFocusd Chrome extension to only allow me a maximum of 15 minutes a day on Twitter. After that, it locks me out. This extension is a godsend. I move with a sense of purpose. I don't have time to read every silly drama. Look for signal, avoid the noise, and get out.
 
-![](./img/stayfocusd.jpg)
+![](/2019/04/tackling-twitter-how-i-cut-my-daily-usage/img/stayfocusd.jpg)
 
 
 ### #4 Stop Posting (or greatly cut back)

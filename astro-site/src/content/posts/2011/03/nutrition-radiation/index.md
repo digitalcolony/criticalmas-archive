@@ -17,7 +17,7 @@ Am I worried? No. I had planned for this to happen. Although trace radiation may
 
 For the past week I've made stews and soups using [homemade beef broths](/2011/04/homemade-beef-broth/). I add a pinch of seaweed into the mix for additional nutrients. You want to cook the seaweed. It may lose some vitamins, but it is the minerals you want. Radiation or not this is a highly nutritious meal. Since adding bone broths to my diet, I now recover from weight training workouts much faster.
 
-![seaweeds](./img/seaweeds.jpg)
+![seaweeds](/2011/03/nutrition-radiation/img/seaweeds.jpg)
 
 Different seaweeds provide different benefits, so I go for variety. The seaweed on the right is from China. I accidentally bought it months ago. I try and avoid foods from China due to their high pollution levels, however I learned that seaweed does not grow well in polluted waters and it has its own detoxifying properties. A lot of the seaweed comes from Japan, so it will be interesting to see if the accident impacts its quality. But for now, I'm guessing the stuff on the shelf here in America is dated pre-accident and safe to eat.
 

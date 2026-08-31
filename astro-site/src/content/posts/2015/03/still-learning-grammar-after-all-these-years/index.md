@@ -21,7 +21,7 @@ I use the phrase "people that" all the time on this site. Although there is some
 
 A quick database query told me there are 102 posts affected. So, a normal blogger might decide to implement the new lesson going forward. Not me. I have started the process of fixing all those posts. This little project should go much smoother than a few years ago, when I [replaced every double space](/2012/05/spacing-out-on-extra-spaces/) following punctuation with a single space.
 
-![typewriter](./img/typewriter.jpg)
+![typewriter](/2015/03/still-learning-grammar-after-all-these-years/img/typewriter.jpg)
 
 _[Photo](https://flic.kr/p/9Dmtu) by Cody Geary_
 

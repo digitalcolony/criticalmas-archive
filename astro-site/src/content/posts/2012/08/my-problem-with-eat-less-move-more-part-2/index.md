@@ -25,7 +25,7 @@ Judging from the comments on [My Problem With “Eat Less Move More”](/2012/08
 
 I'm not a dietitian and I do not have a client list. My approach to nutrition assumes incomplete knowledge and comes from an investor mindset. The term [alpha](https://en.wikipedia.org/wiki/Alpha_\(investment\)) in finance means **return in excess of the compensation for the risk borne**. From a nutritional standpoint, we know that some foods are far more nutrient dense than others. We also know that some foods are more toxic. Those foods might have equal calories. I believe from my own personal experience and talking with others that finding those foods with a greater alpha do a far better job of reducing hunger at equal caloric rates.
 
-![beef-stock](./img/beef-stock.jpg)
+![beef-stock](/2012/08/my-problem-with-eat-less-move-more-part-2/img/beef-stock.jpg)
 
 _Beef Stock is a food with a high nutritional alpha._
 

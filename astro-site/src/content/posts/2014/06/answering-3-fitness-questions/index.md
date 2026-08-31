@@ -31,7 +31,7 @@ I am not an expert in running, but I think you are on the right path, especially
 
 Maybe one of my running readers can help out with question #3? How does a runner gauge "too much" before it becomes a problem?
 
-[![runners-seattle](./img/runners-seattle.jpg)](./img/runners-seattle.jpg)
+[![runners-seattle](/2014/06/answering-3-fitness-questions/img/runners-seattle.jpg)](./img/runners-seattle.jpg)
 
 ---
 

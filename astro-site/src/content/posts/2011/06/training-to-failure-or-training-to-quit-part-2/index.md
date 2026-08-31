@@ -53,7 +53,7 @@ To be _above baseline_ to me is a positive neurological signal of success. I thi
 
 Confession time. I am heading right back into the gym every 5th day for another HIT workout. I am clearly spending more days below baseline than above baseline. This is intentional. I am weaning myself off the volume I used to do and the novelty of HIT is still exciting to me. Also, I suspect that I'll see many of the gains from switching to this protocol in the first year. At that point, I'll scale back to once a week lifting per Dr. McGuff's advice.
 
-![](./img/hit-vs-pavel.png "hit-vs-pavel")
+![](/2011/06/training-to-failure-or-training-to-quit-part-2/img/hit-vs-pavel.png "hit-vs-pavel")
 
 _My highly artistic attempt at explaining PTP vs HIT and baseline._ ;)
 

@@ -15,9 +15,9 @@ The book [Smile When You're Lying](/2008/12/smile-when-youre-lying/) has forever
 
 My Vancouver trip was mostly about the coffee. I will have a detailed report up on [INeedCoffee](https://ineedcoffee.com/vancouver-espresso-vacation/) soon and that will have its own photo gallery. Below are some non-coffee related photos from Memorial Day Weekend 2009 in Vancouver, BC. Look how _nice_ and _beautiful_ it was. :eek:
 
-![vancouver-2009](./img/vancouver-2009.jpg)
+![vancouver-2009](/2009/05/vancouver-nice-and-beautiful/img/vancouver-2009.jpg)
 
-![vancouver-mas](./img/vancouver-mas.jpg)
+![vancouver-mas](/2009/05/vancouver-nice-and-beautiful/img/vancouver-mas.jpg)
 
 ---
 

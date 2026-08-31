@@ -106,7 +106,7 @@ I'll continue to avoid seed oils. I am able to prepare my own meals at home. For
 
 Avoiding seed oils appears to be working well for me. I'm warm and my appetite is in check. In a world that is getting fatter every year, I'm the leanest I've ever been and the process feels effortless.
 
-![tape measure](./img/siora-photography-cixohzDpNIo-unsplash.jpg)
+![tape measure](/2022/09/the-seed-oil-debate-revisited/img/siora-photography-cixohzDpNIo-unsplash.jpg)
 
 _Photo by [Siora Photography](https://unsplash.com/@siora18?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 

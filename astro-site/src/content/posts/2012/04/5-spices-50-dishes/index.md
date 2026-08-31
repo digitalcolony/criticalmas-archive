@@ -19,7 +19,7 @@ Then I stumbled on the book 5 Spices, 50 Dishes: Simple Indian Recipes Using Fiv
 
 Most of the dishes I've had at Indian restaurants have brighter colors. This one didn't. I feared I had screwed up the recipe right up until the moment I took a bite. It was amazing. This coconut milk based curry has a little kick. This was an Indian dish that I had never had before. It was a simple recipe that worked.
 
-![lamb-meatballs](./img/lamb-meatballs.jpg)
+![lamb-meatballs](/2012/04/5-spices-50-dishes/img/lamb-meatballs.jpg)
 
 _Lamb Meatballs - Spicy Malabari Curry_
 
@@ -29,7 +29,7 @@ _Lamb Meatballs - Spicy Malabari Curry_
 
 I got a sweet deal on some cod, so I made this dish. Just like the previous recipe, it was a dish I had never had at an Indian recipe. It had less heat, but it took a boring piece of white fish and made it delicious.
 
-![baked-fish](./img/baked-fish.jpg)
+![baked-fish](/2012/04/5-spices-50-dishes/img/baked-fish.jpg)
 
 _Baked Fish in a Spice Broth_
 
@@ -39,7 +39,7 @@ _Baked Fish in a Spice Broth_
 
 The photos in the book are excellent. The directions are clearly written and as I've stated before, it takes a simplified approach to what can seem like a complicated process. My one compliant with 5 Spices, 50 Dishes: Simple Indian Recipes Using Five Common Spices is every recipe uses canola oil. Even a cracker like me knows Indians cook with butter, ghee and maybe coconut oil. Make that one switch and this book is great.
 
-![5-spices-50-dishes](./img/5-spices-50-dishes.jpg "5-spices-50-dishes")
+![5-spices-50-dishes](/2012/04/5-spices-50-dishes/img/5-spices-50-dishes.jpg "5-spices-50-dishes")
 
 ---
 

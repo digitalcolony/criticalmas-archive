@@ -15,7 +15,7 @@ Today's episode is **The Voter**. We all know the problem. Voters are too dumb a
 
 My solution is that **in order to vote a citizen must pass the US Citizenship test**. We have to pass a driver's license test to drive on our roads. How about we spend an hour or two learning about how our government works before heading to the polling place? Understanding what it means to be a US Citizen shouldn't be just for immigrants. I think it should be for everyone that wants to participate in the voting process.
 
-![vote-here](./img/vote-here.jpg)
+![vote-here](/2010/10/fixing-politics-1-the-voter/img/vote-here.jpg)
 
 _[Photo](https://flic.kr/p/5zvkFt) by Erik (HASH) Hersman_
 

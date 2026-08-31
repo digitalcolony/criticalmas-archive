@@ -63,7 +63,7 @@ This was a one month only experiment. A time capsule. Maybe I'll do a new one pe
 -   Regular intake of fermented foods (kimchi, natto) and high-fiber vegetables.
 -   Balanced macronutrients with a good mix of proteins, healthy fats, and complex carbs.
 
-![](./img/buckwheat-tofu.jpg)
+![](/2025/02/tracking-my-meals-for-a-month/img/buckwheat-tofu.jpg)
 
 _Buckwheat groats with air-fried tofu covered with green onions and hot sauce._
 

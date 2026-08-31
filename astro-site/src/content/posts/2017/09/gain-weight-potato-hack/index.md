@@ -31,7 +31,7 @@ That is exactly my experience just after a Potato Hack. Because my fat felt "squ
 
 Therein lies a lesson. Although the Potato Hack is about placing all your effort into a short period of time, your reward may not come right away. But don't fear and don't get frustrated. Think of this like a job where they hold your first paycheck. You are still getting paid. Be patient.
 
-![calendar](./img/calendar.jpg)
+![calendar](/2017/09/gain-weight-potato-hack/img/calendar.jpg)
 
 _Photo by [Eric Rothermel](https://unsplash.com/@erothermel)_
 

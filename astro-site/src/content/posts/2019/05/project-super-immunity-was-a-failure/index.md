@@ -28,7 +28,7 @@ Here is a list of items and actions I took to boost my immunity. A few ideas I g
 
 My gym recovery times have been poor as well. I'm stumped. Boosting my immune system to prevent colds was the very question I began researching back in 2007 that sent this blog into a health direction. Twelve years later and I still don't have the answer.
 
-![sick](./img/sick.jpg)
+![sick](/2019/05/project-super-immunity-was-a-failure/img/sick.jpg)
 
 _[Photo credit](https://flic.kr/p/iXrXc3)_
 

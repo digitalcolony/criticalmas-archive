@@ -11,7 +11,7 @@ commentCount: 7
 
 Probably my favorite exercise is the chin-up. When I first started lifting, I couldn't do a single one. In recent years, I've done 20 on two separate occasions. These days, I rarely try to max because I'm focused more on the principles of [High-Intensity Training](/2011/02/high-intensity-training-at-ideal-exercise-of-seattle/). That means my chin-ups today tend to be slower, weighted, and with static holds. In this post, I will outline what worked and didn't work for me when doing more chin-ups.
 
-![chin-up-sign](./img/chin-up-sign.jpg)
+![chin-up-sign](/2012/09/how-i-improved-my-chin-ups/img/chin-up-sign.jpg)
 
 _[Photo](https://flic.kr/p/3ykWw7) by Rob Brewer_
 

@@ -40,7 +40,7 @@ The traffic isn't even important to me on this site, which is one of the reasons
 
 If you did link to this site over the years, thank you! And I hope you can update those links to the new CriticalMAS.org domain. All the paths remain the same. [More details for WordPress bloggers.](/2018/05/criticalmas-org-is-my-new-home-i-need-to-ask-a-favor/)
 
-![blog](./img/3485417819_fd42af570e_z.jpg)
+![blog](/2018/06/an-issue-with-the-domain-sale-i-did-not-forsee/img/3485417819_fd42af570e_z.jpg)
 
 _[Photo](https://flic.kr/p/6iZFhF) by Dimitar_
 

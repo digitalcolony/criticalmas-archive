@@ -27,7 +27,7 @@ Well summer is over and the temperatures have dropped. **I am challenging you to
 5.  **Economic** - This is a minor point, but I thought I'd share it anyway. Short sleeve shirts are cheaper than long sleeve shirts. Jackets are cheaper than coats. Less layers means you spend less on clothes and laundry.
 6.  **Relieve Muscle Soreness** - This one works better in the shower. At the end of your shower, especially on the days you lift weights, do a few minutes of a [cold water rinse](/2009/04/triggering-the-cold-weather-response-for-fat-loss/). I've talked to a trainer who used this method with many clients and himself. This works by improving circulation. The cold water exposure sends the blood back to protect the organs and then when the cold water exposure is removed, the blood goes back to the muscle. Since I don't do high-rep training (and thus rarely get sore), I can not speak to how effective this technique is. I have, however, been using a cold water rinse in the shower for 6 months now and have had no muscle soreness.
 
-![queen-anne-stairs-snow](./img/queen-anne-stairs-snow.jpg)
+![queen-anne-stairs-snow](/2009/10/my-cold-weather-challenge-to-you/img/queen-anne-stairs-snow.jpg)
 
 _Snow Stairs by MAS_
 

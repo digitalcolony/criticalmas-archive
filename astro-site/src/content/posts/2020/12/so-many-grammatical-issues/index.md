@@ -24,7 +24,7 @@ I have that same feeling again. I'm also updating the grammar for articles on [I
 
 I use the free Grammarly plugin, which is perfect for my needs. I highly recommend it. If you tried a long time ago and didn't care for it, I encourage you to give it another try.
 
-![typewriter](./img/markus-winkler-cxoR55-bels-unsplash.jpg)
+![typewriter](/2020/12/so-many-grammatical-issues/img/markus-winkler-cxoR55-bels-unsplash.jpg)
 
 _Photo by_ [_Markus Winkler_](https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

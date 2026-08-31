@@ -11,7 +11,7 @@ commentCount: 0
 
 I am taking off for a week to Seattle and Portland, so I probably won't be posting anything new until mid next week. I'll be at [Coffee Fest](http://www.coffeefest.com/) drinking massive amounts of espresso. Say hi if you see me.
 
-![futurama-coffee-house](./img/futurama-coffee-house.jpg)
+![futurama-coffee-house](/2014/10/back-pain-quantified-self-trip/img/futurama-coffee-house.jpg)
 
 I created two new BEST OF pages for the site.
 

@@ -17,7 +17,7 @@ At first, it was losing too much heat, so I added a second dish towel. This seem
 
 Natto that exceeds the optimal temperature range doesn't have the slimy gooey texture that makes it natto. It tastes rather bland and boring. I'm thinking that the high temperatures either killed or greatly damaged the natto culture.
 
-![natto-ferment](./img/natto-ferment.jpg)
+![natto-ferment](/2013/12/natto-2-fermentation-boogaloo/img/natto-ferment.jpg)
 
 You can see that the natto started at 106 F and then spiked to 131 F. Not sure if the humidity plays a role in natto fermentation, but you can see it got to 99% under the dish towels. Not sure why it spiked. I'm guessing that the water bath evaporated and this made the inside of the slow cooker hotter. This is an old slow cooker I got at a yard sale for $5.
 

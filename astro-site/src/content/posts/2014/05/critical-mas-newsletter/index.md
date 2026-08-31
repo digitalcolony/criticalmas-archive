@@ -19,7 +19,7 @@ My initial plans for the Critical MAS newsletter is to summarize what is new on 
 
 \[mc4wp\_form\]
 
-![Lil MAS first Day of School](./img/268590984_qQ56e-M.jpg)
+![Lil MAS first Day of School](/2014/05/critical-mas-newsletter/img/268590984_qQ56e-M.jpg)
 
 _Your first newsletter!_ 
 

@@ -15,17 +15,17 @@ Recently I opened the Olsen Farms cooler and found something I had never seen be
 
 Sweetbread actually did taste sweeter than kidney or liver. Similar texture too.
 
-![beef-sweetbread](./img/beef-sweetbread.jpg)
+![beef-sweetbread](/2012/10/beef-sweetbread-recipe/img/beef-sweetbread.jpg)
 
 _My kind of bread. And gluten-free too!  :)_ 
 
-![beef-sweetbread-2](./img/beef-sweetbread-2.jpg)
+![beef-sweetbread-2](/2012/10/beef-sweetbread-recipe/img/beef-sweetbread-2.jpg)
 
 _Raw beef sweetbread._
 
 My recipe is pretty straightforward. Mix chopped up garlic, ginger and sweetbread over a warm pan of melted butter. Cook for around 5-10 minutes. Hit it with some salt if you like.
 
-![beef-sweetbread-cooked](./img/beef-sweetbread-cooked.jpg)
+![beef-sweetbread-cooked](/2012/10/beef-sweetbread-recipe/img/beef-sweetbread-cooked.jpg)
 
 _Beef sweetbread with garlic, ginger and lots of butter._ 
 

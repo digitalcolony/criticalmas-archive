@@ -11,17 +11,17 @@ commentCount: 2
 
 Sunday morning a friend of mine posted a photo of Kimchi Chips now being sold at Trader Joe's. Instead of strolling over the one mile to the store to try them out, I pulled out my food dehydrator and proceeded to make my own. I was able to convert an entire tray of [kimchi](/2012/08/kimchi-2-0/) into a handle of kimchi chips in a mere 10 hours. :o
 
-![kimchi-chips](./img/kimchi-chips.jpg)
+![kimchi-chips](/2013/03/kimchi-chips-super-delicious-but-ridiculously-impractical/img/kimchi-chips.jpg)
 
 _If you decide to make kimchi chips, don't use that liner. The dried kimchi sticks to it._
 
 They tasted amazing, but 10 hours for a handle of chips? And that isn't counting the 6 days it took me to ferment the kimchi. I decided to try it once more using [Cortido sauerkraut](/2011/06/cortido-sauerkraut-recipe/). I packed the tray and another 10 hours later, I had 2 handfuls of cortido chips. The flavor was intense and crispy, but **10 hours for 2 handfuls of chips**? And the cortido ferment took almost 3 weeks.
 
-![cortido-dry](./img/cortido-dry.jpg)
+![cortido-dry](/2013/03/kimchi-chips-super-delicious-but-ridiculously-impractical/img/cortido-dry.jpg)
 
 _Getting ready to start the dehydrator. If I were to do this again, I would do a special ferment only using larger pieces of cabbage and no carrots._
 
-![cortido-chips](./img/cortido-chips.jpg)
+![cortido-chips](/2013/03/kimchi-chips-super-delicious-but-ridiculously-impractical/img/cortido-chips.jpg)
 
 _The end result shows just how little the yield is from dehydrating fermented veggies. But they tasted great! ;)_ 
 

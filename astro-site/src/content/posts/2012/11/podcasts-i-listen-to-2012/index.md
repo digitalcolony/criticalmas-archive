@@ -24,7 +24,7 @@ _Biohacks_ recently posted [Podcasts I listen to](https://web.archive.org/web/20
 
 All these are available on iTunes.
 
-![](./img/oldradio.jpg "oldradio")
+![](/2012/11/podcasts-i-listen-to-2012/img/oldradio.jpg "oldradio")
 
 I used to listen to more health podcasts, but once the content gets too repetitive, I move onto other shows. What are your some of your favorite podcasts?
 

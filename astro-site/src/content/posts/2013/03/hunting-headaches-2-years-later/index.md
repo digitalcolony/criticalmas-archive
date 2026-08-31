@@ -21,7 +21,7 @@ When I dropped my caffeine levels super low in October, my headache levels dropp
 
 As the average coffee level increases, so does the average daily headache intensity.
 
-[![headache-coffee](./img/headache-coffee.png)](./img/headache-coffee.png)
+[![headache-coffee](/2013/03/hunting-headaches-2-years-later/img/headache-coffee.png)](./img/headache-coffee.png)
 
 This chart shows 2 years' worth of data. In three cases when my average coffee intake spiked, my average headache intensity increased. And the two cases where I drastically cut back on coffee, my average headache intensity noticeably dropped. Now before someone says [correlation does not imply causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation), this is all I have to work with. Weather patterns, food restriction, or taking a battery of nutritional supplements showed zero correlation.
 

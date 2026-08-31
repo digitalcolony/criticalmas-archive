@@ -17,7 +17,7 @@ There were a few problems, though. Simply increasing Omega-3 doesn't address the
 
 The second issue we all learned is that fish oil can go rancid sitting on the shelf because they are [chemically fragile](https://perfecthealthdiet.com/2010/06/fish-not-fish-oil-capsules/). The solution we are told is to only buy the best brands. But we have no way of knowing if even the best brands are fine or if they have been sitting in the back of a hot truck for weeks.
 
-![](./img/fish-oil-capsules.jpg)
+![](/2013/08/fish-oil-2010/img/fish-oil-capsules.jpg)
 
 I've seen supplements come into and out of fashion and it appears the popularity of fish oil has already peaked and is likely in descent. I have no need for it. I wouldn't take it if it were free. I'll have salmon a few times a year, but I suspect the real health benefits are from greatly reducing Omega 6 consumption, not from dosing on Omega-3. Now I see some people pimping Krill Oil as a new and improved fish oil. Here we go again. Not me.
 

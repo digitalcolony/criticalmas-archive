@@ -14,7 +14,7 @@ Why is there so much disagreement when it comes to strength training? If there i
 
 We all have our own fitness values and we establish goals and strategies that align with our values. When we view or hear information that conflicts with our views, the fitness debates commence. We rush to find evidence to support our view that we are right. But we rarely step back and ask if our values are the same. It is assumed that they are. But they often are not.
 
-![argue](./img/7913754434_7dd6e6f1e4_z.jpg)
+![argue](/2015/06/we-dont-share-the-same-fitness-values/img/7913754434_7dd6e6f1e4_z.jpg)
 
 _[Photo](https://flic.kr/p/d4j4tY) by the rik pics_
 
@@ -24,7 +24,7 @@ My values in fitness have changed in the 20+ years I've been lifting weights. It
 
 One of the most popular posts on this site is [I No Longer Give a Squat About the Squat](/2012/06/i-no-longer-give-a-squat-about-the-squat/). After three years I eventually shut the comments off on that post. I was arguing that the squat should be avoided and replaced with safer exercises. This lines up perfectly with my fitness values, but not the majority of lifters. Many value seeing the progress they make week by week as they push up more and more pounds. It is their driving force.
 
-![gym-whiteboard](./img/gym-whiteboard.jpg)
+![gym-whiteboard](/2015/06/we-dont-share-the-same-fitness-values/img/gym-whiteboard.jpg)
 
 _My home gym white board from about 10 years ago. Back then numbers kept me motivated._
 

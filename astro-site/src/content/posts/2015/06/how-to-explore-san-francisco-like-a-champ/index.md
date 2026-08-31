@@ -17,7 +17,7 @@ I will be leaving the San Francisco Bay Area in one month and returning to Seatt
 
 My hobby is espresso. I love visiting the best coffee shops a city has to offer. When I first got here, I made a [cafe spreadsheet](http://tinyurl.com/sf-espresso) with all the places I wanted to visit. Each was a gateway into a new neighborhood. I'd find the coffee shop first, get a tasty beverage, and then walk around the area. Many times I would find two or three coffee shops, sometimes miles apart, and then build a hike around those stops.
 
-![espresso-hike-sf](./img/espresso-hike-sf.jpg)
+![espresso-hike-sf](/2015/06/how-to-explore-san-francisco-like-a-champ/img/espresso-hike-sf.jpg)
 
 _Here is a hike I did in February that ended up being [15.7 miles.](http://www.gmap-pedometer.com/?r=6527608) Along the way, I visited four coffee shops and as you can from the map, several neighborhoods. If you are looking for my favorites, see [My Guide to San Francisco Espresso (2015)](/2015/01/guide-san-francisco-espresso-2015/)._ 
 
@@ -45,7 +45,7 @@ People here assume because I am from Seattle that I am better able to handle col
 
 The north part of SF and some streets in downtown can be windy, but most of the city is fine. Don't believe that nonsense that SF is a cold city. The people in Minnesota are laughing at the ridiculousness of that statement.
 
-![san francisco](./img/sf-sun.jpg)
+![san francisco](/2015/06/how-to-explore-san-francisco-like-a-champ/img/sf-sun.jpg)
 
 
 ### Get a Streetwise Map

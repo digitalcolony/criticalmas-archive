@@ -11,7 +11,7 @@ commentCount: 18
 
 I just sampled my best fermentation to date. It took 3.5 weeks, but it was worth it. Inspired by [Firefly Kitchens](http://www.fireflykitchens.com/), I decided to make my own _Cortido Sauerkraut_. This is Latin American style sauerkraut. It has some heat, but not as much as [kimchi](/2011/03/kimchi-101/). The Mexican Oregano really brings out the flavor. If you have the patience, I highly recommend making this amazing sauerkraut.
 
-![curtido](./img/curtido.jpg)
+![curtido](/2011/06/cortido-sauerkraut-recipe/img/curtido.jpg)
 
 _Cortido (also spelled Curtido) Sauerkraut_
 

@@ -11,7 +11,7 @@ commentCount: 9
 
 Today I had a prescription filled. It costs me $50. When the pharmacist counseled me on the medication, he asked how much I paid. When he heard $50, he walked me out to one of the aisles and showed me my medication was available over the counter for half of what I paid. He helped me get a refund and I left happy that I saved $25. I was fortunate that the pharmacist cared to ask. I'm sure many others have overpaid.
 
-![addiction](./img/addiction.jpg)
+![addiction](/2009/11/healthcare-and-price-discovery/img/addiction.jpg)
 
 _[Photo](https://flic.kr/p/7S9Y2t) by kphotographer_
 

@@ -13,7 +13,7 @@ Just a few hours after posting my review of the great book [The Definitive Book 
 
 A lady about 45 started chatting with me about the cold weather story and then brought up another story. After a few minutes, I noticed her hand briefly stroked her hair. According to the book, that is one of the 13 flirting moves. But no single body language signal can be interpreted on its own. For confirmation I learned you need a cluster.
 
-![latte art](./img/5343828830_0edb943016.jpg)
+![latte art](/2008/06/body-language-at-the-coffee-house/img/5343828830_0edb943016.jpg)
 
 Now I was 0% attracted to this woman, but as recent student of body language I wanted to see if I could detect other signals. Then she lifted her arm up and displayed an exposed wrist directly toward me. After another minute of small talk her foot position went from facing the wall to pointing at me. Two more clear signs.
 

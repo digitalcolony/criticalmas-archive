@@ -23,7 +23,7 @@ Before I got a password manager, I would store passwords in an email. I think a 
 
 So I used the free Dashlane tool and in seconds all my email was scanned. 99 accounts were found, some with passwords. Even if the passwords aren't there, all it takes is knowing which email account was used to sign up for an account and clicking a reset password button to take over an account.
 
-![dashlane-inbox](./img/dashlane-inbox.jpg)
+![dashlane-inbox](/2015/04/securing-my-email-inbox/img/dashlane-inbox.jpg)
 
 _I'm almost done with 2005. This is going to take a while._
 

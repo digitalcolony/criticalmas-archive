@@ -31,7 +31,7 @@ Here comes the ethical question. Is it ethical - even for someone that loves ani
 
 I'm guessing some vegans might respond that one could do more to raise their iron levels. And I would accept that if I learned and incorporated all the tricks to boost iron levels on a plant-based diet that I might be able to donate 1 or 2 (maybe 3) pints per year, but I seriously doubt I could give 6 pints. That is just me. It'll vary from person to person.
 
-![blood donation](./img/blood-donation.jpg)
+![blood donation](/2019/07/an-ethical-case-for-not-being-100-vegan/img/blood-donation.jpg)
 
 _I need 2 more pints to get my 5-gallon pin._
 

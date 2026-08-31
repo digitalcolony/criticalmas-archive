@@ -13,7 +13,7 @@ Some of you know that I spent 2.5 years quantifying data to eliminate my [late n
 
 Before I ask for ideas on how you would address the pain, I'm going to describe the pain and what I've tried already.
 
-![headache](./img/headache.gif)
+![headache](/2013/12/headache-remedies-work/img/headache.gif)
 
 Below is my wonderful drawing. The red areas are where my headache pain comes from. More info:
 

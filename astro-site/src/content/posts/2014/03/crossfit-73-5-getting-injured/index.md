@@ -29,7 +29,7 @@ Your form can be 10 or 50 times better than it was when you started, but it will
 
 With gymnastics, the load is never more than the athlete's body weight. With Olympic Lifting, the load is high, but the reps and volume are less. And both those sports have high injury rates. **You don't need to mix speed, skill, load, and volume together to achieve a high level of fitness. All you are doing is compounding the risks of getting injured.**
 
-![Gymnast](./img/3164105257_9f63357e67_z.jpg)
+![Gymnast](/2014/03/crossfit-73-5-getting-injured/img/3164105257_9f63357e67_z.jpg)
 
 _Photo by [crises\_crs](https://www.flickr.com/people/33774513@N08/)_
 

@@ -19,7 +19,7 @@ In this post, I'm going to share the data that I have collected. It is not a com
 
 From January 4, 2003, to May 14, 2008, I weighed myself 175 times. Here is that data.
 
-![MAS weight](./img/mas-weight.png)
+![MAS weight](/2017/08/mostly-weight-stable-regardless-diet/img/mas-weight.png)
 
 For the record, I am 6' 2.5 (or 189 cm). I can't stand it when male bloggers talk endlessly about their weight but never mention their height. Chris Masterjohn did an entire podcast about the history of his weight and never said his height.
 
@@ -39,7 +39,7 @@ Last year (2016), I didn't weigh myself a single time. I wanted to focus on reco
 
 I hope this post wasn't too boring, but I want to be more transparent when I discuss issues related to weight. I've never been fat and the one time I got super lean, I looked like hell. The numbers in this post will be the background for an upcoming post related to my new understanding of metabolism.
 
-![scale](./img/scale.jpg)
+![scale](/2017/08/mostly-weight-stable-regardless-diet/img/scale.jpg)
 
 _[Photo](https://flic.kr/p/99cDDx) by Jarod Carruthers_
 

@@ -20,7 +20,7 @@ One day, I might move to SubStack, as it seems they defeated blogging in a way t
 
 In the meantime, I still have an [RSS Feed](https://criticalmas.org/subscribe/).
 
-![](./img/email-newsletter-grave.jpg)
+![](/2025/08/no-more-newsletter/img/email-newsletter-grave.jpg)
 
 ---
 

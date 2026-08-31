@@ -21,7 +21,7 @@ Since most of us these days are spending more and more time at a desk staring at
 2.  Gently drop your chin towards your chest until you feel a slight stretch in the back of your neck.
 3.  Hold and breathe for 10-30 seconds. Repeat up to 3 times.
 
-![neck-stretch](./img/neck-stretch.jpg)
+![neck-stretch](/2015/03/5-desk-stretch-ideas-from-indigo-kinetics/img/neck-stretch.jpg)
 
 
 ### #2 Head Turn (Arm/Shoulder Stretch)
@@ -31,7 +31,7 @@ Since most of us these days are spending more and more time at a desk staring at
 2.  Keeping length and energy in the right arm and right fingertips, slowly and gently turn your head to the left. Lift your chin slightly up to the left hand corner of the room. Hold for a focused breath. You should feel a tug down the right arm.
 3.  Repeat on left side. You can do 2-3 sets of this stretch.
 
-![head-turn-stretch](./img/head-turn-stretch.jpg)
+![head-turn-stretch](/2015/03/5-desk-stretch-ideas-from-indigo-kinetics/img/head-turn-stretch.jpg)
 
 
 ### #3 Mid Back Stretch
@@ -41,7 +41,7 @@ Since most of us these days are spending more and more time at a desk staring at
 2.  Sit your hips back so they are over your feet and feel length through your mid and upper back. Let your neck relax. Breathe into the stretch for 20-30 seconds.
 3.  You can perform this stretch up to 3 times.
 
-![mid-back-stretch](./img/mid-back-stretch.jpg)
+![mid-back-stretch](/2015/03/5-desk-stretch-ideas-from-indigo-kinetics/img/mid-back-stretch.jpg)
 
 
 ### #4 Hip Flexor Stretch
@@ -52,7 +52,7 @@ Since most of us these days are spending more and more time at a desk staring at
 3.  Gently lean to the right to increase the stretch. Hold for 20-30 seconds.
 4.  Repeat second side.
 
-![hip-flexor-stretch](./img/hip-flexor-stretch.jpg)
+![hip-flexor-stretch](/2015/03/5-desk-stretch-ideas-from-indigo-kinetics/img/hip-flexor-stretch.jpg)
 
 
 ### #5 Glute Stretch
@@ -62,7 +62,7 @@ Since most of us these days are spending more and more time at a desk staring at
 2.  Keeping the right foot flexed and the spine long, slowly lean over your legs. Stop when you feel a tug in the back of your right hip. Hold position for 20-30 seconds.
 3.  Repeat second side.
 
- ****![glute-stretch](./img/glute-stretch.jpg)****
+ ****![glute-stretch](/2015/03/5-desk-stretch-ideas-from-indigo-kinetics/img/glute-stretch.jpg)****
 
 I will be setting up a link to this post in my calendar and doing these exercises twice a day.
 

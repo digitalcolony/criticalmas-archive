@@ -31,7 +31,7 @@ I just finished a [3 post series](/2013/11/common-enemy-nutrition/) on the metab
 
 I agree to avoid canned beans and the importance of soaking. However, when I do have beans I go the extra step and sprout the beans. I don't know if this makes the beans more digestible. It works for me and it is a trick I learned from my WAPF peeps.
 
-![soak-sprout-lentil](./img/soak-sprout-lentil.jpg)
+![soak-sprout-lentil](/2013/12/tweaks-latest-free-animal-paleo-guidelines/img/soak-sprout-lentil.jpg)
 
 _From [Lentil Dal Recipe](/2012/05/making-lentil-dal/)_
 

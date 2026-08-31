@@ -56,7 +56,7 @@ Here comes the shocking part. The intensity I hit today is much less than when I
 
 There you have it. This is how I approach HIT today. If my time became scarce, I'd happily hire a HIT trainer in a HIT gym. But for right now, I am still using safe exercises at a reduced tempo, just not to failure, except on a rare day.
 
-![body by science](./img/51DXynBp-CL.jpg)
+![body by science](/2017/10/high-intensity-training-7-years-later/img/51DXynBp-CL.jpg)
 
 _Body By Science_
 

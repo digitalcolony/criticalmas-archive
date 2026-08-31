@@ -17,7 +17,7 @@ Today I completed my first _Disloyalty Card_. The [Disloyalty Card](/2010/05/sea
 
 Time to start Round #2.
 
-![](./img/urban-coffee-lounge.jpg)
+![](/2010/06/my-3-favorites-disloyality-card-round-1/img/urban-coffee-lounge.jpg)
 
 _Urban Coffee Lounge - Cups on the Wall_
 

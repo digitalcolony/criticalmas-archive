@@ -13,7 +13,7 @@ I always get my deepest and longest sleep in the month of December. Something ab
 
 This week my back started hurting in the morning. Since I discovered the root cause of my [back pain is psychological](/2011/02/the-psychology-of-back-pain/), I have eliminated 95% of it. When I do get a flareup, I look back at what might be upsetting me or if I sense a loss in control. Just that action fixes the remaining 5%. Well, this week was different.
 
-![baby MAS Sleeping](./img/baby-mas-sleep.jpg "baby MAS Sleeping")
+![baby MAS Sleeping](/2011/12/long-sleep-and-back-pain/img/baby-mas-sleep.jpg "baby MAS Sleeping")
 
 _Me sleeping at 2 days old_
 

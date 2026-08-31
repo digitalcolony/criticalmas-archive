@@ -32,7 +32,7 @@ Cabbage is low in flavor and calories, but high in fiber. Perfect.
 
 See the post [Dieting and Detoxification](/2018/04/dieting-and-detoxification/) for a deeper discussion.
 
-![](./img/potato-cabbage.jpg)
+![](/2024/04/the-potato-and-cabbage-hack/img/potato-cabbage.jpg)
 
 
 ### Potato Peels
@@ -40,7 +40,7 @@ See the post [Dieting and Detoxification](/2018/04/dieting-and-detoxification/) 
 
 Why not just leave the peels on and get the higher fiber content? The Potato Hack book says this:
 
-![](./img/potato-peel-hack.jpg)
+![](/2024/04/the-potato-and-cabbage-hack/img/potato-peel-hack.jpg)
 
 Peeling potatoes is also wise if one is [concerned about cadmium](/2018/12/cadmium-and-potatoes-time-to-worry/).
 

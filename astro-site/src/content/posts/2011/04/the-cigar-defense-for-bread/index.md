@@ -11,7 +11,7 @@ commentCount: 12
 
 Does anyone recall the cigar fad from the mid-1990s? Cigar bars popped up. Celebrities were photographed smoking them. Cigarettes were out and cigars were in. Whenever someone brought up health concerns, the response was that cigars were OK, because you don't inhale them and you smoke less of them. People wanted to smoke, they knew cigarettes were bad and so many justified smoking cigars. **They were never healthy, they were just less bad.**
 
-![](./img/arnold-cigar1.jpg "arnold-cigar")
+![](/2011/04/the-cigar-defense-for-bread/img/arnold-cigar1.jpg "arnold-cigar")
 
 Bread has become the new cigar. Soak it, sprout it, ferment it. Beat the living hell out of bread and - maybe - you can make it less bad, or dare I say "OK" to consume. Grains are empty carbohydrates full of anti-nutrient properties. They are not healthy. Can you make them less bad? Sure, but that doesn't make it healthy.
 

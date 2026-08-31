@@ -13,9 +13,9 @@ Today when I was finished [rendering tallow](/2011/02/rendering-beef-tallow-in-a
 
 For years I've held onto a [Vietnamese Coffee](https://ineedcoffee.com/brew-vietnamese-coffee/) filter. I think I used it once. When you have a [kick ass espresso machine](https://ineedcoffee.com/rancilio-silvia-espresso-machine-tips/), all other coffee gear gets buried away. Anyway, I used the Vietnamese coffee filter and it worked great. Not 100%, but good enough for me. I guess cheese cloth would be ideal, but when you don't have any and you need to go MacGyver, it works!
 
-![render-fat-1](./img/render-fat-1.jpg)
+![render-fat-1](/2011/11/filtering-rendered-tallow-innovation/img/render-fat-1.jpg)
 
-![render-fat-2](./img/render-fat-2.jpg)
+![render-fat-2](/2011/11/filtering-rendered-tallow-innovation/img/render-fat-2.jpg)
 
 ---
 

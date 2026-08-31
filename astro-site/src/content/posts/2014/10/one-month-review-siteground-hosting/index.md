@@ -33,11 +33,11 @@ SiteGround has done what I didn't think was possible. With their SSD (Solid Stat
 
 Before I went on my trip, I ran this [speed test](http://tools.pingdom.com/fpt/).
 
-![siteground speed](./img/criticalmas-siteground-2014-Oct-13.jpg)
+![siteground speed](/2014/10/one-month-review-siteground-hosting/img/criticalmas-siteground-2014-Oct-13.jpg)
 
 Under 1 second. I thought it might be a fluke, so I ran it again this morning. This time from a Dallas server.
 
-![criticalmas-speed 2](./img/criticalmas-speed.jpg)
+![criticalmas-speed 2](/2014/10/one-month-review-siteground-hosting/img/criticalmas-speed.jpg)
 
 Holy Toledo! **0.7 seconds for WordPress!** That is smoking fast. And I am not even using a CDN (Content Delivery Network).
 

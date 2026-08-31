@@ -54,7 +54,7 @@ Another plan that aligns with my Peasant Diet is to use the [Fasting Mimicking D
 
 My story is strong again.
 
-![](./img/grains-1.jpg)
+![](/2018/02/downside-power-story-fat-loss/img/grains-1.jpg)
 
 _My latest Peasant discovery are these whole grain mixes I found at Cash & Carry. I got both for around $15 total. Watching these simmer for 35 minutes is no fun, but this week I cooked both via the pressure cooker in about 8 minutes. Saving money and time. Pure Peasant!_
 

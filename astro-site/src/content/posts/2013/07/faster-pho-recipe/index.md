@@ -13,7 +13,7 @@ A year ago, I made [pho](/2012/07/pho-photos/) for the first time. Since then I 
 
 The key is [Chinese 5 Spice](https://en.wikipedia.org/wiki/Five-spice_powder), which includes two critical pho flavors: star anise and cinnamon. I discovered this by accident when I started making pho one day and I realized that I was missing some spices. I pulled down my Chinese 5 Spice and checked the Wikipedia and the rest is Pho history.
 
-![Pho](./img/pho.jpg)
+![Pho](/2013/07/faster-pho-recipe/img/pho.jpg)
 
 _Faster Pho - Not a great photo, was taken with a phone._ 
 

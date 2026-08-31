@@ -51,4 +51,4 @@ I still prefer more acidic methods of brewing coffee, but I now have those with 
 
 I received a sample of a mineral pack that when added to an acidic coffee reduces the acid without reducing the flavor. It was called _Coffee Tamer_. I found it interesting and it worked, but just not as well as Cold Brew. Cold Brew was kinder to my stomach. Coffee Tamer might be a good option for traveling when I'm away from my cold brew stash.
 
-![](./img/futurama-coffee-machine.jpg)
+![](/2018/12/coffee-tests-on-an-empty-stomach/img/futurama-coffee-machine.jpg)

@@ -11,15 +11,15 @@ commentCount: 3
 
 My latest food project moves to Vietnam.
 
-![pho3](./img/pho3.jpg)
+![pho3](/2012/07/pho-photos/img/pho3.jpg)
 
-![pho2](./img/pho2.jpg)
+![pho2](/2012/07/pho-photos/img/pho2.jpg)
 
-![pho1](./img/pho1.jpg)
+![pho1](/2012/07/pho-photos/img/pho1.jpg)
 
-![pho4](./img/pho4.jpg)
+![pho4](/2012/07/pho-photos/img/pho4.jpg)
 
-![pho5](./img/pho5.jpg)
+![pho5](/2012/07/pho-photos/img/pho5.jpg)
 
 I used the average of a few [pho](https://en.wikipedia.org/wiki/Pho) recipes online. It turned out to be very tasty. The funny thing is that I never actually had pho before\*, so I can't tell you how authentic my version turned out. I suspect I did OK.
 

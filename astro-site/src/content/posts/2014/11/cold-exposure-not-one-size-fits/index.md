@@ -41,7 +41,7 @@ I was thinking about the difference between my [Freeze the Animal swims](/2013/0
 
 Same water temperature, two completely different experiences. One stressful. One joyful.
 
-![polar bear swim](./img/polar-bear.jpg)
+![polar bear swim](/2014/11/cold-exposure-not-one-size-fits/img/polar-bear.jpg)
 
 _From the 2009 Polar Bear Swim._ 
 

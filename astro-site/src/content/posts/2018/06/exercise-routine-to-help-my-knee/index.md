@@ -38,7 +38,7 @@ For those interested in what exercises I'm doing, here is my plan.
 
 **Zen / Butterfly Stretch** - Place soles of feet together, stretch. Can use elbows for a deeper stretch. (30-60 seconds 2-3x)
 
-![butterfly stretch](./img/butterfly-stretch.jpg)
+![butterfly stretch](/2018/06/exercise-routine-to-help-my-knee/img/butterfly-stretch.jpg)
 
 **Frog Pose Stretch** - Prone, rock up and down. (see [wikiHow](https://www.wikihow.com/Do-the-Frog-Pose-in-Yoga))
 

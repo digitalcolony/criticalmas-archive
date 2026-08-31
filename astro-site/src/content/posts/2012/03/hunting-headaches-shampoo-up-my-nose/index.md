@@ -15,7 +15,7 @@ A few months ago I got an idea that my sinus headaches may have roots in some fo
 
 The infection idea seemed weak, but at this point I'm running out of ideas. Then I heard a health podcast that gave me a bizarre yet effective idea for eliminating chronic sinus infections. You add a small amount of baby shampoo to your Neti pot. Yes, baby shampoo!
 
-![](./img/baby-shampoo.jpg "baby-shampoo")
+![](/2012/03/hunting-headaches-shampoo-up-my-nose/img/baby-shampoo.jpg "baby-shampoo")
 
 So I tried this Neti nose cocktail three nights in a row. My recipe was 8 ounces of warm filtered water, 1/2 teaspoon of sea salt, 1/3 teaspoon of baking soda and 1/2 teaspoon of J & J baby shampoo. As crazy as it seems the first time you use a Neti Pot, it is doubly weird to knowingly put shampoo up your nose. But I did it. It actually had a pleasant feel to it.
 

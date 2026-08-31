@@ -98,7 +98,7 @@ Perhaps a Weighted Vest is an ideal way to get the heart rate up without increas
 
 If you were me and my knees, what would you do for cardio? I will ease into cardio on both time and times per week. My motivation is to expand my fitness. I won't continue if I'm in pain. If I can [listen to podcasts](/2017/11/the-10000-steps-university/) that is a huge plus.
 
-![swimming](./img/marcus-ng-swimming.jpg)
+![swimming](/2018/10/starting-over-in-cardio/img/marcus-ng-swimming.jpg)
 
 _Photo by [Marcus Ng](https://unsplash.com/@marcusxsnapz)_
 

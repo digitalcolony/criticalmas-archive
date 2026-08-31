@@ -57,7 +57,7 @@ This body temp spike happened twice and both times, I went into my "I might be s
 
 I've heard that people that get COVID will often see body temperature spikes 1-2 days prior to noticing any symptoms. This feature alone makes the Oura Ring worth having.
 
-![Oura Ring 88](./img/oura-ting-88.jpg)
+![Oura Ring 88](/2021/02/learning-to-love-my-oura-ring/img/oura-ting-88.jpg)
 
 _Right now, I'm getting mostly scores in the 80s. I'm hoping to get into the 90s this year. More data. More experiments._
 

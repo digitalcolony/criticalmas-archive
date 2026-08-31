@@ -23,7 +23,7 @@ Even though I had already coded my own Content Management System for [INeedCoffe
 
 My posts at that time were shorter and more sarcastic. Often they were a response to a news story. Like many people online at that time, I was playing a character and having fun with it. I even appeared in a story about blogging ran by USA Today.
 
-![](./img/usatoday-mas.jpg)
+![](/2018/06/critical-mas-blog-3-0/img/usatoday-mas.jpg)
 
 Then around 2004 or so, Joe from [ArtLung](https://artlung.com/) organized a party for San Diego Bloggers. At that Meetup, I met a guy that had read my site. After chatting for 20 or so minutes, he told me that I was nothing like he imagined I would be in person. Based off my blog posts, he thought I would be a jerk.
 
@@ -51,7 +51,7 @@ Getting the search engines to both recognize the new domain and more importantly
 
 I toyed with the idea of moving the blog to Medium, but that will not happen. I do not trust them, plus the tests I did with some of my articles showed wildly different display rates. Look at my stats below.
 
-![](./img/stats-medium.jpg)
+![](/2018/06/critical-mas-blog-3-0/img/stats-medium.jpg)
 
 I will continue to post occasionally on Medium, but just things related to tech.
 

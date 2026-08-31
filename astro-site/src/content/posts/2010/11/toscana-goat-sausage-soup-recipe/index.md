@@ -13,7 +13,7 @@ I received this recipe from a vendor at the farmers market. I used raw milk in p
 
 **Summary**: _A Toscana soup recipe using a spicy goat sausage._
 
-![](./img/goat-soup1.jpg "goat-soup")
+![](/2010/11/toscana-goat-sausage-soup-recipe/img/goat-soup1.jpg "goat-soup")
 
 
 #### Ingredients

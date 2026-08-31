@@ -25,7 +25,7 @@ A year and half ago after I finished reading the book [Primal Body, Primal Mind]
 
 Did my coffee detox experiment trigger a side effect of reversing gray hair? Or was a result of embracing a more Paleo diet? Or something else? Beats me. I'll be sure to tune into the podcast interview with Dr. Pho on April 4th.
 
-![L-tyrosine](./img/L-tyrosine.png "L-tyrosine")
+![L-tyrosine](/2012/02/reversing-gray-hair/img/L-tyrosine.png "L-tyrosine")
 
 _L-Tyrosine_
 

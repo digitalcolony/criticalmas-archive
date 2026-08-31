@@ -23,11 +23,11 @@ I can still walk 10,000 steps a day. I can even do light hack squats (100 pounds
 
 Maybe one of my readers has some wisdom for me? What happened to me? Should I see a physical therapist or continue with the light stretching + time protocol?
 
-![question](./img/evan-dennis-question.jpg)
+![question](/2017/11/my-bizarre-injury/img/evan-dennis-question.jpg)
 
 _Photo by [Evan Dennis0](https://unsplash.com/@evan__bray)_
 
-![](./img/hamstrings-exercise.jpg)
+![](/2017/11/my-bizarre-injury/img/hamstrings-exercise.jpg)
 
 ---
 

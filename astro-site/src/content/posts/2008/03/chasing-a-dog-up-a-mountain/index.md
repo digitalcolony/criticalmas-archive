@@ -11,7 +11,7 @@ commentCount: 0
 
 Now that I've acclimatized to Seattle, I decided to go for my first hike of the year on Sunday. Since all the hikes [look the same](/2007/10/hiking-in-seattle-vs-san-diego/) out here, I went for my nearest favorite: West Tiger (aka Exit 20).
 
-![dog-hike](./img/dog-hike.jpg)
+![dog-hike](/2008/03/chasing-a-dog-up-a-mountain/img/dog-hike.jpg)
 
 I hit the trail at the same time as a lady and her 6 month old black lab. The dog would run 100 meters or so up the trail and then return to the lady. This process was repeated for the first few kilometers of the trail. I was hiking faster than the lady and soon I noticed the dog was using me as point of reference to run up and down the trail. I looked back for the lady and she was out of visual range. Not good.
 
@@ -21,7 +21,7 @@ The challenge was clear at this point. Get to the top of the mountain as fast as
 
 I think I arrived at the top of the mountain a minute behind the dog. The dog was begging food from everyone at the summit. She even grabbed a sandwich from one hiker. My task was to keep the dog occupied and not let it _freak out_ and head down the backside of the mountain while the owner who was five minutes from the summit arrived. My new task was obvious, I had to get this dog from eating the lunches of several hikers.
 
-![black-dog](./img/black-dog.jpg)
+![black-dog](/2008/03/chasing-a-dog-up-a-mountain/img/black-dog.jpg)
 
 As the dog misbehaved, I called it and pulled it away from other hikers all while explaining that it wasn't my dog. Eventually the owner arrived and I was free to go.
 

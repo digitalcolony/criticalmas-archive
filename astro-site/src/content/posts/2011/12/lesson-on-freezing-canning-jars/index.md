@@ -11,7 +11,7 @@ commentCount: 10
 
 For the past year I've been trying to figure out the mystery on why some of the glass canning jars I put in the freezer shatter and others don't. At first I thought I overfilled the jars with too much stock. So I lowered the liquid line, yet the breaks continued. Then I thought the plastic lid was the problem, so I used the metal ones. Still more breaks. Then I tried pre-cooling in the refrigerator first. That didn't fix the problem. Then I tried different areas of the freezer and even tried it lidless. Again they shattered.
 
-![Freeze Canning Jar Broken](./img/frozen-canning-jar.jpg "Freeze Canning Jar Broken")
+![Freeze Canning Jar Broken](/2011/12/lesson-on-freezing-canning-jars/img/frozen-canning-jar.jpg "Freeze Canning Jar Broken")
 
 _Another shattered canning jar in my freezer._
 

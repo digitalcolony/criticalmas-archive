@@ -15,7 +15,7 @@ Grains are not healthy, so going 30 days without grains will not be bad for your
 
 When I gave up gluten, I did as part of an overall lower carbohydrate approach to eating. I wasn't going directly after the gluten at first. By September of 2009 I was 100% gluten free. Since then I have done two tests to see if I really have a problem with gluten. I do. Some people get intestinal issues and skin problems are also common. For me it was massive headaches and some skin flare ups.
 
-![cake](./img/cake_wish-M.jpg)
+![cake](/2010/08/life-without-gluten/img/cake_wish-M.jpg)
 
 _Cake time? Not anymore._ 
 

@@ -17,17 +17,17 @@ Today was the day of my first (_and last?_) Polar Bear Plunge. Here were the sta
 
 I'm probably the only one that actually trained for this event. Starting on Sunday I've been taking ice cold showers daily to prepare my body for the cold swim. Turns out an ice cold shower is actually colder than Lake Washington, so the plunge wasn't as bad as I expected.
 
-![polar-1](./img/polar-1.jpg)
+![polar-1](/2009/01/2009-polar-bear-plunge-matthews-beach-in-seattle/img/polar-1.jpg)
 
 Some people wore costumes.
 
-![polar-2](./img/polar-2.jpg)
+![polar-2](/2009/01/2009-polar-bear-plunge-matthews-beach-in-seattle/img/polar-2.jpg)
 
 In order to get the _Badge of Courage_, you needed to go out far enough that the water hit your neckline. It took me about 45-60 seconds to reach that point. Instead of turning around, I dove under and swam another 10 meters, came up and then booked it back to the shore. Upon returning to shore, I completely forgot about getting the _Badge_ and instead focused on getting warmer. Brain freeze?
 
 It was a fun event. Some people do this every year. I'm probably thinking this is a _Hit and Quit It_ event. Once is enough. Check it off the list. Damn I look pasty. How many more months to sun?
 
-![polar-3](./img/polar-3.jpg)
+![polar-3](/2009/01/2009-polar-bear-plunge-matthews-beach-in-seattle/img/polar-3.jpg)
 
 ---
 

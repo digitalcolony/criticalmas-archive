@@ -21,7 +21,7 @@ When I began Intermittent Fasting, I would have guessed my cortisol levels were 
 
 Not only did IF lean me out, it calmed me. **Going without food for the first time in my life was therapeutic. It was empowering. It lowered my stress levels.** In a world where I felt I had no control, I found I could control my hunger. Fasting is a common practice with some religions. I understand why now.
 
-![seattle-snowstorm](./img/seattle-snowstorm.jpg)
+![seattle-snowstorm](/2011/04/intermittent-fasting-not-for-everyone-but-perfect-for-me/img/seattle-snowstorm.jpg)
 
 _Nothing more calming than fasting while doing a [16 mile urban hike in a snowstorm](/2008/12/urban-hike-seattle-snow-edition/)!_
 

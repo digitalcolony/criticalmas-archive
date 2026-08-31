@@ -21,7 +21,7 @@ Geoff had a [great comment](/2014/02/regained-weight-lost/#comment-22346) on wha
 
 The thought of me suffering a week without coffee is motivating to my friends in the bet. Yet my motivation is to avoid going another summer in Seattle with restricted movement.
 
-![seattle-sculpture-park-view](./img/seattle-sculpture-park-view.jpg)
+![seattle-sculpture-park-view](/2014/02/fat-loss-bet/img/seattle-sculpture-park-view.jpg)
 
 _When summer hits in Seattle, I don't want to be sitting down icing my knee._
 

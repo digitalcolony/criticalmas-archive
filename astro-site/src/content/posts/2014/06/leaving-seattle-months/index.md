@@ -21,7 +21,7 @@ I've been in Seattle since August 2007. It will be nice to explore the San Fran
 
 After 6 months my plan is to return to Seattle in full negotiator mode to score a lease at a fair price.
 
-![Ritual Coffee](./img/3985864835_2110d487d3_z.jpg)
+![Ritual Coffee](/2014/06/leaving-seattle-months/img/3985864835_2110d487d3_z.jpg)
 
 [Photo](https://www.flickr.com/photos/mojosaurus/3985864835/) by Ishwar
 

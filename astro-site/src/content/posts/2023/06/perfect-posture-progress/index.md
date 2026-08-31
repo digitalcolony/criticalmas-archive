@@ -21,7 +21,7 @@ Last year, I listened to the audiobook _Life Force: How New Breakthroughs in Pre
 
 Robbins mentioned the Backbridge, which is a device for stretching your back. Use it a few minutes a day, twice a day. I didn't drop the $140 on the device and instead found a $15 substitute on Amazon by Moocoo.
 
-![](./img/back-stretcher.jpg)
+![](/2023/06/perfect-posture-progress/img/back-stretcher.jpg)
 
 The back stretcher has 3 settings. I started on Level 1 and at first it was challenging to hold the stretch for a few minutes, but I kept at it twice a day for weeks. Then I moved to Level 2 for a while and now I'm at Level 3. Level 3 is now effortless for me, so I only use it a few times a week. This product works.
 

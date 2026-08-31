@@ -13,15 +13,15 @@ It seems I missed a post. I posted about the cool things I did in Chiang Mai, su
 
 We arrived in Chiang Mai via an overnight train.
 
-![chiang-mai](./img/chiang-mai.jpg)
+![chiang-mai](/2010/01/chiang-mai-thailand/img/chiang-mai.jpg)
 
 The food was stellar. Not just the Thai food. There was an amazing Mediterranean restaurant and possibly the best Indian food I have ever had was at Royal India Restaurant. The proprietor came out and offered to cook us a meal and if we didn't like it, we didn't have to pay. We liked it so much, we came back the next day.
 
-![royal-indian](./img/royal-indian.jpg)
+![royal-indian](/2010/01/chiang-mai-thailand/img/royal-indian.jpg)
 
 The only thing keeping Chiang Mai from being one stop Thailand destination is that it is land locked, so you won't find a beach here. Since I get bored of the beach quickly, Chiang Mai was perfect for me.
 
-![chiang-mai-2](./img/chiang-mai-2.jpg)
+![chiang-mai-2](/2010/01/chiang-mai-thailand/img/chiang-mai-2.jpg)
 
 [Photo Gallery for Chiang Mai, Thailand](https://www.flickr.com/photos/129592470@N02/sets/72157649716857908/)
 

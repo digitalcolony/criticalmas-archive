@@ -54,7 +54,7 @@ That was the plan. Then [I got a hernia](/2023/08/i-got-a-hernia/) and a week fr
 -   Green onions and cilantro. I cut these up almost daily and add them to my soups or "Budda bowl" dinners.
 -   Potatoes!
 
-![](./img/chicken-breasts.jpg)
+![](/2023/09/what-i-eat-and-what-i-dont-eat-2023-edition/img/chicken-breasts.jpg)
 
 _Baking chicken breasts in bulk._
 

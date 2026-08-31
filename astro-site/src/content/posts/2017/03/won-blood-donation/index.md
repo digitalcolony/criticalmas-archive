@@ -23,7 +23,7 @@ I returned a few days later to try again. I really wanted that pin. And although
 
 For 2 weeks I ate sunflower seeds and lamb and beef. Then I returned and my Iron level was finally high enough to donate. I collected my 4 Gallon Pin and this time instead of scheduling an appointment for 8 weeks, I pushed it out to 11 weeks.
 
-![](./img/31814891686_a577276e10_z.jpg)
+![](/2017/03/won-blood-donation/img/31814891686_a577276e10_z.jpg)
 
 Today was my first donation since collecting my 4 Gallon Pin and guess what? My Iron levels are too low to donate. Still in a healthy range, but just a little too low for their needs.
 

@@ -21,7 +21,7 @@ Before I explain myself, I'd like to revisit an IF experiment I did in early 201
 
 I don't want to rehash the criticisms I got in comments and emails. Some of it was valid. Some weren't. At the time, I chalked up the problems I experienced to a [lack of randomness](/2011/03/intermittent-fasting-spontaneous-and-random/). The body was predicting times when I would fast and would down-regulate my energy via lower body temperature and just being tired. I now think that is a partial explanation.
 
-![do-not-enter](./img/do-not-enter.jpg)
+![do-not-enter](/2014/02/intermittent-fasting-paleo-didnt-teach/img/do-not-enter.jpg)
 
 
 ### The Bioenergetic View

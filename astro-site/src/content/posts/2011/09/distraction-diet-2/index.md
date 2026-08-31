@@ -25,7 +25,7 @@ I decided to frame this problem like I did when I made the transition from 5-6 m
 
 For a few years now, when I wake up I do not turn on my computer. Instead I take time to read a book, usually about 60 to 90 minutes. Back when I was really into finance, I would jump out of bed, pop on the computer and read financial news and blogs before the opening bell (6:30 AM PT). Slamming coffee and consuming massive amounts of financial news before the sun rose eventually became too stressful.
 
-![](./img/bernanke-tim.jpg "bernanke-tim") _Reading a book is a more peaceful way to start my morning than following the exploits about these two clowns. Photo by [The IMF](http://www.flickr.com/photos/imfphoto/5622721320/in/photostream/)._
+![](/2011/09/distraction-diet-2/img/bernanke-tim.jpg "bernanke-tim") _Reading a book is a more peaceful way to start my morning than following the exploits about these two clowns. Photo by [The IMF](http://www.flickr.com/photos/imfphoto/5622721320/in/photostream/)._
 
 I also realized that once the computer was on, it was too difficult to read books. Pixels had a stronger pull than print. So I front-loaded my reading to take place before I even turned on my PC. This technique has been phenomenally successful for me. I've read more books in the past 3 years than the rest of my life combined.
 

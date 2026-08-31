@@ -31,7 +31,7 @@ And now for the vegans.
 3.  **Consider Moving or Winter Vacations** - The further one is from the Equator, the less natural a vegetarian diet becomes. Closer to the Equator plants grow year-round without having to deal with winter. The sun rains down Vitamin D year-round. As cultures move further away from their Equator, their diet increases in animal sources. Animal fat has all the vitamins of plants (except Vitamin C\*\*). If being a vegan and living in harmony with the local environment is important, then choosing to be where plant growth is supported year-round might be a consideration. Or you could head to vegan-friendly areas like Thailand for your winter vacation. :)
 4.  **Vitamin K2** - The evidence is pouring in that Vitamin K2 is essential to good health and preventing cancers. Vitamin K1, which is abundant in green leafy vegetables is not the same thing and the body can only convert a small amount to K2. To stay vegan and get this nutrient, eat fermented foods such as natto or kimchi. I make my own [kimchi](/2011/03/kimchi-101/), which is super easy to do. Fermented foods promote good gut flora and are very nutrient-dense.
 
-![veggies](./img/52743337_6669d801c8_z.jpg)_[Photo](https://flic.kr/p/5EjKT) by Danny O._
+![veggies](/2010/09/if-i-were-still-a-vegetarian/img/52743337_6669d801c8_z.jpg)_[Photo](https://flic.kr/p/5EjKT) by Danny O._
 
 Note that all these tips are not restricted to vegetarians or vegans. Provided the person doesn't have a specific food allergy, they should work for anyone. Did I miss anything?
 

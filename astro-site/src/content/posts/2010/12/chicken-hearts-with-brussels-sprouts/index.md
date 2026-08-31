@@ -15,7 +15,7 @@ Version 2 = swap out the apples for Brussels sprouts.
 
 The dish was outstanding. For whatever reason, the chicken hearts tasted much better. It had none of the liver like gamy and bitter tastes that were slightly present before. The meat was sweeter and more tasty. The Brussels sprouts worked just as well as the apples. I plan to make this dish again soon.
 
-![chicken-hearts-bacon](./img/chicken-hearts-bacon.jpg)
+![chicken-hearts-bacon](/2010/12/chicken-hearts-with-brussels-sprouts/img/chicken-hearts-bacon.jpg)
 
 ---
 

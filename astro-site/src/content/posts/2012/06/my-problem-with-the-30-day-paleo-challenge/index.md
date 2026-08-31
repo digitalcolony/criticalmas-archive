@@ -22,7 +22,7 @@ That is just the start. Some variations of the 30 Day Challenge go further with 
 
 What I've noticed in the Paleo community is that many of the most successful followers have one thing in common. **They were former vegetarians.** [Myself included](/2008/07/im-not-a-vegetarian/). Why is that? Vegetarians become very skilled at learning what is in the food they eat. They have experience reading labels. They are more likely to have cooking skills. They've already put lots of thought into ordering at restaurants and shopping at grocery stores. When they make the switch to Paleo, all those skills just get aimed in a new direction. Their success rate will be much higher than the individual with no experience following a restrictive diet.
 
-![legumes](./img/legumes.jpg)
+![legumes](/2012/06/my-problem-with-the-30-day-paleo-challenge/img/legumes.jpg)
 
 _I still eat (sprouted) legumes occasionally._ 
 

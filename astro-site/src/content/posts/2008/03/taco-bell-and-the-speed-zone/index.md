@@ -15,7 +15,7 @@ Do you have a story that you tell that is so unreal that as the years go by, eve
 
 Not only were they true, but if I could resurrect my old web site from 3 years ago, I could once again tell the stories that were written during that time period. Once I got home I started going deep into my hard drive looking for my old Tampa Bay web site. While living in Tampa Bay I created a web site called **Tributes & Slams**. The Taco Bell Speed Zone earned a Tribute. Unfortunately for the rest of the country, it seemed that the Speed Zone was restricted to only a few markets. For reasons you'll soon understand, **The Speed Zone is long gone**, however the original story written in 1997 survives. Enjoy!
 
-![Taco Bell](./img/13474670924_196eeea318_z.jpg)
+![Taco Bell](/2008/03/taco-bell-and-the-speed-zone/img/13474670924_196eeea318_z.jpg)
 
 _[Photo](https://flic.kr/p/mwHddu) by Mike Mozart_
 

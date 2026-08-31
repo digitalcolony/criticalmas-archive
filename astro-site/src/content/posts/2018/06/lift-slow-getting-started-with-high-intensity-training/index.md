@@ -19,7 +19,7 @@ For now, I put up a splash page. Content will be coming later this summer. I don
 
 You do not need to bookmark Lift Slow. I'll be posting here when I have a true version 1 online.
 
-![](./img/leg-press.jpg)
+![](/2018/06/lift-slow-getting-started-with-high-intensity-training/img/leg-press.jpg)
 
 _Photo by [Elias Rovielo](https://www.flickr.com/photos/eliasroviello)_
 

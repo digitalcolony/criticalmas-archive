@@ -13,7 +13,7 @@ I love sushi, but I am not a fan of sushi restaurants. They tend to be expensive
 
 There has to be a better way. In the past two weeks, I discovered how easy it is to make your own sushi. So last night I attempted my first homemade sushi. It was a hit!
 
-![sushi](./img/sushi.jpg)
+![sushi](/2009/03/sushi-freedom/img/sushi.jpg)
 
 _Ahi, avocado and a little cream cheese._
 

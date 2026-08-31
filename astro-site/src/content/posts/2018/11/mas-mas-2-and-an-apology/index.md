@@ -51,7 +51,7 @@ I was running a plugin to prevent SPAM comments that asked people to enter the y
 
 I removed that plugin. I'm sorry if you tried to post a comment and it got rejected. I'd rather deal with extra SPAM than lose a single valid comment.
 
-![No MAS!](./img/299879376_FJu7i-S.jpg)
+![No MAS!](/2018/11/mas-mas-2-and-an-apology/img/299879376_FJu7i-S.jpg)
 
 ---
 

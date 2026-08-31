@@ -79,7 +79,7 @@ My biggest regret during this era was not doing a better job of recording my wei
 
 My second biggest regret was not getting blood work, but at that time I was unaware of how to pull my bloodwork outside of the healthcare systems with companies like UltaLabs.
 
-![](./img/caveman-weighing-scale.jpg)
+![](/2024/09/trying-to-remember-my-diet-and-weight-history/img/caveman-weighing-scale.jpg)
 
 
 ### 2016 - 2021: Potato Hack, Peasant Diet, Potatoes and Protein

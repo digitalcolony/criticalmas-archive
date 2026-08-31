@@ -11,7 +11,7 @@ commentCount: 51
 
 In this post, I will review a book I bought almost 8 years ago. At the time I thought this book was excellent. Not anymore.
 
-![naked-warrior](./img/naked-warrior.jpg)
+![naked-warrior](/2011/11/rejecting-the-naked-warrior/img/naked-warrior.jpg)
 
 The Naked Warrior by Pavel Tsatsouline is a book that focuses on body weight exercises. It promises _secret_ knowledge to help you get _super strong_ without using weights.
 
@@ -51,7 +51,7 @@ If a standard push-up is too easy then using one arm will make it much tougher. 
 
 In the end, I never gained any _super strength_ using the Pistol or the 1-armed push-up, because they were both too technical to perform. At least for my 6 foot 3-inch body.
 
-![mas-Pavel](./img/mas-Pavel.jpg)
+![mas-Pavel](/2011/11/rejecting-the-naked-warrior/img/mas-Pavel.jpg)
 
 _I met Pavel in early 2004_
 

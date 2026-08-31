@@ -27,7 +27,7 @@ Many lifters get their hernias from lifting heavy. I don't lift heavy. I stopped
 
 After some long chats and detective work with Chat GPT, I discovered there are certain yoga poses that stretch the abdominals. When you then add a twist to that movement you increase the risk of hernia. Although a few poses are candidates, I think the upward dog with a twist is probably what triggered my hernia.
 
-![](./img/oksana-taran-4Bg1yKRfnD8-unsplash.jpg)
+![](/2023/08/i-got-a-hernia/img/oksana-taran-4Bg1yKRfnD8-unsplash.jpg)
 
 _Upward Facing Dog photo by [Oksana Taran](https://unsplash.com/@oksanataran?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 

@@ -27,7 +27,7 @@ By denying yourself food after an intense workout, you might have higher GH, but
 
 I think that ending the post workout stress by restoring glycogen levels should be your primary goal. When glycogen levels are depleted or run low, the stress hormone adrenaline is released. That could impact your sleep, especially if your workout was in the afternoon. Poor sleep is no friend to muscle growth.
 
-![coffee-ice-cream](./img/coffee-ice-cream.jpg)
+![coffee-ice-cream](/2013/09/post-workout-fasting/img/coffee-ice-cream.jpg)
 
 For reasons I've [already covered](/2012/07/why-ice-cream-is-better-than-protein-powder/), I think ice cream is the perfect food to eat post workout. If you can't handle dairy, make it [coconut milk ice cream](https://ineedcoffee.com/coconut-milk-coffee-ice-cream-recipe/). Regular milk or [dairy kefir](/2013/03/making-dairy-kefir-is-super-easy/) with fruit work as well.
 

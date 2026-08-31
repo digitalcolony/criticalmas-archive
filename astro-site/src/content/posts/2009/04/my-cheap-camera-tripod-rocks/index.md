@@ -11,13 +11,13 @@ commentCount: 5
 
 I got a cheap little tripod for my camera and I am very pleased.
 
-![tripod](./img/tripod.jpg)
+![tripod](/2009/04/my-cheap-camera-tripod-rocks/img/tripod.jpg)
 
 _Photo "Take me to your leader!" by Flickr user shawnmebo_
 
 The tripod is just $10 on Amazon and easily screws into that hole on the bottom of most compact digital cameras. I think my photos have gotten better with the tripod.
 
-![diamond-knot-cooking](./img/diamond-knot-cooking.jpg)
+![diamond-knot-cooking](/2009/04/my-cheap-camera-tripod-rocks/img/diamond-knot-cooking.jpg)
 
 _Photo taken using my $10 Vidpro Gripster on a 2-second timer_
 

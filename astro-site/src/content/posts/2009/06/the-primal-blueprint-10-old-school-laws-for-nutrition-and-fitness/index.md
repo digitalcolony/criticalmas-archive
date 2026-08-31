@@ -11,7 +11,7 @@ commentCount: 1
 
 The newest trend in nutrition is actually the oldest trend. Evolutionary nutrition and fitness are gaining momentum online. When it comes to diet, I've been slowly moving in the [evolutionary direction](/2009/01/maybe-i-think-too-much-but-some-things-wrong/) for a year now. One of the blogs I read regularly is _Mark's Daily Apple_. When Mark Sisson came out with a book on evolutionary nutrition, I knew I had to get it.
 
-![The Primal Blueprint: Reprogram Your Genes for Effortless Weight Loss, Vibrant Health, and Boundless Energy](./img/primal-blueprint.jpg "The Primal Blueprint: Reprogram Your Genes for Effortless Weight Loss, Vibrant Health, and Boundless Energy") The Primal Blueprint: Reprogram Your Genes for Effortless Weight Loss, Vibrant Health, and Boundless Energy
+![The Primal Blueprint: Reprogram Your Genes for Effortless Weight Loss, Vibrant Health, and Boundless Energy](/2009/06/the-primal-blueprint-10-old-school-laws-for-nutrition-and-fitness/img/primal-blueprint.jpg "The Primal Blueprint: Reprogram Your Genes for Effortless Weight Loss, Vibrant Health, and Boundless Energy") The Primal Blueprint: Reprogram Your Genes for Effortless Weight Loss, Vibrant Health, and Boundless Energy
 
 _The Primal Blueprint: Reprogram Your Genes for Effortless Weight Loss, Vibrant Health, and Boundless Energy by Mark Sisson_ is the first book on evolutionary fitness that is easy to follow and accessible way for the average person to learn about evolutionary nutrition. Perhaps "learn" is the wrong term. Maybe "remember" is a better term.
 

@@ -23,7 +23,7 @@ I also found the end of the Saladino video regarding heavy metals in seed oils t
 
 Some of you can guess where I side on this issue. Am I on team saturated fat or team seed oils? Neither. I'm on team carbs.
 
-![](./img/fat-fight.jpg)
+![](/2023/12/seed-oils-vs-saturated-fat-picking-a-side/img/fat-fight.jpg)
 
 _I'm the guy with the camera._ 😁
 

@@ -13,6 +13,6 @@ The sad history of Cambodia involves land mines. Lots of them. I read an estimat
 
 In between Angkor Wat temple visits, we stopped into the [Cambodian Landmine Museum](https://www.cambodialandminemuseum.org/).
 
-![cambodian-landmine-1](./img/cambodian-landmine-1.jpg)
+![cambodian-landmine-1](/2009/12/cambodian-landmine-museum/img/cambodian-landmine-1.jpg)
 
-![cambodian-landmine-2](./img/cambodian-landmine-2.jpg)
+![cambodian-landmine-2](/2009/12/cambodian-landmine-museum/img/cambodian-landmine-2.jpg)

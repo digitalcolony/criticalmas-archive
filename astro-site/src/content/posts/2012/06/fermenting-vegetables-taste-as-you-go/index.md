@@ -15,7 +15,7 @@ The reason I don't use a tight seal is that I want to taste my kimchi and sauerk
 
 You will get much better much faster at fermentation if you taste as you go. That includes trying the ferment in its raw state before jarring, especially when trying a new recipe. The saltiness will mellow a little during the ferment, but you can get a good idea if you need to make a change before you jar.
 
-![cucumber-kimchi](./img/cucumber-kimchi.jpg)
+![cucumber-kimchi](/2012/06/fermenting-vegetables-taste-as-you-go/img/cucumber-kimchi.jpg)
 
 _Recently I made cucumber kimchi for the first time. By tasting it daily, I learned a lot about how the taste evolved. It turned out good. The next time I expect it to be even better._
 

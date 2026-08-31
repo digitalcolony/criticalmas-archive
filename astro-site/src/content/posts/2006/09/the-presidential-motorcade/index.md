@@ -15,7 +15,7 @@ The phone rang in our apartment one Sunday afternoon. My girlfriend answered. I 
 
 As a former all star delivery driver for Pizza Hut, I was sure the White House was aware of my legendary driving ability. Actually, we got the gig through our friend Dominique who used to work in the White House and (at the time) worked for the Department of Transportation. Anyway, the White House wanted us to drive vans in the motorcade.
 
-![motorcade book](./img/mc1.gif)
+![motorcade book](/2006/09/the-presidential-motorcade/img/mc1.gif)
 
 We needed to attend a meeting with other drivers a day before the President arrived. This is where we got a brief overview on how to be a good motorcade driver and where to show up the next day. The other drivers were VERY big Clinton fans. It seems that I was the only driver that wasn't a volunteer for either the White House or the Democratic Party at some point or another.
 
@@ -23,7 +23,7 @@ On Thursday afternoon we arrived to pick up our vans. I was assigned Wires 1 and
 
 Before the landing we were instructed on how to drive in a motorcade.
 
-![motorcade=1](./img/motorcade1.jpg)
+![motorcade=1](/2006/09/the-presidential-motorcade/img/motorcade1.jpg)
 
 Once the President arrived and the vans were loaded up with the press corps, the motorcade was off. The California Highway Patrol cleared and secured all the roads and bridges along the route. As we drove to the first stop, motorcycle CHIPS sped passed us on both sides to keep the motorcade moving securely.
 
@@ -37,13 +37,13 @@ At the end of the fund raiser, President Clinton exited the elevator and, one-by
 
 That night, the President stayed at a quaint $55 million dollar home of a very big donor for the Democratic party, located 30 miles north in an area called Rancho Santa Fe. It was fun driving north on 5 with the entire freeway blocked off for you and the rest of the motorcade. Presidential motorcades also don't stop for anything. Driving the motorcade at night, we were instructed to keep in close to minimize security risks.
 
-![clinton-mas](./img/clinton-mas.jpg)
+![clinton-mas](/2006/09/the-presidential-motorcade/img/clinton-mas.jpg)
 
 The next morning we returned to pick up the President and drive the press corps to a small airport in Poway where a helicopter took President Clinton to Chula Vista to see the Olympic training center.
 
 We served our country, met the President, and added an interesting story to our repertoire. Going home, the words "Thank you man" rang in my mind. Then it struck me that my own President thinks I'm a HIPPIE. Politicians are the best judge of character, and Clinton had me all wrong. I like Sinatra not the Grateful Dead. At that point, I decided it was time I needed a haircut, so I got one a few weeks later. This makes Clinton the most influential President of my lifetime. **President Clinton personally inspired me to cut my long hair.** How many other people can say that?
 
-![mas_longhair](./img/mas_longhair.jpg) ![mas_shorthair](./img/mas_shorthair.jpg)
+![mas_longhair](/2006/09/the-presidential-motorcade/img/mas_longhair.jpg) ![mas_shorthair](/2006/09/the-presidential-motorcade/img/mas_shorthair.jpg)
 
 ---
 

@@ -5,13 +5,13 @@ modifiedDate: 2020-12-04T08:53:11.000Z
 author: "MAS"
 categories: ["General"]
 tags: ["fires", "sandiego"]
-description: "History is repeating itself. Fires have broken out in North, East, and South county. Below is a map of the fires put on the news this morning. ![](./img/sd-fires-2007.jpg \"sd-fires-2007\") Just like..."
+description: "History is repeating itself. Fires have broken out in North, East, and South county. Below is a map of the fires put on the news this morning. ![](/2007/10/san-diego-fires-2007/img/sd-fires-2007.jpg \"sd-fires-2007\") Just like..."
 commentCount: 0
 ---
 
 History is repeating itself. Fires have broken out in North, East, and South county. Below is a map of the fires put on the news this morning.
 
-![](./img/sd-fires-2007.jpg "sd-fires-2007")
+![](/2007/10/san-diego-fires-2007/img/sd-fires-2007.jpg "sd-fires-2007")
 
 Just like 2003, our old neighborhood in East Escondido is being threatened by the San Pasqual Valley Fire. Our friend and Rainman are near the Harris Fire.
 
@@ -21,9 +21,9 @@ Here is what I wrote on my blog on October 27, 2003.
 
 Even though I'm in the Seattle area now, I'm following this news story. Just like the last time, 760 AM is doing the best job reporting this story.
 
-More Photos From 8 AM: ![](./img/sd-fires-2.jpg "sd-fires-2")
+More Photos From 8 AM: ![](/2007/10/san-diego-fires-2007/img/sd-fires-2.jpg "sd-fires-2")
 
-![](./img/sd-fires-3.jpg "sd-fires-3")
+![](/2007/10/san-diego-fires-2007/img/sd-fires-3.jpg "sd-fires-3")
 
 A 9 AM email from my neighbor who lived across the street from me when I lived in Escondido:
 

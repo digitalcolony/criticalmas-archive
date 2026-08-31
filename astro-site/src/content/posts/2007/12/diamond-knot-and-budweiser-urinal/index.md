@@ -11,4 +11,4 @@ commentCount: 0
 
 Diamond Knot Brewery in Mukilteo, Washington found a good use for an empty Anheuser-Busch keg. They converted it into a urinal. Seems fitting.
 
-![bud-urinal](./img/bud-urinal.jpg)
+![bud-urinal](/2007/12/diamond-knot-and-budweiser-urinal/img/bud-urinal.jpg)

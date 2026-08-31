@@ -33,7 +33,7 @@ My method is based on a series of kids' books called _Mad Libs_. Remember those?
 
 And remember that when creating a password or passphrase, the length is your friend. Longer passwords are more difficult to crack than shorter ones.
 
-![mad libs book](./img/mad-libs.jpg)
+![mad libs book](/2018/04/the-mad-libs-method-of-creating-secure-passwords/img/mad-libs.jpg)
 
 _The Original #1 Mad Libs_
 
@@ -69,7 +69,7 @@ That passphrase is 30 characters long. It is memorable. It is visual. You will n
 
 The website [How Secure is My Password](https://howsecureismypassword.net/) estimates it would take a computer 312 UNDECILLION YEARS to crack this password. That is a [big number](https://en.wikipedia.org/wiki/Names_of_large_numbers).
 
-![Waves passphrase](./img/waves.jpg)
+![Waves passphrase](/2018/04/the-mad-libs-method-of-creating-secure-passwords/img/waves.jpg)
 
 If you wanted to write down the new passphrase but didn't want others to see the paper, you can put together an image like I just did. There are enough reminders in the image should you forget. I would only use this technique for the master passphrase for your Password Manager.
 

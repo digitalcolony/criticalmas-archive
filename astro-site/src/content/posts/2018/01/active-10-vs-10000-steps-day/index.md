@@ -20,7 +20,7 @@ The short summary is that people that aim for walking briskly 3 times a day for 
 
 The article concludes that the Active 10 group had a better health outcome than the 10,000 Steps group. As President and Founder of [The 10,000 Steps University](/2017/11/the-10000-steps-university/), I did not like how the author and others have lumped the "10,000 Steps" protocol in with other exercise protocols and then compared them.
 
-![10,000 Steps University](./img/10k-university.jpg)
+![10,000 Steps University](/2018/01/active-10-vs-10000-steps-day/img/10k-university.jpg)
 
 **10,000 Steps was never prescribed as a replacement or substitute for true exercise.** It was prescribed as an antidote to endless hours of sitting. You still need to lift and get your heart rate up. The goal is to do **both**. But people hear what they want to hear. And then they repeat that false statement over and over until it became the accepted truth that 10,000 Steps was being recommended as exercise.
 
@@ -36,7 +36,7 @@ Active 10 has a [free app for iOS and Android](https://www.nhs.uk/oneyou/active1
 
 Join me if you like and I'll post again in a few months and then we share our results.
 
-![Active 10](./img/active-10.jpg)
+![Active 10](/2018/01/active-10-vs-10000-steps-day/img/active-10.jpg)
 
 ---
 

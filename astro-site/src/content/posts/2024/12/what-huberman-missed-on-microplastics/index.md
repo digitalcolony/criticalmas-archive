@@ -84,7 +84,7 @@ How much of these microplastics and PFAS are in animal fat? How does it compare 
 
 In the meantime, I'll continue to donate blood, follow the tips Huberman outlined, and minimize my intake of animal fat.
 
-![](./img/cow-smoke.jpg)
+![](/2024/12/what-huberman-missed-on-microplastics/img/cow-smoke.jpg)
 
 _No thanks. Pass the lentils._
 

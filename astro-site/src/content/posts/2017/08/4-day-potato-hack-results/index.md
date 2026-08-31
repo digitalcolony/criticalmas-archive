@@ -19,7 +19,7 @@ Some might be thinking that 2 pounds weren't a lot, but I had just lost 22 pound
 
 During my 4-day hack, outside of this blog, I didn't inspire a single person to Potato Hack or even to consider going a single meal eating a single meal of boiled potatoes. However, I did come up with an idea of a [Potato Hack variation](/2017/08/marine-potato-20-easy-potato-hack-everyone/) that I think would be acceptable to others and also be effective. I'll talk about my idea in the next post.
 
-![red potatoes](./img/red-potatoes.jpg)
+![red potatoes](/2017/08/4-day-potato-hack-results/img/red-potatoes.jpg)
 
 _[Photo](https://flic.kr/p/oLUSRp) by Mike Mozart_
 

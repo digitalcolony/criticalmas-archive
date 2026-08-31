@@ -24,6 +24,6 @@ I like a lot of things the [smart vegans](/2019/06/listening-to-the-smartest-veg
 
 And by the way, 3 capsules is considered just half a daily dose.
 
-![beef organ capsules](./img/beef-organ-capsules.jpg)
+![beef organ capsules](/2019/08/spiking-iron-levels-quickly-with-beef-organ-capsules/img/beef-organ-capsules.jpg)
 
 _Ancestral Supplements Grass Fed Beef Organs (Desiccated) — Liver, Heart, Kidney, Pancreas, Spleen_

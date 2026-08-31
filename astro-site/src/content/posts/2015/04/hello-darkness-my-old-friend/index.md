@@ -60,7 +60,7 @@ A month ago I presented [my plan to lose weight](/2015/03/embracing-food-reward/
 
 I'll drink coffee for the flavor and pick up and then crash not later in the day, but sometimes as soon as 30-60 minutes later. At this point my energy level is low and I can't drink more coffee, so I reach to food for the pickup. Coffee can be both suppress and stimulate appetite. In the short run, it suppresses, but in the longer time frame, I believe it increases my appetite.
 
-![useless without coffee](./img/201302-useless-ineedcoffee.jpg)
+![useless without coffee](/2015/04/hello-darkness-my-old-friend/img/201302-useless-ineedcoffee.jpg)
 
 _From Inanimate Objects on INeedCoffee by [Todd Zapoli](https://ineedcoffee.com/by/todd-zapoli/)_
 

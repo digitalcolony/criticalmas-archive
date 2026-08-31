@@ -21,6 +21,6 @@ After hours of having us wait and looking at blood work, the emergency vet found
 
 We are sad at the loss of Kato and angered by the actions of both vets. Dr. H's heavy thyroid dosage brought Kato to the brink of death and the ER vet although "book smart" seemed to be lacking common sense or compassion.
 
-![kato-cat](./img/kato-cat.jpg)
+![kato-cat](/2006/02/kato-1999-2006/img/kato-cat.jpg)
 
 We will be looking for a new vet for our other cat RainMan. Dr. H has been fired.

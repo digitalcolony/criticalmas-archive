@@ -71,7 +71,7 @@ Just because I think most supplements are a waste of money, that doesn't mean I 
 
 What supplements do you believe in?
 
-![vitamins](./img/amanda-jones-1224806-unsplash.jpg)
+![vitamins](/2019/06/thinking-about-supplements-2019-edition/img/amanda-jones-1224806-unsplash.jpg)
 
 _[Photo Credit](https://unsplash.com/@amandagraphc)_
 

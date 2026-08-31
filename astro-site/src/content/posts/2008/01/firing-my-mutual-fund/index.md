@@ -19,8 +19,8 @@ They don't make _economic forecasts_ and they don't see the evidence to support 
 
 In the first week of December, I put that money in the Prudent Bear Fund. They believe there will be a downturn in consumer spending and I'm pretty sure they take the time to make economic forecasts. What has happened since?
 
-[![](./img/mutual-fund.jpg "mutual-fund")](./img/mutual-fund.jpg)
+[![](/2008/01/firing-my-mutual-fund/img/mutual-fund.jpg "mutual-fund")](./img/mutual-fund.jpg)
 
 How do I feel right now?
 
-![syriana-boom](./img/syriana-boom.jpg "syriana-boom")
+![syriana-boom](/2008/01/firing-my-mutual-fund/img/syriana-boom.jpg "syriana-boom")

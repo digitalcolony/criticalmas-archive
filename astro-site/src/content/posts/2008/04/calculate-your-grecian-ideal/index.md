@@ -13,7 +13,7 @@ A few days ago I was researching some fitness topics when I found the _Grecian I
 
 > I agree with the author that my bench press is not yet _decent_, however I do think there are 2 other variables that factors greatly into how much one can bench. The first is wrist size and the second is arm length. Ectomorphs have long arms and small wrists. This means I need to lift the weight higher and with less support than a thick-wristed short man.
 
-![somatypes](./img/somatypes.jpg)
+![somatypes](/2008/04/calculate-your-grecian-ideal/img/somatypes.jpg)
 
 _Image from How to Eat Right For Your Body Type by Dr. John Berardi. Typically Ectomorphs are taller and Endomorphs are shorter. Other than that this image is a good representation of somatypes._
 

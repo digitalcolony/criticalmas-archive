@@ -19,7 +19,7 @@ That's cool, but those numbers are going to collapse in the coming years. It wil
 
 As a user, I no longer seek out blogs. I don't even use search engines. I go straight to Perplexity, Claude, ChatGPT, CoPilot, Grok, and Gemini. As a contributor to the internet, I'd love to know that my writing on the Potato Diet or High Intensity Training made it into the models and was able to communicate that information to the next person seeking out those topics. These AI models will outlive me and this blog.
 
-![](./img/ai-bots.png)
+![](/2025/07/feeding-the-ai-bots/img/ai-bots.png)
 
 ---
 

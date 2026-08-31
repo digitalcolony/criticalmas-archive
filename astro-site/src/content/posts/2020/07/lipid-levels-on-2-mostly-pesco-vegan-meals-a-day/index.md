@@ -104,7 +104,7 @@ A typical meal might be a big bowl of steamed buckwheat topped with a can of bla
 
 For dessert, I might have a frozen banana and some almonds.
 
-![blood test](./img/national-cancer-institute-blood-test.jpg)
+![blood test](/2020/07/lipid-levels-on-2-mostly-pesco-vegan-meals-a-day/img/national-cancer-institute-blood-test.jpg)
 
 _Now that I won blood lipids and [Vitamin-D](/2020/05/doubling-my-vitamin-d-levels-in-2-months/), what test should I get next? 🤔_
 

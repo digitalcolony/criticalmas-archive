@@ -11,7 +11,7 @@ commentCount: 3
 
 Seattle's _Lusty Lady_ announced it will [close soon](http://www.npr.org/templates/story/story.php?storyId=126169558). [Your](/2009/10/clothing-sale/) [puns](/2008/05/double-check-that-movie-listing/) will be missed.
 
-![lusty-lady-clash](./img/lusty-lady-clash.jpg)
+![lusty-lady-clash](/2010/04/this-isnt-imax/img/lusty-lady-clash.jpg)
 
 ---
 

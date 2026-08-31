@@ -26,7 +26,7 @@ In the comment above he cites 25° C as the shower temperature, which is 77° F
 
 If you are already taking full showers at cold temperatures, this post probably isn't going to be of value. But for the majority of us that dislike the idea of always taking cold showers, I think this method makes sense and is more sustainable for fat loss.
 
-![cold shower](./img/8737391515_517e978c6d_z.jpg)
+![cold shower](/2014/10/cool-cold-showers-fat-loss/img/8737391515_517e978c6d_z.jpg)
 
 _[Doccia fredda (Cold Shower)](https://flic.kr/p/ej6q6i) by Sergio Pani_
 

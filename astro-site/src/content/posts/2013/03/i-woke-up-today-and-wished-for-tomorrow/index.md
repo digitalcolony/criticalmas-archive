@@ -19,7 +19,7 @@ Another wasted day in front of me. The headache will vanish in a few hours, but 
 
 I'm going to take a week or three off from blogging. Trying to tame my coffee and [sugar](/2013/03/ending-the-ice-cream-experiment/) addictions with brain fog and headaches makes it hard to put together posts. I'm certain I've forgotten a few topics that I said I would blog about. If you have any suggestions or reminders, please leave a comment.
 
-![MAS Fishing](./img/mas-fishing.jpg)
+![MAS Fishing](/2013/03/i-woke-up-today-and-wished-for-tomorrow/img/mas-fishing.jpg)
 
 _Blog break time. Not really going fishing though._ 
 

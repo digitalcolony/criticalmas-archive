@@ -38,7 +38,7 @@ This has to be the dumbest keyboard thing I have seen in many years. In order to
 -   FUNCTION + F11 (lowers the volume)
 -   FUNCTION + F12 (raises the volume)
 
-![dumb ASUS keyboard](./img/dumb-keyboard.jpg)
+![dumb ASUS keyboard](/2017/10/3-things-dislike-2017-asus-zenbook/img/dumb-keyboard.jpg)
 
 
 ### My Next Move
@@ -46,7 +46,7 @@ This has to be the dumbest keyboard thing I have seen in many years. In order to
 
 Perhaps I need to buy a USB Keyboard with actual up and down volume buttons and attach it to my Zenbook? That would solve two of my problems. I could use the keyboard at home and use the ASUS keyboard when out.
 
-![ASUS Zenbook laptop](./img/asus-zenbook-13.jpg)
+![ASUS Zenbook laptop](/2017/10/3-things-dislike-2017-asus-zenbook/img/asus-zenbook-13.jpg)
 
 _ASUS ZenBook UX330UA-AH54 13.3-inch LCD Ultra-Slim Laptop_
 

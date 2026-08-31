@@ -26,7 +26,7 @@ Now I feel best on a high-protein mostly whole food plant-based diet. Given the 
 
 I can explore this topic more in a separate post if there is interest.
 
-![](./img/potato-viking.jpg)
+![](/2025/01/2024-fitness-results/img/potato-viking.jpg)
 
 
 ### New Gym

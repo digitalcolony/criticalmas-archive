@@ -13,7 +13,7 @@ I've noticed a disturbing trend recently. People are becoming _Recommendation Zo
 
 Why are people recommending I watch movies they've never seen? Read books they've never finished? Acquire gadgets they've never owned? Eat at restaurants they've never been to? Have we all become extensions of the commercials we watch?
 
-![zombie](./img/zombie.jpg)
+![zombie](/2008/01/recommendation-zombies/img/zombie.jpg)
 
 They are two reasons to recommend something:
 

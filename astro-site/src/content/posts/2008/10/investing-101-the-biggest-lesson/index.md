@@ -15,11 +15,11 @@ The biggest lesson I've learned in the last few years is what I call the _Baby B
 
 Look at the DJIA (Dow Jones) chart from 1982 - 2000. The lesson that I refer to as the Baby Boomer Lie was that stocks were not only safer investments but that they can be expected to generate a higher rate of return than other investments. Although it was true from 1982-2000, this investing wisdom is not always true.
 
-![1982-2000](./img/1982-2000.jpg)
+![1982-2000](/2008/10/investing-101-the-biggest-lesson/img/1982-2000.jpg)
 
 The gurus of that era wrote books and some got gigs on TV. They became our financial mentors. Unfortunately, they have a jaded view of history. Once stocks have a high valuation, as measured by the P/E ratio, the average expected return falls below fixed income, and the probability of a major price correction increases. In my opinion, today's market resembles the choppy market of 1964-1982. Learning investing from the bull market gurus is going to be painful in this market.
 
-![1964-1982](./img/1964-1982.jpg)
+![1964-1982](/2008/10/investing-101-the-biggest-lesson/img/1964-1982.jpg)
 
 No one post can say everything about investing. It is far too complicated of a topic, but if I were to recommend one single book it would be _Bull's Eye Investing: Targeting Real Returns in a Smoke and Mirrors Market by John F. Mauldin_. Mauldin does an amazing job of explaining investing. The last few chapters are about picking a hedge fund and can be ignored by most readers.
 

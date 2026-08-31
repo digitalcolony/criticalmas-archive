@@ -41,7 +41,7 @@ Recently, I was gifted a large amount of sweet potatoes. They were getting old a
 8.  Use an immersion blender to blend into soup.
 9.  Taste and add any additional spices.
 
-![sweet-potato-soup](./img/sweet-potato-soup.jpg)
+![sweet-potato-soup](/2012/06/sweet-potato-soup-so-simple-so-yummy/img/sweet-potato-soup.jpg)
 
 _Make lots of soup at once and store the rest. Note that you shouldn't freeze jars like the two in the back row, because they have soup above the bend. See Lesson on [Freezing Canning Jars](/2011/12/lesson-on-freezing-canning-jars/)._ 
 

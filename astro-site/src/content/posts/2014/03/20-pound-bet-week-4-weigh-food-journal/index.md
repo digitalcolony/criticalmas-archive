@@ -111,9 +111,9 @@ Slow and steady appears to be how my body wants to drop the weight. The good new
 -   cheddar (2 oz)
 -   apple
 
-![vietnamese-menu](./img/vietnamese-menu.jpg)
+![vietnamese-menu](/2014/03/20-pound-bet-week-4-weigh-food-journal/img/vietnamese-menu.jpg)
 
-![HuTieuThapCam](./img/HuTieuThapCam.jpg)
+![HuTieuThapCam](/2014/03/20-pound-bet-week-4-weigh-food-journal/img/HuTieuThapCam.jpg)
 
 _H3 -  Hu Tieu Thap Cam_
 

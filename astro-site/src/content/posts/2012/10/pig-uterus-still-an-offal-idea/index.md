@@ -19,7 +19,7 @@ Things didn't go well.
 
 I did the fast cook and it tasted awful. It smelled bad too. I can usually power through most dishes, but this one went into the trash. When it comes to cooking pig uterus, I'm going to surrender on this dish. If I see it at a restaurant I would try it just to know if it is possible to make this dish taste good. I'm skeptical.
 
-![pig-uterus](./img/pig-uterus.jpg)
+![pig-uterus](/2012/10/pig-uterus-still-an-offal-idea/img/pig-uterus.jpg)
 
 _Onions, garlic, ginger, mushrooms and oyster sauce couldn't save this dish._
 

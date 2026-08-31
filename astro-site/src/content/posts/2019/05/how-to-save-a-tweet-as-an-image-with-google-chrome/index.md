@@ -19,7 +19,7 @@ Being able to save an image is something I need for Twitter. Although WordPress 
 
 It can be in the feed or the detailed (larger) version. Pick the one that you want.
 
-![Step 1](./img/tweet-to-image-1.jpg)
+![Step 1](/2019/05/how-to-save-a-tweet-as-an-image-with-google-chrome/img/tweet-to-image-1.jpg)
 
 _I want to save my glorious joke where I give respect to my old hometown of San Diego while at the same time poking fun at Portland, OR. For the record, San Diego IMO is the fittest city in America._
 
@@ -29,7 +29,7 @@ _I want to save my glorious joke where I give respect to my old hometown of San 
 
 Hit F12 on Windows or Command + Option + i on Mac.
 
-![Chrome Dev Tools](./img/tweet-to-image-2.jpg)
+![Chrome Dev Tools](/2019/05/how-to-save-a-tweet-as-an-image-with-google-chrome/img/tweet-to-image-2.jpg)
 
 _This window may pop-up on the bottom or the side._ 
 
@@ -39,7 +39,7 @@ _This window may pop-up on the bottom or the side._ 
 
 Once the Developer Tools window is open, press Control + Shift + p (windows) or Command + Shift + p (Mac). This will open the Command Pallet. Start typing screenshot and you will see a few options.
 
-![Screenshot options](./img/tweet-to-image-3.jpg)
+![Screenshot options](/2019/05/how-to-save-a-tweet-as-an-image-with-google-chrome/img/tweet-to-image-3.jpg)
 
 _At this time there are 4 screenshot options in the Command Pallet._ 
 
@@ -49,7 +49,7 @@ _At this time there are 4 screenshot options in the Command Pallet._ 
 
 After this option is selected, go to the tweet and highlight it with your mouse. Once you release the mouse button, the image of the tweet will immediately download.
 
-![select Screenshot area](./img/tweet-to-image-4.jpg)
+![select Screenshot area](/2019/05/how-to-save-a-tweet-as-an-image-with-google-chrome/img/tweet-to-image-4.jpg)
 
 _Highlight the tweet and then release the mouse button._
 
@@ -59,7 +59,7 @@ _Highlight the tweet and then release the mouse button._
 
 Go to the folder where downloads are saved and you'll find a PNG file of the area you selected.
 
-![Selected tweet](./img/twitter.com_CriticalMAS.png)
+![Selected tweet](/2019/05/how-to-save-a-tweet-as-an-image-with-google-chrome/img/twitter.com_CriticalMAS.png)
 
 _The tweet is now saved on my computer as a PNG file._ 
 

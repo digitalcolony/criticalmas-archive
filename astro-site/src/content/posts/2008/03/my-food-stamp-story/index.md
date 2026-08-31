@@ -19,7 +19,7 @@ One night a guy came in and placed a 6-pack of beer on the register and then han
 
 I informed the customer I didn't have change for his food stamp and that should he buy food, I would be forced to give him his change in dollars. At that point, he could buy whatever he wanted with that change. A smile lit up his face. He turned around to look for an idea of what food item to buy. I suggested a single banana.
 
-![banana](./img/2989338263_cdd4355a14_z.jpg)
+![banana](/2008/03/my-food-stamp-story/img/2989338263_cdd4355a14_z.jpg)
 
 _[Photo](https://flic.kr/p/5ya97T) by Darwin Bell_
 

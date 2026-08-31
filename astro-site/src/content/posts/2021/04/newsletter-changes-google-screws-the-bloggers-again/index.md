@@ -23,7 +23,7 @@ You can't rely on Google. Just look at the [Killed By Google](https://killedbygo
 
 Blogging is fun, right? ‍♂️
 
-![newsletter](./img/15743483265_1aca718cd2_z.jpg)
+![newsletter](/2021/04/newsletter-changes-google-screws-the-bloggers-again/img/15743483265_1aca718cd2_z.jpg)
 
 ---
 

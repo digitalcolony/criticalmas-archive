@@ -13,7 +13,7 @@ After the 2004 election I became _post-political_. I'll discuss it in depth in a
 
 A few weekends ago I had multiple discussions regarding nutrition with different people here in Seattle. I'm not going to repeat the debates, but needless to say they left me drained. Just like political debates of 2004. One guy actually dismissed my questions by saying he was a _real scientist_ and what he _knew_ was right and there was no debate. Despite what ends up being the true cause of obesity, I knew he was wrong to say both that he knew and that there was no debate. Anyone that has read [Good Calories, Bad Calories](/2009/12/good-calories-bad-calories-is-the-best-book-ever-written-on-nutrition/) knows that this debate is over 100 years old and there is still not a consensus.
 
-![Stop it!](./img/133203964_ba9f86e180_z.jpg)
+![Stop it!](/2010/12/nutrition-is-the-new-politics/img/133203964_ba9f86e180_z.jpg)
 
 It could have been an interesting discussion, but I could see it would have been a waste of energy. I listened to everything he had to say and even learned a few things. He was mostly dismissive of my contribution. Then we parted ways. Could he have learned something from me? Maybe. Maybe not. Perhaps he does have all the answers. I'm not a scientist.
 

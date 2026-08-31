@@ -47,7 +47,7 @@ The majority of people are overweight or obese now. The big lever is not Zone 2 
 
 If you are already lean and eating a nutritious diet, then Attia might be correct. But then again, you probably are already exercising. Maybe you need to add some additional Zone 2 training, but you are likely already on the right path. Will you see benefits? Against the unhealthy average, absolutely. Compared to the workout plan you were already doing? Maybe a little. I'm skeptical.
 
-![](./img/trail-runner500.jpg)
+![](/2024/01/is-peter-attia-overhyping-vo2-max/img/trail-runner500.jpg)
 
 _Made with Bing_
 

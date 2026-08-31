@@ -25,7 +25,7 @@ Not so fast. I went further back to see how traditional cultures faired in the s
 
 The Burmese people have been using a natural sunblock called [Thanaka](https://en.wikipedia.org/wiki/Thanaka) made from ground bark for over 2,000 years.
 
-![](./img/Karen_Girl_Wearing_Thanaka650.jpg)
+![](/2017/10/paleo-wrong-sunscreen-part-2/img/Karen_Girl_Wearing_Thanaka650.jpg)
 
 _By [Brian Adler](//commons.wikimedia.org/wiki/User:BrianAdler "User:BrianAdler")_ 
 

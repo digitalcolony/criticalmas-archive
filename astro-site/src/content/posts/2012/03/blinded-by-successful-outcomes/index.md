@@ -25,7 +25,7 @@ As a fitness enthusiast and former member of military, what didn't I like about 
 
 I agree with Mark that exercise can change your life. We just disagree on the expectations. We all can't be Rambo and that's OK.
 
-![gym](./img/5513197198_434030c85d_z.jpg)
+![gym](/2012/03/blinded-by-successful-outcomes/img/5513197198_434030c85d_z.jpg)
 
 _[Photo](https://flic.kr/p/9pbzs7) by W\_Minshull_
 

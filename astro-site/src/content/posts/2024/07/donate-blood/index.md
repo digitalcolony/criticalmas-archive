@@ -14,7 +14,7 @@ Fast forward to 2024 and I've donated almost 6 gallons of blood in Washington. I
 
 Then last week, I received this text.
 
-![](./img/donate-blood.jpg)
+![](/2024/07/donate-blood/img/donate-blood.jpg)
 
 Powerful.
 

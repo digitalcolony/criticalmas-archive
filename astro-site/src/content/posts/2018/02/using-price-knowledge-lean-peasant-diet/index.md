@@ -34,7 +34,7 @@ Peasant foods are filling and dirt cheap.
 
 I bought a can of black beans this week for 70 cents. A 15-pound bag of potatoes at the restaurant supply store is less than $4. A pound of 97% lean ground turkey is $2. A dozen eggs are less than $2. I can probably rattle off 100 other prices that I know.
 
-![](./img/ghetto-eggs.jpg)
+![](/2018/02/using-price-knowledge-lean-peasant-diet/img/ghetto-eggs.jpg)
 
 _Ghetto Eggs by me_
 

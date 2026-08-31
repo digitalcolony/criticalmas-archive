@@ -21,7 +21,7 @@ The only thing this study showed is that in the short term, a single healthy mal
 
 When we discuss fat loss, we should be striving for long-term and sustainability. I suspect that one of the reasons people overeat is because they are undernourished. Putting out press releases saying you can lose fat eating Twinkies isn't helping those who struggle with dieting and may have real health issues in addition to being overweight.
 
-![](./img/twinkes.jpg)
+![](/2013/05/the-twinkie-diet-proved-nothing/img/twinkes.jpg)
 
 _Close enough AI._ 😂
 

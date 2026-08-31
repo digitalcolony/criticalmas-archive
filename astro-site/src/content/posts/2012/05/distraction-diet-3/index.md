@@ -28,7 +28,7 @@ For Twitter, all my accounts automatically post links to new blog entries and 
 
 Facebook is the best social network, but you need a browser extension to make it that way. Once I installed and configured the [FB Purity extension](http://www.fbpurity.com/), the noise level on Facebook dropped considerably. I can block specific post types, change the font, hide ads and best of all block posts with certain keywords. I never see birthday posts or anything related to voting or local sports teams.
 
-[![](./img/fb-purity-ss.jpg "FB Purity")](./img/fb-purity-ss-large.png)
+[![](/2012/05/distraction-diet-3/img/fb-purity-ss.jpg "FB Purity")](./img/fb-purity-ss-large.png)
 
 _Click image for larger view of FB Purity settings._
 

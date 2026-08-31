@@ -20,4 +20,4 @@ The Kindle Fire also has a browser, so now I have been taking it with me into th
 
 I also installed Netflix on the Kindle Fire. Before I was using the smaller Pod Touch for my portable video player. The larger screen of the Kindle Fire is better.
 
-![kindle-fire-6](./img/kindle-fire-6.jpg)
+![kindle-fire-6](/2014/12/digging-kindle-fire-6/img/kindle-fire-6.jpg)

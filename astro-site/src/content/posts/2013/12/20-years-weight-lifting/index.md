@@ -61,7 +61,7 @@ I moved to the Washington DC metro area during the dot-com days. Traffic was hel
 
 My first year in San Diego had me slowly getting back into lifting. Maybe a few times a month, sometimes more. My workouts lacked focus. Then in May 2001, I bought a home and converted the single car garage into a gym. I decked my home gym out with a squat rack, 2 sets of PowerBlocks, a dip stand, thick barbells, and a bunch of other accessories. I had a huge whiteboard where I could write down my workout numbers.
 
-![gym-whiteboard](./img/gym-whiteboard.jpg)
+![gym-whiteboard](/2013/12/20-years-weight-lifting/img/gym-whiteboard.jpg)
 
 _My home gym whiteboard_
 
@@ -75,7 +75,7 @@ _Power to the People! : Russian Strength Training Secrets for Every American by 
 
 At a certain point, I realized that I wasn't gaining any more muscle. I seemed to top at 210. I joined the Army weighing a scrawny 156, so I should have been pleased, but I wasn't. My [fitness idols](/2007/03/fitness-role-models/) boxer Evander Holyfield and surfer Laird Hamilton were more muscular than me. Years later I would post on how those idols were [unrealistic](/2012/03/fitness-role-models-revisited/) for my frame. Excessive lifting resulted in wrist surgery, which sidelined me for several months. And months before I'd move to Seattle, I [completely threw out my back](/2007/04/no-more-morning-dead-lifts/) doing a warm-up deadlift.
 
-![Wrist Surgery](./img/mas-wrist.jpg)
+![Wrist Surgery](/2013/12/20-years-weight-lifting/img/mas-wrist.jpg)
 
 _A high volume approach to Power to the People resulted in wrist surgery._
 

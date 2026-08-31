@@ -19,7 +19,7 @@ If you look across the gym, you will see most of the people doing two-second rep
 
 As the weight increases, the positive rep speed decreases, but it is still the optimal efficient speed because doing anything less than optimal would reduce the weight or reps. In the case of heavy free weights, jeopardizing safety.
 
-![chest press](./img/3803592124_061006a667_z.jpg)
+![chest press](/2015/06/muscle-on-weight-or-weight-on-muscle/img/3803592124_061006a667_z.jpg)
 
 _[Incline Press](https://flic.kr/p/6N7pqy) by ARC Equipment_
 

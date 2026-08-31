@@ -39,7 +39,7 @@ Besides eating too many calories, the calories we consume in sugar can also disp
 
 That is where the story ended in my mind until 5 days ago. Then _FreeTheAnimal_ posted [The Hormesis Files: Who’s Afraid of Unrefined Sugar?](https://web.archive.org/web/20160628135313/http://freetheanimal.com/2015/01/hormesis-afraid-unrefined.html) This is an awesome post that explores nutrient-rich sources of sugar such as sugarcane and honey.
 
-![honey](./img/9603147917_9bff534c5e_z.jpg)
+![honey](/2015/01/defense-sugar/img/9603147917_9bff534c5e_z.jpg)
 
 _[Photo](https://flic.kr/p/fCADiP) by mbeo_
 

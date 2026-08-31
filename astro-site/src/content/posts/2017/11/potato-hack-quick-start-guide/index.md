@@ -51,7 +51,7 @@ The three most common options for potatoes are going to be red, yellow, and russ
 
 Russet potatoes get mushy quickly. The only time I get Russet is if I get a really good price and I know I'm doing a strict potato hack, so I'm not using those potatoes two days later.
 
-![](./img/4499242134_167ddd0655_z.jpg)
+![](/2017/11/potato-hack-quick-start-guide/img/4499242134_167ddd0655_z.jpg)
 
 [_Potatoes_](https://flic.kr/p/7RzMWf)
 

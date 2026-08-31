@@ -17,7 +17,7 @@ My inner [Stoic](/2010/11/a-guide-to-the-good-life/) imagined the worst and then
 
 Today using _My LastPass Vault_ I created emergency recovery documents so in minutes I could be contacting and shutting down access to my financial accounts. I can get to it from my phone or any internet connection. I also added frequent customer cards numbers. I paid for the LastPass Mobile version which is just $1 a month. The desktop version is free.
 
-![safe-vault](./img/safe-vault.jpg)
+![safe-vault](/2015/02/even-security/img/safe-vault.jpg)
 
 _[Photo](https://flic.kr/p/ruAw2) by Rob Pongsajapan_
 

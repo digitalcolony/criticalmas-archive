@@ -17,15 +17,15 @@ This is a follow-up post to [When the Check Engine Light Comes On](/2013/06/when
 
 I purchased the Soliport ELM 327 Bluetooth OBDII OBD2 Diagnostic Scanner on Amazon for $5 (now $11) plus shipping and I downloaded the free version of [Torque for the Android](https://play.google.com/store/apps/details?id=org.prowl.torque). Once you have your phone connected, you can then get the $5 paid version which has more features.
 
-![ELM327-OBD2](./img/ELM327-OBD2.jpg)
+![ELM327-OBD2](/2013/06/when-the-check-engine-light-comes-on-part-2/img/ELM327-OBD2.jpg)
 
 Look under your steering wheel and you will see where the scanner plugs into. It looks like a printer port. Here is a photo of mine. VW was nice enough to use fuchsia so it stood out.
 
-![obd2-slot](./img/obd2-slot.jpg)
+![obd2-slot](/2013/06/when-the-check-engine-light-comes-on-part-2/img/obd2-slot.jpg)
 
 _Plug in the scanner there._ 
 
-![installed](./img/installed.jpg)
+![installed](/2013/06/when-the-check-engine-light-comes-on-part-2/img/installed.jpg)
 
 _The OBD2 scanner is now plugged in._
 

@@ -17,11 +17,11 @@ Anyway, this Vietnamese "adult version" of fermented carrots tasted great. A per
 
 This ferment is not only an excellent side dish but works as a salad dressing substitute. For the recipe, just review [Fermented Carrots and Ginger](/2012/02/fermented-carrots-and-ginger-recipe/) and then add the Thai peppers and lemongrass (video: [How to cut](http://www.youtube.com/watch?v=exe3Aa1d7Ro) lemongrass). As much or as little as you like.
 
-![carrots-ginger-lemongrass](./img/carrots-ginger-lemongrass.jpg)
+![carrots-ginger-lemongrass](/2012/08/vietnamese-fermented-carrots/img/carrots-ginger-lemongrass.jpg)
 
 _Carrots + ginger + lemongrass + Thai peppers + sea salt_
 
-![carrots-ferment](./img/carrots-ferment.jpg)
+![carrots-ferment](/2012/08/vietnamese-fermented-carrots/img/carrots-ferment.jpg)
 
 _Fermenting begins. As the ferment continues the water will become more cloudy._
 

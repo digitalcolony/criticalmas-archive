@@ -45,9 +45,9 @@ If you are unfamiliar with Korean cooking, you have probably never seen Korean r
 
 I cook the rice cakes for 3-5 minutes. Check the package though, as there are different cakes that will have different cooking times.
 
-![korean rice cake package](./img/korean-rice-cake-package.jpg)
+![korean rice cake package](/2014/11/fast-easy-guide-making-korean-soup/img/korean-rice-cake-package.jpg)
 
-![korean rice cake](./img/korean-rice-cake.jpg)
+![korean rice cake](/2014/11/fast-easy-guide-making-korean-soup/img/korean-rice-cake.jpg)
 
 _Rice cakes are sold fresh, packaged and frozen. Whatever cakes you don't use right away can be stored in the refrigerator for a few days. A better idea is to just freeze them. This is will prevent mold._ 
 
@@ -74,7 +74,7 @@ I love adding sliced green onions (scallions) when serving. For additional salti
 -   fish sauce
 -   Sriracha or additional gochujang
 
-![korean soup](./img/korean-soup.jpg)
+![korean soup](/2014/11/fast-easy-guide-making-korean-soup/img/korean-soup.jpg)
 
 _Korean soup with Shrimp and kimchi_
 

@@ -19,7 +19,7 @@ Today I learned a wonderful word. From [10 Spanish Words That Have No English T
 
 I used to be _friolento_. I decided eight years ago I was tired of being cold all the time whenever the temperature dipped below 65 F (18 C). Inspired by [Art De Vany](/2008/12/no-jacket-required/), I proceeded to widen my temperature comfort range.
 
-![seattle-fall-space-needle](./img/seattle-fall-space-needle.jpg)
+![seattle-fall-space-needle](/2015/10/no-soy-friolento/img/seattle-fall-space-needle.jpg)
 
 _[Photo](https://flic.kr/p/aEWGX7) by jpellgen_
 
@@ -35,7 +35,7 @@ I understand why old people are cold all the time. Besides muscle loss they have
 
 The problem I see now is more than just old people that have become [temperature wimps](/2014/09/temperature-wimps-san-francisco/). It appears to be almost everyone. We live soft lives inside offices and cars. Even our gyms are temperature controlled. _Close that window there might be a slight breeze!_
 
-![65F-sunny-so-cold](./img/65F-sunny-so-cold.jpg)
+![65F-sunny-so-cold](/2015/10/no-soy-friolento/img/65F-sunny-so-cold.jpg)
 
 In the post [You Broke Your Own Metabolism](/2011/06/you-broke-your-own-metabolism/), I go further. People aren't just wearing jackets because they are cold. They are cold, because they are always wearing jackets.
 

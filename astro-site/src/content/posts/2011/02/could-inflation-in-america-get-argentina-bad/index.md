@@ -15,7 +15,7 @@ With Ben Bernanke printing money via QE2, we are seeing food and oil prices risi
 
 I think Bernanke is an arrogant fool, but that is irrelevant. **Will America see high inflation like the 1970s or Argentina?** To answer this question I looked for similarities between modern Argentina and 1970s America. One thing stood out. In both cases, there was a **feedback loop between wages and rising prices** via union representation.
 
-![argentina](./img/argentina.jpg)
+![argentina](/2011/02/could-inflation-in-america-get-argentina-bad/img/argentina.jpg)
 
 _Photo taken during my 2006 trip to Buenos Aires, Argentina._
 

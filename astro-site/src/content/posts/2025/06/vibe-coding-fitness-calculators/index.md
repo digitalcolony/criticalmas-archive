@@ -22,7 +22,7 @@ Instead of buying another domain, I set up a subdomain on potatohack.com and nam
 
 #### [cruxcalc.netlify.app](https://cruxcalc.netlify.app/)
 
-![](./img/og-image-1024x538.png)
+![](/2025/06/vibe-coding-fitness-calculators/img/og-image-1024x538.png)
 
 _Potato Hack Fitness Calculators is hosted as a static site built with Astro and hosted for free on Netlify._
 

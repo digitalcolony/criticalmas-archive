@@ -11,9 +11,9 @@ commentCount: 3
 
 Romanesco broccoli is perhaps the coolest looking vegetable.
 
-![romanesco-broccoli-2](./img/romanesco-broccoli-2.jpg)
+![romanesco-broccoli-2](/2009/11/romanesco-broccoli/img/romanesco-broccoli-2.jpg)
 
-![romanesco-broccoli](./img/romanesco-broccoli.jpg)
+![romanesco-broccoli](/2009/11/romanesco-broccoli/img/romanesco-broccoli.jpg)
 
 ---
 

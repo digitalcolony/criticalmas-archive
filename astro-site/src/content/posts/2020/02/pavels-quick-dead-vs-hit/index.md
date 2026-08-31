@@ -18,7 +18,7 @@ If you are a firefighter, cop, soldier, or in-season athlete, you probably shoul
 
 But you still need to develop the strength, so Pavel in the Q&D and some of his other work builds programs that increase strength but not at the expense of being wiped out for your task the next day.
 
-![](./img/hit-vs-pavel.png)
+![](/2020/02/pavels-quick-dead-vs-hit/img/hit-vs-pavel.png)
 
 _This was my MS Paint explanation. HIT has fewer workouts, so you can go deeper below your baseline. It is the workout efficient route, but you pay for it with longer recoveries._ 
 

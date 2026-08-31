@@ -15,7 +15,7 @@ Sitting on top of the blogging engine there are **plugins, widgets and themes**
 
 Recently this site was down for several hours because a new plugin corrupted an older unrelated plugin. I worked with the developer and a technical genius friend of mine to get the problem fixed. I was lucky.
 
-![idea-bulb](./img/idea-bulb.jpg)
+![idea-bulb](/2010/10/problem-wordpress-solve/img/idea-bulb.jpg)
 
 _[Photo](https://www.flickr.com/photos/qisur/4351196974/) by Ramunas Geciauskas_
 

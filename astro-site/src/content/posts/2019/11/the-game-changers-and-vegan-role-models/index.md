@@ -22,7 +22,7 @@ Prior to this year, my biased beliefs against a vegan diet came from the fact th
 
 I loved the movie The Game Changers because it demonstrated clearly that one could achieve a high level of athletic performance on a vegan diet. I knew one could be a 100-pound marathoner on a vegan diet, but seeing boxers, powerlifters, and bodybuilders succeed was powerful.
 
-![Game Changers film](./img/Game-Changers-film.jpg)
+![Game Changers film](/2019/11/the-game-changers-and-vegan-role-models/img/Game-Changers-film.jpg)
 
 
 ### Debunking the Debunking of the Debunking

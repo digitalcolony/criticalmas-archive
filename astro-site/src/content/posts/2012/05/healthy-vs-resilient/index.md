@@ -33,7 +33,7 @@ Maybe this post won't make sense to those that don't follow a strict diet, but I
 
 **Obsessing about what is unhealthy is unhealthy.** It makes you less resilient. It is important to discover what your dietary enemies are, but unless you have a life threatening allergy, running from them 100% of the time may not be the most healthy response. During [my trip to Ohio](/2011/12/paleo-in-ohio-adventures-in-inflammation/), some gluten exposure gave me a severe headache and stomach pains. What if I had exposed myself to trace amounts of gluten on the days leading up to my trip? Would I have felt better and enjoyed my trip more? Sure it isn't healthy, but my resiliency would likely have been greater.
 
-![Healthy vs Resilient Axis](./img/healthy-vs-resilient-axis.png "Healthy vs Resilient Axis")
+![Healthy vs Resilient Axis](/2012/05/healthy-vs-resilient/img/healthy-vs-resilient-axis.png "Healthy vs Resilient Axis")
 
 _Another one of my amazing graphics. ;)_
 

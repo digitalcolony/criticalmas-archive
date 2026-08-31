@@ -46,7 +46,7 @@ In June 2022, I had the best sports massage of my life. During that massage, I w
 
 I began adding some ab exercises into my morning yoga routine. I believe I was making progress. Then the [hernia hit last summer](/2023/08/i-got-a-hernia/). In that post, I list the reasons that I think led up to my hernia. I did not include weak abs. In hindsight, I would add that to the list. If my abs were twice as strong, would that twisting upward dog yoga pose have been safer?
 
-![](./img/karolis-milisauskas-eoVdk1z4ihI-unsplash.jpg)
+![](/2024/02/on-ab-training/img/karolis-milisauskas-eoVdk1z4ihI-unsplash.jpg)
 
 _Photo by_ [_Karolis Milišauskas_](https://unsplash.com/@karolismili?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 

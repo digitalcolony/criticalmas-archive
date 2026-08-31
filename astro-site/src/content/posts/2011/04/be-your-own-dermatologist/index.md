@@ -13,7 +13,7 @@ From about the time I was in college until two years ago I would occasionally ge
 
 The dermatologist hammered me with antibiotics and creams. And they worked. My skin improved by 90%. I was satisfied, but she wasn't, so she upped my antibiotics dosage even more. I went back to see her every few months. Occasionally I would get a minor flare-up, but the trend was improving.
 
-![](./img/mas_2001.jpg "MAS 2001")
+![](/2011/04/be-your-own-dermatologist/img/mas_2001.jpg "MAS 2001")
 
 _Me and my rosacea from July 2000._
 
@@ -29,7 +29,7 @@ When I cut bread and alcohol out of my diet, I didn't need any medication. Not e
 
 I'm not a doctor, but I know enough now to recognize that the body is trying to tell us something when our skin gets inflamed. Be it rosacea, acne, a rash, or a sunburn. The body is signaling that something is wrong. Discovering if there is an external or internal toxin should be the first avenue of investigation. I am fortunate that I stumbled onto the solution and was able to stop masking the symptoms with pills and creams.
 
-![](./img/mas-angkor-wat.jpeg "mas-angkor-wat")
+![](/2011/04/be-your-own-dermatologist/img/mas-angkor-wat.jpeg "mas-angkor-wat")
 
 _Me without rosacea (or medications) in November 2009. Bread was 99% eliminated from my diet by then._
 

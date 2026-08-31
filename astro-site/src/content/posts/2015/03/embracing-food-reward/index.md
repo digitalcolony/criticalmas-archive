@@ -45,7 +45,7 @@ I might also experiment with the idea of flavorless calories from the book [The
 
 The one thing I am not clear about is if the hour before and hour after blocks are just calorie free or all flavor free. I gave my book away, so I can't look this up. I ask this question because I have my last coffee between 2 PM and 3 PM. The coffee has no calories, but a strong flavor signal. Does anyone know if it is the absense of calories or the absence of flavor signals that makes this technique work?
 
-![potatoes](./img/4499242134_167ddd0655_z.jpg)
+![potatoes](/2015/03/embracing-food-reward/img/4499242134_167ddd0655_z.jpg)
 
 _[Photo](https://flic.kr/p/7RzMWf) by Brian Hoffman_
 

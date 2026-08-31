@@ -13,7 +13,7 @@ Guess what common "American as apple pie" name is now on the governments watch l
 
 Being on the "watch list" means I can never do web check in. I am no longer permitted to do curb side check in. Even if I don't have a single bag, I have to stand in line at the ticketing counter every time I fly. Once I get to the counter, I must spend another 5-10 minutes standing there smiling while the agent gives me the sniff test. _Lordy Lordy, please don't detain me!_
 
-![mas-bike](./img/mas-bike.jpg)
+![mas-bike](/2008/12/osama-mas-laden/img/mas-bike.jpg)
 
 _Look at me. I'm harmless._
 

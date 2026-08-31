@@ -24,7 +24,7 @@ When I coined the term "Glitter Gym" it was meant to be a slight insult. A poke 
 
 It is time to drop the "Glitter" and call gyms "Gyms". The term no longer makes sense in 2024—sort of like how smartphones just became phones.
 
-![](./img/glitter-gym.jpg)
+![](/2024/03/whats-a-glitter-gym/img/glitter-gym.jpg)
 
 ---
 

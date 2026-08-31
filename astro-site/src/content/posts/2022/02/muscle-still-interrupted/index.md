@@ -35,7 +35,7 @@ When I return to the gym, I plan to start with a basic lifting plan. Get some of
 
 I am also interested in what [KneesOverToesGuy](https://www.youtube.com/c/TheKneesovertoesguy) is doing. I've already started walking backward uphill daily along with doing slant board squats at home.
 
-![](./img/run-uphill.jpg)
+![](/2022/02/muscle-still-interrupted/img/run-uphill.jpg)
 
 _The [hill that I was running up in 2012](/2012/01/running-up-that-hill-sprinting-salvation-for-tall-people/) is now the hill I walk backward up. It's only been a week and I feel my ankles getting stronger._
 

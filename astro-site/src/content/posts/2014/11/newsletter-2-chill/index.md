@@ -20,7 +20,7 @@ For those that aren't signed up, here is a direct link to Newsletter #2.
 
 If you have any comments regarding the newsletter, leave them below. Right now the plan is to put out a new newsletter every other month.
 
-![No MAS!](./img/299879376_FJu7i-S.jpg)
+![No MAS!](/2014/11/newsletter-2-chill/img/299879376_FJu7i-S.jpg)
 
 ---
 

@@ -11,13 +11,13 @@ commentCount: 4
 
 Recently I made my first-ever cucumber kimchi. I'm still dialing in the recipe, so I have nothing to post at this time. This is a shorter fermentation than [regular kimchi](/2011/03/kimchi-101/), because there is no cabbage. I pulled mine after two days. It is sliced cucumbers, chopped garlic, Korean red pepper flakes, and sea salt all topped with water. Optional ingredients include chopped ginger, fish sauce, and sugar.
 
-![cucumber-kimchi](./img/cucumber-kimchi.jpg)
+![cucumber-kimchi](/2012/05/cucumber-kimchi-and-the-sardine-solution/img/cucumber-kimchi.jpg)
 
 _Making cucumber kimchi_
 
 Mine had a nice sweet taste and I knew it would make an excellent salad dressing. Much better for you than the vegetable oil based salad dressings you find at the store. Anyway, I found an alternate use. I mix the cucumber kimchi with canned sardines. Note that you only want to buy the sardines packed in water. 99% of the other ones are packed in soybean oil.
 
-![cucumber-kimchi-sardine](./img/cucumber-kimchi-sardine.jpg)
+![cucumber-kimchi-sardine](/2012/05/cucumber-kimchi-and-the-sardine-solution/img/cucumber-kimchi-sardine.jpg)
 
 _Sardines and cucumber kimchi_
 

@@ -22,7 +22,7 @@ What happened next?
 
 I gradually lost another 20 pounds over the next 18 months following variations of the Potato Hack. As I got leaner, I increased my protein intake to defend against muscle loss. Potatoes and Protein!
 
-![potatoes-protein](./img/potatoes-protein.jpg)
+![potatoes-protein](/2023/01/mostly-weight-stable-regardless-of-diet-part-2/img/potatoes-protein.jpg)
 
 [Potatoes and Protein – A No Hunger Template For Fat Loss](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/)
 

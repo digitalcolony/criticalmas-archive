@@ -21,7 +21,7 @@ I did a quick search of Dr. Katz on Amazon. He has written numerous diet books o
 
 Dr. Katz insults those eating diets rich in saturated fats as "guinea pigs". I disagree. I think the guinea pigs were the fools following the advice of medical professionals like Dr. Katz who were consuming industrial seed oils, low-fat dairy, and "heart-healthy" grains. Below is a recipe from Dr. Katz's 2007 book.
 
-![katz-recipe](./img/katz-recipe.jpg)
+![katz-recipe](/2013/10/call-saturated-fat-guinea-pig/img/katz-recipe.jpg)
 
 And this pompous fool thinks he will outlive people like me? You can have your shitty canola oil fiber muffins, I'll be eating ice cream. Yummy saturated fat!
 

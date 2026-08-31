@@ -13,4 +13,4 @@ I've already told [the story](/2008/01/the-first-time-i-met-bill-clinton/) how I
 
 Clinton and Gore spoke for a while and then _ran_ down and greeted all the people with the _Special Guest_ passes. Rapid fire handshaking down the line. Below is a scan of the pass that provided me access.
 
-![clinton-gore-1992](./img/clinton-gore-1992.jpg)
+![clinton-gore-1992](/2008/01/the-first-time-i-met-bill-clinton/img/clinton-gore-1992.jpg)

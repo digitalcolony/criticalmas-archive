@@ -22,7 +22,7 @@ I was recently asked what podcasts I am listening to and I directed them to my [
 9.  Adam Carolla Show  (comedy)
 10.  House of Reggae (music)
 
-![podcast](./img/old-time-radio.jpg)
+![podcast](/2013/10/podcasts-listen-2013/img/old-time-radio.jpg)
 
 [EconTalk](http://www.econtalk.org/) is by far the best podcast. Russ Roberts can take topics that seem dull on the surface and make them fascinating. Well at least to me. Economics provides a model of understanding the world that I believe applies to other disciplines, especially fitness and nutrition.
 

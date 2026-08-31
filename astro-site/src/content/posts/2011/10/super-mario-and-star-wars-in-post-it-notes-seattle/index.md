@@ -13,15 +13,15 @@ On Pike Street between 4th and 5th Avenue, if you look up to the 6th floor of th
 
 Here are some photos I took.
 
-![seattle-post-it-notes-1](./img/seattle-post-it-notes-1.jpg)
+![seattle-post-it-notes-1](/2011/10/super-mario-and-star-wars-in-post-it-notes-seattle/img/seattle-post-it-notes-1.jpg)
 
-![seattle-post-it-notes-2](./img/seattle-post-it-notes-2.jpg)
+![seattle-post-it-notes-2](/2011/10/super-mario-and-star-wars-in-post-it-notes-seattle/img/seattle-post-it-notes-2.jpg)
 
 Another building nearby paid tribute to Star Wars with Post-It Notes.
 
-![seattle-post-it-notes-4](./img/seattle-post-it-notes-4.jpg)
+![seattle-post-it-notes-4](/2011/10/super-mario-and-star-wars-in-post-it-notes-seattle/img/seattle-post-it-notes-4.jpg)
 
-![seattle-post-it-notes-3](./img/seattle-post-it-notes-3.jpg)
+![seattle-post-it-notes-3](/2011/10/super-mario-and-star-wars-in-post-it-notes-seattle/img/seattle-post-it-notes-3.jpg)
 
 [Full Gallery with Original Photos](https://www.flickr.com/photos/129592470@N02/sets/72157649727517268/) - Feel free to use any picture you like for any reason.
 

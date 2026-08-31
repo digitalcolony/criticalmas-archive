@@ -11,7 +11,7 @@ commentCount: 5
 
 A few weeks ago, I was searching for a podcast on Overcast and I stumbled across a title that I wasn't looking for but it grabbed my attention instantly. It was called the [Internet History Podcast](http://www.internethistorypodcast.com/).  After listening to a few of the initial episodes, I knew I had to get the book that was written by the host.
 
-![how-the-internet-happened](./img/how-the-internet-happened.jpg)
+![how-the-internet-happened](/2019/01/how-the-internet-happened-book-review/img/how-the-internet-happened.jpg)
 
 _How the Internet Happened: From Netscape to the iPhone by Brian McCullough_
 
@@ -29,7 +29,7 @@ The book covers the early browser wars, the dot-com boom, the crash, blogging, t
 
 In many ways, this book made me nostalgic for the early days. Yes, the browsers and network speeds sucked. So did development tools, but we didn't know better. The story of the internet was still in the early innings. Back then those of us with even a minor amount of technical skills were pioneers. I started using the handle **_digitalcolony_** on the web back in 1998 because it felt like we were colonizing a barren digital landscape.
 
-![](./img/digital-colony.gif)
+![](/2019/01/how-the-internet-happened-book-review/img/digital-colony.gif)
 
 _The logo from my site from 1999._
 

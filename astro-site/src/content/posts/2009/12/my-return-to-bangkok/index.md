@@ -17,10 +17,10 @@ When I returned to Bangkok, I thought I was over the city. I liked it more than 
 
 The Ramkhamhaeng Road area is wonderful. All the great food and walking of downtown Bangkok with very little pollution and not a single tuk tuk driver (annoying open air cabbies). No one tried to sell me a suit or fake watch or crappy T-shirt. I was just a face in the crowd. I love this area.
 
-![bangkok-food](./img/bangkok-food.jpg)
+![bangkok-food](/2009/12/my-return-to-bangkok/img/bangkok-food.jpg)
 
 Who needs temples and nightclubs? I just need great food, clean air and good people. I met a coffee shop owner and we talked using limited English about coffee culture.
 
-![bangkok-street](./img/bangkok-street.jpg)
+![bangkok-street](/2009/12/my-return-to-bangkok/img/bangkok-street.jpg)
 
 One place I went the lady was excited to meet me. There are no tourists in this part of Bangkok. She was excited to learn that I had visited the Phi Phi Islands, where she grew up. Another open cart restaurant gave me a second plate of food for free. The shop owner refused my money, smiled and waved. And not a word of English was spoken.

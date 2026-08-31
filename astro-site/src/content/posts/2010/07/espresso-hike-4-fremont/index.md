@@ -15,19 +15,19 @@ The area of Seattle with the coolest roadside attractions has to be Fremont. How
 2.  Caffe Vita
 3.  Caffe Ladro
 
-![](./img/fremont-coffee-co.jpg)
+![](/2010/07/espresso-hike-4-fremont/img/fremont-coffee-co.jpg)
 
 The night before I went to Caffe Ladro and got a pretty bad espresso, which I discussed with my fellow hikers. We came to a group decision to not visit Ladro. Although I have had decent espresso from their Queen Anne location, all their other locations over extract their shots. I can make their espresso blend better on my $600 home espresso machine.
 
-![](./img/fremont-lenin.jpg)
+![](/2010/07/espresso-hike-4-fremont/img/fremont-lenin.jpg)
 
 Caffe Vita was the clear winner on this espresso hike. Although Fremont Coffee Company is better since dumping Lighthouse and choosing to roast their own coffee, they still aren't top tier. In fairness to them, I wouldn't expect any new roaster to be top tier in Seattle in less than one year.
 
 The photos below are from the hike.
 
-![](./img/fremont-bustop.jpg)
+![](/2010/07/espresso-hike-4-fremont/img/fremont-bustop.jpg)
 
-![](./img/fremont-troll.jpg)
+![](/2010/07/espresso-hike-4-fremont/img/fremont-troll.jpg)
 
 _Sources:_
 

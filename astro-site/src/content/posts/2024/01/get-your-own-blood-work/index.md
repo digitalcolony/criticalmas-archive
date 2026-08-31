@@ -12,7 +12,7 @@ Readers of this site may already know that one can order numerous blood tests wi
 
 I use UltaLabs. There are many others. I go to the website and select all the tests I need. Many are discounted and there are always sales. Then I search online for a coupon. Once my order is completed, I am directed to a nearby blood draw facility. Mine happens to be in a medical office in the back of a Safeway that I can walk to. All I need to do is show up with a printout of my order. UltaLabs uses Quest Diagnostics to process the blood work.
 
-![](./img/blood-work.jpg)
+![](/2024/01/get-your-own-blood-work/img/blood-work.jpg)
 
 _AI prompt: lab with vials of blood. pop art_
 
@@ -28,7 +28,7 @@ Another reason I like working with UltaLabs and Quest is because it is my accoun
 
 If you need more help picking tests and analyzing them, there are companies like Mareck and Inside Tracker that provide additional services.
 
-![](./img/53434665012_87854eb43b_c-260x300.jpg)
+![](/2024/01/get-your-own-blood-work/img/53434665012_87854eb43b_c-260x300.jpg)
 
 _I lost my Kaiser data from 2020. I had a 400-something reading._
 

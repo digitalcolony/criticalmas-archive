@@ -19,7 +19,7 @@ Author Tyler Cowen mixed two of my greatest interests, which are food and econom
 
 If you can't get to the book, at least check out the _Econ Talk_ podcast interview: [Cowen on Food](https://www.econtalk.org/cowen-on-food/).
 
-![](./img/economist-gets-lunch.jpg) _An Economist Gets Lunch: New Rules for Everyday Foodies by Tyler Cowen_
+![](/2013/02/my-top-5-books-of-2012/img/economist-gets-lunch.jpg) _An Economist Gets Lunch: New Rules for Everyday Foodies by Tyler Cowen_
 
 
 ### #2 Abundance: The Future Is Better Than You Think
@@ -31,7 +31,7 @@ Back in 2008, I blogged that I was a [Short Term Bear, Long Term Bull](/2008/11/
 
 I know I am going to get a comment about my short term bearish outlook. That is based on the current financial environment of fraud, bad accounting, deficits, and bad monetary policy. There are also demographic reasons why we are a few years away from true recovery. But don't despair, another "_Roaring 20s_" is coming, but we aren't there yet.
 
-![](./img/adundance.jpg) _Abundance: The Future Is Better Than You Think by Peter H. Diamandis_
+![](/2013/02/my-top-5-books-of-2012/img/adundance.jpg) _Abundance: The Future Is Better Than You Think by Peter H. Diamandis_
 
 
 ### #3 Antifragile: Things That Gain from Disorder
@@ -39,7 +39,7 @@ I know I am going to get a comment about my short term bearish outlook. That is 
 
 My guess is half the readers of this blog have already read the latest book by Nassim Taleb and the other half plan to. So this book really needs no introduction. With the exception of his [approach to exercise](/2013/01/what-taleb-got-wrong-in-antifragile/), I loved this book which mixed philosophy and economics.
 
-![](./img/antifragile.jpg) _Antifragile: Things That Gain from Disorder by Nassim Nicholas Taleb_
+![](/2013/02/my-top-5-books-of-2012/img/antifragile.jpg) _Antifragile: Things That Gain from Disorder by Nassim Nicholas Taleb_
 
 
 ### #4 The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life
@@ -49,7 +49,7 @@ I liked _The 4-Hour Chef_ far more than I expected. This is the best book Tim Fe
 
 Ferriss has created a brilliant guide to learning how to get up to speed quickly in the kitchen. The first half of this book was perfect. The second half was a mixed bag of interesting to weird lessons that were far less relevant to core cooking. The first half of this book will pay for itself many times over.
 
-![](./img/4-Hour-Chef.jpg) _The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life by Timothy Ferriss_
+![](/2013/02/my-top-5-books-of-2012/img/4-Hour-Chef.jpg) _The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life by Timothy Ferriss_
 
 
 ### #5 The Art of Fermentation: An In-Depth Exploration of Essential Concepts and Processes from Around the World
@@ -57,7 +57,7 @@ Ferriss has created a brilliant guide to learning how to get up to speed quickly
 
 As someone who has been making [ferments](/tag/fermentation/) for a few years now, I got some great ideas from Sandor Katz's monster textbook that was released in May. If you are comfortable with fermenting and looking to learn more, get this book. However, if you are a beginner and need more guidance, I'd recommend starting with his [Fermentation Workshop DVD](/2011/10/the-fermentation-workshop-dvd-is-outstanding/). As much as I liked The Art of Fermentation, I think it might be overwhelming to someone just getting started.
 
-![](./img/art-fo-fermentation.jpg) _The Art of Fermentation: An In-Depth Exploration of Essential Concepts and Processes from Around the World by Sandor Ellix Katz_
+![](/2013/02/my-top-5-books-of-2012/img/art-fo-fermentation.jpg) _The Art of Fermentation: An In-Depth Exploration of Essential Concepts and Processes from Around the World by Sandor Ellix Katz_
 
 What were your favorite books of 2012?
 

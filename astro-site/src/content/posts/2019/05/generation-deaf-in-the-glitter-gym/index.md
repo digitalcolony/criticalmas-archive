@@ -30,7 +30,7 @@ The sad irony is this young man showed up to the gym early Saturday morning at a
 
 Maybe in this story, there is an investment tip? There are approximately 100 million people between 12 and 35 in the United States alone. What companies are developing technologies to restore hearing loss? Between that and tattoo removal technology, us old-timers should be able to make some money off the mistakes of Generation Deaf.
 
-![headphones](./img/lee-campbell-headphones.jpg)
+![headphones](/2019/05/generation-deaf-in-the-glitter-gym/img/lee-campbell-headphones.jpg)
 
 _Photo by [Lee Campbell](https://unsplash.com/@leecampbell)_
 

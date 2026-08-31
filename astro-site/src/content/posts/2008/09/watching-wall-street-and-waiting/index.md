@@ -19,7 +19,7 @@ In other words, the market tanks and you pop the champagne cork thinking you are
 
 After 9/11, I stocked up on canned food, water, and other items. After Katrina, I increased my stockpile. Since then I've moved three times and my emergency provisions have been reduced greatly. The biggest emergency I have had to deal with was the 2003 San Diego fires. The fires tore through San Diego faster than anyone expected. When an emergency strikes, you can be certain that you won't be able to stop time and run to Costco.
 
-![](./img/san-diego-fires.jpg)
+![](/2008/09/watching-wall-street-and-waiting/img/san-diego-fires.jpg)
 
 _Photo of the [2007 San Diego fires](http://flickr.com/photos/slworking/1721837998/in/photostream/) from FLICKR user slworking2_
 

@@ -23,7 +23,7 @@ When I sit for hours at a desk, I move my legs. I stand up. I fidget. On rare oc
 
 During my year in California I drove a lot more than I was driving in Seattle. On February 26th, I shared these numbers on Facebook.
 
-![facebook-driving](./img/facebook-driving.jpg)
+![facebook-driving](/2015/09/a-sitting-is-the-new-smoking-skeptic-spends-a-year-in-california/img/facebook-driving.jpg)
 
 Then I discovered all the [cool city tours of San Francisco](/2015/06/how-to-explore-san-francisco-like-a-champ/) and I started driving even more. From February until the day before I left, I averaged 56 miles a day. This was not an hour in the car. It was HOURS in the car every day. Sometimes I was stuck in traffic. A lot of it was city driving.
 
@@ -37,7 +37,7 @@ I am no longer a skeptic to stories that talk about the reduced metabolic effect
 
 Not only did I gain weight, but I felt more lethargic. I felt rusty.
 
-![traffic light](./img/8507482200_1fe19b0d41_z.jpg)
+![traffic light](/2015/09/a-sitting-is-the-new-smoking-skeptic-spends-a-year-in-california/img/8507482200_1fe19b0d41_z.jpg)
 
 _[Photo](https://flic.kr/p/dXM54A) by Paul Clarke_
 

@@ -19,38 +19,38 @@ People keep asking me about Katrina. This was my first trip to Louisiana, so wha
 
 Below are some highlights of my trip.
 
-![val-kilmer](./img/val-kilmer.jpg)
+![val-kilmer](/2009/03/new-orleans-2009/img/val-kilmer.jpg)
 
 _The legendary Val Kilmer was King of the Bacchus float!_
 
-![bourbon-street](./img/bourbon-street.jpg)
+![bourbon-street](/2009/03/new-orleans-2009/img/bourbon-street.jpg)
 
 _Bourbon Street in the morning_
 
-![cafe-du-monde](./img/cafe-du-monde.jpg)
+![cafe-du-monde](/2009/03/new-orleans-2009/img/cafe-du-monde.jpg)
 
 _Back in college before I developed a refined (snob) taste for coffee, I would drink canned Cafe Du Monde. When I got to New Orleans I was fearful that I would no longer like this coffee. Surprisingly, after all these years, I still really enjoy this chicory based coffee. It is a very smooth full bodied cup of joe. And the Beignets were good too!_
 
-![zulu-parade](./img/zulu-parade.jpg)
+![zulu-parade](/2009/03/new-orleans-2009/img/zulu-parade.jpg)
 
 _The Zulu Parade_
 
-![new-orleans-costume](./img/new-orleans-costume.jpg)
+![new-orleans-costume](/2009/03/new-orleans-2009/img/new-orleans-costume.jpg)
 
 _Lots of people dress up in costumes._
 
-![cnbc](./img/cnbc.jpg)
+![cnbc](/2009/03/new-orleans-2009/img/cnbc.jpg)
 
 _My hotel room had a nice flat screen TV and I found CNBC. Crack TV!_
 
-![deep-fried-pickles](./img/deep-fried-pickles.jpg)
+![deep-fried-pickles](/2009/03/new-orleans-2009/img/deep-fried-pickles.jpg)
 
 _Deep Fried Pickles are the only vegetable in the French Quarter, unless you count Corn Dogs. :)_
 
-![bourbon-street-fat-tuesday](./img/bourbon-street-fat-tuesday.jpg)
+![bourbon-street-fat-tuesday](/2009/03/new-orleans-2009/img/bourbon-street-fat-tuesday.jpg)
 
 _Bourbon Street on Fat Tuesday_
 
-![Cathedral](./img/Cathedral.jpg)
+![Cathedral](/2009/03/new-orleans-2009/img/Cathedral.jpg)
 
 _St. Louis Cathedral_

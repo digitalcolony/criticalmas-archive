@@ -23,7 +23,7 @@ The Bulletproof Diet is not a diet of [resiliency](/2012/05/healthy-vs-resilient
 
 > The Bulletproof Diet is yet another overly restrictive low carb diet with slick packaging.
 
-![krusty-clown](./img/krusty-clown.jpg)
+![krusty-clown](/2014/12/bulletproof-diet-testimonial/img/krusty-clown.jpg)
 
 _Props to Antonio Valladares of Evil Sugar Sugar for referring to Dave Asprey as the Krusty the Clown of Paleo._
 

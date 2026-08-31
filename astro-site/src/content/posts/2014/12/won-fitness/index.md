@@ -33,7 +33,7 @@ At this stage, I think I've said all I have to on the topic. I no longer feel th
 
 My best fitness posts are archived on the [Fitness](/category/fitness/) page.
 
-![drops mic](./img/3400482826_4debaa6b18_z.jpg)
+![drops mic](/2014/12/won-fitness/img/3400482826_4debaa6b18_z.jpg)
 
 _[Photo](https://flic.kr/p/6bun5f) by Robert Bejil_
 

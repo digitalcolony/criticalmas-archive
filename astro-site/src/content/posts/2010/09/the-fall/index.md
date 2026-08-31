@@ -12,11 +12,11 @@ If you are wondering how I have been able to read so many books in the past mont
 
 Below is an artist rendering.
 
-![](./img/stairs-1.gif "stairs-1")
+![](/2010/09/the-fall/img/stairs-1.gif "stairs-1")
 
-![](./img/stairs-2.gif "stairs-2")
+![](/2010/09/the-fall/img/stairs-2.gif "stairs-2")
 
-![](./img/stairs-3.gif "stairs-3")
+![](/2010/09/the-fall/img/stairs-3.gif "stairs-3")
 
 Even though I am feeling much better, I am still in some pain. Driving (left turns) and getting out of the car is where I feel the most pain. Thankfully, I have recovered enough that I can do pull-ups, push-ups and even walk for miles.
 

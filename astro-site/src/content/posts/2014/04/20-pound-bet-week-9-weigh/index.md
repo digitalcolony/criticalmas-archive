@@ -23,7 +23,7 @@ This was a good week. My plan last week was to journal the number of hours in my
 
 My goal was to average 14 hours. I hit 14.85 hours. It got easier later in the week. I will continue with this strategy. Fasting sure beats counting calories and weighing food.
 
-![potato soup](./img/8345115927_ff7e69995a_z.jpg)
+![potato soup](/2014/04/20-pound-bet-week-9-weigh/img/8345115927_ff7e69995a_z.jpg)
 
 _Photo by marsmet546_
 

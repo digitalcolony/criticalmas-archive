@@ -36,7 +36,7 @@ Examples:
 
 The function below accepts an email address as a parameter and returns a masked email address that is made up of ASCII codes. When the browser writes the codes to the screen it will get converted back to text. Although it’s possible for a spider to read and convert ASCII codes inside the HTML source, it’s probably not that prevalent. The function goes character by character converting the email address. The last step is to merge the masked email address with the HTML mailto: tag. In order to minimize the chances a clever spider might look for the mailto:, this example masks that word as well.
 
-![maskEmail](./img/maskEmail.png)
+![maskEmail](/2014/04/masking-email-address/img/maskEmail.png)
 
 Then you can call that VBScript function from inside an ASP page. For more information email me at <%= maskEmail("someEmail@someDomain.net") %>. The above function should be easy enough to convert into your language of choice.
 

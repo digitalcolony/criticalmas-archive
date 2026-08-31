@@ -29,7 +29,7 @@ One dish that has been a source of frustration for me is Tikki Masala. If you lo
 
 My guess is this method will appear as common sense to experienced cooks, but it helped me when I was learning how to cook on my own. Maybe it will help someone else.
 
-![ChickenTikki-Masala](./img/ChickenTikki-Masala.jpg)
+![ChickenTikki-Masala](/2012/05/internet-cooking-and-david-lynch-movies/img/ChickenTikki-Masala.jpg)
 
 _Chicken Tikki Masala - I followed 80% of [this recipe](https://www.food.com/recipe/chicken-tikka-masala-450572) and improvised the other 20%._
 

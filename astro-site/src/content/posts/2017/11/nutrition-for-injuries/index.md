@@ -11,7 +11,7 @@ commentCount: 4
 
 Thanks to a [tip](/2017/11/my-bizarre-injury/#comment-25868) from Pauline, I read the latest book by Lyle McDonald titled _Optimal Nutrition for Injury Recovery_.
 
-![Optimal Nutrition for Injury](./img/lyle-book.jpg)
+![Optimal Nutrition for Injury](/2017/11/nutrition-for-injuries/img/lyle-book.jpg)
 
 _Optimal Nutrition for Injury Recovery_
 

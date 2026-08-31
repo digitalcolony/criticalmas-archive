@@ -11,7 +11,7 @@ commentCount: 1
 
 I took this photo today at the Seattle's Olympic Sculpture Park. The art piece is a stainless steel tree called _Split_.
 
-![metal-tree-sculpture-park](./img/metal-tree-sculpture-park.jpg)
+![metal-tree-sculpture-park](/2009/11/metal-tree/img/metal-tree-sculpture-park.jpg)
 
 ---
 

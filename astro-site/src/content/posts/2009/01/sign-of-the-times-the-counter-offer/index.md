@@ -19,7 +19,7 @@ I've been to Tijuana and [Paraguay](/2006/09/rio-to-buenos-aires-overview/). I k
 
 I was 3 for 3 this week. When someone asks for your cash, make them a _Counter Offer_. Be prepared to hang up or walk away. The worst they can say is no.
 
-![negotiate](./img/negotiate.jpg)
+![negotiate](/2009/01/sign-of-the-times-the-counter-offer/img/negotiate.jpg)
 
 _[Photo](https://flic.kr/p/pk5JUj) by mehmetdeveci_
 

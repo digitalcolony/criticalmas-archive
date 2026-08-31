@@ -11,7 +11,7 @@ commentCount: 3
 
 I had the pleasure of eating some crickets on Sunday. They were prepared and cooked in style used in Oaxaca, Mexico. Not sure what spices were used, but they were delicious. I could eat a full bag easily. Better than popcorn!
 
-![cricket](./img/cricket.jpg)
+![cricket](/2010/06/my-first-bug/img/cricket.jpg)
 
 ---
 

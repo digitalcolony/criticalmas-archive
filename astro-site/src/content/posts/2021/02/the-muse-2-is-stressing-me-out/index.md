@@ -64,7 +64,7 @@ It didn't take me long to learn that during the calibration Muse is getting a ba
 
 It is possible (likely) that a lower score during a perfect calibration is actually better than a high score during a difficult calibration. How does one know if they are improving?
 
-![muse2 Calibration](./img/muse2-Calibration.jpg)
+![muse2 Calibration](/2021/02/the-muse-2-is-stressing-me-out/img/muse2-Calibration.jpg)
 
 _Muse 2 starting a calibration._
 

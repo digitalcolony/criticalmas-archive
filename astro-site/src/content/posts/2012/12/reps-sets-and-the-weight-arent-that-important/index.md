@@ -27,7 +27,7 @@ At this point, I was convinced the high weight plus low reps were the key metric
 
 The purpose of low reps with Pavel or any other powerlifting style protocol is to train the skill while the muscles are fresh. One is far more likely to have perfect form on reps 1 to 3 than 6 - 9. So by using low reps with extended rest, you reduce injury risk. The magic of low reps was no magic at all. It was a strategy to increase safety in complex skill based lifts. And increasing the skill component allows the lifter to increase the weight quicker. By moving to safer exercises with a lower skill component, I believe the low rep advantage disappears.
 
-![gym-whiteboard](./img/gym-whiteboard.jpg)
+![gym-whiteboard](/2012/12/reps-sets-and-the-weight-arent-that-important/img/gym-whiteboard.jpg)
 
 _So many numbers. My workout white board from my Pavel era._
 

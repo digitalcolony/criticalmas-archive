@@ -80,7 +80,7 @@ Below is my current list of Seattle coffee shop favorites broken down by neighb
 
 _This list is not complete. There are many more great spots._
 
-![Caffe Delia](./img/7600597462_2262425027_z.jpg "Caffe Delia")
+![Caffe Delia](/2014/04/favorite-seattle-coffee-places-2014/img/7600597462_2262425027_z.jpg "Caffe Delia")
 
 If you haven't been to Seattle in a few years, the biggest changes have been:
 

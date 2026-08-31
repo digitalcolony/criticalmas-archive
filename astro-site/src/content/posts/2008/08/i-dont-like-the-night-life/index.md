@@ -19,7 +19,7 @@ Of course, this fact provides an endless source of amusement for my friends. So 
 
 There is also a type of insomnia called _early-morning awakening_. It occurs when the sleeper wakes up too early. I may have this and have learned to deal with it by going to sleep earlier. Or maybe I just wake up each morning with a lot of things I want to accomplish and after a full day of working on them, I get sleepy.
 
-![disco ball](./img/1243441079_8dc4a27eb6_z.jpg)
+![disco ball](/2008/08/i-dont-like-the-night-life/img/1243441079_8dc4a27eb6_z.jpg)
 
 _[Disco ball](https://flic.kr/p/2TSXHi) by Carol Nichols_
 

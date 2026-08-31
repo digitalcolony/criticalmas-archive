@@ -19,7 +19,7 @@ My first Glitter Gym experience was around 1997 in South Tampa. The gym was crow
 
 There is nothing pretty about lifting weights. If you look good while pushing weights, the weight is too light. Here is what a weight-lifter looks like when the weights are challenging.
 
-![](./img/total-recall.jpg "total-recall")
+![](/2008/07/tales-from-the-glitter-gym-the-pick-up/img/total-recall.jpg "total-recall")
 
 In my experience, women don't hit on men in the gym. Maybe it happens, I've never seen it. Most guys don't hit on women at the gym either. Recall that the reason most people go to the gym is to alter their body composition. They see themselves as heavy or too scrawny and go to the gym to make improvements. Self-confidence usually doesn't peak until after you leave the hall of mirrors in a Glitter Gym and return to the masses, most of whom don't exercise.
 

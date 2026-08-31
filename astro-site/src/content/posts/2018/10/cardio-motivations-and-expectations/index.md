@@ -20,7 +20,7 @@ For me, the main benefit I gathered from my brief exposure to this topic is havi
 
 I'll trust the process here.
 
-![](./img/heart-espresso-machine.jpg)
+![](/2018/10/cardio-motivations-and-expectations/img/heart-espresso-machine.jpg)
 
 _Espresso machine from Heart in Portland._ 
 

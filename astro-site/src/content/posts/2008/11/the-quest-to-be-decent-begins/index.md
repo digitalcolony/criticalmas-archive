@@ -11,7 +11,7 @@ commentCount: 0
 
 Back when I had a home gym, I kept records of each workout. After a few injuries and the move, I stopped recording my numbers. Well I've had some good progress this year, so I revisited the article [Are You Strong?](https://web.archive.org/web/20150316202627/http://www.t-nation.com/readArticle.do?id=1563264) by Tim Henriques. The writer breaks down many of the core exercises into decent, good and great categories.
 
-![gym-boxing](./img/gym-boxing.jpg)
+![gym-boxing](/2008/11/the-quest-to-be-decent-begins/img/gym-boxing.jpg)
 
 _Notice the white board on the left. I used that to record my workouts._
 

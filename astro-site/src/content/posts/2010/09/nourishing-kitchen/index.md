@@ -17,9 +17,9 @@ Let me take you on a mini-tour of my kitchen to explain what I mean.
 
 Almonds and other nuts have anti-nutrient properties called enzyme inhibitors that can be tough on your digestive system. By soaking nuts overnight in water with a little sea salt, you can neutralize those enzyme inhibitors. This action leads to an increase in vitamin absorption.
 
-![soak-almonds](./img/soak-almonds.jpg)
+![soak-almonds](/2010/09/nourishing-kitchen/img/soak-almonds.jpg)
 
-![almonds-dried](./img/almonds-dried.jpg)
+![almonds-dried](/2010/09/nourishing-kitchen/img/almonds-dried.jpg)
 
 _The almonds are drying in a food dehydrator and will be ready tomorrow morning. That is when I'll be doing pecans!_
 
@@ -27,9 +27,9 @@ _The almonds are drying in a food dehydrator and will be ready tomorrow morning.
 
 Kombucha is a fermented tea with a trace amount of alcohol. Besides being a refreshing beverage it is believed to have health benefits including probiotics.
 
-![kombuha](./img/kombuha.jpg)
+![kombuha](/2010/09/nourishing-kitchen/img/kombuha.jpg)
 
-![kombucha2](./img/kombucha2.jpg)
+![kombucha2](/2010/09/nourishing-kitchen/img/kombucha2.jpg)
 
 _Can you see the SCOBY (Symbiotic Culture of Bacteria and Yeast)?_
 
@@ -37,13 +37,13 @@ _Can you see the SCOBY (Symbiotic Culture of Bacteria and Yeast)?_
 
 I've been making [kimchi](/2010/04/bok-choy-kimchi-recipe/) for months. I love it. I'm currently on the last day of my latest fermentation. I ran out of Korean dried chili flakes, so I tried some Thai chili peppers in this one.
 
-![kimchi](./img/kimchi.jpg)
+![kimchi](/2010/09/nourishing-kitchen/img/kimchi.jpg)
 
 **Sprouting Garbanzo Beans**
 
 Beans are loaded with anti-nutrients. Too much for this post, but the way to prepare beans is to get the beans to lower their plant defenses so the nutrients can be absorbed. Primitive cultures have figured out that soaking and sprouting beans accomplish this. I am going to make some hummus tomorrow. I expect these garbanzo beans will be sprouting by then.
 
-![sprout-chickpeas](./img/sprout-chickpeas.jpg)
+![sprout-chickpeas](/2010/09/nourishing-kitchen/img/sprout-chickpeas.jpg)
 
 _(UPDATE 9/4/2010) Warning: kidney and soybeans are toxic when sprouted._
 
@@ -51,7 +51,7 @@ _(UPDATE 9/4/2010) Warning: kidney and soybeans are toxic when sprouted._
 
 Frequent commenter _DHammy_ recently sent me some kefir grains. My first batch was a little thin. My second batch was better. Later today I will start batch number 3. The third time is a charm, right? Kefir is a fermented milk drink that is loaded with many strains of healthy bacteria. I've heard of people who have had amazing health benefits after adding kefir to their diet. Kefir is the extreme version of yogurt.
 
-![kefir-grains](./img/kefir-grains.jpg)
+![kefir-grains](/2010/09/nourishing-kitchen/img/kefir-grains.jpg)
 
 **Why?**
 

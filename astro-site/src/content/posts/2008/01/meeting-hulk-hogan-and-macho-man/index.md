@@ -15,6 +15,6 @@ It was a zoo. Wrestling is huge in Florida. The Hulk is huge. As a member of the
 
 Below is a scan my non-personalized souvenir from that day.
 
-![hulk-hohan-golds](./img/hulk-hohan-golds.jpg)
+![hulk-hohan-golds](/2008/01/meeting-hulk-hogan-and-macho-man/img/hulk-hohan-golds.jpg)
 
-![macho-man-golds](./img/macho-man-golds.jpg)
+![macho-man-golds](/2008/01/meeting-hulk-hogan-and-macho-man/img/macho-man-golds.jpg)

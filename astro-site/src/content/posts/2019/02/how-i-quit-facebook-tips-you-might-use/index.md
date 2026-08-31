@@ -61,7 +61,7 @@ I was thinking about this back in [2010](/2010/08/going-on-a-distraction-diet/).
 
 The fact I now have a 63-day meditation streak on Oak and I left Facebook just over 2 months ago is not coincidental. And the Spanish book that I was reading just a few pages a week, I began reading several pages a day and I was able to finish it.
 
-![](./img/tweet-book-read.jpg)
+![](/2019/02/how-i-quit-facebook-tips-you-might-use/img/tweet-book-read.jpg)
 
 
 ### #7 Start Data Scrubbing (optional)
@@ -99,4 +99,4 @@ Another reason I didn't announce my goodbye is that it is rude to leave a party 
 
 If anyone asks why you left, you can just tell them you are taking a break. That break might be a month, a year, or forever.
 
-![facebook](./img/8560618867_010ae3da7b_z.jpg)
+![facebook](/2019/02/how-i-quit-facebook-tips-you-might-use/img/8560618867_010ae3da7b_z.jpg)

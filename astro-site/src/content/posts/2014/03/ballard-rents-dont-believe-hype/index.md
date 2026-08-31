@@ -21,7 +21,7 @@ Here is what they are saying about Ballard:
 
 And they continue to build in Ballard. And they continue to build throughout Seattle. **Their survey says that developers will be adding 7,000 new units in the next 6 months!** Bring it on. Every tech worker with a fat paycheck signing a lease at one of these new apartment complexes is one less person bidding up existing rentals.
 
-![ballard-locks](./img/ballard-locks.jpg)
+![ballard-locks](/2014/03/ballard-rents-dont-believe-hype/img/ballard-locks.jpg)
 
 _Ballard Locks_
 

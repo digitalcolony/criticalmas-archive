@@ -13,7 +13,7 @@ Every so often I'll get inspired to make a dish that requires stock before I hav
 
 That is when I read about the idea of steaming the frozen jar. I was skeptical, but I needed to know. So I placed a steamer on the bottom of my large stock pot, added some water, put in a frozen jar of my [beef broth](/2011/04/homemade-beef-broth/) and turned on the heat.
 
-![Thaw Stock](./img/stock-thaw.jpg)
+![Thaw Stock](/2013/12/fast-way-thaw-frozen-stock/img/stock-thaw.jpg)
 
 It worked. In about 30 minutes with no work on my part, the entire jar was thawed. No more warm water baths! Do you know any other ways to quickly thaw frozen liquids?
 

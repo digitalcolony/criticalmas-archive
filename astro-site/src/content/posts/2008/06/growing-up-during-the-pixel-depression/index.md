@@ -19,9 +19,9 @@ As I work on the redesign of INeedCoffee, I'm coming face-to-face with these ema
 
 My _Hearthware Precision_ is long gone, but these hideous photos persist. INeedCoffee has years of bad photos, some of which we are in the process of replacing, but some will be impossible to recreate. The effects of the Pixel Depression are still being felt.
 
-![hearthware](./img/hearthware.jpg)
+![hearthware](/2008/06/growing-up-during-the-pixel-depression/img/hearthware.jpg)
 
-![i-roast2](./img/i-roast2.jpg)
+![i-roast2](/2008/06/growing-up-during-the-pixel-depression/img/i-roast2.jpg)
 
 ---
 

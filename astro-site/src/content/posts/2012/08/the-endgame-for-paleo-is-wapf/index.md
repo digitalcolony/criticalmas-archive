@@ -15,7 +15,7 @@ As much as I like the Paleo diet as a starting point, I prefer a Weston A. Price
 
 What appeals to me about the Weston A. Price approach is how different cultures in completely different parts of the planet that had no way to communicate with each other, independently came up with similar solutions to food preparation. Only when modern cultures rejected traditional food preparation in favor of convenience and cost-saving did health begin to decline. Nutritional science is just beginning to catch up to what our ancestors knew about food.
 
-![sopa-de-pata](./img/sopa-de-pata.jpg)
+![sopa-de-pata](/2012/08/the-endgame-for-paleo-is-wapf/img/sopa-de-pata.jpg)
 
 _Recently I had [sopa de pata](https://en.wikipedia.org/wiki/Sopa_de_pata) at an El Salvadorian restaurant. This soup includes beef feet, tendons, and tripe cooked slowly with vegetables including yucca, corn, cabbage, and onions. Not only did it taste amazing, but I felt great afterward. There is some ancestral wisdom in that soup._ 
 

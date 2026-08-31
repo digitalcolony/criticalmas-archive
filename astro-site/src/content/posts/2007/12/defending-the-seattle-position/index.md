@@ -11,11 +11,11 @@ commentCount: 0
 
 Seems there are two camps of people out there. Camp one are fans of Seattle and believe that this blog has been too harsh on the area. One person wrote me and stated with the exception of coffee, I wasn't singing the praises of Seattle enough. That's like saying with the exception of X-MAS, that Santa Claus guy is a lazy slob.
 
-![Kubota Garden](./img/seattle-park.jpg) _Kubota Garden in Seattle_
+![Kubota Garden](/2007/12/defending-the-seattle-position/img/seattle-park.jpg) _Kubota Garden in Seattle_
 
 Camp two is the San Diego crowd that keeps asking me to defend my decision to leave America's Finest City for the Emerald City. I get the impression they believe I'm not thinking straight.
 
-![Batiquitos](./img/Batiquitos.jpg) _Batiquitos Lagoon in Carlsbad (North County San Diego)_
+![Batiquitos](/2007/12/defending-the-seattle-position/img/Batiquitos.jpg) _Batiquitos Lagoon in Carlsbad (North County San Diego)_
 
 And the last odd thing is that the Camp one people have never been to San Diego and the Camp two people haven't been to Seattle.
 

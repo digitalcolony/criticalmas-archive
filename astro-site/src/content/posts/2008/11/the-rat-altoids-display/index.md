@@ -13,7 +13,7 @@ Back when I worked for Nielsen Media Research in the 1990s, I loved Altoids. I s
 
 Instead of throwing away the tins, I started piling them up on my desk. Then after one eventful Halloween, I found myself in possession of two very real looking plastic rats. I decided to have a little fun at work. I set up this display of tins and made it look as if the rats were teaming up to get at them.
 
-![rat-altoids](./img/rat-altoids.jpg)
+![rat-altoids](/2008/11/the-rat-altoids-display/img/rat-altoids.jpg)
 
 Needless to say, it freaked more than one of my fellow co-workers out. Before long people from other departments were coming over to view the Altoid Rats.
 

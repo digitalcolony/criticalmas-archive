@@ -15,13 +15,13 @@ To me, this seems ridiculous. It fails the common sense test. Yet, I freely admi
 
 Although I still think I'm right on this debate, I'm willing to be open-minded. Below is the story I am referring to, his analysis, my response, and his conclusion. Here is a [link](https://web.archive.org/web/20130808045046/http://journals.lww.com/acsm-msse/Fulltext/2013/07000/Effects_of_Running_and_Walking_on_Osteoarthritis.10.aspx) to the study.
 
-![save-running1](./img/save-running1.png) [![save-running2](./img/save-running2.png)](./img/save-running2.png) [![save-running3](./img/save-running3.png)](./img/save-running3.png)
+![save-running1](/2013/07/can-running-be-antifragile/img/save-running1.png) [![save-running2](/2013/07/can-running-be-antifragile/img/save-running2.png)](./img/save-running2.png) [![save-running3](/2013/07/can-running-be-antifragile/img/save-running3.png)](./img/save-running3.png)
 
 Nassim Taleb came up with the term [Antifragile](/2013/02/my-top-5-books-of-2012/). It means something that gets stronger with stress. Building a muscle is a classic example. Apply stress to a muscle and provided the movement is safe and time is allowed for recovery, the muscle will get stronger. Does this also apply to joints?
 
 From my understanding of the principles of High-Intensity Training, the goal or optimal path for fitness is to focus on building muscle as safely as possible while preventing unnecessary loading or repetitive stress on the joints. In other words, build the muscle and protect the joints.
 
-![runners-seattle](./img/runners-seattle.jpg)
+![runners-seattle](/2013/07/can-running-be-antifragile/img/runners-seattle.jpg)
 
 _[Runners Statue](/2009/05/runners-statue-hidden-in-belltown/) in Seattle_.
 

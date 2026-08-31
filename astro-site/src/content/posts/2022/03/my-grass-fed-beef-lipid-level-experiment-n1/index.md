@@ -115,7 +115,7 @@ If this is true, then I'm in a better position than the top levels numbers look.
 
 According to 23 and Me, I am likely to weigh more on a diet high in saturated fat. I'm not sure this is relevant to this discussion though, as my weight was constant on both diets. Also, it doesn't speak directly to heart health.
 
-![cow pasture](./img/cow-pasture.jpg)
+![cow pasture](/2022/03/my-grass-fed-beef-lipid-level-experiment-n1/img/cow-pasture.jpg)
 
 _by Edwin Austin Abbey_
 

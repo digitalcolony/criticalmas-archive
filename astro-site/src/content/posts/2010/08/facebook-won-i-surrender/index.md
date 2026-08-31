@@ -15,6 +15,6 @@ I've been successful on turning off Twitter and the news sites, so this isn't a 
 
 Facebook is still a distraction, but it is also essential. I'm thinking about doing a 1-day-a-week strategy or maybe two 15 minute blocks. I'm not sure yet.
 
-![facebook](./img/8560618867_010ae3da7b_z.jpg)
+![facebook](/2010/08/facebook-won-i-surrender/img/8560618867_010ae3da7b_z.jpg)
 
 _[Photo](https://flic.kr/p/e3tpK2) by mkhmarketing_

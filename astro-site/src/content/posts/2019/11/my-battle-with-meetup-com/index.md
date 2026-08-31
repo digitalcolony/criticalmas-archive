@@ -41,7 +41,7 @@ I placed the [code up on GitHub](https://github.com/digitalcolony/scrape-meetup)
 
 This isn't a perfect solution, as the scraping code will break if they change the design of the web page. But if they ever do, I will just update my code. And the battle continues.
 
-![checkmate](./img/checkmate.jpg)
+![checkmate](/2019/11/my-battle-with-meetup-com/img/checkmate.jpg)
 
 _Photo by Felix Mittermeier_
 

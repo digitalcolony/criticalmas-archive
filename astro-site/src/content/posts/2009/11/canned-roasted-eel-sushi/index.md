@@ -11,9 +11,9 @@ commentCount: 3
 
 Can you make sushi with canned fish? Yes.
 
-![roasted-eel](./img/roasted-eel.jpg)
+![roasted-eel](/2009/11/canned-roasted-eel-sushi/img/roasted-eel.jpg)
 
-![roasted-eel-sushi](./img/roasted-eel-sushi.jpg)
+![roasted-eel-sushi](/2009/11/canned-roasted-eel-sushi/img/roasted-eel-sushi.jpg)
 
 ---
 

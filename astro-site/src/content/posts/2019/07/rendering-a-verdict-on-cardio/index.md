@@ -51,7 +51,7 @@ I can see now that I'm becoming more conditioned and I'm having to go faster and
 
 My verdict is cardio is right for me. I'm hedging the two camps and seeing benefit from that decision.
 
-![cardio then and now](./img/cardio.jpg)
+![cardio then and now](/2019/07/rendering-a-verdict-on-cardio/img/cardio.jpg)
 
 _Verdict rendered._
 

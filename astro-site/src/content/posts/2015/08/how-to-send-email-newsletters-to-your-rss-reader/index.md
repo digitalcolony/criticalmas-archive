@@ -21,7 +21,7 @@ Anyway, I kept thinking about how to solve this problem and with enough searchin
 4.  Take the generated RSS Feed and subscribe to it to your Reader. Rename it something friendly.
 5.  Go forth and subscribe to newsletters with your Email Bridge address. Instead of cluttering up your Email Inbox, they will be waiting for you inside a folder of your choosing in your RSS Reader.
 
-![feedly-ss](./img/feedly-ss-e1438801068642.png)
+![feedly-ss](/2015/08/how-to-send-email-newsletters-to-your-rss-reader/img/feedly-ss-e1438801068642.png)
 
 _The FluentU newsletter is now inside my RSS Reader Feedly_
 

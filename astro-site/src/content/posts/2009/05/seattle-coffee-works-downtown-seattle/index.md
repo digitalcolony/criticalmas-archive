@@ -13,7 +13,7 @@ When making the Seattle Whole Bean Espresso Prices list, I learned that _Seattle
 
 Look for the sign of the coffee drinker.
 
-![seattle-coffee-works-guy](./img/seattle-coffee-works-guy.jpg "seattle-coffee-works-guy")
+![seattle-coffee-works-guy](/2009/05/seattle-coffee-works-downtown-seattle/img/seattle-coffee-works-guy.jpg "seattle-coffee-works-guy")
 
 _Seattle Coffee Works - 111 Pike Street, Seattle_
 

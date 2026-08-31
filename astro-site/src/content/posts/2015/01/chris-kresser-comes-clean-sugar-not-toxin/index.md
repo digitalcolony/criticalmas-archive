@@ -20,11 +20,11 @@ I got a lot of pushback in the comments, but now I have someone else that agrees
 
 I want to give a hat tip to Danny Roddy for alerting me to a recent post by Chris Kresser titled _Is Refined Sugar Really Toxic?_ Be warned that Kresser has an annoying newsletter pop-up window on every page, so I'm not linking to it. You don't need to read the article, because I have and took notes.
 
-![](./img/sugar-toxic-e1729810398323.png)
+![](/2015/01/chris-kresser-comes-clean-sugar-not-toxin/img/sugar-toxic-e1729810398323.png)
 
 _Facebook was forcing people to log in to see this image from Roddy and showing up on my broken link checker report, so I copied it here._
 
-_![](./img/sugar-paint.jpg)_
+_![](/2015/01/chris-kresser-comes-clean-sugar-not-toxin/img/sugar-paint.jpg)_
 
 The short version is that Kresser no longer is saying sugar is toxic. Maybe he read my post and wised up? :) HA! Let me go through the 7 points made in the article and comment on a few of them.
 

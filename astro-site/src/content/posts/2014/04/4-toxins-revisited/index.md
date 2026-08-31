@@ -31,7 +31,7 @@ The reality is legumes are healthy when they are prepared properly. This is some
 
 When it comes to soy, I stick to miso soup and [natto](/2013/12/natto/). I still don't trust tofu, but if it happens to land in my Korean stew I'll eat it.
 
-![soak-sprout-lentil](./img/soak-sprout-lentil.jpg)
+![soak-sprout-lentil](/2014/04/4-toxins-revisited/img/soak-sprout-lentil.jpg)
 
 _I soak and sprout lentils when I make [Dal](/2012/05/making-lentil-dal/)._
 
@@ -45,7 +45,7 @@ Defending sugar is a tough sell. If you have an open mind that sugar might have 
 
 Sugar does have a lot of bad friends though. It is often found in foods that have been heavily processed or [engineered to encourage overconsumption](/2012/06/deep-nutrition-perfect-health-diet-and-the-end-of-overeating/). We still want to avoid or minimize those processed foods.
 
-![coffee-ice-cream](./img/coffee-ice-cream.jpg)
+![coffee-ice-cream](/2014/04/4-toxins-revisited/img/coffee-ice-cream.jpg)
 
 _Ice cream is a healthy food with sugar. Oreo cookies are an unhealthy food with sugar. Sugar isn't bad, but it often hangs out with bad ingredients._
 
@@ -67,7 +67,7 @@ I cover the "It's Only 10%" argument in the post [Was I Wrong About Gluten? Part
 
 The one thing I have changed my mind about when it comes to gluten/wheat is I now believe it is possible and even desirable to cure your intolerance. Not because wheat is nutritious, but because it makes sense to be resilient. Walling yourself off from the world may help reduce symptoms, but it doesn't address the underlying cause of why certain foods cause you to feel awful. I haven't been able to cure my intolerance, but I can handle trace exposure now (soy sauce, 2-3 oz of beer).
 
-[![rice-flakes](./img/rice-flakes.jpg)](./img/rice-flakes.jpg)
+[![rice-flakes](/2014/04/4-toxins-revisited/img/rice-flakes.jpg)](./img/rice-flakes.jpg)
 
 _I use rice flakes to make [gluten free lasagna](/2012/08/gluten-free-lasagna/). I don't miss wheat at all._ 
 

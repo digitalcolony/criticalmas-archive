@@ -11,7 +11,7 @@ commentCount: 3
 
 Shopping sign located in the Wallingford area of Seattle.
 
-![your-pants-must-be](./img/your-pants-must-be.jpg)
+![your-pants-must-be](/2009/11/your-pants-must-be-this-high-to-enter/img/your-pants-must-be.jpg)
 
 ---
 

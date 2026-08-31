@@ -30,7 +30,7 @@ Before the Peasant Diet, I was fearless with spiciness. I made kimchi all the ti
 
 Spicy foods now don't sit well with me. I'm sure I could get back to my old self if I wanted to, but I also don't have a desire to make spicy foods a regular part of my diet.
 
-![](./img/kimchi-large-jar.jpg)
+![](/2018/06/side-effects-im-experiencing-on-the-peasant-diet/img/kimchi-large-jar.jpg)
 
 _My kimchi_
 

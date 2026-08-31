@@ -11,7 +11,7 @@ commentCount: 2
 
 My 3 week trip in South America was hosted by Gap Adventures. The name of the tour was In Search Of Iguassu - Rio to Buenos Aires. I'm glad I took the trip and got to visit a nice section of the world. Brazil underwhelmed me, Uruguay exceeded my expectations, and Buenos Aires, Argentina came close to being the perfect large city. We also made a surprise visit to a part of Paraguay that makes Tijuana look classy.
 
-![mas-in-brazil](./img/mas-in-brazil.jpg)
+![mas-in-brazil](/2006/09/rio-to-buenos-aires-overview/img/mas-in-brazil.jpg)
 
 The best part of the trip was the challenge of communicating with people in two unfamiliar languages (Portuguese and Spanish). My Spanish skills from the 8th and 9th grades are weak but were often enough to get by. Portuguese was much tougher and I only seemed to grasp enough to get by on our last day in Brazil. Note that as soon as I left Brazil, I promptly forgot any and all Portuguese words I had just learned.
 
@@ -27,13 +27,13 @@ Having ridden in a Tijuana cab, I was prepared for our taxi ride from the airpor
 
 After arriving at our hotel, we took a walk of the Copacabana region and Ipanema Beach. I expected Ipanema would be Miami Beach nice. It wasn’t. Ipanema looked like it was frozen in time from the early 1980s.
 
-![rio-beach](./img/rio-beach.jpg)
+![rio-beach](/2006/09/rio-to-buenos-aires-overview/img/rio-beach.jpg)
 
 There are great restaurants in Rio De Janeiro, but you may not stumble into them by accident. If you are a vegetarian, diabetic, or on a carb-restrictive diet, take the time to research your food choices before coming to Brazil. If however you have a sweet tooth and believe dessert is the most important meal of the day, you will have no trouble running into tasty treats on every street corner.
 
 Before meeting up with the group tour, we took a City Tour that took us to the Rio De Janeiro highlights of Sugarloaf Mountain and Christ the Redeemer of the Open Arms. We also got to drive by the ghetto. If you saw the movie City Of God, you’ll understand why we didn’t get off the tour bus and walk around.
 
-![rio-brazil](./img/rio-brazil.jpg)
+![rio-brazil](/2006/09/rio-to-buenos-aires-overview/img/rio-brazil.jpg)
 
 
 ### Day 3-6 - Ilha Grande, Brazil
@@ -43,7 +43,7 @@ The morning after meeting up with the tour, we immediately left for the island p
 
 The island hosts Lopes Mendes Beach, which has the nicest sand and clearest water I’ve ever seen. Ilha Grande was the highlight of the Brazilian part of our tour.
 
-![illha-grande](./img/illha-grande.jpg)
+![illha-grande](/2006/09/rio-to-buenos-aires-overview/img/illha-grande.jpg)
 
 
 ### Day 7 - Parati, Brazil
@@ -51,7 +51,7 @@ The island hosts Lopes Mendes Beach, which has the nicest sand and clearest wate
 
 Parati (aka Paraty), Brazil was a little town between Ilha Grande and the Sao Paulo bus station. Brick streets and some of the best food I had on the Brazil portion of my trip. Day 8 was a travel day.
 
-![parati-brazil](./img/parati-brazil.jpg)
+![parati-brazil](/2006/09/rio-to-buenos-aires-overview/img/parati-brazil.jpg)
 
 
 ### Day 9-10 - Iguassu Falls, Brazil/Argentina
@@ -63,7 +63,7 @@ On the Brazil side, we took a helicopter ride over the falls.
 
 The Argentina side was much nicer. On that side, we took a boat ride as well as walked a catwalk up to the edge of the Iguassu Falls. That night we attended a show that I can best describe as a Latin American Luau, only it was actually pretty good. My photos for that show did not turn out very well.
 
-![iguassu-falls](./img/iguassu-falls.jpg)
+![iguassu-falls](/2006/09/rio-to-buenos-aires-overview/img/iguassu-falls.jpg)
 
 
 ### Day 11 - Paraguay
@@ -73,7 +73,7 @@ We did a morning trip to a border town just inside Paraguay for shopping in Ciud
 
 This town had the most aggressive salespeople I’d ever seen. In your face without pause. They made the vendors of Tijuana, Mexico look as apathetic as Circuit City employees.
 
-![paraguay](./img/paraguay.jpg)
+![paraguay](/2006/09/rio-to-buenos-aires-overview/img/paraguay.jpg)
 
 
 ### Day 11 - Parque das Aves, Brazil
@@ -81,7 +81,7 @@ This town had the most aggressive salespeople I’d ever seen. In your face with
 
 Nick and I went to Parque das Aves, which was an extensive bird park close to the Iguassu Falls.
 
-![brazil-bird](./img/brazil-bird.jpg)
+![brazil-bird](/2006/09/rio-to-buenos-aires-overview/img/brazil-bird.jpg)
 
 
 ### Day 12 - Salto, Uruguay
@@ -89,7 +89,7 @@ Nick and I went to Parque das Aves, which was an extensive bird park close to th
 
 Salto was a cute little town on our way to Montevideo, Uruguay. This day was called our _relax_ day. This meant a trip to Termas Del Dayman (spa) for a massage, sauna, and a hot water pool. I was just getting over 2 days of stomach pains, thanks to the poor food choices I made in Brazil. The food in Uruguay and Argentina suited me much better than in Brazil.
 
-![uruguay](./img/uruguay.jpg)
+![uruguay](/2006/09/rio-to-buenos-aires-overview/img/uruguay.jpg)
 
 
 ### Day 13-14 - Montevideo, Uruguay
@@ -101,7 +101,7 @@ There was one happy person. The kid working at the Mcdonald's was the best emplo
 
 While in Montevideo we did a City Tour, visited a mall, did a long walk, and in the evening listened to some kids perform tango music at a restaurant.
 
-![montevideo](./img/montevideo.jpg)
+![montevideo](/2006/09/rio-to-buenos-aires-overview/img/montevideo.jpg)
 
 
 ### Day 15-16 - Colonia, Uruguay
@@ -109,7 +109,7 @@ While in Montevideo we did a City Tour, visited a mall, did a long walk, and in 
 
 Colonia was a small town where the food was actually excellent. Here we went horseback riding.
 
-![mas-horse](./img/mas-horse.jpg)
+![mas-horse](/2006/09/rio-to-buenos-aires-overview/img/mas-horse.jpg)
 
 
 ### Day 17-20 - Buenos Aires, Argentina
@@ -119,9 +119,9 @@ We arrived in Buenos Aires, Argentina at night. What a beautiful city. As someon
 
 While in Buenos Aires we did a City Tour, saw an outstanding Tango show, visited the Buenos Aires Zoo, and did lots of walking/shopping.
 
-![argentina](./img/argentina.jpg)
+![argentina](/2006/09/rio-to-buenos-aires-overview/img/argentina.jpg)
 
-![buenos-aires](./img/buenos-aires.jpg)
+![buenos-aires](/2006/09/rio-to-buenos-aires-overview/img/buenos-aires.jpg)
 
 ---
 

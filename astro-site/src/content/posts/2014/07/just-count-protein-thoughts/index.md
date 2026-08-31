@@ -29,7 +29,7 @@ I'm a food explorer, so the idea of eating the same foods over and over is not a
 
 I can still be a food explorer while I get lean, I just need to eat the protein first.
 
-![cans of tuna](./img/14004094666_b581f63f9c_z.jpg)
+![cans of tuna](/2014/07/just-count-protein-thoughts/img/14004094666_b581f63f9c_z.jpg)
 
 _[Photo](https://www.flickr.com/photos/113026679@N03/14004094666/) by David Mulder._
 

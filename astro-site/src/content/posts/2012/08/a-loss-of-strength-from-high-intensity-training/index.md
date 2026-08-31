@@ -13,7 +13,7 @@ I've read several claims that people tend to lose strength after they start a [H
 
 My thesis is that using traditional weight lifting exercises as a metric for measuring strength is unfair when measuring the efficacy of HIT. The reason is the bench press, squat and dead lift are highly technical moves. When you stop training a technical move, you get rusty and are unable to lift as much safely. What you perceive as a loss of strength might really be loss of technique.
 
-![weights-in-gym](./img/weights-in-gym.jpg)
+![weights-in-gym](/2012/08/a-loss-of-strength-from-high-intensity-training/img/weights-in-gym.jpg)
 
 _[Photo](https://flic.kr/p/hJVVst) by Garen Meguerian_
 

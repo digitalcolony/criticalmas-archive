@@ -23,7 +23,7 @@ Earthing is the product-free version, where someone puts their feet on the groun
 
 What are your thoughts on grounding products and earthing?
 
-![earthing pillowcase](./img/earthing-pillowcase-e1624833103849.jpg)
+![earthing pillowcase](/2021/06/my-grounding-device-experiment/img/earthing-pillowcase-e1624833103849.jpg)
 
 ---
 

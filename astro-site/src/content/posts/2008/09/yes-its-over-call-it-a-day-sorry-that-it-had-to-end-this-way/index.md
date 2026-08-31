@@ -11,7 +11,7 @@ commentCount: 2
 
 Back in August, in the post [I Can't Quit You Coke Zero](/2008/08/i-cant-quit-you-coke-zero/) I confessed my reluctant love for _Coke Zero._ I had learned how repeatedly fooling the brain with low/no calorie sweeteners may interfere with the bodys ability to judge calories and the result is you end up eating more. Even after learning this, I was back to drinking Coke Zero.
 
-![Coke Zero](./img/czero-205x300.jpg)
+![Coke Zero](/2008/09/yes-its-over-call-it-a-day-sorry-that-it-had-to-end-this-way/img/czero-205x300.jpg)
 
 Despite trying to scare myself away from Coke Zero, I noticed that I wasn't overweight and leaner than I was before I started drinking the beverage, so there wasn't a call to action for me. Yes there is a risk, but I was doing great, so hand me another can.
 

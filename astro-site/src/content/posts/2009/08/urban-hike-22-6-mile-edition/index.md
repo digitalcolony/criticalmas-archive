@@ -13,4 +13,4 @@ I only intended to do a 5 mile hike today, but decided to take a few different t
 
 This hike was much slower as I am [no longer wearing](/2009/08/learning-how-to-walk-again/) shoes with cushioned heels. Unlike the hike in February, I experienced no back pain. However, my feet are tired. That is a fair trade off in my opinion.
 
-![urban-hike-22-p2](./img/urban-hike-22-p2.jpg "urban-hike-22-p2")
+![urban-hike-22-p2](/2009/08/urban-hike-22-6-mile-edition/img/urban-hike-22-p2.jpg "urban-hike-22-p2")

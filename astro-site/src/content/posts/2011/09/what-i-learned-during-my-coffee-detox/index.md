@@ -13,7 +13,7 @@ The last time I did a serious coffee detox was in 1997. I was long overdue. I go
 
 First some background. I began tracking my headaches and coffee intake on March 24th. Below is a chart showing my daily coffee intake. The red line is a 3 day moving average.
 
-![](./img/daily_coffee__3_day_moving_average.png "daily_coffee__3_day_moving_average")
+![](/2011/09/what-i-learned-during-my-coffee-detox/img/daily_coffee__3_day_moving_average.png "daily_coffee__3_day_moving_average")
 
 
 ### Sinus Headaches

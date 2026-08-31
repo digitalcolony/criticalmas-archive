@@ -56,7 +56,7 @@ Today interest rates are much higher and there are fewer young people of weight 
 
 Return to rust.
 
-![](./img/rust-gym.jpg)
+![](/2024/08/the-economics-of-messy-gyms/img/rust-gym.jpg)
 
 _After decades of low birth rates and neglect, this Glitter Gym has been absorbed by nature like a temple at Angkor Wat._
 

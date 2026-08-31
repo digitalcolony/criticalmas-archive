@@ -23,7 +23,7 @@ My 2017 Avoid list has gotten smaller. Now, the only thing that I go out of my w
 
 After following the nutritional blogosphere battles for almost 10 years now and reading numerous perspectives from people much smarter than me, I've decided that excess PUFA (poly-unsaturated fats) are [The Common Enemy in Nutrition](/2013/11/common-enemy-nutrition/). The only real debate is defining excessive.
 
-_![](./img/583px-Fries_cooking.jpg)_
+_![](/2017/01/eat-dont-eat-2017-edition/img/583px-Fries_cooking.jpg)_
 
 _By [Hayford Peirce](https://en.wikipedia.org/wiki/User:Hayford_Peirce "en:User:Hayford Peirce") - Own work, CC BY-SA 3.0_
 

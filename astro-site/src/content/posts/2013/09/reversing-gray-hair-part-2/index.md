@@ -27,7 +27,7 @@ Yesterday I got [this comment](/2012/02/reversing-gray-hair/#comment-20293) fro
 
 Daniel goes on to say he is working professionally in hair health with reversing gray hair as one of his goals. He also recommends supplementing with selenium and zinc.
 
-![george-clooney-gray-hair](./img/george-clooney-gray-hair.jpg)
+![george-clooney-gray-hair](/2013/09/reversing-gray-hair-part-2/img/george-clooney-gray-hair.jpg)
 
 _[Photo](https://flic.kr/p/6XKRnN) by Josh Jensen_
 

@@ -28,7 +28,7 @@ This means that the Oura Ring is a valid tool for capturing deep sleep HRV. I pr
 
 I still have issues with Oura data. Sunday I had a great night of sleep, but Oura gave me a 76. Then Monday, I had worse sleep and Oura gave me an 85. I am also seeing gaps in the data. Support told me to face the sensors of the ring towards my palm. It is still happening, but the gaps are smaller.
 
-![oura RHR](./img/oura-RHR.jpg)
+![oura RHR](/2020/09/oura-ring-and-hrv-follow-up/img/oura-RHR.jpg)
 
 _Resting Heart Rate with data gaps._
 

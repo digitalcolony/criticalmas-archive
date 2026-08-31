@@ -13,7 +13,7 @@ My latest vegetable ferment is a dill and caraway seed sauerkraut. Even though t
 
 Many sauerkrauts can take weeks to ferment. This one can be ready in 6-7 days. Maybe faster if you like it more crunchy. If you want to get started making sauerkraut and thought of waiting weeks bums you out, then this is the sauerkraut you want to make. **Dill speeds up the ferment.**
 
-![dill-sauerkraut](./img/dill-sauerkraut.jpg)
+![dill-sauerkraut](/2011/07/dill-and-caraway-sauerkraut/img/dill-sauerkraut.jpg)
 
 _Dill and Caraway Sauerkraut_
 
@@ -51,7 +51,7 @@ You will also want to cover the jar with a towel or an upside down paper bag. Th
 
 Since it is unlikely that your cabbage will be exactly 1 pound, just multiply out the ingredients to meet your needs.
 
-![dill-sauerkraut2](./img/dill-sauerkraut2.jpg)
+![dill-sauerkraut2](/2011/07/dill-and-caraway-sauerkraut/img/dill-sauerkraut2.jpg)
 
 _Another Successful Sauerkraut!_
 

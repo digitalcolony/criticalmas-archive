@@ -20,7 +20,7 @@ Although much of the podcast focused on practical methods for using isometric lo
 
 Sorry bros. Even the NFL doesn't believe you MUST SQUAT to be strong and elite. Minimizing injury risk is the path to a longer career.
 
-![](./img/must-squat.jpg)
+![](/2025/03/bro-lifting-in-the-nfl/img/must-squat.jpg)
 
 ---
 

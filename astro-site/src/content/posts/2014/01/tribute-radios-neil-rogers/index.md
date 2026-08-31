@@ -47,7 +47,7 @@ In April 2012, YouTube notified me that my uploads would no longer be restricted
 
 Google is a weird beast. For reasons I'll never understand, they never indexed the Google Sites page, so I created the [NeilRogers.org](https://neilrogers.org/) site. Over time, I got a Twitter, Google+, Flickr, and Pinterest account for the site. The audio continued to come in and working closely with a man named John in Florida, who is skilled in working with tapes, the archive now holds over 1,700 Neil Rogers shows going back as far as 1987. Along the way, a few hundred other shows from other South Florida hosts were discovered and uploaded.
 
-![neil-rogers-radio](./img/neil-rogers-radio.jpg)
+![neil-rogers-radio](/2014/01/tribute-radios-neil-rogers/img/neil-rogers-radio.jpg)
 
 
 ### Lessons Learned
@@ -65,7 +65,7 @@ In the past year or so, over 1,000 new members have been added to the Facebook g
 
 An article about this project appeared on the front page of both the Sun-Sentinel and the Miami Herald last weekend. Although the article was very positive, it was chock full of errors, which is one of the reasons I wrote this post.
 
-![neil rogers sun sentinel](./img/neil-still-the-top.jpg)
+![neil rogers sun sentinel](/2014/01/tribute-radios-neil-rogers/img/neil-still-the-top.jpg)
 
 If you are a fan of Neil Rogers and would like to share audio with the project, visit [NeilRogers.org](https://neilrogers.org).
 

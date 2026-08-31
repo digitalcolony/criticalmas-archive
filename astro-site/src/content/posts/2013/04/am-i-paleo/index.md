@@ -13,7 +13,7 @@ The biggest trend I've seen in nutritional blogs in the past year is the growing
 
 I am torn. There are things I like and things I've grown to dislike about what it means to be Paleo. In this post, I am going to go through what I dislike and like about Paleo.
 
-![](./img/caveman-spear-1.jpg)
+![](/2013/04/am-i-paleo/img/caveman-spear-1.jpg)
 
 
 ### Paleo Problems

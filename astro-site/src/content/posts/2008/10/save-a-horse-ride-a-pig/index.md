@@ -17,9 +17,9 @@ After reading the Wikipedia page, I learned the pig is named _Rachel_.
 
 I knew a Rachel back in Ohio. Striking resemblance. :)
 
-![mas-seattle-pig-1](./img/mas-seattle-pig-1.jpg)
+![mas-seattle-pig-1](/2008/10/save-a-horse-ride-a-pig/img/mas-seattle-pig-1.jpg)
 
-![mas-seattle-pig-2](./img/mas-seattle-pig-2.jpg)
+![mas-seattle-pig-2](/2008/10/save-a-horse-ride-a-pig/img/mas-seattle-pig-2.jpg)
 
 ---
 

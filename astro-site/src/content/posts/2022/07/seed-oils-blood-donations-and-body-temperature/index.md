@@ -35,7 +35,7 @@ The article dives into the numbers on both donating blood and plasma. _Plasma do
 
 During this same period that I removed seed oils, I was aggressively donating blood every 56 days. Over the 2010-2020 decade, I donated 5+ gallons of blood (5 in Washington and a few pints in California).
 
-![5 gallons blood](./img/5-gallons.jpg)
+![5 gallons blood](/2022/07/seed-oils-blood-donations-and-body-temperature/img/5-gallons.jpg)
 
 Do these forever chemicals impact metabolism? I don't know, but it is a question worth researching. Please read [The Environmental Contaminant Theory of Obesity](/2022/03/the-environmental-contaminant-theory-of-obesity/). I think it is the most important post I've had on this blog in a long time. Part 6 of the Slime Mold Time Mold series discusses these forever chemicals as a possible explanation for the rise in obesity.
 

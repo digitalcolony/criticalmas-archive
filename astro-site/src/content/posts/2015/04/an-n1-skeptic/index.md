@@ -17,7 +17,7 @@ A lot of the n=1 movement is based on the assumption that we all are unique and 
 
 The problem with many of these n=1 tests are we don't collect enough data and the data we do collect may not be meaningful. If it is meaningful, it might only be meaningful at that time. Unlike machines, humans change. The n=1 test I did in 2012 may have zero relevance to me in 2015. And that is assuming it ever had real insight.
 
-![experiment-spreadsheet](./img/experiment-spreadsheet.gif)
+![experiment-spreadsheet](/2015/04/an-n1-skeptic/img/experiment-spreadsheet.gif)
 
 _I spent years testing and tracking my health. Most of the information collected was useless._
 

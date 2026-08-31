@@ -15,7 +15,7 @@ About a year ago, I reported that I was experimenting with the Leangains 16 hour
 
 As the days got longer and my activity increased, I backed off from the Intermittent Fasting. My intention was to return to this method and follow the protocol on a daily basis (as required) in the dead of winter. So unlike my initial review, this time I did daily 16 hour fasts and I supplemented with BCAAs prior per the _Leangains_ guide.
 
-![16 sign](./img/16-sign.jpg)
+![16 sign](/2011/03/intermittent-fasting-70-day-review-of-the-leangains-method/img/16-sign.jpg)
 
 _[Photo](https://flic.kr/p/cTPwbj) by Eva the Weaver_
 

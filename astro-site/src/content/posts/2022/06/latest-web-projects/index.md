@@ -13,7 +13,7 @@ Eventually, I'll get around to putting out some new blogs. In the meantime, here
 
 I added PaperCSS to [my portal page](https://michaelallensmith.com/). I like these style sheet libraries that can take a simple website and make it look decent with one line of code. 😍
 
-![michaelallensmith.com](./img/Screenshot-2022-06-01-at-08-23-01-Michael-Allen-Smith-From-Columbus-to-Seattle.png)
+![michaelallensmith.com](/2022/06/latest-web-projects/img/Screenshot-2022-06-01-at-08-23-01-Michael-Allen-Smith-From-Columbus-to-Seattle.png)
 
 [My GitHub profile page](https://github.com/digitalcolony) now has some bling. Using a GitHub workflow recipe, it can pull in a list of my latest blogs. ✍🏼
 

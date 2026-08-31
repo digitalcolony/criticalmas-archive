@@ -17,7 +17,7 @@ I do not like to write reviews. My experience with a coffee or coffee shop is ju
 
 Sometimes I forget how much I dislike writing opinion pieces, but as soon as I start to type the sentences don't flow. I don't even like to write book reviews. I'd prefer to pull out a few lessons from the book and extend the discussion. Reviews are important, but even the best ones have a shelf life. I've done disposable content. It isn't for me. That is one of the reasons I stopped posting about finance. The content quickly becomes stale and useless.
 
-![noise](./img/4461831240_6dde5bc829_z.jpg)
+![noise](/2014/12/disposable-content/img/4461831240_6dde5bc829_z.jpg)
 
 _[Photo](https://flic.kr/p/7Nh3YQ) by Jens Schott Knudsen_
 

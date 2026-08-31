@@ -17,7 +17,7 @@ When I dug into the slow vs normal weight lifting debate, I quickly realized tha
 
 I want to say that my research led me to the definitive answer, but it didn't. Each side has some smart people. In the end, they both agree on intensity. Translation: high-rep, low-weight training sucks. What did I do? I tried it. For a few weeks, I tried slow-motion weight training. It takes a while to learn how to generate intensity at a slow speed. I'm still learning.
 
-![](./img/6-million-dollar-man.jpg "6-million-dollar-man")
+![](/2010/02/is-slow-motion-weight-training-superior/img/6-million-dollar-man.jpg "6-million-dollar-man")
 
 What I did learn was that slow training is boring. I am not alone. That study that the slow-motion group throws around has a backstory. Even though the group had a 50% strength gain, the lead researcher discovered that only 1 out of the 147 people in the study continued training. Most felt it was _too tedious_.
 

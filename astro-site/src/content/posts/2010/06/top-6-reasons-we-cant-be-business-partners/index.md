@@ -20,7 +20,7 @@ I get asked frequently to help others on business projects. In recent years, I h
 
 One day I will figure out what a good business partner looks like. Until then, I am perfectly content doing things on my own.
 
-![respect](./img/4878819302_be3a5dd262_z.jpg)
+![respect](/2010/06/top-6-reasons-we-cant-be-business-partners/img/4878819302_be3a5dd262_z.jpg)
 
 _[Photo](https://flic.kr/p/8r8e1b) by Martin Abegglen_
 

@@ -87,7 +87,7 @@ Sadly, we can't do this in the gym. I can't make up for the fact I didn't lift w
 
 When I tried to push the workouts in my mid-30s, I frequently got injured. I tried to play catch up and my recovery rate couldn't match my motivation rate. Thankfully, I found and grasped the [concepts of HIT](/2015/06/muscle-on-weight-or-weight-on-muscle/) before I was sidelined for good.
 
-![weights-in-gym](./img/weights-in-gym.jpg)
+![weights-in-gym](/2022/11/approaching-weight-lifting-like-an-investor/img/weights-in-gym.jpg)
 
 
 ### Last Words

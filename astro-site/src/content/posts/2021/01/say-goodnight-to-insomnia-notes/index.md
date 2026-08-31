@@ -61,7 +61,7 @@ This month I had a few nights of 2, 3, 4, and even one night with absolutely no 
 
 I read the book on January 12th. For reference, my monthly average _sleep score_ has been around 80 since August. It appears that the book has made an immediate positive impact. Here are some of the ideas that helped me the most.
 
-![say goodnight to insomnia](./img/say-goodnight-to-insomnia.jpg)
+![say goodnight to insomnia](/2021/01/say-goodnight-to-insomnia-notes/img/say-goodnight-to-insomnia.jpg)
 
 
 ### Sleeping Pills are not the answers

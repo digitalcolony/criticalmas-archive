@@ -49,7 +49,7 @@ When I sold the criticalmas.com domain, the new owner decided to use 301 redirec
 
 If the 301 redirect is proper, I can either leave it alone or update it. However, if it is invalid, I then treat it like a broken link and follow the procedure outlined above in section #2.
 
-![links](./img/jj-ying-215308-links.jpg)
+![links](/2018/06/broken-link-checkers-are-an-essential-tool-for-every-blogger/img/jj-ying-215308-links.jpg)
 
 _Phot0 by [JJ Ying](https://unsplash.com/@jjying)_
 

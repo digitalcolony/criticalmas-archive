@@ -15,7 +15,7 @@ _Strength and Fitness For a Lifetime_ is a collection of older fitness enthusias
 
 I wanted to learn what enabled these lifters to survive when so many their age had given up or got sidelined with injuries. I expected that answer to be a common sense scaled back version of training that measured risk versus reward. Although there was some of that, I came away with the opinion that these athletes mostly survived through superior recovery ability.
 
-![strength-and-fitness-lifetime](./img/strength-and-fitness-lifetime.jpg) _Strength and Fitness For a Lifetime: How We Train Now by Fred Fornicola_
+![strength-and-fitness-lifetime](/2011/06/strength-and-fitness-for-a-lifetime/img/strength-and-fitness-lifetime.jpg) _Strength and Fitness For a Lifetime: How We Train Now by Fred Fornicola_
 
 Almost all the athletes profiled began training as teenagers, and a few before then. I don't know this to be a fact, but I believe that if you start weight training at a young age, you develop an ability to recover faster and that you retain that ability into your later years. So the fact you are muscular at 55 has more to do with the fact you started lifting at 13 than your 4x a week exercise program. I could be wrong, but you almost never see older guys pushing serious iron that started lifting later in life.
 

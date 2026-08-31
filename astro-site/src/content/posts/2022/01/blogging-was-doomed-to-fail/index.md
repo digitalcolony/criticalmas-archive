@@ -33,11 +33,11 @@ I feel like the link rot problem is getting worse at an accelerated pace.
 
 A few days ago, _Ted Talks_ changed the links on all their content without adding a 301 redirect. I brought this to their attention and was ignored.
 
-![](./img/ted-talks.jpg)
+![](/2022/01/blogging-was-doomed-to-fail/img/ted-talks.jpg)
 
 Remember [NuSi](https://carbsanity.blogspot.com/2018/03/the-manhattan-project-of-nutrition-that.html)? Gary Taubes and Peter Attia put together a group to study low-carb dieting. I want to link directly to the project, but I can't. They shut down the website after they completed their work.
 
-![](./img/nusi.jpg)
+![](/2022/01/blogging-was-doomed-to-fail/img/nusi.jpg)
 
 Two weeks later and the _NuSi_ site is still offline. I don't think it is returning.
 

@@ -15,4 +15,4 @@ We all have our pricing stick points. A business can increase prices to that lev
 
 When a certain Seattle coffeehouse raised its espresso price to $2.71 (post-tax), I stopped going there. The $300 I probably would have spent there was spent at cafes that kept their espresso price under $2.25 (post-tax). Fifty cents isn't a lot of money, but when you consume as much espresso as I do, it adds up. ;)
 
-![zimbabwe-coffee](./img/zimbabwe-coffee.jpg)
+![zimbabwe-coffee](/2009/09/my-last-comment-on-coffee-house-pricing/img/zimbabwe-coffee.jpg)

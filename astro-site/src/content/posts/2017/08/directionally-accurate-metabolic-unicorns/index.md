@@ -37,7 +37,7 @@ If you look at the comments on 180 Degree Health or any Ray Peat forum, you will
 
 Two more seeds of doubt were planted. First, Matt Stone never added a comment to my post to clarify any of my questions. My blog pingback shows up his site and he has commented here in the past. The second was this comment he added to his article.
 
-![matt stone comment](./img/matt-stone-comment.png)
+![matt stone comment](/2017/08/directionally-accurate-metabolic-unicorns/img/matt-stone-comment.png)
 
 I don't know his height, but someone told me 5' 9 (175 cm). That is quite heavy, especially for someone that is an expert on metabolism. And a 10-pound weight loss from 260 is a rounding error.
 

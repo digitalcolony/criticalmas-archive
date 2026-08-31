@@ -15,7 +15,7 @@ In the post [Where the Paleo Message is Failing](/2010/08/where-the-paleo-messag
 
 The hardest step for most people will be removing grains, primarily gluten. In my opinion, changing cooking oils, sourcing grass pastured meat or altering an exercise program are all irrelevant if the person still embraces grain.
 
-![pocket-quiche](./img/pocket-quiche.jpg)
+![pocket-quiche](/2011/01/slow-motion-paleo/img/pocket-quiche.jpg)
 
 _Slowly and systematically removing grains from each meal. Photo: Crust-free pocket quiche._
 

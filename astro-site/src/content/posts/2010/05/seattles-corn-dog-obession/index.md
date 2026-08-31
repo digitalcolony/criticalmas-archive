@@ -11,7 +11,7 @@ commentCount: 1
 
 Last week I spotted a sign for corn dogs. Now everywhere I look, I see them. Then Friday, I walked past this corn dog and Lenin sign in Capitol Hill. Corn dogs, really?
 
-![corn-dogs](./img/corn-dogs.jpg)
+![corn-dogs](/2010/05/seattles-corn-dog-obession/img/corn-dogs.jpg)
 
 ---
 

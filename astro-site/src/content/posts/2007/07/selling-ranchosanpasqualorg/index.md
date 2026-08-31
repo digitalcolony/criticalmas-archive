@@ -17,7 +17,7 @@ The site would be ideal for a real estate agent that really wants to be the neig
 
 What is a 3% commission on a $600,000 house sale? My calculator tells me it is $18,000. If you were an agent working this neighborhood would you pay $300 (a steal) for a web site that was #1 on all the search engines? I would, but I'm not a real estate agent.
 
-![rancho-san-pasqual](./img/rancho-san-pasqual.jpg)
+![rancho-san-pasqual](/2007/07/selling-ranchosanpasqualorg/img/rancho-san-pasqual.jpg)
 
 _An early photo of Rancho San Pasqual before the Triana section was developed._ 
 

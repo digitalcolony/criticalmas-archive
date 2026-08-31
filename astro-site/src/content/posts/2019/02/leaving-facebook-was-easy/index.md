@@ -27,7 +27,7 @@ One challenge Facebook has is the growth of the network is stalling. This means 
 
 And that might be a fair tradeoff for many. It wasn't for me. In a future post, I will give [some tips on how to make quitting Facebook easier](/2019/02/how-i-quit-facebook-tips-you-might-use/).
 
-![facebook thumbs down](./img/facebook-thumb-down.png)
+![facebook thumbs down](/2019/02/leaving-facebook-was-easy/img/facebook-thumb-down.png)
 
 ---
 

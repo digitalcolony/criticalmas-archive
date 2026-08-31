@@ -17,6 +17,6 @@ Yesterday I completed another batch of [bone stock](/2011/04/homemade-beef-broth
 
 The verdict? As _riceinmay_ stated it was not as gelatinous as the original stock. However, it did have an excellent flavor. I drank a full glass of it this morning for breakfast. No _Jamba Juice_ for me!
 
-![Remouillage](./img/Remouillage.jpg)
+![Remouillage](/2011/09/beef-stock-remouillage/img/Remouillage.jpg)
 
 _Goat Bone Stock Remouillage_

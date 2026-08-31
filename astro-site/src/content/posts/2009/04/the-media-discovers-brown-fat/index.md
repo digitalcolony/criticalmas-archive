@@ -33,7 +33,7 @@ Now that the media has discovered Brown Fat, who will join me on the project _No
 
 You may even lean out. I did.
 
-![brown-adipose-tissue](./img/brown-adipose-tissue.jpg)
+![brown-adipose-tissue](/2009/04/the-media-discovers-brown-fat/img/brown-adipose-tissue.jpg)
 
 _[Photo](https://flic.kr/p/aq4JBh) by Arne Hendriks. Shaded areas represent brown fat locations._
 

@@ -39,7 +39,7 @@ Another theme I've discussed numerous times on this blog is how poor my recovery
 
 Time for a test.
 
-![](./img/gyro-meatloaf.jpg)
+![](/2023/04/more-protein-and-the-fasting-backlash-part-2/img/gyro-meatloaf.jpg)
 
 _Back in the Paleo days, I made high-protein [meatloaf](/2012/03/the-gyro-meatloaf-recipe/) as a staple._
 

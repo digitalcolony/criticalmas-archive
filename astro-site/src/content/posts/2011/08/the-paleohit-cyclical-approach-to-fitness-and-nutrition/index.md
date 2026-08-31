@@ -17,7 +17,7 @@ My dietary tweaking over the past three years has led me to _discover_ what many
 
 Paleo man is hungry and the area he is at has no food. So he travels to a new area. No _Cliff Bar_ or smoothie. He is motivated by hunger and the reality that if he doesn't acquire food, he will die. It is OK that he doesn't have a fanny pack full of snacks. He has something better: body fat. In the absence of glucose, his insulin levels drop and his body becomes efficient at accessing stored fat. To preserve muscle, his growth hormone levels increase.
 
-![](./img/hunters2.jpg)
+![](/2011/08/the-paleohit-cyclical-approach-to-fitness-and-nutrition/img/hunters2.jpg)
 
 _Hunters by Brain Wright_
 

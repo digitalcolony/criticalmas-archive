@@ -23,6 +23,6 @@ It doesn't matter if any of those statements are true. At this point what can th
 
 I am only upfront with my reasons for canceling a service when I want to give them a chance to win me back. I go into detail on this negotiation tactic in the post [Sign of the Times - The Counter Offer](/2009/01/sign-of-the-times-the-counter-offer/) and offer specific advice on [How to Deal With Comcast](/2013/01/how-to-deal-with-comcast/).
 
-![comcast-cancel](./img/comcast-cancel.jpg)
+![comcast-cancel](/2015/02/the-easy-way-to-cancel-comcast/img/comcast-cancel.jpg)
 
 _[Photo](https://flic.kr/p/cwNY3L) by Daniel Kulinski_

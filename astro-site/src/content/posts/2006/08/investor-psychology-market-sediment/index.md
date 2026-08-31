@@ -13,7 +13,7 @@ The chart below was borrowed from _The Big Picture_ blog. This one image is more
 
 The Market Sentiment graph can be used to track investor psychology for stocks, housing or whatever is next. Twice I've been successful at selling at or near the top. My next challenge is to take advantage of buying opportunities at the bottom.
 
-[![](./img/cycle.jpg "Market Cycle")](./img/cycle.jpg)
+[![](/2006/08/investor-psychology-market-sediment/img/cycle.jpg "Market Cycle")](./img/cycle.jpg)
 
 I see the stock market as currently in the anxiety phase and San Diego real estate in the denial phase. I've adjusted my investment portfolio accordingly. See ya at the bottom.
 

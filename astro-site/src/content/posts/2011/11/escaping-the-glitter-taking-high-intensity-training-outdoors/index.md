@@ -27,7 +27,7 @@ Back then my workout was:
 
 I now view that workout as focusing too much on volume and too little on intensity. After a few weeks, I felt like I needed to lift something heavy, so I returned to the Glitter Gym. In order to make my return to outdoor training successful, I'd need to figure out a way to increase intensity safely in a body-weight environment.
 
-![Green Lake Pull Up Rings](./img/green-lake-pull-up.jpg "Green Lake Pull Up Rings")
+![Green Lake Pull Up Rings](/2011/11/escaping-the-glitter-taking-high-intensity-training-outdoors/img/green-lake-pull-up.jpg "Green Lake Pull Up Rings")
 
 _My new gym_
 

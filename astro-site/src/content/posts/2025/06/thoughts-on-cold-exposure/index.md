@@ -74,7 +74,7 @@ Fasting taught me to be okay with hunger, and a few years ago, when our water he
 
 Although I'm unsure how this could be tested, having a resilient mindset, I'm certain, would provide a longevity benefit.
 
-![](./img/cold-man-rick-morty-683x1024.png)
+![](/2025/06/thoughts-on-cold-exposure/img/cold-man-rick-morty-683x1024.png)
 
 
 ### Your Thoughts

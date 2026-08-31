@@ -33,7 +33,7 @@ This is probably a case where success in a given sport dictates the body type, b
 
 Your thoughts? Am I still in a Twin Peaks dream state or if there merit to this Woo-Woo fitness idea?
 
-![Twin Peaks](./img/stephen-walker-twin-peaks.jpg)
+![Twin Peaks](/2017/11/woo-woo-fitness-idea/img/stephen-walker-twin-peaks.jpg)
 
 _Photo by [Stephan Walker](https://unsplash.com/@stephenwalker)_
 

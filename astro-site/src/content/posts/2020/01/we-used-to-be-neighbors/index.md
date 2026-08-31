@@ -23,7 +23,7 @@ Maybe next year, I'll plug my headphones in and knock out a Duolingo lesson or t
 
 The digital world won.
 
-![phone zombies](./img/phone-zombies650.jpg)
+![phone zombies](/2020/01/we-used-to-be-neighbors/img/phone-zombies650.jpg)
 
 _Photo by Jens Johnsson_
 

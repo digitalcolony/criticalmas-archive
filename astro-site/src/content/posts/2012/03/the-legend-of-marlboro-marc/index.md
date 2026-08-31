@@ -17,7 +17,7 @@ The year was 1995 and I was living in St. Petersburg, Florida. I met my roommate
 
 Like me, Marc was also a runner. In college, he quit smoking and ran a marathon. What I didn't realize by the time he arrived in Florida was that he had started smoking again. He was cool about it and only smoked outside. In fact, he was probably the best roommate I've ever had. The apartment was usually spotless.
 
-![](./img/marc.jpg)
+![](/2012/03/the-legend-of-marlboro-marc/img/marc.jpg)
 
 Anyway, I moved to Florida so I could make the transition from [marathon running to triathlons](/2008/03/the-runner-1989-1995/). The topic of running or biking was often discussed. Marc was also interested and took up running again, but he didn't stop smoking. Despite conventional wisdom, he was discovering that he could do both. Every week he would run more, but he was still a smoker.
 

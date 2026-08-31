@@ -13,7 +13,7 @@ In the [last installment](/2012/10/hunting-headaches-progress/) of Hunting Heada
 
 During the month I went without coffee, my headache intensity dropped again to just 0.58. Even though my [sleep quality was actually worse](/2012/10/odd-caffeine-free-side-effect/), it was my best month ever. To the data!
 
-![](./img/ha-chart.png "Headache Chart")
+![](/2012/11/hunting-headaches-a-favorable-trend/img/ha-chart.png "Headache Chart")
 
 _Headache Intensity is measured from 0 to 5._
 

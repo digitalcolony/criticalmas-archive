@@ -19,7 +19,7 @@ First I need to cover what is NOT email.
 4.  **Texting is NOT Email** - I understand location-based texts. I don't understand texts that are not important or can be handled via email. Every time I receive a Text message, AT&T dings me for 20 cents. Then I get to pay another 20 cents to respond to your nonsense? You just cost me 2 bananas at the grocery store. If isn't location-based or an emergency, send me an email. Or here is a radical idea - call me!
 5.  **IM is NOT Email** - I know I'm wrong on this one, so I'm not going to defend my position that IM is brain rot. Everyone else is right and I'm too slow and dumb to get it. And _Good Will Hunting_ was a good movie with a realistic plot and dialog. Right.
 
-![email](./img/15197804185_d4a1f3d9b3_z.jpg)
+![email](/2009/05/the-email-rant/img/15197804185_d4a1f3d9b3_z.jpg)
 
 _Photo by Maria Elena_
 

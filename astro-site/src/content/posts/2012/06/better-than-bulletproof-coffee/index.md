@@ -41,7 +41,7 @@ A better method for locating the highest quality coffee would be to discover who
 
 There are many ways to roast coffee at home. INeedCoffee has entire section of [home roasting coffee tutorials](https://ineedcoffee.com/section/roasting-coffee/). It is a super easy and very rewarding hobby. And because your buying green coffee, you'll [save a lot of money](https://ineedcoffee.com/the-quick-economics-of-home-roasting-coffee/). Like I said earlier, the beans I buy from _Sweet Maria's_ are some of the same crops the best roasters on West Coast are bidding for. On the Sweet Maria's website, you can see the processing method used for each offering. To be Bulletproof compliant source the Wet Processed coffee. Each coffee is cupped by professionals before it is offered for sale. They taste for defects and only buy the best.
 
-![](./img/wet-process.png "Wet process")
+![](/2012/06/better-than-bulletproof-coffee/img/wet-process.png "Wet process")
 
 _Screenshot from Sweet Maria's website showing you how a coffee was processed._
 

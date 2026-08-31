@@ -15,7 +15,7 @@ I did some digging and discovered that the Costco version of the _MaraNatha Crea
 
 The glass jar version had 23 servings at 190 calories. This plastic jar version has 23 servings at 180 calories. Same price, less product.
 
-![almond-butter](./img/almond-butter.jpg)
+![almond-butter](/2011/06/someone-has-been-messing-with-my-almond-butter/img/almond-butter.jpg)
 
 _The glass jar version. Happier times._
 
@@ -31,7 +31,7 @@ That didn't sound right to me, since when I wrote my original almond butter post
 
 If _MarthaNatha_ is claiming that the recipe for this product has not changed, then they are being dishonest. They thinned the product BEFORE they made the switch to plastic jars, but they did in fact thin their product. Look at the photo below.
 
-![almond-butter-label](./img/almond-butter-label.jpg)
+![almond-butter-label](/2011/06/someone-has-been-messing-with-my-almond-butter/img/almond-butter-label.jpg)
 
 Costco is not the guilty party. _MaraNatha_ is to blame.
 

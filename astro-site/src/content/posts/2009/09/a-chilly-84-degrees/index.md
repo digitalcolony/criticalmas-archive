@@ -15,7 +15,7 @@ With that disclaimer out the way, I have to tell you about a trend I've noticed 
 
 The photo below was the best. I smudged his face to protect his privacy.
 
-![84-degrees](./img/84-degrees.jpg "84-degrees")
+![84-degrees](/2009/09/a-chilly-84-degrees/img/84-degrees.jpg "84-degrees")
 
 This guy is wearing a coat, which is covering a sweater, which is covering a collared shirt, which is likely covering an under shirt. Again, it was 84 degrees in downtown Seattle. There was no breeze. He wasn't alone. Every block I walked there was someone else wearing coats and layers. Some were tourists, some were clearly office workers. Why are people so cold these days?
 

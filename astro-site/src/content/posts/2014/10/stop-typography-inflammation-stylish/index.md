@@ -41,7 +41,7 @@ If you have Chrome or Firefox, install the Stylish browser add-on. If you are st
 
 Use the Readability plugin if you don't need comments. But if you do, press the Stylish button on your browser and select "Find more styles for this site".
 
-![stylish](./img/stylish.png)
+![stylish](/2014/10/stop-typography-inflammation-stylish/img/stylish.png)
 
 If a good one exists, use it. Problem solved.
 
@@ -49,11 +49,11 @@ For this example, I will be tackling the site _ChefSteps_. There are worse offen
 
 The one I created for this example is called Chef Steps - Darker. Below you see the before and after screenshots.
 
-![chef-before](./img/chef-before.jpg)
+![chef-before](/2014/10/stop-typography-inflammation-stylish/img/chef-before.jpg)
 
 _Not as bad as Meetup, but when you are reading long amounts of text for comprehension, it is nice to bump up the size and darken._ 
 
-![chef-after](./img/chef-after.jpg)
+![chef-after](/2014/10/stop-typography-inflammation-stylish/img/chef-after.jpg)
 
 _Much better._
 

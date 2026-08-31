@@ -13,9 +13,9 @@ In the comments of the post [Celery Resurrection](/2012/09/celery-resurrection/)
 
 I prefer the taste of fresh celery. If I ferment celery again, I'll add some other vegetables.
 
-![salt-celery](./img/salt-celery.jpg)
+![salt-celery](/2013/04/fermented-celery/img/salt-celery.jpg)
 
-![celery-ferment](./img/celery-ferment.jpg)
+![celery-ferment](/2013/04/fermented-celery/img/celery-ferment.jpg)
 
 ---
 

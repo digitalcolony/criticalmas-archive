@@ -13,7 +13,7 @@ When it comes to coffee, my favorite drink for years has been espresso. No milk,
 
 My love for espresso has helped me really appreciate High Intensity Training. **Less can be absolutely be more.** Going to the gym every 5th day and engaging in an all-out brutally tough, albeit safe workout, is now yielding me greater results than I was getting with High Volume training. When my daily coffee drink switched from [french press](https://ineedcoffee.com/press-pot-tutorial/) to [espresso](https://ineedcoffee.com/espresso-as-a-lottery-ticket/), my caffeine intake dropped and my appreciation for the beverage increased. I began sleeping better, even though my flavor stimulus was greater.
 
-![espresso](./img/espresso.jpg)
+![espresso](/2011/06/high-intensity-exercise-is-the-espresso-of-weight-training/img/espresso.jpg)
 
 In the book [The New High Intensity Training](/2011/05/the-new-high-intensity-training/), author Ellington Darden states that HIT training has lost popularity in the past 25 years. I believe it. As far as I can see, I am the only person at my [Glitter Gym](/tag/glitter-gym/) doing HIT. In fact, I can't recall a single person doing HIT at any of my previous gyms. That isn't concerning to me, since I look for results and am uninterested in what is popular at the moment.
 

@@ -51,11 +51,11 @@ The approach to spices came from _5 Spices, 50 Dishes_. My selection of spices w
 10.  Turn crock pot on high for 30 minutes and then drop to low for 3-4 hours. Or just keep it on low for 4-4.5 hours.
 11.  Serve.
 
-![vindaloo-mix](./img/vindaloo-mix.jpg)
+![vindaloo-mix](/2012/05/pork-vindaloo-in-the-slow-cooker/img/vindaloo-mix.jpg)
 
 _Step #6 - Make a paste with the ground spices and chopped tomato._ 
 
-![vindaloo](./img/vindaloo.jpg)
+![vindaloo](/2012/05/pork-vindaloo-in-the-slow-cooker/img/vindaloo.jpg)
 
 _Serving the Vindaloo._ 
 

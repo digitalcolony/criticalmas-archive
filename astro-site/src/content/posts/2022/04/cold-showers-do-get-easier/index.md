@@ -31,6 +31,6 @@ Life will throw us stressors. It could be a heart attack or a stroke. Many of th
 
 Life is too easy today. You can live in a perfectly temperature-controlled environment, never [miss a meal](/tag/intermittent-fasting/), or have to exert yourself physically. If you can't handle safe stressors when you are strong, how will you handle more dangerous stressors when you aren't?
 
-![cold mornings in September](./img/cold-mornings-in-september.jpg)
+![cold mornings in September](/2022/04/cold-showers-do-get-easier/img/cold-mornings-in-september.jpg)
 
 _Cold mornings in September by Udo Keppler_

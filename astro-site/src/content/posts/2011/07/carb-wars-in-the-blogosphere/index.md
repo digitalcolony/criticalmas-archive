@@ -13,7 +13,7 @@ I read a lot of nutritional blogs and it seems a growing topic is the disagreeme
 
 Nutrition in many ways is no different than finance. You turn on CNBC and you see 2 (or 10) _experts_ armed with data vehemently disagreeing with each other. I see the same thing happening across the Paleo blogosphere. Both sides of the carb wars are trying to recruit Paleo bloggers to their side. At first the Paleo bloggers were lining up strongly in the low-carb camp, but now it appears to be evening out.
 
-![CNBC 10 ](./img/cnbc-10-heads.jpg "CNBC 10")
+![CNBC 10 ](/2011/07/carb-wars-in-the-blogosphere/img/cnbc-10-heads.jpg "CNBC 10")
 
 _This CNBC Blah-Blah-Blah session reminds me of the Carb Wars._
 

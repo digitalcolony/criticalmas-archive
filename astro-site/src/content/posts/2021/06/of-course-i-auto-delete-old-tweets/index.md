@@ -13,7 +13,7 @@ My personal Twitter account @CriticalMAS does not have any tweets older than 60 
 
 99% of the people looking at old tweets will not have your best interest. They are either bots trying to scrape data to build a model to sell you directly or sell the models to others who will then try to sell you some goods or services. Or worse, they are trying to find a way to cancel you for something you may have tweeted that may or may not have been acceptable in the past, but now isn't.
 
-![twitter bad](./img/jeremy-zero-5Veao7M_YC8-unsplash.jpg)
+![twitter bad](/2021/06/of-course-i-auto-delete-old-tweets/img/jeremy-zero-5Veao7M_YC8-unsplash.jpg)
 
 _Photo by_ _Jeremy Zero_
 

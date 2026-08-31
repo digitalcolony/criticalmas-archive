@@ -11,7 +11,7 @@ commentCount: 2
 
 It has been almost two years since I last made [pemmican](/2011/12/my-first-pemmican/). Today I made another batch, only this time I used some Cajun spices. It was a last minutes decision to throw in the Cajun spices. I knew that I didn't want to use the Montreal Steak blend, so I reached for the Cajun blend. I found that Cajun spices rock on popcorn, so why not try it on pemmican?
 
-![cajun-spice](./img/cajun-spice.jpg)
+![cajun-spice](/2013/09/cajun-pemmican/img/cajun-spice.jpg)
 
 The taste was not bad. Somewhere between OK and good. Better than my earlier attempts. I'll call it a victory. The Cajun magic worked. For this trial pemmican I used the following:
 
@@ -21,7 +21,7 @@ The taste was not bad. Somewhere between OK and good. Better than my earlier att
 
 Mix everything together and then mold into meatballs.
 
-![pemmican](./img/pemmican.jpg)
+![pemmican](/2013/09/cajun-pemmican/img/pemmican.jpg)
 
 Each pemmican ball is about 20 grams. If I did my math correctly that works out to just under 100 calories for each one. 9 grams of fat and 3 grams of protein.
 

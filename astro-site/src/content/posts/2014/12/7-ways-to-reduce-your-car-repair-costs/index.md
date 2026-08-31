@@ -21,7 +21,7 @@ I did an entire post on this. See [Car Repair Spreadsheet – Why Didn’t I Thi
 
 Having a folder stuffed full of maintenance records is useless to you when a mechanic is on the phone asking if it is OK to proceed on the XYZ repair. You want to quickly scan a spreadsheet to see if that repair was already done or something similar. Also mechanics often tackle the symptoms and not the underlying cause. Being able to quickly share a spreadsheet with everything ever done to your car can help them diagnose better. Doctors request full medical records to help. Show the same care with your auto.
 
-![tdi-ss](./img/tdi-ss.png)
+![tdi-ss](/2014/12/7-ways-to-reduce-your-car-repair-costs/img/tdi-ss.png)
 
 Periodically review your spreadsheet. You can even add a tab for scheduled maintenance.
 
@@ -33,7 +33,7 @@ You can go to Amazon right now and purchase the Haynes Repair Manual for your ca
 
 The other reason you want the Haynes Manual is to help formulate questions. When the shop calls you up with their diagnosis, jot down a few notes and then tell them you will call them back in 15-30 minutes. That is enough time to read those pages and do a few searches online. You'll be able to ask better questions. The Haynes Manual helps you learn more about your car. You'll be aware of symptoms sooner and be able to address them before they become more expensive problems.
 
-![haynes-manual-vw](./img/haynes-manual-vw.jpg) _VW Golf, GTI, Jetta and Cabrio, 1999 Thru 2002, Gasoline and diesel engines (Haynes Repair Manuals) by Jay Storer_
+![haynes-manual-vw](/2014/12/7-ways-to-reduce-your-car-repair-costs/img/haynes-manual-vw.jpg) _VW Golf, GTI, Jetta and Cabrio, 1999 Thru 2002, Gasoline and diesel engines (Haynes Repair Manuals) by Jay Storer_
 
 
 ### #3 Use the Word "Curious"

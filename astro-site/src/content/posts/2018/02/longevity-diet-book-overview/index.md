@@ -13,7 +13,7 @@ In December I posted [Fasting Mimicking Diet Overview](/2017/12/fasting-mimicki
 
 I really loved the interview and because I had a deep interest in this topic and wanted to learn more, I read his recently published book _The Longevity Diet_.
 
-![](./img/the-longevity-diet.jpg)
+![](/2018/02/longevity-diet-book-overview/img/the-longevity-diet.jpg)
 
 _The Longevity Diet: Discover the New Science Behind Stem Cell Activation and Regeneration to SlowAging, Fight Disease, and Optimize Weight_
 

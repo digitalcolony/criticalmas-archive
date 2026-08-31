@@ -13,7 +13,7 @@ Until last week, I thought I understood Vitamin D. Then I attended a presentatio
 
 If you go to Amazon and click the _Look Inside_ link, you can see the level of detail on the different molecular formations of Vitamin D. See the screen capture below.
 
-![](./img/vitamin-d.png "vitamin-d")
+![](/2011/04/think-you-know-vitamin-d/img/vitamin-d.png "vitamin-d")
 
 _From The Vitamin D Handbook by G. W. A. Milne, M. Delander_
 

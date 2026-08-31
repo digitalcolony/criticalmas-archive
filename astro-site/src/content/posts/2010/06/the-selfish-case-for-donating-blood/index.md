@@ -19,7 +19,7 @@ _Yahoo! has taken down the article, I'm glad I got the quote._ 
 
 After learning about this, I raced out to donate blood. However, for the first time, my blood was rejected. It turns out that my visit to [Cambodia](/2009/12/a-holiday-in-cambodia/) last winter means my blood is at risk for malaria for up to 12 months. Come December, I intend to get back into the habit of donating blood regularly. Either that or I'll take a trip to another country with a high risk of malaria. ;)
 
-![blood donor](./img/2562431372_90e471dfe4_z.jpg)
+![blood donor](/2010/06/the-selfish-case-for-donating-blood/img/2562431372_90e471dfe4_z.jpg)
 
 _[Photo](https://flic.kr/p/4Ur8zf) by makelessnoise_
 

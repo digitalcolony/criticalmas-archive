@@ -25,7 +25,7 @@ For this example, I will use this Saturday's Ohio State vs Iowa game.
 
 [Yahoo! Sports Odds](http://rivals.yahoo.com/ncaa/football/odds) shows that #8 Ohio State is favored by 3 points against #21 Iowa.
 
-![](./img/college-football-odds.png "college-football-odds")
+![](/2010/11/my-one-and-only-post-on-sports-betting/img/college-football-odds.png "college-football-odds")
 
 
 ### Check With Sagarin
@@ -33,7 +33,7 @@ For this example, I will use this Saturday's Ohio State vs Iowa game.
 
 Go to [Jeff Sagarin computer ratings page on USAToday.com](http://www.usatoday.com/sports/ncaaf/sagarin/) and select the College Football NCAA rating by team for the current season. Now you need 3 numbers: Home team rating, visitor rating and the home field advantage number.
 
-![](./img/sagarin.png "sagarin")
+![](/2010/11/my-one-and-only-post-on-sports-betting/img/sagarin.png "sagarin")
 
 Now add it up to see the what the computer ratings model believes the line should be.
 

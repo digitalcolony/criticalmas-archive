@@ -11,7 +11,7 @@ commentCount: 0
 
 Dear Arnold, Once again I must remind you that I've moved to Washington. I'm not paying to have Silver Surfer registered another year in the Peoples Republic of California. I've signed two documents already stating as such. I thought this issue was closed [back in October](/2007/10/california-uber-alles-dmv-edition/).
 
-[![](./img/total-recall.jpg "total-recall")](./img/total-recall.jpg)
+[![](/2008/01/release-me-california/img/total-recall.jpg "total-recall")](./img/total-recall.jpg)
 
 Unfortunately I received yet another nasty letter from one of your henchmen at the DMV. Even though you clearly know I live in Bellevue, Washington, I'll sign this one as well. I'll foot the bill for yet another stamp. But it ends here. All future letters from the California DMV will be sent to the trash.
 

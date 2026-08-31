@@ -45,7 +45,7 @@ Now I was motivated to solve the gyro riddle. That is when I got the idea to rep
 3.  Make meatballs
 4.  Bake for 20 minutes
 
-![gyro-meatballs](./img/gyro-meatballs.jpg)
+![gyro-meatballs](/2012/02/my-gyro-obsession-and-the-meatball-solution/img/gyro-meatballs.jpg)
 
 
 #### Quick notes

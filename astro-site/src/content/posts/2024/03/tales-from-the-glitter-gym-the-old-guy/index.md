@@ -25,7 +25,7 @@ If you haven't guessed it yet. I am the old guy. I survived. I traded bro-liftin
 
 I wonder where they went.
 
-![](./img/dumbbells.jpg)
+![](/2024/03/tales-from-the-glitter-gym-the-old-guy/img/dumbbells.jpg)
 
 ---
 

@@ -13,7 +13,7 @@ The fever is long gone, no other cold symptoms remain, except this lingering cou
 
 I have zero plans to visit a doctor (or explain why), however I am open to any suggestions. Other than more sleep, do you have any ideas for home remedies that I can try? This year is off to a VERY SLOW start.
 
-![cough](./img/14925857575_ac799f5b5a_z.jpg)
+![cough](/2015/01/will-cough-ever-end/img/14925857575_ac799f5b5a_z.jpg)
 
 _[Photo](http://www.sfmta.com/getting-around/parking/holiday-enforcement) by Paul Townsend_
 

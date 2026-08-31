@@ -48,7 +48,7 @@ One reason I believe there is so much hostility to HIT is that a traditional lif
 
 If you use machines correctly, you can control momentum and target the negative portion of the lift. Two things that you can't do safely with a classic barbell back squat. Based on the comments in this interview, Dorian chose the machines not because they were the [safer option](/2012/06/lower-risk-alternatives-to-the-barbell-back-squat/), but because they were more effective for him. And his results speak volumes. From 1992-1997, the top physique in the world didn't back squat.
 
-![Dorian Yates](./img/DorianYates1.jpg)
+![Dorian Yates](/2013/12/dorian-yates-squatting/img/DorianYates1.jpg)
 
 _Do you even squat bro?_
 

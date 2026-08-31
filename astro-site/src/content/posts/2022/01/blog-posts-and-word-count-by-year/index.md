@@ -5,13 +5,13 @@ modifiedDate: 2022-01-17T01:58:08.000Z
 author: "MAS"
 categories: ["Web"]
 tags: ["blogging", "data"]
-description: "I wrote a SQL query to see how many blog posts I published by year - excluding the current year. ![](./img/blog-post-count2-e1642285973450.gif) \\ Seven years ago, I removed around 750 blog posts that..."
+description: "I wrote a SQL query to see how many blog posts I published by year - excluding the current year. ![](/2022/01/blog-posts-and-word-count-by-year/img/blog-post-count2-e1642285973450.gif) \\ Seven years ago, I removed around 750 blog posts that..."
 commentCount: 2
 ---
 
 I wrote a SQL query to see how many blog posts I published by year - excluding the current year.
 
-![](./img/blog-post-count2-e1642285973450.gif)
+![](/2022/01/blog-posts-and-word-count-by-year/img/blog-post-count2-e1642285973450.gif)
 
 _\* Seven years ago, I [removed around 750 blog posts](/2015/02/my-definition-of-a-good-blog/) that I thought sucked. Mostly from the 2005-2008 era_.
 
@@ -19,7 +19,7 @@ Here is the SQL query, should you want to collect the same data for your WordPre
 
 `SELECT YEAR(post_date), COUNT(*)` `FROM wp_posts` `WHERE post_status = 'publish'` `AND``post_type = 'post'` `GROUP BY YEAR(post_date)` `ORDER BY YEAR(post_date);`
 
-![](./img/blog-words-count-e1642290765571.gif)
+![](/2022/01/blog-posts-and-word-count-by-year/img/blog-words-count-e1642290765571.gif)
 
 This is the SQL query for the total word count by year.
 

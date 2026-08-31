@@ -15,4 +15,4 @@ How many times have I moved in the last 20 years? Let us count.
 
 My address total is 18 over the last 20 years. Although I'm fortunate to have lived in the Mid-West, Mid-Atlantic, South Florida, Southern California and the Pacific Northwest, it would be nice to establish roots someday.
 
-![seattle-downtown](./img/seattle-downtown.jpg)
+![seattle-downtown](/2008/06/moving-scorecard/img/seattle-downtown.jpg)

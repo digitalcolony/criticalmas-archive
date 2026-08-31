@@ -20,7 +20,7 @@ The Peasant Diet was a great tool to get to that point, but as I recovered from 
 
 So starting in July, I began increasing protein and scaling back on potatoes. It is working. I'm down to 192 and look great. I know winter is coming, but I think I'm ready for it, just like I was last year. The skills I learned from the Peasant Diet easily apply to the higher-protein version (Bodybuilder).
 
-![Seattle fall](./img/seattle-fall-1.jpg)
+![Seattle fall](/2018/09/less-peasant-more-bodybuilder/img/seattle-fall-1.jpg)
 
 _Seattle fall photo I took years ago._
 

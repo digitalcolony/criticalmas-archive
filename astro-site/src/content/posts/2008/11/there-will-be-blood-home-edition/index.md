@@ -11,7 +11,7 @@ commentCount: 4
 
 When I was young I read a profile on Ted Turner. Sure he was a self-made multi-millionaire that founded CNN and owned a baseball team. However, the thing I recall the most about Ted Turner was that despite all his millions, he cut his own hair. Now I was just a kid when I read this story, but I filed away that tidbit as important information.
 
-![](./img/turner-hair.jpg "turner-hair")
+![](/2008/11/there-will-be-blood-home-edition/img/turner-hair.jpg "turner-hair")
 
 I really don't like getting haircuts. I don't like waiting and most places over charge. The great thing about living in San Diego was it was a military town, so you had military barbers. Cheap and fast. The closest thing Seattle has to the military is the Girl Scouts. This means no military barber.
 

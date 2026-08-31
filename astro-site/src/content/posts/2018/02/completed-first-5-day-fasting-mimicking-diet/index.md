@@ -40,7 +40,7 @@ At the very end of Days 3, 4, and 5, I had a bowl of boiled potatoes with a pad 
 
 I could have probably continued the pure fast for the 2nd half of the FMD, but I wanted to experience a few days of eating very low protein. During the pure fast, I got SUPER COLD. However, it just so happened that Seattle experienced a sharp drop in temperature at the same time. This is why I originally planned to start my first FMD in the spring. Cold and windy weather sucks for fasting.
 
-![](./img/ezra-jeffrey-cold.jpg)
+![](/2018/02/completed-first-5-day-fasting-mimicking-diet/img/ezra-jeffrey-cold.jpg)
 
 _[Photo](https://unsplash.com/@emcomeau) by Ezra Jeffrey. Did I mention how cold I felt?_
 

@@ -19,7 +19,7 @@ In this episode, Homer finds himself in horrible physical shape. Before starting
 
 Maybe Homer would have been in better shape had he also added MCT Oil?
 
-![Homer Simpson Bulletproof Coffee](./img/simpsons-2.jpg)
+![Homer Simpson Bulletproof Coffee](/2014/03/homer-simpson-invented-bulletproof-coffee-1998/img/simpsons-2.jpg)
 
 ---
 

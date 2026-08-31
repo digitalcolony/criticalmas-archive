@@ -22,7 +22,7 @@ A little game I have been playing to accelerate my decision-making process is t
 
 And in the event, a low-carb zealot is reading this post and ketogenic smoke is coming out of their ears, I've copied this chart from [Carbohydrate, Sugar, and Obesity in America](http://wholehealthsource.blogspot.com/2015/11/carbohydrate-sugar-and-obesity-in.html) on Whole Health Source.
 
-![Obesity vs Sugar](./img/obesity-sugar-chart650.jpg)
+![Obesity vs Sugar](/2017/12/oh-noozs-da-evil-sugar-lobby/img/obesity-sugar-chart650.jpg)
 
 Sugar consumption has dropped significantly since 1999 yet obesity continued to rise. Oh nooz, I guess Big Sugar isn't to blame for that extra weight we as a nation have gained since the start of the 21st century.
 

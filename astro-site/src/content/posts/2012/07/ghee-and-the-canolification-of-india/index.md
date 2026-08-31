@@ -15,9 +15,9 @@ My Indian cooking project is still going strong. Yesterday I decided to make my 
 2.  Take off as much foam as you can.
 3.  Filter the rest through cheesecloth. Done!
 
-![heating-butter](./img/heating-butter.jpg)
+![heating-butter](/2012/07/ghee-and-the-canolification-of-india/img/heating-butter.jpg)
 
-![ghee](./img/ghee.jpg)
+![ghee](/2012/07/ghee-and-the-canolification-of-india/img/ghee.jpg)
 
 _Isn't it pretty?_
 

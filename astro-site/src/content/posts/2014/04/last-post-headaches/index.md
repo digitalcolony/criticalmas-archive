@@ -29,7 +29,7 @@ In _Scattered_ there is a passage describing how we perceive pain varies dependi
 
 Although my headaches were never an emergency situation, the passage stuck with me. This blog and the data I exposed publicly via Quantified Self created a situation where I was never alone with my pain. Daily quantification of pain makes one hyper-focused on pain. Only when I stopped Quantified Self, stopped blogging about headaches, and stopped talking about headaches did the pain go away.
 
-![otter](./img/otter.jpg)
+![otter](/2014/04/last-post-headaches/img/otter.jpg)
 
 _Chilling_
 

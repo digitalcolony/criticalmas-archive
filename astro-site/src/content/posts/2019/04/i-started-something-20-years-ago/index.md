@@ -11,7 +11,7 @@ commentCount: 2
 
 Today my coffee website [INeedCoffee.com](https://ineedcoffee.com/) turns [20 years old](https://ineedcoffee.com/20-years-of-ineedcoffee/).
 
-![ineedcoffee 20 comic](./img/ineedcoffee-20-comic.jpg)
+![ineedcoffee 20 comic](/2019/04/i-started-something-20-years-ago/img/ineedcoffee-20-comic.jpg)
 
 I don't know of another active independent coffee blog on the Internet that has lasted as long. There are two in Canada that are older, but neither are active (CoffeeKid and the other I forgot).
 

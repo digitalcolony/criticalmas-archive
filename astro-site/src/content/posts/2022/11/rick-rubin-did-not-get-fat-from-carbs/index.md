@@ -25,7 +25,7 @@ Almond butter is a calorie-dense food that is almost pure fat. Not carbs. He nev
 
 I did a post in 2011 on the brand Costco sold. From the post, [Someone Has Been Messing With My Almond Butter](/2011/06/someone-has-been-messing-with-my-almond-butter/), a jar of almond butter had between 4,140 and 4,370 calories. Rick was consuming about 3,000 calories a day just from almond butter. Yet, carbs made him fat? Nope.
 
-![](./img/almond-butter.jpg)
+![](/2022/11/rick-rubin-did-not-get-fat-from-carbs/img/almond-butter.jpg)
 
 Almond butter is very easy to overconsume. I know from personal experience. In 2012, I performed a [food reward test between almond butter vs almonds](/2012/04/food-reward-test-almonds-vs-almond-butter/). I did 3 weeks on each and ate to satiety when snacking. Here was the calorie score:
 

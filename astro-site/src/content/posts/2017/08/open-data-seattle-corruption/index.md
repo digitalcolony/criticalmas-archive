@@ -17,7 +17,7 @@ It didn't take me long to come up with my idea for improving my city of Seattle.
 
 I felt I could help with the parking problem.
 
-![](./img/capitol-hill-seattle-parking.jpg)
+![](/2017/08/open-data-seattle-corruption/img/capitol-hill-seattle-parking.jpg)
 
 _I took this photo on a sunny day. As tough as it is to read now, imagine trying to read it at night or when it is raining from your car driving by slowly. Welcome to Seattle._ 
 
@@ -31,7 +31,7 @@ During the Obama presidency, there was a big push for Open Data. From [Data.gov]
 
 The Open Data initiative wasn't just for the Federal Government, but for all levels of government. States, counties, and cities. There are thousands of databases that are made available to the public. 911 calls to restaurant permits to almost anything you can think of that is related to government. Even volcano vents.
 
-![](./img/obama-open-data-quote.jpg)
+![](/2017/08/open-data-seattle-corruption/img/obama-open-data-quote.jpg)
 
 
 ### My Idea to Make Seattle Better
@@ -49,7 +49,7 @@ The City of Seattle has numerous databases available to the public, but the full
 
 At first, it appeared my nomination would be approved. There was a small discussion thread between a few city officials.
 
-![](./img/parking-series.png)
+![](/2017/08/open-data-seattle-corruption/img/parking-series.png)
 
 Then nothing. Months went by. A year. Other developers voted up my nomination. I sent a reminder to push the nomination back to the top of the queue. Nothing.
 
@@ -71,7 +71,7 @@ Why would Seattle want to hide their Parking Citations database? What is in that
 
 On June 28, 2016, I received an email from the city saying my nomination for Open Data had been Rejected. There was no explanation.
 
-![](./img/parking-rejected.png)
+![](/2017/08/open-data-seattle-corruption/img/parking-rejected.png)
 
 When I went to the website later to gather more information, I discovered that the city deleted my nomination. Like it never happened. So I went back to my phone, which had a cached version of the site taken immediately after the rejection and right before the removal to take the screenshots you see in this post.
 
@@ -79,7 +79,7 @@ If you go into the nominate section of Seattle's Open Data site you will see sev
 
 Until someone can convince me otherwise, I believe the City of Seattle is knowingly hiding data they don't want the public to see. Why else would they delete my nomination? My nomination was considered and commented on when I first submitted it. Now it is gone.
 
-![](./img/deleted-parking.png)
+![](/2017/08/open-data-seattle-corruption/img/deleted-parking.png)
 
 
 ### No One Cares

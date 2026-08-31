@@ -32,7 +32,7 @@ Of course. When people that have been obese develop chronic health conditions su
 
 Those deaths are then not counted against the high BMI group. Not only did the high BMI group purge many of the sickest from their numbers, but those individuals got added to the low BMI group.
 
-![](./img/heavy-woman.jpg)
+![](/2023/06/what-obesity-paradox/img/heavy-woman.jpg)
 
 _image created with stable-diffusion XL_
 

@@ -55,7 +55,7 @@ As for weight, I've never been leaner in my adult life. It feels easy to be this
 
 There are longevity concerns. Am I running the flame too hot? Does a higher metabolism result in a reduced life expectancy? That is a debate that longevity experts are having now. I can see both sides of the debate. I'm partial to the argument that although higher temperatures could reduce longevity, if I'm able to stay leaner and fight off infections better, then that should provide at least an increased health span if not a longer life.
 
-Overall, I will say I feel better when warmer. It is a minor effect, and I have changed a lot of variables over the years, so it may be hard to parse out if it was the increased body temperature or cold exposure, or both. One interesting tidbit is that I engaged in a few years of cold exposure prior to seeing any increase in body temperature. That suggests that PUFA restriction was the main driver of increased body temp. ![thermometer](./img/matteo-fusco-4zvnt60-pak-unsplash.jpg)
+Overall, I will say I feel better when warmer. It is a minor effect, and I have changed a lot of variables over the years, so it may be hard to parse out if it was the increased body temperature or cold exposure, or both. One interesting tidbit is that I engaged in a few years of cold exposure prior to seeing any increase in body temperature. That suggests that PUFA restriction was the main driver of increased body temp. ![thermometer](/2022/09/the-benefits-of-a-higher-body-temperature/img/matteo-fusco-4zvnt60-pak-unsplash.jpg)
 
 _Photo by [Matteo Fusco](https://unsplash.com/@matteofusco?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 

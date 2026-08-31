@@ -21,7 +21,7 @@ I see higher than normal consumption of these foods as a means to an end. They a
 
 The potato has the highest satiety of any food. I consume 12-15 pounds of cold boiled potatoes with salt every week. This graphic from _Precision Nutrition_ visually explains the case.
 
-![bulkydiet](./img/bulkydiet.jpg)
+![bulkydiet](/2017/08/5-foods-key-fat-loss/img/bulkydiet.jpg)
 
 _From the article [Here’s why you’re always hungry](https://www.precisionnutrition.com/all-about-dietary-displacement)._
 
@@ -61,7 +61,7 @@ The problem is when I go for weeks or months at this upper boundary I start to f
 
 Whereas the potato only helps, coffee cuts both ways. What I do know from [past experience](https://ineedcoffee.com/a-month-without-coffee/) is that I need to get my coffee levels down before October comes. When Seattle goes into the dreary rainy season, I'll need my coffee to maintain my sanity.
 
-![futurama-coffee-rage](./img/futurama-coffee-rage.jpg)
+![futurama-coffee-rage](/2017/08/5-foods-key-fat-loss/img/futurama-coffee-rage.jpg)
 
 
 ### Other Key Foods?

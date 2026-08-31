@@ -15,7 +15,7 @@ I was recently thinking how Quantified Self is a lot like tracking how much weig
 
 Gaining strength is more than numbers. Instead of rehashing my opinion, I'll direct those that are interested to the post [Reps, Sets and the Weight Aren't That Important](/2012/12/reps-sets-and-the-weight-arent-that-important/). Chasing numbers whether it is going for personal records, lifting for X number of minutes, or going to the gym a specific number of times per week can be motivating to some, but every time I chased numbers, I always ended up injured. I didn't listen to how my body was feeling at the moment, I relied on the training logs to tell me how much I should be lifting.
 
-![MAS in front of gorlla](./img/mas-gorilla-650.jpg)
+![MAS in front of gorlla](/2014/03/weight-lifting-taught-quantified-self/img/mas-gorilla-650.jpg)
 
 _A gorilla with a spreadsheet is still a gorilla_
 

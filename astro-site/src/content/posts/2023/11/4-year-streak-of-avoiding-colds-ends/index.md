@@ -53,7 +53,7 @@ I used to wash my hands when I returned from the gym. Starting in 2020, I extend
 
 My diet did not change after 2019. I was already lean. I still consumed "superfoods" and a nutrient-dense diet. These probably help, but not that much.
 
-![](./img/seattle-cube.jpg)
+![](/2023/11/4-year-streak-of-avoiding-colds-ends/img/seattle-cube.jpg)
 
 _I made this Seattle poster with Leonardo_
 

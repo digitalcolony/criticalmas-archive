@@ -13,7 +13,7 @@ Looks like I will be forced to change web hosts again. Site 5 has turned out to 
 
 The traffic for this blog is not tremendous, but it is also not trivial. This puts me in an odd middle ground, where most affordable services offered to the hobby blogger are insufficient and higher end services used for high traffic businesses are too expensive. I host no audio or video files. I use caching plugins. And because this is a hobby, I am not going to spend $70 - $100 a month on a VPS.
 
-![site stats](./img/criticalmas-august-2014.jpg)
+![site stats](/2014/09/always-run/img/criticalmas-august-2014.jpg)
 
 My coffee site [INeedCoffee](https://ineedcoffee.com), which is hosted by WinHost, gets more traffic and uses more bandwidth than this blog and I have no problems there. When I was on the Basic plan and was getting close to exceeding a defined bandwidth limit (something Site 5 doesn't have), WinHost emailed me and I upgraded to the Max plan. Everything went smooth. Never was I threatened to pay for a VPS or get my account suspended.
 

@@ -26,6 +26,6 @@ One thing Bing does do poorly is indexing new stuff. When the domain for this bl
 
 **TIP:** To rack up more points, I search on an address rather than type it directly. For example, I'll enter "cnbc" and then click the first result rather than type "cnbc.com". 😎
 
-![money](./img/aidan-bartos-313782-650.jpg)
+![money](/2018/08/how-i-made-35-last-year-by-quitting-google/img/aidan-bartos-313782-650.jpg)
 
 _Photo by [Aidan Bartos](https://unsplash.com/photos/v9rZ3Yz6fSg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_

@@ -15,7 +15,7 @@ As you can see below, traffic to this blog spiked a bit last Thursday. All those
 
 I wish Kevin the best of luck in his recovery. He has a huge audience and many of them would benefit from swapping out a few meals each week for boiled potatoes.
 
-![potato popularity](./img/potato-rage.jpg)
+![potato popularity](/2018/03/kevin-smith-is-keeping-interest-alive-in-the-potato-hack-diet/img/potato-rage.jpg)
 
 ---
 

@@ -11,7 +11,7 @@ commentCount: 24
 
 The flu hit me hard about a day after my [Feeling Destructive](/2014/12/feeling-destructive/) post. My guess is the poor mood I exhibited in that post was probably because I was already coming down with something, but didn't realize it yet. The fever went away in a few days, but I still have a lingering cough and lack of energy.
 
-![sick](./img/sick.jpg)
+![sick](/2015/01/recovering-flu/img/sick.jpg)
 
 _[Photo](https://flic.kr/p/iXrXc3) by wallsdontlie_
 

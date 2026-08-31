@@ -15,7 +15,7 @@ Well I got laid off a few weeks ago and yesterday I received my 401K statement. 
 
 When do you invest in stocks? Go read [The Simplest Investing Rule](/2008/04/the-simplest-investing-rule/) and watch the video. Also follow the link provided by Jim H. in the first comment.
 
-![Good-Fellas-Shinebox](./img/Good-Fellas-Shinebox.jpg)
+![Good-Fellas-Shinebox](/2008/04/mr-financial-planner-go-home-and-get-your-shine-box/img/Good-Fellas-Shinebox.jpg)
 
 ---
 

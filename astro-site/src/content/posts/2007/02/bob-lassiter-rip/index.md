@@ -13,7 +13,7 @@ I just learned that Tampa talk radio legend [Bob Lassiter](https://en.wikipedia.
 
 It may have been late 1996. Bob had been hinting for a week that he might do a show for a few listeners. Instead of setting a date, he said if he decided to do it there would be no warning. I lived a few blocks from the WFLA station in South Tampa at the time. Then one evening Bob gave the word that he would let a few listeners come down provided they brought their own chair.
 
-![Bob Lassiter](./img/lassiter002.jpg "Bob Lassiter")
+![Bob Lassiter](/2007/02/bob-lassiter-rip/img/lassiter002.jpg "Bob Lassiter")
 
 I grabbed a folding chair and drove down to the station. Once I arrived at the station I was padded down for weapons. Bob, being the only liberal on a conservative station, had a few enemies. Then for about 90 minutes or so I got to watch a live talk radio show from one of the masters.
 

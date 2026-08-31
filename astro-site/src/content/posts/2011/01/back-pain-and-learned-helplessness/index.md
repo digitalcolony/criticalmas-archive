@@ -15,7 +15,7 @@ The point I want to stress is you need to take charge of your own back pain inve
 
 All those parties profit from your pain. I hate to be cynical, but if they decline to assist you, they are losing money. Not that they are bad people. I think they honestly believe what they offer helps people. And sometimes it does. But surrendering to a pain management expert before you've done your own investigation just promotes **learned helplessness**. What happens the next time pain flares up? And the time after that?
 
-![addiction](./img/addiction.jpg)
+![addiction](/2011/01/back-pain-and-learned-helplessness/img/addiction.jpg)
 
 _[Addiction](http://www.flickr.com/photos/kphotographerrr/4505714773/in/photostream/) by kphotographer_
 

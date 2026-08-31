@@ -11,22 +11,22 @@ commentCount: 0
 
 Here are some photos taken in Seattle today and yesterday. Got to love the clear skies.
 
-![seattle-clear-1](./img/seattle-clear-1.jpg)
+![seattle-clear-1](/2009/12/clear-skies-in-seattle/img/seattle-clear-1.jpg)
 
 _Golden Gardens Beach in Ballard_
 
-![seattle-clear-2](./img/seattle-clear-2.jpg)
+![seattle-clear-2](/2009/12/clear-skies-in-seattle/img/seattle-clear-2.jpg)
 
 _Lake Union view from east Queen Anne_
 
-![seattle-clear-3](./img/seattle-clear-3.jpg)
+![seattle-clear-3](/2009/12/clear-skies-in-seattle/img/seattle-clear-3.jpg)
 
 _Looking at Mt. Rainier from Madrona_
 
-![seattle-clear-4](./img/seattle-clear-4.jpg)
+![seattle-clear-4](/2009/12/clear-skies-in-seattle/img/seattle-clear-4.jpg)
 
 _Kerry Park view of Seattle before sunset_
 
-![seattle-clear-5](./img/seattle-clear-5.jpg)
+![seattle-clear-5](/2009/12/clear-skies-in-seattle/img/seattle-clear-5.jpg)
 
 _Kerry Park view of Seattle at sunset_

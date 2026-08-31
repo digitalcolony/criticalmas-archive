@@ -38,7 +38,7 @@ The caveat here is that this type of insurance would either be the cheapest or p
 
 It sucks to lose your job and it sucks to lose your investment. And it doubly sucks if you lose them both at the same time. I hope someday this type of personalized crisis insurance is as readily available as any other type of insurance. And if this type of product is already available, I'm unaware of it.
 
-![stocks](./img/markus-spiske-stocks.jpg)
+![stocks](/2020/04/crisis-insurance-my-financial-idea-from-2008/img/markus-spiske-stocks.jpg)
 
 _Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 

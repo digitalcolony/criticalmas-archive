@@ -13,7 +13,7 @@ Since late last year, I've been thinking about the following quote by Jim Rohn.
 
 > You are the average of the five people you spend the most time with.
 
-![5 sign](./img/43767475_12824e5086_z.jpg)
+![5 sign](/2015/02/friendship/img/43767475_12824e5086_z.jpg)
 
 _[Photo](https://flic.kr/p/4SjxD) by N Ino_
 

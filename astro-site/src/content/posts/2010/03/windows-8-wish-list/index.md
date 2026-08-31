@@ -20,7 +20,7 @@ Here is my Wish List for the next version of Windows.
 
 If you have something you wish to add to the Windows 8 wish list, add it in the comments. I know at least one person inside Microsoft will be reading it.
 
-![windows](./img/39654309_e638136303_z.jpg)
+![windows](/2010/03/windows-8-wish-list/img/39654309_e638136303_z.jpg)
 
 _[Photo](https://flic.kr/p/4veQZ) by Bill V_
 

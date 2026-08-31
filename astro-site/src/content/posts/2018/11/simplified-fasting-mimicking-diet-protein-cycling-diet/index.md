@@ -50,7 +50,7 @@ I was just a little hungry on Day 1 and got used to it rather quickly.
 
 My simplified approach requires almost no thought to food and food prep other than steaming and weighing cabbage. 100 grams of cabbage is just 1.4 grams of protein. The fiber in the cabbage will assist with detox as well, which is something you don't get on a pure 0 calorie fast.
 
-![avocado](./img/charles-deluvio-avocado.jpg)
+![avocado](/2018/11/simplified-fasting-mimicking-diet-protein-cycling-diet/img/charles-deluvio-avocado.jpg)
 
 ---
 

@@ -15,13 +15,13 @@ The floating village is a working community. These people live, work and raise t
 
 One of the themes I'll go back to a different post is how Americans live in a culture of fear. We have every advantage, but spend our days fearing that will lose our _stuff_ or health or job. These people have nothing but each other and they seemed fine. Despite the brutally low standard of living, it was inspiring.
 
-![floating-village-4](./img/floating-village-4.jpg)
+![floating-village-4](/2009/12/floating-village-siem-reap-cambodia/img/floating-village-4.jpg)
 
-![floating-village-3](./img/floating-village-3.jpg)
+![floating-village-3](/2009/12/floating-village-siem-reap-cambodia/img/floating-village-3.jpg)
 
-![floating-village-2](./img/floating-village-2.jpg)
+![floating-village-2](/2009/12/floating-village-siem-reap-cambodia/img/floating-village-2.jpg)
 
-![floating-village-1](./img/floating-village-1.jpg)
+![floating-village-1](/2009/12/floating-village-siem-reap-cambodia/img/floating-village-1.jpg)
 
 [Photo Gallery for Floating Village - Siem Reap, Cambodia](https://www.flickr.com/photos/129592470@N02/sets/72157650132863352/)
 

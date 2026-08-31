@@ -67,7 +67,7 @@ I wanted to see if I could move my sleep score with minor adjustments. The first
 
 Moving my meal or last coffee up an hour or 90 minutes had no predictive effect on my sleep. I do know from previous experiments that having coffee after 3 PM was bad for my sleep. 12:30 PM - 2 PM seems to be the sweet spot for me.
 
-![oura ring 83](./img/oura-83.jpg)
+![oura ring 83](/2020/09/oura-ring-sleep-tracker-42-day-review/img/oura-83.jpg)
 
 _A typical night for me. Oura penalizes you if fall asleep too fast. And although it says I was awake multiple times before 4 am, I have no recollection that was true. I recall sleeping straight to 4 am uninterrupted._
 

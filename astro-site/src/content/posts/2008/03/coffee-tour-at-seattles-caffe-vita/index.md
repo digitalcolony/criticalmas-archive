@@ -11,6 +11,6 @@ commentCount: 0
 
 The [Seattle Coffee Meetup](https://www.meetup.com/seattle-coffee-club/events/7123582/) got a tour of Caffe Vita last night. They roast 2,000 to 4,000 pounds of coffee daily. Many coffee shops and restaurants use their coffee in the Seattle area. Unlike Victrola, they pre-blend their espresso prior to roasting.
 
-![vita-roastery](./img/vita-roastery.jpg)
+![vita-roastery](/2008/03/coffee-tour-at-seattles-caffe-vita/img/vita-roastery.jpg)
 
-![vita-roasts](./img/vita-roasts.jpg)
+![vita-roasts](/2008/03/coffee-tour-at-seattles-caffe-vita/img/vita-roasts.jpg)

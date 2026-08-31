@@ -11,7 +11,7 @@ commentCount: 0
 
 Just got word that our old pet cat RainMan died. I think he was either 15 or 16 years old. After a few days of being lethargic, he passed away last night. Rainman was the best pet I've ever had. He actually came when you called him and could even hand-shake. In January 2007, he went back to Jamul because he was an outdoor cat at heart. Then last fall, Rainman [survived the San Diego fires](/2007/10/rainman-survives-the-san-diego-fires/) living off the land until the mandatory evacuation was lifted.
 
-![rainman](./img/rainman.jpg)
+![rainman](/2008/02/rainman-rip/img/rainman.jpg)
 
 Rainman was the cat I taught how to [hand-shake](http://youtu.be/4EYcqhXVSH4).
 

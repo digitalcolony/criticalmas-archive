@@ -19,7 +19,7 @@ In high school, I switched from regular Coke to Diet Coke. No calories! In coll
 
 Coke Zero held my attention for a few years, then I became concerned not so much for the aspartame, but the benzoate compounds. I even wrote a break-up post with Coke Zero titled [Yes, It’s Over, Call It A Day, Sorry That It Had To End This Way](/2008/09/yes-its-over-call-it-a-day-sorry-that-it-had-to-end-this-way/). That break up lasted until I found myself in the blaring heat of Thailand. Even after that trip, I would continue to drink maybe 1-2 cans of Coke Zero a month.
 
-![coke-zero-bangkok](./img/coke-zero-bangkok.jpg)
+![coke-zero-bangkok](/2013/01/diet-colas-and-changing-my-opinion/img/coke-zero-bangkok.jpg)
 
 _Coke Zero in Bangkok_
 

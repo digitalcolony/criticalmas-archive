@@ -13,8 +13,8 @@ I just had to try [this recipe](http://www.seriouseats.com/recipes/2008/04/tutor
 
 Spam may not be the greatest quality of pork. Oh well. This recipe sure tasted great.
 
-![spam-sushi-1](./img/spam-sushi-1.jpg)
+![spam-sushi-1](/2012/07/spam-sushi/img/spam-sushi-1.jpg)
 
-![spam-sushi-2](./img/spam-sushi-2.jpg)
+![spam-sushi-2](/2012/07/spam-sushi/img/spam-sushi-2.jpg)
 
 The double-decker Spam Sushi was definitely the way to go.

@@ -34,7 +34,7 @@ When I put together my [plan to lose 20 pounds](/2014/02/plan-lose-20-pounds-win
 
 So far my diet strategy, which falls in line with the ideas from Dr. Teta's article is working. I'm halfway to the goal and my appetite is in check and my energy levels are fine.
 
-![Skittles](./img/2709432517_18faedbe57_z.jpg)
+![Skittles](/2014/04/wow-good-article-calories/img/2709432517_18faedbe57_z.jpg)
 
 _[Photo](https://www.flickr.com/photos/p4nc0np4n/2709432517/) by Victor. Getting ripped on Skittles!_
 

@@ -27,7 +27,7 @@ In this environment you need to go for the quick sale. This isn't 2003 when home
 
 Good luck if you are trying to sell your home this year in San Diego. Go for the quick sale and be tough on your sellers agent.
 
-![3377-Holly-Oak-Lane 2002](./img/3377-Holly-Oak-Lane-Again.jpg)
+![3377-Holly-Oak-Lane 2002](/2006/05/my-advice-on-selling-your-house/img/3377-Holly-Oak-Lane-Again.jpg)
 
 **Legacy Comments**
 

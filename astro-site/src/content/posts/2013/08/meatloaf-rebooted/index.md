@@ -15,7 +15,7 @@ The first thing I used was instant potatoes. It works very well and I've made pr
 
 I am now mixing cooked white rice into my meatloaves and it works great. I'm still working on the optimal mix. My first meatloaf, I underdosed using 1 cup for 3 pounds. Below is a photo using 3 cups of basmati for 3 pounds. Probably a little too much. Will use 2 cups next time.
 
-![Meatloaf](./img/meatloaf650.jpg)
+![Meatloaf](/2013/08/meatloaf-rebooted/img/meatloaf650.jpg)
 
 _Gyro Meatloaf with Basmati rice_
 

@@ -21,7 +21,7 @@ I developed my 5-level food pyramid.
 
 I took the first letter of the first 4 levels and named this the POWS Food Pyramid. The levels are in order from consuming the most to consuming the fewest, so from the bottom of the pyramid to the top. Let us drill into it.
 
-![](./img/pows-pyramid.jpg)
+![](/2017/01/pows-food-pyramid/img/pows-pyramid.jpg)
 
 
 ### #1 Peasant Diet

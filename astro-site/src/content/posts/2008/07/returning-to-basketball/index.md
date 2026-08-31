@@ -21,7 +21,7 @@ In a nutshell, basketball is the anti-treadmill. It is anything but steady state
 
 While walking around my neighborhood I noticed there were some basketball courts behind the school next to my building. Nobody is ever using them and the gate is never locked. So I bought a basketball today and ended my basketball retirement. It sure beats driving an hour to hike up a mountain. :)
 
-![mas-basketball](./img/mas-basketball.jpg)
+![mas-basketball](/2008/07/returning-to-basketball/img/mas-basketball.jpg)
 
 ---
 

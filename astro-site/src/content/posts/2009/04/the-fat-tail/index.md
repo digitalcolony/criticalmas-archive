@@ -15,4 +15,4 @@ Last month I attended a lecture by Ian Bremmer about political risk and financia
 
 If you invest in foreign markets, add this book to your reading list. Political interests and financial interests don't always move in sync and understanding that could help you preserve cash.
 
-![ian-bremmer](./img/ian-bremmer.jpg)
+![ian-bremmer](/2009/04/the-fat-tail/img/ian-bremmer.jpg)

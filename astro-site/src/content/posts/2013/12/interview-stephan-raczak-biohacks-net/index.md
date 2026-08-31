@@ -11,7 +11,7 @@ commentCount: 3
 
 In October I got to meet Stephan Raczak of Biohacks.net when he visited me in Seattle. During our visit he [interviewed me](https://web.archive.org/web/20160315221609/http://biohacks.net/interview-with-criticalmas/), so I thought it might be interesting to interview him. I read very few sites in the fitness domain, _Biohacks_ is one that I do. The posts on _Biohacks_ are interesting and well researched. Enough background, here is the interview.
 
-![Biohacks.net](./img/biohacks-ss.jpg)
+![Biohacks.net](/2013/12/interview-stephan-raczak-biohacks-net/img/biohacks-ss.jpg)
 
 
 ### Tell us about yourself and your blog Biohacks.net.

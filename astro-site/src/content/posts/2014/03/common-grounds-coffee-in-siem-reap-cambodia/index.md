@@ -25,7 +25,7 @@ Even though I am an espresso snob (no denials), the cafe culture experience posi
 
 I enjoyed the environment enough to stick around and order an Americano, which, for some odd reason, was 25 cents less than an espresso despite being served with an individual milk container. Normally, I would never put milk in my coffee, but I discovered early in my trip that the dairy quality in Southeast Asia was extremely fresh and full of flavor. Adding Cambodian milk to my Americano made for a tasty drink.
 
-![](./img/siem-reap-espresso.jpg)
+![](/2014/03/common-grounds-coffee-in-siem-reap-cambodia/img/siem-reap-espresso.jpg)
 
 The cafe has an upstairs seating section, and the walls have signs for local charities. This cafe grew on me, and I returned for a third visit before I departed. If you are in Siem Reap, Cambodia, visit Common Grounds. Just avoid the _premium_ Japanese tea.
 

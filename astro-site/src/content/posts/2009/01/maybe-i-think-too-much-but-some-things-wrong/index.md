@@ -19,7 +19,7 @@ The three main concepts I am looking into are:
 2.  For 99.99% of human evolution, we did not exist in a perfect temperature environment. We got hot and we got cold and our bodies learned how to deal with it. We now go from temperature controlled homes to temperature controlled cars to temperature controlled offices.
 3.  Primal man was not able to eat 3 square or 6 small meals each day. Food came and went. When the food was plentiful, it was consumed. When it went away, the hunting and gathering resumed. Primal man didn't need to eat a _Cliff Bar,_ because his blood sugar was falling. He survived. He was larger and more muscular than his agricultural descendants. And those that survived childhood and prey, lived almost as long as modern man. The only difference is they weren't diabetic and obese taking copious amounts of medication while riding a Rascal.
 
-[![](./img/scooter.jpg "scooter")](./img/scooter.jpg)
+[![](/2009/01/maybe-i-think-too-much-but-some-things-wrong/img/scooter.jpg "scooter")](./img/scooter.jpg)
 
 _How would this man have survived in a primal world?_
 

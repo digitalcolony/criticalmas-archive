@@ -22,7 +22,7 @@ The stereotypical low-fat dieter is reading the labels of the food they go to pu
 
 Fat isn't the enemy. It is a proxy for calories. By reducing the amount of fat you consume, you are reducing calories. You don't want to replace those calories with processed foods with labels. Eat whole foods such as quinoa, lentils, steel-cut oatmeal, vegetables, tubers, and very lean cuts of meat.
 
-![peel potato](./img/peter-schad-eLSmoVXKdF8-unsplash.jpg) _Boiled potatoes have the highest score on the Satiety Index List._
+![peel potato](/2022/02/how-to-successfully-use-a-low-fat-diet/img/peter-schad-eLSmoVXKdF8-unsplash.jpg) _Boiled potatoes have the highest score on the Satiety Index List._
 
 
 ### Eat Until Full
@@ -106,7 +106,7 @@ For me, I started with a tablespoon of cooked lentils. Then moved on to small po
 
 The second path is to [soak, sprout, and/or ferment](https://cornersmith.com.au/blogs/recipes/how-to-soak-your-grains). This can really help ease the digestion of these foods. There are tons of resources on this topic, which is a fun hobby if you have the time. Here is my [fermentation page](/tag/fermentation/), which is mostly on vegetable and dairy ferments.
 
-![](./img/sprout-chickpeas.jpg) _The start of a chickpea sprout I used back when I reintroduced legumes to my diet._
+![](/2022/02/how-to-successfully-use-a-low-fat-diet/img/sprout-chickpeas.jpg) _The start of a chickpea sprout I used back when I reintroduced legumes to my diet._
 
 
 ### More Tips?

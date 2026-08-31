@@ -75,7 +75,7 @@ Wim Hof is one of many who claim cold showers can potentially boost the immune s
 
 Is it true? No idea, but I have been adding a cold rinse at the end of each shower. I like the alertness effect. I don't see any downside either.
 
-![cold shower](./img/8737391515_517e978c6d_z.jpg)
+![cold shower](/2020/04/my-coronavirus-plan/img/8737391515_517e978c6d_z.jpg)
 
 _[Doccia fredda (Cold Shower)](https://flic.kr/p/ej6q6i) by Sergio Pani_
 

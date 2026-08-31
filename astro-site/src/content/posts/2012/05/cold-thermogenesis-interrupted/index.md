@@ -22,7 +22,7 @@ I'm not sure how I missed that when the post went out, but I would happily jump 
 **[Cold Exposure](https://docs.google.com/spreadsheet/ccc?key=0Ah7un7bmW3oBdGowUE4yUTBudFVqZ0N5WllMQ1JiYlE)**
 
 
-### ![Cold Water Safety](./img/ct-sign.jpg "Cold Water Safety")
+### ![Cold Water Safety](/2012/05/cold-thermogenesis-interrupted/img/ct-sign.jpg "Cold Water Safety")
 
 
 _Photo of a sign I saw in Vancouver, Canada._

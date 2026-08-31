@@ -17,7 +17,7 @@ What has helped reduce headache pain? **Baking soda**. I mix a teaspoon of bakin
 
 This headache hack isn't perfect, but for me, it is the only thing I've tried that works. And it works quickly and it is dirt cheap. I also think I could stack this hack with the [Amazing "Back to Sleep" Hack](/2014/01/amazing-back-sleep-hack/), which includes a pinch of sugar and salt mixed.
 
-![baking-soda](./img/baking-soda1.jpg)
+![baking-soda](/2014/03/may-finally-found-headache-cure/img/baking-soda1.jpg)
 
 Why is baking soda working? Ray Peat and his followers like baking soda as a supplement for increasing CO2. From the article [Protective CO2 and aging](http://raypeat.com/articles/articles/co2.shtml).
 

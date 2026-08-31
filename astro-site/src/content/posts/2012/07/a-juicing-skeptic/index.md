@@ -27,7 +27,7 @@ Back in the old days, we didn't have planes flying fresh asparagus from Peru to 
 
 Mankind also figured out that [fermentation](/tag/fermentation/) not only preserved vegetables beyond harvest, but they became softer to eat and they had higher nutrient levels than fresh vegetables. Yes, fermented vegetables can have 2 to 3 times the vitamin levels of fresh vegetables. I can also eat a bowl of sauerkraut or kimchi a lot easier than raw cabbage. Plus they have healthy probiotics that you do not get from juicing.
 
-![3-jars-kimchi](./img/3-jars-kimchi.jpg)
+![3-jars-kimchi](/2012/07/a-juicing-skeptic/img/3-jars-kimchi.jpg)
 
 _3 jars of kimchi_
 

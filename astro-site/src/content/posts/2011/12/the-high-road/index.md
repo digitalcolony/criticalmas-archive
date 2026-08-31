@@ -11,7 +11,7 @@ commentCount: 3
 
 This will be a quick post describing what happened after I [ended the _Tales From the Glitter Gym_ series](/2011/01/tales-from-the-glitter-gym-the-end/) in January after getting linked from _Metafilter_ and receiving a huge amount of negative feedback. I was planning on ending the series anyway and it seemed a perfect time to pull the plug. Plus I had good reasons to [not respond to my attackers](/2011/01/not-responding-to-my-attackers/).
 
-![mas-rock-em-sock-em](./img/mas-rock-em-sock-em.jpg)
+![mas-rock-em-sock-em](/2011/12/the-high-road/img/mas-rock-em-sock-em.jpg)
 
 _Me and my sister engaged in a Rock 'Em Sock 'Em Robot battle._
 

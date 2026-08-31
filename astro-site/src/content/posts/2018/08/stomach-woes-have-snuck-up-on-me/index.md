@@ -22,7 +22,7 @@ I am also feeling fuller for much longer after eating. It feels like my digestio
 
 I am at the initial stages of trying to solve this riddle. If you have any experience you can share or tips, please leave a comment. I lost 4 pounds in the last week and I was trying to gain muscle. Not good.
 
-![](./img/drink-more-coffee.jpg)
+![](/2018/08/stomach-woes-have-snuck-up-on-me/img/drink-more-coffee.jpg)
 
 ---
 

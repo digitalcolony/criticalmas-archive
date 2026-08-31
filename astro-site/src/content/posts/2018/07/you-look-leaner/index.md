@@ -41,7 +41,7 @@ My weight went from 194 to 197 while my waist size remained constant. In the las
 
 Weight and waist size independently aren't that important, but together they tell a story. A man ideally wants a strong Golden Ratio, which means having broad muscular shoulders and chest and a tight waist. Build the "V".
 
-![scale](./img/11834504_3cc3c49559_z.jpg)
+![scale](/2018/07/you-look-leaner/img/11834504_3cc3c49559_z.jpg)
 
 _Photo by [Wade Kelly](https://flic.kr/p/23DZb)_
 

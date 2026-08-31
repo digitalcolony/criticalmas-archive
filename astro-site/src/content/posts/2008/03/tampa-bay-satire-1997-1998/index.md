@@ -17,8 +17,8 @@ The original **MAS Today** was released in July 1997 and was a local hit. The Ta
 
 Much of the humor below won't make sense to people who didn't live in the Tampa Bay area during that time period.
 
-![mas-today-summer-1997-small](./img/mas-today-summer-1997-small.jpg)
+![mas-today-summer-1997-small](/2008/03/tampa-bay-satire-1997-1998/img/mas-today-summer-1997-small.jpg)
 
 Success always invites a sequel. Just prior to leaving Florida, I created another MAS Today. It was a little darker and more cynical look at the Tampa Bay area. The second MAS Today was released in August 1998.
 
-![mas-today-1998](./img/mas-today-1998.jpg)
+![mas-today-1998](/2008/03/tampa-bay-satire-1997-1998/img/mas-today-1998.jpg)

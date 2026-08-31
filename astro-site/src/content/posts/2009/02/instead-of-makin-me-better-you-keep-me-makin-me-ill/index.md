@@ -20,7 +20,7 @@ Once they've tricked you into thinking you are too stupid to save money, they th
 
 What makes this particular article bad is the chart they use to support their thesis that _you can't time the market_. Let's take a look at the 4 examples they cherry-picked from the last 100 years of stock data.
 
-![stock-recovery](./img/stock-recovery.gif "Stock Recovery?")
+![stock-recovery](/2009/02/instead-of-makin-me-better-you-keep-me-makin-me-ill/img/stock-recovery.gif "Stock Recovery?")
 
 _Chart source: Ned Davis Research_
 

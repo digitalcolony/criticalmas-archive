@@ -32,7 +32,7 @@ One of my favorite stories on this blog has to be [The Legend of Marlboro Marc](
 
 That story is real, but also incredibly unbelievable. Until this week.
 
-![](./img/marathon-smoker.jpg)
+![](/2022/11/3-fitness-stories/img/marathon-smoker.jpg)
 
 From [Chinese Marathoner Smokes Opponents With 3.5-Hour Time ... While Rippin' Darts!!!](https://www.tmz.com/2022/11/14/chain-smoking-chinese-man-runs-marathon-3-5-hours/) 
 
@@ -46,7 +46,7 @@ I don't recall Marlboro Marc's exact marathon time. I do remember my 2 times (3:
 
 In 2004, I met Pavel Tsatsouline at the Arnold Expo in Columbus, Ohio. I had a few of his books.
 
-![](./img/mas-Pavel.jpg)
+![](/2022/11/3-fitness-stories/img/mas-Pavel.jpg)
 
 I mentioned to him that it would be nice to have posters of the exercises he used in his two stretching books. I told him how I had to photocopy all the pages, cut them out, and then assemble them on a poster to display in my home gym because flipping the pages and holding the books in place was annoying.
 

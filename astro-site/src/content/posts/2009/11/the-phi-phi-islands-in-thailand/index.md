@@ -15,10 +15,10 @@ We got to snorkel at two different places. The water was a little murky, but sti
 
 I also got a chance to hike up to the top viewpoint of Ko Phi Phi Don. Once up there I had to race back down so I wouldn't miss the boat. I made it just in time.
 
-![thailand-beach](./img/thailand-beach.jpg)
+![thailand-beach](/2009/11/the-phi-phi-islands-in-thailand/img/thailand-beach.jpg)
 
-![mas-thailand-hike](./img/mas-thailand-hike.jpg)
+![mas-thailand-hike](/2009/11/the-phi-phi-islands-in-thailand/img/mas-thailand-hike.jpg)
 
-![thailand-fish](./img/thailand-fish.jpg)
+![thailand-fish](/2009/11/the-phi-phi-islands-in-thailand/img/thailand-fish.jpg)
 
 [Photo Gallery for the Phi Phi Islands, Thailand](https://www.flickr.com/photos/129592470@N02/sets/72157647822502563/)

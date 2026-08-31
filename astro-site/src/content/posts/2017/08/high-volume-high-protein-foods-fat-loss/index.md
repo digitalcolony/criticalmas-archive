@@ -13,7 +13,7 @@ In previous posts, I explored two successful strategies for losing fat. Those ar
 
 The high volume approach works by tricking the brain into being more satisfied and less hungry as the stomach fills with volume. This is the genesis on why [The Potato Hack](/2017/08/math-behind-potato-hack/) works so well. Boiled potatoes fill the belly better and with fewer calories than any other food. Legumes and vegetables are also great options to use to lose fat on a high volume approach.
 
-I've posted this graphic before. The visual is worth repeating. ![](./img/bulkydiet.jpg)
+I've posted this graphic before. The visual is worth repeating. ![](/2017/08/high-volume-high-protein-foods-fat-loss/img/bulkydiet.jpg)
 
 _From the article [Here’s why you’re always hungry](https://www.precisionnutrition.com/all-about-dietary-displacement)._
 
@@ -59,7 +59,7 @@ In conclusion, if you have a lot of weight to lose, use both high volume and hig
 
 **\*\*\* UPDATE:** I altered my view on this sentence. See the post [More Thoughts on High Volume or High Protein For Fat Loss](/2017/08/thoughts-high-volume-high-protein-fat-loss/).
 
-![weights](./img/weights.jpg)
+![weights](/2017/08/high-volume-high-protein-foods-fat-loss/img/weights.jpg)
 
 _Photo by [Rishi Barbhaya](https://unsplash.com/@rishi93)_
 

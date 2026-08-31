@@ -37,19 +37,19 @@ The directions are posted with photos on [Korean Cuisine: Home-Made Gochujang](h
 5.  Let the paste cool and little and then stir in salt and rice vinegar.
 6.  Jar paste. _Shizuoka Gourmet_ says it should be good for a year.
 
-![miso-paste](./img/miso-paste.jpg)
+![miso-paste](/2012/10/making-gluten-free-korean-chili-paste-gochujang/img/miso-paste.jpg)
 
 _I avoid soy unless it has gone through a fermentation such as miso or [natto](/2013/12/natto/)._
 
-![red-pepper-flakes](./img/red-pepper-flakes.jpg)
+![red-pepper-flakes](/2012/10/making-gluten-free-korean-chili-paste-gochujang/img/red-pepper-flakes.jpg)
 
 _Korean red pepper flakes._
 
-![stir-gochujang](./img/stir-gochujang.jpg)
+![stir-gochujang](/2012/10/making-gluten-free-korean-chili-paste-gochujang/img/stir-gochujang.jpg)
 
 _Making the Gochujang._
 
-![gochujang](./img/gochujang.jpg)
+![gochujang](/2012/10/making-gluten-free-korean-chili-paste-gochujang/img/gochujang.jpg)
 
 _Finished Gochujang._
 

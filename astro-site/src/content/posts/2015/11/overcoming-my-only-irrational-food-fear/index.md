@@ -15,7 +15,7 @@ What happened yesterday? I tackled my only remaining food nemesis: the orange. 
 
 Is it OK to have just one irrational food fear? Maybe. But for me, I decided it was no longer serving me. It had been almost 20 years since the airport incident. Did I really want to avoid oranges for another 10 or 20 years? No.
 
-![orange-sliced](./img/orange-sliced.jpg)
+![orange-sliced](/2015/11/overcoming-my-only-irrational-food-fear/img/orange-sliced.jpg)
 
 _Photo by Suzette_
 

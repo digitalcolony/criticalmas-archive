@@ -17,7 +17,7 @@ In the previous part, I mentioned my frustration as being rooted in the language
 
 This isn't just my frustration. I see others in the HIT community, many of whom derive a living from communicating HIT principles, unable to articulate and convince others.
 
-![conversation is over](./img/6259008111_654cc4293f_z.jpg)
+![conversation is over](/2014/07/im-done-talking-high-intensity-training-part-2/img/6259008111_654cc4293f_z.jpg)
 
 _[Photo](https://flic.kr/p/ax643X) by Chris Piascik_
 

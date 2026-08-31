@@ -13,9 +13,9 @@ _UPDATE Feb 2013: This recipe has been updated. See [Beef Heart Stew Rebooted (S
 
 I recently bought my first beef heart at the farmers market.
 
-![beef-heart-stew](./img/beef-heart-stew.jpg)
+![beef-heart-stew](/2011/04/beef-heart-stew/img/beef-heart-stew.jpg)
 
-![beef-heart](./img/beef-heart.jpg)
+![beef-heart](/2011/04/beef-heart-stew/img/beef-heart.jpg)
 
 Then I watched the video below, which detailed how to trim the meat.
 
@@ -23,7 +23,7 @@ _[Cleaning a Beef Heart](http://www.youtube.com/watch?v=cfxLptyBQkY) by offalchr
 
 Once it was cleaned and trimmed, I cut the meat into little dice sized pieces.
 
-![cubed-beef-heart](./img/cubed-beef-heart.jpg)
+![cubed-beef-heart](/2011/04/beef-heart-stew/img/cubed-beef-heart.jpg)
 
 Threw it into my Slow Cooker with some beef stock and assorted veggies. Onions, garlic, carrots are some ideas. I added a few Thai peppers, which gave it some serious heat. For Crock Pot dishes, I do the first 30-60 minutes on high and then drop the temperature to low. Five hours later it was done.
 

@@ -12,7 +12,7 @@ You already know that I am a [frequent blood donor](/2020/02/5-gallon-blood-dona
 
 Yesterday, I was able to donate 14+ inches of hair to [Wigs For Kids](https://www.wigsforkids.org/). 😎
 
-![](./img/mas-haircut-2023-white-border-650.jpg)
+![](/2023/01/donating-my-hair/img/mas-haircut-2023-white-border-650.jpg)
 
 ---
 

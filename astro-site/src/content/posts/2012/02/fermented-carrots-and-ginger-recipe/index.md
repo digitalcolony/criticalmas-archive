@@ -37,7 +37,7 @@ Another good thing about this recipe is I never have to worry about buying too m
 5.  Jar mixture and top with filtered water. Make sure the veggies are below the water line.
 6.  Cover jar and wait 3-10 days. Taste a little every few days. Once it is where you like it, stop the ferment and place in the refrigerator.
 
-![carrots-ferment](./img/carrots-ferment.jpg)
+![carrots-ferment](/2012/02/fermented-carrots-and-ginger-recipe/img/carrots-ferment.jpg)
 
 
 #### Quick notes

@@ -18,7 +18,7 @@ Regular readers may have already read those posts and implemented the ideas, but
 
 If you have any additional ideas on Security, drop a comment. This is an ongoing battle.
 
-![newsletter](./img/15743483265_1aca718cd2_z.jpg)
+![newsletter](/2015/07/newsletter-4-security/img/15743483265_1aca718cd2_z.jpg)
 
 _[Photo](https://flic.kr/p/pZct5D) by Dennis Skley_
 

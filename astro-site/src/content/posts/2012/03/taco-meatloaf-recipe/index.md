@@ -43,7 +43,7 @@ Why would you make a meatloaf that tastes like taco meat instead of just taco me
         4.  Cook for 35-40 minutes (internal temp to 160 F).
         5.  Serve.
 
-![taco-meatloaf](./img/taco-meatloaf.jpg)
+![taco-meatloaf](/2012/03/taco-meatloaf-recipe/img/taco-meatloaf.jpg)
 
 
 #### Quick notes

@@ -23,7 +23,7 @@ Way more people are exposed to traditional weightlifting protocols than HIT. I'd
 
 Back in the mid-1990s, I was still drinking cola. I preferred Coke over Pepsi. One day I spotted RC Draft Cola and tried to recall if I liked it as a child. I wasn't sure, but I was willing to give it a try. The taste blew me away. It was superior to Coke, probably because it used raw cane sugar and no high fructose corn syrup. For a few months, I recall telling friends and co-workers about RC Draft Cola. With one exception, I don't think anyone tried it. Coke was working for them, why should they seek out a far less popular cola option? I was able to get one die-hard Coke fan to try it and agree with me.
 
-![RC Draft Cola](./img/rc-draft-cola.jpg "RC Draft Cola")
+![RC Draft Cola](/2012/02/the-logic-of-hit-haters/img/rc-draft-cola.jpg "RC Draft Cola")
 
 The fact way more people prefer Coke to RC Draft Cola isn't proof that Coke is superior. And the fact the majority of elite athletes don't use HIT isn't proof that traditional strength training is superior.
 

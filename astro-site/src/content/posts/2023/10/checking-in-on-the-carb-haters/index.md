@@ -51,7 +51,7 @@ The Carnivore MD says he was wrong about carbs. Check out his interview [5 Thing
 
 If you are keto, carb-phobic, and open-minded, check out the first half of that interview when he discusses carbs, insulin, and fasting.
 
-![](./img/potatoes-several.jpg)
+![](/2023/10/checking-in-on-the-carb-haters/img/potatoes-several.jpg)
 
 _Potatoes by [Lars Blankers](https://unsplash.com/@lmablankers?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)_
 

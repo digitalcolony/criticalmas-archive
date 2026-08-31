@@ -17,11 +17,11 @@ Yesterday morning a taxi ran into Rachel the bronze pig at Pike Market. From MSN
 
 Today I stopped by and saw this "get well soon" roadside. Someone even set down flowers. I love this city.
 
-![rachel-pig](./img/rachel-pig.jpg)
+![rachel-pig](/2011/02/seattle-pig-get-well-soon/img/rachel-pig.jpg)
 
 Here is photo of me with Rachel the Pig from 2008.
 
-![rachel-pig-MAS](./img/rachel-pig-MAS.jpg)
+![rachel-pig-MAS](/2011/02/seattle-pig-get-well-soon/img/rachel-pig-MAS.jpg)
 
 _Happier Times ...for the pig ;)_
 

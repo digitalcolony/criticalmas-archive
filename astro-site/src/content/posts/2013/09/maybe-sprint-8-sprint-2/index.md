@@ -17,7 +17,7 @@ I stopped running in 1995. Too much pain. About two years ago, I started sprinti
 
 Eventually, I stopped running. At first, I blamed my shoes, but I think the problem is that Sprint 8 is too much for the average person. Running all out for 8 sets is most likely ideal for athletes looking to develop their speed. Is it too much for the rest of us, just interested in being a little more healthy?
 
-![runners-seattle](./img/runners-seattle.jpg)
+![runners-seattle](/2013/09/maybe-sprint-8-sprint-2/img/runners-seattle.jpg)
 
 _[Runners](/2009/05/runners-statue-hidden-in-belltown/) in Belltown, Seattle_
 

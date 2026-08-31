@@ -23,7 +23,7 @@ Even an amatuer sleuth could discover the answers to every one of those question
 
 Not to be too paranoid as banks have other forms of security such as 2-factor authentication plus text and email alerts. But not everyone signs up for them and they may not be offered where you bank or invest. And for that layer of security, you need to trust your financial institution. There is nothing you can do should they mess that up.
 
-![lock](./img/lock.jpg)
+![lock](/2015/07/change-your-security-question-answers/img/lock.jpg)
 
 _[Photo](https://flic.kr/p/62VvYh) by Angel Arcones_ 
 

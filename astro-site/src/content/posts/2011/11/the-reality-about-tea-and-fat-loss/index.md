@@ -11,7 +11,7 @@ commentCount: 5
 
 In the past four years, I've probably been to close to 100 tea tasting events. One topic that pops up on a regular basis is the claim that tea will promote fat loss and prevent cancer. I used to eat up this kind of information. Now it all just seems silly when you stand back and look at the situation.
 
-![](./img/tea-ceremony.jpg)
+![](/2011/11/the-reality-about-tea-and-fat-loss/img/tea-ceremony.jpg)
 
 Yesterday afternoon I was at another tea event. During the discussion on how tea helps with fat loss, one lady pulled out a box of cookies and passed them around. Everyone (but me) grabbed one. The diabetic lady ended up eating three. The irony seemed to be lost on everyone.
 

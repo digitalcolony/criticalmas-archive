@@ -28,7 +28,7 @@ A core lesson of overcoming insomnia is accepting the fact that one can't contro
 
 I boxed my wearables up and gave them to a friend to sell.
 
-![sleep](./img/alexander-possingham-CeWNEEsHPbA-unsplash.jpg)
+![sleep](/2022/07/rejecting-wearables/img/alexander-possingham-CeWNEEsHPbA-unsplash.jpg)
 
 _Photo by [Alexander Possingham](https://unsplash.com/@allexx54?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 

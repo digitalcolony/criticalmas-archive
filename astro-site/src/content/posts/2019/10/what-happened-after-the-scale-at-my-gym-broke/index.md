@@ -21,7 +21,7 @@ Without the scale, I decided to use the tape measure daily instead of just 1-2 t
 
 With a tape measure, having a smaller waist size is almost always better. Whereas a scale is just a number. A smaller number on the scale might mean you are getting lean or it could be you are losing muscle. And on the flip-side, a larger number could mean you are gaining fat or gaining muscle. So the scale number to me has always been less motivating.
 
-![Tape Measure](./img/tape-measure.jpg)
+![Tape Measure](/2019/10/what-happened-after-the-scale-at-my-gym-broke/img/tape-measure.jpg)
 
 _Photo by [Siora Photography](https://unsplash.com/@siora18)_
 

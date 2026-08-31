@@ -21,6 +21,6 @@ So I quit buying cans of Coke Zero. Then after several days or a week, I'd ratio
 
 So like a cigarette smoker that figures out quitting isn't on the horizon, I decided to buy my carton equivalent. Today I caved in and bought a 24 pack. OK, I bought two, they were on sale. It's summer. Once we head into fall, I'll quit for real. Except for ...
 
-[![Coke Zero](./img/czero.jpg "czero")](./img/czero.jpg)
+[![Coke Zero](/2008/08/i-cant-quit-you-coke-zero/img/czero.jpg "czero")](./img/czero.jpg)
 
 UPDATE (9/27/2008): [Yes, It's Over, Call It A Day, Sorry That It Had This Way](/2008/09/yes-its-over-call-it-a-day-sorry-that-it-had-to-end-this-way/)

@@ -23,7 +23,7 @@ In the nutrition discussion, the guests talked about the diet our ancestors ate.
 
 At the time of the interview, Ben's test results hadn't come back, but he posted his report once he had the data. He tested almost 5 years older than his age. That's got to sting.
 
-![](./img/Ben-age-e1598371000917.png)
+![](/2020/08/biological-age-testing-and-stacking-stressors/img/Ben-age-e1598371000917.png)
 
 
 ### Possible Explanations

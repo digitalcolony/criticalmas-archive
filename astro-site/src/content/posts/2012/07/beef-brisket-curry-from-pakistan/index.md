@@ -17,7 +17,7 @@ I made this dish twice. It is super simple and I think they got the spices corre
 2.  Cut the garlic requirement in half, unless you really like garlic.
 3.  Instead of cooking for 9 hours on low, I cooked it for 5 1/2 hours with just the first hour on high. BTW, that is a trick I use with most slow-cooking recipes. Cooking for 9 full hours will certainly have the meat melting in your mouth, but I don't mind a little bit of chewing. Plus I subscribe to the theory that we shouldn't be overcooking our proteins.
 
-![beef-brisket-curry](./img/beef-brisket-curry.jpg)
+![beef-brisket-curry](/2012/07/beef-brisket-curry-from-pakistan/img/beef-brisket-curry.jpg)
 
 _Beef Brisket Curry_
 

@@ -31,7 +31,7 @@ Body Fat Percentage:
 
 According to the chart, sleep and stress management requirements increase as someone goes from normal lean to cut. The implication here is that the very act of being lean is stressful. I had to ask for clarification.
 
-![pn-1](./img/pn-1.jpg) ![pn-2](./img/pn-2.jpg)
+![pn-1](/2015/03/stress-and-low-body-fat-levels/img/pn-1.jpg) ![pn-2](/2015/03/stress-and-low-body-fat-levels/img/pn-2.jpg)
 
 And then everything made sense. It wasn't the low body fat levels that made me look haggard, it was how I achieved them. How did I get very lean? From [The Grand Experiment Revisited](/2015/02/the-grand-experiment-revisited/):
 
@@ -39,7 +39,7 @@ And then everything made sense. It wasn't the low body fat levels that made me l
 
 I looked haggard because as I got leaner, my stress levels went up. I wasn't reducing stress, I was stacking it. My sleep needs were increasing and I was frequently waking up in the middle of the night with headaches. There is a lesson here. Unless one can address stress and commit to enough sleep, getting very lean is going to be difficult or come at a cost or both.
 
-![seattle-sleep](./img/seattle-sleep.jpg)
+![seattle-sleep](/2015/03/stress-and-low-body-fat-levels/img/seattle-sleep.jpg)
 
 _Sleep by me_
 

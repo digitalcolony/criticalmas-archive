@@ -27,7 +27,7 @@ Digging around on the Internet and reading long scientific articles debunking th
 
 Yesterday I was made aware of _The Low Carb Myth: Free Yourself From Carb Myths, and Discover the Secret Keys That Really Determine Your Health and Fat Loss Destiny_. I'm halfway through the book and it is outstanding. In plain language, it goes myth by myth destroying the lies propagated by the low-carb community.
 
-![low-carb-myth](./img/low-carb-myth.jpg) _The Low Carb Myth: Free Yourself From Carb Myths, and Discover the Secret Keys That Really Determine Your Health and Fat Loss Destiny by Ari Whitten_
+![low-carb-myth](/2015/02/tell-me-low-carb-lies/img/low-carb-myth.jpg) _The Low Carb Myth: Free Yourself From Carb Myths, and Discover the Secret Keys That Really Determine Your Health and Fat Loss Destiny by Ari Whitten_
 
 If you are low-carb and have an open mind, please check it out. There are reasons that low-carb diets work and they are acknowledged in the book, but they aren't the ones the carb-hating low-carb gurus are promoting. **The Low Carb Myth is not an anti-low carb book. The Low Carb Myth is an anti-low carb dogma book.** This book does a stellar job of advancing the discussion of fat loss by destroying the myths that are holding us back. I only wish this book was around in late 2009 when I first read GCBC.
 

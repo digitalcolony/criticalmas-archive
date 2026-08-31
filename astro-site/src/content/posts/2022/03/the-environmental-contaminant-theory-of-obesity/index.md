@@ -79,7 +79,7 @@ People that avoid meat tend to have lower BMIs.
 -   Professions that work with [Lithium grease](https://slimemoldtimemold.com/2021/10/11/a-chemical-hunger-interlude-g-li/) have higher levels of obesity. These would be jobs where the workers work closely with cars, trains, and planes.
 -   Deep well water is a source of concern for higher lithium levels. Deep wells have become more common in recent decades.
 
-![pollution](./img/maxim-tolchinskiy-W3y2crFkVIs-unsplash.jpg)
+![pollution](/2022/03/the-environmental-contaminant-theory-of-obesity/img/maxim-tolchinskiy-W3y2crFkVIs-unsplash.jpg)
 
 _Photo by [Maxim Tolchinskiy](https://unsplash.com/@shaikhulud?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 

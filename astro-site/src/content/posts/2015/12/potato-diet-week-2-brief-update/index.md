@@ -27,7 +27,7 @@ In week 3, I will cut back on my morning potatoes. I'll have one prior to my fir
 
 I'll keep you posted. And due to a social commitment, I moved the Week 3 Potato Diet up one day to SUNDAY, MONDAY, TUESDAY.
 
-![potato](./img/potato.jpg)
+![potato](/2015/12/potato-diet-week-2-brief-update/img/potato.jpg)
 
 _[Photo](https://flic.kr/p/a2kfkG) by JaBB_
 

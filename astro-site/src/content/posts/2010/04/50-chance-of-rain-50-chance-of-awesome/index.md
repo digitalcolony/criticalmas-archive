@@ -11,10 +11,10 @@ commentCount: 0
 
 Today the weather forecast for Seattle was for a 50% chance of rain. I liked those odds.
 
-![seattle-awesome-4](./img/seattle-awesome-4.jpg)
+![seattle-awesome-4](/2010/04/50-chance-of-rain-50-chance-of-awesome/img/seattle-awesome-4.jpg)
 
-![seattle-awesome-3](./img/seattle-awesome-3.jpg)
+![seattle-awesome-3](/2010/04/50-chance-of-rain-50-chance-of-awesome/img/seattle-awesome-3.jpg)
 
-![seattle-awesome-2](./img/seattle-awesome-2.jpg)
+![seattle-awesome-2](/2010/04/50-chance-of-rain-50-chance-of-awesome/img/seattle-awesome-2.jpg)
 
-![seattle-awesome-1](./img/seattle-awesome-1.jpg)
+![seattle-awesome-1](/2010/04/50-chance-of-rain-50-chance-of-awesome/img/seattle-awesome-1.jpg)

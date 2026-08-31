@@ -11,11 +11,11 @@ commentCount: 1
 
 Be on the lookout for a man with a claw in Lower Queen Anne.
 
-![the-claw](./img/the-claw.jpg)
+![the-claw](/2009/06/stop-for-me-its-the-claw/img/the-claw.jpg)
 
 And the one in Wallingford.
 
-![claw-2](./img/claw-2.jpg)
+![claw-2](/2009/06/stop-for-me-its-the-claw/img/claw-2.jpg)
 
 ---
 

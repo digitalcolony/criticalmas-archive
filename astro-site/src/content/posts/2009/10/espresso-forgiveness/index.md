@@ -31,7 +31,7 @@ It has now been two years since I went to Caffe Umbria. It is an Italian-style e
 
 Espresso Forgiveness #3 was a failure. Not only is this espresso blend tasteless and bitter, but my double ristretto was served in a cappuccino cup. How this place stays in business when it is located between two vastly superior espresso places (Zeitgeist and Stella) amazes me.
 
-![](./img/umbria-seattle.jpg)
+![](/2009/10/espresso-forgiveness/img/umbria-seattle.jpg)
 
 _Caffe Umbria in the Pioneer Square area of Seattle._
 

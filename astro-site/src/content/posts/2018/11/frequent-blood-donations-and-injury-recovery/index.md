@@ -21,7 +21,7 @@ I started actively donating blood not only to help others but to [help myself](/
 
 Has anyone had experience with increasing iron levels to increase recovery times or reduce injuries?
 
-![iron](./img/iron-e1541357347716.jpg)
+![iron](/2018/11/frequent-blood-donations-and-injury-recovery/img/iron-e1541357347716.jpg)
 
 ---
 

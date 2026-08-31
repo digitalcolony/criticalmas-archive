@@ -11,9 +11,9 @@ commentCount: 5
 
 Guess the month and year this photo was taken. There are enough clues in the background that one should be able to figure it out.
 
-![mas-sunday-suit](./img/mas-sunday-suit.jpg)
+![mas-sunday-suit](/2010/01/sunday-suit/img/mas-sunday-suit.jpg)
 
-![mas-sunday-suit-2](./img/mas-sunday-suit-2.jpg)
+![mas-sunday-suit-2](/2010/01/sunday-suit/img/mas-sunday-suit-2.jpg)
 
 ---
 

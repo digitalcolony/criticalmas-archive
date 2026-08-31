@@ -21,4 +21,4 @@ The summer of stir fry continues. This week I did a Thai red shrimp curry, which
 -   coconut cream w/water (cheaper than coconut milk)
 -   shrimp
 
-![rainbow-curry](./img/rainbow-curry.jpg)
+![rainbow-curry](/2008/07/rainbow-shrimp-curry/img/rainbow-curry.jpg)

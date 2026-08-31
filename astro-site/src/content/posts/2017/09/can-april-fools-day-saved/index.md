@@ -27,7 +27,7 @@ What if a large number of people held off on some really big news until April 1
 
 Use April 1 to announce your engagement, coming out of the closet, moving, quitting your job, your arrest or you've decided to go vegan. Why not? If enough people start doing this, it could make April Fools Day fun again or twice as bad. :)
 
-![](./img/april-fools-day.jpg)
+![](/2017/09/can-april-fools-day-saved/img/april-fools-day.jpg)
 
 ---
 

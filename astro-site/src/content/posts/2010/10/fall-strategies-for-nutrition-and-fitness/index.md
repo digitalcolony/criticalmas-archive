@@ -13,7 +13,7 @@ My nutritional mentors all have variations on what they believe is the optimal d
 
 I have not read anyone else who is doing a **seasonal approach** to a low-carb/paleo diet. The premise is that our bodies have growth and repair cycles, just like the planet. During the spring and summer, the planet grows. Long days stimulate carbohydrate cravings and growth. The fall is when nature rests and repair begins for the following spring. Shorter days will reduce carbohydrate cravings - _provided you don't bathe yourself in artificial light after sunset_ - and stimulate repair.
 
-![](./img/autumn.jpg)
+![](/2010/10/fall-strategies-for-nutrition-and-fitness/img/autumn.jpg)
 
 In the post [Summer is Not the Season to Lean Out](/2010/08/summer-is-not-the-season-to-lean-out/), I covered how we are designed to get leaner during the fall and winter, not spring and summer. The reason we don't is cultural. We are exposed to [too much artificial light](/2010/07/turning-down-the-lights/), and poor sleep habits, and because of this we never down-regulate our carbohydrate intake as nature intended. I believe many of today's health problems, especially cancer and obesity, are a result of not allowing the body to go into repair mode during the colder months. Repair means more sleep, fewer carbs, and less exposure to blue light.
 

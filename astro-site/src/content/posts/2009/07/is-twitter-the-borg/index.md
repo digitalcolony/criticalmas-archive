@@ -15,7 +15,7 @@ I wasn't the only one that noticed the similarities. Author [John Battelle](/200
 
 > _Is Twitter the logical next step to a Borg hivemind? First books. Then blogs. Then Twitter. Then ... Borg?_
 
-![the-borg](./img/the-borg.jpg "the-borg")
+![the-borg](/2009/07/is-twitter-the-borg/img/the-borg.jpg "the-borg")
 
 He further writes:
 

@@ -39,7 +39,7 @@ For years, I fell for every 5,000-mile rule. Turns out that is way too much. For
 
 I always share tip #1 with the people in the lobby. I recall one time there was a $20 coupon online. That fellow customer was happy to get the savings. So if you find yourself in the Jiffy Lube lobby, let others know about the coupon.
 
-![lose money?](./img/6679444993_6bdd4d9bcb_o.jpg)
+![lose money?](/2018/11/3-ways-to-save-money-at-jiffy-lube/img/6679444993_6bdd4d9bcb_o.jpg)
 
 ---
 

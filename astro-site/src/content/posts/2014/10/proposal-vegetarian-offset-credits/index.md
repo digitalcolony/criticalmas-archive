@@ -25,11 +25,11 @@ You could do this once a week, once a month or once a year. Before I get vegan r
 
 Good idea?
 
-![fast food](./img/2501155494_a944f81017_z.jpg)
+![fast food](/2014/10/proposal-vegetarian-offset-credits/img/2501155494_a944f81017_z.jpg)
 
 _[Photo](https://flic.kr/p/4P25oA) by Derek_
 
-![salad](./img/2329612512_b46cca6e13_z.jpg)
+![salad](/2014/10/proposal-vegetarian-offset-credits/img/2329612512_b46cca6e13_z.jpg)
 
 _Photo by Harald Walker (no longer on Flickr)_
 

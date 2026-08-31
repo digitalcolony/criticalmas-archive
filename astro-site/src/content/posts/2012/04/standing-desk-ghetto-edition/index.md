@@ -17,7 +17,7 @@ This year I've been doing a lot more computer work and I've been experiencing mo
 
 The logical course of action was to go ghetto. I grabbed a box.
 
-![](./img/standing-desk-ghetto.jpg "standing-desk-ghetto")
+![](/2012/04/standing-desk-ghetto-edition/img/standing-desk-ghetto.jpg "standing-desk-ghetto")
 
 _My standing desk does double duty as my [fermentation station](/2011/10/my-fermentation-station/)._
 

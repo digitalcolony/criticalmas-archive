@@ -23,7 +23,7 @@ For the next few blocks my Honda Civic hatchback jumped from lane to lane chasin
 
 Then I got the break I was looking for. The light turned red. The black Mercedes was stopped in the left lane. I did an aggressive pass and got into the right lane and pulled up even with Mercedes. And at that moment all three of our heads turned in unison and we looked into the other car. The driver noticed and turned his head towards us. It was Hulk Hogan! Then in a classic move I'll never forget, he put his hand up and gave us a salute wave. The light changed and he tore off.
 
-[![](./img/hulk343.jpg "Hulk Hogan")](./img/hulk343.jpg)
+[![](/2008/01/that-time-i-got-in-a-car-chase-with-hulk-hogan/img/hulk343.jpg "Hulk Hogan")](./img/hulk343.jpg)
 
 We cheered him as his car got drove away. And that is the story of the time I got in a car chase with Hulk Hogan.
 

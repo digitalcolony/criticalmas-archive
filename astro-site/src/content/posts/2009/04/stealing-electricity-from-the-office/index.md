@@ -11,7 +11,7 @@ commentCount: 2
 
 Today's Dilbert reminded me of one of my office stories.
 
-![dilbert-electricity](./img/dilbert-electricity.gif)
+![dilbert-electricity](/2009/04/stealing-electricity-from-the-office/img/dilbert-electricity.gif)
 
 One day I was walking back to the break room and I noticed a thick orange extension cord plugged into the wall. Someone had propped the back door open. Curious to see what was being charged, I followed the orange extension cord outside. It was an RV. A pretty good sized one too.
 

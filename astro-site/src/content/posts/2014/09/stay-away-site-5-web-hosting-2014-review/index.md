@@ -17,7 +17,7 @@ On one hand they promise Unlimited, but if you dig around you will see that isn'
 
 I'll repost my traffic here.
 
-[![site stats](./img/criticalmas-august-2014.jpg)](./img/criticalmas-august-2014.jpg)
+[![site stats](/2014/09/stay-away-site-5-web-hosting-2014-review/img/criticalmas-august-2014.jpg)](./img/criticalmas-august-2014.jpg)
 
 As I mentioned [yesterday](/2014/09/always-run/), the traffic to this site is not tremendous nor is it trivial. It is in that middle ground that makes finding decent hosting at a fair price a challenge.
 
@@ -31,7 +31,7 @@ Back in May I was poking around on the Control Panel and I saw the Resource Usag
 
 After contacting support, I was still confused. I knew I was in violation and I knew they weren't saying anything about it. The conclusion I reached is that whatever Resource Usage metric they created was done a long time ago before processing power and bandwidth costs were much higher and that it hadn't been updated.
 
-![resource point usage](./img/resource-point-usage.jpg)
+![resource point usage](/2014/09/stay-away-site-5-web-hosting-2014-review/img/resource-point-usage.jpg)
 
 Site 5 has known since February that I've been in violation of their Resource Limits. I learned in May. I brought it to their attention so we could resolve the issue. Other than sharing links to resources I had already read, they offered me no guidance. Then a few days ago, they decided to enforce their metric. This means getting my Resource Usage down or the site will get moved to their a $100 a month VPS server or I get suspended.
 

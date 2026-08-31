@@ -17,7 +17,7 @@ I've been fine with Paleo, low carb, ketosis, cold weather exposure, intermitten
 
 How does one succeed in nutrition when nobody seems to agree on anything? How can one get the benefits that arrive in the early stages of a diet without staying too long and compromising their health? What has worked well for me is thinking about nutrition like an investor thinks about investment opportunities.
 
-![MAS money](./img/21.jpg) _Young MAS_
+![MAS money](/2013/04/approaching-nutrition-from-an-investors-mindset/img/21.jpg) _Young MAS_
 
 
 ### Undervalued, Overvalued

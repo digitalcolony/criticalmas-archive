@@ -11,13 +11,13 @@ commentCount: 2
 
 I did a twist on my [Bacon Egg Cupcakes](/2011/07/bacon-egg-cupcakes/) by adding some chopped spinach and Mexican ricotta cheese. Yummy!
 
-![bacon-cupcake-tray](./img/bacon-cupcake-tray.jpg)
+![bacon-cupcake-tray](/2012/08/bacon-egg-cupcakes-now-with-spinach-and-ricotta/img/bacon-cupcake-tray.jpg)
 
-![bacon-cupcake-egg](./img/bacon-cupcake-egg.jpg)
+![bacon-cupcake-egg](/2012/08/bacon-egg-cupcakes-now-with-spinach-and-ricotta/img/bacon-cupcake-egg.jpg)
 
-![bacon-egg-cupcakes](./img/bacon-egg-cupcakes.jpg)
+![bacon-egg-cupcakes](/2012/08/bacon-egg-cupcakes-now-with-spinach-and-ricotta/img/bacon-egg-cupcakes.jpg)
 
-![bacon-cupcake-egg-cooked](./img/bacon-cupcake-egg-cooked.jpg)
+![bacon-cupcake-egg-cooked](/2012/08/bacon-egg-cupcakes-now-with-spinach-and-ricotta/img/bacon-cupcake-egg-cooked.jpg)
 
 ---
 

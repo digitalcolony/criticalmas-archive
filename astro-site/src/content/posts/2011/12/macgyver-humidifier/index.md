@@ -13,13 +13,13 @@ During my trip to Ohio, I noticed an interesting pattern regarding my [nighttime
 
 Before running out to buy a humidifier, I checked online to see if anyone had built their own. In the description of [this video](http://www.youtube.com/watch?v=HyEmJINcfLA), there is a link to a homemade humidifier from 1918.
 
-![1918 Homemade Humidifier](./img/homemadehumd_19896_md.gif "1918 Homemade Humidifier")
+![1918 Homemade Humidifier](/2011/12/macgyver-humidifier/img/homemadehumd_19896_md.gif "1918 Homemade Humidifier")
 
 _[1918 Homemade Humidifier](http://etc.usf.edu/clipart/19800/19896/homemadehumd_19896.htm)_
 
 The premise is you hang a towel down into water. The water will wick up the towel. Air will pass through the towel and humidify the air. At least that is how I understand the theory. My room is very dry right right now. On Tuesday I had a brutal headache, so I decided to try my hand at this project.
 
-![MacGyver Humidifier](./img/macgyver-humidifier.jpg "MacGyver Humidifier")
+![MacGyver Humidifier](/2011/12/macgyver-humidifier/img/macgyver-humidifier.jpg "MacGyver Humidifier")
 
 _MacGyver Humidifier_
 

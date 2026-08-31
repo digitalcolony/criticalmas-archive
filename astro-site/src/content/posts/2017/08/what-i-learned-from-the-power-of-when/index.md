@@ -11,7 +11,7 @@ commentCount: 8
 
 Earlier this year, I read the book _The Power of When_ after hearing the author on a podcast interview.
 
-![Power of When](./img/power-of-when-book.jpg)
+![Power of When](/2017/08/what-i-learned-from-the-power-of-when/img/power-of-when-book.jpg)
 
 _The Power of When: Discover Your Chronotype--and the Best Time to Eat Lunch, Ask for a Raise, Have Sex, Write a Novel, Take Your Meds, and More by Michael Breus Ph.D._
 

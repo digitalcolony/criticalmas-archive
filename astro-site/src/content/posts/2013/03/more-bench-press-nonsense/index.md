@@ -26,7 +26,7 @@ The beauty of Nautilus or other machine-based equipment is they remove the need 
 Since giving up the bench press over two years ago, my chest strength is greater, but if I tried to perform a bench press today that number would likely be lower. Two separate things. I no longer need to hold onto a number to quantify my strength. It is quite liberating.
 
 
-### ![](./img/bench-press.jpg)
+### ![](/2013/03/more-bench-press-nonsense/img/bench-press.jpg)
 
 
 

@@ -26,13 +26,13 @@ For the past two years, I've exceeded my execution allotment. This week, I fixed
 -   3,297 (last 2 hours)
 -   46,375 (last 24 hours)
 
-![account executions Saturday](./img/account-executions-SATURDAY-3pm.png)
+![account executions Saturday](/2020/02/reducing-wordpress-executions-battling-the-bots/img/account-executions-SATURDAY-3pm.png)
 
 
 #### Execution Count on Friday, January 24th
 
 
-![account executions FRIDAY](./img/account-executions-FRIDAY-noon.png)
+![account executions FRIDAY](/2020/02/reducing-wordpress-executions-battling-the-bots/img/account-executions-FRIDAY-noon.png)
 
 -   1,512 (last 2 hours)
 -   18,262 (last 24 hours)
@@ -47,15 +47,15 @@ If you can access the Internet via a fixed IP address, you can restrict Admin ac
 
 If you use Siteground, here is where to go. From cPanel, click "WordPress Toolkit", which is under "WordPress Tools".
 
-![wordpress-toolkit](./img/wordpress-toolkit.png)
+![wordpress-toolkit](/2020/02/reducing-wordpress-executions-battling-the-bots/img/wordpress-toolkit.png)
 
 After selecting that button, you will see a list of your sites with WordPress. Select the Manage button beside the sites you wish to lockdown. I locked down 3 of my 4 websites. The 4th one I share with a co-publisher that doesn't have access to a fixed IP Address.
 
 Select Secure Admin Panel. Enter your IP Address. Now anyone not viewing the Admin from that specific IP Address will not get access. You can enter multiple IP Addresses if you need to.
 
-![secure admin ](./img/secure-admin-button.png)
+![secure admin ](/2020/02/reducing-wordpress-executions-battling-the-bots/img/secure-admin-button.png)
 
-![](./img/secure-admin-ip-address.png)
+![](/2020/02/reducing-wordpress-executions-battling-the-bots/img/secure-admin-ip-address.png)
 
 If you are not with SiteGround, the steps are likely to be different, so you may need to contact your host for assistance on securing your Admin by IP Address.
 

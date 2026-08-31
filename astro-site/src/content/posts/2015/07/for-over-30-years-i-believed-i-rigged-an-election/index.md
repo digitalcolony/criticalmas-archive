@@ -15,7 +15,7 @@ I don't remember a single thing about the games. What I remember was the [punch 
 
 The only player I remember voting for was Pete Rose. Even though he no longer played for the Cincinnati Reds, he was still a sports legend in Ohio. My sister and I punched every single card for Pete Rose.
 
-![mas-sunday-suit-2](./img/mas-sunday-suit-2.jpg)
+![mas-sunday-suit-2](/2015/07/for-over-30-years-i-believed-i-rigged-an-election/img/mas-sunday-suit-2.jpg)
 
 _Me from May 1981_
 
@@ -23,7 +23,7 @@ This is about the same time that I got interested in the numerical aspect of bas
 
 Up until two days ago, the last tally I saw in the newspaper showed that Pete Rose beat out Steve Garvey for First Base by less than 100 votes. For over 30 years, I have believed that my sister and I were responsible for throwing the election for Pete Rose. But I just discovered this week that I hadn't seen the actual final vote count.
 
-![1981 MLB All-Star1B](./img/1981.gif)
+![1981 MLB All-Star1B](/2015/07/for-over-30-years-i-believed-i-rigged-an-election/img/1981.gif)
 
 _From the August 4, 1981, Chicago Tribune._
 

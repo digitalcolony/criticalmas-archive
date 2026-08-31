@@ -28,7 +28,7 @@ Price was able to show the harmful impact processed flour, refined sugar, and pr
 
 Price was also able to show how different cultures used whole foods local to their region to create vibrant health without knowing anything about nutritional science. Vitamins had only recently been discovered, yet these cultures knew how to prepare and combine foods in their environment to prevent deficiencies. They soaked, sprouted, and fermented their foods. They ate the entire animal nose to tail.
 
-![](./img/weston-price.jpg)
+![](/2024/03/vegans-vs-weston-price/img/weston-price.jpg)
 
 
 ### Weston Price in the Modern World

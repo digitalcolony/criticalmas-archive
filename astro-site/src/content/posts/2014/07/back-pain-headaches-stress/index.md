@@ -29,7 +29,7 @@ Earlier this month the back pain started up again. This wasn't a concern since I
 
 I chewed on these questions for a few days and I think I discovered the answers.
 
-![stress pencil](./img/7837502186_1310abe0a6_z.jpg)
+![stress pencil](/2014/07/back-pain-headaches-stress/img/7837502186_1310abe0a6_z.jpg)
 
 _[Photo](https://flic.kr/p/cWzfm3) by Light Collector_
 

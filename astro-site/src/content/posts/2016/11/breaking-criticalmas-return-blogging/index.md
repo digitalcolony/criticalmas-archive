@@ -17,7 +17,7 @@ I don't like walking away from unfinished projects.
 
 I'd like to wrap up some of the topics I left open. At that point I may or may not continue blogging. Unlike _Breaking Bad_ and _Metástasis_, I don't know how this story will end.
 
-![metastasis](./img/Metastasis.jpg)
+![metastasis](/2016/11/breaking-criticalmas-return-blogging/img/Metastasis.jpg)
 
 _Metástasis is a shot by shot remake of Breaking Bad filmed in Bogotá, Colombia. It is on Netflix._
 

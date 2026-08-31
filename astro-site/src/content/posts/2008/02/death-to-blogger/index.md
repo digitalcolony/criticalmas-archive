@@ -13,4 +13,4 @@ I've been with Blogger since April 2000 and I've finally had enough. It is clear
 
 I've started the process of moving to WordPress. Moving to WordPress means my links will break. I'll do my best to make the transition smooth. It's a hit I'm now willing to take on CriticalMAS. DigitalColony which gets 8 times the traffic will be a far tougher move.
 
-![destroyed-atm](./img/destroyed-atm.jpg) _This ATM machine works better than Blogger._
+![destroyed-atm](/2008/02/death-to-blogger/img/destroyed-atm.jpg) _This ATM machine works better than Blogger._

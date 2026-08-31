@@ -21,7 +21,7 @@ My revamped health journey all began with De Vany. I went from a pescovegetarian
 
 His original site was at arthurdevany.com then later he moved to artdevanyonline.com. Both sites are now dead. Then he moved to Facebook. Then he changed pages on Facebook. If you want an example on how to annoy your fans, here you go. Just keep moving around without leaving a forwarding address. The super popular T-Nation still links to his original site from a 2005 article.
 
-![](./img/art-devany.jpg)
+![](/2017/03/digital-graveyard-health-fitness-mentors/img/art-devany.jpg)
 
 _2006 screenshot_
 
@@ -53,7 +53,7 @@ Well, last year they got hacked. The site is still down. Through back channels, 
 
 From what I gather, they believe that "Chinese hackers" now have their domain, so Dr. McGuff has started a new website. But a quick check on WHOIS shows his co-author John Little is still the registrar. They are walking away from almost a decade of content and countless inbound links to their domain. Tragic.
 
-![](./img/Body-By-Science.jpg)
+![](/2017/03/digital-graveyard-health-fitness-mentors/img/Body-By-Science.jpg)
 
 _2011 Screenshot of BBS website. This screenshot was taken today. The content is not lost._ 
 

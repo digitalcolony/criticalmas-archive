@@ -13,7 +13,7 @@ On March 24, 2011, I began tracking my headaches in a project I called [Hunting 
 
 On September 1, 2013, I ended the hunt. I've given up for now. It is time to take a long break from this experiment. I have enough data to know MANY things that aren't causing the headaches. Besides obvious headache triggers such as gluten and alcohol, which I avoid completely, I know that caffeine plays a prominent role in my headaches. Collecting more data isn't going to change that.
 
-![ha-coffee-final](./img/ha-coffee-final.png)
+![ha-coffee-final](/2013/09/hunting-headaches-ending-hunt/img/ha-coffee-final.png)
 
 Red is the average daily coffee. Blue is average headache intensity. Whenever I make a serious attempt to reduce coffee, headache intensity drops. The opposite isn't always true. I also earned that consuming coffee in the late afternoon IMPROVES my sleep quality, which reduces headache intensity. This is counter intuitive to most people. For me coffee plays a complicated role.
 

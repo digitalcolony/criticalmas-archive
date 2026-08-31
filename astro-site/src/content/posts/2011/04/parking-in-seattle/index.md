@@ -12,7 +12,7 @@ Imagine you are driving through Seattle one morning. The skies are gray and ther
 
 You glance over to see if it is OK to park there. This is the sign you see. :x
 
-![](./img/IMG_0825-699x1024.jpg "seattle parking sign")
+![](/2011/04/parking-in-seattle/img/IMG_0825-699x1024.jpg "seattle parking sign")
 
 ---
 

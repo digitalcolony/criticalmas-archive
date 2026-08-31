@@ -23,7 +23,7 @@ From [Policy ideas for a healthier America - The Next #57](https://justinmares.s
 
 Sounds scary. I have no idea how to measure the danger Americans have relative to Europeans when it comes to negative health outcomes from these chemicals. If it were a strong signal, would it show up in cancer rates? Let's look at the [top cancer rates by country](https://worldpopulationreview.com/country-rankings/cancer-rates-by-country) from the WHO.
 
-![](./img/cancer-rates.png)
+![](/2024/10/does-america-have-a-toxic-food-problem/img/cancer-rates.png)
 
 The USA is "middle of the pack" on cancer outcomes.
 
@@ -33,7 +33,7 @@ So is it the calories or the chemicals that are leading to worse health outcomes
 
 I suppose we could study all these chemicals and have a better answer in 10 or 20 years. In the meantime, we can whine on social media about how we feel healthier after our European vacation than we do back home eating DoorDash. It must be the chemicals, right? ‍
 
-![](./img/chemical-hamburger-guy.jpg)
+![](/2024/10/does-america-have-a-toxic-food-problem/img/chemical-hamburger-guy.jpg)
 
 _Calories or chemicals? Or both?_
 

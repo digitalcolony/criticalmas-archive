@@ -19,7 +19,7 @@ You can do a search for kimchi recipes and you will see almost all have you rins
 
 The reason my kimchi is awesome is that I use a superior salt and I don't rinse it off prior to packing the jars. My most recent kimchi recipe is [Kimchi 2.0](/2012/08/kimchi-2-0/). Actually, if you want to try my latest idea, add some Chinese chives to _Kimchi 2.0_. It adds a nice touch of sweetness, which compliments the mustard leaf bitterness.
 
-![kimchi](./img/kimchi.jpg)
+![kimchi](/2013/03/why-my-kimchi-is-awesome/img/kimchi.jpg)
 
 _One of my many kimchi creations._
 

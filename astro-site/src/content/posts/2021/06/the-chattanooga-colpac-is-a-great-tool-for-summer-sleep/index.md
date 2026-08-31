@@ -9,7 +9,7 @@ description: "I moved at the end of April and my new place is much warmer and un
 commentCount: 3
 ---
 
-I moved at the end of April and my new place is much warmer and unfortunately for me this month, it does not have air conditioning. Seattle is having a bit of a heatwave right now. ![heatwave](./img/hot-in-seattle.jpg)
+I moved at the end of April and my new place is much warmer and unfortunately for me this month, it does not have air conditioning. Seattle is having a bit of a heatwave right now. ![heatwave](/2021/06/the-chattanooga-colpac-is-a-great-tool-for-summer-sleep/img/hot-in-seattle.jpg)
 
 🥵
 

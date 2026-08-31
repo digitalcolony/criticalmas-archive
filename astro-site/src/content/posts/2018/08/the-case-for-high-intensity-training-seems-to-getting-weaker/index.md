@@ -76,7 +76,7 @@ I am doing benches with medium light dumbbells and trap-bar deadlifts with a mor
 
 Your thoughts?
 
-![leg press](./img/leg-press.jpg)
+![leg press](/2018/08/the-case-for-high-intensity-training-seems-to-getting-weaker/img/leg-press.jpg)
 
 ---
 

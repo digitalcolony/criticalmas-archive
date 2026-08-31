@@ -13,7 +13,7 @@ I am not a big believer in supplements. For the most part, I see the supplement 
 
 Are all supplements bad? I don't know. My guess is there is more about nutrition that we don't know than what we do. There is a long history of supplements that were the rage that we now know are worthless. _Remember in the early 1990s how chromium picolinate was going to make us lean?_ Everything mankind has needed to survive has been found in food. I don't believe we are as smart as Mother Nature. I'm not alone in this belief. Michael Pollan wrote an entire book on this topic called [In Defense of Food](/2008/07/in-defense-of-food/).
 
-![](./img/nervous-pills.jpg)
+![](/2010/12/thinking-about-supplements/img/nervous-pills.jpg)
 
 _by Peter Konnecke_
 

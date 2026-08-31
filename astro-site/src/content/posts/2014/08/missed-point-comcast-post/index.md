@@ -25,7 +25,7 @@ As consumers, we like to label places as having good or bad service. I used to d
 
 The area that I have the most experience in customer interactions is coffee shops. My goal is to get an excellent shot of espresso when I visit a cafe. My article on INeedCoffee titled [Espresso as a Lottery Ticket](https://ineedcoffee.com/espresso-as-a-lottery-ticket/) has a section called _Validate Yourself With the Barista_. It covers ideas that I have implemented to get better espresso. The core lesson is the same as dealing with Comcast. Start by showing respect for them and the job they do. You don't know how many surly customers they may have interacted with before you arrived. Respect reframes their attention in a positive direction.
 
-![barista](./img/5357939173_9502f88989_z.jpg)
+![barista](/2014/08/missed-point-comcast-post/img/5357939173_9502f88989_z.jpg)
 
 _[Photo](https://flic.kr/p/9asQDB) by Matt Biddulph_
 

@@ -43,7 +43,7 @@ The path I took to purge the PUFA was a low-fat, high-volume, higher protein die
 
 I cover my diet in more detail here [What I Eat and What I Don’t Eat – 2020 Edition](/2020/02/what-i-eat-and-what-i-dont-eat-2020-edition/).
 
-![peel potato](./img/peter-schad-eLSmoVXKdF8-unsplash.jpg)
+![peel potato](/2021/04/escaping-pufa-hibernation/img/peter-schad-eLSmoVXKdF8-unsplash.jpg)
 
 _The boiled (and cooled) potato is not only the [#1 food for permanent fat loss](/2021/04/the-potato-diet-4-years-later/), but it is also an excellent way to displace PUFA. Photo by [Peter Schad](https://unsplash.com/@der_mentor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._
 

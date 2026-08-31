@@ -24,7 +24,7 @@ I like to help my friends. I respond with clarity to every email. My inbox is al
 
 So if you need a clear detailed answer from me, send an email, otherwise 🤷‍♂️.
 
-![email](./img/15197804185_d4a1f3d9b3_z.jpg)
+![email](/2019/11/please-stop-texting-me-emails/img/15197804185_d4a1f3d9b3_z.jpg)
 
 ---
 

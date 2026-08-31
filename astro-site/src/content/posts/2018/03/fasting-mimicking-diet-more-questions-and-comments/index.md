@@ -41,7 +41,7 @@ But does the ketosis signal itself play a role in repair? More specifically, end
 
 My plan is to do the 2 avocados a day approach on my next FMD. Then I will be ketogenic and in full compliance. But I would still like to know.
 
-![avocado](./img/charles-deluvio-464970-avocado.jpg)
+![avocado](/2018/03/fasting-mimicking-diet-more-questions-and-comments/img/charles-deluvio-464970-avocado.jpg)
 
 _Photo by [Charles Deluvio](https://unsplash.com/@charlesdeluvio)_
 

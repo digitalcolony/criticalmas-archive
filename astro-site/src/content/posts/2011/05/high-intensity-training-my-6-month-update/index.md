@@ -29,7 +29,7 @@ There are several different HIT training protocols and they differ slightly from
 
 Most of my workouts last just 10 minutes and I only work out every 5th day.
 
-![leg-press](./img/leg-press.jpg)
+![leg-press](/2011/05/high-intensity-training-my-6-month-update/img/leg-press.jpg)
 
 _[Leg Press](http://www.flickr.com/photos/jnd90745/3198533414/in/photostream/) by Oliver DelaCruz. I used to believe the leg press was a worthless exercise. Once I learned to really slow the movement down and not lock out, I became a fan. 99% of the people in the gym use this piece of equipment wrong. SLOW DOWN!_
 
@@ -53,7 +53,7 @@ At some point, if I feel my progress is stalling, I'll start recording things.
 
 In the post [Training To Failure or Training To Quit](/2011/03/training-failure-training-quit/), I theorized that I might cycle between periods of High Intensity Training and a more traditional Pavel-style workout program. Well, I am going to stick with HIT for now. Every week that passes I become more convinced that HIT is right for me.
 
-![MAS Flex](./img/mas_flex500.jpg)
+![MAS Flex](/2011/05/high-intensity-training-my-6-month-update/img/mas_flex500.jpg)
 
 _This is an early photo of me striking a bicep pose._ :)
 

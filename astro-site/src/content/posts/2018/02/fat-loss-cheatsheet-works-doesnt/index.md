@@ -48,7 +48,7 @@ Again, this is my list and some of these ideas have worked for others.
 3.  Organic Grass-fed Farmers Market Heirloom Whole Paycheck eating. I'm going to explain this comment in much greater detail in a [future post](/2018/04/fear-of-a-toxic-planet/), but the short version is buying higher-quality foods will not make you leaner unless those foods have fewer calories. I know many people who make a decent living and want to spend their way to better health without making true sacrifices that would require willpower. The high amount of money they spend on groceries never seems to make a dent in their weight.
 4.  Above baseline exercise. Sorry Brotards, but in the real world and not your 12-week studies with untrained college men, people respond to higher levels of activity with higher levels of hunger. Not at first, but eventually. The fact it doesn't happen immediately makes it look like exercise is a potent fat burner. It is not. See [Exercise and Fat Loss Revisited](/2015/04/exercise-and-fat-loss-revisited/). And for the record, I am a believer in the health benefits of exercise, just not when it comes to fat loss.
 
-![fat loss cheatsheet](./img/fat-loss-meme.jpg)
+![fat loss cheatsheet](/2018/02/fat-loss-cheatsheet-works-doesnt/img/fat-loss-meme.jpg)
 
 If you decide to try some of the ideas on this list, my advice is to roll in a few ideas at a time. Changing too many things at once is likely to be overwhelming. Plus, why add additional restrictions if you can see progress with just a few ideas?
 

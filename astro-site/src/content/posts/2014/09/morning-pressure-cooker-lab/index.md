@@ -12,7 +12,7 @@ Yesterday I raved about my latest hobby which the [pressure cooker](/2014/09/pre
 
 It came out very good, but I think I can make it better. Give me a week and I'll have a recipe that will amaze and delight. :)
 
-![chicken congee](./img/chicken-congee-1.jpg)
+![chicken congee](/2014/09/morning-pressure-cooker-lab/img/chicken-congee-1.jpg)
 
 _Version 1 of Vietnamese Chicken Congee._
 

@@ -19,19 +19,19 @@ Actually, he hasn't changed his mind. His newest book which was published **just
 
 Let us look at a few choice quotes from his latest book Disease-Proof, which was published in **September 2013**. You'd swear you were reading something from the early 1990s.
 
-![p64-sat-fat](./img/p64-sat-fat.png)
+![p64-sat-fat](/2013/10/whis-guinea-pig-dr-katz/img/p64-sat-fat.png)
 
 _page 64_
 
 The doctor lumps saturated fat in with trans fats. Even an idiot like me can see this might cause a problem with your data set and lead to false recommendations. Then he says it is important to restrict your saturated fat intake lest you get heart disease or a stroke. No wonder his crappy article implied saturated fats were dangerous. He found himself on the wrong side of science and he has a new book to sell.
 
-![p94-milk](./img/p94-milk.png)
+![p94-milk](/2013/10/whis-guinea-pig-dr-katz/img/p94-milk.png)
 
 _page 94_
 
 Our Yale doctor believes whole milk which has nourished humans for thousands of years is to be replaced with processed skim milk. I wonder if the doctor saw [this story](http://www.npr.org/sections/thesalt/2013/03/19/174739752/whole-milk-or-skim-study-links-fattier-milk-to-slimmer-kids)?
 
-![p108-heart](./img/p108-heart.png)
+![p108-heart](/2013/10/whis-guinea-pig-dr-katz/img/p108-heart.png)
 
 _page 108_
 

@@ -27,7 +27,7 @@ I've made this recipe three times. It may be too hot. The last batch I made was 
 
 **Summary**: _A Spicy Kimchi_
 
-![ghost-kimchi](./img/ghost-kimchi.jpg)
+![ghost-kimchi](/2011/11/ghost-pepper-kimchi-recipe/img/ghost-kimchi.jpg)
 
 
 #### Ingredients
@@ -57,7 +57,7 @@ I've made this recipe three times. It may be too hot. The last batch I made was 
 
 Preparation time: 1 hour(s) Culinary tradition: Korean + Seattle!
 
-![kimchi-2](./img/kimchi-2.jpg)
+![kimchi-2](/2011/11/ghost-pepper-kimchi-recipe/img/kimchi-2.jpg)
 
 _Ghost Pepper Kimchi (left) has less Korean Red Pepper flakes than regular Kimchi (right) and a more orange color._
 

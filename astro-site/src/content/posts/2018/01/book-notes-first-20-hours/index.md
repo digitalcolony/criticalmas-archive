@@ -58,6 +58,6 @@ Don’t rely on willpower to overcome these barriers. Rearrange your environment
 9.  Make and test predictions.
 10.  Honor your biology.
 
-![first 20 hours](./img/first-20-hours.jpg)
+![first 20 hours](/2018/01/book-notes-first-20-hours/img/first-20-hours.jpg)
 
 _The First 20 Hours: How to Learn Anything . . . Fast! by Josh Kaufman._

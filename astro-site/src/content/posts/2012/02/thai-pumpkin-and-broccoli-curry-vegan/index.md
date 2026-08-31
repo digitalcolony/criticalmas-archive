@@ -11,7 +11,7 @@ commentCount: 4
 
 It was not my intention to make a vegan friendly recipe, but this turned out so good that I had to share it. I've made this Thai curry twice now and I love it. And as good as it tastes, the best part might be that it costs very little to make. In fact, I received the pumpkin for free. Once you dig into a pumpkin, it is shocking how much "pumpkin meat" is inside. My freezer still has a few pounds of pumpkin waiting for my next curry.
 
-![cubed-pumpkin](./img/cubed-pumpkin.jpg)
+![cubed-pumpkin](/2012/02/thai-pumpkin-and-broccoli-curry-vegan/img/cubed-pumpkin.jpg)
 
 When it comes to making curries, I don't measure anything. Just throw in as much or as little as you like. You really can't go wrong. If you like the ingredients and the spice level, it is very likely you will like your curry. I've made curry well over 100 times and the combination of pumpkin and broccoli stood out to me as a personal favorite. Hope you enjoy it as much as I did.
 
@@ -48,7 +48,7 @@ Pumpkin and broccoli are super healthy too. Both made the cut in the book [The 1
 10.  Serve curry over rice!
 11.  Salt to taste or you could use fish sauce if you don't care about the vegan angle.
 
-![pumpkin-broc](./img/pumpkin-broc.jpg)
+![pumpkin-broc](/2012/02/thai-pumpkin-and-broccoli-curry-vegan/img/pumpkin-broc.jpg)
 
 
 #### Quick notes

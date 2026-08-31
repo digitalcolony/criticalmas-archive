@@ -17,12 +17,12 @@ There is a happy medium. Up until visiting the Floating Market, Bangkok had been
 
 To see the Floating Market we signed up for a tour. We were driven an hour out of Bangkok.Once there we took a nice boat ride to the market. At that point they tried to upsell us boating THROUGH the market. A bit dishonest from the tour company, since we paid to tour the Floating Market from the boat, not the ride to the Floating Market. We didn't pay.
 
-![floating-market-1](./img/floating-market-1.jpg)
+![floating-market-1](/2009/11/missing-circuit-city-at-the-floating-market/img/floating-market-1.jpg)
 
 Once off ther boat the vendors descended on us like mosquitos. This was all tourists being lead into a trap. One lady stuck a stick with fruit inches from eye after I declined her offer for a free sample.
 
 Eventually we found a place to wait out our time there and not be hassled. We got some great photos and visited a wood carving place on the way back.
 
-![floating-market-2](./img/floating-market-2.jpg)
+![floating-market-2](/2009/11/missing-circuit-city-at-the-floating-market/img/floating-market-2.jpg)
 
 I am sure there is some traditional Floating Market somewhere on the planet. Avoid the one outside Bangkok.

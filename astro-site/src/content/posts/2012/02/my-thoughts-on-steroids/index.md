@@ -17,7 +17,7 @@ Yesterday I posted a review of the documentary [Bigger, Stronger, Faster](/2012/
 
 At this time I discovered a magazine called Muscle Media 2000, which attacked supplement companies and had open and honest dialog about steroids. Steroids were effective and not nearly as dangerous as the mass media would have you believe. Most people are unaware that anabolic steroids have been around since the 1930s, but were only labeled as [Schedule III narcotics](https://en.wikipedia.org/wiki/List_of_Schedule_III_drugs_\(US\)) in 1990. One of the writers for _Muscle Media 2000_ was _The Steroid Guru_ [Dan Duchaine](https://en.wikipedia.org/wiki/Dan_Duchaine). He released the infamous book Underground Bodyopus: Militant Weight Loss & Recomposition, which openly discussed steroids. Once I exchanged a few emails with him on the legality of a supplement being carried at a Tampa Bay area supplement shop.
 
-![steroids](./img/14487525815_9ab19772e9_z.jpg)
+![steroids](/2012/02/my-thoughts-on-steroids/img/14487525815_9ab19772e9_z.jpg)
 
 _[Photo](https://flic.kr/p/o5dmFR) By MattysFlicks_
 

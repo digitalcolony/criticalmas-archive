@@ -18,7 +18,7 @@ The short version is that I view CrossFit as something that looks fun, but the i
 
 I don't see CrossFit nearly as popular with health influencers as it was a decade ago. Here is a Google Trend for the word CrossFit. Interest peaked in July 2013 and has been in decline ever since. Did everyone get hurt?
 
-![](./img/crossfit-trend.png)
+![](/2023/12/are-martial-arts-the-new-crossfit/img/crossfit-trend.png)
 
 _CrossFit Google Trend decline_
 
@@ -60,7 +60,7 @@ Since middle school, I haven't been in a single fight. Not even close. I can't e
 
 Facebook CEO Mark Zuckerberg tore his ACL while sparring. Dr. Shawn Baker injured his neck doing jiu-jitsu, causing nerve issues that required stem cell therapy. It's hard to flee or "protect your family" if you're being pushed around in a wheelchair.
 
-![](./img/zuck-injury-acl.jpg)
+![](/2023/12/are-martial-arts-the-new-crossfit/img/zuck-injury-acl.jpg)
 
 _Zuck after his sparring injury._
 

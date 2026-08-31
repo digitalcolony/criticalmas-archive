@@ -13,7 +13,7 @@ When I saw white asparagus at the store, I thought it was the most bizarre thing
 
 I learned that I'm the last one to hear about white asparagus. Turns out this is old news. What can I say? It was new to me. Anyway, it tasted no different than green asparagus.
 
-![white-asparagus](./img/white-asparagus.jpg)
+![white-asparagus](/2009/04/white-asparagus/img/white-asparagus.jpg)
 
 _Broiled Lamb and White Asparagus_
 

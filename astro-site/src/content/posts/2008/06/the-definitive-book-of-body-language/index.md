@@ -19,7 +19,7 @@ The book explains that men are terrible at picking up body language signals. Wom
 
 Most of the book is spent going through and analyzing different body language signals with drawings and photographs. For example, when a child tells a lie they will often cover their mouth. This signal is also common in adults. The book located a photo of President Clinton during the Lewinsky testimony where he was denying relationships with the intern. He was shown covering his mouth.
 
-![Clinton Testimony](./img/clinton-testimony1.jpg)
+![Clinton Testimony](/2008/06/the-definitive-book-of-body-language/img/clinton-testimony1.jpg)
 
 The book covers handshakes, face gestures, arm positioning, leg crossing, mirroring, personal space, flirting, and much more. Guys will want to read the _Thirteen Most Common Female Courtship Gestures and Signals_. I guarantee you are missing most of them.
 

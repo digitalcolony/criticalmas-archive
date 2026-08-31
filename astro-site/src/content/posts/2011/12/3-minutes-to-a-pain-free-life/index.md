@@ -28,9 +28,9 @@ A friend of mine told me that the 6 Exercises were very similar to the ones used
 5.  Split
 6.  Sky Reach
 
-![Bow Stretch](./img/1-Bow-500.jpg "Bow Stretch")
+![Bow Stretch](/2011/12/3-minutes-to-a-pain-free-life/img/1-Bow-500.jpg "Bow Stretch")
 
-![sky reach](./img/6-sky-reach-500.jpg "sky reach")
+![sky reach](/2011/12/3-minutes-to-a-pain-free-life/img/6-sky-reach-500.jpg "sky reach")
 
 
 ### Additional Exercises

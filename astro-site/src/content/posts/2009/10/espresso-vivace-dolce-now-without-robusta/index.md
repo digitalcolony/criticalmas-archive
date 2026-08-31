@@ -17,7 +17,7 @@ Last week I learned that _Espresso Vivace_ has removed the robusta component of 
 
 Well, I doubt Vivace was using cheap robusta in their blend. Although most robusta is cheap filler coffee, there exists premium robusta beans as well. These beans command prices equal and sometimes greater than arabica beans. Recently, I had a 100% robusta single origin espresso from Paradise Roasters (Sethuraman Estate from India). It was an outstanding espresso and every bit the equal in quality to arabica espresso blends.
 
-![vivace-dolce](./img/vivace-dolce.jpg)
+![vivace-dolce](/2009/10/espresso-vivace-dolce-now-without-robusta/img/vivace-dolce.jpg)
 
 _Vivace Espresso Dolce_
 
@@ -33,7 +33,7 @@ The 100% arabica version of Dolce tastes just like the robusta version, however 
 
 Before completing this review, I visited Stella Coffee and had their espresso. Stella roasts a classic Italian espresso and proudly uses robusta in their blend. Although I prefer the taste of Vivace Dolce, Stella's espresso stayed on my palate much longer. I'll continue to purchase the Vivace Dolce, but maybe not as much as before.
 
-![stella-espresso](./img/stella-espresso.jpg)
+![stella-espresso](/2009/10/espresso-vivace-dolce-now-without-robusta/img/stella-espresso.jpg)
 
 _Stella Espresso_
 

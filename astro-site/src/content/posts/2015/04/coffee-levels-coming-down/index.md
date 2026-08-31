@@ -25,7 +25,7 @@ As the day progresses, I'll pair coffee more with food, which seems to help. I'd
 
 Some people scoff at decaf coffee, but decaf has changed a lot in the last four years. Most people _including many people in the coffee industry_ are unaware of the quality improvements made by Swiss Water in the decaffeination process. The short version is some decaf coffees are so good now that they are fooling coffee professionals. The long version of what is happening with decaf is worthy of an article, which I plan to write and post over on INeedCoffee.
 
-![drink-more-coffee](./img/drink-more-coffee.jpg)
+![drink-more-coffee](/2015/04/coffee-levels-coming-down/img/drink-more-coffee.jpg)
 
 _Fighting the coffee devil this week. Photo by me taken at El Diablo Coffee in Seattle._
 

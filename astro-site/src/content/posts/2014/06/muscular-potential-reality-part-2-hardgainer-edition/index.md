@@ -21,7 +21,7 @@ In the previous post, I said this before explaining the work of Ellington Darden
 
 Using the ectomorph / hard gainer formula from Casey Butt, I am only shy of my muscular potential by 5.5 pounds. This seems closer to reality to me than 17 pounds. The reason I say that is because whenever I've pushed the mass as a primary goal, I tend to get fatter. This has held true ever since I captured the early gains from following the Pavel training protocol around 2003.
 
-![Hardening a Muscle](./img/7192588208_9161e1883d_z.jpg)
+![Hardening a Muscle](/2014/06/muscular-potential-reality-part-2-hardgainer-edition/img/7192588208_9161e1883d_z.jpg)
 
 _Photo from Good Health (1906)_
 

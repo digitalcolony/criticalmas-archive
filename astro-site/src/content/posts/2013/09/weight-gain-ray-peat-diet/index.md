@@ -27,7 +27,7 @@ It worked. Eating ice cream stopped my weight loss. Once I stabilized my weight,
 
 The problem came later. I overshot my target weight and kept gaining. For the first time in my life, I had developed a sugar craving. Then I went a [month without coffee](https://ineedcoffee.com/a-month-without-coffee/) and my appetite signals got all messed up. Today I am 10-15 pounds heavier than my target weight. The good news is I have more muscle and am no longer gaunt. My metabolism seems to be high, but so is my appetite.
 
-![](./img/milk.jpg)
+![](/2013/09/weight-gain-ray-peat-diet/img/milk.jpg)
 
 _Photo by Atomische \* Tom Giebel_
 

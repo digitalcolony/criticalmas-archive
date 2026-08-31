@@ -37,7 +37,7 @@ The only people that acknowledge me when I am walking through the city are peopl
 
 Urban hiking feels more isolating than trail hiking did a decade ago. On most days, I'd rather be back on the trails if they weren't so far away.
 
-![](./img/seattle-viaduct-coming-down.jpg)
+![](/2019/04/urban-hiking-then-and-now/img/seattle-viaduct-coming-down.jpg)
 
 _Seattle is in the process of tearing down the Viaduct, which was a freeway that ran along the waterfront._ 
 

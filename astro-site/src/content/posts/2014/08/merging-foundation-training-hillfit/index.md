@@ -21,7 +21,7 @@ Back in February in the post [Body Language and Exercise Warm-Up](/2014/02/body-
 
 The best glute exercise I've ever done and it only takes 90 seconds.
 
-![Foundation Training Book](./img/Foundation-Training-Book.jpg) _Foundation: Redefine Your Core, Conquer Back Pain, and Move with Confidence by Dr. Eric Goodman. I have not seen the Kindle version, but I can't imagine it displaying the images as nicely as the paperback edition._ 
+![Foundation Training Book](/2014/08/merging-foundation-training-hillfit/img/Foundation-Training-Book.jpg) _Foundation: Redefine Your Core, Conquer Back Pain, and Move with Confidence by Dr. Eric Goodman. I have not seen the Kindle version, but I can't imagine it displaying the images as nicely as the paperback edition._ 
 
 
 ### The Static Windmill

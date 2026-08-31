@@ -19,7 +19,7 @@ This record store proudly displays a sign in the front window stating "One of th
 
 And aren't record stores suppose to be cool and hip? Is there anything less cool that saying Rupert Murdoch likes us a lot?
 
-![record-store-wsj](./img/record-store-wsj.jpg)
+![record-store-wsj](/2014/05/odd-endorsements/img/record-store-wsj.jpg)
 
 
 ### #2 Red Mill Totem House
@@ -31,7 +31,7 @@ I haven't ate an onion ring since the 1990s, but I don't recall much difference 
 
 This sign isn't as bad as the record store endorsement, because it is at least advertising a menu item.  But why is a local fast food place advertising GQ magazine on their signage? They aren't GQ customers. A better sign would simply read: OUR ONION RINGS ARE AWESOME!!! Do you think a single person would question that? "I don't know, they say their onion rings are awesome, but I'm skeptical. What does GQ Magazine think?"
 
-![onion-rings-gq](./img/onion-rings-gq.jpg)
+![onion-rings-gq](/2014/05/odd-endorsements/img/onion-rings-gq.jpg)
 
 ---
 

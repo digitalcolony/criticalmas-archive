@@ -16,7 +16,7 @@ Generally, I've found:
 -   **West Coast** - People show up 5-15 minutes late on average.
 -   **East Coast** - People show up 5-15 minutes early on average.
 
-[![clock](./img/3458668053_d6ff53e0ce_z.jpg)](./img/3458668053_d6ff53e0ce_z.jpg)
+[![clock](/2007/03/west-coast-time/img/3458668053_d6ff53e0ce_z.jpg)](./img/3458668053_d6ff53e0ce_z.jpg)
 
 _Photo by Heiko Klingele_
 

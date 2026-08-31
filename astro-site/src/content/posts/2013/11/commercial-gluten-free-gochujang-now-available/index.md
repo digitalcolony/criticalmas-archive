@@ -17,11 +17,11 @@ That is the good news.
 
 The bad news is it will still be extremely difficult to find. Most Asian grocery stores will not carry it. And of the three Korean grocery stores I visit, I've only seen it at one of them. To be honest, I actually needed the help of a Korean friend to spot it.
 
-![GF-gochujang](./img/GF-gochujang.jpg)
+![GF-gochujang](/2013/11/commercial-gluten-free-gochujang-now-available/img/GF-gochujang.jpg)
 
 Start your search by looking for containers that look like this one. That will narrow your search. However, MOST of the containers that look like this still have added wheat. So you'll still need to look at the ingredients.
 
-![GF-gochujang-label](./img/GF-gochujang-label.jpg)
+![GF-gochujang-label](/2013/11/commercial-gluten-free-gochujang-now-available/img/GF-gochujang-label.jpg)
 
 Not exactly the most healthy list of ingredients, but as you can see no added wheat. This is to my knowledge, the first and only brand of gochujang that is safe to eat for those trying to avoid gluten.
 

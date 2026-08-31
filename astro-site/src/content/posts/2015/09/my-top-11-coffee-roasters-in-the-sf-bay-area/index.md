@@ -57,7 +57,7 @@ I did not care for Sightglass Coffee, which I refer to as Sourglass. Every espre
 
 If I ever return to SF, I now have a few more places to try. Turning Point, Boot, Scarlet City, Sextant and Oudimentary. And I thought I covered it all in one year. :)
 
-![san francisco](./img/sf-sun.jpg)
+![san francisco](/2015/09/my-top-11-coffee-roasters-in-the-sf-bay-area/img/sf-sun.jpg)
 
 ---
 

@@ -11,7 +11,7 @@ commentCount: 10
 
 I have been thinking about the different types of health and fitness role models. These are the people who we look to for education and inspiration when we decide to improve our health. Before I started digging deep into health and fitness, I only had two role models, which I picked based off their height and physique. Boxer Evander Holyfield and surfer Laird Hamilton were in great shape and the same height as me, so I hung their photos in my home gym.
 
-![laird](./img/laird.jpg)
+![laird](/2015/04/on-health-and-fitness-role-models/img/laird.jpg)
 
 _Laird Hamilton_
 

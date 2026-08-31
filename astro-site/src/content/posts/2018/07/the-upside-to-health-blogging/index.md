@@ -28,4 +28,4 @@ It is a good thing that I have 1,500+ posts of breadcrumbs leading me back to wh
 
 I just listened to a podcast where an investor would write down his reasons for buying or selling a stock. Then he would revisit his writing to find flaws in his decision making. It made him a much better investor. I'm certain having this blog has made me more healthy than I would be without it.
 
-![blog sign](./img/5053496835_1146cea386_z.jpg)
+![blog sign](/2018/07/the-upside-to-health-blogging/img/5053496835_1146cea386_z.jpg)

@@ -13,7 +13,7 @@ Last week I was involved in two discussions on [Intermittent Fasting (IF)](/tag/
 
 My view on fasting has changed a lot since 2007. I've gone back and forth along a spectrum of being anti-IF and pro-IF. I understand the arguments of both sides and at times I've been more swayed by one than the other. My personal experience has been varied.
 
-![fork](./img/fork.jpg)
+![fork](/2015/09/intermittent-fasting-context-is-likely-important/img/fork.jpg)
 
 _[Photo](https://flic.kr/p/mhbK8a) by Diana Robinson_
 
@@ -39,7 +39,7 @@ But then I made the mistake that many in the Paleo community did and that was ta
 
 In 2011, I did [70 consecutive days of Leangains](/2011/03/intermittent-fasting-70-day-review-of-the-leangains-method/), which is a 16 hour daily fast. During the 2nd month of the experiment I was often tired, always cold and I lost muscle. A few of his fanboys sent me emails or left comments on how it was my fault. I accepted some responsibility, but in the end I felt it was too much for me. My suspicion was confirmed when one my commenters Tauno found a old comment on the _Leangains_ site from 2008 written by Berkhan.
 
-![leangains-ectomorphs](./img/leangains-ectomorphs.png)
+![leangains-ectomorphs](/2015/09/intermittent-fasting-context-is-likely-important/img/leangains-ectomorphs.png)
 
 This advice never made it into the 2010 Leangains Guide. Would I have done better with this strategy? Yes and I confirmed it later that summer. From my post [Intermittent Fasting - Life After Leangains](/2011/06/intermittent-fasting-life-after-leangains/), I said this:
 
@@ -47,7 +47,7 @@ This advice never made it into the 2010 Leangains Guide. Would I have done bette
 
 This was optimal for a while. Until I started losing too much weight. This was a problem that I solved and one of the tools I used was to stop fasting. Doing this increased my body temperature and increased my sleep quality. Both positive signs that I had made the right decision.
 
-![dead-end](./img/dead-end.jpg)
+![dead-end](/2015/09/intermittent-fasting-context-is-likely-important/img/dead-end.jpg)
 
 _[Pick Your Poison](https://flic.kr/p/qpiGo) by Scott Ableman. When I am HUNGRY and away from my kitchen, I am a sucker for getting 3 tostadas from Taco Bell. That is 840 calories which has very little nutrition to show for itself. :(_ 
 

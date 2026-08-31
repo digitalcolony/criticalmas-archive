@@ -17,7 +17,7 @@ How should guys measure their fat loss progress? There are several methods. Each
 
 The scale isn't bad, but it can't tell the difference between a pound of muscle and a pound of fat. Also, water weight varies a lot, especially in larger individuals. Those body fat scales tend to be inaccurate in the obese and super lean. I used one for years when my body fat was between 15-20%. Once I got leaner, the numbers jumped.
 
-![scale](./img/scale.jpg)
+![scale](/2010/02/fat-loss-metrics-for-men/img/scale.jpg)
 
 _[Photo](https://flic.kr/p/4XuRev) by Paola Kizette Cimenti_
 

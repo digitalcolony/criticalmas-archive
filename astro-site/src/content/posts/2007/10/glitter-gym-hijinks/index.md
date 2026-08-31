@@ -17,7 +17,7 @@ Joining 24 hour Fitness is a lot easier than leaving. When you go to cancel your
 
 This means the membership that I canceled today (October 3rd) will still be active until December 24th. I'm sure some attorney got a nice pat on the back for coming up with this scheme.
 
-[![](./img/boston-legal400x320.jpg "Boston Legal")](./img/boston-legal400x320.jpg)
+[![](/2007/10/glitter-gym-hijinks/img/boston-legal400x320.jpg "Boston Legal")](./img/boston-legal400x320.jpg)
 
 After going ballistic with the Vonage customer support people 2 weeks ago, I had no desire to wage battle with the kind lady from Mumbai. Her job is to prevent lazy Americans from canceling their memberships. My reasons for canceling were too numerous, so I considered telling her about [Mr. Tip Toes](/2007/08/tales-from-the-glitter-gym-locker-room-edition/) but thought better of it.
 

@@ -16,11 +16,11 @@ Yesterday I made the following dish for lunch.
 
 The dish was excellent and easy to make.
 
-![thai-peppers](./img/thai-peppers.jpg)
+![thai-peppers](/2009/11/suffer-the-little-children/img/thai-peppers.jpg)
 
-![green-beans](./img/green-beans.jpg)
+![green-beans](/2009/11/suffer-the-little-children/img/green-beans.jpg)
 
-![salmon](./img/salmon.jpg)
+![salmon](/2009/11/suffer-the-little-children/img/salmon.jpg)
 
 While eating my lunch, I thought about what I would be eating if I was still a kid back in middle school. Thanks to the Internet, I was able to easily locate the lunch menu for [Woodward Park Middle School](http://www.columbus.k12.oh.us/index.html) in Columbus, Ohio. The nutritional quality of the menu was appalling. The lunch menu was broken down into 6 _Zones_, each one designed with an "_extreme_" font.
 

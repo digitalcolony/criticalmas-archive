@@ -23,7 +23,7 @@ The Paleo approach made me believe that I was resilient and could tackle anythin
 
 Then about a year ago I started to question a lot of the health information I had learned in the prior few years. There seemed to be a lot of holes and conflicting opinions. I went from confident and empowered to confused and at times frustrated. I haven't posted much on this because I am still thinking about some of these ideas. Maybe the genes do get the final say?
 
-![dna](./img/dna.jpg)
+![dna](/2013/01/genetic-knowledge-dilemma/img/dna.jpg)
 
 _[Photo](https://flic.kr/p/4i7Wsj) by thierry ehrmann_
 

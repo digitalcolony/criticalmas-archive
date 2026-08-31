@@ -91,7 +91,7 @@ Hopefully, the performance issues I had with Facebook Pages have been fixed. If 
 
 ...They pull me back in!
 
-![Godfather 3 quote](./img/godfather-3-just-when-i-thought.jpg)
+![Godfather 3 quote](/2021/02/is-facebook-call-me-back/img/godfather-3-just-when-i-thought.jpg)
 
 I'm leaning towards rejoining Facebook this week. If I do, I'll do it gradually, by first only connecting with family and a few private health groups. Then close friends. Then if I feel comfortable, expanding my network. Pausing at each step.
 

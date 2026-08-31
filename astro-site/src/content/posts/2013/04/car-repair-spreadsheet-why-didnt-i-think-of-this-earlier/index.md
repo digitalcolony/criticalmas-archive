@@ -17,7 +17,7 @@ Clearly my system failed.
 
 Even knowing nothing about cars, I should have caught that the same part was being replaced 3 times in such a short period. Something else was causing the part to fail. My thick folder of receipts from six different mechanics across two states was too cumbersome to be useful. So today I spent a few hours doing what I should have done years ago. I created a spreadsheet for every service call done to my car. I created it using the spreadsheet option on Google Drive, which is free.
 
-[![Car repair Spreadsheet](./img/tdi-ss.png "Car repair Spreadsheet")](https://docs.google.com/spreadsheet/ccc?key=0Ah7un7bmW3oBdGlBVXI4MW03VW5oWXg2V0c1b2phSmc&usp=sharing)
+[![Car repair Spreadsheet](/2013/04/car-repair-spreadsheet-why-didnt-i-think-of-this-earlier/img/tdi-ss.png "Car repair Spreadsheet")](https://docs.google.com/spreadsheet/ccc?key=0Ah7un7bmW3oBdGlBVXI4MW03VW5oWXg2V0c1b2phSmc&usp=sharing)
 
 After I created my auto spreadsheet, I chatted with my mechanic about Google Drive. Then I shared the sheet with them. Now he can see the what work has been done, when it was done and who did it. That is another diagnostic tool they can use the next time my car needs to be serviced. And because they know I'm tracking every action, they will be less likely to inflate the service requirements.
 

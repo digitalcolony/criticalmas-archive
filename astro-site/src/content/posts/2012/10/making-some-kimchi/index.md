@@ -4,13 +4,13 @@ pubDate: 2012-10-07T02:32:59.000Z
 author: "MAS"
 categories: ["General"]
 tags: ["kimchi"]
-description: "I may have gone overboard this week. I also made some sauerkraut, which is still fermenting. ![](./img/kimchi600.jpg \"kimchi \") 7 quarts + 2 little jars of Kimchi 2.0 --- Comments Becky October 6 at..."
+description: "I may have gone overboard this week. I also made some sauerkraut, which is still fermenting. ![](/2012/10/making-some-kimchi/img/kimchi600.jpg \"kimchi \") 7 quarts + 2 little jars of Kimchi 2.0 --- Comments Becky October 6 at..."
 commentCount: 8
 ---
 
 I may have gone overboard this week. I also made some sauerkraut, which is still fermenting.
 
-![](./img/kimchi600.jpg "kimchi ")
+![](/2012/10/making-some-kimchi/img/kimchi600.jpg "kimchi ")
 
 _7 quarts + 2 little jars of [Kimchi 2.0](/2012/08/kimchi-2-0/)_
 

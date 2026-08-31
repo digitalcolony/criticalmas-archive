@@ -13,8 +13,8 @@ The long awaited video and photos to my day of [elephant training](/2009/11/elep
 
 [Elephant Training in Chiang Mai, Thailand](https://vimeo.com/8432213)
 
-![thailand-elephants](./img/thailand-elephants.jpg)
+![thailand-elephants](/2009/12/elephant-training-video-and-photos/img/thailand-elephants.jpg)
 
-![mas-elephant-1](./img/mas-elephant-1.jpg)
+![mas-elephant-1](/2009/12/elephant-training-video-and-photos/img/mas-elephant-1.jpg)
 
 [Photo Gallery For Elephant Training in Chiang Mai, Thailand](https://www.flickr.com/photos/129592470@N02/sets/72157650079503686/)

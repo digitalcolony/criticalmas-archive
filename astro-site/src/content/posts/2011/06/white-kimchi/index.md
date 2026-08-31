@@ -17,7 +17,7 @@ You can learn how to make kimchi from my post [Kimchi 101](/2011/03/kimchi-101/)
 2.  Add more carrots. This is will give it a little more sweetness.
 3.  Add some sugar, sliced apples or sliced pears. Doing this will accelerate the fermentation to about 2-3 days and add a little sweetness.
 
-![white-kimchi](./img/white-kimchi.jpg)
+![white-kimchi](/2011/06/white-kimchi/img/white-kimchi.jpg)
 
 _White Kimchi heavy on the ginger and without carrots. Carrots would have made it better._
 

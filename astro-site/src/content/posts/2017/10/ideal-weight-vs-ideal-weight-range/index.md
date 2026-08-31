@@ -14,7 +14,7 @@ My current weight is still 199. Until better information surfaces, I consider my
 
 These estimates are based upon my last experience in this range. Below 185, my face looked haggard and my abs were tight. But this time might be different. My sleep is much better. I'm eating plenty of carbs, which helps reduce stress hormones. So my 185-200 range might float lower.
 
-![](./img/seattle-fall-1.jpg)
+![](/2017/10/ideal-weight-vs-ideal-weight-range/img/seattle-fall-1.jpg)
 
 
 ### Poor Timing

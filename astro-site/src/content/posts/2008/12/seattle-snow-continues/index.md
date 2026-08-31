@@ -11,11 +11,11 @@ commentCount: 0
 
 I just finished emptying my camera of more Seattle snow photos. I've hiked almost 50 miles around Seattle since the snow began. This is my idea of taking a week off from lifting weights.
 
-![snow-2](./img/snow-2.jpg)
+![snow-2](/2008/12/seattle-snow-continues/img/snow-2.jpg)
 
-![snow-1](./img/snow-1.jpg)
+![snow-1](/2008/12/seattle-snow-continues/img/snow-1.jpg)
 
-![snow-3](./img/snow-3.jpg)
+![snow-3](/2008/12/seattle-snow-continues/img/snow-3.jpg)
 
 Look at the above photo. That is my street! YouTube is being flooded with videos of people skiing, sledding, snowboarding and tubing down my hill. User [caseyengler81](http://www.youtube.com/user/caseyengler81) made four short videos of people heading down Queen Anne Ave (aka The Counterbalance).
 

@@ -13,7 +13,7 @@ A few weekends ago, I completed Net Ninja's tutorial of Bootstrap 5 on YouTube. 
 
 Here is the new [PotatoHack.com](https://potatohack.com). The website is static HTML that is published from my [GitHub repo](https://github.com/digitalcolony/potatohack.com) via Netlify. [Like my radio site](/2021/07/made-in-the-spirit-of-the-early-web/) and this blog, PotatoHack.com is 100% non-commercial and uses no tracking.
 
-![happy potato](./img/potato-happy700.jpg)
+![happy potato](/2021/12/check-out-potatohack-com/img/potato-happy700.jpg)
 
 I'm sure I made an error or two. If you have any feedback or corrections, let me know. Also, type in a bad link to see the custom 404 page. I had a crying potato image made as well. 🤣
 

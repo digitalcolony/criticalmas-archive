@@ -19,7 +19,7 @@ To do well when times are bad requires timing skills. These are skills I got rig
 
 With that long disclaimer behind me, here is my last financial forecast post.
 
-![wall-street](./img/wall-street.jpg)
+![wall-street](/2014/12/last-financial-forecasting-post/img/wall-street.jpg)
 
 _[Photo](https://flic.kr/p/9Zisvi) by Alex Proimos_
 

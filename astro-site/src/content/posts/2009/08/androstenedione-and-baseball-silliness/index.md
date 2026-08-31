@@ -25,7 +25,7 @@ From the story Arroyo: I Took Andro The Same Way I Took Vitamins by Ian Preuth:
 
 It wasn't enough for baseball to go after the guys who allegedly took steroids. Baseball is now making a fuss about a supplement that was LEGAL and the player ceased taking it once it was made illegal, because it produced steroid-like effects. **Silly middle aged men will do anything to destroy the heroes of today to preserve the records set by their childhood heroes.**
 
-![1AD andro](./img/pro_1ad.jpg)
+![1AD andro](/2009/08/androstenedione-and-baseball-silliness/img/pro_1ad.jpg)
 
 Way back in 2003, I did an 8 week cycle of andro. It was a legal pro-hormone supplement that I purchased online. In 8 weeks, I went from 211 pounds to 222 pounds. Did I feel like a monster? Sure did. Adding 11 pounds in 8 weeks felt awesome. What happened when I stopped using andro? I went right back to 211 pounds. It was like nothing happened. **There was no lasting physique or performance improvement.** Therefore, I consider andro to be a waste of money.
 

@@ -43,7 +43,7 @@ And even if I'm wrong about security, Google delivers readers to my blog. I'm th
 
 As for mobile-friendly, this is the new world. Most reading on the web is now consumed by mobile devices. If your blog is not mobile-friendly, your readers will be less likely to stick around. Making your old-school blog mobile-friendly (aka "Responsive") is an easy win.
 
-![lock](./img/368758286_e4dcb5ae53_z.jpg)
+![lock](/2019/06/bloggers-share-a-lot-of-the-blame-of-the-demise-of-the-independent-web/img/368758286_e4dcb5ae53_z.jpg)
 
 _Photo credit_
 

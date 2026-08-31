@@ -15,7 +15,7 @@ Back in August I had my [first attempt cooking octopus](/2012/08/my-first-octopu
 
 I got a few comments suggesting that the 6 hour marinade wasn't enough. I would also need to massage the little guys. How much? 40-50 minutes. Well, there was never a chance that was going to happen. So a friend of mine and my cooking mentor told me about a Chinese hack. Add baking soda to the marinade. I used about half a teaspoon of baking soda and reduced the marinade time down to 3 hours. The result was my dish wasn't chewy. Still not awesome, but much better.
 
-![Korean-Octopus](./img/Korean-Octopus.jpg)
+![Korean-Octopus](/2012/11/octopus-take-2/img/Korean-Octopus.jpg)
 
 _Korean Octopus_
 

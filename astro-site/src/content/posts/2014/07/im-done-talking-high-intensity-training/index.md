@@ -23,7 +23,7 @@ And I won't say anything.
 
 High Intensity Training is something you need to do to understand. Language fails. It especially fails when we have so much incorrect information in our head clouding our judgment.
 
-[![drops mic](./img/3400482826_4debaa6b18_z.jpg)](./img/3400482826_4debaa6b18_z.jpg)
+[![drops mic](/2014/07/im-done-talking-high-intensity-training/img/3400482826_4debaa6b18_z.jpg)](./img/3400482826_4debaa6b18_z.jpg)
 
 _[Photo](https://www.flickr.com/photos/robnas/3400482826/) by Robert Bejil_
 

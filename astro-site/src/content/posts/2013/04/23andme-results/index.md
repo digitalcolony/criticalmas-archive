@@ -19,17 +19,17 @@ So am I genetic gold or genetic junk? The fact you are seeing this post should t
 
 From the screenshot below, I learned that I have **decreased risk** for several of the most pressing health conditions. Those include heart disease, diabetes, Alzheimer's and MS.
 
-![23-decreased](./img/23-decreased.png)
+![23-decreased](/2013/04/23andme-results/img/23-decreased.png)
 
 _Note: I reduced the image size so it would fit better on this post. The font size is larger and more readable online._ 
 
 In the Typical Risk section, a few different forms of cancer, obesity and Parkinson's show up.
 
-![23-typical](./img/23-typical.png)
+![23-typical](/2013/04/23andme-results/img/23-typical.png)
 
 I only had a few items that showed up as Elevated Risk. One was kidney disease, which is something I had never heard of before. Clicking into the report on kidney disease tells me that **only 27-33% is attributable to genetics**. The rest is environmental and the recommendation is to not smoke, eat healthily and exercise. Done, done and done.
 
-![23-elevated](./img/23-elevated.png)
+![23-elevated](/2013/04/23andme-results/img/23-elevated.png)
 
 
 ### Drug Responses
@@ -57,7 +57,7 @@ The Muscle Performance report really surprised me. Before I share my data, I wan
 
 Since last August, I assumed I was in this camp and have reduced my intensity. Well, maybe it is time to turn back up the intensity because I have one copy of the alpha-actinin-3 gene! Did not see that one coming.
 
-![23-muscle](./img/23-muscle.png)
+![23-muscle](/2013/04/23andme-results/img/23-muscle.png)
 
 
 ### Family and Friends
@@ -65,7 +65,7 @@ Since last August, I assumed I was in this camp and have reduced my intensity. W
 
 There is an entire ancestry component to the _23andME_ that I've just begun to look at. They have already genetically connected me with 989 3rd to 6th cousins. I've learned that I'm 99.5% European - and I thought I was Korean. ;) How much caveman am I?  2.9%.
 
-![23-neader](./img/23-neader.png)
+![23-neader](/2013/04/23andme-results/img/23-neader.png)
 
 
 ### Highly Recommended

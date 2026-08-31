@@ -21,7 +21,7 @@ Someone mentioned a concept to me called a "_healing crisis_". The premise is th
 
 This experiment has already taught me that my addiction to caffeine is much stronger than my addiction to coffee.
 
-![](./img/green-tea.jpg)
+![](/2012/10/coffee-and-caffeine-detox-update/img/green-tea.jpg)
 
 _I'm actually craving green tea more than coffee._
 

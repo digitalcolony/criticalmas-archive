@@ -3,13 +3,21 @@ import { getCollection, type CollectionEntry } from "astro:content";
 import BaseLayout from "../../../../layouts/BaseLayout.astro";
 import CategoryBadge from "../../../../components/CategoryBadge.astro";
 import TagList from "../../../../components/TagList.astro";
+import { unified } from "unified";
+import { VFile } from "vfile";
+import remarkParse from "remark-parse";
+import remarkGfm from "remark-gfm";
+import remarkSmartypants from "remark-smartypants";
+import remarkRehype from "remark-rehype";
+import rehypeStringify from "rehype-stringify";
+import rehypeRaw from "rehype-raw";
 
 export async function getStaticPaths() {
 	const posts = await getCollection("posts");
 
 	return posts.map((post) => {
-		// post.slug is in format: YYYY/MM/post-slug
-		const parts = post.slug.split("/");
+		// post.id is in format: YYYY/MM/post-slug
+		const parts = post.id.split("/");
 		const year = parts[0];
 		const month = parts[1];
 		const slug = parts[2];
@@ -20,17 +28,32 @@ export async function getStaticPaths() {
 				month,
 				slug,
 			},
-			props: { post },
+			props: { postId: post.id },
 		};
 	});
 }
 
-type Props = {
-	post: CollectionEntry<"posts">;
-};
+const { postId } = Astro.props;
 
-const { post } = Astro.props;
-const { Content } = await post.render();
+// Fetch all posts and find the one we need
+const allPostsForRender = await getCollection("posts");
+const post = allPostsForRender.find((p) => p.id === postId);
+
+if (!post) {
+	return new Response("Not Found", { status: 404 });
+}
+
+// Render markdown body to HTML with all plugins and options
+const processor = unified()
+	.use(remarkParse)
+	.use(remarkGfm)
+	.use(remarkSmartypants)
+	.use(remarkRehype, { allowDangerousHtml: true })
+	.use(rehypeRaw)
+	.use(rehypeStringify);
+
+const htmlContent = await processor.process(post.body);
+const html = String(htmlContent);
 
 const formattedDate = post.data.pubDate.toLocaleDateString("en-US", {
 	year: "numeric",
@@ -47,8 +70,8 @@ const prevPost = currentIndex > 0 ? sortedPosts[currentIndex - 1] : null;
 const nextPost = currentIndex < sortedPosts.length - 1 ? sortedPosts[currentIndex + 1] : null;
 
 function getPostUrl(p: CollectionEntry<"posts">) {
-	// p.slug already includes year/month/slug from the file path
-	return `/${p.slug}/`;
+	// p.id already includes year/month/slug from the file path
+	return `/${p.id}/`;
 }
 ---
 
@@ -92,9 +115,7 @@ function getPostUrl(p: CollectionEntry<"posts">) {
 		</header>
 
 		<!-- Post content -->
-		<div class="post-content">
-			<Content />
-		</div>
+		<div class="post-content" set:html={html} />
 
 		<!-- Post footer -->
 		<footer class="mt-12 pt-8 border-t border-gray-200">

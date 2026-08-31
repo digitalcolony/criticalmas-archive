@@ -11,4 +11,4 @@ commentCount: 0
 
 I'm the one in front.
 
-![bkk-mas-big-buddha](./img/bkk-mas-big-buddha-300x277.jpg "bkk-mas-big-buddha")
+![bkk-mas-big-buddha](/2009/11/mas-and-big-buddha/img/bkk-mas-big-buddha-300x277.jpg "bkk-mas-big-buddha")

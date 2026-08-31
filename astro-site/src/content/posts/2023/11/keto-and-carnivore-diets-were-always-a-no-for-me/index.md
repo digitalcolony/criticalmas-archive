@@ -49,7 +49,7 @@ Even if the carnivore dieter only sourced the cleanest animals on the planet, th
 
 I asked Claude AI to explain this issue:
 
-![](./img/Screenshot-2023-11-06-at-11-22-58-Claude.png)
+![](/2023/11/keto-and-carnivore-diets-were-always-a-no-for-me/img/Screenshot-2023-11-06-at-11-22-58-Claude.png)
 
 
 ### #4 PUFA and saturated fat

@@ -45,7 +45,7 @@ An advantage the DEXA scan has over other methods is that it breaks down the fat
 
 The A/G Ratio is a measurement that captures where the fat is located. Android fat (low abdominal) should be a lower percent than total body fat percent. A good score is under 1.0. Mine was 0.57.
 
-![](./img/hank-hill.jpg)
+![](/2020/04/my-first-dexa-scan/img/hank-hill.jpg)
 
 Hank Hill would likely have an A/G over 1.0, as his fat distribution is around his midsection.
 
@@ -85,7 +85,7 @@ Knowing my Vitamin D status at this time turned out to be extremely valuable as 
 
 My second action item is to keep working on building strength and muscle in my left leg.
 
-![San Diego](./img/montylov-san-diego.jpg)
+![San Diego](/2020/04/my-first-dexa-scan/img/montylov-san-diego.jpg)
 
 _San Diego by [MontyLov](https://unsplash.com/@montylov?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 

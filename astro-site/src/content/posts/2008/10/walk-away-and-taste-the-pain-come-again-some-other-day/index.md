@@ -13,7 +13,7 @@ On Monday, when the market crashed, I was away from my computer. I missed the en
 
 The direction for the stock market indexes is down, but the path is not straight.
 
-![](./img/war-of-wealth.jpg)
+![](/2008/10/walk-away-and-taste-the-pain-come-again-some-other-day/img/war-of-wealth.jpg)
 
 _From FLICKR user pingnews.com ["The War of Wealth" by Strobridge & Co. Lith., ca. 1895 (LOC)](http://flickr.com/photos/pingnews/2868382770/in/set-72157594178798376/)_
 

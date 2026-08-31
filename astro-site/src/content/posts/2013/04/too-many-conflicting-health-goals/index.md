@@ -37,7 +37,7 @@ I have never found aspirin, Aleve, Tylenol or Advil to work for headaches. The 
 
 I also believe that the neck tightness is playing a role with the headaches.
 
-![](./img/2-guns.jpg)
+![](/2013/04/too-many-conflicting-health-goals/img/2-guns.jpg)
 
 _Photo by Don_
 

@@ -10,7 +10,7 @@ commentCount: 7
 
 I've always disliked pushups. When you are tall and lanky, pushups suck. Although I did some pushups as a kid, my first real introduction to them was in Army basic training from a screaming drill sergeant. Not exactly a positive association.
 
-![](./img/army-basic-training-notes.jpg)
+![](/2023/09/on-pushups/img/army-basic-training-notes.jpg)
 
 _Until recently, the only other time I did pushups daily was when I was 17 at Army basic training. Me on the left._
 

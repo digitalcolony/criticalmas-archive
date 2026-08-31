@@ -21,7 +21,7 @@ The author proceeds to put the entire dish in the trash and then take the trash 
 
 Now I was worried. I had to assume the taste would not be to my liking, so I'd need to surround the pig uterus with heavy tastes that I already enjoy. My weapon of choice would be curry made from coconut cream.
 
-![pork-uterus](./img/pork-uterus.jpg)
+![pork-uterus](/2012/01/pig-uterus-recipe-an-offal-idea/img/pork-uterus.jpg)
 
 **Summary**: _Hiding the taste of pig uterus in a Thai Curry._
 
@@ -36,11 +36,11 @@ Now I was worried. I had to assume the taste would not be to my liking, so I'd n
 -   Yam or Sweet Potato (for sweetness)
 -   Cabbage
 
-![pig-uterus-raw](./img/pig-uterus-raw.jpg)
+![pig-uterus-raw](/2012/01/pig-uterus-recipe-an-offal-idea/img/pig-uterus-raw.jpg)
 
 _Be sure to chop up uterus meat._
 
-![pig-uterus-raw2](./img/pig-uterus-raw2.jpg)
+![pig-uterus-raw2](/2012/01/pig-uterus-recipe-an-offal-idea/img/pig-uterus-raw2.jpg)
 
 
 #### Instructions
@@ -60,7 +60,7 @@ Preparation time: 15 minute(s)
 
 Cooking time: 15 minute(s)
 
-![pork-uterus-cooked](./img/pork-uterus-cooked.jpg)
+![pork-uterus-cooked](/2012/01/pig-uterus-recipe-an-offal-idea/img/pork-uterus-cooked.jpg)
 
 
 ### The Verdict

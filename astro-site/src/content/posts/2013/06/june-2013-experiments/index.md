@@ -24,7 +24,7 @@ First the headaches. My past experiments have turned up 3 ideas that measurably 
 
 So in summary, avoid most grains, have some tea in the AM and a single coffee post meal in the early PM. This might be the secret sauce. It combines results from 3 previous experiments. By the way, I am not looking for _new_ ideas at this time or yet another request that I see a doctor. Those comments will be ignored.
 
-![headache-coffee](./img/headache-coffee.png)
+![headache-coffee](/2013/06/june-2013-experiments/img/headache-coffee.png)
 
 For the fat loss, I have 3 ideas.
 

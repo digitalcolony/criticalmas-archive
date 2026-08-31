@@ -23,7 +23,7 @@ For me, 10,000 steps are about 4.6 miles. So in the above example, I only had on
 
 In late March, I decided my goal would be to consistently hit 10,000 steps a day. And I've done a good job hitting that target. That is also the same time I started to lose weight after being weight stable for a long period.
 
-![](./img/avg-steps-per-day-draw.png)
+![](/2017/08/power-10000-steps-day-charts/img/avg-steps-per-day-draw.png)
 
 This chart shows a weekly average for every week from the middle of December 2015 through July 29, 2017. You can see two things:
 
@@ -32,11 +32,11 @@ This chart shows a weekly average for every week from the middle of December 201
 
 2016 was a year that I was working on recovering from a knee injury. Seattle also had the wettest winter in its entire history. For me to be successful, I will need to be better in the winter months.
 
-![](./img/days-per-week-10k-or-more.png)
+![](/2017/08/power-10000-steps-day-charts/img/days-per-week-10k-or-more.png)
 
 In this chart, I counted the number of days each week that I had 10,000 steps or more. It further shows how I've become more consistent. There were many days I was in the 9,000 range, so I ran the same report using 9,000 as the target.
 
-![](./img/days-per-week-9k-or-more.png)
+![](/2017/08/power-10000-steps-day-charts/img/days-per-week-9k-or-more.png)
 
 
 ### Why I Think 10,000 Steps a Day Works

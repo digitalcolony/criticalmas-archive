@@ -23,7 +23,7 @@ You don't need bread at all. Bread is processed food. If you want grains, look i
 
 When the pounds drop off, you'll feel better. This won't happen if you race off to the gluten-free bakery for your "safe" cookies and brownies. But for all this to happen, you need to accept the gift. The gift of having a dietary restriction thrust upon you that could improve your health, should you choose to use it wisely.
 
-![dry beans](./img/dry-beans.jpg)
+![dry beans](/2019/12/the-gift-of-being-gluten-intolerant-or-celiac-if-you-accept-it/img/dry-beans.jpg)
 
 _Photo by [v2osk](https://unsplash.com/@v2osk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 

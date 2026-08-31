@@ -21,7 +21,7 @@ From IMDB's page on "Fraiser" (1993) Goofs:
 
 Again, I haven't seen the view, but there is at least one high-rise building on the south hill of Queen Anne facing the Space Needle. The Space Needle is southeast of Kerry Park. Below is a photo that was taken from Kerry Park.
 
-![](./img/queen-anne-view.jpg)
+![](/2008/10/did-fraiser-live-in-queen-anne/img/queen-anne-view.jpg)
 
 _Photo Kerry Park: Memorial Day in Seattle by FLICKR user jeffwilcox_
 

@@ -17,7 +17,7 @@ Then in 2017, [John died](https://medium.com/@CriticalMAS/tribute-to-john-baker-
 
 I wanted the site to be more maintainable and secure, so I decided to condense the entire site down to just 5 static HTML pages. The audio lives on YouTube, Archive, and OneDrive. We have a show spreadsheet on Google Docs and images are on a dedicated Flickr account. Prior to the rewrite, we had a page for every show, which turned out to be unmaintainable after John passed. The few true blogs the site hosted were migrated to Medium.
 
-![neil rogers download](./img/nr-download.jpg)
+![neil rogers download](/2020/07/rewriting-the-neil-rogers-website-in-svelte/img/nr-download.jpg)
 
 _The audio page_
 

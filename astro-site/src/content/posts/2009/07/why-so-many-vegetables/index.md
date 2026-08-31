@@ -11,7 +11,7 @@ commentCount: 2
 
 I made another dish where the goal was vegetable variety.
 
-![stir-fry](./img/stir-fry.jpg)
+![stir-fry](/2009/07/why-so-many-vegetables/img/stir-fry.jpg)
 
 1.  garlic \*
 2.  red onion

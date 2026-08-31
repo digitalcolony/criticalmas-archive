@@ -13,7 +13,7 @@ Starting around 2008, I read and reviewed several nutritional books on this site
 
 If one goes back into the archives of this site, the reviews of certain Paleo books are a little too positive. With more experience and more knowledge, I've decided to revisit these books with my current thoughts.
 
-![](./img/caveman-reading.jpg)
+![](/2013/08/revisiting-the-paleo-books/img/caveman-reading.jpg)
 
 
 ### The New Evolution Diet by Art De Vany

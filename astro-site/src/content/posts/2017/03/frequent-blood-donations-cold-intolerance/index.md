@@ -23,7 +23,7 @@ What else has changed beside my frequent blood donation? I've been eating a [Pea
 
 Interestingly, my body temperature remained up at 98.4-98.6. This contradiction made me seek out a doctor to test my thyroid. He told me my [TSH](https://en.wikipedia.org/wiki/Thyroid-stimulating_hormone) of 2.0 was fine and that I probably just had poor circulation. No other ideas were put forth.
 
-![futurama-coffee-house](./img/futurama-coffee-house.jpg)
+![futurama-coffee-house](/2017/03/frequent-blood-donations-cold-intolerance/img/futurama-coffee-house.jpg)
 
 So in my quest to donate blood to reduce my iron levels, it appears I overshot the target. As of today I am going to:
 

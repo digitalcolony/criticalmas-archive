@@ -15,7 +15,7 @@ Week #5 Weigh-In: **\-2**. Total Loss: -**7.**
 
 After I posted the [ant-Quantified Self post](/2014/03/weight-lifting-taught-quantified-self/), I decided I didn't want to continue creating food journals. The purpose of the journals were to keep me away from the foods I overconsume, which were dairy kefir and ice cream. Since starting the journals, that strategy has worked. Now I've created a habit. I think I can continue eating in the same manner I have been for the past 5 weeks without the journal. If I stall or begin to gain weight, I can always resume the food journals.
 
-![kimbap](./img/kimbap.jpg)
+![kimbap](/2014/03/20-pound-bet-week-5-weigh/img/kimbap.jpg)
 
 _[Kimbap](https://www.flickr.com/photos/86227611@N00/3638016630/) by Amanda Wong. Whenever I visit the Korean grocery stores, I usually pick up some kimbap to eat on the ride home._ 
 

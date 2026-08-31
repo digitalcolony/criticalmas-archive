@@ -13,7 +13,7 @@ When we talk about fitness and nutrition, we label activities and food as differ
 
 I think there is another axis to what is healthy. I'm calling it the Fear/Love axis.
 
-![](./img/healthy-axis500.jpg "healthy-axis500")
+![](/2010/10/more-than-healthy-vs-unhealthy/img/healthy-axis500.jpg "healthy-axis500")
 
 If you study the business of fitness and nutrition, you will see that **the profit lies in promoting fear and helplessness**. There is an entire industry that makes billions by exploiting your fears of getting cancer, obesity or not having ripped abs. Once they have exploited that fear, they present themselves as an expert and if you buy their potion, DVD, seminar or whatever, you can be saved.
 

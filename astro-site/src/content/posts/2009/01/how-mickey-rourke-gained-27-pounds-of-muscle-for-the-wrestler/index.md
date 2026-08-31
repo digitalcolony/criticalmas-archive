@@ -27,11 +27,11 @@ Have you ever seen an ad in a muscle magazine where the man gains massive amount
 
 I'm certain that Rourke gained the muscle earlier in life, so I did a little digging. Sure enough I was reminded in the [Wikipedia](https://en.wikipedia.org/wiki/Mickey_Rourke) how Rourke used to be a [boxer](https://web.archive.org/web/20190817052133/https://boxrec.com/media/index.php/Mickey_Rourke). Of course. **The easiest way to gain muscle fast, is have already gained it years before.**
 
-**![mickey-rourke-boxer](./img/mickey-rourke-boxer.jpg "mickey-rourke-boxer")**
+**![mickey-rourke-boxer](/2009/01/how-mickey-rourke-gained-27-pounds-of-muscle-for-the-wrestler/img/mickey-rourke-boxer.jpg "mickey-rourke-boxer")**
 
 The greatest piece of advice I regret never taking came from my basketball coach Mike. I was in the 8th and 9th grade and I believe Coach Mike was in his early 30s. Coach Mike had started weight training and was having trouble making the gains he wanted. He told me to lift weights while I was still young. He wanted me to lift in high school and college. Sadly, I didn't. I wouldn't start lifting weights until I was 24.
 
-![mas-basketball-team](./img/mas-basketball-team.jpg)
+![mas-basketball-team](/2009/01/how-mickey-rourke-gained-27-pounds-of-muscle-for-the-wrestler/img/mas-basketball-team.jpg)
 
 _Coach Mike (back left), MAS (back right)_
 

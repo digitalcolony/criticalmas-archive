@@ -25,7 +25,7 @@ We all know stories of people that treated fat loss like a dog and lost weight. 
 
 Although there will always be exceptions, I believe that approaching fat loss like you would approach a cat is a better long-term strategy for maintaining fat loss. And this means using techniques to reduce hunger (higher-volume, higher-protein) and not trying to force an outcome using grit and willpower.
 
-![cat](./img/erik-jan-leusink-561776-cat.jpg)
+![cat](/2018/05/approach-fat-loss-like-you-would-approach-a-cat/img/erik-jan-leusink-561776-cat.jpg)
 
 _Photo by [Erik-Jan Leusink](https://unsplash.com/@ejleusink)_
 

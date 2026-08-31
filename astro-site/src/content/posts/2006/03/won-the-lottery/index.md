@@ -13,4 +13,4 @@ In 2001, I placed a 5% down payment on a [house](/2008/04/home-on-holly-oak-lane
 
 Yesterday, I received the money for the sale of that house. It was A LOT of money. The amount of profit was insane. I am another winner in the California home seller lottery. **The reason I'm a winner is because I'm not buying another home.** More on that topic in another post.
 
-![holly-oak-house](./img/holly-oak-house.jpg)
+![holly-oak-house](/2006/03/won-the-lottery/img/holly-oak-house.jpg)

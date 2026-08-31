@@ -17,7 +17,7 @@ The show was about how our distant ancestors looked up into the night sky and tr
 
 I tracked my headaches, sleep quality, and coffee intake for 2.5 years trying to find patterns. The [single pattern](/2013/09/hunting-headaches-ending-hunt/) I found was a decrease in headache frequency when I sharply reduced my coffee intake. Look at the chart below.
 
-![headache-coffee](./img/headache-coffee.png)
+![headache-coffee](/2014/04/quantified-self-false-pattern-recognition/img/headache-coffee.png)
 
 This was my comet in the sky. And guess what? The pattern was false.
 

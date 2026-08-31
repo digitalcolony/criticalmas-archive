@@ -31,7 +31,7 @@ _If you want updates to this site, use [RSS](https://feeds.feedburner.com/critic
 
 I also concede that I might be overreacting, but I'm all about reducing unnecessary risk. I'll watch from the sidelines for a year. My sites aren't going anywhere.
 
-![](./img/15743483265_1aca718cd2_z.jpg)
+![](/2018/05/gdpr-and-why-i-decided-to-kill-off-my-newsletters/img/15743483265_1aca718cd2_z.jpg)
 
 _[Photo](https://flic.kr/p/pZct5D) by Dennis Skley_
 

@@ -13,7 +13,7 @@ I briefly touched on the calorie math of the Potato Hack in a 2015 post. In this
 
 Before we begin, the Potato Hack is about creating a calorie deficit because it is REALLY hard to eat as many potatoes as you would need to meet your base caloric needs. In my example, all potatoes are boiled and then refrigerated overnight.
 
-![calculator](./img/calculator.jpg)
+![calculator](/2017/08/math-behind-potato-hack/img/calculator.jpg)
 
 _[Photo](https://flic.kr/p/apG5Gh) by inove manore_
 

@@ -23,7 +23,7 @@ Monday I decided to shelf the Merrell shoes and pull the Tiger out of walking re
 
 Does there exist a super-thin shoe that is well made? Not Vibram 5 Fingers, but a real shoe.
 
-![urban-hike-19](./img/urban-hike-19.png)
+![urban-hike-19](/2013/06/19-mile-urban-hike-shoes-matter/img/urban-hike-19.png)
 
 _My [19.1 mile](http://www.gmap-pedometer.com/?r=5964688) Urban Hike through Seattle._
 

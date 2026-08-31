@@ -15,7 +15,7 @@ Why would anyone want to eat beef kidney? Like beef liver, [kidney is very nutri
 
 Also this recipe is for beef kidney, it will absolutely work the same for beef liver.
 
-![beef-kidney](./img/beef-kidney.jpg)
+![beef-kidney](/2012/02/beef-kidney-with-mushrooms-and-garlic/img/beef-kidney.jpg)
 
 _Beef kidney chopped into bite-size pieces with most of the excess fat removed._
 
@@ -46,7 +46,7 @@ _Beef kidney chopped into bite-size pieces with most of the excess fat removed._
 7.  Add salt and pepper.
 8.  Cook until done (pull out a piece and cut in half to test).
 
-![beef-kidney-cooked](./img/beef-kidney-cooked.jpg)
+![beef-kidney-cooked](/2012/02/beef-kidney-with-mushrooms-and-garlic/img/beef-kidney-cooked.jpg)
 
 
 #### Quick notes

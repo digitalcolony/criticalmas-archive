@@ -17,7 +17,7 @@ If you are like me, then your sleep challenge is not being able to return to sle
 
 The good news is I have solved this riddle. I now sleep better than I have my entire adult life. This is how I did it.
 
-![MAS Sleeping](./img/michael_sleeping.jpg)
+![MAS Sleeping](/2014/10/better-sleep-early-riser/img/michael_sleeping.jpg)
 
 _Me sleeping as a kid. Probably not a good idea to leave your shoes on._
 
@@ -59,7 +59,7 @@ Dialing in your caffeine level is not a one-time thing. We change. We can become
 
 Because I adore the taste of black coffee, I do not add milk and sugar. However, it might be a good idea for the highly stressed body to avoid black coffee, especially on an empty stomach. The article [Coffee Done Right](https://www.functionalps.com/blog/2014/06/04/coffee-done-right-tips-to-help-avoid-coffee-intolerance/) explains why having coffee with food or milk and sugar will dampen the stress response. A body less stressed will get better sleep.
 
-![futurama-coffee-rage](./img/futurama-coffee-rage.jpg)
+![futurama-coffee-rage](/2014/10/better-sleep-early-riser/img/futurama-coffee-rage.jpg)
 
 
 ### #5 Minimize Evening Liquid

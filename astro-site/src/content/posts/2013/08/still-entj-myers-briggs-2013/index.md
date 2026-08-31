@@ -25,7 +25,7 @@ That ENTJ description doesn't exactly ring true to me. I actually think I am mor
 
 Maybe I'm somewhere in between.
 
-![mas-and-lion](./img/mas-and-lion.jpg)
+![mas-and-lion](/2013/08/still-entj-myers-briggs-2013/img/mas-and-lion.jpg)
 
 _Me and a [real lion](/2009/11/3-tigers-1-lion-and-mas-in-a-cage/). Chiang Mai, Thailand 2009._ 
 

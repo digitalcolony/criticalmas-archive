@@ -39,7 +39,7 @@ Later the "Just kidding" section was added after it blew up in popularity.
 
 > ...people took it very very seriously, I guess they forgot I had put up a poll some time ago asking what food should be my victim to demonstrate you can demonize anything with Pubmed.
 
-![](./img/kiona-e7NPdTlYlz0-kale.jpg)
+![](/2023/07/still-not-a-pubmed-warrior/img/kiona-e7NPdTlYlz0-kale.jpg)
 
 _Kale by_ [_kiona_](https://unsplash.com/@kiona20?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

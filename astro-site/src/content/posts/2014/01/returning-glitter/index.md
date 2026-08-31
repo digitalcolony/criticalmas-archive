@@ -17,7 +17,7 @@ I've done foam rolling, braces, topical magnesium, rest, ice, heat, and had take
 
 Here was his response.
 
-![knee-help](./img/knee-help.png)
+![knee-help](/2014/01/returning-glitter/img/knee-help.png)
 
 Later in the thread, the _Framework for the Knee_ book was recommended, so I picked up a copy. I went through it quickly and realized that sitting on my ass waiting for my knee to heal wasn't going to work. Like Bill suggested, the book was clear that I needed access to a stationary bike. Dr. DiNubile writes about cycling:
 

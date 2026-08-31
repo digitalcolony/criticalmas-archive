@@ -30,7 +30,7 @@ You can read the paper for all the citations.
 
 I am fortunate that I live far away from freeways and factories. I'm now driving fewer than 200 miles a month, and those are on city streets. I replaced the air cabin filter on my VW with a HEPA one. For many people, their highest level of pollution exposure will be when driving on a freeway.
 
-![](./img/mike-marrah-x4QaRXytmow-unsplash.jpg) _Photo by [Mike Marrah](https://unsplash.com/@mikemarrah?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+![](/2022/08/4-ways-air-pollution-is-increasing-obesity/img/mike-marrah-x4QaRXytmow-unsplash.jpg) _Photo by [Mike Marrah](https://unsplash.com/@mikemarrah?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 
 ### Less Meat, More Lentils

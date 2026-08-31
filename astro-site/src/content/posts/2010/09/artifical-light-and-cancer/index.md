@@ -30,7 +30,7 @@ This study came as no surprise to me. Back in May, I reviewed the book [Lights O
 
 My advice is to make your sleeping environment as dark as possible with as few electronic devices as possible and go to bed earlier. If you have a choice between waking up an hour early to run on a treadmill under florescent lights or sleeping more; choose sleep. I have some more tips in the post [Turning Down the Lights](/2010/07/turning-down-the-lights/).
 
-![kuala-lumpur](./img/kuala-lumpur.jpg)
+![kuala-lumpur](/2010/09/artifical-light-and-cancer/img/kuala-lumpur.jpg)
 
 _Photo taken during my December 2009 trip to [Kuala Lumpur, Malaysia](/2009/12/arrived-in-kuala-lumpur-malaysia/)_
 

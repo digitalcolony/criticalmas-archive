@@ -40,7 +40,7 @@ If the sale happens, I see a few options for this blog.
 
 If you have an opinion on the best route, leave a comment. Medium is the only domain not owned by me that I would trust with my content.
 
-![blog sign](./img/5053496835_1146cea386_z.jpg)
+![blog sign](/2018/05/important-blog-announcement-for-criticalmas/img/5053496835_1146cea386_z.jpg)
 
 ---
 

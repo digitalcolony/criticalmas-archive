@@ -13,7 +13,7 @@ In the post [Genetic Knowledge Dilemma](/2013/01/genetic-knowledge-dilemma/), I 
 
 I have decided to get the test.
 
-![aquarium](./img/aquarium.jpg)
+![aquarium](/2013/02/getting-the-genetic-test/img/aquarium.jpg)
 
 _This fish has nothing to do with this post, but I recently went to the Seattle Aquarium, so I thought I'd share it. :)_ 
 

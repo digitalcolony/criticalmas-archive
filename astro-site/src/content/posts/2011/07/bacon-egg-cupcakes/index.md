@@ -13,23 +13,23 @@ Earlier this week I saw a video showing how to make bacon-wrapped egg cupcakes. 
 
 I had made up bacon ahead of time. Having more uniform-sized pieces would have made the cupcake more pretty, but won't make a difference with the cupcake taste or structural integrity. To prevent the cupcake from sticking to the tray, I smeared in some bacon fat first.
 
-![bacon-egg-cupcakes-tray](./img/bacon-egg-cupcakes-tray.jpg)
+![bacon-egg-cupcakes-tray](/2011/07/bacon-egg-cupcakes/img/bacon-egg-cupcakes-tray.jpg)
 
 _Wrapping the cupcake tray with bacon._
 
-![eggs-cupcake](./img/eggs-cupcake.jpg)
+![eggs-cupcake](/2011/07/bacon-egg-cupcakes/img/eggs-cupcake.jpg)
 
 _Here I added the scrambled eggs._
 
-![bacon-egg-cupcake-1](./img/bacon-egg-cupcake-1.jpg)
+![bacon-egg-cupcake-1](/2011/07/bacon-egg-cupcakes/img/bacon-egg-cupcake-1.jpg)
 
 _Bacon Egg Cupcakes Take #1_
 
-![eggs-cupcake-tray](./img/eggs-cupcake-tray.jpg)
+![eggs-cupcake-tray](/2011/07/bacon-egg-cupcakes/img/eggs-cupcake-tray.jpg)
 
 _The next day I didn't scramble the eggs and just placed them in whole._
 
-![bacon-egg-cupcakes-2](./img/bacon-egg-cupcakes-2.jpg)
+![bacon-egg-cupcakes-2](/2011/07/bacon-egg-cupcakes/img/bacon-egg-cupcakes-2.jpg)
 
 _Bacon Egg Cupcakes Take #2_
 

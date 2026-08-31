@@ -53,7 +53,7 @@ For at least a decade, I have heavily invested in the _cardio is crap_ exercise 
 
 I'd still like to read the book, but that may not be possible. In the meantime, I will ease into some cardio. What type? That will be the topic of my next post.
 
-![me on a bike](./img/mas-bike.jpg)
+![me on a bike](/2018/10/searching-for-the-cardio-code/img/mas-bike.jpg)
 
 _Time to dust off my old bike?_ 🤣
 

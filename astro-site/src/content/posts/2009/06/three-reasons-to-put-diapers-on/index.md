@@ -11,7 +11,7 @@ commentCount: 2
 
 A McDonalds billboard in Belltown gets tagged brilliantly. The original phrase was "_Three reasons to put PANTS on_". I like the diapers version better.
 
-![mcdonalds-diapers](./img/mcdonalds-diapers.jpg)
+![mcdonalds-diapers](/2009/06/three-reasons-to-put-diapers-on/img/mcdonalds-diapers.jpg)
 
 ---
 

@@ -23,7 +23,7 @@ Then I read _Power To The People_ and everything changed. Pavel taught me to red
 
 During the first three years of using the _Power To The People_ protocol, I gained almost 20 pounds of muscle. For the first time in my life, I was benching my weight. I could squat almost 300 pounds and deadlift over 300 pounds. Not bad for a recovering [Stick Boy](/2008/09/the-stick-boy-explained/). This book made me a believer in low-repetition weight training. I've been preaching against low-weight high-rep training ever since.
 
-![mas-Pavel](./img/mas-Pavel.jpg)
+![mas-Pavel](/2011/03/power-people-10-years/img/mas-Pavel.jpg)
 
 _I met Pavel in 2004_
 

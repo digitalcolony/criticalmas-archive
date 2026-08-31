@@ -35,7 +35,7 @@ Most days I eat out for lunch. Add a cheap breakfast and a home-cooked dinner an
 
 Many diets require an increase in spending. Special foods and supplements can be costly. The Potato Diet is so economical, I decided that even if it turns out to be unsuccessful, I might do it periodically just to pocket some extra money.
 
-![potatoes](./img/potatoes.jpg)
+![potatoes](/2015/11/potato-diet-week-1-results-and-observations/img/potatoes.jpg)
 
 _[Photo](https://flic.kr/p/fq91Fo) by Renoir Gaither_
 

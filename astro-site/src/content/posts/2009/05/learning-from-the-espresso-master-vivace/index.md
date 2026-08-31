@@ -11,7 +11,7 @@ commentCount: 1
 
 Recently I got a hold of a copy of the definitive handbook for espresso preparation. It is hard to believe this book was written back in 1996. Why is the rest of the country outside of the Pacific Northwest still clueless when it comes to espresso? Read this book.
 
-![Espresso Coffee: Professional Techniques](./img/schomer-book.jpg) Espresso Coffee: Professional Techniques is by David C. Schomer, who is the founder of Espresso Vivace up here in Seattle. This book goes step by step breaking down every variable involved in the preparation of espresso. Water pressure, grinders, dosing, packing, pulling and even latte art is covered.
+![Espresso Coffee: Professional Techniques](/2009/05/learning-from-the-espresso-master-vivace/img/schomer-book.jpg) Espresso Coffee: Professional Techniques is by David C. Schomer, who is the founder of Espresso Vivace up here in Seattle. This book goes step by step breaking down every variable involved in the preparation of espresso. Water pressure, grinders, dosing, packing, pulling and even latte art is covered.
 
 I make espresso at home with my [Silvia and Rocky](/2007/10/its-a-boy/). Using some tips I learned in this book, my shots are getting even better. I've tightened up my grind a little more. I am now getting a slow rolling hang on my espresso. The result is a sweeter and more delicious espresso.
 

@@ -11,7 +11,7 @@ commentCount: 4
 
 There are some contradictory opinions on whether cold temperature exposure leads to fat loss or fat gain. Before I share my thoughts, I want to say that regardless of fat loss, I find cold weather training to be highly beneficial for the reasons I listed in the post [My Cold Weather Challenge To You](/2009/10/my-cold-weather-challenge-to-you/). Read that post for the full list, but the two primary reasons are to expand your comfort zone and to build resiliency against minor stressors.
 
-![ice ](./img/74316267_62f7764b83_z.jpg)
+![ice ](/2011/08/do-cold-showers-lead-to-fat-loss-or-fat-gain/img/74316267_62f7764b83_z.jpg)
 
 _[Ice close up](http://www.flickr.com/photos/lucid_nightmare/74316267/in/photostream/) by Lucid Nightmare_
 

@@ -13,7 +13,7 @@ If you sent me an email in the last year and it bounced with a message saying th
 
 As much as I love and recommend my web host _Siteground_, they do something very stupid by default on their accounts. They enable a service called _SpamExperts_ at the domain level. _SpamExperts_ isn't just rejecting email from sketchy accounts, but also from people I correspond with on a regular basis if it reads a link in the email it doesn't like. One friend sent me an email with a link to a well-respected language learning site that was rejected. Another friend sent me a link to a health article about some recent research that was also rejected.
 
-![SPAM](./img/5448944597_3fe8324b75_z.jpg)
+![SPAM](/2015/11/solving-my-email-problem-with-siteground/img/5448944597_3fe8324b75_z.jpg)
 
 _[Photo](https://flic.kr/p/9ivgoD) by Sean MacEntee_ 
 

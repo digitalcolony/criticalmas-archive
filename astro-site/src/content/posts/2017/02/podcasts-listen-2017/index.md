@@ -65,7 +65,7 @@ Snap Judgment - Stories and beats. I slow down the podcast for this one.
 
 RadioLab - Fascinating and engaging show. Always with new topics. I highly recommend the episode From Tree to Shining Tree. You'll never look at a forest the same way again.
 
-![](./img/radio-podcasts.jpg)
+![](/2017/02/podcasts-listen-2017/img/radio-podcasts.jpg)
 
 ---
 

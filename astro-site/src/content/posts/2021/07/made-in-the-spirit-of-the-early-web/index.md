@@ -32,7 +32,7 @@ The site was coded using [GatsbyJS](https://www.gatsbyjs.com/), which is a stati
 
 I learned GatsbyJS from YouTube videos and online tutorials. I'm still a beginner in that tech stack, but I learned enough to accomplish the task.
 
-![Website report card](./img/neilrogers20210703-lighthouse-e1626801624488.png)
+![Website report card](/2021/07/made-in-the-spirit-of-the-early-web/img/neilrogers20210703-lighthouse-e1626801624488.png)
 
 _Not bad for a newbie._
 

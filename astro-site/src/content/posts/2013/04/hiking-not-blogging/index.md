@@ -27,7 +27,7 @@ When I lived in San Diego I hiked all the time, yet now hiking is easier, becaus
 
 Speaking of Hillfit, version 2.0 has just been released. I have a copy and although I haven't read it yet, it looks even more impressive than version 1.0. Version 2.0 has 70 more pages of content. **If you are looking for an introduction to High Intensity Training, I highly recommend Hillfit.** You can get super strong without risking injury and do it all from home - no gym equipment needed.
 
-![Hill Fit](./img/hill-fit-500.jpg "Hill Fit")
+![Hill Fit](/2013/04/hiking-not-blogging/img/hill-fit-500.jpg "Hill Fit")
 
 Click here to visit Hillfit
 

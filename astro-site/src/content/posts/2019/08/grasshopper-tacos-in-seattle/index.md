@@ -13,9 +13,9 @@ I stumbled into Casa Mixteca in Burien (just south of Seattle) this weekend and 
 
 Without hesitation, I ordered them. I have [no fear of eating insects](/2012/12/potato-soup-with-bugs/).
 
-![3 grasshopper tacos](./img/grasshopper-tacos-3.jpg)
+![3 grasshopper tacos](/2019/08/grasshopper-tacos-in-seattle/img/grasshopper-tacos-3.jpg)
 
-![grasshopper taco](./img/grasshopper-taco.jpg)
+![grasshopper taco](/2019/08/grasshopper-tacos-in-seattle/img/grasshopper-taco.jpg)
 
 The 🦗🌮 flavor was great. Crunchy and not too spicy. Perfect. What surprised me was just how filling they were. I thought it would be a light meal, but I was full for several hours.
 

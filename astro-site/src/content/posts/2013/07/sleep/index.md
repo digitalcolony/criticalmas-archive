@@ -11,4 +11,4 @@ commentCount: 0
 
 Found this street art near the Space Needle.
 
-![tv-says-sleep](./img/tv-says-sleep.jpg)
+![tv-says-sleep](/2013/07/sleep/img/tv-says-sleep.jpg)

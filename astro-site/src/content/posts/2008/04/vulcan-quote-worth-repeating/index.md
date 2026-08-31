@@ -13,4 +13,4 @@ Tuvok from the _Star Trek Voyager_ episode Rise:
 
 > It is illogical to dwell on situations beyond your control. It will only serve to heighten your anxiety which, if I may say so, is heightened enough.
 
-![voyager-vulcan](./img/voyager-vulcan.jpg)
+![voyager-vulcan](/2008/04/vulcan-quote-worth-repeating/img/voyager-vulcan.jpg)

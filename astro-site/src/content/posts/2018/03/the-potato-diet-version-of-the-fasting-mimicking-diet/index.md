@@ -44,7 +44,7 @@ I did not get light-headed or cold this time, which makes sense, given both the 
 
 I do have more thoughts on the Fasting Mimicking Diet and Dr. Longo's book in general, which I will put in a separate post. But my general take away experience is that this form of fasting will be doable for many people that could not fathom missing a single meal.
 
-![seattle street art](./img/25344424137_e055c7906f_z.jpg)
+![seattle street art](/2018/03/the-potato-diet-version-of-the-fasting-mimicking-diet/img/25344424137_e055c7906f_z.jpg)
 
 _I took this photo last month. It has nothing to do with this post._ 
 

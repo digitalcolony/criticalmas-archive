@@ -13,13 +13,13 @@ Each time I visit an Asian grocery store I make it a point to buy something fore
 
 _Eating and living_ posted the recipe [Jjukkumi Gui (Spicy Grilled Baby Octopus)](https://web.archive.org/web/20180717130042/http://eatingandliving.blogspot.com:80/2012/08/jjukkumi-gui-spicy-grilled-baby-octopus.html). I love Korean food, so I took on this new cooking test.
 
-![wild-octopus-2](./img/wild-octopus-2.jpg)
+![wild-octopus-2](/2012/08/my-first-octopus/img/wild-octopus-2.jpg)
 
-![wild-octopus-3](./img/wild-octopus-3.jpg)
+![wild-octopus-3](/2012/08/my-first-octopus/img/wild-octopus-3.jpg)
 
-![wild-octopus-4](./img/wild-octopus-4.jpg)
+![wild-octopus-4](/2012/08/my-first-octopus/img/wild-octopus-4.jpg)
 
-![wild-octopus](./img/wild-octopus.jpg)
+![wild-octopus](/2012/08/my-first-octopus/img/wild-octopus.jpg)
 
 The recipe says:
 

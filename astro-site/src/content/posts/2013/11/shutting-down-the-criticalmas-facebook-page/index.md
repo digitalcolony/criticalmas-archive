@@ -17,7 +17,7 @@ I have some pretty strong opinions when it comes to the web, especially when it 
 
 Facebook does not show every post to those individuals who LIKE the page. It selectively hides based on what it thinks the user wants to see. Then on my end, I get the _opportunity_ to pay money to Facebook to get my post on the wall of everyone that already clicked LIKE. I don't respond well to digital extortion. Below is a screenshot of the _Boost Post_ option from my INeedCoffee Facebook page.
 
-![Boost the Post](./img/fb-boost.png)
+![Boost the Post](/2013/11/shutting-down-the-criticalmas-facebook-page/img/fb-boost.png)
 
 This post went up yesterday. **The INeedCoffee Facebook page has 1,443 LIKES and yet Facebook has decided that only 75 should see the post.** In the screenshot above you can see that for $30 I can get this post to 4,500-12,000 people. I have no interest in that offer. I'd prefer to reach 1,443 people for $0, but that isn't an option. Some will argue that Facebook needs to make money and that I'm using their service for free and this is a fair compromise. I disagree. Not only am I providing content on my Facebook page for which they can run highly targeted ads beside without compensating me, but I'm also directing my readers to the Facebook server. Plus I am not asking to go outside my network for views.
 
@@ -47,7 +47,7 @@ Posts by Email - This is handled by Google's Feedburner. It is easy to unsubscri
 
 [RSS](http://feeds.feedburner.com/criticalmas/zooq) - I love RSS. If you aren't sure what RSS is, go to [Feedly](http://www.feedly.com) and set up an account. It should all make sense then. RSS connects content producers directly to readers without having to go through sites like Google and Facebook. Another great thing about Feedly is it can display content in a mobile-friendly format, even if the subscribed site can't.
 
-![Feedly ](./img/feedly-mas.png)
+![Feedly ](/2013/11/shutting-down-the-criticalmas-facebook-page/img/feedly-mas.png)
 
 _Screenshot of my Feedly RSS Reader. The left column shows the new articles I have available to read from sites I have subscribed to. I selected the post from Beyond Kimchee and a snippet from the newest recipe appeared in the right column. Sometimes a snippet appears. Sometimes the full article. For CriticalMAS, at this time I show the full article. Sites that have had copyright theft often use snippets._ 
 

@@ -13,11 +13,11 @@ On the return flight home to Seattle, I had a 12 hour layover in Seoul, South Ko
 
 My short trip did give me enough time to eat some great food and acquire some outstanding Korean green tea. Now for the photos.
 
-![seoul-3](./img/seoul-3.jpg)
+![seoul-3](/2009/12/a-rainy-day-in-seoul-south-korea/img/seoul-3.jpg)
 
-![seoul-2](./img/seoul-2.jpg)
+![seoul-2](/2009/12/a-rainy-day-in-seoul-south-korea/img/seoul-2.jpg)
 
-![seoul-1](./img/seoul-1.jpg)
+![seoul-1](/2009/12/a-rainy-day-in-seoul-south-korea/img/seoul-1.jpg)
 
 ---
 

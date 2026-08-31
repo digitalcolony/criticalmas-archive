@@ -14,7 +14,7 @@ I want to expand on my [2009 Financial Prediction](/2009/01/2009-financial-predi
 
 Where did that $42.26 number come from? It is a collection of earnings estimates. Here is a graph that appeared in a recent John Mauldin newsletter.
 
-![sp500_estimates](./img/sp500_estimates.gif "sp500_estimates")
+![sp500_estimates](/2009/01/simple-math-says-get-out-of-the-stock-market/img/sp500_estimates.gif "sp500_estimates")
 
 Notice a trend? Historically in every downturn earnings estimates are too high and have to be continually lowered. Earnings are in free fall. Will estimates get lowered again once the horrific 4th Quarter numbers are out? Let us first assume that last estimate of $42.26 is dead on accurate.
 

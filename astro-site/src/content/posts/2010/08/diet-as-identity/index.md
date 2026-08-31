@@ -13,7 +13,7 @@ I love learning about nutrition and I love sharing what I've learned with others
 
 Not respecting someones dietary choice, even if it is highly unhealthy, does not open a dialog about alternate nutritional strategies. I also believe that slow minor changes can lead to permanent lasting health benefits. So attacking someone about their diet is not only disrespectful, it is not necessary.
 
-![fried-peanut-butter-banana-sandwich](./img/fried-peanut-butter-banana-sandwich.jpg)
+![fried-peanut-butter-banana-sandwich](/2010/08/diet-as-identity/img/fried-peanut-butter-banana-sandwich.jpg)
 
 _Elvis Recipe: Fried Peanut Butter and Banana Sandwich_
 

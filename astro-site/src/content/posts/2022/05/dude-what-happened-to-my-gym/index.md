@@ -42,7 +42,7 @@ Lifters don't want to hear this message. I have more than a decade of posts and 
 
 Those that kept slamming the Big-3 lifts past 40 stopped coming to the gym. Young lifters think their life priorities changed. I know that isn't true. People that spent two decades developing the discipline to lift don't walk away from weight training unless they are in pain. Some might, but not the majority.
 
-![weights](./img/brett-jordan-xboI4P4OprI-unsplash.jpg)
+![weights](/2022/05/dude-what-happened-to-my-gym/img/brett-jordan-xboI4P4OprI-unsplash.jpg)
 
 _Photo by [Brett Jordan](https://unsplash.com/@brett_jordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 

@@ -27,7 +27,7 @@ I even reduced my daily steps significantly from 10,000+ to 5,000. I began takin
 
 I do believe I know the root cause of the problem. My right leg has noticeably more muscle than my leg. Since 2013 I have been favoring the right leg as a way to take pressure off the left knee. Even during my "healed" phase of 2016-2017, my left leg never caught up to my right, even though I was doing leg presses and hack squats twice a week. Plus all those steps.
 
-![](./img/homer-simpson-bicep-arm-muscle.jpg)
+![](/2018/01/bizarre-injury-4-months-later/img/homer-simpson-bicep-arm-muscle.jpg)
 
 _Homer after lifting with only his right arm._
 

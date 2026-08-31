@@ -27,7 +27,7 @@ I often will eat 5 or 5.5 pounds of potatoes on Day 1 of a Potato Hack. That is 
 
 Think of hunger as a riding a wild animal at a rodeo. Those first few seconds are like the first day of the Potato Hack. Don't fight the animal and don't find the hunger. Eventually, the animal wears itself out and calms down. So will your hunger. Trust the process.
 
-![jordan-heinrichs-rodeo](./img/jordan-heinrichs-588477-rodeo.jpg)
+![jordan-heinrichs-rodeo](/2018/03/revisiting-day-1-of-the-potato-hack/img/jordan-heinrichs-588477-rodeo.jpg)
 
 _Photo by_ [_Jordan Heinrichs_](https://unsplash.com/photos/czH4V2xsnCY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

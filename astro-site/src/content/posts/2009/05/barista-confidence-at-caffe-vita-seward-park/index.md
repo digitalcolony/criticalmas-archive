@@ -13,7 +13,7 @@ Monday I was heading south to Seward Park. Instead of using my GPS, I decided to
 
 It was a sign. I had to pull over and recharge. Seattle is loaded with quality coffee shops, however most are concentrated north of this area. This area was outside my espresso radar. The coffee gods were looking out for me.
 
-![caffe-vita-seward](./img/caffe-vita-seward.jpg)
+![caffe-vita-seward](/2009/05/barista-confidence-at-caffe-vita-seward-park/img/caffe-vita-seward.jpg)
 
 _Caffe Vita -5028 Wilson Avenue South, Seattle, Washington 98118_
 

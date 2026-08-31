@@ -11,8 +11,8 @@ commentCount: 0
 
 I had a chance to get inside a cage with some cats in Chiang Mai at Tiger Kingdom.
 
-![mas-lion](./img/mas-lion.jpg)
+![mas-lion](/2009/11/3-tigers-1-lion-and-mas-in-a-cage/img/mas-lion.jpg)
 
-![mas-tiger](./img/mas-tiger.jpg)
+![mas-tiger](/2009/11/3-tigers-1-lion-and-mas-in-a-cage/img/mas-tiger.jpg)
 
-![mas-tiger-belly](./img/mas-tiger-belly.jpg)
+![mas-tiger-belly](/2009/11/3-tigers-1-lion-and-mas-in-a-cage/img/mas-tiger-belly.jpg)

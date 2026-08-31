@@ -21,7 +21,7 @@ I figure it is just a matter of time before Hank Hill injures one of his clients
 
 I was doing shoulder presses when I heard Hank Hill tell his client, who was a man in his 60s with dreadful posture, to SPRINT down the hall. I must of misheard him. I put the dumbbells down and turned to my right. Oh no! I'm watching an old man sprinting from one end of the free weight room past the treadmills to the front desk. A writer for the Three Stooges couldn't have dreamed this up.
 
-![3-stooges](./img/3-stooges.jpg)
+![3-stooges](/2008/12/tales-from-the-glitter-gym-unsafe-at-any-speed/img/3-stooges.jpg)
 
 The path the old man was sprinting down started at the foot of stairs. This is where everyone coming down from the upstairs equipment and locker rooms entered. His path continued past the free weights and the treadmills. At the tail end of his run, there are two more blind entrances. One is from the lobby, the other is where the drinking fountain is located. There were at least five places another member could have walked into the sprinter with little or no notice. By my estimate, the odds of a multi-patron collision were high.
 

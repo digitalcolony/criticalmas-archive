@@ -61,7 +61,7 @@ So recently I've been thinking about how to build a set of general transferable 
 6.  Twist
 7.  Gait (Walk, Jog, Run)
 
-![paul-chek](./img/paul-chek.jpg)
+![paul-chek](/2015/09/maybe-hit-isnt-enough/img/paul-chek.jpg)
 
 The idea here would be the same in that I don't know what skills I would need to demonstrate conditioning, as I have no sport, but whatever they happen to be these 7 movements would provide an additional foundation on top of weight training.
 

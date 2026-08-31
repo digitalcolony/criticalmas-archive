@@ -15,7 +15,7 @@ I just finished reading The Red Queen: Sex and the Evolution of Human Nature by 
 
 After 400 pages of detailed scientific writing, the author concedes that half of the conclusions he arrived at will end up being proven wrong. I love the spirit of throwing out new ideas and challenging old ones, knowing full well that you will be proven wrong to some degree at some future date and being OK with it.
 
-![mas-cake](./img/mas-cake.jpg)
+![mas-cake](/2011/08/half-the-ideas-in-this-blog-are-probably-wrong/img/mas-cake.jpg)
 
 _I used to believe that cake was awesome food. I was wrong._
 

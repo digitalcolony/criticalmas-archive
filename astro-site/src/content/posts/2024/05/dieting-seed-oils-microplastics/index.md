@@ -43,7 +43,7 @@ A great video on the topic is from Miche, Ph.D. which focuses on pesticides. [Sp
 
 This confirmed my hunch that saunas and donating blood are tools for removing these metabolic-lowering compounds. Donating plasma is better, but I can't in my area because they only take plasma from blood type AB (I'm B+).
 
-![](./img/obi-pixel8propix-PMnbMcJeftk-unsplash.jpg)
+![](/2024/05/dieting-seed-oils-microplastics/img/obi-pixel8propix-PMnbMcJeftk-unsplash.jpg)
 
 _Donating blood by_ [_Obi - @pixel8propix_](https://unsplash.com/@obionyeador?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 

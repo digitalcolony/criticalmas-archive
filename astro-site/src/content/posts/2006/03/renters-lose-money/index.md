@@ -15,7 +15,7 @@ I choose to rent rather than own because it's A LOT cheaper today. Yesterday I g
 
 My rent is $2,500. In other words I'm renting a million dollar condo for 37 cents on the dollar. Why would I want to buy? Why would anyone want to buy in downtown San Diego right now? Prices are falling and inventories are rising. The mortgage deduction is nice, but not nice enough for me to increase my monthly payment by $4,258.
 
-![lose money?](./img/6679444993_6bdd4d9bcb_o.jpg)
+![lose money?](/2006/03/renters-lose-money/img/6679444993_6bdd4d9bcb_o.jpg)
 
 _[Photo](https://www.flickr.com/photos/tripletsisters/6679444993/) by thethreesisters_
 

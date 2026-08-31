@@ -28,7 +28,7 @@ These days, the most alcohol I consume is 2-4 ounces of a hard cider, maybe once
 
 If you have any advice, tips, or wisdom on this topic, please leave a comment. Is this a good lead in my war against the common cold?
 
-![sick](./img/sick.jpg)
+![sick](/2019/12/a-lead-in-the-war-against-the-common-cold/img/sick.jpg)
 
 _photo by [Tanja Djordjevic](https://www.flickr.com/photos/fotokiosk/7138860333/)_
 

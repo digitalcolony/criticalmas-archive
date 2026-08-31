@@ -27,7 +27,7 @@ When we first start a weight lifting program our primary motivation is to build 
 
 The problem with the squat was stated clearly in Anthony's video. The muscles in the legs will get stronger at a much faster rate than the muscles supporting the spinal column that is being compressed during a squat motion. This is exactly what I experienced. When my squat went from 115 pounds to 275 pounds, I felt great. My legs got much stronger and I gained muscle. Then came the injuries. The result was years of back pain and scaling back on the squat in frequency, weight, and volume.
 
-![home-gym](./img/home-gym.jpg)
+![home-gym](/2012/06/i-no-longer-give-a-squat-about-the-squat/img/home-gym.jpg)
 
 _My old home gym back in my squat days._ 
 

@@ -15,7 +15,7 @@ During my six years in the Army National Guard I raced up the ranks from Private
 2.  An E-5 made just a small amount more in pay than an E-4. Not enough to compensate for the increased duties.
 3.  Most of us were in college and had no desire for careers in the military. If we wanted a career, we would have been in the regular army and not the reserves.
 
-![military-mas-2](./img/military-mas-2.jpg)
+![military-mas-2](/2008/03/e-4-and-holding/img/military-mas-2.jpg)
 
 Today Starbucks got served with a $100 million judgement because the tip jar proceeds were shared with managers.
 

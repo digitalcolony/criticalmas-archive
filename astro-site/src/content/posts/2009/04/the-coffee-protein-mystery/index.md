@@ -47,7 +47,7 @@ I located other studies that link protein denaturation and pressure. So it appea
 
 Hope I got that right. If I made an error, please let me know in the comments.
 
-![stella-espresso](./img/stella-espresso.jpg)
+![stella-espresso](/2009/04/the-coffee-protein-mystery/img/stella-espresso.jpg)
 
 _Sources:_
 

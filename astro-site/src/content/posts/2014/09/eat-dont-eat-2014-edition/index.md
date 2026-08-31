@@ -60,7 +60,7 @@ That is the entire list.
 
 **#1 Alcohol** - I can only handle a small amount of beer. Thankfully the style I seem OK with is the Saison, which is my favorite.
 
-![hilliards saison](./img/6887498138_5703d13774_o.jpg)
+![hilliards saison](/2014/09/eat-dont-eat-2014-edition/img/6887498138_5703d13774_o.jpg)
 
 _Hilliards Saison [Photo](https://www.flickr.com/photos/luxuryluke/6887498138/) by Luke Dorny._
 

@@ -15,7 +15,7 @@ In 2008 I did something that completely changed my outlook on personal health. I
 
 In the past 3 years, I've learned much about what fasting levels work best for me. And it was all because I embraced self-experimentation. Self-experimentation is empowering. Instead of surrendering to experts, you take charge, because no health professional will know your body better than you. Now to be clear, I am not referring to emergencies. If I get hit by a bus, I'll go to the Emergency Room, not PubMed.
 
-![](./img/experiment-spreadsheet.gif "experiment-spreadsheet")
+![](/2011/08/my-case-for-self-experimentation/img/experiment-spreadsheet.gif "experiment-spreadsheet")
 
 _A snapshot of data from my most recent self experiment._
 

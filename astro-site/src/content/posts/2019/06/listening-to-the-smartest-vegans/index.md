@@ -19,7 +19,7 @@ Back before I [restricted my Twitter access](/2019/04/tackling-twitter-how-i-cut
 
 Then I discovered something most interesting. A few of my allies were vegans. Some were doctors. Smart too. Not the "save Bambi" vegans, but PubMed Warriors delivering knowledge.
 
-![WW1 Trench](./img/ww1-trench.jpg)
+![WW1 Trench](/2019/06/listening-to-the-smartest-vegans/img/ww1-trench.jpg)
 
 _Me and a vegan attacking the keto lunacy on Twitter. Either that or the [Royal Scots in a trench (WW1)](https://flic.kr/p/VY7KsK)._
 

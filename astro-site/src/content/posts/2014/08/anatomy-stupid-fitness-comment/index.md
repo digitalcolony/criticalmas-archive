@@ -15,7 +15,7 @@ On a few fitness posts, I have started closing comments. I usually wait a few ye
 
 Here is the FINAL comment on my [How Tim Ferriss REALLY Gained 34 pounds of Muscle in 28 Days](/2011/01/how-tim-ferriss-really-gained-34-pounds-of-muscle-in-28-days/) post. A post that was published on January 20, 2011.
 
-![](./img/big-guy-comment.png)
+![](/2014/08/anatomy-stupid-fitness-comment/img/big-guy-comment.png)
 
 My critic uses a fake name, calling himself _Big Guy_. If you are going to use a fake name, at least use one that we can at least take seriously. Do you think anyone at the gym is saying "I learned something useful from _Big Guy_ today."?
 
@@ -51,7 +51,7 @@ Finally, if you were able to help several others gain so much muscle in a month,
 
 _Geek to Freak_ is still a hoax. Do you know how I know? The book has been out since December 2010. It was a bestseller. Between the book and the supporting blog post, I wouldn't be surprised if it had an audience of 1 million. Most of them are young healthy males seeking to gain more muscle. Yet almost nobody is still talking about this chapter. It came and went. If it were realistic, there would be A LOT MORE success stories and we would still be talking about it.
 
-![Troll](./img/troll-650.jpg)
+![Troll](/2014/08/anatomy-stupid-fitness-comment/img/troll-650.jpg)
 
 _The Fremont Troll_
 

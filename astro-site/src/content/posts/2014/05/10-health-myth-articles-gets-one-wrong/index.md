@@ -19,7 +19,7 @@ Gluten-free options are usually not a single grain, but a blend of 3-4 grains, e
 
 Flipping this argument. Let us imagine that when food makers used gluten, they used a blend of wheat, rye, and barley. And let us imagine that every gluten-free food maker used only sorghum. In that case, assuming no intolerances, the gluten option would be more nutrient diverse. But that isn't the case.
 
-![grains](./img/12181770313_0b71af3d19_z.jpg)
+![grains](/2014/05/10-health-myth-articles-gets-one-wrong/img/12181770313_0b71af3d19_z.jpg)
 
 _Grain Store in Yemen by Rod Waddington_
 

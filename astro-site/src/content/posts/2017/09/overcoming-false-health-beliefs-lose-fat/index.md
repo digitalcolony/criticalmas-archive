@@ -44,7 +44,7 @@ For a detailed explanation of that process listen to [SNR #65: Lyle McDonald �
 
 How do we prevent or minimize the odds that we regain weight at this lower metabolic rate? The key here might be increasing NEAT, which I covered in the post [The Role of Exercise in Preventing Weight Regain](/2017/03/exercise-weight-regain/). I shared my NEAT experience in the post [The Power of 10,000 Steps a Day in Charts](/2017/08/power-10000-steps-day-charts/).
 
-![](./img/avg-steps-per-day-draw.png)
+![](/2017/09/overcoming-false-health-beliefs-lose-fat/img/avg-steps-per-day-draw.png)
 
 Two other articles that helped remold my view of metabolism:
 

@@ -14,7 +14,7 @@ While waiting for my surgery, I continued to go to the gym. I reduced the weight
 
 I referred to my workout as the "Slow Grandma". This meant I would use machines, but [unlike the Silver Sneakers](/2014/04/silversneakers-young-trainers-teaching-old-timers-bad-lifting-form/), I would slowly control the negative and not let the weight drop. Think of the slow protocol explained in Body By Science dialed back in weight and intensity.
 
-![](./img/3803592124_061006a667_z.jpg)
+![](/2023/10/low-intensity-low-volume-strength-training/img/3803592124_061006a667_z.jpg)
 
 This was an interesting experiment because most lifters are using either high weight, high volume, or high intensity. I was doing none of those. But I was showing up 4x a week and I was still doing [25 pushups daily](/2023/09/on-pushups/). My workouts were the equivalent of taking the car out of the garage and driving it around the block a few times. No long drives or getting on the freeway. Just circle the neighborhood and come home.
 

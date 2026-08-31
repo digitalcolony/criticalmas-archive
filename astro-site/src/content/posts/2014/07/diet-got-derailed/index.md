@@ -21,7 +21,7 @@ I've become more sensitive to caffeine this year. Yet I still get massive enjoym
 
 When people post articles about how coffee helps you lose weight, I always roll my eyes. There isn't a simple narrative.
 
-![useless without coffee](./img/201302-useless-ineedcoffee.jpg)
+![useless without coffee](/2014/07/diet-got-derailed/img/201302-useless-ineedcoffee.jpg)
 
 _From [Inanimate Objects Comics #40](https://ineedcoffee.com/inanimate-objects-comics-40/) by Todd Zapoli_
 

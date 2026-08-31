@@ -11,7 +11,7 @@ commentCount: 8
 
 Maybe as a result of breaking up with social media ([Facebook](/2019/02/how-i-quit-facebook-tips-you-might-use/), [Instagram](/2019/03/how-i-broke-the-instagram-habit-loop/), [Twitter](/2019/04/tackling-twitter-how-i-cut-my-daily-usage/)), I've become more nostalgic for earlier times. I have fond memories of the early pioneer spirit of the independent web. On archive.org, I found a snapshot of [my personal website from 1996](https://web.archive.org/web/19961102010652/http://www.cyberspy.com/~mas/).
 
-![MAS and Elvis](./img/kingni.gif)
+![MAS and Elvis](/2019/06/the-indie-web-is-dead-long-live-the-indie-web/img/kingni.gif)
 
 _I made this amazing art using Microsoft Paint in 1996._
 

@@ -15,7 +15,7 @@ Since I started lifting weights in 1994, there have only been three periods wher
 
 In the article [Are You Strong?](https://web.archive.org/web/20150316202627/http://www.t-nation.com/readArticle.do?id=1563264) author and fitness professional Tim Henriques makes the case that a _decent_ bench press is 225 pounds or 1.25 times body weight. Achieving a _good_ bench press requires 315 pounds or 1.5 times body weight. This means that for the vast majority of the time I've been lifting weights, I've been less than _decent_. This used to bother me. Not anymore.
 
-![legos-bench-press](./img/legos-bench-press.jpg)
+![legos-bench-press](/2011/11/my-bench-press-sucks-and-i-dont-care/img/legos-bench-press.jpg)
 
 _[Photo](https://flic.kr/p/9pbzs7) by W\_Minshull_
 

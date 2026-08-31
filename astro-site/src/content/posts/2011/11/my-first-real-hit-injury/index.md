@@ -15,7 +15,7 @@ How do you tell the two apart? For me a [stress related pain](/2011/02/the-psych
 
 When I went to the gym, I had just spent the past few days working on my [2011 Health Goals](/2011/10/health-goals-late-2011-edition/). My mind was occupied with challenges of stress reduction, headaches and posture. I may have primed my mind for an injury. During a set of static hold leg presses, I thought my feet could have benefited from a slightly wider stance, so I adjusted my stance and wiggled in my seat while under load. Not a good idea. As soon I stood up from the set, I felt something was off. My back was tightening up. Within an hour, I was in total pain.
 
-![Leg Press Machine](./img/leg-press-machine.jpg "Leg Press Machine")
+![Leg Press Machine](/2011/11/my-first-real-hit-injury/img/leg-press-machine.jpg "Leg Press Machine")
 
 Today my back still hurts. Not as bad as [the fall](/2010/09/the-fall/) from last year, but pretty intense. It is better than yesterday and I expect tomorrow will be better than today.
 

@@ -43,7 +43,7 @@ Another great idea, but I messed this one up as well. It is one thing to decide 
 
 Back in 2014, I still believed that cold thermogenesis had the potential to measurably increase fat loss. I no longer do. Maybe if you are a thick-wristed 300-pound man that can't do other forms of exercise? I still believe in CT as a way of building resiliency and possibly reducing inflammation, but not for fat loss.
 
-![cold-shower](./img/cold-shower.jpg)
+![cold-shower](/2017/08/revisiting-2014-fat-loss-bet/img/cold-shower.jpg)
 
 _Cold Shower by Jinx!_
 

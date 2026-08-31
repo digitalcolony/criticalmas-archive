@@ -25,7 +25,7 @@ You are building mental toughness by forgoing food flavor novelty. Think of this
 
 If you want all the details about The Potato Hack, read the book by Tim Steele. I own the Kindle version. The book is both informative and motivating.
 
-![Potato Hack Diet book](./img/potato-hack-diet.jpg)
+![Potato Hack Diet book](/2017/08/calories-closers-time-potato-hack/img/potato-hack-diet.jpg)
 
 _The Potato Hack: Weight Loss Simplified_
 
@@ -57,7 +57,7 @@ My advice is to start now. Go get your potatoes now and start. Research during t
 
 Need some motivation? A kick in the ass? Watch this speech from the movie _Glengarry Glen Ross_. It is about sales and excuses. For me, it is about toughening up and taking charge. Stop being weak.
 
-![brass balls - glengarry glen ross](./img/alec-baldwin-glengarry-glen-ross-brass-balls.jpg)
+![brass balls - glengarry glen ross](/2017/08/calories-closers-time-potato-hack/img/alec-baldwin-glengarry-glen-ross-brass-balls.jpg)
 
 _[Always Be Closing (HD)](https://youtu.be/GrhSLf0I-HM) \- Language NSFW._ 
 

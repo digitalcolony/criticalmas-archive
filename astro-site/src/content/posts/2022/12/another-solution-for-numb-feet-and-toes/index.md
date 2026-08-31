@@ -16,7 +16,7 @@ I was stumped until a friend of mine told me she fixed hers by stretching her ca
 
 This blog has more than a decade of me tinkering around with different health experiments trying to gain a little edge here or there. This might be the greatest hack I've ever done. Maybe 2nd to the [potato hack](https://potatohack.com/)? By stretching each calf every morning, all my numbness is now gone.
 
-![](./img/slank-board.jpg)
+![](/2022/12/another-solution-for-numb-feet-and-toes/img/slank-board.jpg)
 
 _I bought a slant board to do goblet squats, but it is also perfect for calf stretching._
 

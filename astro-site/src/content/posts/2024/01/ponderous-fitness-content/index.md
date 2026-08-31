@@ -18,7 +18,7 @@ We can laugh at the Cosmo ladies, but we guys are no different. We read the same
 
 I'm going to list a few of the fitness articles and video topics that I never want to be exposed to again. Then I'll rewrite the article in as few words as possible with common sense. I may forget a few, so add them in the comments.
 
-![](./img/stressed-treadmill.jpg)
+![](/2024/01/ponderous-fitness-content/img/stressed-treadmill.jpg)
 
 
 ### When is the best time of the day to exercise?

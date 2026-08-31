@@ -13,7 +13,7 @@ One of the most impressive sections of Korean grocery stores is the seafood sect
 
 I kind of followed the recipe posted in the description of this [YouTube video](http://youtu.be/6KENR9ZJfqE). I didn't have the cooking wine or hot pepper oil. I also was out of anchovies used to make the [Korean Anchovy Kelp Stock](/2012/10/anchovy-kelp-stock/). It didn't matter, as the soup tasted awesome. My fish had lots of little bones, but it didn't bother me to remove them as I ate the soup. I also made some rice which I added to the soup.
 
-![yellow-croaker-soup](./img/yellow-croaker-soup.jpg)
+![yellow-croaker-soup](/2012/12/korean-yellow-croaker-soup/img/yellow-croaker-soup.jpg)
 
 _Korean Yellow Croaker Soup_
 

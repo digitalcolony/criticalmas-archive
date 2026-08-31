@@ -17,7 +17,7 @@ Before I headed to the gym, I decided I would do the same static weight Max Pyra
 2.  Chest Press - 20 second holds (3 positions up, 3 positions down)
 3.  Chin Up - 20-30 second holds top position ( 2-3 repetitions)
 
-![pyramids](./img/pyramids.jpg)
+![pyramids](/2012/06/static-weight-max-pyramid-hit-workout/img/pyramids.jpg)
 
 _[Photo](https://flic.kr/p/6QoeNB) by Yasin Hassan_
 

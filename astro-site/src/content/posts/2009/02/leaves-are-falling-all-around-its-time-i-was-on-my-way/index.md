@@ -17,7 +17,7 @@ Last June I posted a [Moving Scorecard](/2008/06/moving-scorecard/) where I tall
 
 I am staying in Seattle.
 
-![seattle-from-queen-anne](./img/seattle-from-queen-anne.jpg)
+![seattle-from-queen-anne](/2009/02/leaves-are-falling-all-around-its-time-i-was-on-my-way/img/seattle-from-queen-anne.jpg)
 
 
 ### Neighborhood?

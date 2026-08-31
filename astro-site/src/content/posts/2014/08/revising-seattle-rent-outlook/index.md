@@ -15,7 +15,7 @@ Seattle is located between Vancouver, BC, and San Francisco, CA—two cities wit
 
 The problem with Canada and California is not only the high cost of living but the taxes. Washington has no state income tax. This has and will continue to be a reason tech companies will migrate to Seattle. There are other states with no income taxes, but none that host a true tech city. Some say Austin has a growing tech presence, but it is not in the same league as Seattle. Plus it is friggin hot.
 
-![seattle-downtown](./img/seattle-downtown.jpg)
+![seattle-downtown](/2014/08/revising-seattle-rent-outlook/img/seattle-downtown.jpg)
 
 _Seattle_ 
 

@@ -19,7 +19,7 @@ My burned CDs from the 1999-2000 era captured some of the most important histori
 
 We were both thanked, along with the Neil Rogers Audio Restoration Project in the credits. I got to see a preview release earlier this week. It was really cool to hear audio clips on a film that came from the CDs that I burned twenty years ago.
 
-![537 Movie Credit](./img/537-movie-credit.jpg)
+![537 Movie Credit](/2020/10/my-first-movie-credit/img/537-movie-credit.jpg)
 
 _From 537 Votes_
 

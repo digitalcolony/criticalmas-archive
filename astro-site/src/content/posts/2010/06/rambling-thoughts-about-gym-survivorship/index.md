@@ -17,7 +17,7 @@ I started lifting weights at the ripe old age of 24. Throughout my lifting years
 
 If you see one of us old-timers working out at the gym, you will notice that we don't train like most 20-year-olds. That go-big-or-go-home extreme mentality makes for great TV but will fail for all but the most genetically gifted. There are tens of thousands that trained just as hard and intense as Evander Holyfield, but there is only one Holyfield. We also don't baby our bodies with unchallenging low-intensity exercises, as they fail to yield the desired results.
 
-![](./img/holyfield.jpg "holyfield")
+![](/2010/06/rambling-thoughts-about-gym-survivorship/img/holyfield.jpg "holyfield")
 
 The takeaway lesson is you shouldn't model your exercise program based on extreme examples of success (Holyfield) or common examples of failure (treadmill, low intensity).
 

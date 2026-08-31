@@ -13,7 +13,7 @@ There are numerous blogs that discuss nutrition and fitness. Many of which fall 
 
 **Minimal Effort** means discovering what is the least effort, least time commitment and least cost one can invest to achieve their health goals. This is why I diss cardio and the "_go big or go home_" [attitude](/2009/12/physique-hacking/). Can you get super healthy and lean training like a triathlete? Absolutely. But what happens when you get injured or you're forced to work longer hours or family commitments increase? You know what happens. The walking population is full of once athletic young people who can no longer devote the time to getting healthy like they did when they were younger.
 
-![woodson-hike](./img/woodson-hike.jpg)
+![woodson-hike](/2010/03/the-minimal-effort-approach/img/woodson-hike.jpg)
 
 _Hiking in San Diego (Mt. Woodson)_
 

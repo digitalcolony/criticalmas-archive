@@ -26,7 +26,7 @@ Continuing to use sleep as an example. Let us say a person "quantifies" their sl
 
 Now going from 8/10 to 10/10 is going to be the challenge. Whereas reading the book took a few hours, running enough QS experiments to make this leap could take years, if it happens at all. ROI is low and uncertain. Diminishing returns. When ROI gets too low or returns nothing, then one should seek out alternate investments with higher ROI. In layman's terms, one should stop messing around with QS and instead spend their time on something that adds more value to their life.
 
-![MAS Sleeping](./img/michael_sleeping.jpg)
+![MAS Sleeping](/2014/06/roi-quantified-self/img/michael_sleeping.jpg)
 
 I spent 2.5 years of my life tracking my sleep quality. It was already good when I started. During my QS period, I tested the effect of many things with a goal to sleep perfect every night. The successes I had were minor and not repeatable. The numerous hours I spent thinking about and trying to improve my sleep by a few percentage points are gone.
 

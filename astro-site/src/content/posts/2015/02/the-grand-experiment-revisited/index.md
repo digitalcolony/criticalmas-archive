@@ -25,7 +25,7 @@ What I didn't realize at the time was that I had metabolically painted myself in
 
 Today I am back down to Level 1 Leanness, but I sleep like a champion. 8 hours almost every night. No more night headaches. And my body temperature is up over a full degree to 98.3. I'm clearly in a better state than before.
 
-![tv-says-sleep](./img/tv-says-sleep.jpg)
+![tv-says-sleep](/2015/02/the-grand-experiment-revisited/img/tv-says-sleep.jpg)
 
 
 ### What Went Wrong

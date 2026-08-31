@@ -19,7 +19,7 @@ The bad new is this was the first week where I gained weight. The good news is I
 
 If I don't lose weight in Week 7, I will return to the food journals.
 
-![tuna](./img/tuna-cans.jpg)
+![tuna](/2014/04/20-pound-bet-week-6-weigh/img/tuna-cans.jpg)
 
 Notes:
 

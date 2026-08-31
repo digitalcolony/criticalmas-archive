@@ -56,7 +56,7 @@ Cardio is fine and I will ease into it, but it doesn't capture the motivation th
 
 I'll probably just stay in this holding pattern for another month or two and see what happens. It really sucks that my motivation far exceeds my recovery rate.
 
-![Focus](./img/stefan-cosma-focus.jpg)
+![Focus](/2018/11/finding-fitness-focus/img/stefan-cosma-focus.jpg)
 
 _Photo by [Stefan Cosma](https://unsplash.com/@stefanbc)_
 

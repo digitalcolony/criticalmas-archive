@@ -25,7 +25,7 @@ A friend of mine recently told me she was going to sell her house herself. She a
 > 
 > Last piece of advice - never ever hire a friend as your listing agent (buyer agent is OK). You will push your agent weekly for updates and hound them for the sale. And very likely end up firing them. If they are your friend they won't be after it's all over.
 
-![hollyoak-front-flyer-L](./img/hollyoak-front-flyer-L.jpg)
+![hollyoak-front-flyer-L](/2006/04/for-sale-by-owner-dont-do-it/img/hollyoak-front-flyer-L.jpg)
 
 _A good agent will be able to knock out marketing material that sells your home._
 

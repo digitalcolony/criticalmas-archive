@@ -13,7 +13,7 @@ For the past two years, I have done numerous posts on nutritional topics. I've d
 
 Several of my friends and readers of this site have been inspired by my nutritional journey and have made positive changes to their diet. **I have 3 friends that have lost more than 60 pounds and many more that are 20-30 pounds lighter.** I'm not the only one that has figured out that the paleo diet works. There is now a widespread low-carb/paleo blogger community.
 
-![beef-short-ribs](./img/beef-short-ribs.jpg)
+![beef-short-ribs](/2010/08/where-the-paleo-message-is-failing/img/beef-short-ribs.jpg)
 
 _100% grass-fed - Beef short ribs_
 

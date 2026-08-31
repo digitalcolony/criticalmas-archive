@@ -38,4 +38,4 @@ The 3-month page view average prior to the move was 33,000 a month. The 3-months
 
 Even though my audience has dropped by 80%, it is still better for me to run a blog than trust that Medium will show my content on their feed to people that choose to follow me.
 
-![blog](./img/3485417819_fd42af570e_z.jpg)
+![blog](/2018/09/im-glad-i-didnt-move-this-blog-to-medium/img/3485417819_fd42af570e_z.jpg)

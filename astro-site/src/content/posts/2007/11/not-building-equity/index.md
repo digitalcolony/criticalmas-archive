@@ -15,7 +15,7 @@ The Case-Shiller Index came out today and reported a 9.6% YOY decline in propert
 
 For even numbers, my house was sold for $700,000. A 10% decline in housing values for this home is $70,000. Guess what? The money I _threw away_ in the rental market was a fraction of that number. Did I lose equity or preserve equity?
 
-![3377-Holly-Oak-Lane](./img/3377-Holly-Oak-Lane.jpg)
+![3377-Holly-Oak-Lane](/2007/11/not-building-equity/img/3377-Holly-Oak-Lane.jpg)
 
 _I loved my house, but living there 1 more year was not worth a $70,000 loss in equity._ 
 

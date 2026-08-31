@@ -30,7 +30,7 @@ I provided an example in the post [More Bench Press Nonsense](/2013/03/more-ben
 
 > To demonstrate just how much skill is a factor, I’ll provide an example of the opposite. After a decade of bench pressing, I was able to increase my bench by 30 pounds in a single week. Did I gain 30 pounds of strength? No. I read a really well written article about elbow position for tall lifters. After reading the article, I went to the gym and tested it out. **My SKILL in the bench press went up by 30 pounds. My strength was the same.** 
 
-![free-weights](./img/free-weights.jpg)
+![free-weights](/2014/11/measuring-strength-hating-hit/img/free-weights.jpg)
 
 _[Photo](https://flic.kr/p/hYuBDZ) by Jeff Blackler_
 

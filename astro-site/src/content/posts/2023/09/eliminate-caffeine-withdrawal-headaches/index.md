@@ -34,7 +34,7 @@ Another benefit to the fade method is that in the event the detox fails, you've 
 
 I am not a smoker or drinker, but if I were and I wanted to kick those habits, I would use the same strategy. Keep making your addiction 50% weaker until you can walk away from it completely. It just takes patience and planning.
 
-![](./img/53130128332_9f730fe48b_c.jpg)
+![](/2023/09/eliminate-caffeine-withdrawal-headaches/img/53130128332_9f730fe48b_c.jpg)
 
 ---
 

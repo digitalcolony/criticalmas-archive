@@ -17,7 +17,7 @@ In this post, I am going to save you two hours. I watched the lecture twice and 
 
 This sentence sets the stage for understanding the lecture. What feels good and what is good for your body might be two different things, especially in the short term. When we push dietary habits such as low-calorie, low-carb, or fasting that accelerate the usage of stress hormones we run the risk of running into health problems. Not at first, but later.
 
-![diet-recovery2](./img/diet-recovery2.jpg)
+![diet-recovery2](/2015/09/notes-for-the-survival-of-the-smartest-lecture-by-diana-schwarzbein/img/diet-recovery2.jpg)
 
 _Diet Recovery 2 by Matt Stone_
 
@@ -114,7 +114,7 @@ Losing weight is not how you stay healthy. Being healthy is how you lose weight.
 
 These notes are just an overview. If you are interested in the details, especially regarding diabetes, watch Part 2. The lecture inspired me to seek out more information, so I've just started reading _The Schwarzbein Principle II_. As a male over 40 years old who consumes a fair amount of caffeine, Dr. Schwarzbein has got my attention.
 
-![schwarzbein-principle-2](./img/schwarzbein-principle-2.jpg) _The Schwarzbein Principle II, The "Transition": A Regeneration Program to Prevent and Reverse Accelerated Aging by Diana Schwarzbein_
+![schwarzbein-principle-2](/2015/09/notes-for-the-survival-of-the-smartest-lecture-by-diana-schwarzbein/img/schwarzbein-principle-2.jpg) _The Schwarzbein Principle II, The "Transition": A Regeneration Program to Prevent and Reverse Accelerated Aging by Diana Schwarzbein_
 
 ---
 

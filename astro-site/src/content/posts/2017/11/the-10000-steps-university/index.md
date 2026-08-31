@@ -35,7 +35,7 @@ Unlike traditional colleges where students have to race to sign up for the class
 
 One can start and stop a course at any time. Just subscribe to a podcast of interest and start downloading shows. And unlike the traditional college student that might be stuck with a mediocre professor or inarticulate graduate student, we at 10,000 Steps Univerity go directly to some of the best minds in their field. No barriers.
 
-![10,000 Steps University](./img/10k-university.jpg)
+![10,000 Steps University](/2017/11/the-10000-steps-university/img/10k-university.jpg)
 
 _I had the school logo made on Fiverr for $6._ 
 
@@ -81,7 +81,7 @@ I also listen to interview shows such as James Altucher and Tim Ferriss, which t
 
 For me to walk 10,000 steps, it takes about 90-120 minutes a day. I don't power walk and I stop when I want. Also, except with Spanish podcasts, I am not listening at a normal speed. Many podcast applications provide the option to speed up play and collapse the silent pauses. This takes a little practice, but you can fully understand speech at a faster rate. When I listen to EconTalk, I'm listening at 1.5-1.6 x speed. Interview shows such as Tim Ferriss might be closer to 1.7-1.9 x speed.
 
-![podcast speed](./img/podcast_speed.jpg)
+![podcast speed](/2017/11/the-10000-steps-university/img/podcast_speed.jpg)
 
 _Using the Overcast app, I was able to listen to this 64-minute podcast in 40 minutes._ 
 
@@ -95,7 +95,7 @@ A traditional college student might spend 15 hours a week in class when school i
 
 For my interests, I think podcasts have been an effective way to learn. Many of the health and fitness posts on this blog first started with ideas I got from podcasts. I've learned far more about economics and finance from podcasts than I did at The Ohio State University where I earned a B.S. in Business Finance. And my listening skills in Spanish have improved tremendously in the last year.
 
-![seattle october](./img/37683883641_a64669eff8_z.jpg)
+![seattle october](/2017/11/the-10000-steps-university/img/37683883641_a64669eff8_z.jpg)
 
 _I took this photo last month while on one of my 10,000 Steps learning sessions._ 
 

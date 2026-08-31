@@ -34,7 +34,7 @@ The only exception I have is if I need to review a video for exercise form. If I
 
 I don't have an issue with others using their phone on cardio equipment.
 
-![](./img/gym-rude-phone.jpg)
+![](/2024/11/my-gym-code-of-conduct/img/gym-rude-phone.jpg)
 
 _Headphones, phone, and carrying a bag into the free weight room._
 

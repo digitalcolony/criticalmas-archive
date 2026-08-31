@@ -30,7 +30,7 @@ The HOA will be pleased to know that window has been now been covered. Now the r
 
 The Beautiful People, The Beautiful People!
 
-![](./img/home-gym-escondido.jpg)
+![](/2018/06/one-mans-treasure-is-the-hoas-trash/img/home-gym-escondido.jpg)
 
 ---
 

@@ -19,7 +19,7 @@ There are two current experiments related to sleep. The first I outlined in the 
 
 The second hack was mentioned in the comments of that post. It involves consuming tablespoons of honey prior to bed for deep sleep. I've tried this three times and it hasn't helped a bit. But in fairness to this sleep hack, it might be better for those that have trouble initially falling asleep, which has never been my issue.
 
-![MAS Sleeping ](./img/michael_sleeping.jpg)
+![MAS Sleeping ](/2014/02/experiments-update-sleep-gray-hair-tight-neck/img/michael_sleeping.jpg)
 
 _Lil' MAS sleeping_
 

@@ -36,7 +36,7 @@ Then after a year of trying it and quitting, I still didn't appreciate HIT. How 
 
 Greg died less than 2 years after our two workouts. I learned later that he trained Dr. McGuff and was a legend in the field of HIT. I was **extremely fortunate** to live just a few miles away from his gym and receive his invite. The fact that I know and use the principles of HIT given those chain of events is remarkable.
 
-![](./img/greg-anderson.jpg)
+![](/2018/06/starting-high-intensity-training-in-2018/img/greg-anderson.jpg)
 
 _Greg Anderson_
 

@@ -15,7 +15,7 @@ Below are 2 books that I have not read. One is anti-sugar and one is pro-sugar.
 
 ![Fat Chance: Beating the Odds Against Sugar, Processed Food, Obesity, and Disease](https://images-na.ssl-images-amazon.com/images/I/51QRY33F2ZL.jpg) _Fat Chance: Beating the Odds Against Sugar, Processed Food, Obesity, and Disease by Robert H. Lustig_
 
-![I Didn't Quit Sugar](./img/pro-sugar-book.jpg)
+![I Didn't Quit Sugar](/2013/03/my-evolving-opinion-of-sugar/img/pro-sugar-book.jpg)
 
 _I Didn't Quit Sugar: Why sugars are essential for optimal metabolism and health by Platt and Skinner ([Book no longer available](http://empoweredsustenance.com/sugar-its-your-friend/))_ 
 

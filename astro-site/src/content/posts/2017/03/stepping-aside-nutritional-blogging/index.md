@@ -21,7 +21,7 @@ My journey went from finding the optimal diet to constructing a diet that was li
 
 Best of luck meeting your nutritional goals and not getting fooled by the charlatans.
 
-![](./img/end-sign-alan-levine.jpg)
+![](/2017/03/stepping-aside-nutritional-blogging/img/end-sign-alan-levine.jpg)
 
 [Photo](https://www.flickr.com/photos/cogdog/14969158593/) by Alan Levine
 

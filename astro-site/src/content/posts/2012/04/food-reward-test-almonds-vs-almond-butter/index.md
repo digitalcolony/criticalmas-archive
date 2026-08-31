@@ -13,7 +13,7 @@ Last October in the post [High Satiety Paleo Friendly Foods?](/2011/10/high-sati
 
 In preparation for my last Hunting Headaches experiment, I had to give up fermented foods including dairy. I had already scaled back on dairy to a bare minimum because prices for yogurt and cheese spiked. This meant for 3 weeks, my only trouble food was almond butter. I tried to control myself, but after 3 weeks, I had finished 3 jars of almond butter. At the end of the 3rd week, I switched to regular almonds. To make them more healthy, I [soaked them](/2010/09/nourishing-kitchen/) _Nourishing Traditions_ style.
 
-![soak-almonds](./img/soak-almonds.jpg)
+![soak-almonds](/2012/04/food-reward-test-almonds-vs-almond-butter/img/soak-almonds.jpg)
 
 _Soaking raw almonds with a small amount of sea salt helps neutralize enzyme inhibitors present in the nuts. It makes them easier to digest._
 
@@ -24,7 +24,7 @@ For 3 weeks, my hand went into the almond jar whenever I wanted some nuts for sn
 
 I was able to reduce my calorie level by 4,692 calories over a 3-week period without increasing hunger. **The raw nuts provided greater satiety per calorie.** My brain clearly reacts differently to almond butter than raw almonds and the difference was substantial. I was able to consume two foods that were nutritionally equal that provided satiety at different caloric levels.
 
-![almond-butter](./img/almond-butter.jpg)
+![almond-butter](/2012/04/food-reward-test-almonds-vs-almond-butter/img/almond-butter.jpg)
 
 The difference between the almond butter and the raw almonds was much greater than I thought it would be. I wanted to learn more, so I went looking for more information and I found an excellent article titled [Five Ways Eating Nuts Can Help You Lose Weight](https://naturallyintense.net/blog/weight-loss/five-ways-eating-nuts-can-help-you-lose-weight/) by Kevin Richardson. Go read the full article if this topic interests you. Actually, the entire site is excellent. The paragraph I found most interesting was how chewing itself triggers satiety.
 

@@ -15,7 +15,7 @@ For the past 5 or 6 years I have spent a considerable amount of time learning mo
 
 The [EconTalk](http://econtalk.org/) podcast continues to be my favorite source of economic knowledge. Often times I would end up reading the books by the guests to further my understanding of the topic. _([NPR's Planet Money](http://www.npr.org/sections/money/) is pretty good too. Never cared for Freakonomics.)_
 
-![](./img/not-my-circus.jpg)
+![](/2017/03/didnt-blog-economics/img/not-my-circus.jpg)
 
 _Photo by [Paul Downey](https://www.flickr.com/photos/psd/21654256458/)_
 

@@ -23,7 +23,7 @@ Several years ago I was a member of a local nutrition group based on the princip
 
 Did their obsession with food quality yield them optimal health? Nope. In fact, despite all the effort and money I watched them throw at the problem, **their health never seemed to get better**. They were fanatic when it came to controlling their food environment and they stressed whenever they didn't get it 100% right.
 
-![fear of a toxic planet](./img/cristian-newman-67308-fear.jpg)
+![fear of a toxic planet](/2018/04/fear-of-a-toxic-planet/img/cristian-newman-67308-fear.jpg)
 
 _Photo by @cristian\_newman_
 

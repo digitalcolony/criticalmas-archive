@@ -23,7 +23,7 @@ I solved this problem several years ago.
 
 I have seen every episode of Family Guy, American Dad, Cleveland Show, King of the Hill, and Futurama multiple times. Well, let me say that I've seen the first half of each of those episodes multiple times. Usually, I fall asleep halfway into an episode. They are like sleeping pills.
 
-![tv-says-sleep](./img/tv-says-sleep.jpg)
+![tv-says-sleep](/2018/11/tv-sleep-tip/img/tv-says-sleep.jpg)
 
 ---
 

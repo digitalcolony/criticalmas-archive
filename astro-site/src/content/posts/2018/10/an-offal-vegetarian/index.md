@@ -39,7 +39,7 @@ I could be wrong.
 
 UPDATE: About an hour after posting, I wondered how much offal ends up in pet food. And once pet food and exports to Asia are tallied, how much waste is left? A lot, a little?
 
-![cow](./img/stijn-te-strake-cow.jpg)
+![cow](/2018/10/an-offal-vegetarian/img/stijn-te-strake-cow.jpg)
 
 [_Photo credit_](https://unsplash.com/@stijntestrake)
 

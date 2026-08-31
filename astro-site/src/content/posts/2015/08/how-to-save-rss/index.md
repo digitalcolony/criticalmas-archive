@@ -31,7 +31,7 @@ But what if Feedly (my RSS Reader) provided me with a unique email address that 
 
 Do you know those annoying [newsletter pop-up windows](/2014/09/need-browser-extension-block-newsletter-pop-ups/)? What if a browser extension provided by the RSS Reader detected it and offered to either complete the signup or block the window forever? That would be awesome.
 
-![RSS Robot](./img/6002000807_62f4801412_z.jpg)
+![RSS Robot](/2015/08/how-to-save-rss/img/6002000807_62f4801412_z.jpg)
 
 _[RSS Robot](https://flic.kr/p/a9nPJx) by Rob McDonald_
 

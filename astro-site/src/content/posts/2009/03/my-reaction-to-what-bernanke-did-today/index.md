@@ -13,7 +13,7 @@ When I heard The Federal Reserve was going buy Treasuries (aka [Quantitative Eas
 
 > You maniacs! You blew it up! God damn you! God damn you all to hell!
 
-![planetapes](./img/planetapes.jpg "planetapes")
+![planetapes](/2009/03/my-reaction-to-what-bernanke-did-today/img/planetapes.jpg "planetapes")
 
 Over on [TickerForum.org](http://tickerforum.org/akcs-www), someone asked how to explain _Quantitative Easing_ to the average American. User _Mayorquimby_ said this:
 

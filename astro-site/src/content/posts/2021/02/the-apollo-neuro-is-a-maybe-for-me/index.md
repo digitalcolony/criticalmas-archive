@@ -31,7 +31,7 @@ Although I've used them all, the ones I've used the most are the last 3 on the l
 
 I think I feel more relaxed when I use the Relax and Unwind mode, but I'm not sure. If there is an effect it is minor. The same goes for Sleep and Renew.
 
-![apollo nuero](./img/apollo-nuero.jpg)
+![apollo nuero](/2021/02/the-apollo-neuro-is-a-maybe-for-me/img/apollo-nuero.jpg)
 
 _Relax and Unwind on the Apollo Neuro_
 

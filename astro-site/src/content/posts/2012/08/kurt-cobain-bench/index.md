@@ -13,7 +13,7 @@ It has been a long time since I did a Seattle specific post. Earlier this summer
 
 Nirvana fans have converted the park bench into a makeshift memorial. I took some photos.
 
-![kurt-cobain-bench-3](./img/kurt-cobain-bench-3.jpg) ![kurt-cobain-bench-2](./img/kurt-cobain-bench-2.jpg) ![kurt-cobain-bench](./img/kurt-cobain-bench.jpg)
+![kurt-cobain-bench-3](/2012/08/kurt-cobain-bench/img/kurt-cobain-bench-3.jpg) ![kurt-cobain-bench-2](/2012/08/kurt-cobain-bench/img/kurt-cobain-bench-2.jpg) ![kurt-cobain-bench](/2012/08/kurt-cobain-bench/img/kurt-cobain-bench.jpg)
 
 ---
 

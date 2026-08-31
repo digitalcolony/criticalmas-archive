@@ -50,7 +50,7 @@ Your initial reaction might be to pay for a toxicity test, but tests can be flaw
 
 A better course of action would be to assume exposure and respond accordingly.
 
-![toxins](./img/scott-rodgerson-371852-toxin.jpg)
+![toxins](/2018/04/detoxification-notes-science-not-woo-woo/img/scott-rodgerson-371852-toxin.jpg)
 
 _Photo by [Scott Rodgerson](https://unsplash.com/@scottrodgerson)_
 

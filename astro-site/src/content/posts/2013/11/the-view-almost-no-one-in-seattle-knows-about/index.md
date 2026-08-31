@@ -19,13 +19,13 @@ The building is closed on weekends and I _believe_ access to the rooftop is rest
 
 Anyway, here are some photos I took over two dates. The reason I say very few people know about this is because for months I've been asking people if they were aware and nobody knows about it. This is a well kept secret. The Space Needle will cost you $19, unless you can time [$1 day](/2012/10/space-needle-for-1/). This costs nothing.
 
-![great-seattle-view-3](./img/great-seattle-view-3.jpg)
+![great-seattle-view-3](/2013/11/the-view-almost-no-one-in-seattle-knows-about/img/great-seattle-view-3.jpg)
 
-![great-seattle-view-4](./img/great-seattle-view-4.jpg)
+![great-seattle-view-4](/2013/11/the-view-almost-no-one-in-seattle-knows-about/img/great-seattle-view-4.jpg)
 
-![great-seattle-view-2](./img/great-seattle-view-2.jpg)
+![great-seattle-view-2](/2013/11/the-view-almost-no-one-in-seattle-knows-about/img/great-seattle-view-2.jpg)
 
-![great-seattle-view-1](./img/great-seattle-view-1.jpg)
+![great-seattle-view-1](/2013/11/the-view-almost-no-one-in-seattle-knows-about/img/great-seattle-view-1.jpg)
 
 1301 2nd Ave, Seattle WA 98101
 

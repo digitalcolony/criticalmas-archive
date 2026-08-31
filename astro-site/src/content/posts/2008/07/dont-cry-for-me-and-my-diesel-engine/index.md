@@ -11,7 +11,7 @@ commentCount: 0
 
 About a week before 9/11, I made one of the most fortunate consumer choices of my life. Although I had already decided to buy a silver VW Golf hatchback, I didn't know if I should get the gasoline or the diesel engine. Having never owned a diesel engine, I was concerned I wouldn't find a diesel pump and I'd run out of fuel and the engine would lock up. My only experience with diesel vehicles were those panic-filled moments trying to return a rented U-Haul truck when I struggled to find a diesel pump.
 
-![silver-surfer](./img/silver-surfer.jpg)
+![silver-surfer](/2008/07/dont-cry-for-me-and-my-diesel-engine/img/silver-surfer.jpg)
 
 The reason one buys diesel over gasoline is diesel engines not only last twice as long, but the fuel economy is much better. Here is a quick comparison of the 2001 VW Golf models:
 

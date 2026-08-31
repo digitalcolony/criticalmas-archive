@@ -15,7 +15,7 @@ My plan was to cut my coffee intake come summer, but then Seattle got the Northw
 
 So the result is I've been too tired to complete about 15 blog posts. Sunday is the last day of the Coffee Festival. When it is over, I'll start to reduce my coffee intake. The days will begin to shorten on Wednesday. Hopefully, I'll get my blog mojo back then.
 
-![](./img/ballard-locks.jpg "ballard-locks")
+![](/2011/06/long-days-poor-sleep-and-too-much-caffeine/img/ballard-locks.jpg "ballard-locks")
 
 _My hood. This photo has nothing to do with this post. I need more sleep._
 

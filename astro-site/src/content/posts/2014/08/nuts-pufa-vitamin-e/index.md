@@ -31,7 +31,7 @@ The article also explains how our Vitamin E needs rise and fall based on our int
 
 Another factor is heat and light destroys Vitamin E, putting processed seed oils at a further disadvantage to nuts. One exception might be cold-pressed high oleic sunflower oil.
 
-![almonds](./img/almonds.jpg)
+![almonds](/2014/08/nuts-pufa-vitamin-e/img/almonds.jpg)
 
 
 ### Natural PUFA vs Processed PUFA

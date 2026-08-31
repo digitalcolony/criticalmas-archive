@@ -49,7 +49,7 @@ Until that moment, I hadn't thought of the body having two different recovery pa
 
 Also, I'm not giving up training to failure completely. I think the best path here is to time the failure workouts before you know you'll be taking a break. Maybe just before a trip or a busy holiday schedule.
 
-![](./img/leg-press.jpg)
+![](/2018/08/heavier-weight-greater-volume-and-going-to-failure/img/leg-press.jpg)
 
 ---
 

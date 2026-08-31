@@ -48,7 +48,7 @@ Eating a plate of veggies over a whole grain or potatoes fills me up with very f
 
 No liquid calories. This includes soft drinks and alcohol. If you are a fan of those beverages, cut your intake by 50%. And then every so often, cut by another 50% until you are free.
 
-![](./img/potato-in-bowl.jpg)
+![](/2023/12/how-i-would-tackle-serious-weight-loss/img/potato-in-bowl.jpg)
 
 
 ### Protein

@@ -13,7 +13,7 @@ I was born and raised in Central Ohio. There was never a doubt that I would atte
 
 Seeing someone in Columbus wearing Ohio State clothes is as common as seeing someone wearing camouflage on a military base. It doesn't really mean anything. It's the city uniform.
 
-[![](./img/born-buckeye.jpg "born-buckeye")](./img/born-buckeye.jpg)
+[![](/2007/09/wearing-the-buckeye-uniform/img/born-buckeye.jpg "born-buckeye")](./img/born-buckeye.jpg)
 
 In 1994 I left Ohio. Since then I've lived and traveled all over this country. Every so often I'll bump into someone wearing Ohio State gear. For a while I'd try and strike up a conservation, but I stopped once I realized something. My fellow Buckeyes who may be the nicest people when back home in Ohio, tend to be rude and unfriendly away from home.
 

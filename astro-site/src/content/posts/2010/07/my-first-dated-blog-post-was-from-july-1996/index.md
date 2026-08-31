@@ -11,7 +11,7 @@ commentCount: 1
 
 I'm digging through some very old files right now. Although I had a personal website as far back as late 1995, I think I have uncovered my first dated content. Since the term _blog_ had yet to be invented I don't think this technically qualifies. Or does it? However, I do have a stamped date for these 2 posts. That date was **July 21, 1996**. Back then I had a _Tributes & Slams_ page. That day I wrote one of each.
 
-![](./img/TRIBUTE.gif "TRIBUTE")
+![](/2010/07/my-first-dated-blog-post-was-from-july-1996/img/TRIBUTE.gif "TRIBUTE")
 
 From the page _Hall of Fame: THE MAS TRIBUTE Gallery_:
 

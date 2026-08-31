@@ -11,7 +11,7 @@ commentCount: 1
 
 I know several people who are using the recession as an opportunity to pile up more student loans and get yet another college degree. Most are intelligent and qualified to do whatever they want but think they are incapable because more and more professions now are requesting additional or specialized degrees. There is _some_ truth to that, but the sad reality is the return on investment for college continues to get worse. Take a look at the graph below.
 
-![](./img/college-return-on-investment.gif "college-return-on-investment")
+![](/2010/01/before-racing-back-to-college-to-pile-on-more-debt/img/college-return-on-investment.gif "college-return-on-investment")
 
 Looks like around the year 2000, college costs continued to rise rapidly and earnings stopped keeping pace. Going to college isn't just about getting an education. There are many ways one can get an education. It is about investing in your future earning potential. And one must take into account that not everyone graduates. If you don't graduate, you still have to pay those student loans back. Student loan debt cannot be absolved in bankruptcy. You own it until you pay it off or die.
 

@@ -15,7 +15,7 @@ At this point, you can reach out to DreamHost’s support team.  They will tell
 
 Back to the question of resources.  Just how much memory does a website running WordPress with some basic plugins use?  As of this writing, I have 2 WordPress sites on DreamHost.  I installed 2 plugins to help me track my memory usage: [WP-Memory-Usage](http://wordpress.org/extend/plugins/wp-memory-usage/) and [TPC! Memory Usage](http://wordpress.org/extend/plugins/tpc-memory-usage/).  Below is a screen shot from one of my sites.  The other site shows similar numbers.
 
-![dreamhost-memory](./img/dreamhost-memory.png)
+![dreamhost-memory](/2010/11/dreamhost-myth-unlimited-domains/img/dreamhost-memory.png)
 
 With these two plugins I learned a few things:
 

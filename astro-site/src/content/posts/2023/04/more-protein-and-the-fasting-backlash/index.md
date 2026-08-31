@@ -35,7 +35,7 @@ If it were just Attia, I would probably ignore the message and just chalk it up 
 
 I recently watched a 6-minute video by Dr. Brad Stanfield titled [Why Everyone Is Abandoning Intermittent Fasting](https://www.youtube.com/watch?v=q65HcQ7DGTA), which cites the latest research on fasting and protein. The video's conclusion is that intermittent fasting is no better than calorie restriction for weight loss and is a suboptimal dietary approach for maintaining muscle.
 
-![](./img/rodion-kutsaiev-nPEORAok0Vo-unsplash.jpg)
+![](/2023/04/more-protein-and-the-fasting-backlash/img/rodion-kutsaiev-nPEORAok0Vo-unsplash.jpg)
 
 _Photo by_ [_Rodion Kutsaiev_](https://unsplash.com/@frostroomhead?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

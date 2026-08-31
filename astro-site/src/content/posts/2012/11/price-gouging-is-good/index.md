@@ -17,7 +17,7 @@ This topic has surfaced due to the damage caused by Hurricane Sandy. Who can pos
 
 Price gouging is not immoral. It is a normal economic response to a crisis situation when demand is high and supplies are low. When authorities prevent gouging, they remove or reduce the profit incentive for new competitors to increase supplies. The result is fewer entrepreneurs race to the crisis area, which keeps supplies low and delays recovery. The fastest way to get supplies to an area and restore normal prices is to allow price gouging.
 
-![burned-area-sign](./img/burned-area-sign.jpg)
+![burned-area-sign](/2012/11/price-gouging-is-good/img/burned-area-sign.jpg)
 
 The best thing for an area in desperate need of supplies is to have reports that massive price gouging is occurring. Why? Because entrepreneurs in neighboring areas will risk time, capitol and possible injury racing to the scene with those goods. The higher the profit incentive, the more entrepreneurs show up, which restore supplies and lowers the price quicker.
 

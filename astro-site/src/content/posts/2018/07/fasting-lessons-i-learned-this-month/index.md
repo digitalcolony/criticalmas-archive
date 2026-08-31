@@ -25,7 +25,7 @@ I want to pause here and explain this to the idiots that interpret me being turn
 
 Anyway, I learned online how fasting can lower iron levels. Since I was already on the lower boundary, I knew if I fasted before donating that I'd likely be turned away. So, I donated on July 9th and started my fast on July 18th.
 
-![](./img/31814891686_a577276e10_z.jpg)
+![](/2018/07/fasting-lessons-i-learned-this-month/img/31814891686_a577276e10_z.jpg)
 
 _I got my 4-gallon pin for Washington in 2017. I expect to get my 5-gallon pin in 2019._
 

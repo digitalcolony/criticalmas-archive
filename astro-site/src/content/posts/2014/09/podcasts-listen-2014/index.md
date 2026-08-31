@@ -30,7 +30,7 @@ I stopped listening to Freakonomics. Too much filler and too many logical error
 
 My newest find is the James Altucher Show. I couldn't stand this guy when he was the perma-bull on CNBC, but I gave his show a chance and I'm really digging it. [MAS Better](http://masbetter.wordpress.com/) tipped me off to Radio Lab, which is awesome. And my friend Dave is doing a great job with Podcast of Doom.
 
-![podcasting](./img/90928249_665a187e80_z.jpg)
+![podcasting](/2014/09/podcasts-listen-2014/img/90928249_665a187e80_z.jpg)
 
 _[Photo](https://flic.kr/p/932Nr) by Kin Mun Lee_
 

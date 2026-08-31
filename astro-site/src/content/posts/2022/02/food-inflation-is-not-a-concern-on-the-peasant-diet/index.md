@@ -30,7 +30,7 @@ Then add in some cheap protein sources such as eggs, sardines, and possibly chic
 
 Now that I have years of experience with the Peasant Diet and its sequel diet [Potatoes & Protein](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/), I found making single bowl dishes to be highly effective. The bottom of the bowl will be a tuber or a grain. Then top that with either legumes, sardines, or eggs. Add additional veggies or sprouts. Stir in some salsa or hot sauce and you are done. Be careful not to add a calorie-dense topping.
 
-![brocolli sprouts](./img/sprouts.jpg)
+![brocolli sprouts](/2022/02/food-inflation-is-not-a-concern-on-the-peasant-diet/img/sprouts.jpg)
 
 _Every week for 2 years now, I grow a batch of broccoli sprouts. I use seeds from the Rainbow Heirloom Seed Co. It takes about 5 days to go from seed to sprout. These are perfect toppings for Budda Bowls._
 
@@ -50,7 +50,7 @@ At my peak, I was 222 pounds. Today I'm 40 pounds lighter. By supporting my idea
 
 Yesterday for lunch I mixed lentils with quinoa and added some broth. Then I chopped some veggies and mushrooms up and tossed them into the mix. I set the Instant Pot to 5 minutes at high pressure. Then I added some sprouts, spices, and hot sauce. I had enough for 4 meals. My estimate is that each meal was about $2.
 
-![](./img/quinoa-lentil.jpg)
+![](/2022/02/food-inflation-is-not-a-concern-on-the-peasant-diet/img/quinoa-lentil.jpg)
 
 _My lentil+quinoa leftovers. I also added garlic, onions, red peppers, corn, and mushroom powder. Before serving this I'll add some hot sauce and sprouts._
 

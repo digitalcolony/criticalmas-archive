@@ -15,7 +15,7 @@ This alarmed me because I eat a lot of sardines. I was consuming 2-3 cases a mon
 
 I decided to get tested to see if my levels were elevated. They were.
 
-![heavy metal report](./img/Screenshot-2021-10-22-at-16-03-52-SMITH-MICHAEL-10-11-2021-pdf.png)
+![heavy metal report](/2021/10/joe-rogan-sardines-and-arsenic/img/Screenshot-2021-10-22-at-16-03-52-SMITH-MICHAEL-10-11-2021-pdf.png)
 
 This isn't panic level but had I continued another year or more, maybe it would have kept climbing. Thanks, Joe for the info!
 

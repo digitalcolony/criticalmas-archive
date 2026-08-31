@@ -21,7 +21,7 @@ Paleo diets are very much anti-legume. From the article _Foods to Avoid on The P
 
 I don't disagree with the above statement, however the WAPF (Weston A Price Foundation) focuses more on food preparation. They have learned how traditional cultures prepared legumes to deal with those problems. Our ancestors used soaking, sprouting and fermenting to lower the anti-nutrient properties of legumes. Soaking and sprouting also reduces the cooking time, which would have been important to traditional cultures without supplies of easily accessible energy.
 
-![soak-sprout-lentil](./img/soak-sprout-lentil.jpg)
+![soak-sprout-lentil](/2012/05/making-lentil-dal/img/soak-sprout-lentil.jpg)
 
 _Sprout those lentils!_
 
@@ -63,7 +63,7 @@ When I went to make dal, like so many other Indian recipes I found an endless an
 11.  (optional) Add chopped cilantro to top.
 12.  Serve.
 
-![lentil-dal](./img/lentil-dal.jpg)
+![lentil-dal](/2012/05/making-lentil-dal/img/lentil-dal.jpg)
 
 _Lentil dal soup._
 

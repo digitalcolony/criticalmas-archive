@@ -22,7 +22,7 @@ At some point, I will try an infrared sauna. The good news is that I'm walking a
 
 Starting on May 12th, I'll focus on what I need to do to reverse the redness. It might just need time to heal. Or I may need additional skin care products.
 
-![fire](./img/olivia-henry-3485-unsplash.jpg)
+![fire](/2019/04/the-sauna-vs-my-skin/img/olivia-henry-3485-unsplash.jpg)
 
 _Photo by [Olivia Henry](https://unsplash.com/@oliviahenry)_
 

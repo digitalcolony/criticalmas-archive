@@ -22,7 +22,7 @@ I used to have to both remember to finish my shower with cold water and decide i
 
 For that, I put this little toy in my shower. It is [Sterling Archer](https://en.wikipedia.org/wiki/Sterling_Archer) from the animated show. The only thing Archer means to me is a cold shower. When I see it, I am reminded to take a cold shower.
 
-![archer in shower](./img/archer-shower.jpg)
+![archer in shower](/2021/01/the-return-of-cold-showers/img/archer-shower.jpg)
 
 The second obstacle was removed because I have already decided that EVERY SINGLE DAY my shower will end with cold water. No choice. Just like I have no choice to not do a Duolingo lesson every morning (my streak is now 1851 days).
 

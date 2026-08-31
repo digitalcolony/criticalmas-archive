@@ -15,7 +15,7 @@ Back in my Florida days I learned from an owner of a Gold's franchise that the t
 
 The one cool trainer spotted my look and said that they had just painted it. He then said that **everyone** hates it. I corrected him and told him there was **one person who loved it**.
 
-![mas-orange](./img/mas-orange.jpg "mas-orange")
+![mas-orange](/2009/03/when-glitter-turns-orange/img/mas-orange.jpg "mas-orange")
 
 _Young MAS dreaming of the day gym walls will be the same color as his shirt._
 

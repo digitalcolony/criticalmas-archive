@@ -28,7 +28,7 @@ The final sentence was too much for me and is the reason for this post.
 
 That doesn't need to be true. I'm going to tell you how to have long-term success on the potato diet.
 
-![](./img/potato-ip.jpg)
+![](/2023/01/how-to-achieve-long-term-success-on-the-potato-diet/img/potato-ip.jpg)
 
 _These days I use an Instant Pot with a liner to prepare my potatoes._
 
@@ -40,7 +40,7 @@ _These days I use an Instant Pot with a liner to prepare my potatoes._
 
 I've shared this image numerous times. Understanding this graphic is the key to understanding satiety and how to reach satiety with fewer calories. The people in that study that failed traded the stomach on the right which was full of potatoes for one of the two on the left. This resulted in more hunger, which resulted in them consuming more calories to achieve satiety.
 
-![](./img/bulkydiet.jpg)
+![](/2023/01/how-to-achieve-long-term-success-on-the-potato-diet/img/bulkydiet.jpg)
 
 
 ### Understand Flavor

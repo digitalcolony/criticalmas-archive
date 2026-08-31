@@ -44,7 +44,7 @@ This means that some of the standard advice of doing things to correct insomnia 
 
 > Any attempts to fight, avoid, change or get rid of experiencing your insomnia tell your brain that you are being threatened, triggering your innate survival response. In this moment you become mentally and physically alert as your brain prepares you to stand and fight or withdraw in flight. Your mind begins to race with thoughts, your mood darkens, your muscles tense, your body shrinks, and you become wide away. How you choose to respond towards your insomnia therefore determines your insomnia, and only by learning to welcome it can you retrain your brain to sleep soundly once more.
 
-![](./img/sleep-book-guy-e1624196838666.jpg)
+![](/2021/06/insomnia-continues-and-two-more-sleep-books/img/sleep-book-guy-e1624196838666.jpg)
 
 Say Goodnight to Insomnia says to get out of bed after 30 minutes of not sleeping and go to another room until you get sleepy and then try again. The Sleep Book implies this is an avoidance strategy and one should sit with insomnia in acceptance. The Sleep Book states clearly that sleep will probably get worse at first.
 

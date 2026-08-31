@@ -53,7 +53,7 @@ The site of someone wearing a mask serves as a constant reminder of sickness and
 
 I'd be interested in hearing where you are from, what type of gym you attend, what the local fear level is, and your level of optimism on if and when things will return to normal.
 
-![keep your distance](./img/nick-fewings-S3AeFMlyITA-unsplash.jpg)
+![keep your distance](/2020/05/the-end-of-gyms-part-2/img/nick-fewings-S3AeFMlyITA-unsplash.jpg)
 
 _Photo by [Nick Fewings](https://unsplash.com/@jannerboy62?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 

@@ -43,7 +43,7 @@ Berardi concludes with why you need to follow the habits 90% of time before you 
 
 > _So what about calories, or macronutrient ratios, or any number of other things that Ive covered in other articles? The short answer is that if you arent already practicing the above-mentioned habits, and by practicing them I mean putting them to use over 90% of the time (i.e., no more than 4 meals out of an average 42 meals per week violate any of those rules), everything else is pretty pointless._
 
-![ballard-coffee-works](./img/ballard-coffee-works.jpg)
+![ballard-coffee-works](/2006/09/7-habits-of-highly-effective-nutritional-programs/img/ballard-coffee-works.jpg)
 
 _Coffee for the win!_
 

@@ -11,13 +11,13 @@ commentCount: 10
 
 I recently saw a neat graphic on Precision Nutrition.
 
-![bulkydiet](./img/bulkydiet.jpg)
+![bulkydiet](/2015/05/eating-for-volume-to-lose-weight/img/bulkydiet.jpg)
 
 _From the article [Here's why you're always hungry](https://www.precisionnutrition.com/all-about-dietary-displacement)._
 
 The article goes into why we reach satiety quicker when the volume of food in the stomach is greater. This is obvious, but I like the simplicity of how this is framed. A simple image that demonstrates how at the same level of calories we can be more or less hungry. This ties in with [food reward](/2015/02/food-reward-and-old-school-bodybuilders/), as the modern foods that are engineered for us to eat past satiety, take up little volume in the stomach. One example would be corn. 400 calories of corn chips takes up much less space in the stomach than 400 calories of corn or my favorite hominy.
 
-![Hominey](./img/640px-Hominy_maize.jpg)
+![Hominey](/2015/05/eating-for-volume-to-lose-weight/img/640px-Hominy_maize.jpg)
 
 _[Hominy](https://en.wikipedia.org/wiki/Hominy) by Geoff Lane_
 

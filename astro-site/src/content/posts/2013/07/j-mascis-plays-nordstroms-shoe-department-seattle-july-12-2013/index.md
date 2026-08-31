@@ -19,7 +19,7 @@ I showed up around 11:45 AM and less than 10 people were standing around the esc
 
 Then more and more people started showing up. J arrived a few minutes early, plugged in, and started playing at Noon. For 30 minutes, he put on a perfect show.
 
-![j mascis nordstrom](./img/j-mascis-nordstrom-seattle-july-2013.jpg)
+![j mascis nordstrom](/2013/07/j-mascis-plays-nordstroms-shoe-department-seattle-july-12-2013/img/j-mascis-nordstrom-seattle-july-2013.jpg)
 
 _J Mascis plays Nordstrom_
 
@@ -37,7 +37,7 @@ _Setlist courtesy of setlist.fm._ 
 
 Only in Seattle would J Mascis stop by the shoe department of Nordstroms and jam for 30 minutes. I loved Darren's mini-review on Facebook. 
 
-![j-mascis-review](./img/j-mascis-review.png)
+![j-mascis-review](/2013/07/j-mascis-plays-nordstroms-shoe-department-seattle-july-12-2013/img/j-mascis-review.png)
 
 **UPDATE**: For those who missed this show, check out [J Mascis at the Kennedy Center](http://youtu.be/uavyXk7lF7Q). He plays all the tunes he did at Nordstrom except Flying Cloud plus a few more.
 

@@ -11,7 +11,7 @@ commentCount: 13
 
 One of the core principles of high-intensity training and many other fitness programs is to record your workouts. I remember reading years ago that strength coach Charles Poliquin wants to see at least 6 months of workout data before he takes you on as a client. That may or may not be true, but the story always stuck with me. Back when I had a home gym, I recorded every workout. I have years of data.
 
-![gym-whiteboard](./img/gym-whiteboard.jpg)
+![gym-whiteboard](/2012/08/why-i-dont-measure-my-workouts/img/gym-whiteboard.jpg)
 
 My home gym had a huge whiteboard, where I recorded workouts. Later this data was moved to a notebook. The board allowed me to see weeks of data at a glance.
 

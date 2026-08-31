@@ -11,7 +11,7 @@ commentCount: 15
 
 On Saturday evening I was walking across a street in Capitol Hill inside the pedestrian walkway. A large white SUV came up from the side street towards me. It appeared the car was slowing as there was a Stop sign. But it didn't. By the time I realized the car was going to run the Stop sign, I was already in front of it. I straight-armed the car so it wouldn't hit my legs and run me over.
 
-![White SUV](./img/white-SUV.jpg "White SUV")
+![White SUV](/2011/11/getting-hit-by-a-car/img/white-SUV.jpg "White SUV")
 
 _I was hit by a white SUV. It looked a lot like a Ford Excursion._
 

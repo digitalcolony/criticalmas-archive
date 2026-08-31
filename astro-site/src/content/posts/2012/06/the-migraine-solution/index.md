@@ -11,7 +11,7 @@ commentCount: 9
 
 Last week the book [Heal Your Headache: The 1-2-3 Program for Taking Charge of Your Pain](/2012/06/heal-your-headache-the-1-2-3-program-for-taking-charge-of-your-pain/) had me rethink the root cause of my headaches. It made a strong case that the roots of my headache were migraine. So I decided to read up more on migraines. I selected the new book The Migraine Solution: A Complete Guide to Diagnosis, Treatment, and Pain Management. Now I am really confused.
 
-![](./img/migraine-solution.jpg "migraine-solution")
+![](/2012/06/the-migraine-solution/img/migraine-solution.jpg "migraine-solution")
 
 _The Migraine Solution: A Complete Guide to Diagnosis, Treatment, and Pain Management_
 

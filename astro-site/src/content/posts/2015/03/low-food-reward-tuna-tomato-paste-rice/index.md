@@ -13,7 +13,7 @@ I came up with a low [food reward](/2015/02/food-reward-and-old-school-bodybuild
 
 **This is a true appetite crusher.**
 
-![tuna-paste](./img/tuna-paste.jpg)
+![tuna-paste](/2015/03/low-food-reward-tuna-tomato-paste-rice/img/tuna-paste.jpg)
 
 _Looks more like cat food than people's food._
 
@@ -27,7 +27,7 @@ The rice is optional. If you are trying to keep the carbs lower, you can remove 
 
 I've never had a meal of fewer than 500 calories suppress my appetite more than this. I'm not saying I am getting "loosen the belt buckle" full, but if I have this meal in the morning, I can go several hours without feeling hungry. Another benefit of the tuna + tomato paste combo is it requires no cooking time. Just open cans and mix. The rice is optional. Korean rice cakes cook fast, so having some around (in the freezer) is what I use when I don't have leftover rice.
 
-![korean rice cake package](./img/korean-rice-cake-package.jpg)
+![korean rice cake package](/2015/03/low-food-reward-tuna-tomato-paste-rice/img/korean-rice-cake-package.jpg)
 
 _Korean rice cakes. If you live near a Korean grocery store get a few of these. They are awesome for [soup](/2014/11/fast-easy-guide-making-korean-soup/) too._ 
 

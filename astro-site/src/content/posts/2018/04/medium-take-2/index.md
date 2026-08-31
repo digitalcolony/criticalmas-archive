@@ -12,7 +12,7 @@ A year ago, I posted [Medium and Blog Housekeeping](/2017/02/medium-blog-housek
 
 I was wrong.
 
-![Medium](./img/medium.png)
+![Medium](/2018/04/medium-take-2/img/medium.png)
 
 As a reader, I really do like Medium. In an age when almost every website bombards you with newsletter pop-ups, it is refreshing to see a clean, readable site that is full of quality content.
 

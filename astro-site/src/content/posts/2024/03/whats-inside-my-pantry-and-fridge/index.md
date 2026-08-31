@@ -17,7 +17,7 @@ I primarily cook with an Instant Pot. I also use an Air Fryer and a rice cooker.
 ### Pantry
 
 
-![](./img/pantry-top.jpg)
+![](/2024/03/whats-inside-my-pantry-and-fridge/img/pantry-top.jpg)
 
 Top shelf: various beans and lentils, dehydrated veggies, popcorn
 
@@ -35,7 +35,7 @@ Cabinet (no photo): white rice, brown rice, wild rice, more black lentils
 ### Fridge
 
 
-![](./img/fridge-1.jpg)
+![](/2024/03/whats-inside-my-pantry-and-fridge/img/fridge-1.jpg)
 
 Top shelf: cold brew coffee, lime juice, corn tortillas, Fat-Free Greek yogurt, peeled garlic, spicy jam (meh)
 
@@ -53,7 +53,7 @@ Bottom right crisper: apples, oranges, sumo mandarin tangerines
 ### Fridge Inside Door
 
 
-![](./img/fridge-2.jpg)
+![](/2024/03/whats-inside-my-pantry-and-fridge/img/fridge-2.jpg)
 
 Top left: natto
 
@@ -67,7 +67,7 @@ Bottom shelf: kimchi, canned flavored water
 ### Freezer
 
 
-![](./img/freezer-1.jpg)
+![](/2024/03/whats-inside-my-pantry-and-fridge/img/freezer-1.jpg)
 
 Brussels sprouts, broccoli, hominy, Korean rice cakes, fruit mix, avocados\*
 
@@ -77,7 +77,7 @@ _\* The avocados were going bad, so I am testing freezing them._
 ### Freezer Inside Door
 
 
-![](./img/freezer-2.jpg)
+![](/2024/03/whats-inside-my-pantry-and-fridge/img/freezer-2.jpg)
 
 Top shelf: natto, Brussels sprouts, Korean rice cakes
 

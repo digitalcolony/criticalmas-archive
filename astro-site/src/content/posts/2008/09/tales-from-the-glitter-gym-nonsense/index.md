@@ -21,7 +21,7 @@ I snapped.
 
 I took one look at the client and then stared at the trainer and in a voice I didn't expect to be as loud as it came out, I said **NONSENSE!** I turned to the heavy dumbbells, grabbed a pair, and did a set of incline presses making more noise than usual. I slammed the weights down.
 
-![](./img/dumbbells-gym.jpg)
+![](/2008/09/tales-from-the-glitter-gym-nonsense/img/dumbbells-gym.jpg)
 
 When I looked over, they were both gone. They fled the free-weight area and resumed their stretching on the other side of the room. Wow. Did I discover the secret code for dealing with idiots at the gym? Act like a crazy prisoner who just got access to the yard.
 

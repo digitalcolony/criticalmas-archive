@@ -19,7 +19,7 @@ A word of warning, do not do the entire 12 minute routine on your first attempt.
 
 To speed up my understanding of the routine, I got their book, which if you get the paperback version is beautifully edited with color photos. Although they sell a Kindle version of Foundation, I can't imagine it accurately displaying the detail of the paperback version.
 
-![Foundation Training Book](./img/Foundation-Training-Book.jpg) _Foundation: Redefine Your Core, Conquer Back Pain, and Move with Confidence by Dr. Eric Goodman_
+![Foundation Training Book](/2013/08/foundation-training-is-highly-effective/img/Foundation-Training-Book.jpg) _Foundation: Redefine Your Core, Conquer Back Pain, and Move with Confidence by Dr. Eric Goodman_
 
 The video is unlisted on YouTube. It was public when I first found it. Since they sell a DVD on the [Foundation Training website](https://www.foundationtraining.com/), it is possible they might pull it at some point. Here is the link for now.
 

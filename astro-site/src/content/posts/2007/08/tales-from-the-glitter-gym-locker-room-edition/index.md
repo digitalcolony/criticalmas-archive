@@ -17,7 +17,7 @@ Yes ladies, behind that locker room door is some _creepy_ behavior. Men have bee
 
 **Uncle Leo** - Locker rooms always have a few old guys who for no apparent reason just walk around nude. I don't even know if they work out. For all I know they may live in the locker room. And they don't look like underwear models either. No matter where you go in this country, the old guy walking around nude will always look like a fat version of Uncle Leo from TV's Seinfeld.
 
-[![](./img/sleo.jpg "Unclue Leo")](./img/sleo.jpg)
+[![](/2007/08/tales-from-the-glitter-gym-locker-room-edition/img/sleo.jpg "Unclue Leo")](./img/sleo.jpg)
 
 Imagine two or three nude and obese Uncle Leos walking around every men's locker room across this nation. Frightening. Now I'm sure none of you ladies will ever accidentally step into a men's locker room.
 

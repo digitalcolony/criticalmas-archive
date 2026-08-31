@@ -13,21 +13,21 @@ It was one year ago that I did my first [urban hike of Seattle](/2008/02/urban-h
 
 Partially because I wanted to cover more distance and partially because my fingers were numb from the cold, I decided to take less photos.
 
-![urban-hike-1](./img/urban-hike-1.jpg)
+![urban-hike-1](/2009/02/urban-hike-seattle-225-mile-edition/img/urban-hike-1.jpg)
 
 _From the Ballard Bridge_
 
-![urban-hike-2](./img/urban-hike-2.jpg)
+![urban-hike-2](/2009/02/urban-hike-seattle-225-mile-edition/img/urban-hike-2.jpg)
 
 _Greenlake_
 
-![urban-hike-3](./img/urban-hike-3.jpg)
+![urban-hike-3](/2009/02/urban-hike-seattle-225-mile-edition/img/urban-hike-3.jpg)
 
 _Downtown Seattle_
 
 Total distance covered today was [22.5 miles](http://www.gmap-pedometer.com/?r=2566165 ).
 
-![urban-hike-4](./img/urban-hike-4.jpg)
+![urban-hike-4](/2009/02/urban-hike-seattle-225-mile-edition/img/urban-hike-4.jpg)
 
 ---
 

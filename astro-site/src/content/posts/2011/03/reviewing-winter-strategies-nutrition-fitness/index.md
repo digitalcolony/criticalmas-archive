@@ -13,7 +13,7 @@ Now that spring has arrived, I want to go back and review the goals outlined in 
 
 If we get into touch with our environment, this is the period where carbohydrate consumption should be at its lowest. Many people tend to gain weight in the winter, because they fail to get the sleep they need and eat too many carbohydrates that were never available year round until the modern age.
 
-![pike-market-winter](./img/pike-market-winter.jpg)
+![pike-market-winter](/2011/03/reviewing-winter-strategies-nutrition-fitness/img/pike-market-winter.jpg)
 
 Time to review my 8 strategies.
 

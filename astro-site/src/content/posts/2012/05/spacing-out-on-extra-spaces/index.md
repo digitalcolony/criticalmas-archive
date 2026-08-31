@@ -15,7 +15,7 @@ One year ago an article I read convinced me that one of my deepest beliefs was w
 
 When I was in school, I had been taught to drop 2 spaces after every period, question mark, and exclamation mark. In a world of monospace fonts, that _might_ make readability better, but not for the vast majority of fonts, which aren't monospaced. The Slate article really impacted me. I was convinced, so around June of last year, I broke a lifetime habit of double-tapping the space bar.
 
-![spacebar](./img/3429413001_3a8e7c1eeb_z.jpg)
+![spacebar](/2012/05/spacing-out-on-extra-spaces/img/3429413001_3a8e7c1eeb_z.jpg)
 
 _[Photo](https://flic.kr/p/6e3D1n) by Jake Bouma_
 

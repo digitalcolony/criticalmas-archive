@@ -13,7 +13,7 @@ I finally got around to cooking up some bone marrow. Instead of putting the gooe
 
 Bone marrow is a prized food in traditional cultures and appears to be an excellent source of Vitamin K2, which is good for dental health. See [Vitamin K2 in Marrow](http://wholehealthsource.blogspot.com/2008/11/vitamin-k2-in-marrow.html) at Whole Health Source.
 
-![bone-marrow-roasted-cauliflower](./img/bone-marrow-roasted-cauliflower.jpg) ![bone-marrow-roasted](./img/bone-marrow-roasted.jpg) ![bone-marrow](./img/bone-marrow.jpg)
+![bone-marrow-roasted-cauliflower](/2012/09/bone-marrow-and-cauliflower/img/bone-marrow-roasted-cauliflower.jpg) ![bone-marrow-roasted](/2012/09/bone-marrow-and-cauliflower/img/bone-marrow-roasted.jpg) ![bone-marrow](/2012/09/bone-marrow-and-cauliflower/img/bone-marrow.jpg)
 
 ---
 

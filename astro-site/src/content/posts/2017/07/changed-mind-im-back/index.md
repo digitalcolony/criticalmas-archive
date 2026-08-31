@@ -54,7 +54,7 @@ I know a lot of readers come here for fitness posts. I think that topic has been
 
 I am still interested in Nutrition but I also have [concerns](/2017/03/stepping-aside-nutritional-blogging/) about posting things health-related, so I will do my best to discuss this topic in an honest and transparent way.
 
-![](./img/seattle-awesome-3.jpg)
+![](/2017/07/changed-mind-im-back/img/seattle-awesome-3.jpg)
 
 ---
 

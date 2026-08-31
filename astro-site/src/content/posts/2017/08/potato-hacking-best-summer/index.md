@@ -19,7 +19,7 @@ If you are interested in doing a Potato Hack but haven't started yet, I encourag
 
 Another tip I want to share is to study the space you have available inside your refrigerator and then head to a container store. Purchase a tub that will hold enough cooked potatoes for a day. It will hold 5 - 6 pounds of potatoes and at a glance, I can how many are left inside the tub. Having a dedicated potato tub has made my life simpler.
 
-![Potato Hack Diet book](./img/potato-hack-diet.jpg)
+![Potato Hack Diet book](/2017/08/potato-hacking-best-summer/img/potato-hack-diet.jpg)
 
 _The Potato Hack: Weight Loss Simplified_
 

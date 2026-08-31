@@ -23,7 +23,7 @@ Of course, I was describing an American poor person. However, the problem I susp
 
 They are consuming a large amount of industrial seed oils. This would be detrimental to healthy metabolism and it is a problem that would build over time, which is exactly what Matt Stone is seeing in Central America. His article also outlines a few other possible causes, but dietary fats are the one I want to address for my Modern Peasant Diet.
 
-![](./img/hard-boiled-eggs.jpg)
+![](/2017/01/more-on-the-peasant-diet/img/hard-boiled-eggs.jpg)
 
 _[Hard-boiled eggs](https://www.flickr.com/photos/pixellou/5923330134/) by Lisa Williams_
 

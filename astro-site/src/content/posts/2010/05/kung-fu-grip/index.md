@@ -5,11 +5,11 @@ modifiedDate: 2021-05-30T21:40:41.000Z
 author: "MAS"
 categories: ["Fitness"]
 tags: ["grip"]
-description: "![](./img/kung-fu-grip.jpg) Yesterday I ordered my 2nd Captain of Crush Hand Gripper. Years ago I bought the #1, which requires 140 pounds of pressure to close. It took me a long time before I was..."
+description: "![](/2010/05/kung-fu-grip/img/kung-fu-grip.jpg) Yesterday I ordered my 2nd Captain of Crush Hand Gripper. Years ago I bought the #1, which requires 140 pounds of pressure to close. It took me a long time before I was..."
 commentCount: 5
 ---
 
-[![](./img/kung-fu-grip.jpg "kung-fu-grip")](./img/kung-fu-grip.jpg)
+[![](/2010/05/kung-fu-grip/img/kung-fu-grip.jpg "kung-fu-grip")](./img/kung-fu-grip.jpg)
 
 Yesterday I ordered my 2nd Captain of Crush Hand Gripper. Years ago I bought the #1, which requires 140 pounds of pressure to close. It took me a long time before I was able to close it end-to-end in both hands. Now, I am ready for the next [grip strength](/2009/10/weight-lifting-wisdom-for-the-tall-lanky-guy/) challenge. The #1.5 requires 167.5 pounds of grip strength to close.
 

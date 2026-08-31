@@ -31,11 +31,11 @@ OK, I'll play along. What foods should I avoid if the real issue is FODMAPs? I l
 
 Am I missing something here? If I avoid bread because of gluten, I am anti-science and neurotic. If I avoid bread, because it is a source of FODMAPs, then I am enlightened. I don't know, nor do I care what is inside wheat that causes my skin to act up and give me headaches. I looked better and feel better when I stopped eating bread. I'm not alone.
 
-![MAS 2001](./img/mas_2001.jpg)
+![MAS 2001](/2014/10/10-awful-nutritional-myths-gets-one-wrong/img/mas_2001.jpg)
 
 _Me and my skin during my bread years._
 
-![mas-angkor-wat](./img/mas-angkor-wat.jpeg)
+![mas-angkor-wat](/2014/10/10-awful-nutritional-myths-gets-one-wrong/img/mas-angkor-wat.jpeg)
 
 _Me just months after removing bread from my diet._ 
 

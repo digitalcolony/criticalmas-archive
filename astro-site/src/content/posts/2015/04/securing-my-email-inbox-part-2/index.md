@@ -21,7 +21,7 @@ Now my Inbox was secure. But it wasn't. It was better, but there was still a pro
 
 This is where 2-factor authentication comes in handy as Dan mentioned in [his comment](/2015/04/securing-my-email-inbox/#comment-24520). But not every site has this option. Thankfully this is common with the financial sites, which is where hackers could do the most damage. This morning I discovered I didn't have 2-factor turned on for PayPal. Now I do. If you have the option to secure a sensitive account with 2-factor authentication, do so.
 
-![rsa-tokens](./img/rsa-tokens.jpg)
+![rsa-tokens](/2015/04/securing-my-email-inbox-part-2/img/rsa-tokens.jpg)
 
 _[RSA Tokens](https://flic.kr/p/avUznU) are a form of 2-factor authentication. Photo by Edwin Sarmiento._
 

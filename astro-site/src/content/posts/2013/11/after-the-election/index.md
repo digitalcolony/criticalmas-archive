@@ -18,7 +18,7 @@ I have a lot of respect for the **Our Bad** group because they respect the voter
 
 I detest the **Your Bad** group. They don't respect the will of the voters when the vote goes against them. To me, they come off as condescending and elitist. They don't own their loss. They look for excuses and blame the voters. It is never their lack of communicating the issue that is the fault. When a candidate or cause either directly or indirectly tells me that my vote was wasted, wrong or stupid then I am far less likely to be receptive to their issue in a future election.
 
-![voting-booth-1966](./img/voting-booth-1966.jpg)
+![voting-booth-1966](/2013/11/after-the-election/img/voting-booth-1966.jpg)
 
 _[Photo](https://flic.kr/p/g2yxv8) by Clackamas County Historical Society_
 

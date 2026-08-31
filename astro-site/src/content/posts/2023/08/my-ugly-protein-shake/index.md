@@ -27,7 +27,7 @@ But I've learned a lot since then. I understand how highly flavorful food can st
 
 My goal today is to consume a low-flavor, nutrient-dense protein shake that is more filling with fewer calories. I believe I have succeeded.
 
-![ugly protein shake](./img/53140105392_e30d354d09_c.jpg)
+![ugly protein shake](/2023/08/my-ugly-protein-shake/img/53140105392_e30d354d09_c.jpg)
 
 _This isn't pretty._
 

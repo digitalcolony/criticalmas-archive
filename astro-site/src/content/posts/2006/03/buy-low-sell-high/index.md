@@ -11,7 +11,7 @@ commentCount: 0
 
 Back in the late months of the dot-com days, I sold all my stocks and used the money for a home down payment. It turned out to be a brilliant move. Had I stayed in the market another 6 months, a large chunk of that money would have been wiped out and I wouldn't have been able to afford a house here in SoCal.
 
-![3377-Holly-Oak-Lane-Back](./img/3377-Holly-Oak-Lane-Back.jpg)
+![3377-Holly-Oak-Lane-Back](/2006/03/buy-low-sell-high/img/3377-Holly-Oak-Lane-Back.jpg)
 
 _I loved living in Rancho San Pasqual, except during those wildfires._ 
 

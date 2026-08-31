@@ -11,11 +11,11 @@ commentCount: 8
 
 This weekend I slipped on some gardening gloves, grabbed a pair of scissors and went foraging for nettles. Not sure about the legality of taking a bag of nettles out of a Seattle park, but they sure tasted good and the price was right. ;)
 
-![nettles-3](./img/nettles-3.jpg)
+![nettles-3](/2010/03/foraging-for-nettles/img/nettles-3.jpg)
 
-![nettles-2](./img/nettles-2.jpg)
+![nettles-2](/2010/03/foraging-for-nettles/img/nettles-2.jpg)
 
-![nettles-1](./img/nettles-1.jpg)
+![nettles-1](/2010/03/foraging-for-nettles/img/nettles-1.jpg)
 
 ---
 

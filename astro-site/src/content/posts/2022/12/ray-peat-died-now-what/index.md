@@ -23,7 +23,7 @@ I hope Ray has an assigned backup for his domain registration and if so, I hope 
 
 Whois hides the registrar information for RayPeat.com, but it does say the domain is expiring on March 1, 2023. If it is not renewed, bots are far more likely to capture the domain faster than a fan the second it becomes available. If that happens, all of Ray's writing will be taken down and replaced with spammy affiliate links. There are thousands of inbound links to RayPeat.com. That makes it worth the effort to capture the domain.
 
-![raypeat.com](./img/raypeat-dom.jpg)
+![raypeat.com](/2022/12/ray-peat-died-now-what/img/raypeat-dom.jpg)
 
 _Screenshot of RayPeat.com_
 

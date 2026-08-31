@@ -17,7 +17,7 @@ In hindsight, I failed to remove some of the meat sources with high PUFA, but it
 
 When I engaged in the experiment, I knew that the information was speculative, but the _This is Your Body Temperature on Vegetable Oil_ article shares the story of a population that was exposed to vegetable oil in recent years that experienced the exact opposite of what happened to me. Their [body temperatures fell rapidly](https://www.science.org/doi/10.1126/sciadv.abc6599).
 
-![cooking with veggie oil](./img/markus-winkler-j-fCt6Sgp4U-unsplash.jpg)
+![cooking with veggie oil](/2021/01/body-temperature-and-vegetable-oil/img/markus-winkler-j-fCt6Sgp4U-unsplash.jpg)
 
 _Photo by [Markus Winkler](https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 

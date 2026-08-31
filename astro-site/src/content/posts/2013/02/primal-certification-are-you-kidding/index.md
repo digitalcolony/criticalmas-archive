@@ -17,7 +17,7 @@ From [Where the Paleo Message is Failing](/2010/08/where-the-paleo-message-is-fa
 
 Wasn't the entire point of Paleo was that it was simple? The gurus of Paleo told us that by rejecting Neolithic poisons, getting plenty of rest, and exercising sensibly we'd be better off. Makes sense to me. When did it get so complicated that we needed certification to share such a simple message?
 
-![caveman](./img/5964727769_0a003f9edc_z.jpg)
+![caveman](/2013/02/primal-certification-are-you-kidding/img/5964727769_0a003f9edc_z.jpg)
 
 _[Photo](https://flic.kr/p/a65MKX) by Pascal_
 

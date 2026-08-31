@@ -19,7 +19,7 @@ _Coffee Drinking Man on July 14th._
 
 _Coffee Drinking Man today._
 
-![seattle-coffee-works-guy](./img/seattle-coffee-works-guy.jpg "seattle-coffee-works-guy")
+![seattle-coffee-works-guy](/2009/07/14-foot-tall-coffee-drinking-man-looks-down-on-pike-market/img/seattle-coffee-works-guy.jpg "seattle-coffee-works-guy")
 
 _Before the move, the Coffee Drinking Man was on the sidewalk._
 

@@ -28,7 +28,7 @@ I outline the two positions in Part 1.
 
 In Part 2, I did some research and discovered that traditional cultures have used nature-made sunscreen for ages and still do. So the narrative that Grok didn't use sunscreen is false.
 
-![](./img/seattle-sunny.jpg)
+![](/2019/01/was-paleo-wrong-about-sunscreen-too-part-3/img/seattle-sunny.jpg)
 
 _Seattle on a sunny day_
 

@@ -29,7 +29,7 @@ The site _Suppversity_ does a great job of pouring through the scientific resear
 
 For easy math, let us say someone weighs 200 pounds (91 kilograms). Their protein needs would be between 136 and 182 grams a day. Going back to their recommendation in the first linked article, which advises a 15% initial calorie reduction, this works out to a protein ratio of about 30% at the high end.
 
-![eggs](./img/2735689978_949e3a02b1_z.jpg)
+![eggs](/2014/07/just-count-protein-fat-loss/img/2735689978_949e3a02b1_z.jpg)
 
 _[Photo](https://www.flickr.com/photos/themonnie/2735689978/) by Frank Monnerjahn_
 

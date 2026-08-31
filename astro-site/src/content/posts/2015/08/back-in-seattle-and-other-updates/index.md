@@ -15,7 +15,7 @@ It really is amazing all the things you can do on a Chromebook if you are forced
 
 Since back in Seattle I've been catching up on new content for my coffee site [INeedCoffee](https://ineedcoffee.com/). There are also a lot more articles coming this fall. I've been advised that I should post more frequently to build a larger audience. But I prefer to post quality over quantity. There are too many sites creating disposable content. They tend to be hot for a while and then they burn out. INeedCoffee has been online since April 1999. I'm playing the long game.
 
-![cold-brew-prepare-to-brew](./img/cold-brew-prepare-to-brew.jpg)
+![cold-brew-prepare-to-brew](/2015/08/back-in-seattle-and-other-updates/img/cold-brew-prepare-to-brew.jpg)
 
 _[The Perfect Solution For Cold Brew Coffee on the Go](https://ineedcoffee.com/the-perfect-solution-for-cold-brew-coffee-on-the-go/) was one of the two cold brew tutorials I wrote this month for INeedCoffee._ 
 
@@ -25,7 +25,7 @@ And an update on Waze, which is the app I discussed in the post [Learning to Hat
 
 Now my only motivation has been moving up the ranks. Several months ago I achieved the level of Knight, which for the top 4% of users. I was two days away from becoming Royalty, which is the highest rank given to the top 1% when I got denied. The rankings are based upon the state. When I informed Waze I was in Washington and no longer in California, the number of points needed to achieve Royalty was 7,000 points higher. So now I am looking at another month or two before I become Royalty.
 
-![waze-rank](./img/waze-rank.jpg)
+![waze-rank](/2015/08/back-in-seattle-and-other-updates/img/waze-rank.jpg)
 
 _In California, this would be enough points to be Waze Royalty._
 

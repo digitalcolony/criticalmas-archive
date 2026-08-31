@@ -78,7 +78,7 @@ So I doubt it was SIBO. It was likely all a stomach acid issue that was being ag
 
 The good news is I'll be adding back potatoes next week.
 
-![](./img/elysian-clover-coffee.jpg)
+![](/2018/09/stomach-woes-update/img/elysian-clover-coffee.jpg)
 
 _I won't be drinking big cups of coffee like this anytime soon. More like 4 or 5 ounces cups for me._
 

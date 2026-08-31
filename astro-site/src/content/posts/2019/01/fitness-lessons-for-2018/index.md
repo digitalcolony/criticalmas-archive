@@ -71,7 +71,7 @@ My great insight of 2018 was to take the success I had with the Potato Hack and 
 
 This combo is turning out to be crazy effective for controlling appetite.
 
-![](./img/brewing-cold-brew.jpg)
+![](/2019/01/fitness-lessons-for-2018/img/brewing-cold-brew.jpg)
 
 _I use the Penguin to make my cold brew coffee. See my article [Make Concentrated Cold Brew Coffee With the Penguin Coffee](https://ineedcoffee.com/make-concentrated-cold-brew-coffee-with-the-penguin-coffee/) for instructions._
 

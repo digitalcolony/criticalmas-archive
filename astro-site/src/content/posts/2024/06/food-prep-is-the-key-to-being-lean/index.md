@@ -29,7 +29,7 @@ The good news is that it has never been easier to be lean. Grocery items can be 
 
 Then between YouTube and AI chats (Claude, ChatGPT, Pi), I have the information to make whatever I need - as healthy as I want - while controlling the ingredients myself. AI chats are an amazing resource for leveling up in the kitchen. I consult with AI chats daily to build recipes and adjust for my needs (cooking method, gluten-free, substitutions, portion size, etc).
 
-![Instant Pot](./img/Default_an_instant_pot_on_a_kitchen_counter_with_an_angelic_gl_1.jpg)
+![Instant Pot](/2024/06/food-prep-is-the-key-to-being-lean/img/Default_an_instant_pot_on_a_kitchen_counter_with_an_angelic_gl_1.jpg)
 
 _AI draws an Instant Pot_
 

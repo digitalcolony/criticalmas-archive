@@ -49,7 +49,7 @@ By cooking my own meals, I was able to eliminate the highly inflammatory vegetab
 
 Cooking at home has exposed me to some of the most powerful Superfoods (aka [High Velocity Super Warrior Foods](/2011/06/high-velocity-super-warrior-foods/)), which are hard to source at restaurants and stores. They include [fermented food](/tag/fermentation/), [bone broth](/2011/04/homemade-beef-broth/) and offal (particularly [beef liver](/2011/03/make-your-own-beef-liver-pate/)).
 
-![ground-pork](./img/ground-pork.jpg)
+![ground-pork](/2011/09/ranking-my-postive-health-changes/img/ground-pork.jpg)
 
 _[Ground Pork and Cabbage](/2011/04/ground-pork-and-cabbage-recipe/)_
 

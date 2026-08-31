@@ -15,7 +15,7 @@ Back to the ice cream discussion. My case for ice cream was convincing to the Pr
 
 In almost every discussion regarding nutrition and building muscle, there is this blind assumption that one must eat high levels of protein to gain muscle. This is not true. Read [Matt Stone](https://web.archive.org/web/20210128091453/https://180degreehealth.com/how-much-protein-do-you-need-to-build-muscle/). Read Brad Pilon. This is the message the sports supplement sellers have been hammering away for decades telling us. You are being punked.
 
-![your-protein-is-too-damn-high](./img/your-protein-is-too-damn-high.jpg)
+![your-protein-is-too-damn-high](/2015/09/yes-ice-cream-is-still-better-than-protein-powder/img/your-protein-is-too-damn-high.jpg)
 
 Protein lowers appetite. This is great for dieting, but if you are trying to gain muscle weight, what you want more than anything is calories. The reason for ice cream is it is a high-calorie nutritious food that you can easily eat past satiety. All the protein powder is going to do is reduce appetite. The last thing you want is for the ice cream to displace other sources of nutrition. You want to eat your normal healthy diet plus ice cream for the needed calories to be caloric surplus.
 
@@ -37,7 +37,7 @@ The other angle people get hung up on is the cleanliness of ice cream. Those eat
 
 Your second choice is to make your ice cream and source your own ingredients. This summer I made some coffee ice cream with a $50 Cuisinart and shared that tutorial on INeedCoffee. See [Homemade Coffee Ice Cream – A Delicious and Healthy Alternative to the Store](https://ineedcoffee.com/homemade-coffee-ice-cream-recipe/).
 
-![ice-cream-truck](./img/ice-cream-truck.jpg)
+![ice-cream-truck](/2015/09/yes-ice-cream-is-still-better-than-protein-powder/img/ice-cream-truck.jpg)
 
 _[Photo](https://flic.kr/p/cw4UiE) by State Library of Victoria. Look at the side of the truck. Ice Cream is "The Health food of a Nation!"_ 
 

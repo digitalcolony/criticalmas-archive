@@ -25,7 +25,7 @@ I want to state my biases upfront whenever I post about coffee shops.
 
 In this post, I will highlight a few of my favorites based upon the region.
 
-![san Francisco](./img/sf-1.jpg)
+![san Francisco](/2015/01/guide-san-francisco-espresso-2015/img/sf-1.jpg)
 
 
 ### San Francisco
@@ -53,7 +53,7 @@ My pick for the most beautiful coffee shop goes to Sightglass Coffee's SOMA loca
 
 That is it. The South Bay is in a time warp. The people here still like that 1990s dark roast crap. It is gradually changing, but a decade behind SF and Oakland.
 
-![chromatic-coffee](./img/chromatic-coffee.jpg)
+![chromatic-coffee](/2015/01/guide-san-francisco-espresso-2015/img/chromatic-coffee.jpg)
 
 
 ### East Bay

@@ -60,7 +60,7 @@ Once the toxic foods have been removed, I like the strategy of loading up on hig
 -   Dark Chocolate
 -   Soaked almonds
 
-![bacon-egg-cupcakes](./img/bacon-egg-cupcakes.jpg)
+![bacon-egg-cupcakes](/2012/05/what-i-eat-and-what-i-dont-eat-may-2012-edition/img/bacon-egg-cupcakes.jpg)
 
 _My kind of [cupcakes](/2011/07/bacon-egg-cupcakes/)!_
 

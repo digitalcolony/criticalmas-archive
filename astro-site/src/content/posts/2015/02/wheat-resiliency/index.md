@@ -25,7 +25,7 @@ My wheat intolerance began after a period where I took a bunch of antibiotics. I
 
 I wanted to test the hygiene hypotheses for myself, so I started making effort to expose myself to trace wheat sources such as soy sauce and gochujang. Then I started adding small amounts of beer. My theory on the beer is that the grains are fermented and because fermentation is a form of predigestion, my body should have an easier time with it than most forms of wheat.
 
-![diamond-knot-beer](./img/diamond-knot-beer.jpg)
+![diamond-knot-beer](/2015/02/wheat-resiliency/img/diamond-knot-beer.jpg)
 
 And everything has worked out for me. I have not had any issues. I even accidentally consumed two tacos a few months ago that I thought were corn tortillas that turned out to be wheat. No problem. But to me, that is not an "all clear" sign to resume eating wheat, as I do not know for sure what caused my issue in the first place. To me, it is just a sign that I built resiliency.
 

@@ -37,7 +37,7 @@ The "Find a Teacher" tab allows you to search for teachers by location. Pick Ven
 
 Someday the current government of Venezuela will collapse completely and when it does, I hope the current generation of entrepreneurs teaching Spanish online have a greater voice in shaping their future.
 
-![andres-gerlotti-venezuela](./img/andres-gerlotti-560502-venezuela.jpg)
+![andres-gerlotti-venezuela](/2018/06/how-to-get-money-to-venezuela-and-support-capitalism/img/andres-gerlotti-560502-venezuela.jpg)
 
 _Photo by Andrés Gerlotti_
 

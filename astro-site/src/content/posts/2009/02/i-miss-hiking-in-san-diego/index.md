@@ -17,19 +17,19 @@ Yes I did. I've been spoiled on San Diego hiking. Seattle hiking bores me. I enj
 
 My favorite type of hikes in San Diego are the desert and slot canyon hiking, which are perfect this time of year.
 
-![slot-canyon](./img/slot-canyon.jpg)
+![slot-canyon](/2009/02/i-miss-hiking-in-san-diego/img/slot-canyon.jpg)
 
 _Calcite Mine Slot Canyon Hiking in San Diego_
 
-![boulder-hopping](./img/boulder-hopping.jpg)
+![boulder-hopping](/2009/02/i-miss-hiking-in-san-diego/img/boulder-hopping.jpg)
 
 _Boulder Hopping in Borrego_
 
-![canyon-sin-nombre](./img/canyon-sin-nombre.jpg)
+![canyon-sin-nombre](/2009/02/i-miss-hiking-in-san-diego/img/canyon-sin-nombre.jpg)
 
 _Canyon Sin Nombre_
 
-![pct](./img/pct.jpg)
+![pct](/2009/02/i-miss-hiking-in-san-diego/img/pct.jpg)
 
 _Part of the Pacfic Crest Trail along the Laguna Mountains_
 

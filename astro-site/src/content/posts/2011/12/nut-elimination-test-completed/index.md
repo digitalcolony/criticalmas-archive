@@ -11,7 +11,7 @@ commentCount: 0
 
 I completed my [30-day elimination test](/2011/11/the-next-30-day-test-nuts/) with nuts. At the end of the 30 days, I reintroduced almonds, pistachios, cashews, and pecans. The result is I have zero issues with nuts. This is what I expected. However, I did learn something interesting.
 
-![](./img/almonds.jpg) _Almonds by Shelby Root_
+![](/2011/12/nut-elimination-test-completed/img/almonds.jpg) _Almonds by Shelby Root_
 
 
 ### Nuts vs Dairy vs Double Nuts vs Double Dairy

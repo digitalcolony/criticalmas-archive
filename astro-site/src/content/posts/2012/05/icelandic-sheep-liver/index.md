@@ -17,7 +17,7 @@ As great as beef liver is, I figured that some of the vitamins were getting dest
 
 I also believe this to be safe since the liver was frozen for more than 2 weeks. Anyone else eating raw organ meat?
 
-![sheep-liver](./img/sheep-liver.jpg)
+![sheep-liver](/2012/05/icelandic-sheep-liver/img/sheep-liver.jpg)
 
 _Brussels sprouts, sweet potatoes, Icelandic sheep liver_
 

@@ -22,7 +22,7 @@ I'd love to say that I've learned my lesson this time and maybe I have, but hist
 
 After years of consuming an average of 4 coffees a day (6 am, 8 am, 11 am, 2 pm), I have been consuming 1.5-2 a day (1/2 cup at 8 am, 1/2 cup around 11 am (optional), and 2 pm) for more than a month. This level is perfect for me right now. I do know my tendency will be to slowly start adding 1/2 a cup each day. Which is why I left this post for my future self.
 
-![Habit Coffee](./img/habit-coffee600.jpg)
+![Habit Coffee](/2019/10/dear-future-tired-self/img/habit-coffee600.jpg)
 
 ---
 

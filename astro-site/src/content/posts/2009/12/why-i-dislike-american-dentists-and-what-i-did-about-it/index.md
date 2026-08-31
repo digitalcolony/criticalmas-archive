@@ -25,13 +25,13 @@ Most people dread going to the dentist because of the pain. I do because they ar
 
 I would get my teeth cleaned while in Thailand.
 
-![thailand-beach](./img/thailand-beach.jpg)
+![thailand-beach](/2009/12/why-i-dislike-american-dentists-and-what-i-did-about-it/img/thailand-beach.jpg)
 
 While in Chiang Mai, Thailand, I found 3 dentists within a few blocks of each other. **The price of a teeth cleaning was between 550-700 baht or $16.55 - $21.06!** Nobody wants to get hepatitis in a third world country, so I toured one facility. They walked me through all their sterilization procedures. It was every bit as professional as an American dentist's office. **I got a same-day appointment.** No X-Rays, no asking for insurance, and no up selling sealants. My teeth cleaning was thorough and professional.
 
 I thought my $20 teeth cleaning was amazing until I met a woman a few days ago. After hearing my story, she told me her brother got a root canal done in Peru for $20. He is an American. A quick search tells me that a root canal can cost between $400 to $1000 depending on the tooth. You can fly round trip to Lima, Peru now for $450 (American Airlines on Feb 28). The math seems clear to me. See Machu Picchu or make the next payment on your dentist's sports car?
 
-![machu-picchu](./img/machu-picchu.jpg)
+![machu-picchu](/2009/12/why-i-dislike-american-dentists-and-what-i-did-about-it/img/machu-picchu.jpg)
 
 _Photo_ [_Machu Picchu_](http://www.flickr.com/photos/54945394@N00/1335813045/) _by dachalan_
 

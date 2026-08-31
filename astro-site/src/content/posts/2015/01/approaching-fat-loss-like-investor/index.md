@@ -35,7 +35,7 @@ Another take on calorie restriction. It provides a simple narrative to accomplis
 
 I'm not so sure. The thesis here is that food scientists able to create foods using a mix of salt, fat, and sugar into something so tasty and easily digestible that we eat past satiety. Having read _The End of Overeating_, I think there is merit in food reward. How much of a role, I do not know. If one consumes very little processed food, then this would be a poor investment. If one consumes a lot, it is worth consideration.
 
-![overeating](./img/overeating.jpg) _The End of Overeating: Taking Control of the Insatiable American Appetite by David A. Kessler_
+![overeating](/2015/01/approaching-fat-loss-like-investor/img/overeating.jpg) _The End of Overeating: Taking Control of the Insatiable American Appetite by David A. Kessler_
 
 > _**Exercise doesn't cut it.**_
 

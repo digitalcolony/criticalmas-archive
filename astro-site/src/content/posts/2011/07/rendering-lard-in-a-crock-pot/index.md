@@ -30,27 +30,27 @@ My one tip would be to start this project in the morning. I foolishly started it
 
 The 2 pounds of pork fat yielded me almost 2 full pint jars of lard.
 
-![pork-fat](./img/pork-fat.jpg)
+![pork-fat](/2011/07/rendering-lard-in-a-crock-pot/img/pork-fat.jpg)
 
 _Pork Fat from the Farmers Market_
 
-![cut-pork-fat](./img/cut-pork-fat.jpg)
+![cut-pork-fat](/2011/07/rendering-lard-in-a-crock-pot/img/cut-pork-fat.jpg)
 
 _Cut pork fat into cubes._
 
-![cubed-pork-fat](./img/cubed-pork-fat.jpg)
+![cubed-pork-fat](/2011/07/rendering-lard-in-a-crock-pot/img/cubed-pork-fat.jpg)
 
 _Pork fat cubes make it into Crock Pot._
 
-![render-lard-crock-pot](./img/render-lard-crock-pot.jpg)
+![render-lard-crock-pot](/2011/07/rendering-lard-in-a-crock-pot/img/render-lard-crock-pot.jpg)
 
 _Rendering Lard_
 
-![rendered-lard](./img/rendered-lard.jpg)
+![rendered-lard](/2011/07/rendering-lard-in-a-crock-pot/img/rendered-lard.jpg)
 
 _Finished lard._
 
-![cooled-lard](./img/cooled-lard.jpg)
+![cooled-lard](/2011/07/rendering-lard-in-a-crock-pot/img/cooled-lard.jpg)
 
 _After cooling, the lard will look like this._
 

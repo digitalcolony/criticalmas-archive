@@ -35,7 +35,7 @@ Here is how the worksheet process works.
 
 This process can lower the initial stress ranking several points.
 
-![stress](./img/stress.jpg)
+![stress](/2015/10/the-myth-of-stress-notes/img/stress.jpg)
 
 _Photo by Amy McTigue_
 

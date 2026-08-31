@@ -24,7 +24,7 @@ These foods fall into a grey area in Paleo.
 
 Several Paleo sites warn about the high levels of phytic acid in nuts. Robb Wolf often talks about easy it is to overdo the nuts on his podcast. And then there is the issue of [Omega-6s in nuts](http://paleozonenutrition.com/2011/05/10/omega-6-and-3-in-nuts-oils-meat-and-fish-tools-to-get-it-right/).
 
-![almonds](./img/almonds.jpg)
+![almonds](/2011/10/high-satiety-paleo-friendly-foods/img/almonds.jpg)
 
 _Soaking and roasting can break down some of the phytate, but doesn't address the calories or Omega-6s._
 

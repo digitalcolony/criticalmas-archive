@@ -13,7 +13,7 @@ It has been several months since my last latte art attempt. Since I only drink e
 
 I invited some friends over and with low expectations, I cranked out this attempt. Not bad after almost a four month hiatus.
 
-![latte-art](./img/latte-art.jpg)
+![latte-art](/2009/01/when-i-see-your-face-like-the-morning-sun-you-spark-me-to-shine/img/latte-art.jpg)
 
 ---
 

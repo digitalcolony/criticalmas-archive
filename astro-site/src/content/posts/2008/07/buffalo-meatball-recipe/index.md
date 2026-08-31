@@ -11,7 +11,7 @@ commentCount: 7
 
 Call me [Omega 3](https://en.wikipedia.org/wiki/Omega-3_fatty_acid) man. None of that corn-fed, hormone-filled beef for me. No thanks. I'll take the grass-fed buffalo any day. After averaging several recipes together and checking what I had in my kitchen, I developed this buffalo meatball recipe. Simple and delicious.
 
-![](./img/meatballs.jpg)
+![](/2008/07/buffalo-meatball-recipe/img/meatballs.jpg)
 
 _Photo is titled Meatball Army from Flickr user Mr. Usaji. His photo of meatball preparation was much better than mine._
 

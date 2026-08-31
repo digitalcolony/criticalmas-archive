@@ -23,7 +23,7 @@ The ability of my body to recover that rapidly was a gift of youth. The knee iss
 
 Recovering from a workout or an injury takes time. It takes far less time when you are younger. **Every week or month that passes by without lifting you are robbing your future self of an ideal physique.** There are examples of older people that make tremendous gains and we do celebrate them, but they are the exceptions, which is why they are newsworthy.
 
-![kettlebell](./img/jesper-aggergaard-539147.jpg)
+![kettlebell](/2018/02/dont-wait-start-lifting/img/jesper-aggergaard-539147.jpg)
 
 _Photo by Jesper Aggergaard_ 
 

@@ -89,7 +89,7 @@ I know a Facebook engineer here in Seattle. He was clueless to the fact the site
 
 I failed to go [30 days without Facebook](/2010/08/facebook-won-i-surrender/) in 2010. But that was before Instagram and back then I still got joy from the site. I also didn't deactivate my account then so the temptation to reconnect was stronger then. So perhaps I'll be able to kick it for longer or even for good? We will see.
 
-![facebook thumbs down](./img/facebook-thumb-down.png)
+![facebook thumbs down](/2018/12/leaving-facebook/img/facebook-thumb-down.png)
 
 ---
 

@@ -20,7 +20,7 @@ As I moved back and forth between potatoes and higher protein meals, I discovere
 
 Together, they are unstoppable.
 
-![potatoes-protein](./img/potatoes-protein.jpg)
+![potatoes-protein](/2018/12/potatoes-and-protein-a-no-hunger-template-for-fat-loss/img/potatoes-protein.jpg)
 
 
 ### Dieting: What Works

@@ -11,7 +11,7 @@ commentCount: 1
 
 Rainman was lost close to the Harris Fire during the fire evacuations on Monday. We just got the good news that when our friend returned to her house, Rainman was there waiting for her.
 
-![rainman-pose](./img/rainman-pose.jpg)
+![rainman-pose](/2007/10/rainman-survives-the-san-diego-fires/img/rainman-pose.jpg)
 
 ---
 

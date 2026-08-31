@@ -35,7 +35,7 @@ Being hostile and emotional even when you feel you are morally right is not an e
 
 With negotiation, you need to be aware of the needs of the other party. The developers had needs, but no one asked that question. More on that later.
 
-![Getting More](./img/51qVWqNIfmL.jpg) _Getting More: How You Can Negotiate to Succeed in Work and Life by Stuart Diamond is an outstanding book. Life is a negotiation. Learn how to do it effectively._
+![Getting More](/2014/05/getting-nothing/img/51qVWqNIfmL.jpg) _Getting More: How You Can Negotiate to Succeed in Work and Life by Stuart Diamond is an outstanding book. Life is a negotiation. Learn how to do it effectively._
 
 
 ### Economics, The Law and Reality

@@ -27,7 +27,7 @@ Listen to the discussion on the study and what classic bodybuilders have known f
 
 So to my big guy friends, sorry about that. I still think it is 80-90% diet. That view has not changed. And I still like walking close to 10,000 steps a day if you can get them in. As for the remainder, hold off on using weights as your primary exercise for now. Do some cycling, swimming or hiking and after you've made some progress, stop by the weight room and gradually start lifting.
 
-![Wrong Way](./img/wrong-way.jpg)
+![Wrong Way](/2018/09/my-wrong-advice-for-the-big-guys/img/wrong-way.jpg)
 
 _Photo by NeONBRAND_
 

@@ -13,7 +13,7 @@ I had an idea recently that I think could benefit gyms. What if every gym had to
 
 I've been a member of many gyms across several states. With each membership, I learn good ideas and bad ideas on how a gym operates. I know several ways to make my gym better.
 
-![patrick-perkins-meeting](./img/patrick-perkins-meeting.jpg)
+![patrick-perkins-meeting](/2017/12/town-hall-meetings-public-gyms/img/patrick-perkins-meeting.jpg)
 
 _Photo by Patrick Perkins_
 

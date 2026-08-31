@@ -21,9 +21,9 @@ Once I exited the Victoria Clipper, I walked directly to _Fernwood Coffee_ which
 
 Even though _Fernwood Coffee_ sells food, I had lunch at a nearby taco truck called _Taco Justice League_, which was amazing.
 
-![](./img/fernwood600.jpg)
+![](/2013/06/5-espresso-saturday-in-victoria-bc/img/fernwood600.jpg)
 
-![](./img/ferwood-espresso600.jpg)
+![](/2013/06/5-espresso-saturday-in-victoria-bc/img/ferwood-espresso600.jpg)
 
 
 ### 2% Jazz Coffee - 1701 Douglas Street
@@ -31,7 +31,7 @@ Even though _Fernwood Coffee_ sells food, I had lunch at a nearby taco truck cal
 
 _2% Jazz Coffee_ is a spacious coffee shop that roasts coffee on premises. Here I had the excellent 2% Jazz Espresso Blend. Caramel notes and although I was drinking a straight espresso, I could tell this blend would really stand out in milk drinks. 2% Jazz had large windows and lots of natural light. A perfect place to hang out, but I had more espresso to drink, so I didn’t spend long here. I was off to the third location.
 
-![](./img/jazz600.jpg)
+![](/2013/06/5-espresso-saturday-in-victoria-bc/img/jazz600.jpg)
 
 
 ### Discovery Coffee – 664 Discovery Street
@@ -39,9 +39,9 @@ _2% Jazz Coffee_ is a spacious coffee shop that roasts coffee on premises. Here 
 
 At _Discovery Coffee_ I had a single origin espresso from Costa Rica which turned out to be my favorite single origin espresso of the day. The staff was super friendly and provided additional ideas for other coffee shops worth checking out. Had I had more time and adrenal support, I would have purchased a Nicaragua don Francisca pour over which was listed on Daily Offerings chalkboard.
 
-![](./img/discovery600.jpg)
+![](/2013/06/5-espresso-saturday-in-victoria-bc/img/discovery600.jpg)
 
-![](./img/disovery-outside600.jpg)
+![](/2013/06/5-espresso-saturday-in-victoria-bc/img/disovery-outside600.jpg)
 
 
 ### Habit Coffee - 552 Pandora Avenue
@@ -49,9 +49,9 @@ At _Discovery Coffee_ I had a single origin espresso from Costa Rica which turne
 
 Passing by Chinatown, I arrived at the place I most looked forward to visiting. They use the roaster _Bows and Arrows_, which has made an appearance in Seattle recently at _Milstead and Company_. _Habit Coffee_ did not disappoint. It was the best espresso of the day.
 
-![](./img/habit-coffee600.jpg)
+![](/2013/06/5-espresso-saturday-in-victoria-bc/img/habit-coffee600.jpg)
 
-![](./img/habit-espresso.jpg)
+![](/2013/06/5-espresso-saturday-in-victoria-bc/img/habit-espresso.jpg)
 
 
 ### Solstice Cafe – 529 Pandora Avenue
@@ -59,9 +59,9 @@ Passing by Chinatown, I arrived at the place I most looked forward to visiting. 
 
 I’ve found that when I consume a lot of espresso in a day, my taste buds never seem to enjoy the later shots as much as the earlier ones. Taste overload, maybe? When I stepped into _Solstice_, I thought my lucky streak was over. But, this huge cafe with a large back patio served me my 5th and last great espresso of the day.
 
-![](./img/solstice-cafe.jpg)
+![](/2013/06/5-espresso-saturday-in-victoria-bc/img/solstice-cafe.jpg)
 
-![](./img/solstice-espresso.jpg)
+![](/2013/06/5-espresso-saturday-in-victoria-bc/img/solstice-espresso.jpg)
 
 
 ### Full Disclosure

@@ -11,11 +11,11 @@ commentCount: 3
 
 When I first moved to the Seattle area in 2007, I started out in Bellevue. Every weekend I would drive into Seattle and explore the coffee scene. It was like two different coffee worlds. Somehow those bridges were keeping all the quality coffee places trapped on the Seattle side. That is all changing now.
 
-![](./img/vovito.jpg)
+![](/2010/08/bellevue-steps-up-to-quality-coffee-at-vovito/img/vovito.jpg)
 
 In the past year, we have seen good coffee establish a foothold in Kirkland with Urban Coffee Lounge and Zoka. Now good coffee has arrived in Bellevue. _Vovito Caffe and Gelato_ is now open in the Bravern Shopping Center. Vovito sports two Slayer espresso machines and their own espresso blend, which includes Indian Monsoon Malabar. I'm a fan.
 
-![](./img/cnbc.jpg)
+![](/2010/08/bellevue-steps-up-to-quality-coffee-at-vovito/img/cnbc.jpg)
 
 _This is the first coffee shop I have seen that plays CNBC. You're not in Capitol Hill anymore!_
 

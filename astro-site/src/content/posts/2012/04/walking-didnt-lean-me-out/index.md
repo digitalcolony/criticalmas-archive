@@ -13,7 +13,7 @@ One of the things I hear often is that I am lean because I frequently go for wal
 
 When I arrived in Seattle in 2007, I weighed 211 pounds. In 2008, I began documenting my [urban hikes](/tag/urban/) and by 2009 I was weight stable at 190. On the surface it looks like walking helped me lean out, but in the two years prior to leaving San Diego, I was hiking a few times every week. You can go back and see the [archives of this site](https://criticalmas.org/tag/hiking/). In the span of 2 years, I hiked all over San Diego County. I was also doing urban hikes in the city. Yet I remained weight stable at 210.
 
-![mas-hiking](./img/mas-hiking.jpg)
+![mas-hiking](/2012/04/walking-didnt-lean-me-out/img/mas-hiking.jpg)
 
 _Here is me hiking Canyon Sin Nombre in 2007. I weighed 210 pounds. Hiking didn't lean me out. The Cliff Bars in my backpack were keeping me heavy._
 

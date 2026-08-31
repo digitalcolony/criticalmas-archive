@@ -11,11 +11,11 @@ commentCount: 2
 
 Just north of the Seattle Aquarium, there is a fountain sculpture of a nude man reaching out to a nude boy. Maybe I can't appreciate art, but to me, this looks like a prequel to an Amber Alert.
 
-![creepy-fountain-3](./img/creepy-fountain-3.jpg)
+![creepy-fountain-3](/2008/07/creepy-fountain-or-art/img/creepy-fountain-3.jpg)
 
-![creepy-fountain-2](./img/creepy-fountain-2.jpg)
+![creepy-fountain-2](/2008/07/creepy-fountain-or-art/img/creepy-fountain-2.jpg)
 
-![creepy-fountain-1](./img/creepy-fountain-1.jpg)
+![creepy-fountain-1](/2008/07/creepy-fountain-or-art/img/creepy-fountain-1.jpg)
 
 The uproar over this statue happened back in 2005.
 

@@ -19,7 +19,7 @@ For Bangkok I did the random Urban Hike. I walked everywhere. Unlike my trip to 
 
 Anthony Bourdain, the host of TV's _No Reservations_, really has inspired me to embrace local cuisine. In Bangkok there are street carts of food EVERYWHERE. It is good and dirt cheap.
 
-![bangkok-street-food](./img/bangkok-street-food.jpg)
+![bangkok-street-food](/2009/11/one-night-in-bangkok-and-the-worlds-your-oyster/img/bangkok-street-food.jpg)
 
 The biggest falsehood that I was told about Thailand was that everyone speaks English and that all the menus are in English. Not true for Bangkok. Not even close. When I took to the streets exploring areas and eating food in areas away from the other tourists almost nobody spoke a word of English. How did I eat? I walked up to a cart and saw something another customer ordered and I pointed at it and then paid. What else needs to be said?
 
@@ -27,7 +27,7 @@ My favorite cart had a few tables and seats. It was just a block away from my ho
 
 Oh yeah, Bangkok also has some temples. Yawn. I came for the food.
 
-![bangkok-curry](./img/bangkok-curry.jpg)
+![bangkok-curry](/2009/11/one-night-in-bangkok-and-the-worlds-your-oyster/img/bangkok-curry.jpg)
 
 ---
 

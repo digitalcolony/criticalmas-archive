@@ -15,7 +15,7 @@ Although most of my experiments failed, I did find a few ideas that helped. I el
 
 On the [headache episode of Huberman Lab](https://www.hubermanlab.com/episode/how-to-stop-headaches-using-science-based-approaches), he mentioned a pilot study that showed a reduction in headaches from high-dose creatine monohydrate. This was the same week I started doing [daily shoulder hangs](/2023/06/perfect-posture-progress/).
 
-![](./img/shoulder-hangs.jpg)
+![](/2024/02/have-i-found-my-headache-cure/img/shoulder-hangs.jpg)
 
 _30-second shoulder hangs are enough. You can do supported hangs or use your entire weight._
 

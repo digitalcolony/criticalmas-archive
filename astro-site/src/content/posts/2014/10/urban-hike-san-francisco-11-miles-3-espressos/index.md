@@ -13,13 +13,13 @@ From 2008-2013 I did a few posts mapping my [urban hiking adventures](/tag/urban
 
 Today I paid attention to the streets I was taking, so I could put together this map. Usually I don't pay attention and just move north, south, east and west, until I get to my target location. Today's espressos were Pinhole, Coffee Cultures and Contraband. All were excellent. If you are interested in the SF Bay Area coffee scene, you can follow along on my adventures via a Google Spreadsheet at [tinyurl.com/sf-espresso](http://tinyurl.com/sf-espresso).
 
-![san francisco](./img/sf-1.jpg)
+![san francisco](/2014/10/urban-hike-san-francisco-11-miles-3-espressos/img/sf-1.jpg)
 
-![chinatown](./img/sf-2.jpg)
+![chinatown](/2014/10/urban-hike-san-francisco-11-miles-3-espressos/img/sf-2.jpg)
 
-![dolores heights](./img/sf-3.jpg)
+![dolores heights](/2014/10/urban-hike-san-francisco-11-miles-3-espressos/img/sf-3.jpg)
 
-![urban-hike-sf](./img/urban-hike-sf.jpg)
+![urban-hike-sf](/2014/10/urban-hike-san-francisco-11-miles-3-espressos/img/urban-hike-sf.jpg)
 
 _[11.6905 miles](http://www.gmap-pedometer.com?r=6452793)_
 

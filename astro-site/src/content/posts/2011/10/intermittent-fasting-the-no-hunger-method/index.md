@@ -17,7 +17,7 @@ The _Perfect Health Diet_ post [Ketogenic Diets, I: Ways to Make a Diet Ketogeni
 
 Since that post was written, I have done many fasts where I consume nothing but 1 to 3 tablespoons of coconut oil. I find it has a slightly sweet taste and it does lower my hunger level. To confirm I was still hitting ketosis, I used Ketostix to measure ketones. After a 16 hour fast with coconut oil, I was measuring Small to Moderate ketones.
 
-![Ketostix](./img/ketone-stick500.jpg "Ketostix")
+![Ketostix](/2011/10/intermittent-fasting-the-no-hunger-method/img/ketone-stick500.jpg "Ketostix")
 
 _Ketostix_
 
@@ -33,7 +33,7 @@ If the book is correct, I could eat coconut oil and sauerkraut and still go into
 
 The cortido sauerkraut has some carrots, so I was concerned that those carbs might be enough to prevent ketosis. But it didn't. At 2:30 PM, I tested Moderate ketones on the Ketostix. Victory!
 
-![cortido-sk](./img/cortido-sk.jpg)
+![cortido-sk](/2011/10/intermittent-fasting-the-no-hunger-method/img/cortido-sk.jpg)
 
 _Cortido Sauerkraut - Ketosis never tasted so good!_
 

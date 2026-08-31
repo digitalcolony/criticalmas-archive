@@ -57,7 +57,7 @@ According to Natto King, the fermentation needs a stable temperature between 100
 
 I decided to use a directed light inside a styrofoam cooler. I got the idea from chicken farmers that build their own egg incubators. Mine would be a simple version of theirs.
 
-![natto-cooler](./img/natto-cooler.jpg)
+![natto-cooler](/2013/12/natto/img/natto-cooler.jpg)
 
 About 15 minutes after I turned on my lightbox lamplight, the inside of the cooler jumped to 107 F. Perfect
 
@@ -67,7 +67,7 @@ About 15 minutes after I turned on my lightbox lamplight, the inside of the cool
 
 After rinsing the soybeans, I covered them in filtered water and let them soak overnight. They will triple in size.
 
-![soybeans](./img/soybeans.jpg)
+![soybeans](/2013/12/natto/img/soybeans.jpg)
 
 
 ### Steam or Boil the Soybeans
@@ -75,7 +75,7 @@ After rinsing the soybeans, I covered them in filtered water and let them soak o
 
 I steamed the soybeans in my stockpot for 1 hour. You could also boil them or use a pressure cooker.
 
-![steam-soybeans](./img/steam-soybeans.jpg)
+![steam-soybeans](/2013/12/natto/img/steam-soybeans.jpg)
 
 
 ### Mix Natto Culture into Cooked Soybeans
@@ -83,9 +83,9 @@ I steamed the soybeans in my stockpot for 1 hour. You could also boil them or us
 
 Before I forget, while the soybeans were steaming, I put my Pyrex pan in the oven at 250 degrees to sterilize it. Got that idea from Umami Mart. Mix the cooked soybeans with the package of natto. I added a little bit of hot water to the packaged natto to loosen it up for stirring.
 
-![add-natto-culture](./img/add-natto-culture.jpg)
+![add-natto-culture](/2013/12/natto/img/add-natto-culture.jpg)
 
-![natto-mixed](./img/natto-mixed.jpg)
+![natto-mixed](/2013/12/natto/img/natto-mixed.jpg)
 
 
 ### Cover and Ferment
@@ -93,13 +93,13 @@ Before I forget, while the soybeans were steaming, I put my Pyrex pan in the ove
 
 I covered the Pyrex with foil, poked a few holes so it could breathe, and set it into my incubator. I monitored the temperature and let it ferment for 24 hours.
 
-![cover-ferment-natto](./img/cover-ferment-natto.jpg)
+![cover-ferment-natto](/2013/12/natto/img/cover-ferment-natto.jpg)
 
-![natto-12-hours](./img/natto-12-hours.jpg)
+![natto-12-hours](/2013/12/natto/img/natto-12-hours.jpg)
 
 _Here is the natto after 12 hours._
 
-![natto-24-hours](./img/natto-24-hours.jpg)
+![natto-24-hours](/2013/12/natto/img/natto-24-hours.jpg)
 
 _Natto at 24 hours_
 

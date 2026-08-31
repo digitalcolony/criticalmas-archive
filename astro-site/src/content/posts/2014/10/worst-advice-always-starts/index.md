@@ -73,7 +73,7 @@ I would say that I've heard the above advice on average once a month for 15 year
 
 I do find it bizarre that whenever someone develops an interest in some hobby, the immediate advice of everyone around them is to start a business monetizing that hobby. Having a hobby and running a business are two separate things.
 
-![Cafe Weekend](./img/5799552583_8f3ee7e004_z.jpg)
+![Cafe Weekend](/2014/10/worst-advice-always-starts/img/5799552583_8f3ee7e004_z.jpg)
 
 _I love coffee, but the thought of leases, payroll, licenses, training employees, and dealing with vendors holds no appeal to me. I'll stick to running [INeedCoffee](https://ineedcoffee.com), which has averaged thousands of visitors every day now for over 15 years._ 
 

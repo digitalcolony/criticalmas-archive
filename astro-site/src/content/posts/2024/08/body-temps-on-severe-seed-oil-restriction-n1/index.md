@@ -33,7 +33,7 @@ Measure their metabolic rate. I used body temperature, which is a crude measurem
 
 Until then, I'll keep restricting seed oils and donating blood.
 
-![](./img/seed-oil.jpg)
+![](/2024/08/body-temps-on-severe-seed-oil-restriction-n1/img/seed-oil.jpg)
 
 ---
 

@@ -19,9 +19,9 @@ From March 1994 to August 1998, I lived in the Tampa Bay area. This is my collec
 
 **The CASTLE** is a gothic/industrial club on the back side of Ybor. Leave your Gator sweatshirt at home and wear something black. If you like the music, you'll love the Castle as much I do. If you don't you'll be highly uncomfortable. When the _Oak Barrel Tavern_ closed, Richard came over and created Oak Barrel Wednesdays. Below is one of the coolest fliers ever made for an Ybor club.
 
-![litre_front](./img/litre_front.jpg)
+![litre_front](/2008/03/ybor-city-scrapbook-1994-1998/img/litre_front.jpg)
 
-![litre_back](./img/litre_back.jpg)
+![litre_back](/2008/03/ybor-city-scrapbook-1994-1998/img/litre_back.jpg)
 
 
 ### The Edge
@@ -29,9 +29,9 @@ From March 1994 to August 1998, I lived in the Tampa Bay area. This is my collec
 
 **The EDGE** was a spacious club that was sort of hidden. It resided behind Platforms by the railroad tracks. When it opened it was a refreshing change from the _Empire_. Great ventilation and music. Unlike the _Empire_, a non-smoker could actually breathe in this club. Another good thing about **THE EDGE** was they handed out free passes like candy. And unlike other clubs they kept the line moving a quick pace. The EDGE went under in 1998.
 
-![edge_blue_front](./img/edge_blue_front.jpg)
+![edge_blue_front](/2008/03/ybor-city-scrapbook-1994-1998/img/edge_blue_front.jpg)
 
-![edge_blue_back](./img/edge_blue_back.jpg)
+![edge_blue_back](/2008/03/ybor-city-scrapbook-1994-1998/img/edge_blue_back.jpg)
 
 
 ### EMPIRE
@@ -39,7 +39,7 @@ From March 1994 to August 1998, I lived in the Tampa Bay area. This is my collec
 
 **The EMPIRE** came into existence after the _Masquerade_ moved into the place formerly known as the _Ritz Theatre_. That vacant spot quickly became the Empire. In 1994, The Empire was a single floor. They wouldn't expand to the 2nd floor until 1997. Early on Empire played alternative and even gothic music, but overtime they regressed to a more hip-hop atmosphere.
 
-![empire_front](./img/empire_front.jpg)
+![empire_front](/2008/03/ybor-city-scrapbook-1994-1998/img/empire_front.jpg)
 
 
 ### MASQUERADE - THE FOAM PARTY
@@ -51,9 +51,9 @@ To read about the **FOAM PARTY** is one thing. To experience it is something els
 
 The Masquerade has to my recollection been doing the **FOAM PARTY** since 1996. One day a week during the spring and summer months, they setup the **FOAM PARTY**. Wrap everything in plastic. Keep your cell phones, Palm Pilots, pagers, and electronic car door openers at home. And if you must take something of value, use multiple layers of plastic wrap. You **WILL BE** soaked from head to toe!
 
-![masquerade_foam_front](./img/masquerade_foam_front.jpg)
+![masquerade_foam_front](/2008/03/ybor-city-scrapbook-1994-1998/img/masquerade_foam_front.jpg)
 
-![masquerade_foam_back](./img/masquerade_foam_back.jpg)
+![masquerade_foam_back](/2008/03/ybor-city-scrapbook-1994-1998/img/masquerade_foam_back.jpg)
 
 
 ### MASQUERADE - LIVE MUSIC
@@ -61,7 +61,7 @@ The Masquerade has to my recollection been doing the **FOAM PARTY** since 1996. 
 
 **THE MASQUERADE** is a great venue for music. I'm guessing it holds about 1,800, which makes it great for artists on the way up or more likely the way the down. The two concerts I saw here were **LOVE AND ROCKETS** and **RATT**. Granted that isn't many shows for a four year period, but I'm not really a concert person anymore.
 
-![love_and_rockets_front](./img/love_and_rockets_front.jpg)
+![love_and_rockets_front](/2008/03/ybor-city-scrapbook-1994-1998/img/love_and_rockets_front.jpg)
 
 
 ### MASQUERADE - NEW YEARS EVE 12-31-95
@@ -69,7 +69,7 @@ The Masquerade has to my recollection been doing the **FOAM PARTY** since 1996. 
 
 **THE MASQUERADE** turned out to be a great place for New Years Eve 1995. No reservation or big cover. Just come on in and have a good time. And that I did. Below is a flier from the "Prom Night" theme New Years Eve party.
 
-![masquerade_prom_front](./img/masquerade_prom_front.jpg)
+![masquerade_prom_front](/2008/03/ybor-city-scrapbook-1994-1998/img/masquerade_prom_front.jpg)
 
 
 ### MASQUERADE - OTHER FLIERS
@@ -77,9 +77,9 @@ The Masquerade has to my recollection been doing the **FOAM PARTY** since 1996. 
 
 **THE MASQUERADE** had a great flier for a Friday the 13th theme. The other graphic is MASQUERADE MONEY. I've saved this money for almost 4 years now. Someday I'll get that free cover!
 
-![masquerade_money](./img/masquerade_money.jpg)
+![masquerade_money](/2008/03/ybor-city-scrapbook-1994-1998/img/masquerade_money.jpg)
 
-![masquerade_friday13_front](./img/masquerade_friday13_front.jpg)
+![masquerade_friday13_front](/2008/03/ybor-city-scrapbook-1994-1998/img/masquerade_friday13_front.jpg)
 
 
 #### OAK BARREL TAVERN
@@ -91,13 +91,13 @@ Wednesday night was $4 liter night and the place was always packed full of beer 
 
 I thank OBT and Kim Carrington for leading me on the path of quality beer. Had it not been for Richard's OBT, I might have never experienced the joy of a Double Diamond. OBT closed after legal battles between two of the partners couldn't get resolved. Shortly after Oak Barrel closed, Richard brought liter night to the Castle.
 
-![obt_500](./img/obt_500.jpg)
+![obt_500](/2008/03/ybor-city-scrapbook-1994-1998/img/obt_500.jpg)
 
 The owner Richard along with blues musician and frequent Oak Barrel Tavern performer [P.W. Fenton](https://web.archive.org/web/20220501022229/http://p-dub.com/ "P.W. Fenton and the Second Ward").
 
-![obt_menu](./img/obt_menu.jpg)
+![obt_menu](/2008/03/ybor-city-scrapbook-1994-1998/img/obt_menu.jpg)
 
-![268311771_Qmrxg-L](./img/268311771_Qmrxg-L.jpg)
+![268311771_Qmrxg-L](/2008/03/ybor-city-scrapbook-1994-1998/img/268311771_Qmrxg-L.jpg)
 
 
 ### TAMPA BAY BREWING COMPANY
@@ -105,7 +105,7 @@ The owner Richard along with blues musician and frequent Oak Barrel Tavern perfo
 
 **TAMPA BAY BREWING COMPANY** opened in February 1997 as a micro-brewery restaurant. The food is good, but the beer is perfection. I've been to brew pubs in New York, Ohio, DC, and all along the coast of California. TBBC is hands-down the best brew pub I've ever been to. When I'm in Tampa/Ybor City, you'll find me here.
 
-![tbbc_coaster_front](./img/tbbc_coaster_front.jpg)
+![tbbc_coaster_front](/2008/03/ybor-city-scrapbook-1994-1998/img/tbbc_coaster_front.jpg)
 
 
 ### VERTIGO
@@ -113,7 +113,7 @@ The owner Richard along with blues musician and frequent Oak Barrel Tavern perfo
 
 **VERTIGO** came and went rather quickly. I believe they only lasted from 1995 to 1996. VERTIGO was located in the spot that was vacated by SUGAR PALM BALLROOM. They had a habit of not honoring their "free" passes and people quickly tired of the rude service.
 
-![vertigo_front](./img/vertigo_front.jpg)
+![vertigo_front](/2008/03/ybor-city-scrapbook-1994-1998/img/vertigo_front.jpg)
 
 [Photo Gallery](https://www.flickr.com/photos/129592470@N02/sets/72157649773408099/)
 

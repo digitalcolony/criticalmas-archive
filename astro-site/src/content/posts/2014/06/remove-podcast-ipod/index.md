@@ -18,7 +18,7 @@ Anyway, it was a comment buried on a forum that finally answered this riddle. I
 
 The list of My Podcasts will appear.
 
-[![podcast iPod list](./img/podcast-1.jpg)](./img/podcast-1.jpg)
+[![podcast iPod list](/2014/06/remove-podcast-ipod/img/podcast-1.jpg)](./img/podcast-1.jpg)
 
 
 ### #2 Pull Down on the Screen With Finger
@@ -26,7 +26,7 @@ The list of My Podcasts will appear.
 
 Doing this non-intuitive move will uncover the Edit button and the key to removing podcast. This is awful user interface design. Dear Apple, if you are going to be cool and bury the Edit button at the list level, at least offer a second method of deleting the podcast at the record level.
 
-[![Pull down on screen](./img/podcast-2.jpg)](./img/podcast-2.jpg)
+[![Pull down on screen](/2014/06/remove-podcast-ipod/img/podcast-2.jpg)](./img/podcast-2.jpg)
 
 
 ### #3 Click Edit button in upper left
@@ -34,7 +34,7 @@ Doing this non-intuitive move will uncover the Edit button and the key to removi
 
 Doing this will place a red icon beside each podcast.
 
-[![Click Edit Button](./img/podcast-3.jpg)](./img/podcast-3.jpg)
+[![Click Edit Button](/2014/06/remove-podcast-ipod/img/podcast-3.jpg)](./img/podcast-3.jpg)
 
 
 ### #4 Click the Red Icon of the podcast you wish to delete
@@ -42,7 +42,7 @@ Doing this will place a red icon beside each podcast.
 
 Once the red circle is pressed a Delete button will appear. Press Delete and then the Done button at the top.
 
-[![Delete Podcast iPod](./img/podcast-4.jpg)](./img/podcast-4.jpg)
+[![Delete Podcast iPod](/2014/06/remove-podcast-ipod/img/podcast-4.jpg)](./img/podcast-4.jpg)
 
 That is it. Those zombie podcasts you unsubscribed to months ago can now be removed. The above screenshots are examples. I would never remove EconTalk.
 

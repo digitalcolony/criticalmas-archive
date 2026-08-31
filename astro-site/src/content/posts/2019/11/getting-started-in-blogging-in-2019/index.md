@@ -35,7 +35,7 @@ It is much easier to use Facebook, Instagram, or Medium. But there are big probl
 2.  Social media hides A LOT. See [this post](/2013/11/shutting-down-the-criticalmas-facebook-page/).
 3.  You can be kicked off without recourse or even an explanation at any time for any reason. Make a joke or a comment that offends someone in a tech company and you can see years of work disappear in seconds. And it is happening.
 
-![naval tweet](./img/Screenshot_2019-11-16-Naval-naval-Twitter-e1573920405941.png)
+![naval tweet](/2019/11/getting-started-in-blogging-in-2019/img/Screenshot_2019-11-16-Naval-naval-Twitter-e1573920405941.png)
 
 Social media does have a place and that is to promote your content. Use social media to leave breadcrumbs back to your assets, but don't use it for creating those assets.
 
@@ -49,7 +49,7 @@ Wix and Square Space are two options that make blogging easier. I have not used 
 
 WordPress.com is probably the best option for now. They host a limited version of the WordPress site and handle the security for you. It is still a challenge but not as much as a self-hosted site. This might be the training wheels to get you going. And it would allow you to export your content easily when you want to do more with your site.
 
-![wordpress](./img/wordpress-ss.jpg)
+![wordpress](/2019/11/getting-started-in-blogging-in-2019/img/wordpress-ss.jpg)
 
 _WordPress.com is the paid service version of WordPress. It has fewer options, which can be a good thing when starting out._
 

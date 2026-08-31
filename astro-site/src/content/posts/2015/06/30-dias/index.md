@@ -21,7 +21,7 @@ Yesterday I completed 30 consecutive days. During those days, I averaged seven l
 
 Spanish was never this fun in high school.
 
-![Duolingo Spanish](./img/17816552874_d95eef20e6_z.jpg)
+![Duolingo Spanish](/2015/06/30-dias/img/17816552874_d95eef20e6_z.jpg)
 
 _Duolingo Spanish_
 

@@ -48,7 +48,7 @@ Last week Matt Stone posted [The Metabolic Zone](https://web.archive.org/web/202
 
 After reading the article three times and the comments, this is how I felt.
 
-![](./img/so-youre-telling-me.jpg)
+![](/2017/02/is-there-a-metabolic-unicorn/img/so-youre-telling-me.jpg)
 
 As I explained in the first part, I understand how a stressed body that is deficient in sleep, calories, nutrients and is perhaps exercising too much would need to change direction and do the unconventional approach to get back to normal. And that doing so would likely result in some weight gain. I get that part. When you've painted yourself into a metabolic corner, it makes sense to me why one would need to eat in excess ... for a while.
 

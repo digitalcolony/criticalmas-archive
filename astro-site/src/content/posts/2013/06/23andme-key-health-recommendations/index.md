@@ -21,7 +21,7 @@ For me, I learned that if I were to develop Hepatitis C that I need to make my d
 
 Because I have an alpha-1 antitrypsin deficiency, I should do my best to _Avoid air pollutants and watch for signs of liver disease_. So I probably shouldn't move to one of [these cities](http://science.time.com/2011/09/27/the-10-most-air-polluted-cities-in-the-world/). On lists of air pollution in the USA, cities in California are always in the top 10, including Los Angeles. Having lived in California for 7 years, I never found the air quality poor and that includes LA. It is way better than it was 20 or 30 years ago. I'll take LA air over Rio de Janeiro or Bangkok any day.
 
-[![23andMe-report](./img/23andMe-report.jpg)](./img/23andMe-report.jpg)
+[![23andMe-report](/2013/06/23andme-key-health-recommendations/img/23andMe-report.jpg)](./img/23andMe-report.jpg)
 
 _Click the image for a larger version._
 

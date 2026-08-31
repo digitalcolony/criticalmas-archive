@@ -15,7 +15,7 @@ Wednesday night I got a chance to listen to author David George Gordon [talk ab
 
 I didn't buy the new version. Although I have zero issues with eating bugs, sourcing them has always been a challenge. With the exception of [silkworm larvae (aka "ground cucumber")](/2012/09/eating-silkworm-pupae-aka-ground-cucumber/), which is sold in the Vietnamese grocery stores, I have not seen any insects sold anywhere near Seattle. For the record, I've been up and down the aisles of most Asian grocery stores from Lynnwood to Federal Way.
 
-![bugs650](./img/bugs650.jpg)
+![bugs650](/2013/09/bug-buffet/img/bugs650.jpg)
 
 _The 2 on the stick tasted like sauce. The locust (upper left) had no flavor. The mealworms (upper right) were the best. They did have a slight crunch. The real little ones in the flan (bottom left) were so small and covered with sugar that I couldn't taste them. None were as good as my [bug soup](/2012/12/potato-soup-with-bugs/)._
 

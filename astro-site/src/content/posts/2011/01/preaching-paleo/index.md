@@ -13,7 +13,7 @@ A big topic in the paleo community is the desire to spread the word and get othe
 
 When you tell someone what they eat is wrong, they get defensive. Diet can be our [identity](/2010/08/diet-as-identity/). So how do you preach paleo? You don't. Just live your life and maybe your success will inspire others to be open to change. Or maybe it won't.
 
-![](./img/caveman-preach.jpg)
+![](/2011/01/preaching-paleo/img/caveman-preach.jpg)
 
 Or as my mentor, Art De Vany once said:
 

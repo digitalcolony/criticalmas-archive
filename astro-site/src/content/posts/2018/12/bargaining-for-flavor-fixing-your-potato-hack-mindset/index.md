@@ -43,7 +43,7 @@ Plain boiled potatoes are the ultimate tool for breaking the flavor addiction.
 
 The ability to go without flavor for a meal or a few days is a skill you develop. It gets easier. That strength of character you build potato hacking stays with you and makes other challenges easier. You can [potato hack](/tag/potato/)! **Start with one potato.** Then a year from now, come back here and post a comment telling me how much weight you lost and how much better you feel or if you've already been successful, drop some encouragement below.
 
-![potato](./img/lars-blankers-potato.jpg)
+![potato](/2018/12/bargaining-for-flavor-fixing-your-potato-hack-mindset/img/lars-blankers-potato.jpg)
 
 _Photo by [Lars Blankers](https://unsplash.com/@lmablankers)_
 

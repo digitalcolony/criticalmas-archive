@@ -17,7 +17,7 @@ One of the fitness trends of the past few years has been the Boot Camp model. A 
 
 I am not a personal trainer. I'm a fitness enthusiast and researcher, and I'm in better shape now than when I graduated from _real_ Army Basic Training over twenty years ago. Basic Training was never about turning lumpy, out-of-shape middle-aged people into warriors. Basic Training aims to break down the individual and build them up as a team player. Along the way, you do a bunch of push-ups and run, but the function of Basic Training is not about designing optimal athletes or getting lean. It is about building soldiers willing to kill or be killed in defense of their country.
 
-![army-basic-training-notes](./img/army-basic-training-notes.jpg)
+![army-basic-training-notes](/2012/01/the-problem-with-boot-camp-training/img/army-basic-training-notes.jpg)
 
 _Me taking notes at Ft. Benning, GA._
 
@@ -37,7 +37,7 @@ When you watch a movie or TV show showing buff soldiers doing exercises while a 
 
 Did Basic Training make the soldiers in my platoon stronger or leaner? Not as much as you'd think. Remember that many of the men who join the military are already active. Over half the men in my platoon played sports in high school. I could spend several paragraphs explaining why Army metrics for fitness are flawed, but their mission has little to do with fitness. It is about inflicting a high amount of stress, both physical and emotional, on recruits and then allowing the survivors to continue their enlistment. **Those that fail are removed.**
 
-![army-basic-training-potrait](./img/army-basic-training-potrait.jpg)
+![army-basic-training-potrait](/2012/01/the-problem-with-boot-camp-training/img/army-basic-training-potrait.jpg)
 
 _I was 17 in Army Basic Training._
 

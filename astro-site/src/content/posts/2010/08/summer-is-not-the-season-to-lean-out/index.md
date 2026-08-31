@@ -13,7 +13,7 @@ In the past two weeks I have heard the disappointed voices of a few friends that
 
 Long days tell the brain that it is summer. Summer is the season where carbohydrates are most plentiful. Our evolutionary design is similar to other mammals. For survival purposes we gain fat before winter comes, because once winter arrives there will be less daylight and fewer sources of carbohydrates.
 
-![summertime](./img/summertime.jpg)
+![summertime](/2010/08/summer-is-not-the-season-to-lean-out/img/summertime.jpg)
 
 _Summertime in Sequim, WA_
 

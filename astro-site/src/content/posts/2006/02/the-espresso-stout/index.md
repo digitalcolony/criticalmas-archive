@@ -17,6 +17,6 @@ At the time the article went out I was working in downtown San Diego and getting
 
 Unfortunately, the stout is an Imperial Stout, which means it's heavy on the alcohol and a tad bitter. It's very good, not great. I'd love to see AleSmith use Ryan Bros Coffee in a different style stout. Other than Ryan Jacobs home brew, the only perfect espresso stout I've had has been from Kona Brewing in Oahu. Their espresso stout is an oatmeal stout.
 
-![espresso stout](./img/3465562923_eac624ccd1_z.jpg)
+![espresso stout](/2006/02/the-espresso-stout/img/3465562923_eac624ccd1_z.jpg)
 
 APRIL 2007 UPDATE: I had the Speedway Stout on draft at Stone Bistro and it is so much better. The high alcohol bitterness is not present. This is probably the best Imperial Stout when it comes from a keg.

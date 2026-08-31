@@ -33,7 +33,7 @@ It only took a few more months before I began to notice improvements. My cold fi
 
 It should be noted that prior to removing nuts, I was already consuming a higher-carb diet. I regularly had sugar and never restricted salt. Sleep quality was also consistent. Going back to the [list of ideas](/2013/04/turn-up-the-heat-1-month-update/) from the experiment, the only major change I made was removing nuts.
 
-![almonds-dried](./img/almonds-dried.jpg)
+![almonds-dried](/2014/01/gettin-hot-metabolism/img/almonds-dried.jpg)
 
 
 ### "But Nuts Are Healthy!"

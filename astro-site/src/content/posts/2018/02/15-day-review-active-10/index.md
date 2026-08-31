@@ -12,9 +12,9 @@ This is a follow-up to the post [Active 10 vs 10,000 Steps a Day](/2018/01/acti
 
 I wanted to see how well the Active 10 app would work. Below are two screenshots. The first is the Active 10 app and the second is the iOS Health data.
 
-![](./img/active10.jpg) _Active 10_
+![](/2018/02/15-day-review-active-10/img/active10.jpg) _Active 10_
 
-![](./img/steps.jpg) _iOS Health_
+![](/2018/02/15-day-review-active-10/img/steps.jpg) _iOS Health_
 
 As you can see from my data, I had 7 days this month where I completed 30-40 minutes of brisk walking. Due to my knee issues, I never walked fast enough that I would have considered it brisk. Maybe just short of brisk? I never got out of breath or even close. Yet, the app gave me credit for brisk walking.
 

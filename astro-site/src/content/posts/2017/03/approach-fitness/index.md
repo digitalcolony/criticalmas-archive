@@ -21,7 +21,7 @@ This to me is the big flaw with fitness. I start with safe movements. Then I fig
 
 I don't know if this approach would have been inspiring to me when I was younger. Like most young men, I was inspired by outliers. I wanted to know how Evander Holyfield exercised, not how to minimize my risk of injury.
 
-![](./img/holyfield.jpg)
+![](/2017/03/approach-fitness/img/holyfield.jpg)
 
 _Evander Holyfield_
 

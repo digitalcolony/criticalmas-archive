@@ -21,7 +21,7 @@ Without the desire to Convince, I'm finding myself less motivated to Share and t
 
 The downside to spending too much time convincing is it takes away from time one can spend learning. I noticed that as this site grew, I was spending a fair amount of time responding to comments on posts clarifying or defending a position of mine. Instead of thinking about something new, I was thinking about an older post. And with the exception of a few posts, I am hesitant to turn off comments on older content.
 
-![share](./img/share.jpg)
+![share](/2015/05/learn-share-convince/img/share.jpg)
 
 _[Photo](https://flic.kr/p/8SrUTz) by Carlos Maya_
 

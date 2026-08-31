@@ -24,7 +24,7 @@ In this blog, I often warn about taking the advice of outliers, as we don't know
 
 Soak up their wisdom. Your music can wait.
 
-![](./img/denny-muller-sauna.jpg)
+![](/2019/02/learn-from-your-fitness-elders/img/denny-muller-sauna.jpg)
 
 _Photo by [Denny Müller](https://unsplash.com/@redaquamedia)_
 

@@ -11,7 +11,7 @@ commentCount: 2
 
 Green beans with onions, garlic, red pepper flakes and bacon with a side of baked sweet potato.
 
-![green-bean-bacon](./img/green-bean-bacon.jpg)
+![green-bean-bacon](/2012/02/green-beans-are-better-with-bacon/img/green-bean-bacon.jpg)
 
 ---
 

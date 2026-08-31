@@ -19,7 +19,7 @@ By the time I got home later in the evening I felt fatigued. I had very early sy
 4.  **Continue Eating Anti-Bacterial and Anti-Viral Foods** - Garlic is also called _Russian Penicillin_. It is antimicrobial, antiparasitic and antiviral. The book [The 150 Healthiest Foods on Earth](/2008/03/150-superfoods-because-14-just-wasnt-enough/) is a guidebook that belongs in every kitchen. Eat those foods.
 5.  **Avoid Grains** - Don't eat grains while fighting sickness (or ever). They block vitamin and mineral absorption and could trigger auto-immune response. The last thing you want is your immune system attacking itself after being exposed to a pathogen.
 
-![kimchi-large-jar](./img/kimchi-large-jar.jpg)
+![kimchi-large-jar](/2011/01/how-i-fought-off-a-potential-cold/img/kimchi-large-jar.jpg)
 
 _My Kimchi_
 

@@ -19,7 +19,7 @@ I have a newsletter for this site and for [INeedCoffee](https://ineedcoffee.com)
 
 I think newsletters are a fad and as more and more sites drown their visitors with more and more newsletters, this method will get played out and sites will move onto something else. Investing so much time and effort into how the message is delivered instead of the message itself isn't that interesting to me.
 
-![Stop it!](./img/133203964_ba9f86e180_z.jpg)
+![Stop it!](/2014/09/need-browser-extension-block-newsletter-pop-ups/img/133203964_ba9f86e180_z.jpg)
 
 _[Photo](https://flic.kr/p/cLGU5) by somewheregladlybeyond_ 
 

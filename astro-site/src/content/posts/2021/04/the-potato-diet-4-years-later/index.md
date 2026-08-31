@@ -17,7 +17,7 @@ How one prevents regaining weight is equally as important as losing weight. We n
 
 The image below (courtesy of Precision Nutrition) is the most important image when it comes to understanding how to lose weight and prevent regain. Moderation doesn't work. The brain is too sharp for that. Willpower runs out. You need to shut down hunger signals in a caloric deficit.
 
-![](./img/bulkydiet.jpg)
+![](/2021/04/the-potato-diet-4-years-later/img/bulkydiet.jpg)
 
 The image above explains not only why there are so many overweight people today, but also the path to permanent fat loss. The brain doesn't count calories. It measures the volume and weight of the food you consume. Once you truly understand that, how you view food forever changes.
 
@@ -49,7 +49,7 @@ If you are interested in learning more, see my [Potato Hack Diet](/tag/potato/) 
 
 Did you lose weight on the Potato Diet? How much and were you able to keep it off?
 
-![potatoes-protein](./img/potatoes-protein.jpg)
+![potatoes-protein](/2021/04/the-potato-diet-4-years-later/img/potatoes-protein.jpg)
 
 _This was my path to hunger-free fat loss. Start with the potatoes and as you get leaner, add more lean protein._
 

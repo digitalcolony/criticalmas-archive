@@ -15,7 +15,7 @@ Once the pate has chilled, you can spread it on celery or sliced cucumbers. I've
 
 Store bought pate can be expensive. This recipe wasn't. A pound a healthy beef liver in Seattle goes for about $4 a pound. The rest of the ingredients are dirt cheap. You'll be hard pressed to find a more nutrient dense food at such a low price. Swap out regular butter for Kerry Gold to make it even better.
 
-![beef-liver-pate](./img/beef-liver-pate.jpg)
+![beef-liver-pate](/2011/03/make-your-own-beef-liver-pate/img/beef-liver-pate.jpg)
 
 _Homemade Beef Liver Pate_
 

@@ -45,7 +45,7 @@ Seattle is the home to REI (Recreation Equipment Incorporated). They sell any pi
 
 For my 20-mile hike through the snowstorm, I wore a sweatshirt with a rain jacket. I didn't have waterproof pants, gloves, or a hat. Oh well. I didn't run out to REI to save myself from the elements. Yes, I was cold, but my body adapted and I made it home OK.
 
-![seattle-sledding](./img/seattle-sledding.jpg)
+![seattle-sledding](/2012/01/destroying-3-fitness-myths-with-a-single-example/img/seattle-sledding.jpg)
 
 _The sledder on the left is using a piece of cardboard for a sled. No trip to REI for her!_
 

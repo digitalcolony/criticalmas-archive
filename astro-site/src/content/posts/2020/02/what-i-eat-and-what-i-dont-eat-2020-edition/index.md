@@ -72,7 +72,7 @@ I touched on this before, but I used the [Peasant Diet](/2017/09/used-peasant-di
 
 I don't limit my calories with the food choices listed above. I don't need to. Once you get rid of the calorie-dense foods, keeping lean is easy.
 
-![](./img/potatoes.jpg)
+![](/2020/02/what-i-eat-and-what-i-dont-eat-2020-edition/img/potatoes.jpg)
 
 _[Potatoes](https://flic.kr/p/fq91Fo)_
 

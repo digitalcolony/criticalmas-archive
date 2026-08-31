@@ -15,7 +15,7 @@ My introduction to HIT came from the book Body By Science and two workouts from 
 
 What High Intensity Training needed was a cost-effective way to get people to benefit immediately with minimal expense. Enter Hillfit. In January 2012, I reviewed the first version of the 52-page e-book in the post [Hillfit: Strength is Not just For Hikers](/2012/01/hillfit-strength-is-not-just-for-hikers/). This book made the case that the best equipment you can bring to your sport, be it hiking or whatever, is stronger muscles. And using the principles of High Intensity Training, author Chris Highcock has developed a way to build strength at home safely - no gym required.
 
-![Wall Sit](./img/WallsitSideview.png)
+![Wall Sit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/img/WallsitSideview.png)
 
 _One of the exercises highlighted in Hillfit is the Wall Sit. (photo from [Wikipedia](https://en.wikipedia.org/wiki/Wall_sit))_
 
@@ -40,7 +40,7 @@ I did have one minor issue with the book. I felt James Steele's case against car
 
 If you are looking for a way to get strong at home with zero expense that is safe and effective, consider checking out Hillfit 2.0.
 
-![Hill Fit](./img/hill-fit-500.jpg "Hill Fit")
+![Hill Fit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/img/hill-fit-500.jpg "Hill Fit")
 
 _Disclosure: I received a copy of Hillfit in exchange for feedback on a draft version._
 

@@ -13,7 +13,7 @@ Maybe this is a Seattle thing, but everywhere I go I see this obsession with con
 
 You've got blood coming out of one arm for maybe 10 minutes. Is it really that important that must get online with your one free arm? Heaven forbid you should actually chat with your fellow donors or sit quietly alone with your thoughts. _Must get online!_ I really hope the blood people dismiss this idea. The last thing we need are [phlebotomists](https://en.wikipedia.org/wiki/Phlebotomist) troubleshooting network connections while carrying needles and pints of blood.
 
-![](./img/church550.jpg "Seattle Church")
+![](/2012/03/do-we-really-need-wifi-while-donating-blood/img/church550.jpg "Seattle Church")
 
 _This photo I took last Sunday has nothing to do with this post. I just wanted to share it. :)_
 

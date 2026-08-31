@@ -15,7 +15,7 @@ I am reminded of a line from the great movie 8 1/2:
 
 > Destroying is better than creating when we're not creating those few, truly necessary things.
 
-![8 1/2](./img/8.5.jpg)
+![8 1/2](/2014/12/feeling-destructive/img/8.5.jpg)
 
 
 ### INeedCoffee

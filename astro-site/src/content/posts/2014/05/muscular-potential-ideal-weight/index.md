@@ -28,7 +28,7 @@ Using both these metrics, my muscular potential is "very minimal". After playing
 
 I'm not going to list all my maximum potential numbers, just the two most ridiculous ones. According to the formulas, I have the potential to have a 13.9-inch forearm and a 17.3-inch bicep. Unless I foolishly decided to inject Synthol, that is not going to happen with the 2.25-inch gap between my elbow and contracted bicep. With very few exceptions, almost every jacked ectomorph you see carrying significant muscle, you will see a small gap there.
 
-![scrawny-to-brawny](./img/scrawny-to-brawny.jpg)
+![scrawny-to-brawny](/2014/05/muscular-potential-ideal-weight/img/scrawny-to-brawny.jpg)
 
 _Anthony Ellis_
 

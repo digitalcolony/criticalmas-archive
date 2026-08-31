@@ -51,7 +51,7 @@ Compare that to the quote I added at the top of this post. It was posted on a we
 
 The solution is simple. A newsletter should both be able to stand on its own, but also have a webpage.
 
-![newsletter](./img/15743483265_1aca718cd2_z.jpg)
+![newsletter](/2021/12/my-prediction-about-email-newsletters-was-dead-wrong/img/15743483265_1aca718cd2_z.jpg)
 
 
 ### Regrets?

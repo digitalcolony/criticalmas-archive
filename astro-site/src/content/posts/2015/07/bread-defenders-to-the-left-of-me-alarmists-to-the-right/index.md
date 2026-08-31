@@ -17,7 +17,7 @@ Thankfully not everyone is in the alarmist or denialist camps. In this post, I w
 
 Also, I now prefer to say bread over gluten or wheat. Where the problem resides is something I do not know, but I do believe there is a problem.
 
-![bread-sign](./img/bread-sign.jpg)
+![bread-sign](/2015/07/bread-defenders-to-the-left-of-me-alarmists-to-the-right/img/bread-sign.jpg)
 
 _[Photo](https://flic.kr/p/bnXMqi) by Thomas Hawk_
 
@@ -80,7 +80,7 @@ Before I rattle off my list, I want to say that unlike the alarmists and the den
 5.  I am a big believer that resiliency should be our goal. In the post [Wheat Resiliency](/2015/02/wheat-resiliency/), I cover how I use trace exposure to teach my body how to process wheat. If the dose is the problem, then minimizing the dose would be an effective strategy.
 6.  Increased my metabolism as measured my morning waking temperature from 97.0 to 98.4. In tech terms, I have a faster processor now. For ideas on increasing metabolism, read the book _Diet Recovery 2: Restoring Mind and Metabolism from Dieting, Weight Loss, Exercise, and Healthy Food by Matt Stone_.
 
-![blood donor](./img/2562431372_90e471dfe4_z.jpg)
+![blood donor](/2015/07/bread-defenders-to-the-left-of-me-alarmists-to-the-right/img/2562431372_90e471dfe4_z.jpg)
 
 _[Thank you, anonymous donor](https://flic.kr/p/4Ur8zf) by Brian. I donate blood every 8 weeks. Lowers my iron level and helps someone in need._ 
 

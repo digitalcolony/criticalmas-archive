@@ -11,4 +11,4 @@ commentCount: 0
 
 Next week I will take my first trip ever to Canada. I will visit Vancouver and Whistler during this trip. I decided it wasn't cold enough in Seattle and that I needed to go further north.
 
-[![](./img/canada400x200.jpg "canada400x200")](./img/canada400x200.jpg)
+[![](/2007/12/taking-off-to-the-great-white-north/img/canada400x200.jpg "canada400x200")](./img/canada400x200.jpg)

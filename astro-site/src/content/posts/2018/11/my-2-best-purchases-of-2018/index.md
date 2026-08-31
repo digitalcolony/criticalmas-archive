@@ -19,7 +19,7 @@ This summer I was getting frustrated with the 13-inch screen size of my laptop a
 
 Thankfully, I stumbled onto a much better and affordable solution. The ASUS ZenScreen is a 2nd monitor for laptops. It is thin and has a nice cover that doubles as a stand when folded. For around $200, I solved all my problems and now I have more screen real estate than I would have with a single 15-inch laptop.
 
-![asus zenscreen](./img/asus-zenscreen.jpg)
+![asus zenscreen](/2018/11/my-2-best-purchases-of-2018/img/asus-zenscreen.jpg)
 
 _My 15.6-inch ASUS ZenScreen to the left. The laptop to the right the ASUS Zenbook, which I do not recommend (slow)._ 
 

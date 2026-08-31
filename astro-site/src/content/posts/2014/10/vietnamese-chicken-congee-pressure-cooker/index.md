@@ -13,7 +13,7 @@ The dish I have been most obsessed with in the past few months has been Vietname
 
 Prior to getting a pressure cooker, I made the dish a few times using my rice cooker. It was good, but because the rice cooker works by steaming off the liquid, it wasn't soupy enough. Too clumpy. Plus it took forever. The pressure cooker solved everything. Not only could I dial in my liquid level prior to cooking, but it was now cooking much faster.
 
-![pressure-cooker](./img/pressure-cooker.jpg)
+![pressure-cooker](/2014/10/vietnamese-chicken-congee-pressure-cooker/img/pressure-cooker.jpg)
 
 _I use the [Fagor 8 quart pressure cooker](/2014/09/pressure-cooker-game-changer/)._
 
@@ -83,7 +83,7 @@ Turn off the pressure cooker. Grab and bowl and serve.
 
 Add black pepper, fish sauce, and Thai basil. Enjoy!
 
-![chicken congee ](./img/chicken-congee-2.jpg)
+![chicken congee ](/2014/10/vietnamese-chicken-congee-pressure-cooker/img/chicken-congee-2.jpg)
 
 _Vietnamese Chicken Congee. This bowl also has sliced scallions (green onions)._ 
 

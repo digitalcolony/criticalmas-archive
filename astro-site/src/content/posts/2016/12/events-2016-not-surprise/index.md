@@ -17,7 +17,7 @@ This post is not about my political opinions. How I may or may not feel about an
 
 2016 made sense to me because I could view current events as an impartial observer. Much like an excellent investor doesn't get emotionally attached to the value of a stock. It may be undervalued or overvalued, but it is what it is.
 
-![](./img/clinton-vs-trump600.jpg)
+![](/2016/12/events-2016-not-surprise/img/clinton-vs-trump600.jpg)
 
 Below are the people that helped guide the thinking that prepared me for 2016.
 

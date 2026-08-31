@@ -23,7 +23,7 @@ I don't know if there is science to support my experience, but on those meals wh
 
 To test this idea yourself, if you feel you need more food to quiet hunger while you are eating, increase the potatoes. If you feel you get hungry too soon after a meal, increase the protein. If both, find your balance with experimentation.
 
-![protein-or-potatoes](./img/protein-or-potatoes.jpg)
+![protein-or-potatoes](/2018/12/potatoes-and-protein-two-attacks-on-hunger/img/protein-or-potatoes.jpg)
 
 ---
 

@@ -13,7 +13,7 @@ Last year I made pickles for the first time. The problem was it wasn't a true La
 
 Well, two weeks ago I did it correctly. Dill, garlic, sea salt, and patience. The result was much better tasting. Some of the best pickles I have ever had.
 
-![pickle](./img/pickle.jpg)
+![pickle](/2010/07/making-pickles-without-cheating/img/pickle.jpg)
 
 If you are interested in learning more about making fermented foods, I recommend the book _Wild Fermentation_. This book also has the foundation I started with when I began making kimchi.
 

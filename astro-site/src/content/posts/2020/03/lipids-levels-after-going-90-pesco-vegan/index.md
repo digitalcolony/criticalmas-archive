@@ -61,7 +61,7 @@ I have very little experience reading these numbers, but I like what I see. The 
 
 My exercise was mostly the same. These changes were all diet. Not that my diet was poor before, but I was able to improve once I [revisited my Paleo/WAPF belief](/2019/12/saturated-fat-revisited/) that saturated fat was healthy. And as I stated in that post, I have no interest in getting into that debate with anyone. You do you. For myself, I figured that I'd let the numbers do the talking.
 
-![blood test](./img/national-cancer-institute-blood-test.jpg)
+![blood test](/2020/03/lipids-levels-after-going-90-pesco-vegan/img/national-cancer-institute-blood-test.jpg)
 
 _Photo by [National Cancer Institute](https://unsplash.com/@nci?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 

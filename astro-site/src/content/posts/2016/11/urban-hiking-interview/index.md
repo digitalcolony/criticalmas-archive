@@ -37,7 +37,7 @@ When I visited Bangkok, Thailand in 2009, I took off exploring the city without 
 
 Unlike other cities I've lived in, I tend to run into people I know frequently on my urban hikes. I've learned to become more aware of my surroundings. Earlier this year when I was urban hiking through the Haight neighborhood of San Francisco, I saw Carlos Santana exiting a store.
 
-![carlos-santa-haight](./img/carlos-santa-haight.jpg)
+![carlos-santa-haight](/2016/11/urban-hiking-interview/img/carlos-santa-haight.jpg)
 
 ---
 

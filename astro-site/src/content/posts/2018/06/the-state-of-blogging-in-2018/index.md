@@ -53,7 +53,7 @@ Don't get me wrong, there are still a lot of great bloggers that use WordPress, 
 
 Before I started this post, I had a hunch that people were leaving fewer comments on blogs in general, but more specifically this blog. So I hacked out an SQL query and confirmed that fact.
 
-![](./img/comments-per-post.jpg)
+![](/2018/06/the-state-of-blogging-in-2018/img/comments-per-post.jpg)
 
 As you can see from the chart, comments per post have crashed on this site. The site traffic increased most years, so it is not for a lack of visitors. Not only did this blog receive more comments during the glory years of 2011 - 2016, but I was more likely to leave comments on other blogs. Now, I rarely do.
 

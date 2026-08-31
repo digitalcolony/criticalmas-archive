@@ -24,7 +24,7 @@ Maybe I have found my ideal weight? Maybe I don't have an ideal weight? I've gon
 
 Today I am happy with my weight. If I lose 5 pounds of fat or gain 5 pounds of muscle that would be great, but if I don't, that is fine as well.
 
-![scale](./img/11834504_3cc3c49559_z.jpg)
+![scale](/2014/11/update-20-pound-fat-loss-goal/img/11834504_3cc3c49559_z.jpg)
 
 _[Photo](https://flic.kr/p/23DZb) by Wade Kelly_
 

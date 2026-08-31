@@ -15,7 +15,7 @@ I will never understand why men will step out of their houses wearing a jacket o
 
 Homeless people wear coats all the time, because they have no home to put their coat inside. The rest of us have no excuse.
 
-![telegraph hill](./img/6780918220_8b83f4a9a5_z.jpg)
+![telegraph hill](/2014/09/temperature-wimps-san-francisco/img/6780918220_8b83f4a9a5_z.jpg)
 
 _[Photo](https://flic.kr/p/bkcYK7) by Sam Agnew. Do you really need a jacket to walk this terrain in the summer?_
 

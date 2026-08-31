@@ -59,7 +59,7 @@ I don't plan to resume Zone 2 cardio at my gym just yet. After a few weeks of ge
 
 I wonder how long it will take to regain my lost muscle?
 
-![weights-in-gym](./img/weights-in-gym.jpg)
+![weights-in-gym](/2022/03/my-2022-fitness-plan/img/weights-in-gym.jpg)
 
 ---
 

@@ -15,7 +15,7 @@ Dear Bro,
 
 You've been directed to this post because I am too tired to respond directly to your comment. For a few years now I have tried to explain my motivation in several posts and numerous comments. Sometimes I've succeeded, but the most of the time I haven't. To be brief, my primary motivation in fitness to [get strong without getting hurt](/2013/05/never-forget-that-size-is-the-prize/). It sounds so simple and we all want that result, but so few people think through exactly what that means.
 
-![leg press](./img/leg-press.jpg)
+![leg press](/2014/11/knock-bro/img/leg-press.jpg)
 
 _Photo by [Elias Rovielo](https://www.flickr.com/photos/eliasroviello)_
 

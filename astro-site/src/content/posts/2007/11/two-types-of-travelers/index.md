@@ -20,4 +20,4 @@ The next distinction travelers have on vacation is the level of activity they pl
 
 Again that seems boring to me. I sit in front of a computer indoors to earn a paycheck. The idea of having even less movement on vacation doesn't sound relaxing at all to me. I suppose if I worked in a coal mine all day, sitting by the pool might be pretty nice. For me I'd rather charge up a mountain.
 
-![mas-mountain](./img/mas-mountain.jpg)
+![mas-mountain](/2007/11/two-types-of-travelers/img/mas-mountain.jpg)

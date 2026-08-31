@@ -13,7 +13,7 @@ It has been a long time since I last posted on gluten. I thought the topic was f
 
 _Just when I thought I was out, they pull me back in._
 
-![Godfather 3 quote](./img/godfather-3-just-when-i-thought.jpg)
+![Godfather 3 quote](/2019/09/gluten-wheat-just-when-i-thought-i-was-out/img/godfather-3-just-when-i-thought.jpg)
 
 In December 2016, I posted [Gluten / Wheat – The Final Chapter](/2016/12/gluten-wheat-final-chapter/). Read the full post for my experience on this topic.
 

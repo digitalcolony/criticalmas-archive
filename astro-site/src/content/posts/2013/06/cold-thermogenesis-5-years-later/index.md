@@ -33,7 +33,7 @@ For a few years, I cycled between cold air exposure in the winter and cold showe
 
 I didn't have a tub that I could load with ice, but I do live very close to Puget Sound. So I began a new experiment. I would track my exposure time as well as temperatures along with some notes. Here was my data.
 
-![cold-puget](./img/cold-puget.png)
+![cold-puget](/2013/06/cold-thermogenesis-5-years-later/img/cold-puget.png)
 
 There are 3 phases to this kind of cold exposure. Phase 1 is the courage of dealing with the shock of exposing your body to cold. Phase 2 is dealing with being covered in cold water for a period of time. Phase 3 is the warm-up phase.
 

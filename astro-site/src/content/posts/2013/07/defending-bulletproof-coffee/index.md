@@ -19,7 +19,7 @@ The point of my post was that you could use the foundation of what Dave Asprey l
 
 For me I didn't experience any additional benefits, however I've already been consuming high end coffee for many years. And I've been eating a tablespoons of coconut oil many mornings since I read the first edition of [Perfect Health Diet](/2012/06/deep-nutrition-perfect-health-diet-and-the-end-of-overeating/) in 2010. I didn't notice any benefit from the MCT, but maybe I would have had I not already been waking up to a spoonful of coconut oil.
 
-![ballard-coffee-works](./img/ballard-coffee-works.jpg)
+![ballard-coffee-works](/2013/07/defending-bulletproof-coffee/img/ballard-coffee-works.jpg)
 
 
 ### The Butter

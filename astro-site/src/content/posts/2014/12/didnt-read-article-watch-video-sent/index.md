@@ -23,6 +23,6 @@ And all those links to a PubMed abstracts - I've never read them. Delete. Delet
 
 Lastly I need to once again bring up the **you should** people. [Your advice sucks](/2014/10/worst-advice-always-starts/).
 
-![email](./img/15197804185_d4a1f3d9b3_z.jpg)
+![email](/2014/12/didnt-read-article-watch-video-sent/img/15197804185_d4a1f3d9b3_z.jpg)
 
 _Photo by Maria Elana (since removed from Flickr)_

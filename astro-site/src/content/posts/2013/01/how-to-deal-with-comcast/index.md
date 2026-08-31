@@ -39,7 +39,7 @@ Customer service centers are mostly for dropping off or changing modems and rout
 
 I learned a trick from a friend. **Use the word _curious_, even when you know the other party is wrong.** You turn the other party away from a reflexive defensive stance into a problem solver on your behalf. When I pointed at my notebook to the June date and the text "1-year deal at $46.99", I politely mentioned how I was _curious_ why my bill increased. The rep immediately turned into a problem solver. Within 5 minutes, I had a credit back on my account and my account fixed for the next 6 months at the agreed-upon rate. I also got to see the screen with proof that the change had happened, which is something you must trust happens when on the phone or chat.
 
-![mas-kindergarden-drawing](./img/mas-kindergarden-drawing.jpg)
+![mas-kindergarden-drawing](/2013/01/how-to-deal-with-comcast/img/mas-kindergarden-drawing.jpg)
 
 _A lesson I learned on my 1st day of kindergarten: smile and show documentation. Even when it is documentation you created yourself._ 
 

@@ -19,7 +19,7 @@ In the last month, I've talked to several people about the stock market. Here ar
 
 When I put my house up for sale in 2005, I heard similar nonsense. _Houses could only go up. Home prices never go down._ People just repeat what they hear without checking their sources. And often what they heard was some nonsense they saw or read from the financial media, which make its money from advertisers whose goal is to keep you fully invested in the market at all times.
 
-[![](./img/cycle.jpg "cycle")](./img/cycle.jpg)
+[![](/2008/11/he-bought-at-the-bottom/img/cycle.jpg "cycle")](./img/cycle.jpg)
 
 Market bottoms come after capitulation. Here in Seattle, I haven't even heard the faint whisper of capitulation. We got a ways to go before bottoming. I'm still calling for an [S&P 500 of 600](/2008/10/picking-a-new-sp-500-target/).
 

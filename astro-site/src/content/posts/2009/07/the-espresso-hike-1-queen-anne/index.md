@@ -15,7 +15,7 @@ The espresso hike is when I go on random city hikes through Seattle looking for 
 
 When I mentioned my espresso hikes to some members of the group they seemed interested in joining me. So last Friday I mapped out a 4.5 mile route in my neighborhood of Queen Anne and invited them along. We started with 11 hikers and by the time it was over we had 14 in our group.
 
-![espresso-hike-1](./img/espresso-hike-1.jpg "espresso-hike-1")
+![espresso-hike-1](/2009/07/the-espresso-hike-1-queen-anne/img/espresso-hike-1.jpg "espresso-hike-1")
 
 Espresso Hike #1 covered 4 locations. Not everyone had a drink at every location. The idea was to send in a scout party to try it. If the coast was clear, others would order. That was the idea. In the end, people ordered from the places that most appealed to them. Here was our espresso itinerary.
 
@@ -24,7 +24,7 @@ Espresso Hike #1 covered 4 locations. Not everyone had a drink at every location
 3.  **Q Cafe and Community Center** - This gem is located in Interbay on the exit that separates Queen Anne and Magnolia. They are only open on weekdays and they serve _Stumptown_ _Coffee_. We enjoyed our drinks and loved the spacious venue.
 4.  **Bustle Seattle** - The last stop was a new place that served a unique selection of food and an Italian espresso called _Antipassi_. The group liked the venue and the food, but not the espresso. It really is hard to beat locally roasted coffee from Seattle with imported Italian. The staff was great. I would love to see them use a local roaster that captures the Northern Italy style. Perhaps _Espresso Vivace_?
 
-![](./img/queen-anne-view.jpg) _This was our view as we headed to Muse Coffee._
+![](/2009/07/the-espresso-hike-1-queen-anne/img/queen-anne-view.jpg) _This was our view as we headed to Muse Coffee._
 
 Our group loved the caffeinated journey through Queen Anne and nobody collapsed hiking up the hill, so I will most likely plan future espresso hikes. If you live in Seattle and this sounds like fun, [join our Coffee Club](https://www.meetup.com/seattle-coffee-club/) and look for emails on upcoming events.
 

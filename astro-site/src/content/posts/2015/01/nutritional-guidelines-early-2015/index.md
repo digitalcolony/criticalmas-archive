@@ -35,7 +35,7 @@ This a nutritional approach to financial portfolio theory.
 
 _Death By Food Pyramid_ also explores how we cook our protein is an important factor. Slow and lower temperatures are preferred to the charring that comes from cooking quickly with high temperatures.
 
-![death-by-food-pyramid](./img/death-by-food-pyramid.jpg)
+![death-by-food-pyramid](/2015/01/nutritional-guidelines-early-2015/img/death-by-food-pyramid.jpg)
 
 _Death by Food Pyramid: How Shoddy Science, Sketchy Politics and Shady Special Interests Have Ruined Our Health by Denise Minger_
 

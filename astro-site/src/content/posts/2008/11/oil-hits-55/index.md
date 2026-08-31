@@ -17,7 +17,7 @@ From my 2008 Predictions post on _MarketTicker_ on 12/27/2007:
 
 Although I was wrong about Romney winning the 2008 election, I accurately predicted that oil would reach $55 by the end of 2008. This calls for a celebration dance.
 
-![](./img/banana010.gif "banana010")
+![](/2008/11/oil-hits-55/img/banana010.gif "banana010")
 
 I promise not to bring out the dancing banana until the S&P 500 hits 600 or Paulson is lynched. Whichever comes first.
 

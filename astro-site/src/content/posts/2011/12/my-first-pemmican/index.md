@@ -23,7 +23,7 @@ Pemmican has 3 main components.
 
 For my first pemmican I used [goat fat](/2011/11/rendered-goat-fat/), lean beef and blueberries. I also added a little salt. I'm not going to provide a complete recipe yet, because I made several mistakes along the way. I'm still learning the food dehydrator and I discovered my food processor is worthless for this task.
 
-![pemmican](./img/pemmican.jpg)
+![pemmican](/2011/12/my-first-pemmican/img/pemmican.jpg)
 
 How did it taste? Not awful, but not that good either. Once I get a better tool to chop the dehydrated beef and dial in the spices better, I expect this food to be a staple.
 

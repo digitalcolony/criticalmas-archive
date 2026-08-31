@@ -21,7 +21,7 @@ The article goes into scientific detail on how eating too much muscle meat, whic
 
 Even though I already consume bone broths on a regular basis, I was interested in trying this supplement out. My research lead me to Great Lakes Unflavored Gelatin as a clean source of quality gelatin. So I bought a two pack from Amazon.
 
-![](./img/gelatin.jpg "gelatin")
+![](/2012/05/gelatin-supplementation-and-deep-sleep/img/gelatin.jpg "gelatin")
 
 _Great Lakes Unflavored Gelatin (AMAZON USA)_
 

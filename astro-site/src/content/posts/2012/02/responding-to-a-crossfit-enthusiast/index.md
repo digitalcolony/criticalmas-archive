@@ -33,7 +33,7 @@ The fitness industry thrives on making us feel insecure about ourselves by point
 
 What is the fair comparison when measuring strength protocols? Do you measure just the most successful or everyone? I believe you should count everyone, not just the young and genetically gifted. That includes everyone who quit or got sidelined with injuries. Also, fitness isn't just a moment in time. How I treat my body today will impact the body I have when I get older. We tend to only imagine the benefits and not the costs. A benefit might be increased muscle mass. A cost might be a torn pectoral muscle from pushing yourself to do one too many reps.
 
-![kettlebell](./img/4458533582_79bc0117d5_z.jpg)
+![kettlebell](/2012/02/responding-to-a-crossfit-enthusiast/img/4458533582_79bc0117d5_z.jpg)
 
 _[Photo](https://flic.kr/p/7MZ9GE) by Lóránt Dankaházi_
 

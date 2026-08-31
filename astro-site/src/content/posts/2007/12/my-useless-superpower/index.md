@@ -13,7 +13,7 @@ If I were a comic book superhero I would have the oddest _super_ power. My prese
 
 Many people have seen this effect. When TheTailGunner and myself were taking a cab ride in Rio De Janeiro, Brazil the cab driver flipped from Portuguese station to Portuguese station until he landed on an English radio station playing 1970s pop music. And with no words exchanged between us, he stopped changing stations. My powers were working.
 
-[![](./img/j5.jpg "jackson 5")](./img/j5.jpg)
+[![](/2007/12/my-useless-superpower/img/j5.jpg "jackson 5")](./img/j5.jpg)
 
 Spiderman may be able to shoot webs. Superman may be able to fly, but I have the power to look at a radio and silence the wails of Dave Matthews and John Mayer with the sweet sounds of [Polyester and Cheese](/2007/04/polyester-and-cheese/).
 

@@ -14,7 +14,7 @@ A few months ago, Mark Si$$on decided to remove EVERY SINGLE page from MarksDail
 
 In 2017, I posted some stories on [The Digital Graveyard of My Health and Fitness Mentors](/2017/03/digital-graveyard-health-fitness-mentors/). This one shocks me the most because Si$$on is supposedly a smart businessman.
 
-![](./img/primal-website.jpg)
+![](/2024/02/some-broken-link-housekeeping/img/primal-website.jpg)
 
 _Caveman trying to access Mark's Daily Apple_
 

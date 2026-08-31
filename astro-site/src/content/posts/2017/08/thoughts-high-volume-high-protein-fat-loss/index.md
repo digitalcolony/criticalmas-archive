@@ -15,7 +15,7 @@ This is a continuation of my last post [High Volume or High Protein Foods For Fa
 
 Even though I am lean and don't have to decide between high volume or high protein, I began rethinking that sentence. Are the strategies equal for the obese person? I don't know. Perhaps each individual diet would respond more favorably to one strategy than the other? If I had to answer this question for myself or advise someone with significant weight to lose, I would cycle between the two approaches with most of the time favoring high volume over high protein.
 
-![](./img/fork.jpg)
+![](/2017/08/thoughts-high-volume-high-protein-fat-loss/img/fork.jpg)
 
 _[Photo](https://flic.kr/p/mhbK8a) by Diana Robinson_
 

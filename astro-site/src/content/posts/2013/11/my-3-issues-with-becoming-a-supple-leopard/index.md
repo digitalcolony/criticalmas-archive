@@ -37,7 +37,7 @@ The videos I would like to see wouldn't be the longer educational clips he has o
 
 Dr. Starrett owns a CrossFit gym and has a huge audience with that community. I don't want to pick a fight with the CrossFit people today, but I will say that I am not a fan of ballistic compound exercises done under load. I think they are unnecessary for strength and have a much too high risk of injury. I only bring this point up because the subtitle says _"The Ultimate Guide to Resolving Pain, Preventing Injury, and Optimizing Athletic Performance"._  I would think that any ultimate guide to preventing injury would first seek out the safest exercises to achieve strength, not work on techniques to make risky moves safer. However, if your sport is CrossFit and you need to excel at those exercises, this book should be required reading.
 
-![supple-leopard](./img/supple-leopard.jpg) _Becoming a Supple Leopard: The Ultimate Guide to Resolving Pain, Preventing Injury, and Optimizing Athletic Performance by Kelly Starrett_
+![supple-leopard](/2013/11/my-3-issues-with-becoming-a-supple-leopard/img/supple-leopard.jpg) _Becoming a Supple Leopard: The Ultimate Guide to Resolving Pain, Preventing Injury, and Optimizing Athletic Performance by Kelly Starrett_
 
 
 ### Last Words

@@ -11,7 +11,7 @@ commentCount: 11
 
 Many people have asked me in the last year if I'm still on The Potato Diet and how it is working for me. Before I bring readers up to date, I would like everyone interested in The Potato Diet to get a copy of _The Potato Hack Diet_ by Tim Steele. It will answer all your questions. I'm just one data point. _The Potato Hack Diet_ is based on the results of many dieters. Now onto my story.
 
-![potato-hack-diet](./img/potato-hack-diet.jpg)
+![potato-hack-diet](/2016/11/potato-diet-calorie-savings-account/img/potato-hack-diet.jpg)
 
 _The Potato Hack: Weight Loss Simplified_
 

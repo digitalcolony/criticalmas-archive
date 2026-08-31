@@ -17,7 +17,7 @@ I like Paleo. I like the narrative as a way for people without science backgroun
 
 Many Paleo adopters seem to have forgotten that at one time they were open-minded enough to rethink their diet. The lesson that we might not know everything and we might get some things wrong seems to be lost.
 
-![](./img/caveman-spear-2.jpg)
+![](/2014/02/step-paleo-echo-chamber/img/caveman-spear-2.jpg)
 
 Some of the attacks on Paleo have been downright silly, but that doesn't mean all criticisms are invalid. Wouldn't it be wise to be aware of those potential downsides, especially if you are preaching this knowledge to others? But Paleo has grown increasingly cultish.
 

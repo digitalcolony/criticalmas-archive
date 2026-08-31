@@ -13,16 +13,16 @@ Earlier this week someone asked me if I had seen the humongous cabbage at Centra
 
 Instantly I was reminded of [that episode](https://en.wikipedia.org/wiki/Return_to_Tomorrow) of _Star Trek_ were the crew discovers these huge alien balls. I weighed a mid sized one and it was 18 pounds. The smallest one was 15 pounds. I bought that one. It was sauerkraut time.
 
-![Star Trek - Kraut Cabbage Alien](./img/star-trek-cabbage-alien.jpg "Star Trek - Kraut Cabbage Alien")
+![Star Trek - Kraut Cabbage Alien](/2011/10/kraut-cabbage-this-sucker-is-huge/img/star-trek-cabbage-alien.jpg "Star Trek - Kraut Cabbage Alien")
 
 _Me and some other customers approach the Kraut Cabbage display at Central Market._
 
-![kraut-cabbage](./img/kraut-cabbage.jpg)
+![kraut-cabbage](/2011/10/kraut-cabbage-this-sucker-is-huge/img/kraut-cabbage.jpg)
 
 _Kraut Cabbage next to an iPod_
 
 It took almost 2 hours to chop, salt and pack the cabbage into jars. The outside color was less green than green cabbage. The texture seemed about the same. It was basically a green cabbage with a thyroid problem. Once the ferment is over, I will know how the taste varies.
 
-![sauerkraut](./img/sauerkraut.jpg)
+![sauerkraut](/2011/10/kraut-cabbage-this-sucker-is-huge/img/sauerkraut.jpg)
 
 _This time I'm doing a classic sauerkraut recipe that just uses juniper berries._

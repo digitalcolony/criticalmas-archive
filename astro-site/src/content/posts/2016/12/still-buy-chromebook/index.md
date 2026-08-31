@@ -15,7 +15,7 @@ I promised I would do an update on my post from April 2014 titled [I Love My Ch
 
 I still agree with that statement, although the Kindle Fire is damn close. However, technology changes quickly, so although I would absolutely still buy a Chromebook, it isn't perfect. Before I go into what I have found lacking, I want to cover how I was able to do things I didn't think possible at first using a Chromebook.
 
-![](./img/chromebook-coffeebook.jpg)
+![](/2016/12/still-buy-chromebook/img/chromebook-coffeebook.jpg)
 
 _My Chromebook now has some coffee stickers!_
 

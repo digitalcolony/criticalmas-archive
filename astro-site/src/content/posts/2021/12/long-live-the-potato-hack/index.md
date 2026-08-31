@@ -17,7 +17,7 @@ Yesterday, I got the new domain up and running with a new HTTPS certificate on o
 
 I'm glad this domain was saved from the [Digital Graveyard](/2017/03/digital-graveyard-health-fitness-mentors/).
 
-![potatoes](./img/potatoes-daniel-dan.jpg)
+![potatoes](/2021/12/long-live-the-potato-hack/img/potatoes-daniel-dan.jpg)
 
 _Photo by_ [_Daniel Dan_](https://duckduckgo.com/?q=%40daniel-dan-47825192&atb=v299-1&ia=web)
 

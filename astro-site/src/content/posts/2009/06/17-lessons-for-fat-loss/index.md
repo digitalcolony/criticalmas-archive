@@ -47,7 +47,7 @@ Amen! The body and the brain crave different foods. The body wants all the healt
 
 Reading and understanding those two lists on a regular basis will do more to lean you out than any treadmill. Advertisers peddle poison to appeal to your emotional hunger, not your physical hunger.
 
-![good advice](./img/good-advice.jpg)
+![good advice](/2009/06/17-lessons-for-fat-loss/img/good-advice.jpg)
 
 _[Photo](https://flic.kr/p/6KKx1V) by Jen Collins_
 

@@ -13,7 +13,7 @@ Two years ago I posted a recipe for [Beef Heart Stew](/2011/04/beef-heart-stew/)
 
 **Summary**: _A rich stew made from beef heart using a slow cooker._
 
-![beef-heart-stew](./img/beef-heart-stew.jpg)
+![beef-heart-stew](/2013/02/beef-heart-stew-rebooted-slow-cooker-recipe/img/beef-heart-stew.jpg)
 
 
 #### Ingredients

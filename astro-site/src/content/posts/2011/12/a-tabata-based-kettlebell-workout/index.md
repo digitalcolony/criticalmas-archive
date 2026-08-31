@@ -15,7 +15,7 @@ I've always wanted to train with a kettlebell. The Russian-developed cannonball 
 
 The first thing I noticed was how little it was. They were able to pack 25 pounds into a small area. Unlike other kettlebells, the Premium Kettlebell from _Power Systems_ has a vinyl casing. Their website states that it is there to help _reduce noise and prevent damage to floors_. Probably a good idea. I still wouldn't drop it.
 
-![kettlebell](./img/kettlebell.jpg)
+![kettlebell](/2011/12/a-tabata-based-kettlebell-workout/img/kettlebell.jpg)
 
 _25 Pound Premium Kettlebell beside a Sharpie Pen to demonstrate size._
 

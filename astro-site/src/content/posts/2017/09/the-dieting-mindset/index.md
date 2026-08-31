@@ -86,7 +86,7 @@ Plus knowing that our metabolism will be efficient, means that we will need to e
 
 In short, I'm not declaring victory until a full year has passed after the weight has come off. At that point, my new lower levels of eating should be a firm habit and my metabolism will be up a bit.
 
-![](./img/mindset.jpg)
+![](/2017/09/the-dieting-mindset/img/mindset.jpg)
 
 _[Photo](https://flic.kr/p/uqNDgd) by Steve Davis_
 

@@ -13,7 +13,7 @@ During the planning stages of my 2003 visit to the Grand Canyon, I learned that 
 
 For those new to this site, I'm a former _stick boy_. When I left Army basic training at age 17, I was 165 pounds and 6' 3. Long story short, I started weight training in 1994 and then stumbled onto low-rep training in 2001. My weight went up to 210. Not bad for an [ectomorph](/2008/04/calculate-your-grecian-ideal/).
 
-![somatypes](./img/somatypes.jpg)
+![somatypes](/2008/08/i-dont-want-to-ride-a-donkey-down-the-grand-canyon/img/somatypes.jpg)
 
 _Image from How to Eat Right For Your Body Type by Dr. John Berardi. Typically Ectomorphs are taller and Endomorphs are shorter. Other than that this image is a good representation of somatypes._
 

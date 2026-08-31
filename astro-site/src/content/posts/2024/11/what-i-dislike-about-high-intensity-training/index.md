@@ -49,7 +49,7 @@ A common theme that I've read across all forms of lifting literature is to focus
 
 For my fellow HIT fans, if you were to give HIT a letter grade for core strength, what would it be?
 
-![load weights](./img/victor-freitas-vjkM-0m34KU-unsplash.jpg)
+![load weights](/2024/11/what-i-dislike-about-high-intensity-training/img/victor-freitas-vjkM-0m34KU-unsplash.jpg)
 
 _Loading and unloading plates will engage the abs. Photo by [Victor Freitas](https://unsplash.com/@victorfreitas?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)._ 
 

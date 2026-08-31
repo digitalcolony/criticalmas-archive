@@ -11,7 +11,7 @@ commentCount: 52
 
 Most of the health posts on this site are me sharing what I've learned. For this post, **I am openly asking for your help**. For several years, I have had tight neck and shoulder muscles. Although I rarely would say that I am in pain, it has been an annoyance. All my other health markers have improved, including headaches, except this. I have done the conventional advice and it has not helped.
 
-![](./img/shoulders-neck.jpg "shoulders-neck")
+![](/2012/12/help-me-fix-my-neck-and-shoulders/img/shoulders-neck.jpg "shoulders-neck")
 
 _[Photo](http://www.flickr.com/photos/roland/7174328970/) by Roland_
 
@@ -29,7 +29,7 @@ Deep tissue massage feels wonderful and helps a lot, but it is costly, so I rare
 
 As much as I love and have benefited from the exercises in [3 Minutes to a Pain-Free Life](/2011/12/3-minutes-to-a-pain-free-life/), I have gotten no relief from their neck exercises. I also have stopped doing shoulder lifts in the gym, as I have found they make me even tighter.
 
-![](./img/6-sky-reach-500.jpg "Sky reach")
+![](/2012/12/help-me-fix-my-neck-and-shoulders/img/6-sky-reach-500.jpg "Sky reach")
 
 _I do the Sky Reach stretch from 3 Minutes to a Pain-Free Life daily. It feels good, and I do now have a full range of motion, but my shoulders still feel tight._ 
 

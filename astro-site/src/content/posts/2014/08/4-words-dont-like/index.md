@@ -35,7 +35,7 @@ The word busy is not only [overused](/2006/06/are-you-really-busy/) when applie
 
 And if it is used repeatedly as an excuse for not engaging in social relationships, then it can come off as insulting.
 
-![busy](./img/6238196642_42f74994bd_z.jpg)
+![busy](/2014/08/4-words-dont-like/img/6238196642_42f74994bd_z.jpg)
 
 _[Busy](https://flic.kr/p/avfoww) by thesaltr_
 

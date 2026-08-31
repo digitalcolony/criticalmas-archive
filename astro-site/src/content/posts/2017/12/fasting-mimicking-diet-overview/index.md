@@ -87,7 +87,7 @@ The simple method recommended is to eat 2 medium sized avocados a day along with
 
 I plan to give the Fasting Mimicking Diet a try in 2018. I'll keep you posted.
 
-![avocado](./img/charles-deluvio-avocado.jpg)
+![avocado](/2017/12/fasting-mimicking-diet-overview/img/charles-deluvio-avocado.jpg)
 
 _Photo by [Charles Deluvio](https://unsplash.com/@charlesdeluvio)_
 

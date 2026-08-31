@@ -17,9 +17,9 @@ From ArtInstructionBlog.com - Learn How To Draw - Top 20 Drawing Tips For Beginn
 
 Here are my first two attempts using Dilbert.
 
-![dilbert-upside-down](./img/dilbert-upside-down.jpg)
+![dilbert-upside-down](/2009/03/drawing-dilbert-upside-down/img/dilbert-upside-down.jpg)
 
-![dilbert-upside-down-2](./img/dilbert-upside-down-2.jpg)
+![dilbert-upside-down-2](/2009/03/drawing-dilbert-upside-down/img/dilbert-upside-down-2.jpg)
 
 ---
 

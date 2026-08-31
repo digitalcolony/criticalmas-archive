@@ -15,13 +15,13 @@ Besides the fact they taste great, why would anyone eat animal testicles? They a
 
 The recent news is how dietary cholesterol can help build strong muscles. Check out _Research Update: Eating More Cholesterol Makes Muscles Stronger_ by Anthony Colpo if this topic is of interest. (FEB 2017 UPDATE: Colpo's article is now behind a paywall).
 
-![sheep-testicles](./img/sheep-testicles.jpg)
+![sheep-testicles](/2012/06/cajun-style-sheep-testicles/img/sheep-testicles.jpg)
 
-![cajun-spices](./img/cajun-spices.jpg)
+![cajun-spices](/2012/06/cajun-style-sheep-testicles/img/cajun-spices.jpg)
 
-![cajun-testicles](./img/cajun-testicles.jpg)
+![cajun-testicles](/2012/06/cajun-style-sheep-testicles/img/cajun-testicles.jpg)
 
-![cajun-testicles2](./img/cajun-testicles2.jpg)
+![cajun-testicles2](/2012/06/cajun-style-sheep-testicles/img/cajun-testicles2.jpg)
 
 ---
 

@@ -19,7 +19,7 @@ In 1998, I bought the [INeedCoffee](https://ineedcoffee.com) domain and followed
 
 Recently I noticed a trend of server errors on BlogSpot sites. If my web host behaved this way, I'd fire them and be on a new server before the weekend ended. BlogSpot users are powerless.
 
-![blogspot-error](./img/blogspot-error.jpg)
+![blogspot-error](/2008/03/i-hate-blogspot-too/img/blogspot-error.jpg)
 
 My advice to those on BlogSpot:
 

@@ -11,7 +11,7 @@ commentCount: 4
 
 _UPDATE October 2011: I no longer use the Brine method described in this recipe. Instead, I prefer the "Rub in by Hand" method, which I outline in the post [Kimchi 101](/2011/03/kimchi-101/)._
 
-![bok-choy-kimchi](./img/bok-choy-kimchi.jpg)
+![bok-choy-kimchi](/2010/04/bok-choy-kimchi-recipe/img/bok-choy-kimchi.jpg)
 
 
 #### Ingredients
@@ -42,7 +42,7 @@ _UPDATE October 2011: I no longer use the Brine method described in this recipe.
 10.  Once a day for a week, push down on the kimchi. Force the air bubbles up and out.
 11.  After 5-7 days, cover and move to refrigerator.
 
-![bok-choy-kimchi-2](./img/bok-choy-kimchi-2.jpg)
+![bok-choy-kimchi-2](/2010/04/bok-choy-kimchi-recipe/img/bok-choy-kimchi-2.jpg)
 
 ---
 

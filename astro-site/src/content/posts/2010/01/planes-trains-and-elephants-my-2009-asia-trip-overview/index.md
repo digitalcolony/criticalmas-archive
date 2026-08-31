@@ -87,6 +87,6 @@ Trip Highlights.
 -   **Favorite Airport:** Kuala Lumpur, Malaysia
 -   **Favorite Meal:** Baby chicks on a stick in Ko Samui, Thailand for under $1 USD. (on right in photo below)
 
-![stick-meat-thailand](./img/stick-meat-thailand.jpg)
+![stick-meat-thailand](/2010/01/planes-trains-and-elephants-my-2009-asia-trip-overview/img/stick-meat-thailand.jpg)
 
 Will I return? Maybe, but probably not. I'm the type of traveler that would rather seek out a new destination than return to a place that I've already visited. With that said, I would not turn down a chance to return to Bangkok or Chiang Mai.

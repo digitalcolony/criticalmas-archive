@@ -24,7 +24,7 @@ For me, I had four things I wanted to test regarding dairy removal.
 
 Eliminating dairy had no impact on my sinus headaches. Intensity and frequency have been consistent throughout this year, with a greater spike during the summer. The chart below shows headache intensity (0-5) since mid-March. The area under the red is the period where I was dairy free. Dairy is innocent.
 
-![](./img/dairy-HA1.png "Dairy Headache")
+![](/2011/09/30-day-no-dairy-test-complete/img/dairy-HA1.png "Dairy Headache")
 
 
 ### Other Symptoms?

@@ -27,7 +27,7 @@ Here is what strength coach Charles Poliquin wrote in _Question of Strength: Oct
 
 Coach Poliquin gained 11 pounds all while losing 2% body fat in the sunny Dominican Republic. It's time to start planning a winter vacation. Any glitter gyms in Santo Domingo?
 
-![beef-short-ribs](./img/beef-short-ribs.jpg)
+![beef-short-ribs](/2007/10/the-anabolic-quality-of-food/img/beef-short-ribs.jpg)
 
 _beef short ribs_
 

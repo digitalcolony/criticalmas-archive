@@ -56,7 +56,7 @@ Unless instead of constructing a very low protein diet one greatly reduces the n
 
 The Ray Peat people love salted orange juice as it shuts down stress hormones. Orange juice has a protein content of 5%. Good. Raw honey, which was discussed in the post [In Defense of Sugar](/2015/01/defense-sugar/), has only trace amounts of protein.
 
-![honey](./img/honey.jpg)
+![honey](/2015/10/intermittent-fasting-finding-a-new-middle-ground/img/honey.jpg)
 
 _[Photo](https://flic.kr/p/fCADiP) by mbeo_
 

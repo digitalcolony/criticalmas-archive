@@ -16,7 +16,7 @@ I think I can divide my Paleo journey into 3 stages.
 
 Weight loss, better skin, more energy, and a stronger immune system mostly arrived in the first two years following a paleo lifestyle. Not only were the gains achieved, but they were also maintained easily. In the late 90s, I got lean doing _The Zone Diet_, but the gains were not sustainable and I ended up quitting the diet and gaining all the weight back. The coolest thing about following the Paleo lifestyle is that I never measure anything or count calories. Now a few years later, I can honestly say that I am in the best shape of my life.
 
-![](./img/michael_mirror.jpg "Michael in mirror")
+![](/2011/10/the-3-stages-of-paleo/img/michael_mirror.jpg "Michael in mirror")
 
 
 ### Stage #2 Inspire Others
@@ -24,7 +24,7 @@ Weight loss, better skin, more energy, and a stronger immune system mostly arriv
 
 During the journey and afterwards, some friends and blog readers were inspired by my enthusiasm and results. Some lost weight, started cooking or changed their approach to exercise. Since I can only have one journey, hearing positive stories from others kept me interested in learning more about nutrition.
 
-![MAS Flex](./img/mas_flex500.jpg "MAS Flex")
+![MAS Flex](/2011/10/the-3-stages-of-paleo/img/mas_flex500.jpg "MAS Flex")
 
 
 ### Stage #3 Irritate Others
@@ -32,7 +32,7 @@ During the journey and afterwards, some friends and blog readers were inspired b
 
 Those friends and readers that could have been inspired have been. Others either aren't interested in making a change now or reject the paleo message for whatever reason. Maybe it seems too hard or too weird. That was why I posted [Ranking My Positive Health Changes](/2011/09/ranking-my-postive-health-changes/). It is a list one can use to slowly move their health in a better direction. A soft sell.
 
-![MAS annoying](./img/beach_mas500.jpg "MAS annoying")
+![MAS annoying](/2011/10/the-3-stages-of-paleo/img/beach_mas500.jpg "MAS annoying")
 
 However good my intentions, I think I've begun to irritate others. I have friends that I care about that would benefit from simple health changes that just aren't receptive to the message. And there is nothing I can do about it. My knowledge, experience or enthusiasm isn't going to change that.
 

@@ -13,9 +13,9 @@ Sometimes you just know with a coffee place. All my internal alarms were telling
 
 The _Juan Valdez Cafe_ states they use 100% Colombian Coffee. Like I care. Almost every coffee-growing region is capable of growing quality coffee. The caliber of the drink I was soon to consume was foreshadowed by the silly name and the sidewalk sign. **Notice in the photos below how if looks like they corrected the** **misspelling of Colombia****.** Maybe I'm imagining things. You be the judge.
 
-![](./img/jv-colombia1.jpg)
+![](/2009/06/ominous-signs-juan-valdez-cafe/img/jv-colombia1.jpg)
 
-![](./img/jv-colombia2.jpg)
+![](/2009/06/ominous-signs-juan-valdez-cafe/img/jv-colombia2.jpg)
 
 Enough about the sign. How was the drink? My standard test is always an espresso. I feared the barista was going to over-pour the shot, so I asked that he pull the shot short. It didn't matter.
 

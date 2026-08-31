@@ -18,7 +18,7 @@ Something that was not discussed was the role that temperature plays in these he
 
 So I stopped complaining and stopped exercising to failure. See my 2013 post: [Why I Traded Volume for Intensity at the Glitter Gym](/2013/08/why-i-traded-volume-for-intensity-at-the-glitter-gym/). Other gyms, which are less convenient for me, \*might\* be a few degrees cooler, but not enough to justify the higher cost and commute.
 
-![](./img/headache-runner.jpg)
+![](/2023/06/exercise-induced-headaches-a-path-forward/img/headache-runner.jpg)
 
 _I made this on DALL-E._
 

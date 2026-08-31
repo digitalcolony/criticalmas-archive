@@ -13,36 +13,36 @@ When I woke up this morning, I had no idea that I was going to do an urban hike.
 
 I tried to make a snow man at Kerry Park, but the snow wasn't packing. See the little guy? You might have to squint to see the Space Needle.
 
-![seattle-snow-1](./img/seattle-snow-1.jpg)
+![seattle-snow-1](/2008/12/urban-hike-seattle-snow-edition/img/seattle-snow-1.jpg)
 
 From there I headed downtown to Pike Place Market.
 
-![pike-market-snow](./img/pike-market-snow.jpg)
+![pike-market-snow](/2008/12/urban-hike-seattle-snow-edition/img/pike-market-snow.jpg)
 
 A skier passed me in Pioneer Square.
 
-![skiing-pioneer-square](./img/skiing-pioneer-square.jpg)
+![skiing-pioneer-square](/2008/12/urban-hike-seattle-snow-edition/img/skiing-pioneer-square.jpg)
 
 Then it was off to the International District. That is when the snow came down the hardest.
 
-![id-snow](./img/id-snow.jpg)
+![id-snow](/2008/12/urban-hike-seattle-snow-edition/img/id-snow.jpg)
 
 From there I doubled back a little and then went to Capitol Hill. On some side street I met a couple that had just finished their snow man, so I posed for a photo.
 
-![cap-hill-snow](./img/cap-hill-snow.jpg)
+![cap-hill-snow](/2008/12/urban-hike-seattle-snow-edition/img/cap-hill-snow.jpg)
 
 Once in Capitol Hill I had to make a choice. Either head back home or go for a long hike, which meant heading to the University District. I chose the long hike.
 
-![university-snow](./img/university-snow.jpg)
+![university-snow](/2008/12/urban-hike-seattle-snow-edition/img/university-snow.jpg)
 
 From there I cut over to Wallingford and then to Fremont. I had to visit The Troll and throw a snowball at Lenin. :)
 
-![troll-snow](./img/troll-snow.jpg)
+![troll-snow](/2008/12/urban-hike-seattle-snow-edition/img/troll-snow.jpg)
 
-![lenin-snow](./img/lenin-snow.jpg)
+![lenin-snow](/2008/12/urban-hike-seattle-snow-edition/img/lenin-snow.jpg)
 
 At this point, I walked around Fremont before heading back to Queen Anne. On President's Day I did a 14.55 mile [urban hike of Seattle](/2008/02/urban-hike-seattle/). Despite the snow and cold temperatures, I topped it with a [16.22 mile](http://www.gmap-pedometer.com/?r=2444384 ) hike.
 
-![snow-hike](./img/snow-hike.jpg)
+![snow-hike](/2008/12/urban-hike-seattle-snow-edition/img/snow-hike.jpg)
 
 [Photo Gallery for Seattle Urban Hike - Snow Edition](https://www.flickr.com/photos/129592470@N02/sets/72157650129133041/)

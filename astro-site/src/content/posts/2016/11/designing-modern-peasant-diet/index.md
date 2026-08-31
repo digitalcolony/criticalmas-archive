@@ -54,7 +54,7 @@ I wish I could eat more beans, even lentils or green peas. They are so cheap and
 
 Farro is super yummy. I'm glad _VeggiePharm_ posted that tip.
 
-![potato-diet](./img/potato-diet.jpg)
+![potato-diet](/2016/11/designing-modern-peasant-diet/img/potato-diet.jpg)
 
 
 ### My Belly is Full and So Is My Wallet

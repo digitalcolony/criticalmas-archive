@@ -42,7 +42,7 @@ I tried several things and now that enough time has passed I can reflect on what
 
 I never did get in the habit of eating carbs upon waking. I suspect it would have been beneficial, but given that I prefer to eat right before sleep, it wasn't the best strategy for me.
 
-![seattle-sleep](./img/seattle-sleep.jpg)
+![seattle-sleep](/2015/07/how-i-raised-my-body-temperature/img/seattle-sleep.jpg)
 
 
 ### Cause and Effect?

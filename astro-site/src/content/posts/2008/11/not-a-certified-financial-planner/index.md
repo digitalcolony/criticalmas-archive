@@ -11,7 +11,7 @@ commentCount: 4
 
 Since I have quite a few posts on investing, I thought it was appropriate that I add a disclaimer. **I am not a Certified Financial Planner.** I'm just a regular Joe with an interest in economics. Although I have a Finance degree from the diploma mill known as _The Ohio State University_, everything that I apply to investing today was knowledge obtained since 2004.
 
-![](./img/21-300x294.jpg "MAS money")
+![](/2008/11/not-a-certified-financial-planner/img/21-300x294.jpg "MAS money")
 
 No post on this site shall be construed as investment advice. This site is about me. I invest. Therefore I blog about investing. I know my risk tolerance and how much time and effort I am willing to devote to investing. What works for me, may not work for you.
 

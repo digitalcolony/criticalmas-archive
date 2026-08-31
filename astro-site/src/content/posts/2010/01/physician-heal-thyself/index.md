@@ -13,7 +13,7 @@ After Obama nominated a [tax cheat](https://en.wikipedia.org/wiki/Timothy_Geithn
 
 You can't make this stuff up.
 
-[![](./img/Regina_Benjamin.jpg "Regina_Benjamin")](./img/Regina_Benjamin.jpg)
+[![](/2010/01/physician-heal-thyself/img/Regina_Benjamin.jpg "Regina_Benjamin")](./img/Regina_Benjamin.jpg)
 
 Fitness writer [Paul Chek](/2008/10/another-fitness-nutrition-book/) states in his video that most of the people who teach health are unhealthy. Paul also states:
 

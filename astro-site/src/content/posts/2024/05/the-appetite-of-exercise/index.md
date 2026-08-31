@@ -42,7 +42,7 @@ Did the brain ramp up my appetite to compensate for the calories lost during a r
 
 I don't know the answer. There are a lot of chubby distance runners out there. When I return from a walk, I don't need to eat a plate of pancakes. Back when I was training for a marathon, I was always eating more than I needed. I'm leaner and less hungry walking.
 
-![](./img/runner.jpg)
+![](/2024/05/the-appetite-of-exercise/img/runner.jpg)
 
 
 ### Your Thoughts?

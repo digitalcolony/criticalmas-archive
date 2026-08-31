@@ -28,7 +28,7 @@ After the Labor Day weekend, my weight was down to 183. I have since maintained 
 
 For myself, 186 is still a nice weight. I could have talked myself into not taking action, but that might have led to 188, 190, or more. It was better to set the stop-loss.
 
-![](./img/potato-man-weighing-himself.jpg)
+![](/2024/09/stop-loss-potato-hacking/img/potato-man-weighing-himself.jpg)
 
 ---
 

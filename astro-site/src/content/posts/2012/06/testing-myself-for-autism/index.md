@@ -26,7 +26,7 @@ So this morning I took the Autism Spectrum Quotient Test. Here are the score
 
 The test states that those with [Asperger Syndrome](https://en.wikipedia.org/wiki/Asperger_syndrome) or high functioning autistic people score about 35. **I scored a 24, which places me in the Above Average category.** Had I taken this test prior to reading Tyler's book, this might have alarmed me. But I learned in _Create Your Own Economy_ that having some autistic characteristics can be leveraged and extremely valuable in the digital age.
 
-![Autism](./img/5298663895_18b6d89510_o.gif)
+![Autism](/2012/06/testing-myself-for-autism/img/5298663895_18b6d89510_o.gif)
 
 _[Photo](https://flic.kr/p/95e3b4) by hepingting_
 

@@ -15,7 +15,7 @@ The way I blog about health topics has changed. I've gone from being confident t
 
 In recent years, I've taken a different approach. Instead of taking sides, I acknowledge that I don't know and do my best to cover the various sides of the argument. Then I will put forth my current view on how it applies to me. Like the investor who thinks he has a good basket of stocks but knows he could be wrong.
 
-![robot](./img/2378205727_0f41181560_o.gif)
+![robot](/2015/09/irresponsible-health-blogging/img/2378205727_0f41181560_o.gif)
 
 _[Photo](https://flic.kr/p/4C9VH2) by Heather Krisman_
 

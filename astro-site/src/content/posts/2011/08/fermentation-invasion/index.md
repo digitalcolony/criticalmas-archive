@@ -11,7 +11,7 @@ commentCount: 2
 
 My vegetable ferments are taking over.
 
-![veggie-ferments](./img/veggie-ferments.jpg)
+![veggie-ferments](/2011/08/fermentation-invasion/img/veggie-ferments.jpg)
 
 _Back Row: Ghost Pepper Sauerkraut, Green Cabbage kimchi. Front Row: Smoked Alderwood Salt Sauerkraut, Carrot and Ginger (2), more Green Cabbage Kimchi_
 

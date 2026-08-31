@@ -42,7 +42,7 @@ As we get older, our ability to recover from a workout takes longer. I'm very in
 
 This is where my interest is now.
 
-![legos-bench-press](./img/legos-bench-press.jpg)
+![legos-bench-press](/2017/12/3-types-fitness-conversations/img/legos-bench-press.jpg)
 
 _[Photo credit](https://flic.kr/p/9pbzs7)_
 

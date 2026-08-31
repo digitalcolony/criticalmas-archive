@@ -17,17 +17,17 @@ After landing at the _Louis Armstrong Airport_ in New Orleans I spotted my first
 
 New Orleans is a beautiful city with lots of great architecture. Here is a home in the French Quarter. Homes like this are everywhere.
 
-![](./img/french-quarter-home1.jpg) _French Quarter Home_
+![](/2012/02/locating-a-decent-coffee-in-new-orleans/img/french-quarter-home1.jpg) _French Quarter Home_
 
 The parades were wonderful too and I did make it through Bourbon Street on Fat Tuesday.
 
-![](./img/mardi-gras-new-orleans.jpg) _Bourbon Street on Mardi Gras_
+![](/2012/02/locating-a-decent-coffee-in-new-orleans/img/mardi-gras-new-orleans.jpg) _Bourbon Street on Mardi Gras_
 
 But, you don't want to hear about the parties, the parades, the homes, the friendly people or me seeing Val Kilmer. You want the coffee details! **Coffee in New Orleans is still a good 20 years behind Seattle.** Although there may be some gem buried deep in the French Quarter, I certainly didn't find it. There was one exception, I'll save that for last.
 
 In fairness to New Orleans, Mardi Gras is not just for tourists, it is primarily for the citizens themselves. That means quite a few places that are normally open are closed. When you have the caffeine monkey on your back, this is the last thing you want to see.
 
-![](./img/coffee-store-is-close.jpg) _Coffee Place Closed_
+![](/2012/02/locating-a-decent-coffee-in-new-orleans/img/coffee-store-is-close.jpg) _Coffee Place Closed_
 
 The [last time](/2009/05/coffee-on-the-road-grand-circle/) I directly trashed an American coffee house on the Internet, I got quite a few emails of support and a smaller amount of hate emails. Should I name names on my worst experiences in New Orleans (outside the airport that is)? What if a place was so bad it did the following:
 
@@ -37,16 +37,16 @@ The [last time](/2009/05/coffee-on-the-road-grand-circle/) I directly trashed an
 
 I probably shouldn't name names.
 
-![](./img/envie-espresso-bar-new-orleans.jpg) _The worst espresso in the French Quarter_
+![](/2012/02/locating-a-decent-coffee-in-new-orleans/img/envie-espresso-bar-new-orleans.jpg) _The worst espresso in the French Quarter_
 
 _Community Coffee_ was recommended by a few locals. It was OK. Either that or my expectations were so low at this point that anything short of charcoal in hot water would have been an improvement.
 
-![](./img/cc-community-coffee-new-orleans.jpg) _Community Coffee New Orleans_
+![](/2012/02/locating-a-decent-coffee-in-new-orleans/img/cc-community-coffee-new-orleans.jpg) _Community Coffee New Orleans_
 
 There is one coffee New Orleans is known for and it is _Cafe Du Monde_. _Cafe Du Monde_ is located in the French Quarter and serves a darker coffee that has chicory in the blend. During my college years, before I became a coffee snob, I used to occasionally drink their pre-ground canned coffee. I recall liking it back then. I really feared that I wouldn't like it today. Kind of like an old sitcom. _Damn you, Barney Miller!_
 
 Anyway, I took my first sip of _Cafe Du Monde_ and it was wonderful. Although these days I am more likely to be drinking a lightly roasted single-origin bean from _Stumptown_, it was nice having a darker, richer coffee. If you go to New Orleans, have a cup of coffee at _Cafe Du Monde_. This is a legendary coffee place, serving a unique coffee blend. The beignets were good too.
 
-![](./img/cafe-du-monde.jpg) _Photo New Orleans - Cafe Du Monde by Flickr user Shawnmebo_
+![](/2012/02/locating-a-decent-coffee-in-new-orleans/img/cafe-du-monde.jpg) _Photo New Orleans - Cafe Du Monde by Flickr user Shawnmebo_
 
 The best coffee I had in New Orleans goes to Cafe Du Monde. However, this town needs a lot of help when it comes to espresso.

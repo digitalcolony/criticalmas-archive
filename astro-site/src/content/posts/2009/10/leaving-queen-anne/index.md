@@ -13,7 +13,7 @@ I love my Seattle neighborhood of Queen Anne, but it is time to move soon. I've 
 
 Besides reduced living expenses the biggest upside to moving will be the larger brand new kitchen. I will not miss my little kitchen. I will miss Queen Anne though.
 
-![queen-anne](./img/queen-anne.jpg)
+![queen-anne](/2009/10/leaving-queen-anne/img/queen-anne.jpg)
 
 ---
 

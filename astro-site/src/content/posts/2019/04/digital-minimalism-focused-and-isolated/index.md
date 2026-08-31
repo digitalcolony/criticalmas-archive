@@ -19,7 +19,7 @@ For the most part, I enjoyed the book Digital Minimalism. The arguments on why w
 
 However, the part about connecting with others in this new post-social media world is wishful thinking. For the vast majority of people, it is over. They aren't coming with us. And as tough of a time many of us had in escaping social media, it would be next to impossible for those less motivated to break free. Meanwhile, the engineers continually tweak algorithms to make the pull of these networks more powerful.
 
-![digital minimalism](./img/digital-minimalism.jpg)
+![digital minimalism](/2019/04/digital-minimalism-focused-and-isolated/img/digital-minimalism.jpg)
 
 _Digital Minimalism: Choosing a Focused Life in a Noisy World by Cal Newport_
 

@@ -32,7 +32,7 @@ John in a comment in March pointed out what I discovered.
 
 I haven't dialed in an optimal fasting window. 12-14 hours is likely the best for most days. Doing 16 hours daily was too much for me.
 
-[![hungry](./img/3234684182_5ff37ac65f_z.jpg)](./img/3234684182_5ff37ac65f_z.jpg)
+[![hungry](/2014/08/ending-3030-experiment-casein-n1/img/3234684182_5ff37ac65f_z.jpg)](./img/3234684182_5ff37ac65f_z.jpg)
 
 _["You Wouldn't Like Me When I'm Hungry!"](https://flic.kr/p/5VQAUW) by Dave Groehring_
 

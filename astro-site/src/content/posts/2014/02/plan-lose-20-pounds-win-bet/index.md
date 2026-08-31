@@ -23,7 +23,7 @@ I don't think carbs are bad or inherently fattening. If I happen to reduce carbs
 
 For me, caffeine helps suppress appetite. When I cut back, I get hungry, which is exactly what I don't want to happen now. So this means it is unlikely that I will be reducing caffeine until I hit my weight goal (or lose [the main bet](/2014/02/fat-loss-bet/) ![](https://criticalmas.org/wp-includes/images/smilies/icon_cry.gif)).
 
-![cake_wish-MAS](./img/cake_wish-M1.jpg)
+![cake_wish-MAS](/2014/02/plan-lose-20-pounds-win-bet/img/cake_wish-M1.jpg)
 
 _No cake for me!_
 

@@ -13,9 +13,9 @@ It has been 4 years since I did my 3-part series on the problem with PUFA (Polyu
 
 I trimmed these charts from a larger one by Kevin Bass, which I saw on Twitter this week. They outline the increase in fats and obesity in America since 1970.
 
-![PUFA Calories Obesity](./img/pufa-obesity-A.jpg)
+![PUFA Calories Obesity](/2017/12/pufa-still-common-enemy-nutrition/img/pufa-obesity-A.jpg)
 
-![PUFA Obesity Oils](./img/pufa-obesity-B.jpg)
+![PUFA Obesity Oils](/2017/12/pufa-still-common-enemy-nutrition/img/pufa-obesity-B.jpg)
 
 As I explained in the previous post [Oh Noozs It’s Da EVIL Sugar Lobby!](/2017/12/oh-noozs-da-evil-sugar-lobby/), it isn't the sugar. In another tweet, Bass shows Americans are only consuming **34 more calories of sugar a day** since 1970, whereas we are consuming **229 more calories of added fats and oils**.
 
@@ -23,7 +23,7 @@ The low-carb community loves to repeat the message that when Americans followed 
 
 I see this spike in calories stemming from a shift in where we consume most of our meals. Look at the chart below, which tracks what percentage of the food we eat away from home.
 
-![Food Away From Home](./img/food_away_ers.png)
+![Food Away From Home](/2017/12/pufa-still-common-enemy-nutrition/img/food_away_ers.png)
 
 Doesn't that line look a lot like the climbing obesity rate?
 

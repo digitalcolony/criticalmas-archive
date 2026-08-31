@@ -13,7 +13,7 @@ The gym I go to has a lot of older adults because they participate in the Silver
 
 It is one thing to see some 25-year-old male hopped up on Mountain Dew Extreme performing ballistic movements, but it is almost criminal to see the same nonsense taught to older lifters. The young punk has far greater recoverability potential and can afford to make and recover from those mistakes.
 
-![SilverSneakers](./img/4728517179_386e94dfb7_z.jpg)
+![SilverSneakers](/2014/04/silversneakers-young-trainers-teaching-old-timers-bad-lifting-form/img/4728517179_386e94dfb7_z.jpg)
 
 _[Photo](https://www.flickr.com/photos/9298332@N06/4728517179/) by Diane Cordell_ 
 

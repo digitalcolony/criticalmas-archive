@@ -13,7 +13,7 @@ The higher minimum wage debate is something I have hesitated discussing. The rea
 
 When I was in college I had a minimum wage job delivering pizzas. In addition to the basic wage, drivers got a per delivery fee and we got tips. If you got good shifts, you could take multiple pizzas on a run and make a good hourly wage. It has been a long time since I delivered pizzas but I recall making on average $12 an hour. Had I worked the job full time, that works out to $24,000 a year. To keep this example simple, we won't count fuel and car maintenance costs.
 
-![pizza hut 2500 accident free hours](./img/pizza-hut-25000.jpg)
+![pizza hut 2500 accident free hours](/2014/10/unintended-consequence-15-minimum-wage/img/pizza-hut-25000.jpg)
 
 _The 2,500 accident free hours pin I earned working for Pizza Hut._
 

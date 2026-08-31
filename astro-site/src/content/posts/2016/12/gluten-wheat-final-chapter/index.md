@@ -25,7 +25,7 @@ I needed to know what would happen to me if I had a full on wheat based meal. So
 
 Do I know if I cured myself? Nope. But I like the word. Maybe it opens a dialog? Maybe others that avoided wheat for years to improve their health might rethink their situation? Perhaps it applies to them or maybe it doesn't. That will be for them to decide.
 
-![](./img/4479372_86c30616af_o.jpg)
+![](/2016/12/gluten-wheat-final-chapter/img/4479372_86c30616af_o.jpg)
 
 _[Ramen Noodles](https://flic.kr/p/oXyy) by Taku_
 

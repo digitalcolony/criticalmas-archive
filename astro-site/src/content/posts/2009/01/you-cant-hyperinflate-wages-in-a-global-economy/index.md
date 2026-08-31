@@ -23,7 +23,7 @@ Karl from _Market-Ticke_r wrote up a great blog today on this topic titled _On "
 
 Zimbabwe is currently hyperinflating their currency, but they aren't really an active participant in the global economy. What is their unemployment rate? It was 80% in 2005. If this happened in America, Bernanke would be swinging from his heels like Mussolini.
 
-![Hyperinflation](./img/zw010.jpg "Hyperinflation")
+![Hyperinflation](/2009/01/you-cant-hyperinflate-wages-in-a-global-economy/img/zw010.jpg "Hyperinflation")
 
 The problem in America today is we are plagued with bad debt. Deflation is the way an economy cleanses itself of bad debt. Taking on more debt, whether you are an individual or government, just makes the problem worse later. The sooner bad debt is removed from the system, the sooner the recovery can start.
 

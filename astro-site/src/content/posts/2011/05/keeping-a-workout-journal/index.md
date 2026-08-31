@@ -15,11 +15,11 @@ In the post [High Intensity Training My 6 Month Update](/2011/05/high-intensity-
 
 Back when I had a home gym I did go through a long period where I recorded my workouts. I did find it useful to see the numbers prior to initiating an exercise. Instead of using a pad and pencil, I had a huge whiteboard with markers in my gym.
 
-![gym-whiteboard](./img/gym-whiteboard.jpg)
+![gym-whiteboard](/2011/05/keeping-a-workout-journal/img/gym-whiteboard.jpg)
 
 _My most successful workout journal to date was a huge whiteboard in my old home gym._
 
-![workout-whiteboard](./img/workout-whiteboard.jpg)
+![workout-whiteboard](/2011/05/keeping-a-workout-journal/img/workout-whiteboard.jpg)
 
 _Two workouts from July 2004._
 

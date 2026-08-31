@@ -13,7 +13,7 @@ When my building decided to raise my rent 3.5%, I let them know that they were i
 
 Yesterday they came back to me with a 5% drop from my current rate. Not enough. I gave notice.
 
-![seattle-water](./img/seattle-water.jpg)
+![seattle-water](/2009/04/updating-the-moving-scorecard-again/img/seattle-water.jpg)
 
 Once again I'll be moving. The [Moving Scorecard](/2008/06/moving-scorecard/) will soon reflect 19 addresses in 21 years.
 

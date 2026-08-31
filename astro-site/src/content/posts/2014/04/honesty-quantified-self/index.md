@@ -26,7 +26,7 @@ Nancy talks about how she detoxed from QS to get healthy.
 
 > A lot of the responses are time delayed, they're interdependent, they're non linear.
 
-![Nancy QS](./img/nancy-qs.jpg)
+![Nancy QS](/2014/04/honesty-quantified-self/img/nancy-qs.jpg)
 
 _I took a screenshot from the Nancy's presentation. I love the honesty here._ 
 

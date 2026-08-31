@@ -44,7 +44,7 @@ Marine Potato 20 is a simple story that hides the details that I listed above. I
 
 The Marines are very good at what they do. So is the Potato.
 
-![marine Potato](./img/marine-potato.jpg)
+![marine Potato](/2017/08/marine-potato-20-easy-potato-hack-everyone/img/marine-potato.jpg)
 
 Marine Potato 20 is about eating a single potato at the start of as many meals as possible. It will take the Marine Potato about 20 minutes to weaken the enemy. With the enemy weakened, the Army will need fewer troops (calories) to defeat the enemy (hunger).
 

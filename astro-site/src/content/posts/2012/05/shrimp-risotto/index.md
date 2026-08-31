@@ -21,7 +21,7 @@ My guess is the key to making great risotto is gradually adding the stock to the
 
 The next risotto I make will be loaded with mushrooms.
 
-![Shrimp Risotto](./img/IMG_1750.jpg "Shrimp Risotto")
+![Shrimp Risotto](/2012/05/shrimp-risotto/img/IMG_1750.jpg "Shrimp Risotto")
 
 _Shrimp Risotto_
 

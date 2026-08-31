@@ -13,9 +13,9 @@ They all can't be winners. After successfully reverse engineering Firefly's [Cor
 
 This summer I bought some Alderwood Smoked sea salt. My goal was to make a sauerkraut with a nice smokey flavor. On my first attempt, the conclusion was it needed more smokiness. So for the second batch, instead of using a 50% Redmond and 50% Alderwood sea salt mix, I used 100% smoked alderwood. The result was underwhelming. It had the smokiness, but it didn't taste that good. Not bad. Bland.
 
-![smoked-salt](./img/smoked-salt.jpg)
+![smoked-salt](/2011/10/fermentation-flop-smoked-sauerkraut/img/smoked-salt.jpg)
 
-![smoked-sauerkraut](./img/smoked-sauerkraut.jpg)
+![smoked-sauerkraut](/2011/10/fermentation-flop-smoked-sauerkraut/img/smoked-sauerkraut.jpg)
 
 _Even the darkness from the salt made the sauerkraut visually unappealing._
 

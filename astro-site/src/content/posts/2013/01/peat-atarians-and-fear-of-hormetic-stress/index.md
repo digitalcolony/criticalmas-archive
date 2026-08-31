@@ -78,7 +78,7 @@ What about the muscular stress? The first time I engaged in some of Darden's exe
 
 This post is getting long, so I'll end it here. I do want to say that I like a lot of what the Peat-atarians are doing, but when it comes to stress, I think they are asking the wrong question. To me, the goal shouldn't be to eliminate stress but to train ourselves to become more resilient in the face of stress. I cover my thoughts more in detail in the post [Healthy vs Resilient](/2012/05/healthy-vs-resilient/).
 
-![](./img/fear-paint.jpg)
+![](/2013/01/peat-atarians-and-fear-of-hormetic-stress/img/fear-paint.jpg)
 
 ---
 

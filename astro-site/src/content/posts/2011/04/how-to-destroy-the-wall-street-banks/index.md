@@ -17,7 +17,7 @@ There are over 10,000 banks and credit unions in the USA. Having a majority of t
 
 What did the big Wall Street banks do that was so bad? Much, much too long for a post, but I will recommend watching _The Inside Job_ as a primer. It is an outstanding documentary.
 
-![inside-job](./img/inside-job.jpg)
+![inside-job](/2011/04/how-to-destroy-the-wall-street-banks/img/inside-job.jpg)
 
 Other sources for financial education on the crisis include:
 

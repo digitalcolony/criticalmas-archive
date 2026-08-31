@@ -11,15 +11,15 @@ commentCount: 4
 
 [Espresso Hike #1](/2009/07/the-espresso-hike-1-queen-anne/) was so successful that the Coffee Club of Seattle did a second one last Friday. If you wish to learn more about the background of the _Espresso Hike_, be sure to read [Espresso Hike #1](/2009/07/the-espresso-hike-1-queen-anne/). This hike started at the top of Queen Anne at Kerry Park and then went South to downtown.
 
-![espresso-hike-2](./img/espresso-hike-2.jpg "espresso-hike-2")
+![espresso-hike-2](/2009/09/espresso-hike-2-queen-anne-to-downtown/img/espresso-hike-2.jpg "espresso-hike-2")
 
 We had 12 espresso hikers for our 5-mile journey. The weather was excellent.
 
-![](./img/qa-hike-1.jpg)
+![](/2009/09/espresso-hike-2-queen-anne-to-downtown/img/qa-hike-1.jpg)
 
-![](./img/qa-hike-2.jpg)
+![](/2009/09/espresso-hike-2-queen-anne-to-downtown/img/qa-hike-2.jpg)
 
-![](./img/qa-hike-3.jpg)
+![](/2009/09/espresso-hike-2-queen-anne-to-downtown/img/qa-hike-3.jpg)
 
 Espresso Hike #2 covered 2 places.
 

@@ -21,7 +21,7 @@ Exercise holds benefit outside fat loss. So don't think I'm advising not to exer
 
 In 1989, I was relatively thin. Not as lean as I am now, but close to my ideal weight. I had yet to start strength training and was very much a [Stick Boy](/2008/09/the-stick-boy-explained/). That year I trained for my first marathon. I ran all spring, summer and into the fall. When I wasn't running, I was resting and eating.
 
-![](./img/mas-1992-marathon.jpg "mas-1992-marathon")
+![](/2012/04/how-exercise-indirectly-kept-me-fatter/img/mas-1992-marathon.jpg "mas-1992-marathon")
 
 _Columbus Marathon 1992 - I'm the [Stick Boy](/2008/09/the-stick-boy-explained/) in the green shorts._
 
@@ -39,7 +39,7 @@ I eventually experienced too much pain running and switched my exercise over to 
 
 There was only one problem. It was next to impossible to go more than 2 months without some injury. My joints ached, my back hurt, my neck was stiff, I tore a finger muscle and even had wrist surgery. **During my recovery periods, I could never down regulate my appetite.** Even though my muscles were resting in a recliner, my stomach still thought I was pumping iron. I always gained fat during my recovery periods.
 
-![](./img/mas-wrist.jpg "mas-wrist")
+![](/2012/04/how-exercise-indirectly-kept-me-fatter/img/mas-wrist.jpg "mas-wrist")
 
 _Exercising beyond my ability to recover resulted in a wrist surgery. During recovery, my appetite did not return to baseline._
 

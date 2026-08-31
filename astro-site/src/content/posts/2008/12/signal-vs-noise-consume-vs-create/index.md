@@ -23,7 +23,7 @@ Noise is the empty carbohydrates of information. Not fulfilling, yet often quite
 
 Now that Signal to Noise has been covered, I'd like to add a new axis. I'm going to call it _Consume vs Create_. In our relationship with information, we are either consuming (pulling) data or creating (pushing) data. We may be consuming Signal or consuming Noise. We may be creating Signal or creating Noise. See my lovely chart below.
 
-![consume-create](./img/consume-create.jpg)
+![consume-create](/2008/12/signal-vs-noise-consume-vs-create/img/consume-create.jpg)
 
 Although it is impossible to avoid Noise, my goal is to come up with a strategy to minimize Noise exposure. I quit watching CNBC over a year ago once I realized the information was really Noise being peddled by a network that makes its money from advertisers that don't share my investment philosophy. My investment research went to books, well written newsletters and financial blogs. In that scenario, I traded Noise for Signal and I became a better investor.
 

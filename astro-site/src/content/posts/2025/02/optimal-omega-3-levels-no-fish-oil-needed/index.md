@@ -5,7 +5,7 @@ modifiedDate: 2025-02-03T01:42:51.000Z
 author: "MAS"
 categories: ["Nutrition"]
 tags: ["carbs", "paleo", "pufa"]
-description: "Time to take a victory lap. I had my first Omega-3 test done and the numbers look good. ![](./img/omega3.jpg)![](./img/ratio.jpg)![](./img/transfat.jpg) I gave my numbers to ChatGPT and asked it to..."
+description: "Time to take a victory lap. I had my first Omega-3 test done and the numbers look good. ![](/2025/02/optimal-omega-3-levels-no-fish-oil-needed/img/omega3.jpg)![](/2025/02/optimal-omega-3-levels-no-fish-oil-needed/img/ratio.jpg)![](/2025/02/optimal-omega-3-levels-no-fish-oil-needed/img/transfat.jpg) I gave my numbers to ChatGPT and asked it to..."
 commentCount: 11
 ---
 
@@ -13,7 +13,7 @@ Time to take a victory lap.
 
 I had my first Omega-3 test done and the numbers look good.
 
-![](./img/omega3.jpg)![](./img/ratio.jpg)![](./img/transfat.jpg)
+![](/2025/02/optimal-omega-3-levels-no-fish-oil-needed/img/omega3.jpg)![](/2025/02/optimal-omega-3-levels-no-fish-oil-needed/img/ratio.jpg)![](/2025/02/optimal-omega-3-levels-no-fish-oil-needed/img/transfat.jpg)
 
 I gave my numbers to ChatGPT and asked it to compare them to the American average.
 

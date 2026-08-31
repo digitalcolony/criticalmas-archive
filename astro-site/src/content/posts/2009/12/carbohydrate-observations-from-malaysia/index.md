@@ -15,7 +15,7 @@ Malaysia has a problem that its neighbor Thailand doesn't: **obesity**. Wherever
 
 Despite having a similar cuisine, Malaysian dishes are served with mounds of rice or noodles. Much more than dishes in Thailand. In addition, the meat portion of the dishes in Malaysia are smaller. The result is a typical dish in Malaysia has a higher carbohydrate content than Thailand.
 
-![kuala-lumpur-carbs](./img/kuala-lumpur-carbs.jpg)
+![kuala-lumpur-carbs](/2009/12/carbohydrate-observations-from-malaysia/img/kuala-lumpur-carbs.jpg)
 
 My obesity observation is known by the Malaysian government. A quick search will pull up several websites dedicated to educating the citizens on the growing obesity problem. Of course, the solution being peddled is to eat less and exercise more. Neither work for long-term fat loss. The problem is excessive carbohydrates, not excessive calories.
 

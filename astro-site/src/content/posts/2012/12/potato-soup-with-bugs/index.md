@@ -20,8 +20,8 @@ I did make a few changes to the recipe.
 
 I used [silkworm pupae](/2012/09/eating-silkworm-pupae-aka-ground-cucumber/), which I posted about earlier this year. Instead of frying or roasting the insects, I used a food dehydrator, which was an idea I got from commenter Brady. After two hours in the food dehydrator, these little fellows are perfect to add to soups or salads
 
-![dry-bugs](./img/dry-bugs.jpg)
+![dry-bugs](/2012/12/potato-soup-with-bugs/img/dry-bugs.jpg)
 
-![bug-soup](./img/bug-soup.jpg)
+![bug-soup](/2012/12/potato-soup-with-bugs/img/bug-soup.jpg)
 
 The soup was outstanding and the bugs had a light nutty flavor, which complemented the soup. You are most likely to find Silkworm Pupae in a Vietnamese grocery store, such as Viet Wah in the frozen seafood section. You won't find them at Whole Fools. :)

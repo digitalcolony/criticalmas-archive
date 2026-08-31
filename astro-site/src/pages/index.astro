@@ -22,8 +22,8 @@ const topCategories = Array.from(categoriesMap.entries())
 	.slice(0, 10);
 
 function getPostUrl(post: any) {
-	// post.slug already includes year/month/slug from the file path
-	return `/${post.slug}/`;
+	// post.id already includes year/month/slug from the file path
+	return `/${post.id}/`;
 }
 ---
 
@@ -37,7 +37,7 @@ function getPostUrl(post: any) {
 						recentPosts.map((post) => (
 							<PostCard
 								title={post.data.title}
-								slug={post.slug}
+								slug={post.id}
 								pubDate={post.data.pubDate}
 								url={getPostUrl(post)}
 								categories={post.data.categories}

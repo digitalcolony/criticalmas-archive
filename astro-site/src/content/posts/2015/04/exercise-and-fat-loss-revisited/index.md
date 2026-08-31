@@ -27,7 +27,7 @@ I wonder if my body temperature was lower. Almost wish I could go back in time a
 
 Many top fitness professionals disagree with the premise that exercising more can lead to weight gain. I think it all comes down to recoverability. If you can increase activity and calories and still recover fully in time for the next exercise sessions, then all is well. However, if you can't, exercising more is likely to create problems down the road.
 
-![15k-run](./img/15k-run.jpg)
+![15k-run](/2015/04/exercise-and-fat-loss-revisited/img/15k-run.jpg)
 
 _I believe that higher volumes of exercise increased my appetite and reduced metabolism, which lead to weight gain later._
 

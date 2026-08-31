@@ -62,7 +62,7 @@ So I don't know what I should call my version of HIT. I still believe in the fol
 7.  Body By Science (machines) and [Hillfit](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/) (bodyweight) are the best HIT books.
 8.  Arthur Jones is a genius.
 
-![body by science](./img/51DXynBp-CL.jpg)
+![body by science](/2015/05/why-isnt-high-intensity-training-more-popular-part-2/img/51DXynBp-CL.jpg)
 
 My version of HIT solves some of the issues others were having. It isn't too efficient. Because I don't go to failure all the time, I am not in deep soreness. I can work out more frequently and longer. I vary my rep speed and number of sets for novelty. Yet I do not subject myself to injury risk via poor exercise selection. In other words, I still don't squat or bench. Best of both worlds.
 

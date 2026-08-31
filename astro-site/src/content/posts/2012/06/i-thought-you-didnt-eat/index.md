@@ -17,7 +17,7 @@ Some people are desperate to feel better about themselves and one way they do it
 
 Are others experiencing a similar situation or if this is just part of the Seattle's passive aggressive nature?
 
-![mas-cake](./img/mas-cake.jpg)
+![mas-cake](/2012/06/i-thought-you-didnt-eat/img/mas-cake.jpg)
 
 _Young MAS enjoying a meal._
 

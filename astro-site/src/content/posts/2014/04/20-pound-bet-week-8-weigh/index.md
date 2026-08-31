@@ -21,7 +21,7 @@ I said I would return to food journaling if my weight loss stalled. It hasn't st
 
 My goal will be to average an eating window of 10 hours and then adjust from there. That works out to a fasting window of 14 hours. An example would be 11:30 AM - 9:30 PM. Please don't leave a comment saying how you need to go hours before your last meal and sleep. That Oprah nonsense has been disproven countless times. The best time for your last meal is whatever facilitates deep sleep. For my ectomorphic caffeine abusing body eating right before bedtime keeps me asleep longer.
 
-![pho](./img/pho.jpg)
+![pho](/2014/04/20-pound-bet-week-8-weigh/img/pho.jpg)
 
 _I love my pho. I eat pho at least once a week. Often homemade._ 
 

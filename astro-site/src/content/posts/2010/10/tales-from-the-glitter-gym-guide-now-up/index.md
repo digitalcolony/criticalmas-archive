@@ -15,4 +15,4 @@ Even though these posts get very few comments, people seem to love _Tales From t
 
 Enjoy!
 
-![weighted pull up](./img/stick-pull-up350.jpg "stick-pull-up350")
+![weighted pull up](/2010/10/tales-from-the-glitter-gym-guide-now-up/img/stick-pull-up350.jpg "stick-pull-up350")

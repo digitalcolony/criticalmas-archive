@@ -43,7 +43,7 @@ Could the [back pain I cured via Dr. Sarno](/2011/02/the-psychology-of-back-pain
 
 I have not tried #1 or #2 yet. As for #3, I do need to reupholster my computer chair, but I have no clue how to do it. Maybe I'll just buy a new chair. Seems wasteful though. I liked the Theracane but found it too addicting and it didn't have any long-term benefits. I also went to a store and tried all the different Yoga needle mats and pillows. Couldn't feel anything, so I didn't buy one.
 
-![](./img/this-way-that-way.jpg) corner of this way street and that way street signs in Texas small town
+![](/2013/02/overview-of-the-ideas-to-fix-my-neck-and-shoulder/img/this-way-that-way.jpg) corner of this way street and that way street signs in Texas small town
 
 _[Photo](http://www.flickr.com/photos/lori_greig/5331407245/in/photostream/) by Lori Greig_
 

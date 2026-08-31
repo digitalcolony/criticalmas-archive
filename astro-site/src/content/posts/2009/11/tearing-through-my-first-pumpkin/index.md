@@ -22,7 +22,7 @@ Dish #2 was also a success. Not as thick as canned pumpkin. It is probably more 
 
 Dish #3 tastes great, but I may have put too much butter on them. _Is too much butter possible?_ I added some Cajun spices.
 
-![cajun-pumpkin-seeds-2](./img/cajun-pumpkin-seeds-2.jpg)
+![cajun-pumpkin-seeds-2](/2009/11/tearing-through-my-first-pumpkin/img/cajun-pumpkin-seeds-2.jpg)
 
 Dish #4 is tomorrow. I have no doubt it will taste great, as I've cooked squash in many past curries.
 

@@ -4,13 +4,13 @@ pubDate: 2010-06-02T07:51:49.000Z
 author: "MAS"
 categories: ["Fitness"]
 tags: ["hike", "seattle", "urban"]
-description: "Last week I did an Urban Hike between the 520 and 99. Today I went a little further. ![](./img/urban-hike-june1.png) --- Comments Ed June 2 at 2010 at 4:37 AM Looks like a fairly long hike. Were..."
+description: "Last week I did an Urban Hike between the 520 and 99. Today I went a little further. ![](/2010/06/urban-hike-beyond-the-bridges-edition/img/urban-hike-june1.png) --- Comments Ed June 2 at 2010 at 4:37 AM Looks like a fairly long hike. Were..."
 commentCount: 2
 ---
 
 Last week I did an Urban Hike [between](/2010/05/urban-hike-between-the-bridges-edition/) the 520 and 99. Today I went a [little further]( http://www.gmap-pedometer.com/?r=3775340).
 
-[![](./img/urban-hike-june1.png "urban-hike-june1")](./img/urban-hike-june1.png)
+[![](/2010/06/urban-hike-beyond-the-bridges-edition/img/urban-hike-june1.png "urban-hike-june1")](./img/urban-hike-june1.png)
 
 ---
 

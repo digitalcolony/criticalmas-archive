@@ -11,7 +11,7 @@ commentCount: 16
 
 About 10 years ago, I came up with a phrase to best describe the choice ectomorphs must make when pursing their fitness goals. Before diving into the topic, review the image below to show the different somatypes.
 
-![somatypes](./img/somatypes.jpg)
+![somatypes](/2009/08/the-ectomorphs-dilemma/img/somatypes.jpg)
 
 _Image from How to Eat Right For Your Body Type by Dr. John Berardi. Typically Ectomorphs are taller and Endomorphs are shorter. Other than that this image is a good representation of somatypes._
 
@@ -21,11 +21,11 @@ The Ectomorphs Dilemma: Do you want to look good with your shirt on or with your
 
 The quest for muscle on the ectomorph frame will require lots of calories. Not all will be directed at muscle growth. Some will end up as fat. The upside is your chest to waist ratio will improve. The downside is your waist size will increase. In other words, you'll look good in a shirt, but not as good at the beach. Or you could choose the 6-pack abs and end up with a physique that looks great on the beach, but [_stick boy_](/2008/09/the-stick-boy-explained/) in a shirt. **This is what I call The Ectomorphs Dilemma.**
 
-![bruce-lee-bw](./img/bruce-lee-bw.jpg "bruce-lee-bw")
+![bruce-lee-bw](/2009/08/the-ectomorphs-dilemma/img/bruce-lee-bw.jpg "bruce-lee-bw")
 
 _Bruce Lee is an Ectomorph that pursued leanness._
 
-![bruce-lee-suit](./img/bruce-lee-suit.jpg "bruce-lee-suit")
+![bruce-lee-suit](/2009/08/the-ectomorphs-dilemma/img/bruce-lee-suit.jpg "bruce-lee-suit")
 
 _A shirt and jacket completely hides the strength of Bruce Lee._
 

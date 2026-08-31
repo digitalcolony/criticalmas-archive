@@ -15,7 +15,7 @@ I've not only lost interest in most of the topics I've covered in the past decad
 
 I will likely start some new project. It may or may not be a blog. I might use my real name or it might be anonymous. Maybe I just need a long break. I didn't blog at all through most of 2004 and 2005, but then came back.
 
-![goodbye](./img/goodbye.jpg)
+![goodbye](/2015/12/goodbye-for-now/img/goodbye.jpg)
 
 _[Photo](https://flic.kr/p/9UeF3e) by PROwoodleywonderworks_
 

@@ -31,7 +31,7 @@ Avoid sunscreen. Gradually build up exposure to the sun to prevent burning. Don'
 
 Always wear sunscreen to protect yourself against the harmful effects of sun exposure, which can be aging of the skin or even skin cancer.
 
-![girl catches sun](./img/sunshine-olivier-fahrni-337130.jpg)
+![girl catches sun](/2017/10/paleo-wrong-sunscreen/img/sunshine-olivier-fahrni-337130.jpg)
 
 _Photo by Olivier Fahrni_
 

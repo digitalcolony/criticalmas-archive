@@ -13,7 +13,7 @@ I just finished reading a book that provides a new framework for understanding m
 
 Part of the problem I discovered when trying to research headache causes is that there is a web page out there for every suspect. You can go mad trying to figure out and weigh true risk factors from the extremely rare conditions. _Heal Your Headache_ has a clear message about the roots of headaches and what steps we need to take to fix the problem.
 
-![Heal Your Headache](./img/heal-your-headache-123.jpg "Heal Your Headache")
+![Heal Your Headache](/2012/06/heal-your-headache-the-1-2-3-program-for-taking-charge-of-your-pain/img/heal-your-headache-123.jpg "Heal Your Headache")
 
 _Heal Your Headache: The 1-2-3 Program for Taking Charge of Your Pain by David Buchholz, M.D._
 

@@ -20,7 +20,7 @@ Believe it or not, I haven't been to every coffee shop in Seattle. Nor do I plan
 
 How about you? Do you have any rules or red flags when it comes to trying out a new coffee shop?
 
-![](./img/bad-coffee-roaster.jpg)
+![](/2010/09/reasons-i-havent-been-to-your-coffee-shop/img/bad-coffee-roaster.jpg)
 
 _This place violates rules #1 and #3 and thus I haven't been there._
 

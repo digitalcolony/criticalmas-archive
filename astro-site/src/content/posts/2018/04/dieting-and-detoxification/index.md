@@ -55,7 +55,7 @@ Yes, I am hungry, but the primary goal of an FMD is not toxin removal, but autop
 
 This diet is not optimal for toxin removal, but it is somewhat supportive.
 
-![fasting diet](./img/fasting-diet.jpg)
+![fasting diet](/2018/04/dieting-and-detoxification/img/fasting-diet.jpg)
 
 _My diet for 5 days._
 

@@ -82,7 +82,7 @@ Recently, I introduced [Potatoes and Protein – Two Attacks on Hunger](/2018/1
 
 These are my tips. If you have one you'd like to share, leave a comment below.
 
-![potatoes protein](./img/p-n-p.jpg)
+![potatoes protein](/2019/01/defending-fat-loss/img/p-n-p.jpg)
 
 _When a diet starts, either button is fine. But as you get leaner, hit the protein button more often. Both work!_
 

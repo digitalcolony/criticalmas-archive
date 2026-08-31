@@ -11,4 +11,4 @@ commentCount: 0
 
 With a [slower walk and much flatter shoes](/2009/08/learning-how-to-walk-again/), I covered 12.7 miles today. Espresso stops included Trabant, Herkimer and Neptune.
 
-![urban-hike-aug2009](./img/urban-hike-aug2009.jpg "urban-hike-aug2009")
+![urban-hike-aug2009](/2009/08/urban-hike-flat-shoe-edition/img/urban-hike-aug2009.jpg "urban-hike-aug2009")

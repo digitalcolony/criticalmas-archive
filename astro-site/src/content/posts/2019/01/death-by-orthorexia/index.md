@@ -51,7 +51,7 @@ Viewing calories as nutrients in themselves is something I learned on this blog 
 
 Finally, question your decisions from time to time. Challenge your assumptions. Try not to fall into [false health narratives](/2019/01/false-health-narratives/). And if you do, it is OK to admit you were mistaken and change direction. Had Erica paused along the way and reexamined her decisions, I doubt her health would have declined so rapidly and she would most likely still be with us.
 
-![](./img/hiroyuki-igarashi-leaf.jpg)
+![](/2019/01/death-by-orthorexia/img/hiroyuki-igarashi-leaf.jpg)
 
 _Photo by [Hiroyuki Igarashi](https://unsplash.com/@viivle)_
 

@@ -19,6 +19,6 @@ For those that haven't subscribed here is a direct link:
 
 The signup form is in the right column. If you have any feedback or suggestions for Newsletter #2, please leave a comment.
 
-![my new pad](./img/rainbow2-2014Sep18-e1411489616116.jpg)
+![my new pad](/2014/09/newsletter-1/img/rainbow2-2014Sep18-e1411489616116.jpg)
 
 _The new CriticalMAS World HQ_

@@ -30,7 +30,7 @@ If you don't have an hour, I've taken some notes. Afterward, I'll give a few tho
 -   This effect is called Constrained Total Energy Expenditure. The body wants to maximize the use of resources, but not go over. This is likely an evolutionary adaptation for survival.
 
 
-### ![](./img/hunters.jpg)
+### ![](/2017/12/constrained-total-energy-expenditure-metabolic-adaptation/img/hunters.jpg)
 
 
 _Photo by [Surya Prakosa](https://unsplash.com/@prakosasurya)_

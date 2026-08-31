@@ -51,7 +51,7 @@ But if there is one thing I've learned in the last few years about nutrition it 
 
 Joey Lott wrote another book last year on improving dental health while eating sugar.
 
-![healed-teeth-with-sugar](./img/healed-teeth-with-sugar.jpg) _How I Healed My Teeth Eating Sugar: A Guide to Improving Dental Health Naturally by Joey Lott_
+![healed-teeth-with-sugar](/2015/04/did-i-heal-my-cavities-with-ice-cream/img/healed-teeth-with-sugar.jpg) _How I Healed My Teeth Eating Sugar: A Guide to Improving Dental Health Naturally by Joey Lott_
 
 This book shares a lot in common with the nutritional advice I saw in the presentation by Ramiel Nagel. There is some deviation on sugar and supplement advice.
 

@@ -25,7 +25,7 @@ What about the practice of [fasting](/tag/intermittent-fasting/) to toughen one 
 
 Compare that with the parents of today. Below is a photo of moms who showed up outside a California school to hand candy to their children at recess after California banned selling junk food in school vending machines.
 
-![](./img/candy-parents.jpg "candy-parents")
+![](/2011/01/nutrition-and-physical-degeneration/img/candy-parents.jpg "candy-parents")
 
 _From the film [Killer At Large](/2009/06/killer-at-large-obesity-documentary-without-focus/)._
 

@@ -45,7 +45,7 @@ I'll let other bloggers tackle the topic of the day. I'd like my posts to stay r
 
 I'd like to meet those 4 criteria as much as possible before hitting publish. And if that means publishing fewer posts, that is OK. What are your thoughts on what makes for a good blog post?
 
-![blog](./img/3485417819_fd42af570e_z.jpg)
+![blog](/2015/02/my-definition-of-a-good-blog/img/3485417819_fd42af570e_z.jpg)
 
 _[Photo](https://flic.kr/p/6iZFhF) by Dimitar Nikolov_
 

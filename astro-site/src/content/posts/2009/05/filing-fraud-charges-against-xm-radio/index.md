@@ -15,7 +15,7 @@ Then another charge was placed on the card. I called XM Radio again. After a lot
 
 After 5 days of not receiving that call, I called Chase. **XM Radio lied to me twice. The fraudulent charge was not removed.** At this point I knew XM Radio would continue to make fraudulent charges against my credit card, so I had to cancel my card and get another one issued with a new number.
 
-![credit-card-fraud](./img/credit-card-fraud.jpg)
+![credit-card-fraud](/2009/05/filing-fraud-charges-against-xm-radio/img/credit-card-fraud.jpg)
 
 _Photo by Simon Cunningham_
 

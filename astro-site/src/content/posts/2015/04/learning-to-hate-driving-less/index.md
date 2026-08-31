@@ -13,7 +13,7 @@ When people ask me why I like Seattle so much more than California my first resp
 
 As much as I dislike driving something changed this year. I installed the application [Waze](https://www.waze.com/) three months ago. It is a traffic application that merges your data with the data of other drivers and helps you find the fastest path in real time. It alerts you to accidents and even police sightings.
 
-![waze](./img/waze.jpg)
+![waze](/2015/04/learning-to-hate-driving-less/img/waze.jpg)
 
 _[Photo](https://flic.kr/p/qfZMmP) by Travis Wise_
 

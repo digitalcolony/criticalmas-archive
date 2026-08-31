@@ -12,7 +12,7 @@ Twenty years ago, I was living in a gated community near San Diego. One of the h
 
 He made a comment about my weightlifting. I had converted my single-car garage into a free weight gym and a few times a week, one could hear [Marilyn Manson](/2008/04/mascene-20-the-marilyn-manson-workout-mix/) playing over the sound of weights clanging. Mike wasn't shaped like the other homeowners. He was stocky and although overweight looked to have some muscle.
 
-![](./img/16201131265_3c7633e154_c.jpg)
+![](/2022/12/body-weight-wisdom-i-heard-20-years-ago/img/16201131265_3c7633e154_c.jpg)
 
 _Part of my home gym._
 

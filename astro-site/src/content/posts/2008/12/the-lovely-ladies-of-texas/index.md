@@ -17,7 +17,7 @@ Oklahoma City, Calgary, Denver and then Sao Paulo, Brazil. Brazil! Immediately I
 
 My head spun around to the seating area for that flight. Unlike the seating area for the Oklahoma City flight, which looked like it could have been a team of world class belly floppers, this area was _The Beautiful People_. Waiting to escape Texas, I saw those 3 ladies, plus a few more. Mystery solved.
 
-![](./img/adriana-lima.jpeg "adriana-lima")
+![](/2008/12/the-lovely-ladies-of-texas/img/adriana-lima.jpeg "adriana-lima")
 
 _Brazilian model Adriana Lima. No one going to Oklahoma City (or Seattle) looked this good._
 

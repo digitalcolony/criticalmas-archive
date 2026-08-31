@@ -29,7 +29,7 @@ Going back to my seasonal experiment one can see that the colder months despite 
 
 Independently and not done "excessively", each of these stressors could have a benefit. The term "excessively" will vary from person to person based on a number of factors. A young male endomorph with a healthy thyroid would likely handle these stressors much better than a pregnant woman. I never pushed the low carb too far, but I did go too far with fasting and cold exposure.
 
-![queen-anne-snow](./img/queen-anne-snow.jpg)
+![queen-anne-snow](/2014/02/rejecting-seasonal-approach-nutrition/img/queen-anne-snow.jpg)
 
 
 ### To Be Hormetic

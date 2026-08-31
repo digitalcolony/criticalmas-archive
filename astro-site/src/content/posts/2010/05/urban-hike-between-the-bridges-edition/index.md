@@ -13,4 +13,4 @@ Since moving to Northgate it has been a while since I've done a Seattle urban hi
 
 Total distance covered: [14.05 miles](http://www.gmap-pedometer.com/?r=3753815).
 
-[![](./img/urban-hike-madrona.png "urban-hike-madrona")](./img/urban-hike-madrona.png)
+[![](/2010/05/urban-hike-between-the-bridges-edition/img/urban-hike-madrona.png "urban-hike-madrona")](./img/urban-hike-madrona.png)

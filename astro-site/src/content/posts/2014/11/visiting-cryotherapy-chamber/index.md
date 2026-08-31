@@ -25,7 +25,7 @@ About two weeks ago I listened to [Tim Ferriss interview Tony Robbins](http://
 
 I knew that athletes, especially older ones, were using cold to accelerate recovery, but I was unaware that units were available to the public.
 
-![daniel craig cryotherapy](./img/daniel-craig-cryotherapy.jpg)
+![daniel craig cryotherapy](/2014/11/visiting-cryotherapy-chamber/img/daniel-craig-cryotherapy.jpg)
 
 _40-something-year-old actor Daniel Craig used cryotherapy to get in shape to play James Bond._
 

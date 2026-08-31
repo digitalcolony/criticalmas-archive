@@ -11,7 +11,7 @@ commentCount: 1
 
 Recently, a friend of mine told me that I must be bored. He couldn't wrap his head around the idea of not going into the office everyday. In the absence of a boss dictating requirements does boredom eventually set in? Not for me.
 
-![vancouver-aquarium](./img/vancouver-aquarium.jpg)
+![vancouver-aquarium](/2008/12/am-i-bored/img/vancouver-aquarium.jpg)
 
 _This summer I drove up to Vancouver, visited friends and went to an aquarium. Didn't need to request time off to the boss. I just went._
 

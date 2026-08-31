@@ -32,7 +32,7 @@ I didn't want to have to do this, but I've decided to stop eating cheese. It is 
 
 This will be the first time ever that I won't be consuming nuts or cheese.
 
-![cheese](./img/3701088856_81164d0933_z.jpg)
+![cheese](/2014/05/20-pound-bet-week-10-weigh/img/3701088856_81164d0933_z.jpg)
 
 _[Photo](https://www.flickr.com/photos/jdhancock/3701088856/) by JD Hancock._
 

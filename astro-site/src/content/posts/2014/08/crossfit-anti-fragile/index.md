@@ -21,7 +21,7 @@ To construct an exercise plan that is Antifragile, one should solve for safety f
 
 I believe you can construct an exercise plan that is safe, effective, and antifragile with High-Intensity Training (HIT). The Big 5 Workout as described in _Body By Science_ has a machine-based plan and [Hillfit 2.0](/2013/07/hillfit-2-0-a-zero-budget-approach-to-high-intensity-training/) has a bodyweight approach. Both are designed for safety first. The skill needed to perform each movement is extremely low. By slowing down the movement and removing momentum, you not only end up using less weight, but you aren't powering through weak points in the repetition. The progression path of increasing weight or time under load on an exercise that allows one to go to failure is safe by design as long as it is performed slowly. That makes HIT Antifragile.
 
-![crossfit](./img/8206430193_51bec8f3fd_z.jpg)
+![crossfit](/2014/08/crossfit-anti-fragile/img/8206430193_51bec8f3fd_z.jpg)
 
 _[Photo](https://flic.kr/p/dvb6MK) by crossfitpaleodietfitnessclasses. A static hold or slow press with lighter dumbbells would not only be safer but just as effective for building shoulder strength._
 

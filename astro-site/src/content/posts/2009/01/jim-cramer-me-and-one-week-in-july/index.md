@@ -16,7 +16,7 @@ On July 30th, CNBC's Jim Cramer told his viewers: **[Yes, The Market Has Bottome
 
 Cramer went on to recommend buying Lehman Brothers, Citigroup and Wachovia.
 
-![cramer-head](./img/cramer-head.jpg "cramer-head")
+![cramer-head](/2009/01/jim-cramer-me-and-one-week-in-july/img/cramer-head.jpg "cramer-head")
 
 A week earlier on July 24th, I said **[Hope Your 401K is in Fixed Income](/2008/07/hope-your-401k-is-in-fixed-income/)**.
 
