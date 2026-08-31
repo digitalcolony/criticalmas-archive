@@ -35,10 +35,6 @@ Sometimes the animal option is the most healthy choice when at restaurants or tr
 
 Those are my views now in March 2020. Perhaps in a year or two, I'll revisit this post with a more updated opinion.
 
-![beans](/2020/03/my-current-thoughts-on-going-100-vegan-%f0%9f%8c%b1/img/milada-vigerova-beans.jpg)
-
-_Photo by Milada Vigerova_
-
 ---
 
 ## Comments
