@@ -4,10 +4,16 @@ import "../styles/global.css";
 interface Props {
 	title: string;
 	description?: string;
+	pagefindMode?: "body" | "ignore";
 }
 
-const { title, description = "An archived blog by MAS (2005-2025)" } = Astro.props;
+const {
+	title,
+	description = "An archived blog by MAS (2005-2025)",
+	pagefindMode = "ignore",
+} = Astro.props;
 const fullTitle = title === "Critical MAS" ? title : `${title} | Critical MAS`;
+const pagefindCacheBuster = new Date().toISOString().replace(/[-:]/g, "").slice(0, 15);
 ---
 
 <!doctype html>
@@ -22,18 +28,23 @@ const fullTitle = title === "Critical MAS" ? title : `${title} | Critical MAS`;
 
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<link rel="sitemap" href="/sitemap-index.xml" />
+
+		<!-- Pagefind Component UI -->
+		<link rel="stylesheet" href={`/pagefind/pagefind-component-ui.css?v=${pagefindCacheBuster}`} />
+		<script src={`/pagefind/pagefind-component-ui.js?v=${pagefindCacheBuster}`} type="module"
+		></script>
 	</head>
 	<body class="min-h-screen flex flex-col">
-		<header class="border-b-2 border-gray-200 bg-white">
+		<header class="border-b-2 border-gray-200 bg-white" data-pagefind-ignore>
 			<div class="max-w-6xl mx-auto px-4 py-6">
-				<div class="flex items-center justify-between">
+				<div class="flex items-center justify-between gap-4">
 					<div>
 						<a href="/" class="no-underline">
-							<h1 class="text-3xl font-bold text-gray-800 mb-1">Critical MAS</h1>
+							<div class="text-3xl font-bold text-gray-800 mb-1">Critical MAS</div>
 							<p class="text-sm text-gray-600">An archived blog by MAS (2005-2025)</p>
 						</a>
 					</div>
-					<nav class="flex gap-6">
+					<nav class="flex gap-6 items-center flex-wrap justify-end">
 						<a href="/" class="text-gray-700 hover:text-orange-600 no-underline font-sans">Home</a>
 						<a href="/archive" class="text-gray-700 hover:text-orange-600 no-underline font-sans"
 							>Archive</a
@@ -41,12 +52,31 @@ const fullTitle = title === "Critical MAS" ? title : `${title} | Critical MAS`;
 						<a href="/about" class="text-gray-700 hover:text-orange-600 no-underline font-sans"
 							>About</a
 						>
+						<div class="search-widget" aria-label="Article search">
+							<pagefind-modal-trigger
+								class="search-trigger"
+								placeholder="Search archive"
+								hide-shortcut="false"
+								shortcut="mod+k"
+							>
+								Search
+							</pagefind-modal-trigger>
+							<pagefind-modal class="search-modal">
+								<pagefind-modal-header>
+									<pagefind-input debounce="400" placeholder="Search archive"></pagefind-input>
+								</pagefind-modal-header>
+								<pagefind-modal-body>
+									<pagefind-summary default-message="Type at least 3 characters"></pagefind-summary>
+									<pagefind-results></pagefind-results>
+								</pagefind-modal-body>
+							</pagefind-modal>
+						</div>
 					</nav>
 				</div>
 			</div>
 		</header>
 
-		<main class="flex-1">
+		<main class="flex-1" data-pagefind-body={pagefindMode === "body" ? "true" : undefined}>
 			<slot />
 		</main>
 
@@ -64,5 +94,30 @@ const fullTitle = title === "Critical MAS" ? title : `${title} | Critical MAS`;
 				</div>
 			</div>
 		</footer>
+
+		<script type="module">
+			const pagefindInput = document.querySelector("pagefind-input");
+			const nativeInput = pagefindInput?.shadowRoot?.querySelector("input");
+
+			if (pagefindInput && nativeInput) {
+				nativeInput.addEventListener(
+					"input",
+					(event) => {
+						const term = (event.target.value || "").trim();
+						if (term.length < 3) {
+							event.stopImmediatePropagation();
+							event.target.value = "";
+
+							const manager = window.PagefindComponents?.getInstanceManager?.();
+							const instance = manager?.getInstance("default");
+							if (instance) {
+								instance.triggerSearch("");
+							}
+						}
+					},
+					true,
+				);
+			}
+		</script>
 	</body>
 </html>

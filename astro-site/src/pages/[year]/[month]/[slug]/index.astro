@@ -54,6 +54,9 @@ const processor = unified()
 
 const htmlContent = await processor.process(post.body);
 const html = String(htmlContent);
+const htmlWithoutComments = html.includes("Comments")
+	? html.replace(/(<h2[^>]*>\s*Comments\s*<\/h2>[\s\S]*$)/i, "<div data-pagefind-ignore>$1</div>")
+	: html;
 
 const formattedDate = post.data.pubDate.toLocaleDateString("en-US", {
 	year: "numeric",
@@ -75,11 +78,13 @@ function getPostUrl(p: CollectionEntry<"posts">) {
 }
 ---
 
-<BaseLayout title={post.data.title} description={post.data.description}>
+<BaseLayout title={post.data.title} description={post.data.description} pagefindMode="body">
 	<article class="max-w-3xl mx-auto px-4 py-12">
 		<!-- Post header -->
 		<header class="mb-8">
-			<h1 class="text-4xl font-bold mb-4 text-gray-800">{post.data.title}</h1>
+			<h1 class="text-4xl font-bold mb-4 text-gray-800" data-pagefind-meta="title">
+				{post.data.title}
+			</h1>
 
 			<div class="flex flex-wrap items-center gap-4 text-sm text-gray-600 mb-4">
 				<time datetime={post.data.pubDate.toISOString()}>{formattedDate}</time>
@@ -115,7 +120,7 @@ function getPostUrl(p: CollectionEntry<"posts">) {
 		</header>
 
 		<!-- Post content -->
-		<div class="post-content" set:html={html} />
+		<div class="post-content" set:html={htmlWithoutComments} />
 
 		<!-- Post footer -->
 		<footer class="mt-12 pt-8 border-t border-gray-200">

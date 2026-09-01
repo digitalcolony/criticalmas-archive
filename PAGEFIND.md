@@ -12,6 +12,8 @@ The implementation uses Pagefind, a static-site search engine designed for SSGs 
 
 - Provide article search across the static archive
 - Keep search lightweight and static-site friendly
+- Index only the actual article content, not the site chrome or comment threads
+- Use the post title as the search result title instead of the blog/site title
 - Match the Pagefind recommended modal/search overlay interaction pattern
 - Avoid layout shift and preserve the page structure
 - Work across desktop and mobile layouts
@@ -24,10 +26,14 @@ The implementation uses Pagefind, a static-site search engine designed for SSGs 
 
 - Search should work on all published pages in the generated site
 - Search should find article content, titles, and section text
+- Only the main article content should be indexed; the header, footer, navigation, and other layout chrome should be excluded
+- Search results should use the article title from the post H1 instead of the site title
+- Comment sections should be excluded from the index to reduce noise and index size
 - Results should open as a focused modal overlay, not as an inline dropdown that pushes the layout
 - Search should be keyboard accessible via Ctrl/Cmd + K
 - Search should be theme-aware and readable in both light and dark mode
 - Search should behave well on narrow viewport/mobile screens
+- Search should not run on tiny queries; the modal waits for a short debounce and ignores inputs shorter than 3 characters
 
 ### Non-functional requirements
 
@@ -64,6 +70,50 @@ Pagefind is installed as a dev dependency in the project.
 ```
 
 This is the key integration point: the production build is followed immediately by `npx pagefind --site dist`, so the generated static HTML is indexed before deployment.
+
+The actual project build also clears stale Pagefind output before rebuilding:
+
+```json
+"build": "node -e \"const fs = require('fs'); fs.rmSync('dist/pagefind', { recursive: true, force: true });\" && astro build && npx pagefind --site dist"
+```
+
+This avoids stale results from older builds and ensures the index matches the current HTML output.
+
+## Index scoping and result quality tuning
+
+The important fix for this project was to keep the Pagefind index narrow and to ensure the result metadata was derived from the article itself rather than the global site shell.
+
+The current implementation scopes the index to the page body container and excludes the header from indexing:
+
+```astro
+<header class="border-b-2 border-gray-200 bg-white" data-pagefind-ignore>
+  ...
+</header>
+
+<main class="flex-1" data-pagefind-body={pagefindMode === "body" ? "true" : undefined}>
+  <slot />
+</main>
+```
+
+On article pages, the H1 is tagged as the canonical Pagefind title:
+
+```astro
+<h1 class="text-4xl font-bold mb-4 text-gray-800" data-pagefind-meta="title">
+  {post.data.title}
+</h1>
+```
+
+This ensures Pagefind uses the article title for search results rather than the site header text like "Critical MAS".
+
+The project also excludes blog comment sections from the index to remove repeated noise and reduce search index size:
+
+```astro
+const htmlWithoutComments = html.includes("Comments")
+  ? html.replace(/(<h2[^>]*>\s*Comments\s*<\/h2>[\s\S]*$)/i, '<div data-pagefind-ignore>$1</div>')
+  : html;
+```
+
+In practice, this wraps the trailing comments block in `data-pagefind-ignore`, so the index does not include those long discussion threads.
 
 ## Important migration note
 
@@ -102,9 +152,11 @@ The site loads Pagefind’s Component UI assets globally in the document head.
 This is the exact pattern used here:
 
 ```astro
-<link rel="stylesheet" href="/pagefind/pagefind-component-ui.css" />
-<script src="/pagefind/pagefind-component-ui.js" type="module"></script>
+<link rel="stylesheet" href={`/pagefind/pagefind-component-ui.css?v=${pagefindCacheBuster}`} />
+<script src={`/pagefind/pagefind-component-ui.js?v=${pagefindCacheBuster}`} type="module"></script>
 ```
+
+The cache-busting query string is added so the browser does not reuse stale Pagefind assets from previous builds. This matters because the search index and the UI bundle both change as the site is rebuilt.
 
 This makes the Pagefind web components available throughout the site and is the correct migration away from the older Default UI path.
 
@@ -127,6 +179,30 @@ The preferred interaction pattern is the Pagefind Component UI modal, using:
 ```
 
 This is the actual pattern used in the project and is the recommended approach for new Pagefind integrations.
+
+The live implementation also customizes the input to increase the debounce and ignore short queries:
+
+```astro
+<pagefind-modal>
+  <pagefind-modal-header>
+    <pagefind-input debounce="400" placeholder="Search archive"></pagefind-input>
+  </pagefind-modal-header>
+  <pagefind-modal-body>
+    <pagefind-summary default-message="Type at least 3 characters"></pagefind-summary>
+    <pagefind-results></pagefind-results>
+  </pagefind-modal-body>
+</pagefind-modal>
+```
+
+And the script adds a guard so queries with fewer than 3 characters do not trigger a search:
+
+```js
+const term = (event.target.value || "").trim();
+if (term.length < 3) {
+	event.stopImmediatePropagation();
+	event.target.value = "";
+}
+```
 
 The modal opens above the page content, centered on the viewport, and does not participate in the document flow. This prevents layout shift and keeps the header/navigation stable.
 
@@ -151,6 +227,8 @@ This is the live structure used here:
 ```
 
 This keeps the search control visible in the main site navigation without pushing the layout or forcing an inline dropdown.
+
+The current implementation deliberately keeps the search trigger in the header, but the search itself is scoped to the page content and the input is tuned to avoid excessive firing while users are still typing.
 
 ## Styling approach
 
@@ -215,38 +293,38 @@ Example mobile layout CSS used here:
 
 ```css
 @media (max-width: 720px) {
-  nav {
-    flex-wrap: wrap;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-  }
+	nav {
+		flex-wrap: wrap;
+		padding-top: 0.5rem;
+		padding-bottom: 0.5rem;
+	}
 
-  h2 {
-    order: 1;
-    flex: 1;
-  }
+	h2 {
+		order: 1;
+		flex: 1;
+	}
 
-  .theme-toggle {
-    order: 2;
-    margin-left: auto;
-  }
+	.theme-toggle {
+		order: 2;
+		margin-left: auto;
+	}
 
-  .menu-toggle {
-    order: 3;
-    display: block;
-  }
+	.menu-toggle {
+		order: 3;
+		display: block;
+	}
 
-  .search-widget {
-    order: 4;
-    width: 100%;
-    margin: 0.7rem 0 0;
-  }
+	.search-widget {
+		order: 4;
+		width: 100%;
+		margin: 0.7rem 0 0;
+	}
 
-  .search-trigger {
-    width: 100%;
-    min-height: 44px;
-    padding: 0.75rem 1rem;
-  }
+	.search-trigger {
+		width: 100%;
+		min-height: 44px;
+		padding: 0.75rem 1rem;
+	}
 }
 ```
 
